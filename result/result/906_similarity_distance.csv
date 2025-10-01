@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+multiple newspaper corpora,predicting future events,0.311,1.1739
+future-reference sentences,predicting future events,0.844,0.5585
+future-reference sentences,multiple newspaper corpora,0.1358,1.3147
+disjointed elements,future-reference sentences,0.9418,0.3413
+disjointed elements,predicting future events,0.943,0.3377
+disjointed elements,multiple newspaper corpora,0.1876,1.2747
+future-reference sentences,morphosemantic structure,-0.4063,1.6771
+automatic extraction,future-reference sentences,0.9586,0.2876
+disjointed elements,morphosemantic structure,-0.1553,1.5201
+automatic extraction,disjointed elements,0.9557,0.2978
+automatic extraction,morphosemantic structure,-0.3609,1.6498
+classifier versions,disjointed elements,0.9145,0.4135
+classifier versions,morphosemantic structure,-0.2106,1.556
+automatic extraction,classifier versions,0.905,0.436
+disjointed elements,state-of-the-art,-0.5081,1.7367
+morphosemantic structure,state-of-the-art,0.6274,0.8632
+automatic extraction,state-of-the-art,-0.5955,1.7863
+classifier versions,state-of-the-art,-0.7207,1.8551
+classifier versions,future-reference sentences,0.9132,0.4166
+future-reference sentences,state-of-the-art,-0.6647,1.8247
+F-score,future-reference sentences,0.9462,0.3282
+F-score,classifier versions,0.9131,0.4169
+F-score,state-of-the-art,-0.6207,1.8004

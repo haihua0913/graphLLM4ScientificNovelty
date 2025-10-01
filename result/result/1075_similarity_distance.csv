@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+Bayesian uncertainty estimation,noisy samples,-0.3696,1.655
+Laplacian distributions,noisy samples,0.9684,0.2516
+noisy samples,observation noise,-0.1411,1.5107
+Bayesian uncertainty estimation,Laplacian distributions,-0.2764,1.5977
+Bayesian uncertainty estimation,observation noise,0.8804,0.4891
+Laplacian distributions,observation noise,-0.0381,1.4409
+adaptive attenuation,noisy samples,0.9667,0.258
+Bayesian uncertainty estimation,adaptive attenuation,-0.2426,1.5765
+Laplacian distributions,adaptive attenuation,0.9856,0.1699
+adaptive attenuation,observation noise,0.0058,1.4101
+Laplacian distributions,generalization,-0.0856,1.4735
+generalization,observation noise,0.9438,0.3352
+adaptive attenuation,generalization,-0.0142,1.4242
+adaptive attenuation,open-set segmentation,-0.0949,1.4798
+generalization,open-set segmentation,-0.199,1.5486

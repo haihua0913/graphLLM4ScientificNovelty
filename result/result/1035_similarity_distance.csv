@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+PixelGAN autoencoder,generative autoencoder,0.9296,0.3752
+PixelCNN,PixelGAN autoencoder,0.0753,1.3599
+PixelGAN autoencoder,latent code,0.1383,1.3128
+PixelGAN autoencoder,recognition path,0.293,1.1891
+PixelGAN autoencoder,prior distribution,0.9336,0.3645
+PixelCNN,generative autoencoder,0.0545,1.3751
+generative autoencoder,latent code,-0.0142,1.4242
+generative autoencoder,recognition path,0.1475,1.3058
+generative autoencoder,prior distribution,0.9389,0.3497
+PixelCNN,latent code,0.1418,1.3101
+PixelCNN,recognition path,0.3657,1.1263
+PixelCNN,prior distribution,-0.0446,1.4454
+latent code,recognition path,0.9446,0.3328
+latent code,prior distribution,-0.1115,1.4909
+prior distribution,recognition path,0.0032,1.4119
+Gaussian distribution,PixelGAN autoencoder,0.6372,0.8519
+PixelGAN autoencoder,categorical distribution,-0.2854,1.6034
+Gaussian distribution,generative autoencoder,0.5172,0.9827
+categorical distribution,generative autoencoder,-0.1733,1.5318
+Gaussian distribution,PixelCNN,0.4556,1.0435
+PixelCNN,categorical distribution,-0.2762,1.5976
+Gaussian distribution,latent code,0.3801,1.1135
+categorical distribution,latent code,-0.0948,1.4797
+Gaussian distribution,recognition path,0.5229,0.9769
+categorical distribution,recognition path,-0.1198,1.4965
+Gaussian distribution,prior distribution,0.5737,0.9234
+categorical distribution,prior distribution,-0.2115,1.5566
+Gaussian distribution,categorical distribution,-0.1282,1.5021
+PixelGAN autoencoder,semi-supervised classification,0.9399,0.3468
+latent code,semi-supervised classification,-0.1361,1.5074
+Gaussian distribution,semi-supervised classification,0.6135,0.8792
+categorical distribution,semi-supervised classification,-0.2342,1.5711

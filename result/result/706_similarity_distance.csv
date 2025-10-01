@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+Variable Metric Over-Relaxed Hybrid Proximal Extra-gradient,maximal monotone operator inclusion,-0.2866,1.6041
+Variable Metric Over-Relaxed Hybrid Proximal Extra-gradient,over-relaxed step-size,-0.1071,1.488
+maximal monotone operator inclusion,over-relaxed step-size,0.4165,1.0803
+Variable Metric Over-Relaxed Hybrid Proximal Extra-gradient,primal-dual operator splitting algorithms,0.0864,1.3518
+maximal monotone operator inclusion,primal-dual operator splitting algorithms,0.0591,1.3718
+over-relaxed step-size,primal-dual operator splitting algorithms,0.8196,0.6007
+linear equality constrained multi-block composite convex optimization,primal-dual operator splitting algorithms,-0.0394,1.4418
+Proximal Alternating Direction Method of Multipliers,primal-dual operator splitting algorithms,-0.2572,1.5857
+blockwise Barzilai-Borwein line search technique,primal-dual operator splitting algorithms,0.2792,1.2006
+Proximal Alternating Direction Method of Multipliers,linear equality constrained multi-block composite convex optimization,-0.2523,1.5826
+blockwise Barzilai-Borwein line search technique,linear equality constrained multi-block composite convex optimization,0.4818,1.018
+Proximal Alternating Direction Method of Multipliers,blockwise Barzilai-Borwein line search technique,0.323,1.1636
+KKT residual,linear equality constrained multi-block composite convex optimization,-0.0108,1.4218
+KKT residual,Proximal Alternating Direction Method of Multipliers,0.9351,0.3603
+KKT residual,blockwise Barzilai-Borwein line search technique,0.3753,1.1178
+linear equality constrained multi-block composite convex optimization,nonnegative dual graph regularized low-rank representation,0.5869,0.9089
+Proximal Alternating Direction Method of Multipliers,nonnegative dual graph regularized low-rank representation,-0.0676,1.4613
+blockwise Barzilai-Borwein line search technique,nonnegative dual graph regularized low-rank representation,0.6517,0.8347
+KKT residual,nonnegative dual graph regularized low-rank representation,0.0047,1.4109

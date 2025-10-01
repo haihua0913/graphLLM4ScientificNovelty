@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+Bayesian framework,partially occluded object recognition,0.0928,1.347
+Bayesian framework,one-to-one correspondence,-0.0245,1.4314
+Bayesian framework,spatially correlated occlusion,0.0329,1.3908
+one-to-one correspondence,partially occluded object recognition,-0.0584,1.4549
+partially occluded object recognition,spatially correlated occlusion,0.8827,0.4843
+one-to-one correspondence,spatially correlated occlusion,0.1824,1.2787
+Bayesian framework,generalized likelihood,-0.0319,1.4366
+Bayesian framework,fast algorithms,-0.2321,1.5698
+generalized likelihood,partially occluded object recognition,0.8844,0.4808
+fast algorithms,partially occluded object recognition,-0.2135,1.5579
+generalized likelihood,one-to-one correspondence,-0.0049,1.4177
+fast algorithms,one-to-one correspondence,-0.4069,1.6774
+generalized likelihood,spatially correlated occlusion,0.9269,0.3823
+fast algorithms,spatially correlated occlusion,-0.3168,1.6229
+fast algorithms,generalized likelihood,-0.295,1.6093
+one-to-one correspondence,synthetic aperture radar imagery,-0.0968,1.4811
+spatially correlated occlusion,synthetic aperture radar imagery,0.9513,0.312
+generalized likelihood,synthetic aperture radar imagery,0.9408,0.3442
+fast algorithms,synthetic aperture radar imagery,-0.2233,1.5642

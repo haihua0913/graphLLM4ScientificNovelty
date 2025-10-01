@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+causal mechanisms,robustness set,-0.3176,1.6233
+causal mechanisms,worst-case loss,-0.1159,1.4939
+robustness set,worst-case loss,-0.1721,1.5311
+causal mechanisms,parametric shift,0.4256,1.0718
+causal mechanisms,reweighting techniques,0.558,0.9402
+parametric shift,robustness set,-0.1969,1.5472
+reweighting techniques,robustness set,-0.2177,1.5606
+parametric shift,worst-case loss,-0.2929,1.608
+reweighting techniques,worst-case loss,-0.4006,1.6737
+parametric shift,reweighting techniques,0.9233,0.3916
+causal mechanisms,quadratic optimization,0.9697,0.2461
+causal mechanisms,second-order approximation,0.9539,0.3035
+quadratic optimization,robustness set,-0.399,1.6727
+robustness set,second-order approximation,-0.3297,1.6308
+quadratic optimization,worst-case loss,-0.1227,1.4985
+second-order approximation,worst-case loss,-0.1383,1.5088
+parametric shift,quadratic optimization,0.4184,1.0785
+parametric shift,second-order approximation,0.2174,1.2511
+quadratic optimization,reweighting techniques,0.5838,0.9123
+reweighting techniques,second-order approximation,0.3958,1.0992
+quadratic optimization,second-order approximation,0.9635,0.2702

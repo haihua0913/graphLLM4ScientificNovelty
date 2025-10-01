@@ -1,0 +1,35 @@
+node1,node2,similarity,distance
+dependencies in data,multivariate sequential learning,0.1689,1.2893
+multivariate sequential learning,serial dependencies,0.9882,0.1536
+cross-sectional dependencies,multivariate sequential learning,0.9611,0.2787
+dependencies in data,serial dependencies,0.2067,1.2596
+cross-sectional dependencies,dependencies in data,0.2003,1.2647
+cross-sectional dependencies,serial dependencies,0.9646,0.266
+Memory-Gated Recurrent Networks,multivariate sequential learning,0.4717,1.0279
+marginal memory,multivariate sequential learning,0.1869,1.2752
+joint memory,multivariate sequential learning,0.7019,0.7722
+multivariate sequential learning,recurrent network architecture,0.1075,1.3361
+Memory-Gated Recurrent Networks,dependencies in data,0.0914,1.348
+dependencies in data,marginal memory,-0.182,1.5375
+dependencies in data,joint memory,0.338,1.1507
+dependencies in data,recurrent network architecture,-0.1779,1.5349
+Memory-Gated Recurrent Networks,serial dependencies,0.402,1.0936
+marginal memory,serial dependencies,0.1035,1.3391
+joint memory,serial dependencies,0.6236,0.8677
+recurrent network architecture,serial dependencies,0.0171,1.402
+Memory-Gated Recurrent Networks,cross-sectional dependencies,0.3708,1.1218
+cross-sectional dependencies,marginal memory,0.0506,1.378
+cross-sectional dependencies,joint memory,0.6321,0.8577
+cross-sectional dependencies,recurrent network architecture,0.1601,1.2961
+Memory-Gated Recurrent Networks,marginal memory,0.9197,0.4006
+Memory-Gated Recurrent Networks,joint memory,0.7759,0.6694
+Memory-Gated Recurrent Networks,recurrent network architecture,0.2403,1.2327
+joint memory,marginal memory,0.5423,0.9568
+marginal memory,recurrent network architecture,0.1709,1.2877
+joint memory,recurrent network architecture,0.4681,1.0314
+multivariate time series,serial dependencies,0.9154,0.4114
+cross-sectional dependencies,multivariate time series,0.9642,0.2676
+Memory-Gated Recurrent Networks,multivariate time series,0.5385,0.9607
+marginal memory,multivariate time series,0.2542,1.2213
+joint memory,multivariate time series,0.7062,0.7665
+multivariate time series,recurrent network architecture,0.3061,1.178

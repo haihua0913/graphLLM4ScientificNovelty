@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+Neuro-Symbolic Learning,sub-symbolic perception,0.0747,1.3603
+Neuro-Symbolic Learning,symbolic reasoning,-0.0304,1.4356
+sub-symbolic perception,symbolic reasoning,-0.1604,1.5234
+Neuro-Symbolic Learning,computational complexity,0.0945,1.3458
+Neuro-Symbolic Learning,direct supervision,-0.2712,1.5945
+computational complexity,sub-symbolic perception,0.0177,1.4017
+direct supervision,sub-symbolic perception,-0.2001,1.5493
+computational complexity,symbolic reasoning,-0.2647,1.5904
+direct supervision,symbolic reasoning,0.0966,1.3441
+computational complexity,direct supervision,0.2023,1.2631
+Abductive Meta-Interpretive Learning,computational complexity,0.3354,1.1529
+computational complexity,neural networks,0.2761,1.2032
+computational complexity,logic theories,0.1399,1.3115
+Abductive Meta-Interpretive Learning,direct supervision,-0.3112,1.6194
+direct supervision,neural networks,0.2272,1.2432
+direct supervision,logic theories,-0.3767,1.6594
+Abductive Meta-Interpretive Learning,neural networks,-0.3303,1.6312
+Abductive Meta-Interpretive Learning,logic theories,0.743,0.7169
+logic theories,neural networks,-0.4551,1.7059
+Abductive Meta-Interpretive Learning,predicate invention,0.6537,0.8323
+neural networks,predicate invention,-0.2717,1.5948
+logic theories,predicate invention,0.9565,0.2949

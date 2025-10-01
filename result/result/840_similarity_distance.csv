@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+Simultaneous Localization and Mapping,mobile robotics,0.0148,1.4037
+Simultaneous Localization and Mapping,unknown environment,-0.0516,1.4503
+Kalman filters,Simultaneous Localization and Mapping,-0.1441,1.5127
+Simultaneous Localization and Mapping,belief state,-0.035,1.4387
+mobile robotics,unknown environment,0.7463,0.7124
+Kalman filters,mobile robotics,-0.2214,1.563
+belief state,mobile robotics,-0.5662,1.7698
+Kalman filters,unknown environment,-0.1813,1.5371
+belief state,unknown environment,-0.2892,1.6058
+Kalman filters,belief state,-0.0932,1.4786
+Simultaneous Localization and Mapping,linear-space filter,-0.2378,1.5734
+Simultaneous Localization and Mapping,junction tree,-0.1866,1.5406
+linear-space filter,mobile robotics,-0.5509,1.7612
+junction tree,mobile robotics,0.3017,1.1817
+linear-space filter,unknown environment,-0.0221,1.4298
+junction tree,unknown environment,-0.1853,1.5397
+Kalman filters,linear-space filter,0.177,1.283
+Kalman filters,junction tree,-0.3383,1.636
+belief state,linear-space filter,0.0594,1.3716
+belief state,junction tree,-0.2273,1.5667
+junction tree,linear-space filter,-0.6253,1.803
+Kalman filters,measurement and motion updates,0.1223,1.3249
+belief state,measurement and motion updates,-0.0969,1.4811
+linear-space filter,measurement and motion updates,-0.1885,1.5418
+junction tree,measurement and motion updates,-0.1126,1.4917
+belief state,time complexity,-0.6783,1.8321
+linear-space filter,time complexity,-0.3924,1.6688
+junction tree,time complexity,0.0952,1.3452
+measurement and motion updates,time complexity,0.2941,1.1882
+constant-time approximate filtering,junction tree,-0.1896,1.5424
+constant-time approximate filtering,measurement and motion updates,0.0254,1.3961
+constant-time approximate filtering,time complexity,-0.5381,1.7539

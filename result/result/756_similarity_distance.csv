@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+Hierarchical Transitive-Aligned kernel,prototype graphs,-0.0296,1.435
+Hierarchical Transitive-Aligned kernel,locational correspondence,0.0421,1.3841
+Hierarchical Transitive-Aligned kernel,R-convolution kernels,-0.2364,1.5725
+locational correspondence,prototype graphs,0.9402,0.3457
+R-convolution kernels,prototype graphs,0.1199,1.3268
+R-convolution kernels,locational correspondence,0.2002,1.2647
+locational correspondence,transitivity,0.1802,1.2805
+locational correspondence,matching kernels,0.0661,1.3667
+R-convolution kernels,transitivity,-0.0084,1.4201
+R-convolution kernels,matching kernels,0.1527,1.3018
+matching kernels,transitivity,-0.2315,1.5694
+C-SVM classifier,transitivity,-0.1647,1.5263
+C-SVM classifier,matching kernels,0.9198,0.4005
+C-SVM classifier,graph-based datasets,-0.1249,1.5
+C-SVM classifier,classification accuracy,-0.064,1.4588
+classification accuracy,graph-based datasets,-0.0569,1.4539

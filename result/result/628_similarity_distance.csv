@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Averaged Perceptron,Hidden Markov Model,0.7991,0.6339
+Hidden Markov Model,Structured SVMs,0.8878,0.4737
+Hidden Markov Model,Max Margin Markov Networks,0.8866,0.4762
+Hidden Markov Model,SEARN,-0.3646,1.652
+Hidden Markov Model,SVMstruct,-0.1075,1.4883
+Averaged Perceptron,Structured SVMs,0.9614,0.2778
+Averaged Perceptron,Max Margin Markov Networks,0.9286,0.3779
+Averaged Perceptron,SEARN,-0.0245,1.4315
+Averaged Perceptron,SVMstruct,-0.1576,1.5216
+Max Margin Markov Networks,Structured SVMs,0.9471,0.3254
+SEARN,Structured SVMs,-0.1586,1.5222
+SVMstruct,Structured SVMs,0.0061,1.4099
+Max Margin Markov Networks,SEARN,-0.2199,1.562
+Max Margin Markov Networks,SVMstruct,-0.2565,1.5853
+SEARN,SVMstruct,-0.1932,1.5448
+Hidden Markov Model,Structured Learning Ensemble,0.7878,0.6514
+Averaged Perceptron,Structured Learning Ensemble,0.9838,0.1802
+Structured Learning Ensemble,Structured SVMs,0.929,0.3768
+Max Margin Markov Networks,Structured Learning Ensemble,0.9315,0.37
+SEARN,Structured Learning Ensemble,0.0271,1.3949
+SVMstruct,Structured Learning Ensemble,-0.2809,1.6006

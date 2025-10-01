@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+first-order formulas,ground implicates,0.3949,1.1001
+equality,ground implicates,0.582,0.9144
+ground implicates,proof search,0.6166,0.8757
+ground implicates,hypotheses,0.5728,0.9244
+equality,first-order formulas,0.6746,0.8067
+first-order formulas,proof search,0.1539,1.3009
+first-order formulas,hypotheses,0.0426,1.3838
+equality,proof search,0.7744,0.6718
+equality,hypotheses,0.6809,0.7989
+hypotheses,proof search,0.9784,0.2079
+efficient,ground implicates,0.5428,0.9563
+ground implicates,state-of-the-art systems,0.6916,0.7854
+efficient,first-order formulas,-0.0438,1.4449
+first-order formulas,state-of-the-art systems,0.1206,1.3262
+efficient,equality,0.6381,0.8508
+equality,state-of-the-art systems,0.6974,0.7779
+efficient,proof search,0.9717,0.2378
+proof search,state-of-the-art systems,0.8935,0.4615
+efficient,hypotheses,0.991,0.1338
+hypotheses,state-of-the-art systems,0.9241,0.3897
+efficient,state-of-the-art systems,0.9021,0.4425

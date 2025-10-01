@@ -1,0 +1,14 @@
+node1,node2,similarity,distance
+beneficial data,out-of-domain data,-0.0711,1.4636
+beneficial data,domain adaptation,-0.0039,1.4169
+domain adaptation,target domain,0.9853,0.1713
+target domain,unsupervised technique,-0.2343,1.5712
+target domain,topic models,0.8995,0.4484
+English,target domain,-0.0545,1.4522
+Dutch,target domain,-0.1058,1.4872
+topic models,unsupervised technique,-0.1527,1.5184
+English,unsupervised technique,-0.2719,1.5949
+Dutch,unsupervised technique,-0.053,1.4512
+English,topic models,-0.2401,1.5749
+Dutch,topic models,-0.1835,1.5385
+Dutch,English,0.9149,0.4126

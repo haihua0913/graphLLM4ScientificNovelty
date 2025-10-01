@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+countermeasures,security,0.43,1.0677
+adaptive adversaries,security,0.0016,1.4131
+security,transferred examples,-0.0318,1.4365
+adaptive adversaries,countermeasures,0.8613,0.5266
+countermeasures,transferred examples,-0.0199,1.4282
+adaptive adversaries,transferred examples,-0.2011,1.5499
+model-agnostic approach,security,-0.1544,1.5195
+random perturbations,security,0.1523,1.3021
+norm-bounded adversarial distortions,security,-0.4081,1.6781
+countermeasures,model-agnostic approach,-0.2505,1.5815
+countermeasures,random perturbations,0.8579,0.533
+countermeasures,norm-bounded adversarial distortions,-0.1824,1.5378
+adaptive adversaries,model-agnostic approach,-0.0571,1.454
+adaptive adversaries,random perturbations,0.9093,0.4259
+adaptive adversaries,norm-bounded adversarial distortions,0.0674,1.3657
+model-agnostic approach,transferred examples,-0.0131,1.4235
+random perturbations,transferred examples,-0.1801,1.5363
+norm-bounded adversarial distortions,transferred examples,0.0674,1.3657
+model-agnostic approach,random perturbations,-0.1569,1.5211
+model-agnostic approach,norm-bounded adversarial distortions,0.9045,0.437
+norm-bounded adversarial distortions,random perturbations,-0.0301,1.4353
+black-box attacks,model-agnostic approach,0.9509,0.3134
+black-box attacks,random perturbations,-0.319,1.6242
+black-box attacks,norm-bounded adversarial distortions,0.8294,0.5841

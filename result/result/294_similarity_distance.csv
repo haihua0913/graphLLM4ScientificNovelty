@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+data sparsity,distributional semantics,0.9705,0.2427
+distributional semantics,semantic composition,0.8908,0.4673
+distributional semantics,semantically cohesive,0.7897,0.6486
+distributional semantics,lineal constituents,-0.0499,1.4491
+data sparsity,semantic composition,0.8956,0.457
+data sparsity,semantically cohesive,0.8907,0.4676
+data sparsity,lineal constituents,0.034,1.3899
+semantic composition,semantically cohesive,0.8273,0.5878
+lineal constituents,semantic composition,-0.1897,1.5425
+lineal constituents,semantically cohesive,0.1776,1.2825
+distributional semantics,segmentation model,0.814,0.61
+distributional contexts,distributional semantics,0.9542,0.3027
+data sparsity,segmentation model,0.8586,0.5318
+data sparsity,distributional contexts,0.9457,0.3296
+segmentation model,semantically cohesive,0.8081,0.6195
+distributional contexts,semantically cohesive,0.8369,0.5712
+lineal constituents,segmentation model,-0.0424,1.4439
+distributional contexts,lineal constituents,-0.1291,1.5027
+distributional contexts,segmentation model,0.8971,0.4537
+Hellinger PCA embeddings,data sparsity,-0.3277,1.6295
+data sparsity,empirical tasks,0.9798,0.2008
+Hellinger PCA embeddings,lineal constituents,-0.2292,1.5679
+empirical tasks,lineal constituents,0.0252,1.3963
+Hellinger PCA embeddings,segmentation model,-0.1337,1.5058
+empirical tasks,segmentation model,0.9244,0.3889
+Hellinger PCA embeddings,distributional contexts,-0.027,1.4332
+distributional contexts,empirical tasks,0.9457,0.3294
+Hellinger PCA embeddings,empirical tasks,-0.2917,1.6073

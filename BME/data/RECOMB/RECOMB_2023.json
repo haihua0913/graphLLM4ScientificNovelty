@@ -1,0 +1,104 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/recomb/recomb2023.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"80.54"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"12",
+"@dc":"12",
+"@oc":"12",
+"@id":"48917547",
+"text":":facetid:toc:db/conf/recomb/recomb2023.bht"
+}
+},
+"hits":{
+"@total":"12",
+"@computed":"12",
+"@sent":"12",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1180528",
+"info":{"authors":{"author":[{"@pid":"345/7968","text":"Ghanshyam Chandra"},{"@pid":"25/5723","text":"Chirag Jain"}]},"title":"Sequence to Graph Alignment Using Gap-Sensitive Co-linear Chaining.","venue":"RECOMB","pages":"58-73","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ChandraJ23","doi":"10.1007/978-3-031-29119-7_4","ee":"https://doi.org/10.1007/978-3-031-29119-7_4","url":"https://dblp.org/rec/conf/recomb/ChandraJ23"},
+"url":"URL#1180528"
+},
+{
+"@score":"1",
+"@id":"1180529",
+"info":{"authors":{"author":[{"@pid":"76/9998","text":"Ziqi Chen"},{"@pid":"29/7048","text":"Martin Renqiang Min"},{"@pid":"08/3722","text":"Hongyu Guo"},{"@pid":"12/1338","text":"Chao Cheng"},{"@pid":"30/11009","text":"Trevor Clancy"},{"@pid":"28/1717","text":"Xia Ning"}]},"title":"T-Cell Receptor Optimization with Reinforcement Learning and Mutation Polices for Precision Immunotherapy.","venue":"RECOMB","pages":"174-191","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ChenMGCCN23","doi":"10.1007/978-3-031-29119-7_11","ee":"https://doi.org/10.1007/978-3-031-29119-7_11","url":"https://dblp.org/rec/conf/recomb/ChenMGCCN23"},
+"url":"URL#1180529"
+},
+{
+"@score":"1",
+"@id":"1180530",
+"info":{"authors":{"author":[{"@pid":"345/8032","text":"Bing-Xue Du"},{"@pid":"14/5580","text":"Yi Xu"},{"@pid":"y/SiuMingYiu","text":"Siu-Ming Yiu"},{"@pid":"26/6190-11","text":"Hui Yu 0011"},{"@pid":"05/2421","text":"Jian-Yu Shi"}]},"title":"MTGL-ADMET: A Novel Multi-task Graph Learning Framework for ADMET Prediction Enhanced by Status-Theory and Maximum Flow.","venue":"RECOMB","pages":"85-103","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/DuXYYS23","doi":"10.1007/978-3-031-29119-7_6","ee":"https://doi.org/10.1007/978-3-031-29119-7_6","url":"https://dblp.org/rec/conf/recomb/DuXYYS23"},
+"url":"URL#1180530"
+},
+{
+"@score":"1",
+"@id":"1180531",
+"info":{"authors":{"author":[{"@pid":"225/8953","text":"Jason Fan"},{"@pid":"309/0843","text":"Jamshed Khan"},{"@pid":"204/0111","text":"Giulio Ermanno Pibiri"},{"@pid":"66/8401","text":"Rob Patro"}]},"title":"Spectrum Preserving Tilings Enable Sparse and Modular Reference Indexing.","venue":"RECOMB","pages":"21-40","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/FanKPP23","doi":"10.1007/978-3-031-29119-7_2","ee":"https://doi.org/10.1007/978-3-031-29119-7_2","url":"https://dblp.org/rec/conf/recomb/FanKPP23"},
+"url":"URL#1180531"
+},
+{
+"@score":"1",
+"@id":"1180532",
+"info":{"authors":{"author":[{"@pid":"277/1067","text":"Spencer Krieger"},{"@pid":"k/JDKececioglu","text":"John D. Kececioglu"}]},"title":"Computing Shortest Hyperpaths for Pathway Inference in Cellular Reaction Networks.","venue":"RECOMB","pages":"155-173","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KriegerK23","doi":"10.1007/978-3-031-29119-7_10","ee":"https://doi.org/10.1007/978-3-031-29119-7_10","url":"https://dblp.org/rec/conf/recomb/KriegerK23"},
+"url":"URL#1180532"
+},
+{
+"@score":"1",
+"@id":"1180533",
+"info":{"authors":{"author":[{"@pid":"345/7563","text":"Runpeng Luo"},{"@pid":"74/2577-1","text":"Yu Lin 0001"}]},"title":"VStrains: De Novo Reconstruction of Viral Strains via Iterative Path Extraction from Assembly Graphs.","venue":"RECOMB","pages":"3-20","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/LuoL23","doi":"10.1007/978-3-031-29119-7_1","ee":"https://doi.org/10.1007/978-3-031-29119-7_1","url":"https://dblp.org/rec/conf/recomb/LuoL23"},
+"url":"URL#1180533"
+},
+{
+"@score":"1",
+"@id":"1180534",
+"info":{"authors":{"author":[{"@pid":"345/8134","text":"Shikha Mallick"},{"@pid":"90/2736","text":"Sahely Bhadra"}]},"title":"CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks.","venue":"RECOMB","pages":"104-119","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/MallickB23","doi":"10.1007/978-3-031-29119-7_7","ee":"https://doi.org/10.1007/978-3-031-29119-7_7","url":"https://dblp.org/rec/conf/recomb/MallickB23"},
+"url":"URL#1180534"
+},
+{
+"@score":"1",
+"@id":"1180535",
+"info":{"authors":{"author":[{"@pid":"244/8761","text":"Soufiane Mourragui"},{"@pid":"85/4677","text":"Marco Loog"},{"@pid":"319/6489","text":"Mirrelijn M. van Nee"},{"@pid":"17/6124","text":"Mark A. van de Wiel"},{"@pid":"66/1184","text":"Marcel J. T. Reinders"},{"@pid":"15/5717","text":"Lodewyk F. A. Wessels"}]},"title":"Percolate: An Exponential Family JIVE Model to Design DNA-Based Predictors of Drug Response.","venue":"RECOMB","pages":"120-138","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/MourraguiLNWRW23","doi":"10.1007/978-3-031-29119-7_8","ee":"https://doi.org/10.1007/978-3-031-29119-7_8","url":"https://dblp.org/rec/conf/recomb/MourraguiLNWRW23"},
+"url":"URL#1180535"
+},
+{
+"@score":"1",
+"@id":"1180536",
+"info":{"authors":{"author":[{"@pid":"319/2344","text":"Yasamin Tabatabaee"},{"@pid":"42/5427","text":"Sébastien Roch"},{"@pid":"w/TandyWarnow","text":"Tandy J. Warnow"}]},"title":"Statistically Consistent Rooting of Species Trees Under the Multispecies Coalescent Model.","venue":"RECOMB","pages":"41-57","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/TabatabaeeRW23","doi":"10.1007/978-3-031-29119-7_3","ee":"https://doi.org/10.1007/978-3-031-29119-7_3","url":"https://dblp.org/rec/conf/recomb/TabatabaeeRW23"},
+"url":"URL#1180536"
+},
+{
+"@score":"1",
+"@id":"1180537",
+"info":{"authors":{"author":[{"@pid":"91/10340","text":"Weizhong Zheng"},{"@pid":"345/8225","text":"John H. C. Fong"},{"@pid":"345/8202","text":"Yuk Kei Wan"},{"@pid":"345/8076","text":"Athena H. Y. Chu"},{"@pid":"186/9317","text":"Yuanhua Huang"},{"@pid":"345/8069","text":"Alan S. L. Wong"},{"@pid":"78/5950","text":"Joshua W. K. Ho"}]},"title":"Translation Rate Prediction and Regulatory Motif Discovery with Multi-task Learning.","venue":"RECOMB","pages":"139-154","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ZhengFWCHWH23","doi":"10.1007/978-3-031-29119-7_9","ee":"https://doi.org/10.1007/978-3-031-29119-7_9","url":"https://dblp.org/rec/conf/recomb/ZhengFWCHWH23"},
+"url":"URL#1180537"
+},
+{
+"@score":"1",
+"@id":"1180538",
+"info":{"authors":{"author":[{"@pid":"254/5973","text":"Xiaogen Zhou"},{"@pid":"14/5778","text":"Zhiqiang Li"},{"@pid":"74/10649-1","text":"Tong Tong 0001"}]},"title":"DM-Net: A Dual-Model Network for Automated Biomedical Image Diagnosis.","venue":"RECOMB","pages":"74-84","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ZhouLT23","doi":"10.1007/978-3-031-29119-7_5","ee":"https://doi.org/10.1007/978-3-031-29119-7_5","url":"https://dblp.org/rec/conf/recomb/ZhouLT23"},
+"url":"URL#1180538"
+},
+{
+"@score":"1",
+"@id":"1212617",
+"info":{"authors":{"author":{"@pid":"90/3951","text":"Haixu Tang"}},"title":"Research in Computational Molecular Biology - 27th Annual International Conference, RECOMB 2023, Istanbul, Turkey, April 16-19, 2023, Proceedings","venue":["RECOMB","Lecture Notes in Computer Science"],"volume":"13976","publisher":"Springer","year":"2023","type":"Editorship","access":"open","key":"conf/recomb/2023","doi":"10.1007/978-3-031-29119-7","ee":"https://doi.org/10.1007/978-3-031-29119-7","url":"https://dblp.org/rec/conf/recomb/2023"},
+"url":"URL#1212617"
+}
+]
+}
+}
+}

@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+internal camera parameters,self-calibration,-0.1831,1.5382
+constraints,self-calibration,-0.0077,1.4196
+constraints,internal camera parameters,0.9256,0.3859
+metric reconstruction,self-calibration,-0.3229,1.6266
+image sequences,self-calibration,-0.1703,1.5299
+self-calibration,uncalibrated zooming/focusing cameras,-0.1831,1.5383
+internal camera parameters,metric reconstruction,0.3811,1.1125
+image sequences,internal camera parameters,0.9074,0.4303
+internal camera parameters,uncalibrated zooming/focusing cameras,0.9665,0.2587
+constraints,metric reconstruction,0.2948,1.1876
+constraints,image sequences,0.9006,0.4458
+constraints,uncalibrated zooming/focusing cameras,0.8485,0.5504
+image sequences,metric reconstruction,0.3436,1.1458
+metric reconstruction,uncalibrated zooming/focusing cameras,0.2563,1.2196
+image sequences,uncalibrated zooming/focusing cameras,0.867,0.5158
+real and synthetic examples,self-calibration,0.1343,1.3158
+internal camera parameters,real and synthetic examples,0.2641,1.2132
+constraints,real and synthetic examples,0.3913,1.1034
+metric reconstruction,real and synthetic examples,-0.056,1.4533
+image sequences,real and synthetic examples,0.0974,1.3436
+real and synthetic examples,uncalibrated zooming/focusing cameras,0.2008,1.2643

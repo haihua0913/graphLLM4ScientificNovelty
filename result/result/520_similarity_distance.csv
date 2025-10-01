@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+3D shape,multiple photographs,0.2406,1.2324
+3D shape,viewpoints,-0.0053,1.418
+3D shape,photo hull,0.2683,1.2097
+multiple photographs,viewpoints,-0.1373,1.5081
+multiple photographs,photo hull,0.9307,0.3723
+photo hull,viewpoints,0.1324,1.3172
+3D shape,Space Carving,0.313,1.1721
+3D shape,provably-correct algorithm,0.1795,1.281
+Space Carving,multiple photographs,0.8745,0.501
+multiple photographs,provably-correct algorithm,0.4629,1.0364
+Space Carving,viewpoints,-0.0548,1.4524
+provably-correct algorithm,viewpoints,-0.2184,1.561
+Space Carving,photo hull,0.8431,0.5602
+photo hull,provably-correct algorithm,0.4348,1.0632
+Space Carving,provably-correct algorithm,0.5923,0.903
+occlusion,viewpoints,0.8061,0.6227
+parallax,viewpoints,-0.1415,1.511
+occlusion,photo hull,0.6277,0.8629
+parallax,photo hull,0.122,1.3251
+Space Carving,occlusion,0.3995,1.0959
+Space Carving,parallax,-0.291,1.6069
+occlusion,provably-correct algorithm,0.09,1.3491
+parallax,provably-correct algorithm,-0.1388,1.5092
+occlusion,parallax,0.0322,1.3913

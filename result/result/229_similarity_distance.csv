@@ -1,0 +1,34 @@
+node1,node2,similarity,distance
+target word,unsupervised word sense learning,0.2648,1.2126
+clusters,unsupervised word sense learning,-0.283,1.6019
+feature selection,unsupervised word sense learning,-0.3037,1.6148
+cluster validation criterion,unsupervised word sense learning,-0.0771,1.4677
+clusters,target word,0.0392,1.3862
+feature selection,target word,-0.0277,1.4337
+cluster validation criterion,target word,-0.417,1.6834
+clusters,feature selection,0.185,1.2767
+cluster validation criterion,clusters,-0.1968,1.5472
+cluster validation criterion,feature selection,0.7665,0.6833
+Gaussian mixture model,unsupervised word sense learning,0.1689,1.2893
+Minimum Description Length criterion,unsupervised word sense learning,0.2855,1.1954
+estimate cluster structure,unsupervised word sense learning,0.007,1.4093
+Gaussian mixture model,target word,-0.1548,1.5197
+Minimum Description Length criterion,target word,-0.1443,1.5128
+estimate cluster structure,target word,0.3677,1.1246
+Gaussian mixture model,clusters,-0.1423,1.5115
+Minimum Description Length criterion,clusters,-0.318,1.6236
+clusters,estimate cluster structure,0.0059,1.4101
+Gaussian mixture model,feature selection,-0.1176,1.4951
+Minimum Description Length criterion,feature selection,0.5568,0.9415
+estimate cluster structure,feature selection,-0.1099,1.4899
+Gaussian mixture model,cluster validation criterion,0.0596,1.3714
+Minimum Description Length criterion,cluster validation criterion,0.8235,0.5942
+cluster validation criterion,estimate cluster structure,-0.0977,1.4817
+Gaussian mixture model,Minimum Description Length criterion,0.1494,1.3043
+Gaussian mixture model,estimate cluster structure,-0.2302,1.5685
+Minimum Description Length criterion,estimate cluster structure,0.3012,1.1822
+better performance,feature selection,-0.0615,1.457
+better performance,cluster validation criterion,0.1195,1.3271
+Gaussian mixture model,better performance,-0.0873,1.4747
+Minimum Description Length criterion,better performance,0.3099,1.1748
+better performance,estimate cluster structure,0.859,0.5311

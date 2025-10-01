@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+adaptive test of goodness-of-fit,computational cost linear,0.0973,1.3436
+Stein's method,adaptive test of goodness-of-fit,-0.2999,1.6124
+adaptive test of goodness-of-fit,normalising constant,0.3977,1.0975
+Stein's method,computational cost linear,-0.2301,1.5685
+computational cost linear,normalising constant,-0.0477,1.4475
+Stein's method,normalising constant,-0.0841,1.4725
+Bahadur efficiency,Stein's method,-0.3294,1.6306
+Stein's method,mean-shift alternative,-0.179,1.5356
+Stein's method,linear-time kernel test,-0.0429,1.4442
+Bahadur efficiency,normalising constant,0.9196,0.4009
+mean-shift alternative,normalising constant,0.3971,1.0981
+linear-time kernel test,normalising constant,-0.1383,1.5088
+Bahadur efficiency,mean-shift alternative,0.309,1.1756
+Bahadur efficiency,linear-time kernel test,-0.2839,1.6024
+linear-time kernel test,mean-shift alternative,-0.4479,1.7017
+Stein's method,quadratic-time kernel test,-0.1061,1.4873
+normalising constant,quadratic-time kernel test,-0.0703,1.4631
+Bahadur efficiency,quadratic-time kernel test,-0.1886,1.5418
+mean-shift alternative,quadratic-time kernel test,-0.3849,1.6643
+linear-time kernel test,quadratic-time kernel test,0.9664,0.2593
+Bahadur efficiency,Maximum Mean Discrepancy,-0.0412,1.443
+Bahadur efficiency,high dimensions,0.8708,0.5082
+Maximum Mean Discrepancy,mean-shift alternative,0.1094,1.3346
+high dimensions,mean-shift alternative,0.5898,0.9057
+Maximum Mean Discrepancy,linear-time kernel test,0.0227,1.398
+high dimensions,linear-time kernel test,-0.3372,1.6353
+Maximum Mean Discrepancy,quadratic-time kernel test,-0.1841,1.5389
+high dimensions,quadratic-time kernel test,-0.2492,1.5806
+Maximum Mean Discrepancy,high dimensions,-0.0401,1.4423

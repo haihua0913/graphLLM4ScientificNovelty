@@ -1,0 +1,12 @@
+node1,node2,similarity,distance
+atmospheric scattering,real-world images,-0.0912,1.4773
+physical formation model,real-world images,-0.2346,1.5714
+polarization-based dehazing,real-world images,-0.0801,1.4697
+neural network,real-world images,-0.1339,1.5059
+physical formation model,polarization-based dehazing,-0.3352,1.6342
+neural network,physical formation model,0.9665,0.2589
+neural network,polarization-based dehazing,-0.2913,1.607
+real-world images,state-of-the-art performance,-0.3191,1.6242
+physical formation model,state-of-the-art performance,-0.1863,1.5403
+polarization-based dehazing,state-of-the-art performance,-0.0428,1.4442
+neural network,state-of-the-art performance,-0.1808,1.5368

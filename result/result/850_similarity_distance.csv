@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+base classifier,ensemble classification,0.2397,1.2331
+ensemble classification,test labels,0.8781,0.4939
+ensemble classification,propagating beliefs,-0.488,1.7251
+base classifier,test labels,0.4688,1.0307
+base classifier,propagating beliefs,-0.0508,1.4497
+propagating beliefs,test labels,-0.404,1.6757
+iid data,test labels,-0.3198,1.6247
+classification accuracy,test labels,0.2109,1.2563
+iid data,propagating beliefs,-0.5512,1.7614
+classification accuracy,propagating beliefs,0.074,1.3609
+classification accuracy,iid data,-0.4013,1.6741
+boosting,iid data,-0.2025,1.5508
+iid data,representational capacity,0.0221,1.3985
+classifier combination,iid data,-0.3592,1.6488
+boosting,classification accuracy,0.1054,1.3376
+classification accuracy,representational capacity,0.1204,1.3263
+classification accuracy,classifier combination,0.4725,1.0271
+boosting,representational capacity,0.8738,0.5025
+boosting,classifier combination,0.1502,1.3037
+classifier combination,representational capacity,-0.1466,1.5143

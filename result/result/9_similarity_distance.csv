@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+nuclei,satellites,0.4643,1.035
+discourse relations,nuclei,0.0087,1.408
+compositionality criterion,nuclei,0.5251,0.9746
+discourse trees,nuclei,0.2673,1.2105
+first-order formalization,nuclei,0.2509,1.224
+algorithm,nuclei,0.9271,0.3818
+nuclei,valid rhetorical trees,0.2509,1.224
+discourse relations,satellites,0.1822,1.2789
+compositionality criterion,satellites,0.9793,0.2037
+discourse trees,satellites,-0.004,1.417
+first-order formalization,satellites,0.9449,0.3318
+algorithm,satellites,0.2436,1.2299
+satellites,valid rhetorical trees,0.6115,0.8815
+compositionality criterion,discourse relations,0.2466,1.2275
+discourse relations,discourse trees,-0.376,1.6589
+discourse relations,first-order formalization,0.2377,1.2347
+algorithm,discourse relations,-0.1215,1.4976
+discourse relations,valid rhetorical trees,0.8042,0.6258
+compositionality criterion,discourse trees,0.0163,1.4026
+compositionality criterion,first-order formalization,0.9026,0.4413
+algorithm,compositionality criterion,0.2916,1.1903
+compositionality criterion,valid rhetorical trees,0.6584,0.8265
+discourse trees,first-order formalization,-0.2303,1.5687
+algorithm,discourse trees,0.1268,1.3215
+discourse trees,valid rhetorical trees,-0.4294,1.6908
+algorithm,first-order formalization,0.0924,1.3473
+first-order formalization,valid rhetorical trees,0.6756,0.8055
+algorithm,valid rhetorical trees,0.1105,1.3338

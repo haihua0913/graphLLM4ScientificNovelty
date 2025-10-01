@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+generative NLP tasks,retrieval augmentation,0.8369,0.5711
+external knowledge,retrieval augmentation,-0.2898,1.6061
+retrieval augmentation,text generation,0.8823,0.4851
+external knowledge,generative NLP tasks,0.0065,1.4096
+generative NLP tasks,text generation,0.9549,0.3003
+external knowledge,text generation,-0.1941,1.5454
+document-level EAE,external knowledge,-0.2133,1.5578
+document-level EAE,text generation,0.5392,0.96
+document-level EAE,pseudo demonstrations,0.6557,0.8298
+document-level EAE,event semantic regions,-0.3805,1.6616
+event semantic regions,pseudo demonstrations,-0.4514,1.7038
+RAMS,document-level EAE,-0.2885,1.6053
+WikiEvents,document-level EAE,0.4931,1.0068
+RAMS,pseudo demonstrations,-0.3098,1.6185
+WikiEvents,pseudo demonstrations,0.9231,0.3922
+RAMS,event semantic regions,-0.141,1.5106
+WikiEvents,event semantic regions,-0.3481,1.642
+RAMS,WikiEvents,-0.205,1.5524

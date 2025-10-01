@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+heteroscedastic setting,sequential prediction,-0.2207,1.5625
+explanatory variables,sequential prediction,-0.4145,1.682
+regret minimization,sequential prediction,-0.1853,1.5397
+online learning algorithm,sequential prediction,-0.0689,1.4621
+error terms,sequential prediction,-0.3965,1.6713
+explanatory variables,heteroscedastic setting,-0.0238,1.431
+heteroscedastic setting,regret minimization,0.6413,0.847
+heteroscedastic setting,online learning algorithm,0.7558,0.6989
+error terms,heteroscedastic setting,-0.1003,1.4834
+explanatory variables,regret minimization,-0.3221,1.6261
+explanatory variables,online learning algorithm,0.034,1.39
+error terms,explanatory variables,0.9711,0.2406
+online learning algorithm,regret minimization,0.1538,1.3009
+error terms,regret minimization,-0.273,1.5956
+error terms,online learning algorithm,-0.0937,1.479
+ARCH models,sequential prediction,0.8008,0.6311
+ARCH models,heteroscedastic setting,0.0185,1.4011
+ARCH models,explanatory variables,-0.2854,1.6034
+ARCH models,regret minimization,-0.0562,1.4534
+ARCH models,online learning algorithm,0.0094,1.4075
+ARCH models,error terms,-0.2414,1.5757
+empirical study,regret minimization,-0.0553,1.4528
+empirical study,online learning algorithm,0.9413,0.3425
+empirical study,error terms,0.0303,1.3926
+ARCH models,empirical study,0.1815,1.2795

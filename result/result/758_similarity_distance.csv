@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+parameterized policy search,reinforcement learning,0.572,0.9252
+continuous action spaces,parameterized policy search,-0.0024,1.4159
+Gaussian policies,parameterized policy search,0.512,0.9879
+continuous action spaces,reinforcement learning,0.7345,0.7288
+Gaussian policies,reinforcement learning,0.1269,1.3215
+Gaussian policies,continuous action spaces,0.0417,1.3844
+exploration tolerance parameter,parameterized policy search,-0.3799,1.6613
+exploration tolerance parameter,reinforcement learning,-0.044,1.445
+continuous action spaces,exploration tolerance parameter,0.0672,1.3658
+Gaussian policies,exploration tolerance parameter,-0.5348,1.752
+exploration tolerance parameter,heavy-tailed policy parameterizations,-0.1043,1.4861
+heavy-tailed policy parameterizations,mirror ascent-type updates,-0.0586,1.4551
+gradient tracking,heavy-tailed policy parameterizations,-0.0935,1.4789
+convergence,heavy-tailed policy parameterizations,0.0682,1.3651
+gradient tracking,mirror ascent-type updates,0.9335,0.3647
+convergence,mirror ascent-type updates,0.9537,0.3043
+convergence,gradient tracking,0.9107,0.4226
+mirror ascent-type updates,reward accumulation,0.2211,1.2481
+gradient tracking,reward accumulation,0.0719,1.3625
+convergence,reward accumulation,0.1088,1.3351

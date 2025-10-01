@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+language,non-arbitrariness,-0.1675,1.5281
+form-meaning patterns,language,-0.1354,1.5069
+form-meaning patterns,non-arbitrariness,0.8052,0.6241
+form-meaning patterns,localized form-meaning,0.3604,1.1311
+language,localized form-meaning,-0.3488,1.6424
+localized form-meaning,non-arbitrariness,0.2884,1.193
+form-meaning patterns,global form-meaning systematicity,0.1182,1.328
+global form-meaning systematicity,language,-0.1015,1.4843
+global form-meaning systematicity,localized form-meaning,0.8836,0.4826
+kernel regression,language,-0.3618,1.6503
+distributional semantic vectors,language,-0.162,1.5245
+global form-meaning systematicity,kernel regression,-0.0523,1.4508
+distributional semantic vectors,global form-meaning systematicity,-0.0053,1.418
+distributional semantic vectors,kernel regression,-0.0991,1.4827
+language,weighted edit distances,-0.0356,1.4392
+global form-meaning systematicity,weighted edit distances,-0.1313,1.5042
+kernel regression,weighted edit distances,-0.0258,1.4323
+distributional semantic vectors,weighted edit distances,0.9759,0.2196
+form-meaning patterns,kernel regression,0.0229,1.3979
+distributional semantic vectors,form-meaning patterns,-0.0772,1.4678
+form-meaning patterns,weighted edit distances,-0.1318,1.5045
+English lexicon,form-meaning patterns,-0.2022,1.5506
+kernel regression,localized form-meaning,0.1652,1.2922
+distributional semantic vectors,localized form-meaning,0.0703,1.3636
+localized form-meaning,weighted edit distances,-0.0457,1.4462
+English lexicon,localized form-meaning,-0.3495,1.6428
+English lexicon,global form-meaning systematicity,-0.1179,1.4952
+English lexicon,kernel regression,-0.3272,1.6292
+English lexicon,distributional semantic vectors,-0.2468,1.5791
+English lexicon,weighted edit distances,-0.1091,1.4893

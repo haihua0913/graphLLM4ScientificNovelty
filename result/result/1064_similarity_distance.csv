@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+bottom up,multitask,-0.168,1.5284
+localization,multitask,-0.4467,1.701
+3d pose,multitask,-0.0092,1.4207
+multitask,shape estimation,-0.3326,1.6326
+monocular images,multitask,-0.3316,1.632
+bottom up,localization,0.1601,1.2961
+3d pose,bottom up,-0.0784,1.4686
+bottom up,shape estimation,0.3204,1.1659
+bottom up,monocular images,-0.1489,1.5159
+3d pose,localization,0.1643,1.2928
+localization,shape estimation,0.8503,0.5472
+localization,monocular images,-0.0911,1.4772
+3d pose,shape estimation,-0.1226,1.4984
+3d pose,monocular images,-0.0131,1.4234
+monocular images,shape estimation,-0.0724,1.4645
+grouping people,multitask,-0.4796,1.7202
+bottom up,grouping people,0.355,1.1357
+grouping people,localization,0.9691,0.2484
+3d pose,grouping people,0.1854,1.2764
+grouping people,shape estimation,0.826,0.59
+grouping people,monocular images,-0.1097,1.4898
+3d pose,kinematic tree constraints,-0.1591,1.5226
+grouping people,kinematic tree constraints,-0.2347,1.5714
+3d pose,integer program,0.1495,1.3042
+grouping people,integer program,0.1665,1.2912
+integer program,kinematic tree constraints,-0.5025,1.7335

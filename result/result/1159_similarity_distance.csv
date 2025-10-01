@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+sample-constrained,treatment effect estimation,-0.1462,1.514
+treatment and control groups,treatment effect estimation,-0.1636,1.5255
+sample-constrained,treatment and control groups,-0.1457,1.5138
+average treatment effect,treatment effect estimation,-0.2191,1.5615
+linear effects model,treatment effect estimation,-0.3523,1.6446
+average treatment effect,treatment and control groups,-0.2203,1.5623
+linear effects model,treatment and control groups,0.897,0.4538
+average treatment effect,linear effects model,-0.3033,1.6145
+discrepancy minimization,treatment effect estimation,-0.3236,1.627
+leverage-score-based sampling,treatment effect estimation,-0.3457,1.6405
+randomized numerical linear algebra,treatment effect estimation,-0.1952,1.5461
+average treatment effect,discrepancy minimization,0.0279,1.3943
+average treatment effect,leverage-score-based sampling,0.1182,1.328
+average treatment effect,randomized numerical linear algebra,-0.2897,1.606
+discrepancy minimization,linear effects model,0.892,0.4648
+leverage-score-based sampling,linear effects model,-0.3244,1.6275
+linear effects model,randomized numerical linear algebra,0.5772,0.9196
+discrepancy minimization,leverage-score-based sampling,-0.2222,1.5635
+discrepancy minimization,randomized numerical linear algebra,0.4361,1.062
+leverage-score-based sampling,randomized numerical linear algebra,-0.2301,1.5685

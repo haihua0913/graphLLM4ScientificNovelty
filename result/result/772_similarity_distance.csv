@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+explanation system,faithfulness,-0.2043,1.5519
+faithfulness,prediction model,0.1383,1.3128
+consistency,faithfulness,-0.2423,1.5763
+faithfulness,sufficiency,0.2352,1.2368
+explanation system,prediction model,-0.1856,1.5398
+consistency,explanation system,0.0327,1.3909
+explanation system,sufficiency,-0.125,1.5
+consistency,prediction model,-0.2033,1.5513
+prediction model,sufficiency,0.9654,0.2632
+consistency,sufficiency,-0.3088,1.6179
+faithfulness,test-time data distribution,0.9695,0.247
+explanation system,test-time data distribution,-0.1678,1.5283
+prediction model,test-time data distribution,-0.0806,1.4701
+consistency,test-time data distribution,-0.1619,1.5244
+sufficiency,test-time data distribution,0.0131,1.4049
+estimators,faithfulness,0.2324,1.239
+faithfulness,sample complexity bounds,0.9197,0.4008
+black-box explanation systems,faithfulness,0.8991,0.4491
+estimators,test-time data distribution,0.0164,1.4026
+sample complexity bounds,test-time data distribution,0.967,0.2569
+black-box explanation systems,test-time data distribution,0.9583,0.2889
+estimators,sample complexity bounds,-0.1288,1.5025
+black-box explanation systems,estimators,-0.0919,1.4778
+black-box explanation systems,sample complexity bounds,0.942,0.3406

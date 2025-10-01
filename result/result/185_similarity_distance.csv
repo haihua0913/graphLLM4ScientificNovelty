@@ -1,0 +1,38 @@
+node1,node2,similarity,distance
+Long sequence time-series forecasting,prediction capacity,-0.0476,1.4475
+Long sequence time-series forecasting,Transformer,0.0302,1.3927
+Transformer,prediction capacity,-0.0073,1.4194
+Long sequence time-series forecasting,time complexity,-0.045,1.4457
+Long sequence time-series forecasting,memory usage,-0.1102,1.4901
+prediction capacity,time complexity,0.9383,0.3512
+memory usage,prediction capacity,0.9429,0.3379
+Transformer,time complexity,0.0553,1.3745
+Transformer,memory usage,-0.0127,1.4232
+memory usage,time complexity,0.8703,0.5092
+Informer,prediction capacity,0.8387,0.568
+ProbSparse self-attention,prediction capacity,0.9688,0.2496
+Informer,Transformer,-0.0503,1.4493
+ProbSparse self-attention,Transformer,0.0218,1.3987
+Informer,ProbSparse self-attention,0.847,0.5532
+Informer,time complexity,0.7613,0.6909
+Informer,memory usage,0.7177,0.7515
+ProbSparse self-attention,time complexity,0.8813,0.4872
+ProbSparse self-attention,memory usage,0.9613,0.2783
+Transformer,self-attention distilling,-0.0423,1.4438
+Informer,self-attention distilling,0.574,0.9231
+ProbSparse self-attention,self-attention distilling,0.2506,1.2243
+self-attention distilling,time complexity,0.1363,1.3143
+memory usage,self-attention distilling,0.1951,1.2688
+Transformer,generative style decoder,-0.0052,1.4179
+Transformer,inference speed,-0.0265,1.4329
+Informer,generative style decoder,0.7048,0.7684
+Informer,inference speed,0.7298,0.7351
+ProbSparse self-attention,generative style decoder,0.394,1.1009
+ProbSparse self-attention,inference speed,0.9225,0.3936
+generative style decoder,time complexity,0.3462,1.1435
+inference speed,time complexity,0.9423,0.3397
+generative style decoder,memory usage,0.3291,1.1584
+inference speed,memory usage,0.9272,0.3817
+generative style decoder,self-attention distilling,0.9366,0.3561
+inference speed,self-attention distilling,0.0547,1.375
+generative style decoder,inference speed,0.2071,1.2593

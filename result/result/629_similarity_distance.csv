@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+manifold learning,nonlinear manifold,-0.2261,1.566
+manifold learning,representation,0.4841,1.0158
+nonlinear manifold,representation,0.3408,1.1482
+generalization,manifold learning,-0.2377,1.5733
+generalization,representation,-0.297,1.6106
+manifold learning,model complexity,0.0763,1.3592
+manifold learning,model selection,0.0746,1.3605
+model complexity,representation,0.0889,1.3499
+model selection,representation,0.1488,1.3048
+generalization,model complexity,0.0936,1.3464
+generalization,model selection,0.1683,1.2897
+model complexity,model selection,0.9849,0.1738
+geodesic distances,manifold learning,0.9318,0.3693
+manifold learning,noise,-0.3172,1.6231
+geodesic distances,representation,0.4381,1.0601
+noise,representation,-0.6924,1.8398
+generalization,geodesic distances,-0.1261,1.5007
+generalization,noise,0.7888,0.6499
+geodesic distances,model complexity,-0.1441,1.5127
+model complexity,noise,0.0758,1.3596
+geodesic distances,model selection,-0.1071,1.488
+model selection,noise,0.0496,1.3787
+geodesic distances,noise,-0.27,1.5937

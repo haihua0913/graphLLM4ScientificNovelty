@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+Neural Machine Translation,target words,-0.1994,1.5488
+Neural Machine Translation,context words,0.3617,1.1299
+context words,target words,0.2598,1.2168
+Neural Machine Translation,error accumulation,-0.0713,1.4637
+error accumulation,target words,0.1657,1.2918
+context words,error accumulation,-0.2151,1.5589
+error accumulation,word-level training,0.2211,1.2481
+context words,word-level training,0.1392,1.3121
+context words,sentence-level optimum,0.8344,0.5755
+error accumulation,sentence-level optimum,-0.1855,1.5398
+sentence-level optimum,word-level training,-0.0492,1.4486
+Chinese->English,context words,0.8921,0.4645
+WMT’14 English->German,context words,0.8616,0.5261
+context words,improvements,-0.4625,1.7103
+context words,datasets,0.3582,1.133
+Chinese->English,word-level training,0.0582,1.3724
+WMT’14 English->German,word-level training,-0.0609,1.4566
+improvements,word-level training,-0.3452,1.6403
+datasets,word-level training,0.8642,0.5212
+Chinese->English,sentence-level optimum,0.9706,0.2423
+WMT’14 English->German,sentence-level optimum,0.9789,0.2053
+improvements,sentence-level optimum,-0.1602,1.5233
+datasets,sentence-level optimum,0.0454,1.3817
+Chinese->English,WMT’14 English->German,0.9776,0.2117
+Chinese->English,improvements,-0.1836,1.5386
+Chinese->English,datasets,0.2236,1.2461
+WMT’14 English->German,improvements,-0.2428,1.5766
+WMT’14 English->German,datasets,0.0596,1.3714
+datasets,improvements,-0.2787,1.5992

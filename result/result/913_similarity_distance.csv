@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+item vectors,matrix factorization,-0.3507,1.6436
+matrix factorization,preference degree,-0.0135,1.4237
+item vectors,preference degree,0.7673,0.6823
+constrained preference embedding,matrix factorization,-0.0554,1.4529
+constrained preference embedding,item vectors,0.2484,1.226
+constrained preference embedding,preference degree,-0.2859,1.6037
+constrained preference embedding,item recommendation,0.9777,0.2113
+item recommendation,item vectors,0.2439,1.2297
+item recommendation,preference degree,-0.2922,1.6076
+item recommendation,pair-wise ranking model,0.0149,1.4037
+CPE-s,item recommendation,-0.1778,1.5348
+CPE-ps,item recommendation,-0.1205,1.497
+pair-wise ranking model,preference degree,0.913,0.4172
+CPE-s,preference degree,-0.0554,1.4528
+CPE-ps,preference degree,0.097,1.3439
+CPE-s,pair-wise ranking model,-0.0483,1.4479
+CPE-ps,pair-wise ranking model,0.184,1.2775
+CPE-ps,CPE-s,0.5356,0.9637

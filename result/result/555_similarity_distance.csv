@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+convex relaxations,non-convex optimization,-0.3253,1.6281
+convex relaxations,geometric reconstruction,-0.0181,1.427
+convex relaxations,statistically optimal estimates,0.1237,1.3239
+convex relaxations,global solutions,0.3016,1.1819
+geometric reconstruction,non-convex optimization,-0.2567,1.5854
+non-convex optimization,statistically optimal estimates,0.1136,1.3314
+global solutions,non-convex optimization,-0.3237,1.6271
+geometric reconstruction,statistically optimal estimates,-0.1204,1.4969
+geometric reconstruction,global solutions,0.138,1.313
+global solutions,statistically optimal estimates,-0.1991,1.5486
+convex relaxations,triangulation,-0.3587,1.6484
+camera pose,convex relaxations,-0.0695,1.4625
+convex relaxations,homography estimation,-0.3612,1.65
+non-convex optimization,triangulation,0.7996,0.6331
+camera pose,non-convex optimization,-0.3521,1.6445
+homography estimation,non-convex optimization,0.8262,0.5896
+global solutions,triangulation,-0.2832,1.602
+camera pose,global solutions,-0.1753,1.5331
+global solutions,homography estimation,-0.2896,1.606
+camera pose,triangulation,-0.1097,1.4898
+homography estimation,triangulation,0.9935,0.1144
+camera pose,homography estimation,-0.1217,1.4978

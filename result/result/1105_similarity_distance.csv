@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+experimental studies,pre-treatment outcome data,0.5811,0.9153
+average treatment effect,experimental studies,0.61,0.8832
+experimental studies,weighted average outcomes,-0.2412,1.5756
+average treatment effect,pre-treatment outcome data,0.7406,0.7202
+pre-treatment outcome data,weighted average outcomes,-0.1412,1.5108
+average treatment effect,weighted average outcomes,-0.0685,1.4618
+difference-in-means estimator,experimental studies,0.9944,0.1055
+experimental studies,synthetic-control techniques,-0.0492,1.4486
+difference-in-means estimator,pre-treatment outcome data,0.5222,0.9776
+pre-treatment outcome data,synthetic-control techniques,0.2878,1.1935
+average treatment effect,difference-in-means estimator,0.5509,0.9478
+average treatment effect,synthetic-control techniques,0.4585,1.0407
+difference-in-means estimator,weighted average outcomes,-0.2979,1.6112
+synthetic-control techniques,weighted average outcomes,0.0155,1.4032
+difference-in-means estimator,synthetic-control techniques,-0.0754,1.4666
+difference-in-means estimator,mixed-integer programming,-0.0048,1.4176
+mixed-integer programming,synthetic-control techniques,0.7909,0.6467
+mean squared error,mixed-integer programming,0.3672,1.125
+mixed-integer programming,statistical power,0.1095,1.3345
+mean squared error,statistical power,-0.0837,1.4722

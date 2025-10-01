@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+0-1 classification,object recognition,0.1302,1.319
+machine learning techniques,object recognition,0.9182,0.4044
+0-1 classification,machine learning techniques,0.1903,1.2726
+machine learning techniques,non-maxima suppression,-0.0437,1.4448
+object recognition,structured prediction task,0.2761,1.2033
+multi-class object recognition,object recognition,0.0137,1.4045
+non-maxima suppression,object recognition,-0.0939,1.4791
+multi-class object recognition,structured prediction task,-0.4476,1.7015
+non-maxima suppression,structured prediction task,0.864,0.5215
+multi-class object recognition,non-maxima suppression,-0.2423,1.5762
+object recognition,structured labeling,-0.1229,1.4986
+structured labeling,structured prediction task,-0.4194,1.6849
+multi-class object recognition,structured labeling,0.9482,0.322
+non-maxima suppression,structured labeling,-0.1474,1.5149
+max-margin learning,spatial arrangements,-0.2125,1.5572
+spatial arrangements,structured labeling,-0.301,1.6131
+max-margin learning,structured labeling,0.9745,0.2259
+convex optimization problem,spatial arrangements,0.7859,0.6544
+convex optimization problem,max-margin learning,-0.1529,1.5185

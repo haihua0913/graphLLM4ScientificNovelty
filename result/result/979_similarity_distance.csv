@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+non-Markov decision process,regular decision processes,0.9168,0.408
+regular decision processes,transition function,0.3197,1.1664
+regular decision processes,reward function,-0.2591,1.5869
+non-Markov decision process,transition function,0.369,1.1234
+non-Markov decision process,reward function,-0.328,1.6297
+reward function,transition function,-0.6234,1.8019
+finite transducers,regular decision processes,0.0397,1.3859
+finite transducers,non-Markov decision process,0.0107,1.4066
+finite transducers,transition function,-0.4932,1.7281
+finite transducers,reward function,0.8552,0.5382
+regular decision processes,reinforcement learning,-0.1377,1.5085
+reinforcement learning,transition function,-0.6184,1.7991
+reinforcement learning,reward function,0.9424,0.3393
+finite transducers,reinforcement learning,0.9014,0.4441
+near-optimal policy,regular decision processes,-0.2173,1.5603
+PAC-learned,regular decision processes,0.039,1.3863
+parameters,regular decision processes,0.2571,1.2189
+finite transducers,near-optimal policy,-0.2094,1.5552
+PAC-learned,finite transducers,-0.2883,1.6052
+finite transducers,parameters,-0.5356,1.7525
+near-optimal policy,reinforcement learning,-0.2703,1.5939
+PAC-learned,reinforcement learning,-0.1566,1.5209
+parameters,reinforcement learning,-0.5528,1.7623
+PAC-learned,near-optimal policy,-0.2778,1.5986
+near-optimal policy,parameters,-0.2802,1.6002
+PAC-learned,parameters,0.4539,1.0451

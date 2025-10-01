@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+imputation,sequence prediction,-0.1288,1.5025
+imputation,missing value,-0.2808,1.6005
+missing value,sequence prediction,-0.2095,1.5553
+imitation learning,imputation,0.2136,1.2541
+imputation,recurrent conditional variational autoencoder,-0.1218,1.4979
+imputation,non-autoregressive transformation model,-0.1111,1.4907
+imitation learning,sequence prediction,-0.2543,1.5838
+recurrent conditional variational autoencoder,sequence prediction,0.0959,1.3447
+non-autoregressive transformation model,sequence prediction,-0.2302,1.5686
+imitation learning,recurrent conditional variational autoencoder,-0.0968,1.4811
+imitation learning,non-autoregressive transformation model,-0.1331,1.5054
+imitation learning,missing value,-0.3463,1.6409
+non-autoregressive transformation model,recurrent conditional variational autoencoder,-0.1612,1.524
+missing value,recurrent conditional variational autoencoder,-0.203,1.5511
+missing value,non-autoregressive transformation model,0.949,0.3193
+imputation,temporal relationship,0.8664,0.5169
+imitation learning,temporal relationship,0.0782,1.3578
+recurrent conditional variational autoencoder,temporal relationship,0.0536,1.3758
+non-autoregressive transformation model,temporal relationship,0.0006,1.4138
+missing value,temporal relationship,-0.1507,1.517
+state-of-the-art performance,temporal relationship,0.2351,1.2368
+missing value,state-of-the-art performance,0.1497,1.3041

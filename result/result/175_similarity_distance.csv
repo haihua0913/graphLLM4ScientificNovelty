@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+Monte Carlo Tree Search,lookahead policies,0.0705,1.3634
+lookahead policies,tree search,0.8285,0.5856
+Monte Carlo Tree Search,tree search,0.1538,1.3009
+AlphaZero,lookahead policies,0.5071,0.9929
+AlphaZero,Monte Carlo Tree Search,0.1988,1.2659
+AlphaZero,tree search,0.0316,1.3917
+AlphaZero,value,-0.3167,1.6227
+tree search,value,0.1046,1.3382
+non-contractive,tree search,-0.3385,1.6362
+convergence,tree search,-0.0312,1.4361
+non-contractive,value,0.3202,1.166
+convergence,value,-0.4568,1.707
+convergence,non-contractive,-0.2868,1.6043
+non-contractive,optimal tree path,0.1769,1.283
+convergence,optimal tree path,-0.3278,1.6296
+discount factor,non-contractive,0.9383,0.3512
+convergence,discount factor,-0.1379,1.5086
+discount factor,optimal tree path,-0.0278,1.4337
+multiple-step greedy consistency,optimal tree path,0.6071,0.8864
+discount factor,multiple-step greedy consistency,-0.3489,1.6425
+discount factor,tree search,-0.3085,1.6177
+multiple-step greedy consistency,tree search,-0.0711,1.4637
+discount factor,value,0.2567,1.2193
+multiple-step greedy consistency,value,-0.7205,1.855
+convergence,multiple-step greedy consistency,-0.1047,1.4864

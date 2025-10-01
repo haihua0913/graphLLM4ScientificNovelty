@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+Efficiency,syntactic MT decoding,0.8886,0.472
+Efficiency,statistical parsing,0.9383,0.3514
+statistical parsing,syntactic MT decoding,0.9737,0.2294
+Efficiency,maximum spanning tree,0.1189,1.3274
+maximum spanning tree,syntactic MT decoding,0.2402,1.2327
+maximum spanning tree,statistical parsing,0.1738,1.2855
+MST parsing,maximum spanning tree,0.2324,1.239
+maximum spanning tree,phrase-based decoder,-0.0474,1.4473
+dependency language model,maximum spanning tree,-0.1161,1.4941
+MST parsing,phrase-based decoder,-0.2143,1.5584
+MST parsing,dependency language model,-0.2033,1.5513
+dependency language model,phrase-based decoder,0.9401,0.3461
+MST parsing,TER,-0.2523,1.5826
+BLEU,MST parsing,-0.2266,1.5663
+TER,phrase-based decoder,-0.0537,1.4517
+BLEU,phrase-based decoder,-0.0746,1.466
+TER,dependency language model,-0.1419,1.5112
+BLEU,dependency language model,-0.1668,1.5276
+BLEU,TER,0.9971,0.0759

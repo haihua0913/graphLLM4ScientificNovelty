@@ -1,0 +1,14 @@
+node1,node2,similarity,distance
+Gaussian processes,sequential global optimization,-0.0976,1.4816
+Gaussian processes,cumulative regret,0.0217,1.3988
+GP-UCB,Gaussian processes,0.0255,1.3961
+cumulative regret,sequential global optimization,0.0434,1.3832
+GP-UCB,sequential global optimization,-0.1372,1.5081
+GP-UCB,cumulative regret,0.9699,0.2453
+Gaussian Process Mutual Information algorithm,Gaussian processes,0.3214,1.165
+Gaussian Process Mutual Information algorithm,sequential global optimization,-0.2133,1.5578
+Gaussian Process Mutual Information algorithm,cumulative regret,-0.0462,1.4465
+GP-UCB,Gaussian Process Mutual Information algorithm,-0.109,1.4893
+Expected Improvement heuristic,cumulative regret,-0.1146,1.493
+Expected Improvement heuristic,GP-UCB,-0.1452,1.5134
+Expected Improvement heuristic,Gaussian Process Mutual Information algorithm,-0.3472,1.6414

@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+convolutional neural networks,feedforward neural networks,-0.0359,1.4394
+convolutional neural networks,horizontal gated-recurrent unit,0.0185,1.4011
+convolutional neural networks,intrinsic horizontal connections,0.0848,1.3529
+feedforward neural networks,horizontal gated-recurrent unit,-0.016,1.4255
+feedforward neural networks,intrinsic horizontal connections,-0.1702,1.5298
+horizontal gated-recurrent unit,intrinsic horizontal connections,0.9532,0.3059
+feedforward hierarchical baselines,horizontal gated-recurrent unit,0.9668,0.2576
+horizontal gated-recurrent unit,state-of-the-art architectures,-0.1642,1.5259
+feedforward hierarchical baselines,intrinsic horizontal connections,0.9353,0.3596
+intrinsic horizontal connections,state-of-the-art architectures,-0.2866,1.6041
+feedforward hierarchical baselines,state-of-the-art architectures,-0.1387,1.5091
+horizontal gated-recurrent unit,visual cortex,0.9152,0.4119
+contour detection task,horizontal gated-recurrent unit,-0.1275,1.5017
+intrinsic horizontal connections,visual cortex,0.9601,0.2826
+contour detection task,intrinsic horizontal connections,-0.0118,1.4226
+feedforward hierarchical baselines,visual cortex,0.8792,0.4916
+contour detection task,feedforward hierarchical baselines,-0.0573,1.4542
+state-of-the-art architectures,visual cortex,-0.318,1.6236
+contour detection task,state-of-the-art architectures,-0.1714,1.5306
+contour detection task,visual cortex,0.0252,1.3963

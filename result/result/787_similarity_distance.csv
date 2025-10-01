@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+learning of logical (Boolean) functions,out-of-distribution generalization,0.5142,0.9857
+learning of logical (Boolean) functions,network architectures,-0.2503,1.5813
+learning of logical (Boolean) functions,sparse functions,0.4859,1.014
+learning of logical (Boolean) functions,min-degree-interpolator,0.4741,1.0256
+network architectures,out-of-distribution generalization,-0.5729,1.7736
+out-of-distribution generalization,sparse functions,0.6273,0.8634
+min-degree-interpolator,out-of-distribution generalization,0.7966,0.6379
+network architectures,sparse functions,-0.2501,1.5812
+min-degree-interpolator,network architectures,-0.5048,1.7348
+min-degree-interpolator,sparse functions,0.5679,0.9297
+Fourier mass,network architectures,-0.28,1.6
+Fourier mass,sparse functions,0.5826,0.9136
+Fourier mass,min-degree-interpolator,0.6423,0.8458
+length generalization problem,network architectures,0.9534,0.3052
+length generalization problem,sparse functions,-0.0894,1.4761
+Fourier mass,length generalization problem,-0.2515,1.5821
+length generalization problem,min-degree-interpolator,-0.4781,1.7194
+Degree-Curriculum,Fourier mass,-0.017,1.4262
+Fourier mass,curriculum learning,0.0633,1.3687
+Degree-Curriculum,length generalization problem,-0.2881,1.605
+curriculum learning,length generalization problem,-0.2715,1.5947
+Degree-Curriculum,curriculum learning,-0.0336,1.4378

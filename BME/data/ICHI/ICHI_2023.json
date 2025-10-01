@@ -1,0 +1,806 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/ichi/ichi2023.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"91.14"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"129",
+"@dc":"129",
+"@oc":"129",
+"@id":"48897176",
+"text":":facetid:toc:db/conf/ichi/ichi2023.bht"
+}
+},
+"hits":{
+"@total":"129",
+"@computed":"129",
+"@sent":"129",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1107813",
+"info":{"authors":{"author":[{"@pid":"344/5653","text":"Pouneh Abbasian"},{"@pid":"365/8483","text":"Hanif Zargarnezhad"},{"@pid":"h/TracyAnneHammond","text":"Tracy Hammond"}]},"title":"Early Diagnosis of Mild Cognitive Impairment Using Deep Neural Network with Single and Multi-input Analysis.","venue":"ICHI","pages":"301-310","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/AbbasianZH23","doi":"10.1109/ICHI57859.2023.00048","ee":"https://doi.org/10.1109/ICHI57859.2023.00048","url":"https://dblp.org/rec/conf/ichi/AbbasianZH23"},
+"url":"URL#1107813"
+},
+{
+"@score":"1",
+"@id":"1107814",
+"info":{"authors":{"author":[{"@pid":"16/7560","text":"Muhammad Aurangzeb Ahmad"},{"@pid":"96/598","text":"Vijay Chickarmane"},{"@pid":"219/6497","text":"Farinaz Sabz Ali Pour"},{"@pid":"342/2625","text":"Nima Shariari"},{"@pid":"249/5776","text":"Taposh Dutta Roy"}]},"title":"Validation of a Hospital Digital Twin with Machine Learning.","venue":"ICHI","pages":"465-469","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/AhmadCPSR23","doi":"10.1109/ICHI57859.2023.00068","ee":"https://doi.org/10.1109/ICHI57859.2023.00068","url":"https://dblp.org/rec/conf/ichi/AhmadCPSR23"},
+"url":"URL#1107814"
+},
+{
+"@score":"1",
+"@id":"1107815",
+"info":{"authors":{"author":[{"@pid":"339/1259","text":"Toufeeq Ahmed"},{"@pid":"365/8383","text":"Aidan Hoyal"},{"@pid":"365/7939","text":"Katie Stinson"},{"@pid":"91/4210","text":"Jay Johnson"},{"@pid":"365/7714","text":"Zainab Latif"},{"@pid":"b/LLBurgeIII","text":"Legand L. Burge"},{"@pid":"122/9677","text":"Alexander Libin"},{"@pid":"90/2446","text":"Guodong Gordon Gao"},{"@pid":"323/1765","text":"Nawar Shara"},{"@pid":"365/8001","text":"Jamboor K. Vishwanatha"}]},"title":"AIM-AHEAD Connect: Online Collaboration, Mentoring, and Data Science Training Platform to Increase Researcher Diversity and Advance Health Equity.","venue":"ICHI","pages":"657-662","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/AhmedHSJLBLGSV23","doi":"10.1109/ICHI57859.2023.00114","ee":"https://doi.org/10.1109/ICHI57859.2023.00114","url":"https://dblp.org/rec/conf/ichi/AhmedHSJLBLGSV23"},
+"url":"URL#1107815"
+},
+{
+"@score":"1",
+"@id":"1107816",
+"info":{"authors":{"author":[{"@pid":"344/3072","text":"Xuguang Ai"},{"@pid":"17/265","text":"Ramakanth Kavuluru"}]},"title":"End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies.","venue":"ICHI","pages":"610-618","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/AiK23","doi":"10.1109/ICHI57859.2023.00108","ee":"https://doi.org/10.1109/ICHI57859.2023.00108","url":"https://dblp.org/rec/conf/ichi/AiK23"},
+"url":"URL#1107816"
+},
+{
+"@score":"1",
+"@id":"1107817",
+"info":{"authors":{"author":[{"@pid":"365/8294","text":"Seha Ay"},{"@pid":"365/7680","text":"Michael Cardei"},{"@pid":"73/8940","text":"Anne-Marie Meyer"},{"@pid":"10/4661","text":"Wei Zhang"},{"@pid":"32/4989","text":"Umit Topaloglu"}]},"title":"Improving Equity in Deep Learning Medical Applications with the Gerchberg-Saxton Algorithm.","venue":"ICHI","pages":"692-694","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/AyCMZT23","doi":"10.1109/ICHI57859.2023.00123","ee":"https://doi.org/10.1109/ICHI57859.2023.00123","url":"https://dblp.org/rec/conf/ichi/AyCMZT23"},
+"url":"URL#1107817"
+},
+{
+"@score":"1",
+"@id":"1107818",
+"info":{"authors":{"author":{"@pid":"191/5887","text":"Sayantani Basu"}},"title":"Machine Learning and Visualizations for Time-Series Healthcare Data.","venue":"ICHI","pages":"485","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/Basu23","doi":"10.1109/ICHI57859.2023.00076","ee":"https://doi.org/10.1109/ICHI57859.2023.00076","url":"https://dblp.org/rec/conf/ichi/Basu23"},
+"url":"URL#1107818"
+},
+{
+"@score":"1",
+"@id":"1107819",
+"info":{"authors":{"author":[{"@pid":"191/5887","text":"Sayantani Basu"},{"@pid":"c/RoyHCampbell","text":"Roy H. Campbell"},{"@pid":"64/4500","text":"Karrie Karahalios"}]},"title":"Detection of Novel COVID-19 Variants with Zero-Shot Learning.","venue":"ICHI","pages":"597-600","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/BasuCK23","doi":"10.1109/ICHI57859.2023.00106","ee":"https://doi.org/10.1109/ICHI57859.2023.00106","url":"https://dblp.org/rec/conf/ichi/BasuCK23"},
+"url":"URL#1107819"
+},
+{
+"@score":"1",
+"@id":"1107820",
+"info":{"authors":{"author":[{"@pid":"359/5278","text":"Kritib Bhattarai"},{"@pid":"224/8546","text":"Sivaraman Rajaganapathy"},{"@pid":"353/7745","text":"Trisha Das"},{"@pid":"74/3301-1","text":"Yejin Kim 0001"},{"@pid":"06/8340","text":"Yongbin Chen"},{"@pid":"358/4549","text":"Qiying Dai"},{"@pid":"98/6679","text":"Xiaoyang Li"},{"@pid":"43/3924","text":"Xiaoqian Jiang"},{"@pid":"44/7805","text":"Nansu Zong"}]},"title":"Learning Physician&apos;s Treatment for Alzheimer&apos;s Disease based on Electronic Health Records and Reinforcement Learning.","venue":"ICHI","pages":"525-526","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/BhattaraiRDKCDLJZ23","doi":"10.1109/ICHI57859.2023.00092","ee":"https://doi.org/10.1109/ICHI57859.2023.00092","url":"https://dblp.org/rec/conf/ichi/BhattaraiRDKCDLJZ23"},
+"url":"URL#1107820"
+},
+{
+"@score":"1",
+"@id":"1107821",
+"info":{"authors":{"author":{"@pid":"319/3705","text":"Pallabi Bhowmick"}},"title":"Older Adults and Social Isolation: A Tangible Solution.","venue":"ICHI","pages":"488-489","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/Bhowmick23","doi":"10.1109/ICHI57859.2023.00078","ee":"https://doi.org/10.1109/ICHI57859.2023.00078","url":"https://dblp.org/rec/conf/ichi/Bhowmick23"},
+"url":"URL#1107821"
+},
+{
+"@score":"1",
+"@id":"1107822",
+"info":{"authors":{"author":[{"@pid":"135/0270","text":"Chia-Hsuan Chang"},{"@pid":"147/6995","text":"Fang-Yu Chang"},{"@pid":"22/852","text":"San-Yih Hwang"},{"@pid":"09/6487","text":"Christopher C. Yang"}]},"title":"Prompting for Few-shot Adverse Drug Reaction Recognition from Online Reviews.","venue":"ICHI","pages":"168-175","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/ChangCHY23","doi":"10.1109/ICHI57859.2023.00032","ee":"https://doi.org/10.1109/ICHI57859.2023.00032","url":"https://dblp.org/rec/conf/ichi/ChangCHY23"},
+"url":"URL#1107822"
+},
+{
+"@score":"1",
+"@id":"1107823",
+"info":{"authors":{"author":[{"@pid":"89/120","text":"Xing Chen"},{"@pid":"365/7917","text":"Yegin Gene"},{"@pid":"92/6841","text":"Zhan Zhang"}]},"title":"Social Contextualization of Datasets for Mental Health AI: a Review of Gender-linked Sociotechnical Misalignments.","venue":"ICHI","pages":"439-445","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/ChenGZ23","doi":"10.1109/ICHI57859.2023.00063","ee":"https://doi.org/10.1109/ICHI57859.2023.00063","url":"https://dblp.org/rec/conf/ichi/ChenGZ23"},
+"url":"URL#1107823"
+},
+{
+"@score":"1",
+"@id":"1107824",
+"info":{"authors":{"author":[{"@pid":"191/3105","text":"Aokun Chen"},{"@pid":"69/5902","text":"Qian Li"},{"@pid":"190/3489","text":"Elizabeth Shenkman"},{"@pid":"26/2189","text":"Yonghui Wu"},{"@pid":"24/3508-5","text":"Yi Guo 0005"},{"@pid":"09/851-1","text":"Jiang Bian 0001"}]},"title":"Exploring the Effect of Eligibility Criteria on AD Severity and Severe Adverse Event in Eligible Patients.","venue":"ICHI","pages":"756-759","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/ChenLSWGB23","doi":"10.1109/ICHI57859.2023.00139","ee":"https://doi.org/10.1109/ICHI57859.2023.00139","url":"https://dblp.org/rec/conf/ichi/ChenLSWGB23"},
+"url":"URL#1107824"
+},
+{
+"@score":"1",
+"@id":"1107825",
+"info":{"authors":{"author":[{"@pid":"37/1439","text":"Ziyi Chen"},{"@pid":"173/6750","text":"Ren Yang"},{"@pid":"160/1539","text":"Sunyang Fu"},{"@pid":"44/7805","text":"Nansu Zong"},{"@pid":"92/2407","text":"Hongfang Liu"},{"@pid":"05/6957-6","text":"Ming Huang 0006"}]},"title":"Detecting Reddit Users with Depression Using a Hybrid Neural Network SBERT-CNN.","venue":"ICHI","pages":"193-199","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/ChenYFZLH23","doi":"10.1109/ICHI57859.2023.00035","ee":"https://doi.org/10.1109/ICHI57859.2023.00035","url":"https://dblp.org/rec/conf/ichi/ChenYFZLH23"},
+"url":"URL#1107825"
+},
+{
+"@score":"1",
+"@id":"1107826",
+"info":{"authors":{"author":[{"@pid":"274/4763","text":"Yao-Shun Chuang"},{"@pid":"303/0833","text":"Chun-Teh Lee"},{"@pid":"199/5544","text":"Ryan Brandon"},{"@pid":"361/1689","text":"Trung Duong Tran"},{"@pid":"126/2813","text":"Oluwabunmi Tokede"},{"@pid":"20/6597","text":"Muhammad F. Walji"},{"@pid":"43/3924","text":"Xiaoqian Jiang"}]},"title":"Extracting Periodontitis Diagnosis in Clinical Notes with RoBERTa and Regular Expression.","venue":"ICHI","pages":"200-205","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/ChuangLBTTWJ23","doi":"10.1109/ICHI57859.2023.00036","ee":"https://doi.org/10.1109/ICHI57859.2023.00036","url":"https://dblp.org/rec/conf/ichi/ChuangLBTTWJ23"},
+"url":"URL#1107826"
+},
+{
+"@score":"1",
+"@id":"1107827",
+"info":{"authors":{"author":[{"@pid":"365/8413","text":"Juandalyn Coffen-Burke"},{"@pid":"365/8320","text":"Kai-Wen K. Yang"},{"@pid":"365/7789","text":"Zoljargal Lkhagvajav"},{"@pid":"365/8436","text":"Yuzhi L. Lu"},{"@pid":"365/8094","text":"Tamisha Dzifa Segbefia"},{"@pid":"355/4412","text":"Natalie Wang"},{"@pid":"365/7979","text":"James Michael Stevenson"},{"@pid":"70/8244","text":"Casey Overby Taylor"}]},"title":"Designing Software for Genomics Medicine Service Leaders to Engage Stakeholders.","venue":"ICHI","pages":"398-406","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/CoffenBurkeYLLSWST23","doi":"10.1109/ICHI57859.2023.00059","ee":"https://doi.org/10.1109/ICHI57859.2023.00059","url":"https://dblp.org/rec/conf/ichi/CoffenBurkeYLLSWST23"},
+"url":"URL#1107827"
+},
+{
+"@score":"1",
+"@id":"1107828",
+"info":{"authors":{"author":[{"@pid":"365/8413","text":"Juandalyn Coffen-Burke"},{"@pid":"365/8320","text":"Kai-Wen K. Yang"},{"@pid":"70/8244","text":"Casey Overby Taylor"}]},"title":"Modifying the Design Sprint Methodology: Leveraging Online Tools for Collaborating and Prototyping in Research Settings.","venue":"ICHI","pages":"527-528","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/CoffenBurkeYT23","doi":"10.1109/ICHI57859.2023.00093","ee":"https://doi.org/10.1109/ICHI57859.2023.00093","url":"https://dblp.org/rec/conf/ichi/CoffenBurkeYT23"},
+"url":"URL#1107828"
+},
+{
+"@score":"1",
+"@id":"1107829",
+"info":{"authors":{"author":[{"@pid":"59/3346","text":"Sara Comai"},{"@pid":"365/7794","text":"Lorenzo Carpaneto"},{"@pid":"201/7428","text":"Andrea Masciadri"},{"@pid":"87/3851","text":"Giuseppe Pozzi"},{"@pid":"63/5564","text":"Fabio Salice"}]},"title":"Sleep Monitoring: Enriching the Traditional Approach by Sensor-collected Data.","venue":"ICHI","pages":"352-360","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/ComaiCMPS23","doi":"10.1109/ICHI57859.2023.00054","ee":"https://doi.org/10.1109/ICHI57859.2023.00054","url":"https://dblp.org/rec/conf/ichi/ComaiCMPS23"},
+"url":"URL#1107829"
+},
+{
+"@score":"1",
+"@id":"1107830",
+"info":{"authors":{"author":[{"@pid":"c/CarloCombi","text":"Carlo Combi"},{"@pid":"04/2642","text":"Julio C. Facelli"},{"@pid":"h/PeterHaddawy","text":"Peter Haddawy"},{"@pid":"88/4334","text":"John H. Holmes"},{"@pid":"64/1624","text":"Sabine Koch"},{"@pid":"92/2407","text":"Hongfang Liu"},{"@pid":"30/6097-1","text":"Jochen Meyer 0001"},{"@pid":"27/6717","text":"Mor Peleg"},{"@pid":"87/3851","text":"Giuseppe Pozzi"},{"@pid":"67/6780","text":"Gregor Stiglic"},{"@pid":"v/PierangeloVeltri","text":"Pierangelo Veltri"},{"@pid":"09/6487","text":"Christopher C. Yang"}]},"title":"Resuming HealthCare Informatics Research after CoViD-19: the HealthCare System Perspective.","venue":"ICHI","pages":"760-762","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/CombiFHHKLMPPSVY23","doi":"10.1109/ICHI57859.2023.00140","ee":"https://doi.org/10.1109/ICHI57859.2023.00140","url":"https://dblp.org/rec/conf/ichi/CombiFHHKLMPPSVY23"},
+"url":"URL#1107830"
+},
+{
+"@score":"1",
+"@id":"1107831",
+"info":{"authors":{"author":[{"@pid":"293/3958","text":"Sagnik Dakshit"},{"@pid":"p/BPrabhakaran","text":"Balakrishnan Prabhakaran 0001"}]},"title":"CVAE-based Generator for Variable Length Synthetic ECG.","venue":"ICHI","pages":"235-244","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/DakshitP23","doi":"10.1109/ICHI57859.2023.00040","ee":"https://doi.org/10.1109/ICHI57859.2023.00040","url":"https://dblp.org/rec/conf/ichi/DakshitP23"},
+"url":"URL#1107831"
+},
+{
+"@score":"1",
+"@id":"1107832",
+"info":{"authors":{"author":[{"@pid":"293/3958","text":"Sagnik Dakshit"},{"@pid":"p/BPrabhakaran","text":"Balakrishnan Prabhakaran 0001"}]},"title":"Twelve Lead Double Stacked Generalization for ECG Classification.","venue":"ICHI","pages":"245-251","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/DakshitP23a","doi":"10.1109/ICHI57859.2023.00041","ee":"https://doi.org/10.1109/ICHI57859.2023.00041","url":"https://dblp.org/rec/conf/ichi/DakshitP23a"},
+"url":"URL#1107832"
+},
+{
+"@score":"1",
+"@id":"1107833",
+"info":{"authors":{"author":[{"@pid":"301/2333","text":"Sai Dharmarajan"},{"@pid":"322/6930","text":"Satabdi Saha"},{"@pid":"365/7997","text":"Xinying Fang"},{"@pid":"217/5583","text":"Jaejoon Song"}]},"title":"Sample Size Determination for Electronic Phenotyping.","venue":"ICHI","pages":"501-503","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/DharmarajanSFS23","doi":"10.1109/ICHI57859.2023.00084","ee":"https://doi.org/10.1109/ICHI57859.2023.00084","url":"https://dblp.org/rec/conf/ichi/DharmarajanSFS23"},
+"url":"URL#1107833"
+},
+{
+"@score":"1",
+"@id":"1107834",
+"info":{"authors":{"author":{"@pid":"249/4227","text":"Sirui Ding"}},"title":"Towards Precise and Equitable Organ Allocation in Transplant with Machine Learning.","venue":"ICHI","pages":"476","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/Ding23","doi":"10.1109/ICHI57859.2023.00070","ee":"https://doi.org/10.1109/ICHI57859.2023.00070","url":"https://dblp.org/rec/conf/ichi/Ding23"},
+"url":"URL#1107834"
+},
+{
+"@score":"1",
+"@id":"1107835",
+"info":{"authors":{"author":[{"@pid":"186/3831","text":"Bari Dzomba"},{"@pid":"365/8016","text":"Kesa Bond"},{"@pid":"365/7883","text":"Cathy Flite"}]},"title":"Blowing Chunks with ChatGPT.","venue":"ICHI","pages":"673-676","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/DzombaBF23","doi":"10.1109/ICHI57859.2023.00117","ee":"https://doi.org/10.1109/ICHI57859.2023.00117","url":"https://dblp.org/rec/conf/ichi/DzombaBF23"},
+"url":"URL#1107835"
+},
+{
+"@score":"1",
+"@id":"1107836",
+"info":{"authors":{"author":[{"@pid":"164/9422","text":"Niki Efthymiou"},{"@pid":"171/5669","text":"George Retsinas"},{"@pid":"210/1927","text":"Panagiotis Paraskevas Filntisis"},{"@pid":"233/0779","text":"Christos Garoufis"},{"@pid":"40/8056","text":"Athanasia Zlatintsi"},{"@pid":"277/9154","text":"Emmanouil Kalisperakis"},{"@pid":"299/6406","text":"Vasiliki Garyfalli"},{"@pid":"277/9269","text":"Thomas Karantinos"},{"@pid":"277/9437","text":"Marina Lazaridi"},{"@pid":"68/714","text":"Nikolaos Smyrnis"},{"@pid":"22/4003","text":"Petros Maragos"}]},"title":"From Digital Phenotype Identification To Detection Of Psychotic Relapses.","venue":"ICHI","pages":"276-284","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/EfthymiouRFGZKGKLSM23","doi":"10.1109/ICHI57859.2023.00045","ee":"https://doi.org/10.1109/ICHI57859.2023.00045","url":"https://dblp.org/rec/conf/ichi/EfthymiouRFGZKGKLSM23"},
+"url":"URL#1107836"
+},
+{
+"@score":"1",
+"@id":"1107837",
+"info":{"authors":{"author":[{"@pid":"295/2566","text":"Mirna Elizondo"},{"@pid":"365/8095","text":"Rasim Musal"},{"@pid":"365/8377","text":"June Yu"},{"@pid":"36/4814","text":"Jelena Tesic"}]},"title":"Long COVID Challenge: Predictive Modeling of Noisy Clinical Tabular Data.","venue":"ICHI","pages":"150-161","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/ElizondoMYT23","doi":"10.1109/ICHI57859.2023.00030","ee":"https://doi.org/10.1109/ICHI57859.2023.00030","url":"https://dblp.org/rec/conf/ichi/ElizondoMYT23"},
+"url":"URL#1107837"
+},
+{
+"@score":"1",
+"@id":"1107838",
+"info":{"authors":{"author":[{"@pid":"94/10961","text":"Liyue Fan"},{"@pid":"117/9414","text":"Luca Bonomi"}]},"title":"Mitigating Membership Inference in Deep Survival Analyses with Differential Privacy.","venue":"ICHI","pages":"81-90","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/FanB23","doi":"10.1109/ICHI57859.2023.00022","ee":"https://doi.org/10.1109/ICHI57859.2023.00022","url":"https://dblp.org/rec/conf/ichi/FanB23"},
+"url":"URL#1107838"
+},
+{
+"@score":"1",
+"@id":"1107839",
+"info":{"authors":{"author":[{"@pid":"238/5198","text":"Andri Färber"},{"@pid":"77/5842","text":"Alexandre de Spindler"},{"@pid":"208/1836","text":"Adrian Moser"},{"@pid":"s/GerhardSchwabe","text":"Gerhard Schwabe"}]},"title":"Closing the Loop for Patients with Chronic Diseases - from Problems to a Solution Architecture.","venue":"ICHI","pages":"361-370","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/FarberSMS23","doi":"10.1109/ICHI57859.2023.00055","ee":"https://doi.org/10.1109/ICHI57859.2023.00055","url":"https://dblp.org/rec/conf/ichi/FarberSMS23"},
+"url":"URL#1107839"
+},
+{
+"@score":"1",
+"@id":"1107840",
+"info":{"authors":{"author":[{"@pid":"220/3486","text":"Shayan Fazeli"},{"@pid":"320/8017","text":"Alireza Samiei"},{"@pid":"320/7754","text":"Thomas D. Lee"},{"@pid":"s/MajidSarrafzadeh","text":"Majid Sarrafzadeh"}]},"title":"Beyond Labels: Visual Representations for Bone Marrow Cell Morphology Recognition.","venue":"ICHI","pages":"111-117","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/FazeliSLS23","doi":"10.1109/ICHI57859.2023.00025","ee":"https://doi.org/10.1109/ICHI57859.2023.00025","url":"https://dblp.org/rec/conf/ichi/FazeliSLS23"},
+"url":"URL#1107840"
+},
+{
+"@score":"1",
+"@id":"1107841",
+"info":{"authors":{"author":[{"@pid":"249/2301","text":"Xingbo Fu"},{"@pid":"65/4423-22","text":"Chen Chen 0022"},{"@pid":"251/9559","text":"Yushun Dong"},{"@pid":"89/7912","text":"Anil Vullikanti"},{"@pid":"346/0402","text":"Eili Klein"},{"@pid":"346/0685","text":"Gregory Madden"},{"@pid":"144/7997","text":"Jundong Li"}]},"title":"Spatial-Temporal Networks for Antibiogram Pattern Prediction.","venue":"ICHI","pages":"225-234","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/FuCDVKML23","doi":"10.1109/ICHI57859.2023.00039","ee":"https://doi.org/10.1109/ICHI57859.2023.00039","url":"https://dblp.org/rec/conf/ichi/FuCDVKML23"},
+"url":"URL#1107841"
+},
+{
+"@score":"1",
+"@id":"1107842",
+"info":{"authors":{"author":[{"@pid":"16/7040","text":"Ge Gao"},{"@pid":"15/1732","text":"Min Chi"}]},"title":"Trace Augmentation with Missing EHRs for Sepsis Treatments.","venue":"ICHI","pages":"480","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/GaoC23","doi":"10.1109/ICHI57859.2023.00073","ee":"https://doi.org/10.1109/ICHI57859.2023.00073","url":"https://dblp.org/rec/conf/ichi/GaoC23"},
+"url":"URL#1107842"
+},
+{
+"@score":"1",
+"@id":"1107843",
+"info":{"authors":{"author":[{"@pid":"180/9196","text":"Muskan Garg"},{"@pid":"91/3328","text":"Sunghwan Sohn"}]},"title":"CareD: Caregiver&apos;s Experience with Cognitive Decline in Reddit Posts.","venue":"ICHI","pages":"581-587","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/GargS23","doi":"10.1109/ICHI57859.2023.00104","ee":"https://doi.org/10.1109/ICHI57859.2023.00104","url":"https://dblp.org/rec/conf/ichi/GargS23"},
+"url":"URL#1107843"
+},
+{
+"@score":"1",
+"@id":"1107844",
+"info":{"authors":{"author":[{"@pid":"337/2706","text":"Bernadeta Griciute"},{"@pid":"03/10304","text":"Lifeng Han"},{"@pid":"60/6717","text":"Goran Nenadic"}]},"title":"Topic Modelling of Swedish Newspaper Articles about Coronavirus: a Case Study using Latent Dirichlet Allocation Method.","venue":"ICHI","pages":"627-636","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/GriciuteHN23","doi":"10.1109/ICHI57859.2023.00110","ee":"https://doi.org/10.1109/ICHI57859.2023.00110","url":"https://dblp.org/rec/conf/ichi/GriciuteHN23"},
+"url":"URL#1107844"
+},
+{
+"@score":"1",
+"@id":"1107845",
+"info":{"authors":{"author":[{"@pid":"173/0121","text":"Jiaqi Guo"},{"@pid":"355/9434","text":"Marah M. Aqeel"},{"@pid":"301/8331","text":"Luotao Lin"},{"@pid":"48/885","text":"Saul B. Gelfand"},{"@pid":"95/10762","text":"Heather A. Eicher-Miller"},{"@pid":"88/11012","text":"Anindya Bhadra"},{"@pid":"306/9688","text":"Erin Hennessy"},{"@pid":"355/8597","text":"Elizabeth A. Richards"},{"@pid":"d/EdwardJDelp","text":"Edward J. Delp"}]},"title":"Cluster Analysis to Find Temporal Physical Activity Patterns Among US Adults.","venue":"ICHI","pages":"214-224","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/GuoALGEBHRD23","doi":"10.1109/ICHI57859.2023.00038","ee":"https://doi.org/10.1109/ICHI57859.2023.00038","url":"https://dblp.org/rec/conf/ichi/GuoALGEBHRD23"},
+"url":"URL#1107845"
+},
+{
+"@score":"1",
+"@id":"1107846",
+"info":{"authors":{"author":[{"@pid":"271/4493","text":"Mengtian Guo"},{"@pid":"13/6295","text":"David Gotz"},{"@pid":"33/4822-35","text":"Yue Wang 0035"}]},"title":"How Does Imperfect Automatic Indexing Affect Semantic Search Performance?","venue":"ICHI","pages":"588-596","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/GuoGW23","doi":"10.1109/ICHI57859.2023.00105","ee":"https://doi.org/10.1109/ICHI57859.2023.00105","url":"https://dblp.org/rec/conf/ichi/GuoGW23"},
+"url":"URL#1107846"
+},
+{
+"@score":"1",
+"@id":"1107847",
+"info":{"authors":{"author":[{"@pid":"357/1681","text":"Peikun Guo"},{"@pid":"150/4087","text":"Huiyuan Yang"},{"@pid":"129/5095","text":"Akane Sano"}]},"title":"Empirical Study of Mix-based Data Augmentation Methods in Physiological Time Series Data.","venue":"ICHI","pages":"206-213","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/GuoYS23","doi":"10.1109/ICHI57859.2023.00037","ee":"https://doi.org/10.1109/ICHI57859.2023.00037","url":"https://dblp.org/rec/conf/ichi/GuoYS23"},
+"url":"URL#1107847"
+},
+{
+"@score":"1",
+"@id":"1107848",
+"info":{"authors":{"author":[{"@pid":"273/8247","text":"Degan Hao"},{"@pid":"60/9774","text":"Mohammadreza Negahdar"}]},"title":"Predicting Outcomes in Long COVID Patients with Spatiotemporal Attention.","venue":"ICHI","pages":"162-167","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/HaoN23","doi":"10.1109/ICHI57859.2023.00031","ee":"https://doi.org/10.1109/ICHI57859.2023.00031","url":"https://dblp.org/rec/conf/ichi/HaoN23"},
+"url":"URL#1107848"
+},
+{
+"@score":"1",
+"@id":"1107849",
+"info":{"authors":{"author":[{"@pid":"60/11345","text":"S. M. Shamimul Hasan"},{"@pid":"142/1270","text":"Greeshma A. Agasthya"},{"@pid":"204/1696","text":"Daniel Santel"},{"@pid":"363/5718","text":"Surbhi Bhatnagar"},{"@pid":"311/1100","text":"Ian Goethert"},{"@pid":"150/0858","text":"Tracy A. Glauser"},{"@pid":"37/2502","text":"John Pestian"}]},"title":"Application of Unified Medical Language System (UMLS) to Standardize Pediatric Drug Data.","venue":"ICHI","pages":"753-755","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/HasanASBGGP23","doi":"10.1109/ICHI57859.2023.00138","ee":"https://doi.org/10.1109/ICHI57859.2023.00138","url":"https://dblp.org/rec/conf/ichi/HasanASBGGP23"},
+"url":"URL#1107849"
+},
+{
+"@score":"1",
+"@id":"1107850",
+"info":{"authors":{"author":[{"@pid":"60/11345","text":"S. M. Shamimul Hasan"},{"@pid":"271/8488","text":"Alina Peluso"},{"@pid":"347/3164","text":"Heidi A. Hanson"},{"@pid":"117/2474","text":"Anuj J. Kapadia"}]},"title":"Medication Knowledge Graph Analysis Using the PageRank Algorithm.","venue":"ICHI","pages":"495-497","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/HasanPHK23","doi":"10.1109/ICHI57859.2023.00082","ee":"https://doi.org/10.1109/ICHI57859.2023.00082","url":"https://dblp.org/rec/conf/ichi/HasanPHK23"},
+"url":"URL#1107850"
+},
+{
+"@score":"1",
+"@id":"1107851",
+"info":{"authors":{"author":{"@pid":"213/0806","text":"Paul M. Heider"}},"title":"Algorithmic Bias in De-Identification Tools.","venue":"ICHI","pages":"712-713","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/Heider23","doi":"10.1109/ICHI57859.2023.00129","ee":"https://doi.org/10.1109/ICHI57859.2023.00129","url":"https://dblp.org/rec/conf/ichi/Heider23"},
+"url":"URL#1107851"
+},
+{
+"@score":"1",
+"@id":"1107852",
+"info":{"authors":{"author":[{"@pid":"117/3396","text":"Homa Hosseinmardi"},{"@pid":"164/6059","text":"Amir Ghasemian"},{"@pid":"99/433","text":"Kristina Lerman"},{"@pid":"19/3899","text":"Shrikanth Narayanan"},{"@pid":"38/8773","text":"Emilio Ferrara"}]},"title":"Tensor Embedding: A Supervised Framework for Human Behavioral Data Mining and Prediction.","venue":"ICHI","pages":"91-100","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/HosseinmardiGLNF23","doi":"10.1109/ICHI57859.2023.00023","ee":"https://doi.org/10.1109/ICHI57859.2023.00023","url":"https://dblp.org/rec/conf/ichi/HosseinmardiGLNF23"},
+"url":"URL#1107852"
+},
+{
+"@score":"1",
+"@id":"1107853",
+"info":{"authors":{"author":[{"@pid":"05/6957-6","text":"Ming Huang 0006"},{"@pid":"258/4807","text":"Aditya Khurana"},{"@pid":"258/4619","text":"George M. Mastorakos"},{"@pid":"126/4991-2","text":"Jiawei Zhou 0002"},{"@pid":"44/7805","text":"Nansu Zong"},{"@pid":"55/2008","text":"Yue Yu"},{"@pid":"339/1073","text":"Julie E. Prigge"},{"@pid":"20/5530","text":"Christi A. Patten"},{"@pid":"92/2407","text":"Hongfang Liu"},{"@pid":"339/1403","text":"Brian Costello"}]},"title":"Characterizing the Users of Patient Portal Messaging: A Single Institutional Cohort Study.","venue":"ICHI","pages":"381-387","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/HuangKMZZYPPLC23","doi":"10.1109/ICHI57859.2023.00057","ee":"https://doi.org/10.1109/ICHI57859.2023.00057","url":"https://dblp.org/rec/conf/ichi/HuangKMZZYPPLC23"},
+"url":"URL#1107853"
+},
+{
+"@score":"1",
+"@id":"1107854",
+"info":{"authors":{"author":[{"@pid":"342/8019","text":"Yuelyu Ji"},{"@pid":"228/6742","text":"Yuhe Gao"},{"@pid":"257/5653","text":"Runxue Bao"},{"@pid":"181/2688","text":"Qi Li"},{"@pid":"350/5300","text":"Disheng Liu"},{"@pid":"36/2423-4","text":"Yiming Sun 0004"},{"@pid":"36/8548-2","text":"Ye Ye 0002"}]},"title":"Prediction of COVID-19 Patients&apos; Emergency Room Revisit using Multi-Source Transfer Learning.","venue":"ICHI","pages":"138-144","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/JiGBLLSY23","doi":"10.1109/ICHI57859.2023.00028","ee":"https://doi.org/10.1109/ICHI57859.2023.00028","url":"https://dblp.org/rec/conf/ichi/JiGBLLSY23"},
+"url":"URL#1107854"
+},
+{
+"@score":"1",
+"@id":"1107855",
+"info":{"authors":{"author":[{"@pid":"230/3262-8","text":"Yan Jia 0008"},{"@pid":"04/1777","text":"John A. McDermid"},{"@pid":"251/1692","text":"Nathan Gerard Jayy Hughes"},{"@pid":"99/6779","text":"Mark Sujan"},{"@pid":"252/2817","text":"Tom Lawton"},{"@pid":"98/575","text":"Ibrahim Habli"}]},"title":"The Need for the Human-Centred Explanation for ML-based Clinical Decision Support Systems.","venue":"ICHI","pages":"446-452","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/JiaMHSLH23","doi":"10.1109/ICHI57859.2023.00064","ee":"https://doi.org/10.1109/ICHI57859.2023.00064","url":"https://dblp.org/rec/conf/ichi/JiaMHSLH23"},
+"url":"URL#1107855"
+},
+{
+"@score":"1",
+"@id":"1107856",
+"info":{"authors":{"author":[{"@pid":"239/4567","text":"Yuhang Jiang"},{"@pid":"17/265","text":"Ramakanth Kavuluru"}]},"title":"End-to-End n-ary Relation Extraction for Combination Drug Therapies.","venue":"ICHI","pages":"72-80","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/JiangK23","doi":"10.1109/ICHI57859.2023.00021","ee":"https://doi.org/10.1109/ICHI57859.2023.00021","url":"https://dblp.org/rec/conf/ichi/JiangK23"},
+"url":"URL#1107856"
+},
+{
+"@score":"1",
+"@id":"1107857",
+"info":{"authors":{"author":[{"@pid":"285/7036","text":"Julie Jiang"},{"@pid":"99/433","text":"Kristina Lerman"},{"@pid":"38/8773","text":"Emilio Ferrara"}]},"title":"Zero-Shot Meta-Learning for Small-Scale Data From Human Subjects.","venue":"ICHI","pages":"311-320","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/JiangLF23","doi":"10.1109/ICHI57859.2023.00049","ee":"https://doi.org/10.1109/ICHI57859.2023.00049","url":"https://dblp.org/rec/conf/ichi/JiangLF23"},
+"url":"URL#1107857"
+},
+{
+"@score":"1",
+"@id":"1107858",
+"info":{"authors":{"author":[{"@pid":"300/4774","text":"Inyoung Jun"},{"@pid":"68/9916","text":"Sarah E. S. Leary"},{"@pid":"37/5126-12","text":"Jie Xu 0012"},{"@pid":"09/851-1","text":"Jiang Bian 0001"},{"@pid":"98/1006","text":"Mattia Prosperi"}]},"title":"Quantification of Racial Disparity on Urinary Tract Infection Recurrence and Treatment Resistance in Florida using Algorithmic Fairness Methods.","venue":"ICHI","pages":"261-267","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/JunLXBP23","doi":"10.1109/ICHI57859.2023.00043","ee":"https://doi.org/10.1109/ICHI57859.2023.00043","url":"https://dblp.org/rec/conf/ichi/JunLXBP23"},
+"url":"URL#1107858"
+},
+{
+"@score":"1",
+"@id":"1107859",
+"info":{"authors":{"author":[{"@pid":"200/4796","text":"Evilásio Costa Junior"},{"@pid":"61/6138","text":"Rossana Maria de Castro Andrade"},{"@pid":"05/8045","text":"Leonardo Sampaio Rocha"}]},"title":"Classification Graph to the Internet of Health Things Applications.","venue":"ICHI","pages":"118-127","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/JuniorAR23","doi":"10.1109/ICHI57859.2023.00026","ee":"https://doi.org/10.1109/ICHI57859.2023.00026","url":"https://dblp.org/rec/conf/ichi/JuniorAR23"},
+"url":"URL#1107859"
+},
+{
+"@score":"1",
+"@id":"1107860",
+"info":{"authors":{"author":[{"@pid":"249/3357","text":"Hilda B. Klasky"},{"@pid":"119/5731","text":"Özgür Özmen"},{"@pid":"50/1517","text":"Olufemi A. Omitaomu"},{"@pid":"33/7532","text":"Mohammed M. Olama"},{"@pid":"186/4837","text":"Merry Ward"},{"@pid":"249/3273","text":"Angela Laurio"},{"@pid":"71/9189","text":"Jonathan R. Nebeker"}]},"title":"Towards a Comparative Assessment of Data-Driven Process Models in Health Information Technology.","venue":"ICHI","pages":"338-343","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/KlaskyOOOWLN23","doi":"10.1109/ICHI57859.2023.00052","ee":"https://doi.org/10.1109/ICHI57859.2023.00052","url":"https://dblp.org/rec/conf/ichi/KlaskyOOOWLN23"},
+"url":"URL#1107860"
+},
+{
+"@score":"1",
+"@id":"1107861",
+"info":{"authors":{"author":[{"@pid":"177/7279","text":"Zeljko Kraljevic"},{"@pid":"276/0264","text":"Anthony Shek"},{"@pid":"336/2206","text":"Joshua Au Yeung"},{"@pid":"358/6966","text":"Ewart Jonathan Sheldon"},{"@pid":"251/3194","text":"Haris Shuaib"},{"@pid":"358/7149","text":"Mohammad Al-Agil"},{"@pid":"06/6656","text":"Xi Bai"},{"@pid":"201/1915","text":"Kawsar Noor"},{"@pid":"99/9077","text":"Anoop D. Shah"},{"@pid":"51/5120","text":"Richard J. B. Dobson"},{"@pid":"98/8257","text":"James T. Teo"}]},"title":"Validating Transformers for Redaction of Text from Electronic Health Records in Real-World Healthcare.","venue":"ICHI","pages":"544-549","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/KraljevicSYSSABNSDT23","doi":"10.1109/ICHI57859.2023.00098","ee":"https://doi.org/10.1109/ICHI57859.2023.00098","url":"https://dblp.org/rec/conf/ichi/KraljevicSYSSABNSDT23"},
+"url":"URL#1107861"
+},
+{
+"@score":"1",
+"@id":"1107862",
+"info":{"authors":{"author":[{"@pid":"365/8204","text":"Christina Letter"},{"@pid":"06/1383","text":"Puneet Gupta"},{"@pid":"365/8220","text":"Annie Kim"},{"@pid":"365/7634","text":"Guang-Ting Cong"},{"@pid":"92/2407","text":"Hongfang Liu"},{"@pid":"241/7274","text":"Ahmad P. Tafti"}]},"title":"Gender-Specific Machine Learning Models to Predict Unplanned Return to Operating Room Following Primary Total Shoulder Arthroplasty.","venue":"ICHI","pages":"717-721","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/LetterGKCLT23","doi":"10.1109/ICHI57859.2023.00131","ee":"https://doi.org/10.1109/ICHI57859.2023.00131","url":"https://dblp.org/rec/conf/ichi/LetterGKCLT23"},
+"url":"URL#1107862"
+},
+{
+"@score":"1",
+"@id":"1107863",
+"info":{"authors":{"author":[{"@pid":"287/5139","text":"Zehan Li"},{"@pid":"167/4675","text":"Iqra Ameer"},{"@pid":"87/3691","text":"Yan Hu"},{"@pid":"365/7776","text":"Ahmed Abdelhameed"},{"@pid":"03/4748","text":"Cui Tao"},{"@pid":"144/0016","text":"Salih Selek"},{"@pid":"31/4114-1","text":"Hua Xu 0001"}]},"title":"Suicide Tendency Prediction from Psychiatric Notes Using Transformer Models.","venue":"ICHI","pages":"481-483","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/LiAHATSX23","doi":"10.1109/ICHI57859.2023.00074","ee":"https://doi.org/10.1109/ICHI57859.2023.00074","url":"https://dblp.org/rec/conf/ichi/LiAHATSX23"},
+"url":"URL#1107863"
+},
+{
+"@score":"1",
+"@id":"1107864",
+"info":{"authors":{"author":[{"@pid":"55/6910","text":"Ye Li"},{"@pid":"286/5447","text":"Kiran Bhattacharyya"}]},"title":"3D Trajectory Visualization for Robotic-Assisted Surgery Review.","venue":"ICHI","pages":"504","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/LiB23","doi":"10.1109/ICHI57859.2023.00085","ee":"https://doi.org/10.1109/ICHI57859.2023.00085","url":"https://dblp.org/rec/conf/ichi/LiB23"},
+"url":"URL#1107864"
+},
+{
+"@score":"1",
+"@id":"1107865",
+"info":{"authors":{"author":[{"@pid":"80/1874-6","text":"Yunfan Li 0006"},{"@pid":"330/0760","text":"Himanshu Gupta"},{"@pid":"93/3488","text":"Haibin Ling"},{"@pid":"r/IVRamakrishnan","text":"I. V. Ramakrishnan"},{"@pid":"133/6611","text":"Prateek Prasanna"},{"@pid":"186/8108","text":"Georgios Georgakis"},{"@pid":"356/9284","text":"Aaron Sasson"}]},"title":"Automated Assessment of Critical View of Safety in Laparoscopic Cholecystectomy.","venue":"ICHI","pages":"330-337","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/LiGLRPGS23","doi":"10.1109/ICHI57859.2023.00051","ee":"https://doi.org/10.1109/ICHI57859.2023.00051","url":"https://dblp.org/rec/conf/ichi/LiGLRPGS23"},
+"url":"URL#1107865"
+},
+{
+"@score":"1",
+"@id":"1107866",
+"info":{"authors":{"author":[{"@pid":"73/2252","text":"Lin Li"},{"@pid":"304/1575","text":"Mimi Liu"},{"@pid":"214/2319","text":"Cong Lai"},{"@pid":"56/1239","text":"Weidong Ji"},{"@pid":"336/6586","text":"Kewei Xu"},{"@pid":"01/1901-5","text":"Yi Zhou 0005"}]},"title":"Analysis of residual stones in patients and related influencing factors after percutaneous nephrolithotomy: a retrospective study.","venue":"ICHI","pages":"32-39","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/LiLLJXZ23","doi":"10.1109/ICHI57859.2023.00016","ee":"https://doi.org/10.1109/ICHI57859.2023.00016","url":"https://dblp.org/rec/conf/ichi/LiLLJXZ23"},
+"url":"URL#1107866"
+},
+{
+"@score":"1",
+"@id":"1107867",
+"info":{"authors":{"author":[{"@pid":"181/2877","text":"Yiming Li"},{"@pid":"297/1952","text":"Xueqing Peng"},{"@pid":"01/7732","text":"Jianfu Li"},{"@pid":"157/0852","text":"Suyuan Peng"},{"@pid":"365/7954","text":"Donghong Pei"},{"@pid":"03/4748","text":"Cui Tao"},{"@pid":"31/4114-1","text":"Hua Xu 0001"},{"@pid":"124/7694","text":"Na Hong"}]},"title":"Development of a Natural Language Processing Tool to Extract Acupuncture Point Location Terms.","venue":"ICHI","pages":"344-351","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/LiPLPPTXH23","doi":"10.1109/ICHI57859.2023.00053","ee":"https://doi.org/10.1109/ICHI57859.2023.00053","url":"https://dblp.org/rec/conf/ichi/LiPLPPTXH23"},
+"url":"URL#1107867"
+},
+{
+"@score":"1",
+"@id":"1107868",
+"info":{"authors":{"author":[{"@pid":"297/4005","text":"Ko-Hong Lin"},{"@pid":"365/8441","text":"Jay-Jiguang Zhu"},{"@pid":"194/4605","text":"Judith A. Smith"},{"@pid":"74/3301-1","text":"Yejin Kim 0001"},{"@pid":"43/3924","text":"Xiaoqian Jiang"}]},"title":"An End-to-end In-Silico and In-Vitro Drug Repurposing Pipeline for Glioblastoma.","venue":"ICHI","pages":"738-745","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/LinZSKJ23","doi":"10.1109/ICHI57859.2023.00135","ee":"https://doi.org/10.1109/ICHI57859.2023.00135","url":"https://dblp.org/rec/conf/ichi/LinZSKJ23"},
+"url":"URL#1107868"
+},
+{
+"@score":"1",
+"@id":"1107869",
+"info":{"authors":{"author":[{"@pid":"37/3102","text":"Chen Lin"},{"@pid":"204/2523","text":"Jianghong Zhou"},{"@pid":"05/3499-1","text":"Jing Zhang 0001"},{"@pid":"305/0254","text":"Carl Yang 0001"},{"@pid":"26/1185","text":"Eugene Agichtein"}]},"title":"Graph Neural Network Modeling of Web Search Activity for Real-time Pandemic Forecasting.","venue":"ICHI","pages":"128-137","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/LinZZYA23","doi":"10.1109/ICHI57859.2023.00027","ee":"https://doi.org/10.1109/ICHI57859.2023.00027","url":"https://dblp.org/rec/conf/ichi/LinZZYA23"},
+"url":"URL#1107869"
+},
+{
+"@score":"1",
+"@id":"1107870",
+"info":{"authors":{"author":[{"@pid":"354/7363","text":"Nickolas Littlefield"},{"@pid":"197/4453","text":"Hamidreza Moradi"},{"@pid":"264/5666","text":"Soheyla Amirian"},{"@pid":"05/11449","text":"Hilal Maradit Kremers"},{"@pid":"336/6478","text":"Johannes F. Plate"},{"@pid":"241/7274","text":"Ahmad P. Tafti"}]},"title":"Enforcing Explainable Deep Few-Shot Learning to Analyze Plain Knee Radiographs: Data from the Osteoarthritis Initiative.","venue":"ICHI","pages":"252-260","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/LittlefieldMAKPT23","doi":"10.1109/ICHI57859.2023.00042","ee":"https://doi.org/10.1109/ICHI57859.2023.00042","url":"https://dblp.org/rec/conf/ichi/LittlefieldMAKPT23"},
+"url":"URL#1107870"
+},
+{
+"@score":"1",
+"@id":"1107871",
+"info":{"authors":{"author":[{"@pid":"354/7363","text":"Nickolas Littlefield"},{"@pid":"336/6478","text":"Johannes F. Plate"},{"@pid":"354/7334","text":"Kurt R. Weiss"},{"@pid":"354/7129","text":"Ines Lohse"},{"@pid":"354/7227","text":"Avani Chhabra"},{"@pid":"354/7359","text":"Ismaeel A. Siddiqui"},{"@pid":"354/7253","text":"Zoe Menezes"},{"@pid":"258/4619","text":"George M. Mastorakos"},{"@pid":"264/5666","text":"Soheyla Amirian"},{"@pid":"197/4453","text":"Hamidreza Moradi"},{"@pid":"241/7274","text":"Ahmad P. Tafti"}]},"title":"AI Fairness in Hip Bony Anatomy Segmentation: Analyzing and Mitigating Gender and Racial Bias in Plain Radiography Analysis.","venue":"ICHI","pages":"714-716","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/LittlefieldPWLCSMMAMT23","doi":"10.1109/ICHI57859.2023.00130","ee":"https://doi.org/10.1109/ICHI57859.2023.00130","url":"https://dblp.org/rec/conf/ichi/LittlefieldPWLCSMMAMT23"},
+"url":"URL#1107871"
+},
+{
+"@score":"1",
+"@id":"1107872",
+"info":{"authors":{"author":[{"@pid":"365/7763","text":"Daniel Cabrera Lozoya"},{"@pid":"60/9092","text":"Simon D&apos;Alfonso"},{"@pid":"34/7070","text":"Mike Conway"}]},"title":"Identifying Gender Bias in Generative Models for Mental Health Synthetic Data.","venue":"ICHI","pages":"619-626","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/LozoyaDC23","doi":"10.1109/ICHI57859.2023.00109","ee":"https://doi.org/10.1109/ICHI57859.2023.00109","url":"https://dblp.org/rec/conf/ichi/LozoyaDC23"},
+"url":"URL#1107872"
+},
+{
+"@score":"1",
+"@id":"1107873",
+"info":{"authors":{"author":[{"@pid":"365/8360","text":"Mary M. Lucas"},{"@pid":"135/0270","text":"Chia-Hsuan Chang"},{"@pid":"09/6487","text":"Christopher C. Yang"}]},"title":"Resampling for Mitigating Bias in Predictive Model for Substance Use Disorder Treatment Completion.","venue":"ICHI","pages":"709-711","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/LucasCY23","doi":"10.1109/ICHI57859.2023.00128","ee":"https://doi.org/10.1109/ICHI57859.2023.00128","url":"https://dblp.org/rec/conf/ichi/LucasCY23"},
+"url":"URL#1107873"
+},
+{
+"@score":"1",
+"@id":"1107874",
+"info":{"authors":{"author":[{"@pid":"252/2311","text":"Hetong Ma"},{"@pid":"181/2733","text":"Xiaowei Xu"},{"@pid":"134/4618","text":"Xuwen Wang"},{"@pid":"35/6453","text":"Zhen Guo"},{"@pid":"65/1739-1","text":"Jiao Li 0001"}]},"title":"Comma: A Collaborative Medical Text Annotation Platform.","venue":"ICHI","pages":"536-543","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MaXWGL23","doi":"10.1109/ICHI57859.2023.00097","ee":"https://doi.org/10.1109/ICHI57859.2023.00097","url":"https://dblp.org/rec/conf/ichi/MaXWGL23"},
+"url":"URL#1107874"
+},
+{
+"@score":"1",
+"@id":"1107875",
+"info":{"authors":{"author":[{"@pid":"339/2276","text":"Minhaz Mahmud"},{"@pid":"122/5190-1","text":"Md. Rakibul Hasan 0001"},{"@pid":"365/7927","text":"Reabal Najjar"},{"@pid":"44/8036","text":"Md. Zakir Hossain"}]},"title":"Which Features Are Useful in Machine Learning-Based COVID-19 Prognostication? A Meta-Analysis.","venue":"ICHI","pages":"145-149","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MahmudHNH23","doi":"10.1109/ICHI57859.2023.00029","ee":"https://doi.org/10.1109/ICHI57859.2023.00029","url":"https://dblp.org/rec/conf/ichi/MahmudHNH23"},
+"url":"URL#1107875"
+},
+{
+"@score":"1",
+"@id":"1107876",
+"info":{"authors":{"author":[{"@pid":"298/6300","text":"Vincent J. Major"},{"@pid":"365/8463","text":"Claudia S. Plottel"},{"@pid":"96/7338","text":"Yindalon Aphinyanaphongs"}]},"title":"Ten Years of Health Informatics Education for Physicians.","venue":"ICHI","pages":"637-644","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MajorPA23","doi":"10.1109/ICHI57859.2023.00111","ee":"https://doi.org/10.1109/ICHI57859.2023.00111","url":"https://dblp.org/rec/conf/ichi/MajorPA23"},
+"url":"URL#1107876"
+},
+{
+"@score":"1",
+"@id":"1107877",
+"info":{"authors":{"author":[{"@pid":"298/6300","text":"Vincent J. Major"},{"@pid":"58/3695","text":"Walter Wang"},{"@pid":"96/7338","text":"Yindalon Aphinyanaphongs"}]},"title":"Enabling AI-Augmented Clinical Workflows by Accessing Patient Data in Real-Time with FHIR.","venue":"ICHI","pages":"531-533","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MajorWA23","doi":"10.1109/ICHI57859.2023.00095","ee":"https://doi.org/10.1109/ICHI57859.2023.00095","url":"https://dblp.org/rec/conf/ichi/MajorWA23"},
+"url":"URL#1107877"
+},
+{
+"@score":"1",
+"@id":"1107878",
+"info":{"authors":{"author":[{"@pid":"242/6647","text":"Hamid Mansoor"},{"@pid":"237/9060","text":"Walter Gerych"},{"@pid":"74/10202","text":"Abdulaziz Alajaji"},{"@pid":"248/3289","text":"Luke Buquicchio"},{"@pid":"248/3538","text":"Kavin Chandrasekaran"},{"@pid":"23/3629","text":"Emmanuel Agu"},{"@pid":"r/EARundensteiner","text":"Elke A. Rundensteiner"}]},"title":"Population-Level Visual Analytics of Smartphone Sensed Health and Wellness Using Community Phenotypes.","venue":"ICHI","pages":"420-429","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MansoorGABCAR23","doi":"10.1109/ICHI57859.2023.00061","ee":"https://doi.org/10.1109/ICHI57859.2023.00061","url":"https://dblp.org/rec/conf/ichi/MansoorGABCAR23"},
+"url":"URL#1107878"
+},
+{
+"@score":"1",
+"@id":"1107879",
+"info":{"authors":{"author":[{"@pid":"140/4633-1","text":"Matteo Mantovani 0001"},{"@pid":"365/7926","text":"Andrea Caravati"},{"@pid":"87/3851","text":"Giuseppe Pozzi"},{"@pid":"c/CarloCombi","text":"Carlo Combi"},{"@pid":"295/1114","text":"Roberto Salvia"}]},"title":"A BPMN-based Framework to Manage ERAS-inspired Pathway for Patients Undergoing Pancreatic Surgery.","venue":"ICHI","pages":"21-31","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MantovaniCPCS23","doi":"10.1109/ICHI57859.2023.00015","ee":"https://doi.org/10.1109/ICHI57859.2023.00015","url":"https://dblp.org/rec/conf/ichi/MantovaniCPCS23"},
+"url":"URL#1107879"
+},
+{
+"@score":"1",
+"@id":"1107880",
+"info":{"authors":{"author":[{"@pid":"314/2802","text":"Bingyu Mao"},{"@pid":"266/1370","text":"Ziqian Xie"},{"@pid":"225/5887","text":"Laila Rasmy"},{"@pid":"330/9747","text":"Masayuki Nigo"},{"@pid":"64/2908","text":"Degui Zhi"}]},"title":"A Deep-Learning-based Two-Compartment Predictive Model (PKRNN-2CM) for Vancomycin Therapeutic Drug Monitoring.","venue":"ICHI","pages":"484","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MaoXRNZ23","doi":"10.1109/ICHI57859.2023.00075","ee":"https://doi.org/10.1109/ICHI57859.2023.00075","url":"https://dblp.org/rec/conf/ichi/MaoXRNZ23"},
+"url":"URL#1107880"
+},
+{
+"@score":"1",
+"@id":"1107881",
+"info":{"authors":{"author":[{"@pid":"211/9501","text":"Jiayi Meng"},{"@pid":"138/6829","text":"Zhiya Zuo"},{"@pid":"66/3387-75","text":"Hui Li 0075"},{"@pid":"08/5760-10","text":"Xi Wang 0010"}]},"title":"Health Literacy Drift in Online Health Communities.","venue":"ICHI","pages":"516-518","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MengZLW23","doi":"10.1109/ICHI57859.2023.00089","ee":"https://doi.org/10.1109/ICHI57859.2023.00089","url":"https://dblp.org/rec/conf/ichi/MengZLW23"},
+"url":"URL#1107881"
+},
+{
+"@score":"1",
+"@id":"1107882",
+"info":{"authors":{"author":[{"@pid":"351/3668","text":"Simon Meoni"},{"@pid":"230/3848","text":"Théo Ryffel"},{"@pid":"54/5373","text":"Éric de la Clergerie"}]},"title":"Annotate French Clinical Data Using Large Language Model Predictions.","venue":"ICHI","pages":"550-557","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MeoniRC23","doi":"10.1109/ICHI57859.2023.00099","ee":"https://doi.org/10.1109/ICHI57859.2023.00099","url":"https://dblp.org/rec/conf/ichi/MeoniRC23"},
+"url":"URL#1107882"
+},
+{
+"@score":"1",
+"@id":"1107883",
+"info":{"authors":{"author":[{"@pid":"153/7385","text":"Steven Mertens"},{"@pid":"95/6356","text":"Frederik Gailly"}]},"title":"Supporting Physicians Through Prescriptive Process Monitoring.","venue":"ICHI","pages":"12-20","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MertensG23","doi":"10.1109/ICHI57859.2023.00014","ee":"https://doi.org/10.1109/ICHI57859.2023.00014","url":"https://dblp.org/rec/conf/ichi/MertensG23"},
+"url":"URL#1107883"
+},
+{
+"@score":"1",
+"@id":"1107884",
+"info":{"authors":{"author":[{"@pid":"46/9381","text":"Kurt Miller"},{"@pid":"283/3589","text":"Bhavani Singh Agnikula Kshatriya"},{"@pid":"290/7402","text":"Nicolas A. Nunez"},{"@pid":"290/8059","text":"Manuel Gardea-Resendez"},{"@pid":"166/8209","text":"Euijung Ryu"},{"@pid":"290/7412","text":"Brandon J. Coombes"},{"@pid":"160/1539","text":"Sunyang Fu"},{"@pid":"150/0867","text":"Mark A. Frye"},{"@pid":"123/6050","text":"Joanna M. Biernacka"},{"@pid":"05/6957-6","text":"Ming Huang 0006"},{"@pid":"45/11295","text":"Yanshan Wang"}]},"title":"Identifying Major Depressive Disorder From Clinical Notes Using Neural Language Models with Distant Supervision.","venue":"ICHI","pages":"183-192","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MillerKNGRCFFBHW23","doi":"10.1109/ICHI57859.2023.00034","ee":"https://doi.org/10.1109/ICHI57859.2023.00034","url":"https://dblp.org/rec/conf/ichi/MillerKNGRCFFBHW23"},
+"url":"URL#1107884"
+},
+{
+"@score":"1",
+"@id":"1107885",
+"info":{"authors":{"author":[{"@pid":"76/3457","text":"Hua Min"},{"@pid":"200/4509","text":"Hedyeh Mobahi"},{"@pid":"41/5352","text":"Janusz Wojtusiak"}]},"title":"Application of Synthetic Datasets across Courses in Health Informatics Education.","venue":"ICHI","pages":"677-681","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MinMW23","doi":"10.1109/ICHI57859.2023.00118","ee":"https://doi.org/10.1109/ICHI57859.2023.00118","url":"https://dblp.org/rec/conf/ichi/MinMW23"},
+"url":"URL#1107885"
+},
+{
+"@score":"1",
+"@id":"1107886",
+"info":{"authors":{"author":[{"@pid":"216/4081","text":"Jimit Mistry"},{"@pid":"115/8280","text":"Natalia M. Arzeno"}]},"title":"Document Understanding for Healthcare Referrals.","venue":"ICHI","pages":"460-464","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MistryA23","doi":"10.1109/ICHI57859.2023.00067","ee":"https://doi.org/10.1109/ICHI57859.2023.00067","url":"https://dblp.org/rec/conf/ichi/MistryA23"},
+"url":"URL#1107886"
+},
+{
+"@score":"1",
+"@id":"1107887",
+"info":{"authors":{"author":[{"@pid":"18/1851","text":"Sabah Mohammed"},{"@pid":"04/3060","text":"Jinan Fiaidhi"}]},"title":"Investigation into Scaling-Up the SOAP Problem-Oriented Medical Record into a Clinical Case Study.","venue":"ICHI","pages":"731-737","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MohammedF23","doi":"10.1109/ICHI57859.2023.00134","ee":"https://doi.org/10.1109/ICHI57859.2023.00134","url":"https://dblp.org/rec/conf/ichi/MohammedF23"},
+"url":"URL#1107887"
+},
+{
+"@score":"1",
+"@id":"1107888",
+"info":{"authors":{"author":[{"@pid":"253/8587","text":"Michal Monselise"},{"@pid":"09/6487","text":"Christopher C. Yang"}]},"title":"Leveraging Social Support Types and Link Prediction for User Recommendation for Online Health Community in Pregnancy After Loss.","venue":"ICHI","pages":"40-48","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MonseliseY23","doi":"10.1109/ICHI57859.2023.00017","ee":"https://doi.org/10.1109/ICHI57859.2023.00017","url":"https://dblp.org/rec/conf/ichi/MonseliseY23"},
+"url":"URL#1107888"
+},
+{
+"@score":"1",
+"@id":"1107889",
+"info":{"authors":{"author":[{"@pid":"209/6657","text":"Maira B. H. Moran"},{"@pid":"333/2963","text":"Larissa Oliveira 0001"},{"@pid":"333/3613","text":"Marcelo Daniel Brito Faria"},{"@pid":"283/3940","text":"Luciana Freitas Bastos"},{"@pid":"05/6423","text":"Gilson A. Giraldi"},{"@pid":"333/2819","text":"José Firmino Nogueira Neto"},{"@pid":"c/AuraConci","text":"Aura Conci"}]},"title":"A Lightweight Segmentation Method for Mandibular Canal Based on Arch Shape and Hough Transform.","venue":"ICHI","pages":"285-291","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/MoranOFBGNC23","doi":"10.1109/ICHI57859.2023.00046","ee":"https://doi.org/10.1109/ICHI57859.2023.00046","url":"https://dblp.org/rec/conf/ichi/MoranOFBGNC23"},
+"url":"URL#1107889"
+},
+{
+"@score":"1",
+"@id":"1107890",
+"info":{"authors":{"author":[{"@pid":"328/1043","text":"Mikel K. Ngueajio"},{"@pid":"166/4165","text":"Gloria J. Washington"}]},"title":"Explainable Microaggression Detector for Improving Doctor - Patient Interactions.","venue":"ICHI","pages":"491","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/NgueajioW23","doi":"10.1109/ICHI57859.2023.00080","ee":"https://doi.org/10.1109/ICHI57859.2023.00080","url":"https://dblp.org/rec/conf/ichi/NgueajioW23"},
+"url":"URL#1107890"
+},
+{
+"@score":"1",
+"@id":"1107891",
+"info":{"authors":{"author":[{"@pid":"365/7985","text":"Jenny Ogden"},{"@pid":"365/8478","text":"David M. Lee"},{"@pid":"197/4453","text":"Hamidreza Moradi"}]},"title":"Transfer Learning for Classification of Retinal Disease using Fundus Imaging.","venue":"ICHI","pages":"510-512","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/OgdenLM23","doi":"10.1109/ICHI57859.2023.00087","ee":"https://doi.org/10.1109/ICHI57859.2023.00087","url":"https://dblp.org/rec/conf/ichi/OgdenLM23"},
+"url":"URL#1107891"
+},
+{
+"@score":"1",
+"@id":"1107892",
+"info":{"authors":{"author":[{"@pid":"329/5528","text":"Hunter Osterhoudt"},{"@pid":"365/7816","text":"Liann Ching"},{"@pid":"309/2131","text":"Minmei Shih"},{"@pid":"329/5618","text":"Courtney E. Schneider"},{"@pid":"329/5559","text":"Alexandra E. Harper"},{"@pid":"318/9337","text":"Haneef Ahamed Mohammad"},{"@pid":"274/3717","text":"Elizabeth R. Skidmore"},{"@pid":"45/11295","text":"Yanshan Wang"},{"@pid":"71/5102","text":"Leming Zhou"}]},"title":"Feasibility of Categorizing Rehabilitation Gestures for Automated Fidelity Assessment on Strategy Training using Deep Learning.","venue":"ICHI","pages":"513-515","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/OsterhoudtCSSHMSWZ23","doi":"10.1109/ICHI57859.2023.00088","ee":"https://doi.org/10.1109/ICHI57859.2023.00088","url":"https://dblp.org/rec/conf/ichi/OsterhoudtCSSHMSWZ23"},
+"url":"URL#1107892"
+},
+{
+"@score":"1",
+"@id":"1107893",
+"info":{"authors":{"author":{"@pid":"270/3086","text":"Ayomide Owoyemi"}},"title":"Development of a Determinant Framework to Guide the Translation of AI Systems in Clinical Care.","venue":"ICHI","pages":"490","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/Owoyemi23","doi":"10.1109/ICHI57859.2023.00079","ee":"https://doi.org/10.1109/ICHI57859.2023.00079","url":"https://dblp.org/rec/conf/ichi/Owoyemi23"},
+"url":"URL#1107893"
+},
+{
+"@score":"1",
+"@id":"1107894",
+"info":{"authors":{"author":{"@pid":"287/7456","text":"Ahmed Mohammed Patel"}},"title":"The Design &amp; Evaluation of an Information Visualization to Improve the Efficiency &amp; Understanding of Patient Health State.","venue":"ICHI","pages":"477","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/Patel23","doi":"10.1109/ICHI57859.2023.00071","ee":"https://doi.org/10.1109/ICHI57859.2023.00071","url":"https://dblp.org/rec/conf/ichi/Patel23"},
+"url":"URL#1107894"
+},
+{
+"@score":"1",
+"@id":"1107895",
+"info":{"authors":{"author":[{"@pid":"130/1514","text":"Jay S. Patel"},{"@pid":"365/8149","text":"Omotese Oaikhena"},{"@pid":"365/7971","text":"Thanh T. D. Phan"},{"@pid":"15/2067","text":"Hoa Vo"},{"@pid":"365/8207","text":"Javad M. Alizadeh"},{"@pid":"22/5768","text":"Huanmei Wu"}]},"title":"The Landscape of Health Informatics Education in Low- or Middle-Income Countries.","venue":"ICHI","pages":"652-656","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/PatelOPVAW23","doi":"10.1109/ICHI57859.2023.00113","ee":"https://doi.org/10.1109/ICHI57859.2023.00113","url":"https://dblp.org/rec/conf/ichi/PatelOPVAW23"},
+"url":"URL#1107895"
+},
+{
+"@score":"1",
+"@id":"1107896",
+"info":{"authors":{"author":[{"@pid":"287/7456","text":"Ahmed Mohammed Patel"},{"@pid":"80/3830","text":"Talya Porat"},{"@pid":"287/7476","text":"Weston L. Baxter"}]},"title":"Situation Awareness Failure Factors: Characteristics of Barriers to Situation Awareness in Primary Care &amp; Implications.","venue":"ICHI","pages":"505-509","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/PatelPB23","doi":"10.1109/ICHI57859.2023.00086","ee":"https://doi.org/10.1109/ICHI57859.2023.00086","url":"https://dblp.org/rec/conf/ichi/PatelPB23"},
+"url":"URL#1107896"
+},
+{
+"@score":"1",
+"@id":"1107897",
+"info":{"authors":{"author":[{"@pid":"259/2391","text":"Erhan Pisirir"},{"@pid":"365/8219","text":"Jared M. Wohlgemut"},{"@pid":"184/4605","text":"Evangelia Kyrimi"},{"@pid":"365/8163","text":"Rebecca S. Stoner"},{"@pid":"138/0257","text":"Zane B. Perkins"},{"@pid":"138/0262","text":"Nigel R. M. Tai"},{"@pid":"57/6234","text":"D. William R. Marsh"}]},"title":"A Process for Evaluating Explanations for Transparent and Trustworthy AI Prediction Models.","venue":"ICHI","pages":"388-397","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/PisirirWKSPTM23","doi":"10.1109/ICHI57859.2023.00058","ee":"https://doi.org/10.1109/ICHI57859.2023.00058","url":"https://dblp.org/rec/conf/ichi/PisirirWKSPTM23"},
+"url":"URL#1107897"
+},
+{
+"@score":"1",
+"@id":"1107898",
+"info":{"authors":{"author":[{"@pid":"53/10677","text":"Saptarshi Purkayastha"},{"@pid":"360/0405","text":"Cathy R. Fulton"},{"@pid":"365/8124","text":"Sahaja Ratna"}]},"title":"Improving Health Informatics Competencies Using an Open-source Educational EHR.","venue":"ICHI","pages":"645-651","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/PurkayasthaFR23","doi":"10.1109/ICHI57859.2023.00112","ee":"https://doi.org/10.1109/ICHI57859.2023.00112","url":"https://dblp.org/rec/conf/ichi/PurkayasthaFR23"},
+"url":"URL#1107898"
+},
+{
+"@score":"1",
+"@id":"1107899",
+"info":{"authors":{"author":[{"@pid":"319/4666","text":"Dirk Queck"},{"@pid":"302/0081","text":"Iannis Albert"},{"@pid":"365/8471","text":"Michelle Turner"},{"@pid":"218/0419","text":"Georg Volkmar"},{"@pid":"m/RainerMalaka","text":"Rainer Malaka"},{"@pid":"46/2289","text":"Marc Herrlich"}]},"title":"(Non-)Physiological Data for Wearables in VR Sport Applications and Exergames.","venue":"ICHI","pages":"371-380","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/QueckATVMH23","doi":"10.1109/ICHI57859.2023.00056","ee":"https://doi.org/10.1109/ICHI57859.2023.00056","url":"https://dblp.org/rec/conf/ichi/QueckATVMH23"},
+"url":"URL#1107899"
+},
+{
+"@score":"1",
+"@id":"1107900",
+"info":{"authors":{"author":[{"@pid":"52/7554","text":"Robert Quick"},{"@pid":"207/9421","text":"Marcela Alfaro Cordoba"},{"@pid":"365/8382","text":"Stephen Diggs"},{"@pid":"365/8187","text":"Raphael Cobe"},{"@pid":"126/6110","text":"Louise Bezuidenhout"},{"@pid":"72/4713","text":"Hugh P. Shanahan"},{"@pid":"365/8069","text":"Bianca Peterson"}]},"title":"Foundational Data Science Training for Health Equity Researchers at Minority Serving Institutions: A SoRDS Event.","venue":"ICHI","pages":"663-667","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/QuickCDCBSP23","doi":"10.1109/ICHI57859.2023.00115","ee":"https://doi.org/10.1109/ICHI57859.2023.00115","url":"https://dblp.org/rec/conf/ichi/QuickCDCBSP23"},
+"url":"URL#1107900"
+},
+{
+"@score":"1",
+"@id":"1107901",
+"info":{"authors":{"author":[{"@pid":"338/1608","text":"Riyad Bin Rafiq"},{"@pid":"365/8487","text":"Syed Araib Karim"},{"@pid":"64/8274","text":"Mark V. Albert"}]},"title":"An LSTM-based Gesture-to-Speech Recognition System.","venue":"ICHI","pages":"430-438","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/RafiqKA23","doi":"10.1109/ICHI57859.2023.00062","ee":"https://doi.org/10.1109/ICHI57859.2023.00062","url":"https://dblp.org/rec/conf/ichi/RafiqKA23"},
+"url":"URL#1107901"
+},
+{
+"@score":"1",
+"@id":"1107902",
+"info":{"authors":{"author":[{"@pid":"08/10828-1","text":"Md Motiur Rahman 0001"},{"@pid":"02/3004","text":"Miad Faezipour"},{"@pid":"193/1480","text":"Smriti Bhatt"},{"@pid":"92/7881","text":"Sudip Vhaduri"}]},"title":"AHP-CM: Attentional Homogeneous-Padded Composite Model for Respiratory Anomalies Prediction.","venue":"ICHI","pages":"65-71","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/RahmanFBV23","doi":"10.1109/ICHI57859.2023.00020","ee":"https://doi.org/10.1109/ICHI57859.2023.00020","url":"https://dblp.org/rec/conf/ichi/RahmanFBV23"},
+"url":"URL#1107902"
+},
+{
+"@score":"1",
+"@id":"1107903",
+"info":{"authors":{"author":[{"@pid":"148/4154","text":"Sripriya Rajamani"},{"@pid":"365/8430","text":"Yasmin Odowa"},{"@pid":"365/8438","text":"Rebecca Wurtz"}]},"title":"Foundational Course in Public Health Informatics to meet Training Needs and Build Workforce Capacity.","venue":"ICHI","pages":"688","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/RajamaniOW23","doi":"10.1109/ICHI57859.2023.00120","ee":"https://doi.org/10.1109/ICHI57859.2023.00120","url":"https://dblp.org/rec/conf/ichi/RajamaniOW23"},
+"url":"URL#1107903"
+},
+{
+"@score":"1",
+"@id":"1107904",
+"info":{"authors":{"author":[{"@pid":"148/4154","text":"Sripriya Rajamani"},{"@pid":"265/4299","text":"Sarah Solarz"},{"@pid":"365/8403","text":"Amber Koskey"},{"@pid":"365/7983","text":"Taylor Dawson"},{"@pid":"265/4473","text":"Ann Kayser"},{"@pid":"365/7661","text":"Hannah Woods"},{"@pid":"365/8189","text":"Chris Brueske"},{"@pid":"332/9425","text":"Aasa Dahlberg Schmit"}]},"title":"Informatics Workforce to Support the Data Modernization Initiative: Assessment and Capacity Building at a State Public Health Agency.","venue":"ICHI","pages":"682-687","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/RajamaniSKDKWBS23","doi":"10.1109/ICHI57859.2023.00119","ee":"https://doi.org/10.1109/ICHI57859.2023.00119","url":"https://dblp.org/rec/conf/ichi/RajamaniSKDKWBS23"},
+"url":"URL#1107904"
+},
+{
+"@score":"1",
+"@id":"1107905",
+"info":{"authors":{"author":[{"@pid":"274/1667","text":"Bárbara Ramalho"},{"@pid":"29/9118","text":"Sandra Gama"},{"@pid":"55/5936","text":"Francisco Nunes"}]},"title":"Patient Dashboards of Electronic Health Record Data to Support Clinical Care: A Systematic Review.","venue":"ICHI","pages":"407-419","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/RamalhoGN23","doi":"10.1109/ICHI57859.2023.00060","ee":"https://doi.org/10.1109/ICHI57859.2023.00060","url":"https://dblp.org/rec/conf/ichi/RamalhoGN23"},
+"url":"URL#1107905"
+},
+{
+"@score":"1",
+"@id":"1107906",
+"info":{"authors":{"author":[{"@pid":"225/5887","text":"Laila Rasmy"},{"@pid":"266/1370","text":"Ziqian Xie"},{"@pid":"64/2908","text":"Degui Zhi"}]},"title":"Training Recurrent Neural Network-Based Model to Predict COVID-19 Patient Risk for PASC using Pytorch_EHR - Hands-on Tutorial on N3C.","venue":"ICHI","pages":"529-530","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/RasmyXZ23","doi":"10.1109/ICHI57859.2023.00094","ee":"https://doi.org/10.1109/ICHI57859.2023.00094","url":"https://dblp.org/rec/conf/ichi/RasmyXZ23"},
+"url":"URL#1107906"
+},
+{
+"@score":"1",
+"@id":"1107907",
+"info":{"authors":{"author":[{"@pid":"239/0640","text":"Urmila Ravichandran"},{"@pid":"365/7791","text":"Danielle Jungst"},{"@pid":"365/8144","text":"Emily Kwan"}]},"title":"Implementing an NLP Tool to Address SDOH Needs.","venue":"ICHI","pages":"522-524","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/RavichandranJK23","doi":"10.1109/ICHI57859.2023.00091","ee":"https://doi.org/10.1109/ICHI57859.2023.00091","url":"https://dblp.org/rec/conf/ichi/RavichandranJK23"},
+"url":"URL#1107907"
+},
+{
+"@score":"1",
+"@id":"1107908",
+"info":{"authors":{"author":{"@pid":"236/9245","text":"Shaina Raza"}},"title":"Connecting Fairness in Machine Learning with Public Health Equity.","venue":"ICHI","pages":"704-708","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/Raza23","doi":"10.1109/ICHI57859.2023.00127","ee":"https://doi.org/10.1109/ICHI57859.2023.00127","url":"https://dblp.org/rec/conf/ichi/Raza23"},
+"url":"URL#1107908"
+},
+{
+"@score":"1",
+"@id":"1107909",
+"info":{"authors":{"author":[{"@pid":"236/9245","text":"Shaina Raza"},{"@pid":"306/1173","text":"Syed Raza Bashir"}]},"title":"Leveraging Foundation Models for Clinical Text Analysis.","venue":"ICHI","pages":"575-580","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/RazaB23","doi":"10.1109/ICHI57859.2023.00103","ee":"https://doi.org/10.1109/ICHI57859.2023.00103","url":"https://dblp.org/rec/conf/ichi/RazaB23"},
+"url":"URL#1107909"
+},
+{
+"@score":"1",
+"@id":"1107910",
+"info":{"authors":{"author":[{"@pid":"236/9245","text":"Shaina Raza"},{"@pid":"306/1173","text":"Syed Raza Bashir"}]},"title":"Auditing ICU Readmission Rates in an Clinical Database: An Analysis of Risk Factors and Clinical Outcomes.","venue":"ICHI","pages":"722-726","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/RazaB23a","doi":"10.1109/ICHI57859.2023.00132","ee":"https://doi.org/10.1109/ICHI57859.2023.00132","url":"https://dblp.org/rec/conf/ichi/RazaB23a"},
+"url":"URL#1107910"
+},
+{
+"@score":"1",
+"@id":"1107911",
+"info":{"authors":{"author":[{"@pid":"86/10369","text":"Yang Ren"},{"@pid":"50/2855","text":"Dezhi Wu"},{"@pid":"258/4807","text":"Aditya Khurana"},{"@pid":"258/4619","text":"George M. Mastorakos"},{"@pid":"160/1539","text":"Sunyang Fu"},{"@pid":"44/7805","text":"Nansu Zong"},{"@pid":"254/1131-1","text":"Jungwei Fan 0001"},{"@pid":"92/2407","text":"Hongfang Liu"},{"@pid":"05/6957-6","text":"Ming Huang 0006"}]},"title":"Classification of Patient Portal Messages with BERT-based Language Models.","venue":"ICHI","pages":"176-182","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/RenWKMFZFLH23","doi":"10.1109/ICHI57859.2023.00033","ee":"https://doi.org/10.1109/ICHI57859.2023.00033","url":"https://dblp.org/rec/conf/ichi/RenWKMFZFLH23"},
+"url":"URL#1107911"
+},
+{
+"@score":"1",
+"@id":"1107912",
+"info":{"authors":{"author":[{"@pid":"330/9880","text":"Parker Seegmiller"},{"@pid":"254/2754","text":"Joseph Gatto"},{"@pid":"129/5417","text":"Madhusudan Basak"},{"@pid":"c/DianeJCook","text":"Diane J. Cook"},{"@pid":"62/6023-1","text":"Hassan Ghasemzadeh 0001"},{"@pid":"s/JohnAStankovic","text":"John A. Stankovic"},{"@pid":"165/8174","text":"Sarah Preum"}]},"title":"The Scope of In-Context Learning for the Extraction of Medical Temporal Constraints.","venue":"ICHI","pages":"601-609","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/SeegmillerGBCGSP23","doi":"10.1109/ICHI57859.2023.00107","ee":"https://doi.org/10.1109/ICHI57859.2023.00107","url":"https://dblp.org/rec/conf/ichi/SeegmillerGBCGSP23"},
+"url":"URL#1107912"
+},
+{
+"@score":"1",
+"@id":"1107913",
+"info":{"authors":{"author":[{"@pid":"365/7662","text":"Jinjoo Shim"},{"@pid":"82/5541","text":"Elgar Fleisch"},{"@pid":"185/5044","text":"Filipe Barata"}]},"title":"Precise Segmentation of U.S. Adults from 24-Hour Wearable-based Physical Activity Profiles Using Machine Learning Clustering.","venue":"ICHI","pages":"498-500","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/ShimFB23","doi":"10.1109/ICHI57859.2023.00083","ee":"https://doi.org/10.1109/ICHI57859.2023.00083","url":"https://dblp.org/rec/conf/ichi/ShimFB23"},
+"url":"URL#1107913"
+},
+{
+"@score":"1",
+"@id":"1107914",
+"info":{"authors":{"author":[{"@pid":"214/8620","text":"Miho Shimizu"},{"@pid":"77/5435","text":"Mike Wong 0001"},{"@pid":"k/AKulkarni1","text":"Anagha Kulkarni 0001"}]},"title":"Quantitative Measures of Online Health Information (QMOHI): Broadening the Impact Through Improved Usability, Applicability, and Effectiveness.","venue":"ICHI","pages":"565-569","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/ShimizuWK23","doi":"10.1109/ICHI57859.2023.00101","ee":"https://doi.org/10.1109/ICHI57859.2023.00101","url":"https://dblp.org/rec/conf/ichi/ShimizuWK23"},
+"url":"URL#1107914"
+},
+{
+"@score":"1",
+"@id":"1107915",
+"info":{"authors":{"author":[{"@pid":"315/8914","text":"Sonish Sivarajkumar"},{"@pid":"45/11295","text":"Yanshan Wang"}]},"title":"Evaluation of Healthprompt for Zero-shot Clinical Text Classification.","venue":"ICHI","pages":"492-494","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/SivarajkumarW23","doi":"10.1109/ICHI57859.2023.00081","ee":"https://doi.org/10.1109/ICHI57859.2023.00081","url":"https://dblp.org/rec/conf/ichi/SivarajkumarW23"},
+"url":"URL#1107915"
+},
+{
+"@score":"1",
+"@id":"1107916",
+"info":{"authors":{"author":[{"@pid":"48/3277","text":"Shanshan Song"},{"@pid":"70/8244","text":"Casey Overby Taylor"}]},"title":"Data Representativeness in Cardiovascular Disease Studies that use Consumer Wearables.","venue":"ICHI","pages":"695-697","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/SongT23","doi":"10.1109/ICHI57859.2023.00124","ee":"https://doi.org/10.1109/ICHI57859.2023.00124","url":"https://dblp.org/rec/conf/ichi/SongT23"},
+"url":"URL#1107916"
+},
+{
+"@score":"1",
+"@id":"1107917",
+"info":{"authors":{"author":[{"@pid":"365/8460","text":"Caroline Spice"},{"@pid":"365/7809","text":"Anjulie Ganti"},{"@pid":"365/7782","text":"Houda Benlhabib"}]},"title":"So you want to talk about race[1] and genetics?","venue":"ICHI","pages":"689","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/SpiceGB23","doi":"10.1109/ICHI57859.2023.00121","ee":"https://doi.org/10.1109/ICHI57859.2023.00121","url":"https://dblp.org/rec/conf/ichi/SpiceGB23"},
+"url":"URL#1107917"
+},
+{
+"@score":"1",
+"@id":"1107918",
+"info":{"authors":{"author":[{"@pid":"254/1971","text":"Leilei Su"},{"@pid":"91/11185","text":"Zezheng Wang"},{"@pid":"150/7295-2","text":"Yifan Peng 0002"},{"@pid":"45/5103-4","text":"Cong Sun 0004"}]},"title":"Identification of Offensive Language in Social Media Using Prompt Learning.","venue":"ICHI","pages":"690-691","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/SuWPS23","doi":"10.1109/ICHI57859.2023.00122","ee":"https://doi.org/10.1109/ICHI57859.2023.00122","url":"https://dblp.org/rec/conf/ichi/SuWPS23"},
+"url":"URL#1107918"
+},
+{
+"@score":"1",
+"@id":"1107919",
+"info":{"authors":{"author":[{"@pid":"334/6395","text":"Zenan Sun"},{"@pid":"03/4748","text":"Cui Tao"}]},"title":"Named Entity Recognition and Normalization for Alzheimer&apos;s Disease Eligibility Criteria.","venue":"ICHI","pages":"558-564","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/SunT23","doi":"10.1109/ICHI57859.2023.00100","ee":"https://doi.org/10.1109/ICHI57859.2023.00100","url":"https://dblp.org/rec/conf/ichi/SunT23"},
+"url":"URL#1107919"
+},
+{
+"@score":"1",
+"@id":"1107920",
+"info":{"authors":{"author":{"@pid":"177/3491","text":"Arun Sundararaman"}},"title":"Data Platform To Accelerate Healthcare Insights Generation.","venue":"ICHI","pages":"470-475","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/Sundararaman23","doi":"10.1109/ICHI57859.2023.00069","ee":"https://doi.org/10.1109/ICHI57859.2023.00069","url":"https://dblp.org/rec/conf/ichi/Sundararaman23"},
+"url":"URL#1107920"
+},
+{
+"@score":"1",
+"@id":"1107921",
+"info":{"authors":{"author":[{"@pid":"365/8020","text":"Raseen Tariq"},{"@pid":"365/7697","text":"Sheza Malik"},{"@pid":"154/0538","text":"Mousumi Roy"},{"@pid":"365/7638","text":"Meena Z. Islam"},{"@pid":"243/2951","text":"Umair Rasheed"},{"@pid":"09/851-1","text":"Jiang Bian 0001"},{"@pid":"73/3928-2","text":"Kai Zheng 0002"},{"@pid":"60/2536-28","text":"Rui Zhang 0028"}]},"title":"Assessing ChatGPT for Text Summarization, Simplification and Extraction Tasks.","venue":"ICHI","pages":"746-749","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/TariqMRIRBZZ23","doi":"10.1109/ICHI57859.2023.00136","ee":"https://doi.org/10.1109/ICHI57859.2023.00136","url":"https://dblp.org/rec/conf/ichi/TariqMRIRBZZ23"},
+"url":"URL#1107921"
+},
+{
+"@score":"1",
+"@id":"1107922",
+"info":{"authors":{"author":[{"@pid":"331/8587","text":"Yash Travadi"},{"@pid":"77/2621","text":"Le Peng"},{"@pid":"67/5781","text":"Ying Cui"},{"@pid":"31/6843","text":"Ju Sun"}]},"title":"Direct Metric Optimization for Imbalanced Classification.","venue":"ICHI","pages":"698-700","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/TravadiPCS23","doi":"10.1109/ICHI57859.2023.00125","ee":"https://doi.org/10.1109/ICHI57859.2023.00125","url":"https://dblp.org/rec/conf/ichi/TravadiPCS23"},
+"url":"URL#1107922"
+},
+{
+"@score":"1",
+"@id":"1107923",
+"info":{"authors":{"author":[{"@pid":"51/10020","text":"David Tresner-Kirsch"},{"@pid":"365/8231","text":"Amanda Azari Mikkelson"},{"@pid":"152/0524","text":"Chika Yinka-Banjo"},{"@pid":"272/9140","text":"Mary Akinyemi"},{"@pid":"365/7736","text":"Siddhartha Goyal"}]},"title":"Intent Recognition on Low-Resource Language Messages in a Health Marketplace Chatbot.","venue":"ICHI","pages":"457-459","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/TresnerKirschMYAG23","doi":"10.1109/ICHI57859.2023.00066","ee":"https://doi.org/10.1109/ICHI57859.2023.00066","url":"https://dblp.org/rec/conf/ichi/TresnerKirschMYAG23"},
+"url":"URL#1107923"
+},
+{
+"@score":"1",
+"@id":"1107924",
+"info":{"authors":{"author":[{"@pid":"365/8361","text":"Edward Tsien"},{"@pid":"50/2855","text":"Dezhi Wu"},{"@pid":"329/3301","text":"Ana Lòpez-De Fede"}]},"title":"Developing Multi-Task Learning Methods to Aid in Electronic Healthcare Prediction.","venue":"ICHI","pages":"486-487","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/TsienWF23","doi":"10.1109/ICHI57859.2023.00077","ee":"https://doi.org/10.1109/ICHI57859.2023.00077","url":"https://dblp.org/rec/conf/ichi/TsienWF23"},
+"url":"URL#1107924"
+},
+{
+"@score":"1",
+"@id":"1107925",
+"info":{"authors":{"author":[{"@pid":"365/8361","text":"Edward Tsien"},{"@pid":"50/2855","text":"Dezhi Wu"},{"@pid":"20/2146","text":"Yan Tong"},{"@pid":"329/3301","text":"Ana Lòpez-De Fede"},{"@pid":"329/3516","text":"Sarah Gareau"}]},"title":"Introducing Task-Adaptive Loss to Multitask Learning for Electronic Healthcare Prediction.","venue":"ICHI","pages":"727-730","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/TsienWTFG23","doi":"10.1109/ICHI57859.2023.00133","ee":"https://doi.org/10.1109/ICHI57859.2023.00133","url":"https://dblp.org/rec/conf/ichi/TsienWTFG23"},
+"url":"URL#1107925"
+},
+{
+"@score":"1",
+"@id":"1107926",
+"info":{"authors":{"author":[{"@pid":"205/4344","text":"Pulakesh Upadhyaya"},{"@pid":"303/1307","text":"Yaobin Ling"},{"@pid":"64/2464","text":"Luyao Chen"},{"@pid":"74/3301-1","text":"Yejin Kim 0001"},{"@pid":"43/3924","text":"Xiaoqian Jiang"}]},"title":"Inferring Personalized Treatment Effect of Antihypertensives on Alzheimer&apos;s Disease Using Deep Learning.","venue":"ICHI","pages":"49-57","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/UpadhyayaLCKJ23","doi":"10.1109/ICHI57859.2023.00018","ee":"https://doi.org/10.1109/ICHI57859.2023.00018","url":"https://dblp.org/rec/conf/ichi/UpadhyayaLCKJ23"},
+"url":"URL#1107926"
+},
+{
+"@score":"1",
+"@id":"1107927",
+"info":{"authors":{"author":[{"@pid":"352/2668","text":"Arthur Ricardo De Sousa Vitória"},{"@pid":"365/8205","text":"Adriel Lenner Vinhal Mori"},{"@pid":"327/9946","text":"Diogo Fernandes Costa Silva"},{"@pid":"352/3358","text":"Daniel do Prado Pagotto"},{"@pid":"84/941","text":"Clarimar José Coelho"},{"@pid":"134/0945","text":"Arlindo Rodrigues Galvão Filho"}]},"title":"Live Births Forecasting Across Health Regions of Goiás Using Artificial Neural Networks: A Clustering Approach.","venue":"ICHI","pages":"321-329","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/VitoriaMSPCF23","doi":"10.1109/ICHI57859.2023.00050","ee":"https://doi.org/10.1109/ICHI57859.2023.00050","url":"https://dblp.org/rec/conf/ichi/VitoriaMSPCF23"},
+"url":"URL#1107927"
+},
+{
+"@score":"1",
+"@id":"1107928",
+"info":{"authors":{"author":[{"@pid":"365/7646","text":"Jeffrey Voien"},{"@pid":"365/8253","text":"Ameya Shere"},{"@pid":"365/8013","text":"Robert Mostellar"},{"@pid":"117/6659","text":"Gretchen P. Jackson"}]},"title":"Case Volumes in Users and Non-Users of a Digital Application to Visualize Surgical Workflow Data.","venue":"ICHI","pages":"453-456","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/VoienSMJ23","doi":"10.1109/ICHI57859.2023.00065","ee":"https://doi.org/10.1109/ICHI57859.2023.00065","url":"https://dblp.org/rec/conf/ichi/VoienSMJ23"},
+"url":"URL#1107928"
+},
+{
+"@score":"1",
+"@id":"1107929",
+"info":{"authors":{"author":{"@pid":"132/4066","text":"Haohan Wang"}},"title":"Trustworthy Computing for Biomedical Challenges.","venue":"ICHI","pages":"534-535","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/Wang23","doi":"10.1109/ICHI57859.2023.00096","ee":"https://doi.org/10.1109/ICHI57859.2023.00096","url":"https://dblp.org/rec/conf/ichi/Wang23"},
+"url":"URL#1107929"
+},
+{
+"@score":"1",
+"@id":"1107930",
+"info":{"authors":{"author":[{"@pid":"46/8559","text":"Yaohua Wang"},{"@pid":"273/4263","text":"Lisanne van Dijk"},{"@pid":"169/8082","text":"Abdallah Sherif Radwan Mohamed"},{"@pid":"235/3001","text":"Mohamed A. Naser"},{"@pid":"29/2516","text":"Clifton David Fuller"},{"@pid":"45/6863","text":"Xinhua Zhang"},{"@pid":"05/2224","text":"G. Elisabeta Marai"},{"@pid":"40/4280","text":"Guadalupe Canahuate"}]},"title":"Improving Prediction of Late Symptoms using LSTM and Patient-reported Outcomes for Head and Neck Cancer Patients.","venue":"ICHI","pages":"292-300","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/WangDMNFZMC23","doi":"10.1109/ICHI57859.2023.00047","ee":"https://doi.org/10.1109/ICHI57859.2023.00047","url":"https://dblp.org/rec/conf/ichi/WangDMNFZMC23"},
+"url":"URL#1107930"
+},
+{
+"@score":"1",
+"@id":"1107931",
+"info":{"authors":{"author":[{"@pid":"58/4775","text":"Xiaoyu Wang"},{"@pid":"74/1469","text":"Dipankar Gupta"},{"@pid":"388/1892","text":"Michael O. Killian"},{"@pid":"95/9649-1","text":"Zhe He 0001"}]},"title":"Benchmarking Transformer-Based Models for Identifying Social Determinants of Health in Clinical Notes.","venue":"ICHI","pages":"570-574","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/WangGKH23","doi":"10.1109/ICHI57859.2023.00102","ee":"https://doi.org/10.1109/ICHI57859.2023.00102","url":"https://dblp.org/rec/conf/ichi/WangGKH23"},
+"url":"URL#1107931"
+},
+{
+"@score":"1",
+"@id":"1107932",
+"info":{"authors":{"author":[{"@pid":"351/3705","text":"Tongnian Wang"},{"@pid":"55/957","text":"Kai Zhang"},{"@pid":"203/3058","text":"Jiannan Cai"},{"@pid":"145/6503-1","text":"Yanmin Gong 0001"},{"@pid":"c/KimKwangRaymondChoo","text":"Kim-Kwang Raymond Choo"},{"@pid":"93/10800","text":"Yuanxiong Guo"}]},"title":"Analyzing the Impact of Personalization on Fairness in Federated Learning for Healthcare.","venue":"ICHI","pages":"701-703","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/WangZCGCG23","doi":"10.1109/ICHI57859.2023.00126","ee":"https://doi.org/10.1109/ICHI57859.2023.00126","url":"https://dblp.org/rec/conf/ichi/WangZCGCG23"},
+"url":"URL#1107932"
+},
+{
+"@score":"1",
+"@id":"1107933",
+"info":{"authors":{"author":[{"@pid":"233/5628","text":"Tingyi Wanyan"},{"@pid":"155/5729","text":"Mingquan Lin"},{"@pid":"38/6013-1","text":"Ying Ding 0001"},{"@pid":"164/0304","text":"Benjamin S. Glicksberg"},{"@pid":"52/3194-1","text":"Fei Wang 0001"},{"@pid":"150/7295-2","text":"Yifan Peng 0002"}]},"title":"Optimizing Embedding Space with Sub-categorical Supervised Pre-training: A Theoretical Approach Towards Improving Sepsis Prediction.","venue":"ICHI","pages":"101-110","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/WanyanLDGWP23","doi":"10.1109/ICHI57859.2023.00024","ee":"https://doi.org/10.1109/ICHI57859.2023.00024","url":"https://dblp.org/rec/conf/ichi/WanyanLDGWP23"},
+"url":"URL#1107933"
+},
+{
+"@score":"1",
+"@id":"1107934",
+"info":{"authors":{"author":[{"@pid":"143/4260","text":"Duo Helen Wei"},{"@pid":"365/8369","text":"Keith Kiminsky"},{"@pid":"189/3523","text":"Patrick Hamill"},{"@pid":"159/1133","text":"Quynh Nguyen"}]},"title":"Involving Undergraduates into Health Informatics Research via Project-Based Learning Classes - A Case Study.","venue":"ICHI","pages":"668-672","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/WeiKHN23","doi":"10.1109/ICHI57859.2023.00116","ee":"https://doi.org/10.1109/ICHI57859.2023.00116","url":"https://dblp.org/rec/conf/ichi/WeiKHN23"},
+"url":"URL#1107934"
+},
+{
+"@score":"1",
+"@id":"1107935",
+"info":{"authors":{"author":[{"@pid":"04/1596","text":"Yongkang Xiao"},{"@pid":"15/166","text":"Yu Hou"},{"@pid":"329/3204","text":"Huixue Zhou"},{"@pid":"27/2487","text":"Gayo Diallo"},{"@pid":"01/2690","text":"Marcelo Fiszman"},{"@pid":"152/3182","text":"Julian Wolfson"},{"@pid":"93/4252","text":"Halil Kilicoglu"},{"@pid":"31/3137-1","text":"You Chen 0001"},{"@pid":"31/4114-1","text":"Hua Xu 0001"},{"@pid":"365/8397","text":"William G. Mantyh"},{"@pid":"60/2536-28","text":"Rui Zhang 0028"}]},"title":"Repurposing Drugs for Alzheimer&apos;s Diseases through Link Prediction on Biomedical Literature.","venue":"ICHI","pages":"750-752","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/XiaoHZDFWKCXMZ23","doi":"10.1109/ICHI57859.2023.00137","ee":"https://doi.org/10.1109/ICHI57859.2023.00137","url":"https://dblp.org/rec/conf/ichi/XiaoHZDFWKCXMZ23"},
+"url":"URL#1107935"
+},
+{
+"@score":"1",
+"@id":"1107936",
+"info":{"authors":{"author":[{"@pid":"299/0600","text":"Zidu Xu"},{"@pid":"65/1739-1","text":"Jiao Li 0001"},{"@pid":"139/1726","text":"Maxim Topaz"}]},"title":"ElCombo: Knowledge-based Personalized Meal Recommendation System for Chinese Community-dwelling Elders.","venue":"ICHI","pages":"478-479","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/XuLT23","doi":"10.1109/ICHI57859.2023.00072","ee":"https://doi.org/10.1109/ICHI57859.2023.00072","url":"https://dblp.org/rec/conf/ichi/XuLT23"},
+"url":"URL#1107936"
+},
+{
+"@score":"1",
+"@id":"1107937",
+"info":{"authors":{"author":[{"@pid":"222/2859","text":"Yunzhe Xue"},{"@pid":"365/8248","text":"Olanrewaju Eletta"},{"@pid":"258/5107","text":"Justin W. Ady"},{"@pid":"365/8169","text":"Nell M. Patel"},{"@pid":"365/8457","text":"Advaith Bongu"},{"@pid":"r/UsmanRoshan","text":"Usman Roshan"}]},"title":"A Cascaded Neural Network System For Rating Student Performance In Surgical Knot Tying Simulation.","venue":"ICHI","pages":"58-64","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/XueEAPBR23","doi":"10.1109/ICHI57859.2023.00019","ee":"https://doi.org/10.1109/ICHI57859.2023.00019","url":"https://dblp.org/rec/conf/ichi/XueEAPBR23"},
+"url":"URL#1107937"
+},
+{
+"@score":"1",
+"@id":"1107938",
+"info":{"authors":{"author":[{"@pid":"17/8386","text":"Haoyu Yang"},{"@pid":"239/0768","text":"Roshan Tourani"},{"@pid":"23/6950","text":"Jia Li"},{"@pid":"83/11037","text":"Pedro J. Caraballo"},{"@pid":"04/1613","text":"Michael S. Steinbach"},{"@pid":"k/VipinKumar-1","text":"Vipin Kumar 0001"},{"@pid":"39/4973","text":"György J. Simon"}]},"title":"Causal Structure Learning from Imperfect Longitudinal Data in Healthcare.","venue":"ICHI","pages":"1-11","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/YangTLCSKS23","doi":"10.1109/ICHI57859.2023.00013","ee":"https://doi.org/10.1109/ICHI57859.2023.00013","url":"https://dblp.org/rec/conf/ichi/YangTLCSKS23"},
+"url":"URL#1107938"
+},
+{
+"@score":"1",
+"@id":"1107939",
+"info":{"authors":{"author":[{"@pid":"137/9522","text":"Shenghan Zhang"},{"@pid":"145/4965","text":"Haoxuan Li"},{"@pid":"239/1928","text":"Ruixiang Tang"},{"@pid":"249/4227","text":"Sirui Ding"},{"@pid":"225/5887","text":"Laila Rasmy"},{"@pid":"64/2908","text":"Degui Zhi"},{"@pid":"152/0090-1","text":"Na Zou 0001"},{"@pid":"256/9406","text":"Xia Hu 0001"}]},"title":"PheME: A deep ensemble framework for improving phenotype prediction from multi-modal data.","venue":"ICHI","pages":"268-275","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/ZhangLTDRZZH23","doi":"10.1109/ICHI57859.2023.00044","ee":"https://doi.org/10.1109/ICHI57859.2023.00044","url":"https://dblp.org/rec/conf/ichi/ZhangLTDRZZH23"},
+"url":"URL#1107939"
+},
+{
+"@score":"1",
+"@id":"1107940",
+"info":{"authors":{"author":[{"@pid":"365/8344","text":"Xinxi Zhu"},{"@pid":"365/8308","text":"Yangruohan Li"},{"@pid":"138/6829","text":"Zhiya Zuo"},{"@pid":"08/5760-10","text":"Xi Wang 0010"}]},"title":"Identifying Dynamic User Roles in Online Health Communities.","venue":"ICHI","pages":"519-521","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/ichi/ZhuLZW23","doi":"10.1109/ICHI57859.2023.00090","ee":"https://doi.org/10.1109/ICHI57859.2023.00090","url":"https://dblp.org/rec/conf/ichi/ZhuLZW23"},
+"url":"URL#1107940"
+},
+{
+"@score":"1",
+"@id":"1211623",
+"info":{"title":"11th IEEE International Conference on Healthcare Informatics, ICHI 2023, Houston, TX, USA, June 26-29, 2023","venue":"ICHI","publisher":"IEEE","year":"2023","type":"Editorship","key":"conf/ichi/2023","doi":"10.1109/ICHI57859.2023","ee":"https://doi.org/10.1109/ICHI57859.2023","url":"https://dblp.org/rec/conf/ichi/2023"},
+"url":"URL#1211623"
+}
+]
+}
+}
+}

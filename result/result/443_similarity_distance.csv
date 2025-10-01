@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+object detectors,shape information,-0.0905,1.4768
+object detection,object detectors,0.117,1.3289
+image classification,object detectors,-0.0999,1.4832
+object detectors,state-of-the-art,0.1859,1.276
+object detection,shape information,0.2739,1.2051
+image classification,shape information,-0.2393,1.5744
+shape information,state-of-the-art,0.0414,1.3847
+image classification,object detection,-0.0395,1.4418
+object detection,state-of-the-art,0.2328,1.2387
+image classification,state-of-the-art,-0.1789,1.5355
+color attributes,object detection,-0.1288,1.5025
+color attributes,image classification,-0.4567,1.7069
+color attributes,state-of-the-art,0.0234,1.3976
+PASCAL VOC 2007,color attributes,-0.2847,1.6029
+PASCAL VOC 2007,object detection,0.132,1.3175
+PASCAL VOC 2007,state-of-the-art,0.0692,1.3644
+cartoon character images,color attributes,-0.1462,1.5141
+cartoon character images,object detection,-0.4159,1.6828
+cartoon character images,state-of-the-art,-0.2604,1.5877
+PASCAL VOC 2007,cartoon character images,-0.1943,1.5455
+mean AP,state-of-the-art,0.019,1.4007
+PASCAL VOC 2007,mean AP,0.0899,1.3492
+cartoon character images,mean AP,-0.1449,1.5132

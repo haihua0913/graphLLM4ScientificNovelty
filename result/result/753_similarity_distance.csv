@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+clustering,cost function,-0.1789,1.5355
+cluster assignments,clustering,-0.1013,1.4841
+cluster center positions,clustering,-0.0876,1.4749
+cluster assignments,cost function,0.0059,1.41
+cluster center positions,cost function,-0.0087,1.4204
+cluster assignments,cluster center positions,0.9686,0.2507
+Huber loss,clustering,-0.1359,1.5073
+clustering,fixed points,-0.0452,1.4458
+Huber loss,fixed points,-0.0392,1.4417
+Bregman cost functions,clustering,0.09,1.3491
+centroidal Voronoi partitions,clustering,-0.0973,1.4814
+Bregman cost functions,Huber loss,0.8898,0.4694
+Huber loss,centroidal Voronoi partitions,-0.2637,1.5898
+Bregman cost functions,centroidal Voronoi partitions,0.0075,1.4089
+Bregman cost functions,fixed points,-0.1189,1.4959
+centroidal Voronoi partitions,fixed points,0.1479,1.3054
+Bregman cost functions,real data,-0.043,1.4443
+centroidal Voronoi partitions,real data,0.0885,1.3502
+fixed points,real data,0.0259,1.3958

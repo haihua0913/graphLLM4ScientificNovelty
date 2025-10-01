@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+convolution kernel,parameters,-0.3587,1.6484
+log-polar space convolution,parameters,-0.1419,1.5112
+convolution kernel,log-polar space convolution,0.5934,0.9017
+log-polar space convolution,spatial structures,0.0076,1.4089
+parameters,spatial structures,-0.0757,1.4668
+convolution kernel,spatial structures,0.2638,1.2135
+log-polar space pooling,spatial structures,-0.1743,1.5325
+network architecture,spatial structures,0.0153,1.4033
+log-polar space pooling,network architecture,-0.31,1.6186
+log-polar space pooling,parameters,-0.1659,1.527
+network architecture,parameters,0.9714,0.239
+effectiveness,spatial structures,0.959,0.2865
+effectiveness,log-polar space pooling,-0.1672,1.5278
+effectiveness,network architecture,-0.0786,1.4687
+effectiveness,parameters,-0.1438,1.5125

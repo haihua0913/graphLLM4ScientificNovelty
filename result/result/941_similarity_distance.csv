@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Spiking Neural Networks,biologically plausible learning,0.9582,0.2891
+equilibrium,excitatory and inhibitory neurons,-0.2033,1.5514
+equilibrium,short-term plasticity,0.0216,1.3989
+equilibrium,membrane potential,-0.4413,1.6978
+equilibrium,learning convergence,-0.146,1.5139
+excitatory and inhibitory neurons,short-term plasticity,-0.1695,1.5294
+excitatory and inhibitory neurons,membrane potential,0.9179,0.4051
+excitatory and inhibitory neurons,learning convergence,-0.0755,1.4666
+membrane potential,short-term plasticity,0.0325,1.3911
+learning convergence,short-term plasticity,-0.193,1.5447
+learning convergence,membrane potential,-0.0732,1.465
+Spike-Timing Dependent Plasticity,equilibrium,-0.4151,1.6823
+Spike-Timing Dependent Plasticity,excitatory and inhibitory neurons,-0.1018,1.4845
+Spike-Timing Dependent Plasticity,short-term plasticity,-0.3683,1.6542
+Spike-Timing Dependent Plasticity,membrane potential,-0.0962,1.4807
+Spike-Timing Dependent Plasticity,learning convergence,0.8747,0.5006
+MNIST,excitatory and inhibitory neurons,-0.1786,1.5353
+MNIST,short-term plasticity,0.3708,1.1218
+MNIST,membrane potential,0.0924,1.3473
+MNIST,Spike-Timing Dependent Plasticity,0.0106,1.4067
+MNIST,learning convergence,0.0793,1.357

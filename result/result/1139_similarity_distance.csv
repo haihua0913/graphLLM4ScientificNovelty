@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+Self-supervised pre-training,pre-trained models,-0.2782,1.5989
+Self-supervised pre-training,downstream tasks,-0.1211,1.4974
+downstream tasks,pre-trained models,0.1813,1.2796
+neuron activations,pre-trained models,0.9177,0.4058
+downstream tasks,neuron activations,0.1307,1.3186
+noise augmentation strategy,pre-trained models,-0.0438,1.4449
+pre-trained models,transferable PAPs,-0.1189,1.4959
+neuron activations,noise augmentation strategy,-0.1783,1.5351
+neuron activations,transferable PAPs,0.0255,1.3961
+noise augmentation strategy,transferable PAPs,0.2344,1.2374
+downstream tasks,noise augmentation strategy,-0.0914,1.4775
+downstream tasks,transferable PAPs,-0.2233,1.5642
+attack success rate,pre-trained models,-0.267,1.5919
+attack success rate,neuron activations,-0.2108,1.5561
+attack success rate,noise augmentation strategy,-0.3356,1.6344
+attack success rate,transferable PAPs,-0.3927,1.6689
+attack success rate,downstream tasks,-0.2302,1.5686

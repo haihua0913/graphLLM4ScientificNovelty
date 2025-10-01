@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+noisy gradient,stochastic gradient optimization,0.9569,0.2935
+noisy gradient,variance reduction,0.0977,1.3433
+control variate,noisy gradient,0.1885,1.274
+control variate,variance reduction,-0.0654,1.4597
+stochastic gradient optimization,variance reduction,0.0955,1.345
+control variate,stochastic gradient optimization,0.1449,1.3077
+convex,stochastic gradient optimization,0.0413,1.3847
+MAP estimation,stochastic gradient optimization,0.0134,1.4047
+logistic regression,stochastic gradient optimization,-0.2969,1.6105
+non-convex,stochastic gradient optimization,0.1981,1.2664
+control variate,convex,-0.0537,1.4517
+MAP estimation,control variate,0.1573,1.2982
+control variate,logistic regression,0.8459,0.5551
+control variate,non-convex,0.0943,1.3459
+MAP estimation,convex,-0.5163,1.7414
+convex,logistic regression,-0.0185,1.4273
+convex,non-convex,0.8144,0.6092
+MAP estimation,logistic regression,-0.0447,1.4455
+MAP estimation,non-convex,-0.1907,1.5432
+logistic regression,non-convex,-0.0324,1.437

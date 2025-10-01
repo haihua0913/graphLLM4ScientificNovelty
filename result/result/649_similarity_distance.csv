@@ -1,0 +1,34 @@
+node1,node2,similarity,distance
+Hashing,nearest neighbor search,-0.0392,1.4417
+Hashing,low-dimensional manifold,-0.2081,1.5544
+low-dimensional manifold,nearest neighbor search,-0.1815,1.5372
+Hashing,graph-based hashing,-0.3445,1.6398
+Hashing,neighborhood structure,0.3258,1.1612
+graph-based hashing,low-dimensional manifold,-0.2118,1.5568
+low-dimensional manifold,neighborhood structure,-0.3899,1.6673
+graph-based hashing,neighborhood structure,-0.1802,1.5364
+Anchor Graphs,Hashing,0.259,1.2173
+Hashing,low-rank adjacency matrices,-0.3041,1.615
+Anchor Graphs,low-dimensional manifold,-0.3082,1.6175
+low-dimensional manifold,low-rank adjacency matrices,-0.2493,1.5807
+Anchor Graphs,graph-based hashing,-0.3176,1.6233
+graph-based hashing,low-rank adjacency matrices,0.9492,0.3187
+Anchor Graphs,neighborhood structure,0.9813,0.1932
+low-rank adjacency matrices,neighborhood structure,0.0062,1.4098
+Anchor Graphs,low-rank adjacency matrices,-0.1187,1.4958
+Hashing,graph Laplacian eigenvectors,-0.2455,1.5783
+Hashing,eigenfunctions,-0.1715,1.5307
+graph Laplacian eigenvectors,graph-based hashing,-0.159,1.5225
+eigenfunctions,graph-based hashing,-0.101,1.4839
+graph Laplacian eigenvectors,neighborhood structure,-0.3219,1.626
+eigenfunctions,neighborhood structure,-0.2495,1.5808
+Anchor Graphs,graph Laplacian eigenvectors,-0.2611,1.5882
+Anchor Graphs,eigenfunctions,-0.1831,1.5382
+graph Laplacian eigenvectors,low-rank adjacency matrices,-0.2004,1.5494
+eigenfunctions,low-rank adjacency matrices,-0.0496,1.4488
+eigenfunctions,graph Laplacian eigenvectors,0.0906,1.3486
+Hashing,hierarchical threshold learning,-0.2798,1.5998
+Anchor Graphs,hierarchical threshold learning,-0.4928,1.7279
+hierarchical threshold learning,low-rank adjacency matrices,0.88,0.4898
+graph Laplacian eigenvectors,hierarchical threshold learning,-0.1276,1.5018
+eigenfunctions,hierarchical threshold learning,0.1037,1.3389

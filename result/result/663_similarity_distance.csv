@@ -1,0 +1,14 @@
+node1,node2,similarity,distance
+Boosted decision trees,real-time learning,-0.1112,1.4908
+real-time learning,training data,-0.4251,1.6883
+prune unpromising features,real-time learning,-0.2125,1.5572
+prune unpromising features,training data,0.0613,1.3702
+fast training algorithm,training data,-0.2211,1.5628
+fast training algorithm,prune unpromising features,-0.3026,1.6141
+Boosting algorithms,training data,-0.1856,1.5398
+sampling methods,training data,0.3365,1.1519
+Boosting algorithms,prune unpromising features,-0.47,1.7147
+prune unpromising features,sampling methods,0.0041,1.4113
+Boosting algorithms,fast training algorithm,0.1068,1.3365
+fast training algorithm,sampling methods,-0.3195,1.6245
+Boosting algorithms,sampling methods,-0.3217,1.6258

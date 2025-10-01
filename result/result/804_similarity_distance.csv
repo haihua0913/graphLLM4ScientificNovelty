@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Machine learning models,adversarial perturbations,0.9177,0.4058
+Machine learning models,over-parameterization,-0.0934,1.4788
+adversarial perturbations,over-parameterization,0.0308,1.3923
+Machine learning models,empirical risk minimization,0.9224,0.3939
+Machine learning models,random features,-0.1183,1.4956
+Machine learning models,NTK,0.1712,1.2875
+adversarial perturbations,empirical risk minimization,0.9974,0.0718
+adversarial perturbations,random features,-0.0666,1.4605
+NTK,adversarial perturbations,0.1114,1.3332
+empirical risk minimization,over-parameterization,0.0458,1.3815
+over-parameterization,random features,0.8525,0.543
+NTK,over-parameterization,-0.3459,1.6406
+empirical risk minimization,random features,-0.0623,1.4576
+NTK,empirical risk minimization,0.1266,1.3217
+NTK,random features,-0.3036,1.6147
+over-parameterization,universal law of robustness,-0.3175,1.6233
+empirical risk minimization,universal law of robustness,0.051,1.3777
+random features,universal law of robustness,-0.1457,1.5138
+NTK,universal law of robustness,-0.2134,1.5578
+interaction matrix,over-parameterization,0.261,1.2158
+NTK,interaction matrix,-0.0781,1.4684

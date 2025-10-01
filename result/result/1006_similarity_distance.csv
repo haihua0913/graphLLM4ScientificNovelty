@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+MMD,maximum mean discrepancy,-0.4315,1.692
+maximum mean discrepancy,two-sample tests,-0.1335,1.5056
+maximum mean discrepancy,sample complexity,-0.1078,1.4885
+MMD,two-sample tests,-0.5404,1.7552
+MMD,sample complexity,-0.0154,1.4251
+sample complexity,two-sample tests,-0.2141,1.5583
+MMD,sample U-statistics,0.167,1.2907
+MMD,null-hypothesis approximation,0.0823,1.3548
+MMD,kernel evaluations,0.4885,1.0114
+sample U-statistics,two-sample tests,-0.4494,1.7026
+null-hypothesis approximation,two-sample tests,-0.2661,1.5913
+kernel evaluations,two-sample tests,0.095,1.3453
+sample U-statistics,sample complexity,0.9266,0.3832
+null-hypothesis approximation,sample complexity,-0.0795,1.4694
+kernel evaluations,sample complexity,-0.0487,1.4483
+null-hypothesis approximation,sample U-statistics,-0.1298,1.5032
+kernel evaluations,sample U-statistics,-0.0043,1.4173
+kernel evaluations,null-hypothesis approximation,-0.2682,1.5926
+MMD,Type I error,-0.6509,1.8171
+Type I error,two-sample tests,0.0334,1.3904
+Type I error,sample U-statistics,-0.1068,1.4878
+Type I error,null-hypothesis approximation,-0.1978,1.5478
+Type I error,kernel evaluations,-0.3239,1.6272
+Type I error,sample complexity,-0.1315,1.5043
+multiple kernels,sample complexity,-0.3339,1.6334
+multiple kernels,sample U-statistics,-0.1956,1.5463
+multiple kernels,null-hypothesis approximation,0.2165,1.2518
+kernel evaluations,multiple kernels,0.7578,0.696
+Type I error,multiple kernels,-0.2928,1.608

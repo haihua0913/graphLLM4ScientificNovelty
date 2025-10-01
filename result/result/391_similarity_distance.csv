@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+digital library,imaged documents,0.3254,1.1615
+image preprocessing,imaged documents,-0.1482,1.5154
+imaged documents,word objects,-0.0196,1.428
+digital library,image preprocessing,-0.0506,1.4495
+digital library,word objects,0.6429,0.8451
+image preprocessing,word objects,0.1349,1.3154
+feature code,imaged documents,0.3414,1.1477
+digital library,feature code,0.9862,0.1664
+feature code,image preprocessing,0.0241,1.3971
+feature code,word objects,0.6417,0.8465
+image preprocessing,query words,0.3549,1.1359
+query words,word objects,-0.2181,1.5608
+feature code,query words,0.0745,1.3605
+index table,query words,0.0184,1.4011
+feature code,index table,0.9453,0.3308
+feature code,partial word matching,-0.2962,1.6101
+index table,partial word matching,-0.2453,1.5782
+imaged documents,partial word matching,-0.1416,1.511
+document image retrieval,imaged documents,-0.1441,1.5127
+digital library,partial word matching,-0.2628,1.5892
+digital library,document image retrieval,-0.1281,1.502
+document image retrieval,feature code,-0.202,1.5505
+document image retrieval,partial word matching,0.0103,1.4069

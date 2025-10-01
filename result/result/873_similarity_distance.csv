@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+text documents,user interests,-0.1807,1.5367
+personalized information recommendation,user interests,0.1592,1.2968
+personalized information recommendation,text documents,0.0391,1.3863
+keyword-based approaches,user interests,-0.1892,1.5422
+keyword-based approaches,text documents,0.9068,0.4317
+keyword-based approaches,personalized information recommendation,0.1276,1.3209
+semantic user profiles,user interests,0.1934,1.2701
+linguistic knowledge,user interests,0.0719,1.3624
+keyword-based approaches,semantic user profiles,0.3934,1.1015
+keyword-based approaches,linguistic knowledge,0.8801,0.4896
+linguistic knowledge,semantic user profiles,0.3149,1.1706
+user interests,word sense disambiguation,-0.4359,1.6946
+WordNet,user interests,0.0674,1.3657
+semantic user profiles,word sense disambiguation,-0.4973,1.7305
+WordNet,semantic user profiles,0.3692,1.1232
+WordNet,word sense disambiguation,-0.1268,1.5012
+linguistic knowledge,word sense disambiguation,-0.1992,1.5487
+WordNet,linguistic knowledge,-0.2366,1.5727
+naive Bayes,word sense disambiguation,-0.0466,1.4468
+WordNet,naive Bayes,-0.25,1.5811

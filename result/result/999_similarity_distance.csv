@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+SDA-Bayes,streaming,0.2659,1.2117
+Bayesian posterior,SDA-Bayes,0.3053,1.1787
+SDA-Bayes,approximation batch primitive,0.3705,1.122
+Bayesian posterior,streaming,0.857,0.5349
+approximation batch primitive,streaming,-0.3502,1.6433
+Bayesian posterior,approximation batch primitive,-0.2482,1.58
+SDA-Bayes,variational Bayes,0.146,1.3069
+SDA-Bayes,latent Dirichlet allocation,-0.0436,1.4447
+streaming,variational Bayes,0.9698,0.2458
+latent Dirichlet allocation,streaming,0.0184,1.4012
+Bayesian posterior,variational Bayes,0.8764,0.4973
+Bayesian posterior,latent Dirichlet allocation,0.1662,1.2913
+approximation batch primitive,variational Bayes,-0.2954,1.6096
+approximation batch primitive,latent Dirichlet allocation,-0.1173,1.4949
+latent Dirichlet allocation,variational Bayes,0.0984,1.3429
+stochastic variational inference,streaming,0.0179,1.4015
+streaming,streaming setting,0.0832,1.3541
+approximation batch primitive,stochastic variational inference,-0.5412,1.7557
+approximation batch primitive,streaming setting,0.108,1.3357
+stochastic variational inference,variational Bayes,-0.0589,1.4553
+streaming setting,variational Bayes,0.0576,1.3729
+latent Dirichlet allocation,stochastic variational inference,-0.2121,1.557
+latent Dirichlet allocation,streaming setting,-0.0739,1.4656
+stochastic variational inference,streaming setting,-0.3,1.6124

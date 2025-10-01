@@ -1,0 +1,398 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/psb/psb2001.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"81.65"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"61",
+"@dc":"61",
+"@oc":"61",
+"@id":"48916845",
+"text":":facetid:toc:db/conf/psb/psb2001.bht"
+}
+},
+"hits":{
+"@total":"61",
+"@computed":"61",
+"@sent":"61",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"7189390",
+"info":{"authors":{"author":{"@pid":"28/5600","text":"Andrei T. Alexandrescu"}},"title":"An NMR-Based Quenched Hydrogen Exchange Investigation of Model Amyloid Fibrils Formed by Cold Shock Protein A.","venue":"Pacific Symposium on Biocomputing","pages":"67-78","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Alexandrescu01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/alex.pdf","url":"https://dblp.org/rec/conf/psb/Alexandrescu01"},
+"url":"URL#7189390"
+},
+{
+"@score":"1",
+"@id":"7189391",
+"info":{"authors":{"author":[{"@pid":"54/1564","text":"Pierre Baldi"},{"@pid":"83/546","text":"Søren Brunak"}]},"title":"Bioethics, Fiction Science, and the Future of Mankind - Session Introduction.","venue":"Pacific Symposium on Biocomputing","year":"2001","type":"Conference and Workshop Papers","access":"unavailable","key":"conf/psb/BaldiB01","url":"https://dblp.org/rec/conf/psb/BaldiB01"},
+"url":"URL#7189391"
+},
+{
+"@score":"1",
+"@id":"7189392",
+"info":{"authors":{"author":[{"@pid":"54/1564","text":"Pierre Baldi"},{"@pid":"l/RHLathrop","text":"Richard H. Lathrop"}]},"title":"DNA Structure, Protein-DNA Interactions, and DNA-Protein Expression - Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"101-102","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BaldiL01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/DNA.pdf","url":"https://dblp.org/rec/conf/psb/BaldiL01"},
+"url":"URL#7189392"
+},
+{
+"@score":"1",
+"@id":"7189393",
+"info":{"authors":{"author":[{"@pid":"85/677","text":"D. Rey Banatao"},{"@pid":"93/6107","text":"Conrad C. Huang"},{"@pid":"76/64","text":"Patricia C. Babbitt"},{"@pid":"47/2081","text":"Russ B. Altman"},{"@pid":"k/TeriEKlein","text":"Teri E. Klein"}]},"title":"ViewFeature: Integrated Feature Analysis and Visualization.","venue":"Pacific Symposium on Biocomputing","pages":"240-250","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BanataoHBAK01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/banatao.pdf","url":"https://dblp.org/rec/conf/psb/BanataoHBAK01"},
+"url":"URL#7189393"
+},
+{
+"@score":"1",
+"@id":"7189394",
+"info":{"authors":{"author":{"@pid":"16/7012","text":"Craig J. Benham"}},"title":"Stress-Induced DNA Duplex Destabilization in Transcriptional Initiation.","venue":"Pacific Symposium on Biocomputing","pages":"103-114","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Benham01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/benham.pdf","url":"https://dblp.org/rec/conf/psb/Benham01"},
+"url":"URL#7189394"
+},
+{
+"@score":"1",
+"@id":"7189395",
+"info":{"authors":{"author":[{"@pid":"78/2659","text":"Panayiotis V. Benos"},{"@pid":"30/1966","text":"Alan S. Lapedes"},{"@pid":"54/5613","text":"D. S. Fields"},{"@pid":"81/4738","text":"Gary D. Stormo"}]},"title":"SAMIE: Statistical Algorithm for Modeling Interaction Energies.","venue":"Pacific Symposium on Biocomputing","pages":"115-126","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BenosLFS01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/benos.pdf","url":"https://dblp.org/rec/conf/psb/BenosLFS01"},
+"url":"URL#7189395"
+},
+{
+"@score":"1",
+"@id":"7189396",
+"info":{"authors":{"author":[{"@pid":"91/5909","text":"Olaf R. P. Bininda-Emonds"},{"@pid":"73/4427","text":"S. G. Brady"},{"@pid":"41/2250","text":"J. Kim"},{"@pid":"88/3444","text":"Michael J. Sanderson"}]},"title":"Scaling of Accuracy in Extremely Large Phylogenetic Trees.","venue":"Pacific Symposium on Biocomputing","pages":"547-558","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Bininda-EmondsBKS01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/be.pdf","url":"https://dblp.org/rec/conf/psb/Bininda-EmondsBKS01"},
+"url":"URL#7189396"
+},
+{
+"@score":"1",
+"@id":"7189397",
+"info":{"authors":{"author":[{"@pid":"35/6905","text":"Clay Bracken"},{"@pid":"25/2391","text":"Malin M. Young"},{"@pid":"53/20","text":"A. Keith Dunker"}]},"title":"Disorder and Flexibility in Protein Structure and Function - Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"64-66","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BrackenYD01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/DIS.pdf","url":"https://dblp.org/rec/conf/psb/BrackenYD01"},
+"url":"URL#7189397"
+},
+{
+"@score":"1",
+"@id":"7189398",
+"info":{"authors":{"author":[{"@pid":"96/1665","text":"Atul J. Butte"},{"@pid":"80/3781","text":"J. Ye"},{"@pid":"27/5303","text":"G. Niederfellner"},{"@pid":"26/3229","text":"K. Rett"},{"@pid":"44/6916","text":"H. U. Häring"},{"@pid":"82/722","text":"M. F. White"},{"@pid":"k/IsaacSKohane","text":"Isaac S. Kohane"}]},"title":"Determining Significant Fold Differences in Gene Expression Analysis.","venue":"Pacific Symposium on Biocomputing","pages":"6-17","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ButteYNRHFK01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/butte.pdf","url":"https://dblp.org/rec/conf/psb/ButteYNRHFK01"},
+"url":"URL#7189398"
+},
+{
+"@score":"1",
+"@id":"7189399",
+"info":{"authors":{"author":[{"@pid":"78/6341","text":"Jeffrey T. Chang"},{"@pid":"25/6252","text":"Soumya Raychaudhuri"},{"@pid":"47/2081","text":"Russ B. Altman"}]},"title":"Including Biological Literature Improves Homology Search.","venue":"Pacific Symposium on Biocomputing","pages":"374-383","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ChangRA01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/chang.pdf","url":"https://dblp.org/rec/conf/psb/ChangRA01"},
+"url":"URL#7189399"
+},
+{
+"@score":"1",
+"@id":"7189400",
+"info":{"authors":{"author":[{"@pid":"06/5715","text":"John S. Conery"},{"@pid":"34/1976","text":"Michael Lynch"}]},"title":"Nucleotide Substitutions and the Evolution of Duplicate Genes.","venue":"Pacific Symposium on Biocomputing","pages":"167-178","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ConeryL01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/conery.pdf","url":"https://dblp.org/rec/conf/psb/ConeryL01"},
+"url":"URL#7189400"
+},
+{
+"@score":"1",
+"@id":"7189401",
+"info":{"authors":{"author":[{"@pid":"17/271","text":"Alexander Dimitrov 0001"},{"@pid":"81/6710-1","text":"John P. Miller 0001"}]},"title":"Analyzing Sensory Systems with the Information Distortion Function.","venue":"Pacific Symposium on Biocomputing","pages":"251-262","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/DimitrovM01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/dimitrov.pdf","url":"https://dblp.org/rec/conf/psb/DimitrovM01"},
+"url":"URL#7189401"
+},
+{
+"@score":"1",
+"@id":"7189402",
+"info":{"authors":{"author":[{"@pid":"48/2471","text":"Patricia A. Evans"},{"@pid":"w/TWareham","text":"Harold T. Wareham"}]},"title":"Exact Algorithms for Computing Pairwise Alignments and 3-Medians From Structure-Annotated Sequences (Extended Abstract).","venue":"Pacific Symposium on Biocomputing","pages":"559-570","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/EvansW01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/evans.pdf","url":"https://dblp.org/rec/conf/psb/EvansW01"},
+"url":"URL#7189402"
+},
+{
+"@score":"1",
+"@id":"7189403",
+"info":{"authors":{"author":[{"@pid":"08/4436","text":"Thomas E. Ferrin"},{"@pid":"33/5313","text":"Bruce A. Foster"},{"@pid":"44/6970","text":"Richard Hughey"}]},"title":"High Performance Computing for Computational Biology - Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"238-239","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/FerrinFH01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/HPC.pdf","url":"https://dblp.org/rec/conf/psb/FerrinFH01"},
+"url":"URL#7189403"
+},
+{
+"@score":"1",
+"@id":"7189404",
+"info":{"authors":{"author":[{"@pid":"14/2695","text":"Richard A. Goldstein"},{"@pid":"70/1664","text":"David D. Pollock"},{"@pid":"55/872","text":"Jeffrey L. Thorne"}]},"title":"Structures, Phylogenies, and Genomes: The Integrated Study of Protein Evolution - Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"164-166","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GoldsteinPT01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/STRUC.pdf","url":"https://dblp.org/rec/conf/psb/GoldsteinPT01"},
+"url":"URL#7189404"
+},
+{
+"@score":"1",
+"@id":"7189405",
+"info":{"authors":{"author":[{"@pid":"71/2977","text":"Derek Gordon"},{"@pid":"60/4278","text":"Jürg Ott"}]},"title":"Assessment and Management of Single Nucleotide Polymorphism Genotype Errors in Genetic Association.","venue":"Pacific Symposium on Biocomputing","pages":"18-29","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GordonO01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/gordon.pdf","url":"https://dblp.org/rec/conf/psb/GordonO01"},
+"url":"URL#7189405"
+},
+{
+"@score":"1",
+"@id":"7189406",
+"info":{"authors":{"author":[{"@pid":"96/4088","text":"Leslie Grate"},{"@pid":"62/2692","text":"Mark Diekhans"},{"@pid":"45/916","text":"David M. Dahle"},{"@pid":"44/6970","text":"Richard Hughey"}]},"title":"Sequence Analysis With the Kestrel SIMD Parallel Processor.","venue":"Pacific Symposium on Biocomputing","pages":"263-274","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GrateDDH01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/grate.pdf","url":"https://dblp.org/rec/conf/psb/GrateDDH01"},
+"url":"URL#7189406"
+},
+{
+"@score":"1",
+"@id":"7189407",
+"info":{"authors":{"author":[{"@pid":"55/5707","text":"Chittibabu Guda"},{"@pid":"66/3425","text":"Eric D. Scheeff"},{"@pid":"b/PhilipEBourne","text":"Philip E. Bourne"},{"@pid":"47/5323","text":"Ilya N. Shindyalov"}]},"title":"A New Algorithm for the Alignment of Multiple Protein Structures Using Monte Carlo Optimization.","venue":"Pacific Symposium on Biocomputing","pages":"275-286","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GudaSBS01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/guda.pdf","url":"https://dblp.org/rec/conf/psb/GudaSBS01"},
+"url":"URL#7189407"
+},
+{
+"@score":"1",
+"@id":"7189408",
+"info":{"authors":{"author":[{"@pid":"64/1983","text":"Alexander J. Hartemink"},{"@pid":"g/DavidKGifford","text":"David K. Gifford"},{"@pid":"j/TommiJaakkola","text":"Tommi S. Jaakkola"},{"@pid":"97/2425","text":"Richard A. Young"}]},"title":"Using Graphical Models and Genomic Expression Data to Statistically Validate Models of Genetic Regulatory Networks.","venue":"Pacific Symposium on Biocomputing","pages":"422-433","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HarteminkGJY01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/hartemink.pdf","url":"https://dblp.org/rec/conf/psb/HarteminkGJY01"},
+"url":"URL#7189408"
+},
+{
+"@score":"1",
+"@id":"7189409",
+"info":{"authors":{"author":{"@pid":"06/2491","text":"Jotun Hein"}},"title":"An Algorithm for Statistical Alignment of Sequences Related by a Binary Tree.","venue":"Pacific Symposium on Biocomputing","pages":"179-190","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Hein01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/hein.pdf","url":"https://dblp.org/rec/conf/psb/Hein01"},
+"url":"URL#7189409"
+},
+{
+"@score":"1",
+"@id":"7189410",
+"info":{"authors":{"author":[{"@pid":"67/3901","text":"Tai Hsu"},{"@pid":"00/5369","text":"Paul Cull"}]},"title":"Gene Verification and Discovery by Walking Tree Method.","venue":"Pacific Symposium on Biocomputing","pages":"287-298","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HsuC01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/hsu.pdf","url":"https://dblp.org/rec/conf/psb/HsuC01"},
+"url":"URL#7189410"
+},
+{
+"@score":"1",
+"@id":"7189411",
+"info":{"authors":{"author":[{"@pid":"57/1888","text":"Torgeir R. Hvidsten"},{"@pid":"k/HenrykJanKomorowski","text":"Henryk Jan Komorowski"},{"@pid":"96/2153","text":"Arne K. Sandvik"},{"@pid":"07/725","text":"Astrid Lægreid"}]},"title":"Predicting Gene Function from Gene Expressions and Ontologies.","venue":"Pacific Symposium on Biocomputing","pages":"299-310","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HvidstenKSL01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/hvidsten.pdf","url":"https://dblp.org/rec/conf/psb/HvidstenKSL01"},
+"url":"URL#7189411"
+},
+{
+"@score":"1",
+"@id":"7189412",
+"info":{"authors":{"author":[{"@pid":"74/1957","text":"Ioannis Iliopoulos"},{"@pid":"80/4508","text":"Anton J. Enright"},{"@pid":"13/6101","text":"Christos A. Ouzounis"}]},"title":"TEXTQUEST: Document Clustering of MEDLINE Abstracts For Concept Discovery In Molecular Biology.","venue":"Pacific Symposium on Biocomputing","pages":"384-395","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/IliopoulosEO01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/ili.pdf","url":"https://dblp.org/rec/conf/psb/IliopoulosEO01"},
+"url":"URL#7189412"
+},
+{
+"@score":"1",
+"@id":"7189413",
+"info":{"authors":{"author":[{"@pid":"68/4051","text":"Peter D. Karp"},{"@pid":"30/6001","text":"Eric P. Neumann"},{"@pid":"16/6655","text":"Pedro Romero"}]},"title":"Genome, Pathway and Interaction Bioinformatics - Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"420-421","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KarpNR01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/PATH.pdf","url":"https://dblp.org/rec/conf/psb/KarpNR01"},
+"url":"URL#7189413"
+},
+{
+"@score":"1",
+"@id":"7189414",
+"info":{"authors":{"author":[{"@pid":"93/417","text":"Ju-Han Kim"},{"@pid":"71/4212","text":"Lucila Ohno-Machado"},{"@pid":"k/IsaacSKohane","text":"Isaac S. Kohane"}]},"title":"Unsupervised Learning from Complex Data: The Matrix Incision Tree Algorithm.","venue":"Pacific Symposium on Biocomputing","pages":"30-41","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KimOK01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/kim.pdf","url":"https://dblp.org/rec/conf/psb/KimOK01"},
+"url":"URL#7189414"
+},
+{
+"@score":"1",
+"@id":"7189415",
+"info":{"authors":{"author":[{"@pid":"88/3405","text":"Junhyong Kim"},{"@pid":"82/2035","text":"Benjamin A. Salisbury"}]},"title":"A Tree Obscured By Vines: Horizontal Gene Transfer and the Median Tree Method of Estimating Species Phylogeny.","venue":"Pacific Symposium on Biocomputing","pages":"571-582","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KimS01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/jkim.pdf","url":"https://dblp.org/rec/conf/psb/KimS01"},
+"url":"URL#7189415"
+},
+{
+"@score":"1",
+"@id":"7189416",
+"info":{"authors":{"author":[{"@pid":"89/2733","text":"Gregory T. Klus"},{"@pid":"21/2300","text":"Andrew Song"},{"@pid":"70/2360","text":"Ari Schick"},{"@pid":"09/3532","text":"Mattias Wahde"},{"@pid":"69/3048","text":"Zoltan Szallasi"}]},"title":"Mutual Information Analysis as a Tool to Assess the Role of Aneuploidy in the Generation of Cancer-Associated Differential Gene Expression Patterns.","venue":"Pacific Symposium on Biocomputing","pages":"42-51","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KlusSSWS01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/klus.pdf","url":"https://dblp.org/rec/conf/psb/KlusSSWS01"},
+"url":"URL#7189416"
+},
+{
+"@score":"1",
+"@id":"7189417",
+"info":{"authors":{"author":[{"@pid":"04/594","text":"Jeffrey M. Koshi"},{"@pid":"14/2695","text":"Richard A. Goldstein"}]},"title":"Analyzing Rate Heterogeneity During Protein Evolution.","venue":"Pacific Symposium on Biocomputing","pages":"191-202","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KoshiG01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/koshi.pdf","url":"https://dblp.org/rec/conf/psb/KoshiG01"},
+"url":"URL#7189417"
+},
+{
+"@score":"1",
+"@id":"7189418",
+"info":{"authors":{"author":[{"@pid":"01/2656","text":"John R. Koza"},{"@pid":"79/445","text":"William Mydlowec"},{"@pid":"46/5407","text":"Guido Lanza"},{"@pid":"52/6686","text":"Jessen Yu"},{"@pid":"13/6940","text":"Martin A. Keane"}]},"title":"Reverse Engineering of Metabolic Pathways from Observed Data Using Genetic Programming.","venue":"Pacific Symposium on Biocomputing","pages":"434-445","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KozaMLYK01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/koza.pdf","url":"https://dblp.org/rec/conf/psb/KozaMLYK01"},
+"url":"URL#7189418"
+},
+{
+"@score":"1",
+"@id":"7189419",
+"info":{"authors":{"author":[{"@pid":"36/677","text":"X. Liu"},{"@pid":"88/4215","text":"Douglas L. Brutlag"},{"@pid":"83/1842","text":"Jun S. Liu"}]},"title":"BioProspector: Discovering Conserved DNA Motifs in Upstream Regulatory Regions of Co-Expressed Genes.","venue":"Pacific Symposium on Biocomputing","pages":"127-138","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/LiuBL01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/liu.pdf","url":"https://dblp.org/rec/conf/psb/LiuBL01"},
+"url":"URL#7189419"
+},
+{
+"@score":"1",
+"@id":"7189420",
+"info":{"authors":{"author":[{"@pid":"30/264","text":"Yukihiro Maki"},{"@pid":"69/1002","text":"Daisuke Tominaga"},{"@pid":"46/497","text":"Masahiro Okamoto"},{"@pid":"42/5074","text":"Shoji Watanabe"},{"@pid":"69/6509","text":"Yukihiro Eguchi"}]},"title":"Development of a System for the Inference of Large Scale Genetic Networks.","venue":"Pacific Symposium on Biocomputing","pages":"446-458","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MakiTOWE01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/maki.pdf","url":"https://dblp.org/rec/conf/psb/MakiTOWE01"},
+"url":"URL#7189420"
+},
+{
+"@score":"1",
+"@id":"7189421",
+"info":{"authors":{"author":[{"@pid":"66/2518","text":"Yael Mandel-Gutfreund"},{"@pid":"26/6623","text":"A. Baron"},{"@pid":"38/1313","text":"Hanah Margalit"}]},"title":"A Structure-Based Approach for Prediction of Protein Binding Sites in Gene-Upstream Regions.","venue":"Pacific Symposium on Biocomputing","pages":"139-150","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Mandel-GutfreundBM01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/mg.pdf","url":"https://dblp.org/rec/conf/psb/Mandel-GutfreundBM01"},
+"url":"URL#7189421"
+},
+{
+"@score":"1",
+"@id":"7189422",
+"info":{"authors":{"author":[{"@pid":"120/9618","text":"Wellington Santos Martins"},{"@pid":"03/2858","text":"Juan del Cuvillo"},{"@pid":"25/4416","text":"F. J. Useche"},{"@pid":"77/6475","text":"Kevin B. Theobald"},{"@pid":"g/GuangRGao","text":"Guang R. Gao"}]},"title":"A Multithreaded Parallel Implementation of a Dynamic Programming Algorithm for Sequence Comparison.","venue":"Pacific Symposium on Biocomputing","pages":"311-322","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MartinsCUTG01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/martins.pdf","url":"https://dblp.org/rec/conf/psb/MartinsCUTG01"},
+"url":"URL#7189422"
+},
+{
+"@score":"1",
+"@id":"7189423",
+"info":{"authors":{"author":[{"@pid":"18/242","text":"Bernard M. E. Moret"},{"@pid":"51/4427","text":"Stacia K. Wyman"},{"@pid":"41/3005","text":"David A. Bader"},{"@pid":"w/TandyWarnow","text":"Tandy J. Warnow"},{"@pid":"95/4123","text":"Mi Yan"}]},"title":"A New Implmentation and Detailed Study of Breakpoint Analysis.","venue":"Pacific Symposium on Biocomputing","pages":"583-594","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MoretWBWY01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/moret.pdf","url":"https://dblp.org/rec/conf/psb/MoretWBWY01"},
+"url":"URL#7189423"
+},
+{
+"@score":"1",
+"@id":"7189424",
+"info":{"authors":{"author":[{"@pid":"73/5376","text":"Jong C. Park"},{"@pid":"17/6465","text":"Hyun Sook Kim"},{"@pid":"83/1191-1","text":"Jung-Jae Kim 0001"}]},"title":"Bidirectional Incremental Parsing for Automatic Pathway Identification with Combinatory Categorial Grammar.","venue":"Pacific Symposium on Biocomputing","pages":"396-407","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ParkKK01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/jcpark.pdf","url":"https://dblp.org/rec/conf/psb/ParkKK01"},
+"url":"URL#7189424"
+},
+{
+"@score":"1",
+"@id":"7189425",
+"info":{"authors":{"author":[{"@pid":"45/99","text":"Peter J. Park"},{"@pid":"97/5900","text":"Marcello Pagano"},{"@pid":"84/4332","text":"Marco Bonetti"}]},"title":"A Nonparametric Scoring Algorithm for Identifying Informative Genes from Microarray Data.","venue":"Pacific Symposium on Biocomputing","pages":"52-63","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ParkPB01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/park.pdf","url":"https://dblp.org/rec/conf/psb/ParkPB01"},
+"url":"URL#7189425"
+},
+{
+"@score":"1",
+"@id":"7189426",
+"info":{"authors":{"author":[{"@pid":"20/5638","text":"Paul Pavlidis"},{"@pid":"80/2036","text":"Terrence S. Furey"},{"@pid":"39/4187","text":"M. Liberto"},{"@pid":"h/DavidHaussler","text":"David Haussler"},{"@pid":"08/978","text":"William Noble Grundy"}]},"title":"Promoter Region-Based Classification of Genes.","venue":"Pacific Symposium on Biocomputing","pages":"151-164","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PavlidisFLHG01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/pavlidis.pdf","url":"https://dblp.org/rec/conf/psb/PavlidisFLHG01"},
+"url":"URL#7189426"
+},
+{
+"@score":"1",
+"@id":"7189427",
+"info":{"authors":{"author":[{"@pid":"29/1764","text":"J. J. Prompers"},{"@pid":"30/1640","text":"S. F. Lienin"},{"@pid":"12/2316","text":"R. Brüschweiler"}]},"title":"Collective Reorientational Motion and Nuclear Spin Relaxation in Proteins.","venue":"Pacific Symposium on Biocomputing","pages":"79-88","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PrompersLB01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/prompers.pdf","url":"https://dblp.org/rec/conf/psb/PrompersLB01"},
+"url":"URL#7189427"
+},
+{
+"@score":"1",
+"@id":"7189428",
+"info":{"authors":{"author":[{"@pid":"67/449","text":"Aviv Regev"},{"@pid":"32/6864","text":"William Silverman"},{"@pid":"s/EhudYShapiro","text":"Ehud Shapiro"}]},"title":"Representation and Simulation of Biochemical Processes Using the pi-Calculus Process Algebra.","venue":"Pacific Symposium on Biocomputing","pages":"459-470","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/RegevSS01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/regev.pdf","url":"https://dblp.org/rec/conf/psb/RegevSS01"},
+"url":"URL#7189428"
+},
+{
+"@score":"1",
+"@id":"7189429",
+"info":{"authors":{"author":[{"@pid":"20/180","text":"Fengrong Ren"},{"@pid":"63/3760","text":"Soichi Ogishima"},{"@pid":"41/4423","text":"Hiroshi Tanaka"}]},"title":"A New Algorithm for Analysis of Within-Host HIV-1 Evolution.","venue":"Pacific Symposium on Biocomputing","pages":"595-605","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/RenOT01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/ren.pdf","url":"https://dblp.org/rec/conf/psb/RenOT01"},
+"url":"URL#7189429"
+},
+{
+"@score":"1",
+"@id":"7189430",
+"info":{"authors":{"author":[{"@pid":"32/3768","text":"Eric Rice"},{"@pid":"44/6970","text":"Richard Hughey"}]},"title":"Molecular Fingerprinting on the SIMD Parallel Processor Kestrel.","venue":"Pacific Symposium on Biocomputing","pages":"323-334","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/RiceH01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/rice.pdf","url":"https://dblp.org/rec/conf/psb/RiceH01"},
+"url":"URL#7189430"
+},
+{
+"@score":"1",
+"@id":"7189431",
+"info":{"authors":{"author":[{"@pid":"16/6655","text":"Pedro Romero"},{"@pid":"68/4051","text":"Peter D. Karp"}]},"title":"Nutrition-Related Analysis of Pathway/Genome Databases.","venue":"Pacific Symposium on Biocomputing","pages":"470-482","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/RomeroK01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/romero.pdf","url":"https://dblp.org/rec/conf/psb/RomeroK01"},
+"url":"URL#7189431"
+},
+{
+"@score":"1",
+"@id":"7189432",
+"info":{"authors":{"author":[{"@pid":"96/4425","text":"Andrey Rzhetsky"},{"@pid":"16/3558","text":"Pavel Morozov"}]},"title":"Markov Chain Monte Carlo Computation of Confidence Intervals for Substitution-Rate Variation in Proteins.","venue":"Pacific Symposium on Biocomputing","pages":"203-214","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/RzhetskyM01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/rzhetsky.pdf","url":"https://dblp.org/rec/conf/psb/RzhetskyM01"},
+"url":"URL#7189432"
+},
+{
+"@score":"1",
+"@id":"7189433",
+"info":{"authors":{"author":[{"@pid":"78/1381","text":"Roman Sásik"},{"@pid":"77/2431","text":"Terence Hwa"},{"@pid":"14/3955","text":"N. Iranfar"},{"@pid":"51/4461","text":"W. F. Loomis"}]},"title":"Percolation Clustering: A Novel Algorithm Applied to the Clustering of Gene Expression Patterns in Dictyostelium Development.","venue":"Pacific Symposium on Biocomputing","pages":"335-347","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SasikHIL01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/sasik.pdf","url":"https://dblp.org/rec/conf/psb/SasikHIL01"},
+"url":"URL#7189433"
+},
+{
+"@score":"1",
+"@id":"7189434",
+"info":{"authors":{"author":[{"@pid":"92/1330","text":"Rimli Sengupta"},{"@pid":"t/MartinTompa","text":"Martin Tompa"}]},"title":"Quality Control in Manufacturing Oligo Arrays: A Combinatorial Design Approach.","venue":"Pacific Symposium on Biocomputing","pages":"348-359","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SenguptaT01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/sengupta.pdf","url":"https://dblp.org/rec/conf/psb/SenguptaT01"},
+"url":"URL#7189434"
+},
+{
+"@score":"1",
+"@id":"7189435",
+"info":{"authors":{"author":[{"@pid":"97/2700","text":"Jennifer E. Steinbachs"},{"@pid":"09/3267","text":"Paul E. Kearney"}]},"title":"Phylogenetics in the Post-Genomic Era - Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"544-546","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SteinbachsK01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/PHYLO.pdf","url":"https://dblp.org/rec/conf/psb/SteinbachsK01"},
+"url":"URL#7189435"
+},
+{
+"@score":"1",
+"@id":"7189436",
+"info":{"authors":{"author":[{"@pid":"97/2700","text":"Jennifer E. Steinbachs"},{"@pid":"44/6202","text":"Nikolaos V. Schizas"},{"@pid":"20/6142","text":"J. W. O. Ballard"}]},"title":"Efficiencies of Genes and Accuracy of Tree-Building Methods in Recovering a Known Drosophila Genealogy.","venue":"Pacific Symposium on Biocomputing","pages":"606-617","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SteinbachsSB01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/steinbachs.pdf","url":"https://dblp.org/rec/conf/psb/SteinbachsSB01"},
+"url":"URL#7189436"
+},
+{
+"@score":"1",
+"@id":"7189437",
+"info":{"authors":{"author":[{"@pid":"27/1221","text":"Matthew J. Stephens"},{"@pid":"06/420","text":"Mathew J. Palakal"},{"@pid":"38/2355","text":"Snehasis Mukhopadhyay"},{"@pid":"96/717","text":"Rajeev R. Raje"},{"@pid":"14/6061","text":"Javed Mostafa"}]},"title":"Detecting Gene Relations from MEDLINE Abstracts.","venue":"Pacific Symposium on Biocomputing","pages":"483-496","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/StephensPMRM01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/stephens.pdf","url":"https://dblp.org/rec/conf/psb/StephensPMRM01"},
+"url":"URL#7189437"
+},
+{
+"@score":"1",
+"@id":"7189438",
+"info":{"authors":{"author":[{"@pid":"43/6059","text":"Simon Tavaré"},{"@pid":"54/1606","text":"Dean C. Adams"},{"@pid":"49/975","text":"Olivier Fedrigo"},{"@pid":"51/1917","text":"Gavin J. P. Naylor"}]},"title":"A Model for Phylogenetic Inference Using Structural and Chemical Covariates.","venue":"Pacific Symposium on Biocomputing","pages":"215-225","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/TavareAFN01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/tavare.pdf","url":"https://dblp.org/rec/conf/psb/TavareAFN01"},
+"url":"URL#7189438"
+},
+{
+"@score":"1",
+"@id":"7189439",
+"info":{"authors":{"author":[{"@pid":"52/6436","text":"Christine L. Tsien"},{"@pid":"05/3099","text":"T. A. Libermann"},{"@pid":"35/1206","text":"X. Gu"},{"@pid":"k/IsaacSKohane","text":"Isaac S. Kohane"}]},"title":"On Reporting Fold Differences.","venue":"Pacific Symposium on Biocomputing","pages":"496-507","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/TsienLGK01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/tsien.pdf","url":"https://dblp.org/rec/conf/psb/TsienLGK01"},
+"url":"URL#7189439"
+},
+{
+"@score":"1",
+"@id":"7189440",
+"info":{"authors":{"author":[{"@pid":"t/JunichiTsujii","text":"Jun&apos;ichi Tsujii"},{"@pid":"w/LimsoonWong","text":"Limsoon Wong"}]},"title":"Natural Language Processing for Biology - Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"372-373","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/TsujiiW01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/NLP.pdf","url":"https://dblp.org/rec/conf/psb/TsujiiW01"},
+"url":"URL#7189440"
+},
+{
+"@score":"1",
+"@id":"7189441",
+"info":{"authors":{"author":[{"@pid":"32/5165","text":"Francisco M. de la Vega"},{"@pid":"18/2079","text":"Martin Kreitman"},{"@pid":"k/IsaacSKohane","text":"Isaac S. Kohane"}]},"title":"Human Genome Variation: Linking Genotypes to Clinical Phenotypes - Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"3-5","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/VegaKK01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/HGV.pdf","url":"https://dblp.org/rec/conf/psb/VegaKK01"},
+"url":"URL#7189441"
+},
+{
+"@score":"1",
+"@id":"7189442",
+"info":{"authors":{"author":[{"@pid":"88/317","text":"Allison Waugh"},{"@pid":"05/1064","text":"Glenn A. Williams"},{"@pid":"08/1820","text":"Liping Wei"},{"@pid":"47/2081","text":"Russ B. Altman"}]},"title":"Using Metacomputing Tools to Facilitate Large Scale Analyses of Biological Databases.","venue":"Pacific Symposium on Biocomputing","pages":"360-371","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WaughWWA01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/waugh.pdf","url":"https://dblp.org/rec/conf/psb/WaughWWA01"},
+"url":"URL#7189442"
+},
+{
+"@score":"1",
+"@id":"7189443",
+"info":{"authors":{"author":[{"@pid":"15/5717","text":"Lodewyk F. A. Wessels"},{"@pid":"84/2566","text":"Eugene P. van Someren"},{"@pid":"66/1184","text":"Marcel J. T. Reinders"}]},"title":"A Comparison of Genetic Network Models.","venue":"Pacific Symposium on Biocomputing","pages":"508-519","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WesselsSR01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/wessels.pdf","url":"https://dblp.org/rec/conf/psb/WesselsSR01"},
+"url":"URL#7189443"
+},
+{
+"@score":"1",
+"@id":"7189444",
+"info":{"authors":{"author":[{"@pid":"12/3858","text":"R. M. Williams"},{"@pid":"92/1944","text":"Zoran Obradovic"},{"@pid":"75/5962","text":"V. Mathura"},{"@pid":"32/5102","text":"W. Braun"},{"@pid":"36/855","text":"E. C. Garner"},{"@pid":"23/4293","text":"J. Young"},{"@pid":"89/1063","text":"S. Takayama"},{"@pid":"67/1424","text":"Celeste J. Brown"},{"@pid":"53/20","text":"A. Keith Dunker"}]},"title":"The Protein Non-Folding Problem: Amino Acid Determinants of Intrinsic Order and Disorder.","venue":"Pacific Symposium on Biocomputing","pages":"89-100","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WilliamsOMBGYTBD01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/williams.pdf","url":"https://dblp.org/rec/conf/psb/WilliamsOMBGYTBD01"},
+"url":"URL#7189444"
+},
+{
+"@score":"1",
+"@id":"7189445",
+"info":{"authors":{"author":{"@pid":"w/LimsoonWong","text":"Limsoon Wong"}},"title":"PIES, A Protein Interaction Extraction System.","venue":"Pacific Symposium on Biocomputing","pages":"520-531","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Wong01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/wong.pdf","url":"https://dblp.org/rec/conf/psb/Wong01"},
+"url":"URL#7189445"
+},
+{
+"@score":"1",
+"@id":"7189446",
+"info":{"title":"Preface.","venue":"Pacific Symposium on Biocomputing","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/X01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/preface.pdf","url":"https://dblp.org/rec/conf/psb/X01"},
+"url":"URL#7189446"
+},
+{
+"@score":"1",
+"@id":"7189447",
+"info":{"authors":{"author":[{"@pid":"18/1625","text":"Akane Yakushiji"},{"@pid":"54/141","text":"Yuka Tateisi"},{"@pid":"34/467","text":"Yusuke Miyao"},{"@pid":"t/JunichiTsujii","text":"Jun&apos;ichi Tsujii"}]},"title":"Event Extraction from Biomedical Papers Using a Full Parser.","venue":"Pacific Symposium on Biocomputing","pages":"408-419","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/YakushijiTMT01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/yakushiji.pdf","url":"https://dblp.org/rec/conf/psb/YakushijiTMT01"},
+"url":"URL#7189447"
+},
+{
+"@score":"1",
+"@id":"7189448",
+"info":{"authors":{"author":{"@pid":"96/6856","text":"Ziheng Yang"}},"title":"Maximum Likelihood Analysis of Adaptive Evolution in HIV-1 Gp120 env Gene.","venue":"Pacific Symposium on Biocomputing","pages":"226-237","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Yang01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/yang.pdf","url":"https://dblp.org/rec/conf/psb/Yang01"},
+"url":"URL#7189448"
+},
+{
+"@score":"1",
+"@id":"7189449",
+"info":{"authors":{"author":[{"@pid":"85/1611","text":"Lingchong You"},{"@pid":"34/1974","text":"John Yin"}]},"title":"Simulating the Growth of Viruses.","venue":"Pacific Symposium on Biocomputing","pages":"532-543","year":"2001","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/YouY01","ee":"http://psb.stanford.edu/psb-online/proceedings/psb01/you.pdf","url":"https://dblp.org/rec/conf/psb/YouY01"},
+"url":"URL#7189449"
+},
+{
+"@score":"1",
+"@id":"7199803",
+"info":{"authors":{"author":[{"@pid":"47/2081","text":"Russ B. Altman"},{"@pid":"53/20","text":"A. Keith Dunker"},{"@pid":"h/LawrenceHunter","text":"Lawrence Hunter"},{"@pid":"k/TeriEKlein","text":"Teri E. Klein"}]},"title":"Proceedings of the 6th Pacific Symposium on Biocomputing, PSB 2001, Hawaii, USA, January 3-7, 2001","venue":"Pacific Symposium on Biocomputing","year":"2001","type":"Editorship","key":"conf/psb/2001","ee":"http://psb.stanford.edu/psb-online/proceedings/psb2001/","url":"https://dblp.org/rec/conf/psb/2001"},
+"url":"URL#7199803"
+}
+]
+}
+}
+}

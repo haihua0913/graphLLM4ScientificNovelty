@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+language models,mathematical reasoning,0.0416,1.3845
+language models,robustness,-0.1012,1.4841
+behavioral testing,language models,-0.2045,1.5521
+input space,language models,0.1793,1.2811
+causal graph,language models,-0.0592,1.4554
+interventions,language models,-0.0736,1.4654
+mathematical reasoning,robustness,-0.1283,1.5022
+behavioral testing,mathematical reasoning,-0.2698,1.5936
+input space,mathematical reasoning,0.5129,0.987
+causal graph,mathematical reasoning,-0.1729,1.5316
+interventions,mathematical reasoning,-0.1958,1.5465
+behavioral testing,robustness,0.1128,1.332
+input space,robustness,0.0253,1.3962
+causal graph,robustness,-0.4673,1.7131
+interventions,robustness,0.9418,0.3411
+behavioral testing,input space,-0.0067,1.4189
+behavioral testing,causal graph,0.0408,1.385
+behavioral testing,interventions,0.0242,1.397
+causal graph,input space,-0.0238,1.431
+input space,interventions,-0.0387,1.4413
+causal graph,interventions,-0.3251,1.6279
+GPT-3 Davinci,language models,-0.0542,1.452
+GPT-3 Davinci,mathematical reasoning,-0.1164,1.4943
+GPT-3 Davinci,robustness,-0.1617,1.5242
+GPT-3 Davinci,behavioral testing,-0.3146,1.6215
+GPT-3 Davinci,input space,0.0649,1.3675
+GPT-3 Davinci,causal graph,-0.2415,1.5758
+GPT-3 Davinci,interventions,-0.0205,1.4286

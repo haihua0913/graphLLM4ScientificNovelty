@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+feature pyramid,single-shot object detectors,-0.1241,1.4994
+FSAF module,single-shot object detectors,0.3646,1.1273
+FSAF module,feature pyramid,0.4325,1.0653
+FSAF module,anchor-free branches,0.3612,1.1303
+FSAF module,online feature selection,0.5163,0.9836
+anchor-free branches,feature pyramid,-0.0515,1.4502
+feature pyramid,online feature selection,0.1572,1.2983
+anchor-free branches,online feature selection,0.1973,1.2671
+COCO detection track,FSAF module,-0.3541,1.6457
+COCO detection track,anchor-free branches,-0.275,1.5969
+COCO detection track,online feature selection,-0.3374,1.6355
+FSAF module,RetinaNet,0.0906,1.3486
+FSAF module,inference overhead,0.4495,1.0492
+RetinaNet,anchor-free branches,0.9384,0.351
+anchor-free branches,inference overhead,0.0597,1.3714
+RetinaNet,online feature selection,0.1134,1.3316
+inference overhead,online feature selection,0.964,0.2684
+COCO detection track,RetinaNet,-0.2218,1.5632
+COCO detection track,inference overhead,-0.4404,1.6973
+RetinaNet,inference overhead,0.0016,1.4131
+FSAF module,mAP,0.1409,1.3108
+FSAF module,state-of-the-art,0.34,1.1489
+COCO detection track,mAP,-0.2055,1.5527
+COCO detection track,state-of-the-art,-0.2906,1.6066
+RetinaNet,mAP,0.9964,0.0843
+inference overhead,mAP,0.0226,1.3981
+mAP,state-of-the-art,0.9621,0.2752
+RetinaNet,state-of-the-art,0.9426,0.3388
+inference overhead,state-of-the-art,0.1675,1.2903

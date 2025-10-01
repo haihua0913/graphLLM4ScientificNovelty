@@ -1,0 +1,14 @@
+node1,node2,similarity,distance
+Bayesian decision making,Markov Decision Processes,-0.1456,1.5136
+Bayesian decision making,unknown dynamics,0.6682,0.8146
+Bayesian decision making,data-poor environments,0.4493,1.0495
+Markov Decision Processes,unknown dynamics,0.0103,1.4069
+Markov Decision Processes,data-poor environments,-0.087,1.4745
+data-poor environments,unknown dynamics,0.8138,0.6103
+Gaussian process temporal difference,posterior distribution,-0.1896,1.5425
+continuous state and action spaces,posterior distribution,0.335,1.1532
+metastatic melanoma,posterior distribution,-0.0641,1.4589
+gene regulatory network,posterior distribution,-0.6143,1.7968
+continuous state and action spaces,metastatic melanoma,0.8387,0.5679
+continuous state and action spaces,gene regulatory network,-0.2168,1.56
+gene regulatory network,metastatic melanoma,0.2436,1.23

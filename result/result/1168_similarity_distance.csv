@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+Normalizing flows,invertible transformations,0.4183,1.0786
+Normalizing flows,ResNet-based normalizing flows,-0.3888,1.6666
+ResNet-based normalizing flows,invertible transformations,-0.4426,1.6986
+Lipschitz constants,Normalizing flows,-0.2277,1.567
+Lipschitz constants,invertible transformations,-0.3121,1.6199
+Lipschitz constants,ResNet-based normalizing flows,0.1481,1.3053
+Normalizing flows,monotone operators,0.0039,1.4115
+ResNet-based normalizing flows,monotone operators,-0.134,1.506
+Lipschitz constants,monotone operators,-0.2493,1.5807
+Concatenated Pila,Lipschitz constants,0.0094,1.4076
+Concatenated Pila,monotone operators,-0.1671,1.5278
+Lipschitz constants,Monotone Flows,-0.182,1.5375
+Monotone Flows,monotone operators,0.9752,0.2227
+Concatenated Pila,Monotone Flows,-0.0848,1.4729

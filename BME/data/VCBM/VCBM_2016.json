@@ -1,0 +1,176 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/vcbm/vcbm2016.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"98.85"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"24",
+"@dc":"24",
+"@oc":"24",
+"@id":"48926941",
+"text":":facetid:toc:db/conf/vcbm/vcbm2016.bht"
+}
+},
+"hits":{
+"@total":"24",
+"@computed":"24",
+"@sent":"24",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4130978",
+"info":{"authors":{"author":[{"@pid":"144/3314","text":"Salaheddin Alakkari"},{"@pid":"85/3753","text":"John Dingliana"}]},"title":"Volume Visualization Using Principal Component Analysis.","venue":"VCBM/MedViz","pages":"53-57","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/AlakkariD16","doi":"10.2312/VCBM.20161271","ee":"https://doi.org/10.2312/vcbm.20161271","url":"https://dblp.org/rec/conf/vcbm/AlakkariD16"},
+"url":"URL#4130978"
+},
+{
+"@score":"1",
+"@id":"4130979",
+"info":{"authors":{"author":[{"@pid":"177/3334","text":"Benjamin Behrendt"},{"@pid":"78/11451-1","text":"Benjamin Köhler 0001"},{"@pid":"219/9932","text":"Daniel Gräfe"},{"@pid":"172/4660","text":"Matthias Grothoff"},{"@pid":"26/9856","text":"Matthias Gutberlet"},{"@pid":"p/BPreim","text":"Bernhard Preim"}]},"title":"Semi-Automatic Vessel Boundary Detection in Cardiac 4D PC-MRI Data Using FTLE fields.","venue":"VCBM/MedViz","pages":"41-45","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/BehrendtKGGGP16","doi":"10.2312/VCBM.20161269","ee":"https://doi.org/10.2312/vcbm.20161269","url":"https://dblp.org/rec/conf/vcbm/BehrendtKGGGP16"},
+"url":"URL#4130979"
+},
+{
+"@score":"1",
+"@id":"4130980",
+"info":{"authors":{"author":[{"@pid":"219/9892","text":"Arjan J. M. Broos"},{"@pid":"149/0956","text":"Niels H. L. C. de Hoon"},{"@pid":"68/6775","text":"Patrick J. H. de Koning"},{"@pid":"39/6145","text":"Rob J. van der Geest"},{"@pid":"v/AnnaVilanova","text":"Anna Vilanova"},{"@pid":"j/AndreiJalba","text":"Andrei C. Jalba"}]},"title":"A Framework for Fast Initial Exploration of PC-MRI Cardiac Flow.","venue":"VCBM/MedViz","pages":"69-78","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/BroosHKGVJ16","doi":"10.2312/VCBM.20161273","ee":"https://doi.org/10.2312/vcbm.20161273","url":"https://dblp.org/rec/conf/vcbm/BroosHKGVJ16"},
+"url":"URL#4130980"
+},
+{
+"@score":"1",
+"@id":"4130981",
+"info":{"authors":{"author":[{"@pid":"200/2111","text":"Alberto Corvò"},{"@pid":"w/MAWestenberg","text":"Michel A. Westenberg"},{"@pid":"119/6557","text":"Marc A. van Driel"},{"@pid":"22/4877","text":"Jarke J. van Wijk"}]},"title":"PATHONE: From one Thousand Patients to one Cell.","venue":"VCBM/MedViz","pages":"111-115","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/CorvoWDW16","doi":"10.2312/VCBM.20161278","ee":"https://doi.org/10.2312/vcbm.20161278","url":"https://dblp.org/rec/conf/vcbm/CorvoWDW16"},
+"url":"URL#4130981"
+},
+{
+"@score":"1",
+"@id":"4130982",
+"info":{"authors":{"author":[{"@pid":"167/3368","text":"Marc R. Edwards"},{"@pid":"44/9525","text":"Serban R. Pop"},{"@pid":"48/6711","text":"Nigel W. John"},{"@pid":"121/1541","text":"Panagiotis D. Ritsos"},{"@pid":"48/4399","text":"Nick J. Avis"}]},"title":"Real-Time Guidance and Anatomical Information by Image Projection onto Patients.","venue":"VCBM/MedViz","pages":"47-51","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/EdwardsPJRA16","doi":"10.2312/VCBM.20161270","ee":"https://doi.org/10.2312/vcbm.20161270","url":"https://dblp.org/rec/conf/vcbm/EdwardsPJRA16"},
+"url":"URL#4130982"
+},
+{
+"@score":"1",
+"@id":"4130983",
+"info":{"authors":{"author":[{"@pid":"154/9103","text":"Rickard Englund"},{"@pid":"92/5590","text":"Timo Ropinski"},{"@pid":"81/7045","text":"Ingrid Hotz"}]},"title":"Coherence Maps for Blood Flow Exploration.","venue":"VCBM/MedViz","pages":"79-88","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/EnglundRH16","doi":"10.2312/VCBM.20161274","ee":"https://doi.org/10.2312/vcbm.20161274","url":"https://dblp.org/rec/conf/vcbm/EnglundRH16"},
+"url":"URL#4130983"
+},
+{
+"@score":"1",
+"@id":"4130984",
+"info":{"authors":{"author":[{"@pid":"177/3303","text":"Dennis Eschweiler"},{"@pid":"115/7750","text":"Michael Gadermayr"},{"@pid":"142/8723","text":"Jakob Unger"},{"@pid":"219/9974","text":"Markus Nippold"},{"@pid":"219/9995","text":"Björn Falkenburger"},{"@pid":"63/3515","text":"Dorit Merhof"}]},"title":"A Feasibility Study on Automated Protein Aggregate Characterization Utilizing a Hybrid Classification Model.","venue":"VCBM/MedViz","pages":"105-109","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/EschweilerGUNFM16","doi":"10.2312/VCBM.20161277","ee":"https://doi.org/10.2312/vcbm.20161277","url":"https://dblp.org/rec/conf/vcbm/EschweilerGUNFM16"},
+"url":"URL#4130984"
+},
+{
+"@score":"1",
+"@id":"4130985",
+"info":{"authors":{"author":[{"@pid":"80/7090","text":"Sylvia Glaßer"},{"@pid":"146/6640","text":"Patrick Saalfeld"},{"@pid":"133/0360","text":"Philipp Berg"},{"@pid":"197/5010","text":"Nico Merten"},{"@pid":"p/BPreim","text":"Bernhard Preim"}]},"title":"How to Evaluate Medical Visualizations on the Example of 3D Aneurysm Surfaces.","venue":"VCBM/MedViz","pages":"153-162","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/GlasserSBMP16","doi":"10.2312/VCBM.20161283","ee":"https://doi.org/10.2312/vcbm.20161283","url":"https://dblp.org/rec/conf/vcbm/GlasserSBMP16"},
+"url":"URL#4130985"
+},
+{
+"@score":"1",
+"@id":"4130986",
+"info":{"authors":{"author":[{"@pid":"66/3069","text":"Martin Hess"},{"@pid":"219/9783","text":"Daniel Jente"},{"@pid":"48/3558","text":"Josef Wiemeyer"},{"@pid":"01/7922","text":"Kay Hamacher"},{"@pid":"94/104","text":"Michael Goesele"}]},"title":"Visual Analysis and Comparison of Multiple Sequence Alignments.","venue":"VCBM/MedViz","pages":"31-40","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/HessJWHG16","doi":"10.2312/VCBM.20161268","ee":"https://doi.org/10.2312/vcbm.20161268","url":"https://dblp.org/rec/conf/vcbm/HessJWHG16"},
+"url":"URL#4130986"
+},
+{
+"@score":"1",
+"@id":"4130987",
+"info":{"authors":{"author":[{"@pid":"149/0956","text":"Niels H. L. C. de Hoon"},{"@pid":"j/AndreiJalba","text":"Andrei C. Jalba"},{"@pid":"65/2556","text":"Elmar Eisemann"},{"@pid":"v/AnnaVilanova","text":"Anna Vilanova"}]},"title":"Temporal Interpolation of 4D PC-MRI Blood-flow Measurements Using Bidirectional Physics-based Fluid Simulation.","venue":"VCBM/MedViz","pages":"59-68","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/HoonJEV16","doi":"10.2312/VCBM.20161272","ee":"https://doi.org/10.2312/vcbm.20161272","url":"https://dblp.org/rec/conf/vcbm/HoonJEV16"},
+"url":"URL#4130987"
+},
+{
+"@score":"1",
+"@id":"4130988",
+"info":{"authors":{"author":{"@pid":"14/11106","text":"Radovan Jirík"}},"title":"Recent Advances in MRI and Ultrasound Perfusion Imaging.","venue":"VCBM/MedViz","pages":"117-121","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/Jirik16","doi":"10.2312/VCBM.20161279","ee":"https://doi.org/10.2312/vcbm.20161279","url":"https://dblp.org/rec/conf/vcbm/Jirik16"},
+"url":"URL#4130988"
+},
+{
+"@score":"1",
+"@id":"4130989",
+"info":{"authors":{"author":[{"@pid":"149/2479","text":"Ivan Kolesár"},{"@pid":"134/6394","text":"Jan Byska"},{"@pid":"81/2217","text":"Július Parulek"},{"@pid":"73/6704","text":"Helwig Hauser"},{"@pid":"76/6255","text":"Barbora Kozlíková"}]},"title":"Unfolding and Interactive Exploration of Protein Tunnels and their Dynamics.","venue":"VCBM/MedViz","pages":"1-10","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/KolesarBPHK16","doi":"10.2312/VCBM.20161265","ee":"https://doi.org/10.2312/vcbm.20161265","url":"https://dblp.org/rec/conf/vcbm/KolesarBPHK16"},
+"url":"URL#4130989"
+},
+{
+"@score":"1",
+"@id":"4130990",
+"info":{"authors":{"author":[{"@pid":"163/9823","text":"Nils Lichtenberg"},{"@pid":"26/8923","text":"Noeska N. Smit"},{"@pid":"57/2217-1","text":"Christian Hansen 0001"},{"@pid":"120/6338","text":"Kai Lawonn"}]},"title":"Sline: Seamless Line Illustration for Interactive Biomedical Visualization.","venue":"VCBM/MedViz","pages":"133-142","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/LichtenbergSHL16","doi":"10.2312/VCBM.20161281","ee":"https://doi.org/10.2312/vcbm.20161281","url":"https://dblp.org/rec/conf/vcbm/LichtenbergSHL16"},
+"url":"URL#4130990"
+},
+{
+"@score":"1",
+"@id":"4130991",
+"info":{"authors":{"author":[{"@pid":"67/4959","text":"Oliver Mattausch"},{"@pid":"44/767","text":"Orcun Goksel"}]},"title":"Monte-Carlo Ray-Tracing for Realistic Interactive Ultrasound Simulation.","venue":"VCBM/MedViz","pages":"173-181","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MattauschG16","doi":"10.2312/VCBM.20161285","ee":"https://doi.org/10.2312/vcbm.20161285","url":"https://dblp.org/rec/conf/vcbm/MattauschG16"},
+"url":"URL#4130991"
+},
+{
+"@score":"1",
+"@id":"4130992",
+"info":{"authors":{"author":[{"@pid":"197/5010","text":"Nico Merten"},{"@pid":"80/7090","text":"Sylvia Glaßer"},{"@pid":"219/9954","text":"Bianca Lassen-Schmidt"},{"@pid":"129/4685","text":"Oliver Stephan Großer"},{"@pid":"37/2833","text":"Jens Ricke"},{"@pid":"164/0902","text":"Holger Amthauer"},{"@pid":"p/BPreim","text":"Bernhard Preim"}]},"title":"Illustrative PET/CT Visualisation of SIRT-Treated Lung Metastases.","venue":"VCBM/MedViz","pages":"99-103","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MertenGLGRAP16","doi":"10.2312/VCBM.20161276","ee":"https://doi.org/10.2312/vcbm.20161276","url":"https://dblp.org/rec/conf/vcbm/MertenGLGRAP16"},
+"url":"URL#4130992"
+},
+{
+"@score":"1",
+"@id":"4130993",
+"info":{"authors":{"author":[{"@pid":"62/11209","text":"Gabriel Mistelbauer"},{"@pid":"133/0392","text":"Johanna Schmidt"},{"@pid":"219/9788","text":"Anna-Margaretha Sailer"},{"@pid":"133/5827","text":"Kathrin Bäumler"},{"@pid":"219/9794","text":"Shannon Walters"},{"@pid":"65/3457","text":"Dominik Fleischmann"}]},"title":"Aortic Dissection Maps: Comprehensive Visualization of Aortic Dissections for Risk Assessment.","venue":"VCBM/MedViz","pages":"143-152","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MistelbauerSSBW16","doi":"10.2312/VCBM.20161282","ee":"https://doi.org/10.2312/vcbm.20161282","url":"https://dblp.org/rec/conf/vcbm/MistelbauerSSBW16"},
+"url":"URL#4130993"
+},
+{
+"@score":"1",
+"@id":"4130994",
+"info":{"authors":{"author":[{"@pid":"152/9100","text":"Renata G. Raidou"},{"@pid":"219/9968","text":"Freek J. J. Marcelis"},{"@pid":"66/4471","text":"Marcel Breeuwer"},{"@pid":"g/MEGroller","text":"M. Eduard Gröller"},{"@pid":"v/AnnaVilanova","text":"Anna Vilanova"},{"@pid":"w/HuubvandeWetering","text":"Huub M. M. van de Wetering"}]},"title":"Visual Analytics for the Exploration and Assessment of Segmentation Errors.","venue":"VCBM/MedViz","pages":"193-202","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/RaidouMBGVW16","doi":"10.2312/VCBM.20161287","ee":"https://doi.org/10.2312/vcbm.20161287","url":"https://dblp.org/rec/conf/vcbm/RaidouMBGVW16"},
+"url":"URL#4130994"
+},
+{
+"@score":"1",
+"@id":"4130995",
+"info":{"authors":{"author":[{"@pid":"146/6640","text":"Patrick Saalfeld"},{"@pid":"219/9720","text":"Aleksandar Stojnic"},{"@pid":"p/BPreim","text":"Bernhard Preim"},{"@pid":"86/6246","text":"Steffen Oeltze-Jafra"}]},"title":"Semi-Immersive 3D Sketching of Vascular Structures for Medical Education.","venue":"VCBM/MedViz","pages":"123-132","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SaalfeldSPO16","doi":"10.2312/VCBM.20161280","ee":"https://doi.org/10.2312/vcbm.20161280","url":"https://dblp.org/rec/conf/vcbm/SaalfeldSPO16"},
+"url":"URL#4130995"
+},
+{
+"@score":"1",
+"@id":"4130996",
+"info":{"authors":{"author":[{"@pid":"140/7423","text":"Ali Sheharyar"},{"@pid":"126/0429","text":"Teodora Chitiboi"},{"@pid":"87/2882","text":"Eric Keller"},{"@pid":"219/9999","text":"Ozair Rahman"},{"@pid":"55/11169","text":"Susanne Schnell"},{"@pid":"01/3021-1","text":"Michael Markl 0001"},{"@pid":"120/8765","text":"Othmane Bouhali"},{"@pid":"l/LarsLinsen","text":"Lars Linsen"}]},"title":"Spatio-temporal Visualization of Regional Myocardial Velocities.","venue":"VCBM/MedViz","pages":"89-98","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SheharyarCKRSMB16","doi":"10.2312/VCBM.20161275","ee":"https://doi.org/10.2312/vcbm.20161275","url":"https://dblp.org/rec/conf/vcbm/SheharyarCKRSMB16"},
+"url":"URL#4130996"
+},
+{
+"@score":"1",
+"@id":"4130997",
+"info":{"authors":{"author":[{"@pid":"140/0877","text":"Johannes Sorger"},{"@pid":"128/5690","text":"Peter Mindek"},{"@pid":"21/5685","text":"Tobias Klein"},{"@pid":"93/2530","text":"Graham Johnson"},{"@pid":"21/4861","text":"Ivan Viola"}]},"title":"Illustrative Transitions in Molecular Visualization via Forward and Inverse Abstraction Transform.","venue":"VCBM/MedViz","pages":"21-30","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SorgerMKJV16","doi":"10.2312/VCBM.20161267","ee":"https://doi.org/10.2312/vcbm.20161267","url":"https://dblp.org/rec/conf/vcbm/SorgerMKJV16"},
+"url":"URL#4130997"
+},
+{
+"@score":"1",
+"@id":"4130998",
+"info":{"authors":{"author":[{"@pid":"190/2275","text":"Sergej Stoppel"},{"@pid":"55/6815","text":"Erlend Hodneland"},{"@pid":"73/6704","text":"Helwig Hauser"},{"@pid":"80/3704","text":"Stefan Bruckner"}]},"title":"Graxels: Information Rich Primitives for the Visualization of Time-Dependent Spatial Data.","venue":"VCBM/MedViz","pages":"183-192","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/StoppelHHB16","doi":"10.2312/VCBM.20161286","ee":"https://doi.org/10.2312/vcbm.20161286","url":"https://dblp.org/rec/conf/vcbm/StoppelHHB16"},
+"url":"URL#4130998"
+},
+{
+"@score":"1",
+"@id":"4130999",
+"info":{"authors":{"author":[{"@pid":"118/5453","text":"Philip Voglreiter"},{"@pid":"15/5555-3","text":"Michael Hofmann 0003"},{"@pid":"02/6386","text":"Christoph Ebner"},{"@pid":"194/4468","text":"Roberto Blanco Sequeiros"},{"@pid":"22/3461","text":"Horst Rupert Portugaller"},{"@pid":"24/8486","text":"Jurgen J. Fütterer"},{"@pid":"85/2102","text":"Michael Moche"},{"@pid":"89/9395","text":"Markus Steinberger"},{"@pid":"s/DieterSchmalstieg","text":"Dieter Schmalstieg"}]},"title":"Visualization-Guided Evaluation of Simulated Minimally Invasive Cancer Treatment.","venue":"VCBM/MedViz","pages":"163-172","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/VoglreiterHESPF16","doi":"10.2312/VCBM.20161284","ee":"https://doi.org/10.2312/vcbm.20161284","url":"https://dblp.org/rec/conf/vcbm/VoglreiterHESPF16"},
+"url":"URL#4130999"
+},
+{
+"@score":"1",
+"@id":"4131000",
+"info":{"authors":{"author":[{"@pid":"185/2719","text":"Nicholas Waldin"},{"@pid":"149/0957","text":"Mathieu Le Muzic"},{"@pid":"20/6810","text":"Manuela Waldner"},{"@pid":"g/MEGroller","text":"M. Eduard Gröller"},{"@pid":"72/2295","text":"David S. Goodsell"},{"@pid":"94/3935","text":"Ludovic Autin"},{"@pid":"21/4861","text":"Ivan Viola"}]},"title":"Chameleon - Dynamic Color Mapping for Multi-Scale Structural Biology Models.","venue":"VCBM/MedViz","pages":"11-20","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/WaldinMWGGAV16","doi":"10.2312/VCBM.20161266","ee":"https://doi.org/10.2312/vcbm.20161266","url":"https://dblp.org/rec/conf/vcbm/WaldinMWGGAV16"},
+"url":"URL#4131000"
+},
+{
+"@score":"1",
+"@id":"4144724",
+"info":{"title":"6th Eurographics Workshop on Visual Computing for Biology and Medicine, held in conjunction with the 10th Conference in Medical Imaging and Visualization, VCBM/MedViz 2016, Bergen, Norway, September 7-9, 2016","venue":"VCBM/MedViz","publisher":"Eurographics Association","year":"2016","type":"Editorship","key":"conf/vcbm/2016","doi":"10.2312/2630861","ee":"http://diglib.eg.org/handle/10.2312/2630861","url":"https://dblp.org/rec/conf/vcbm/2016"},
+"url":"URL#4144724"
+}
+]
+}
+}
+}

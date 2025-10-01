@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+Convolutional Neural Networks,feature space,-0.1745,1.5327
+feature space,global information,0.0223,1.3984
+Convolutional Neural Networks,global information,0.0653,1.3673
+feature space,few-shot classification,-0.2245,1.565
+Convolutional Neural Networks,few-shot classification,0.0917,1.3478
+few-shot classification,global information,-0.0868,1.4743
+few-shot classification,long-range dependency,-0.1921,1.5441
+global information,long-range dependency,-0.0591,1.4554
+context-aware features,few-shot classification,-0.1401,1.5101
+context-aware features,long-range dependency,0.1051,1.3378
+long-range dependency,mutual information,0.2584,1.2179
+context-aware features,mutual information,0.4688,1.0308
+mutual information,task-specific scaling,0.3343,1.1538
+context-aware features,task-specific scaling,0.2376,1.2348
+mutual information,state-of-the-art performances,0.3974,1.0979
+state-of-the-art performances,task-specific scaling,0.2384,1.2342

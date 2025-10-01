@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+example-based,facial sketch system,-0.0257,1.4322
+example-based,input image,-0.227,1.5665
+example-based,learning from example sketches,-0.0255,1.4321
+artist,example-based,-0.2239,1.5646
+facial sketch system,input image,-0.3233,1.6268
+facial sketch system,learning from example sketches,0.8793,0.4914
+artist,facial sketch system,-0.2028,1.551
+input image,learning from example sketches,-0.3617,1.6503
+artist,input image,-0.2227,1.5638
+artist,learning from example sketches,-0.094,1.4792
+example-based,non-parametric sampling method,-0.2394,1.5744
+example-based,flexible sketch model,0.5526,0.9459
+facial sketch system,non-parametric sampling method,0.0417,1.3844
+facial sketch system,flexible sketch model,0.4965,1.0035
+input image,non-parametric sampling method,0.852,0.5441
+flexible sketch model,input image,-0.2173,1.5603
+learning from example sketches,non-parametric sampling method,0.0602,1.371
+flexible sketch model,learning from example sketches,0.386,1.1081
+artist,non-parametric sampling method,-0.0131,1.4234
+artist,flexible sketch model,0.1657,1.2917
+flexible sketch model,non-parametric sampling method,0.1203,1.3265
+expected sketch image,input image,-0.0691,1.4623
+expected sketch image,non-parametric sampling method,-0.069,1.4622
+expected sketch image,flexible sketch model,0.586,0.9099

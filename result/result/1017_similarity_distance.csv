@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+randomized tensor CP decomposition,sketching,0.3387,1.15
+count sketches,randomized tensor CP decomposition,0.869,0.5118
+count sketches,sketching,0.0486,1.3794
+randomized tensor CP decomposition,tensor contractions,0.0454,1.3817
+FFTs,randomized tensor CP decomposition,-0.2652,1.5907
+sketching,tensor contractions,0.056,1.374
+FFTs,sketching,-0.6508,1.8171
+count sketches,tensor contractions,-0.0908,1.477
+FFTs,count sketches,0.0025,1.4124
+FFTs,tensor contractions,-0.6614,1.8229
+count sketches,tensor power iterations,-0.2758,1.5974
+alternating least squares,count sketches,-0.0342,1.4382
+tensor contractions,tensor power iterations,-0.1245,1.4997
+alternating least squares,tensor contractions,-0.0351,1.4388
+FFTs,tensor power iterations,-0.1143,1.4928
+FFTs,alternating least squares,-0.3127,1.6203
+alternating least squares,tensor power iterations,-0.292,1.6075
+symmetric tensors,tensor contractions,0.6903,0.787
+FFTs,symmetric tensors,-0.2024,1.5508
+symmetric tensors,tensor power iterations,-0.4757,1.7179
+alternating least squares,symmetric tensors,-0.2107,1.5561
+sketching,tensor power iterations,0.2171,1.2513
+alternating least squares,sketching,0.4346,1.0634
+sketching,symmetric tensors,-0.2777,1.5986

@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+imputation,missing values,0.0739,1.3609
+MCAR missing data,imputation,0.4849,1.0149
+high-dimensional linear model,imputation,0.2105,1.2566
+MCAR missing data,high-dimensional linear model,0.9361,0.3575
+imputation,ridge method,0.2108,1.2563
+implicit regularization,imputation,0.204,1.2618
+MCAR missing data,ridge method,0.9172,0.407
+MCAR missing data,implicit regularization,0.94,0.3463
+high-dimensional linear model,ridge method,0.9256,0.3857
+high-dimensional linear model,implicit regularization,0.9777,0.2112
+implicit regularization,ridge method,0.967,0.2568
+imputation,ridge bias,0.2564,1.2195
+MCAR missing data,ridge bias,0.4981,1.0019
+high-dimensional linear model,ridge bias,0.4277,1.0699
+ridge bias,ridge method,0.3977,1.0975
+implicit regularization,ridge bias,0.3726,1.1202
+averaged SGD strategy,imputation,0.2766,1.2028
+averaged SGD strategy,ridge method,-0.1218,1.4979
+averaged SGD strategy,implicit regularization,-0.1189,1.4959
+averaged SGD strategy,ridge bias,0.8357,0.5732
+generalization error,imputation,-0.2126,1.5573
+generalization error,ridge bias,-0.1362,1.5074
+averaged SGD strategy,generalization error,-0.12,1.4966

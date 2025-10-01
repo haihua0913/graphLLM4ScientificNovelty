@@ -1,0 +1,35 @@
+node1,node2,similarity,distance
+deep representations,reinforcement learning,-0.2104,1.5559
+convolutional networks,deep representations,0.9663,0.2598
+LSTMs,deep representations,0.9782,0.2086
+auto-encoders,deep representations,0.1988,1.2659
+convolutional networks,reinforcement learning,-0.2367,1.5727
+LSTMs,reinforcement learning,-0.2862,1.6039
+auto-encoders,reinforcement learning,-0.0532,1.4514
+LSTMs,convolutional networks,0.9699,0.2453
+auto-encoders,convolutional networks,0.292,1.1899
+LSTMs,auto-encoders,0.1948,1.269
+deep representations,model-free reinforcement learning,-0.1527,1.5183
+model-free reinforcement learning,reinforcement learning,-0.1811,1.5369
+convolutional networks,model-free reinforcement learning,-0.1158,1.4939
+LSTMs,model-free reinforcement learning,-0.2464,1.5788
+auto-encoders,model-free reinforcement learning,-0.123,1.4987
+dueling network,reinforcement learning,-0.2881,1.605
+reinforcement learning,state value function,-0.1492,1.516
+action advantage function,reinforcement learning,-0.4213,1.686
+convolutional networks,dueling network,0.0948,1.3455
+convolutional networks,state value function,0.4658,1.0337
+action advantage function,convolutional networks,-0.2088,1.5548
+LSTMs,dueling network,0.1435,1.3088
+LSTMs,state value function,0.3437,1.1457
+LSTMs,action advantage function,-0.2729,1.5956
+auto-encoders,dueling network,0.0541,1.3754
+auto-encoders,state value function,0.9697,0.2463
+action advantage function,auto-encoders,0.3266,1.1605
+dueling network,model-free reinforcement learning,-0.082,1.471
+model-free reinforcement learning,state value function,-0.0217,1.4295
+action advantage function,model-free reinforcement learning,0.3748,1.1182
+dueling network,state value function,0.0561,1.374
+action advantage function,dueling network,0.6486,0.8384
+action advantage function,state value function,0.3153,1.1703
+Atari 2600,reinforcement learning,-0.2435,1.5771

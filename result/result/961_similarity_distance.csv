@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+heterogeneous networks,vertices,-0.0998,1.4831
+heterogeneous networks,latent embedding space,-0.1894,1.5424
+heterogeneous networks,relational properties,-0.1955,1.5463
+latent embedding space,vertices,0.3218,1.1646
+relational properties,vertices,0.7272,0.7387
+latent embedding space,relational properties,-0.3097,1.6185
+embeddings,heterogeneous networks,-0.0717,1.464
+embeddings,vertices,-0.0998,1.4831
+embeddings,latent embedding space,0.0034,1.4118
+embeddings,relational properties,-0.0967,1.481
+shallow embedding learning,vertices,0.6638,0.82
+graph neural networks,vertices,0.3622,1.1295
+latent embedding space,shallow embedding learning,0.8798,0.4903
+graph neural networks,latent embedding space,0.9776,0.2117
+relational properties,shallow embedding learning,0.0485,1.3795
+graph neural networks,relational properties,-0.3204,1.625
+embeddings,shallow embedding learning,0.0081,1.4085
+embeddings,graph neural networks,-0.0434,1.4446
+graph neural networks,shallow embedding learning,0.9059,0.4338
+Heterogeneous Graph Benchmark,embeddings,-0.1849,1.5394
+Heterogeneous Graph Benchmark,shallow embedding learning,0.6091,0.8842
+Heterogeneous Graph Benchmark,graph neural networks,0.5579,0.9403

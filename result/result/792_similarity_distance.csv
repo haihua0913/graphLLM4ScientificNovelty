@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+path attribution,post-hoc model interpretation,0.874,0.5021
+deep visual models,path attribution,-0.336,1.6346
+axiomatic properties,path attribution,0.0604,1.3708
+deep visual models,post-hoc model interpretation,-0.1488,1.5158
+axiomatic properties,post-hoc model interpretation,0.0444,1.3825
+axiomatic properties,deep visual models,-0.2658,1.5911
+path attribution,reliable visual model interpretation,-0.1899,1.5427
+axiomatic properties,reliable visual model interpretation,0.0289,1.3937
+multiple datasets,path attribution,0.8752,0.4997
+evaluation metrics,path attribution,0.6516,0.8348
+axiomatic properties,multiple datasets,-0.1147,1.4931
+axiomatic properties,evaluation metrics,0.3983,1.097
+multiple datasets,reliable visual model interpretation,-0.2268,1.5664
+evaluation metrics,reliable visual model interpretation,-0.4037,1.6755
+evaluation metrics,multiple datasets,0.3417,1.1474
+consistent performance gain,reliable visual model interpretation,-0.0134,1.4237
+baselines,reliable visual model interpretation,-0.2744,1.5965
+consistent performance gain,multiple datasets,-0.123,1.4987
+baselines,multiple datasets,0.0116,1.406
+consistent performance gain,evaluation metrics,0.5007,0.9993
+baselines,evaluation metrics,0.2651,1.2123
+baselines,consistent performance gain,0.0441,1.3827

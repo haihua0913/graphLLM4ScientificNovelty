@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+Transpose-and-Cache Branch-and-Bound,single machine quadratic penalty problems,0.2934,1.1888
+Transpose-and-Cache Branch-and-Bound,weighted earliness tardiness problem,0.1454,1.3074
+Transpose-and-Cache Branch-and-Bound,heuristic estimate,0.0508,1.3778
+single machine quadratic penalty problems,weighted earliness tardiness problem,0.795,0.6403
+heuristic estimate,single machine quadratic penalty problems,0.6074,0.8861
+heuristic estimate,weighted earliness tardiness problem,0.4631,1.0363
+quadratic penalty problem,weighted earliness tardiness problem,0.8694,0.511
+setup times,weighted earliness tardiness problem,-0.2721,1.595
+TCBB scheme,weighted earliness tardiness problem,-0.0891,1.4759
+heuristic estimate,quadratic penalty problem,0.4723,1.0274
+heuristic estimate,setup times,0.0971,1.3438
+TCBB scheme,heuristic estimate,-0.1599,1.5231
+quadratic penalty problem,setup times,-0.393,1.6691
+TCBB scheme,quadratic penalty problem,-0.3897,1.6671
+TCBB scheme,setup times,0.1651,1.2922

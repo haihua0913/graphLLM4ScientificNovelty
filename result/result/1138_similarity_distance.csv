@@ -1,0 +1,14 @@
+node1,node2,similarity,distance
+HaBa,dataset factorization,-0.2789,1.5993
+dataset factorization,plug-and-play strategy,-0.272,1.595
+HaBa,plug-and-play strategy,-0.2358,1.5721
+dataset factorization,exponential informativeness gain,-0.3004,1.6127
+HaBa,exponential informativeness gain,-0.2239,1.5646
+exponential informativeness gain,plug-and-play strategy,-0.1255,1.5003
+HaBa,adversarial contrastive constraints,-0.0783,1.4685
+HaBa,diversity of generated images,0.0231,1.3978
+adversarial contrastive constraints,exponential informativeness gain,0.9062,0.433
+diversity of generated images,exponential informativeness gain,0.8145,0.609
+adversarial contrastive constraints,diversity of generated images,0.6977,0.7776
+adversarial contrastive constraints,cross-architecture generalization,0.8001,0.6323
+cross-architecture generalization,diversity of generated images,0.5597,0.9384

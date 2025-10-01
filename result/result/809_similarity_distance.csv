@@ -1,0 +1,12 @@
+node1,node2,similarity,distance
+Implicit Neural Spatial Representation,time-dependent PDEs,-0.1733,1.5318
+neural network weights,spatial discretization,0.7509,0.7058
+adaptivity,spatial discretization,0.0688,1.3647
+adaptivity,neural network weights,-0.0429,1.4442
+spatial discretization,time integration,0.1149,1.3305
+neural network weights,time integration,-0.136,1.5073
+adaptivity,time integration,-0.091,1.4772
+time integration,turbulent fluids,0.172,1.2868
+multi-scale phenomena,time integration,0.9705,0.2429
+multi-scale phenomena,turbulent fluids,0.2636,1.2136
+contact mechanics,operator-splitting schemes,0.9469,0.3258

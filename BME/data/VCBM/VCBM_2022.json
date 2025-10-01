@@ -1,0 +1,134 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/vcbm/vcbm2022.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"75.10"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"17",
+"@dc":"17",
+"@oc":"17",
+"@id":"48926947",
+"text":":facetid:toc:db/conf/vcbm/vcbm2022.bht"
+}
+},
+"hits":{
+"@total":"17",
+"@computed":"17",
+"@sent":"17",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1704671",
+"info":{"authors":{"author":[{"@pid":"265/7853","text":"Khaled A. Al-Thelaya"},{"@pid":"333/0175","text":"Faaiz Joad"},{"@pid":"300/0959","text":"Nauman Ullah Gilal"},{"@pid":"300/1275","text":"William Mifsud"},{"@pid":"33/4033","text":"Giovanni Pintore"},{"@pid":"31/2575","text":"Enrico Gobbetti"},{"@pid":"13/6215","text":"Marco Agus"},{"@pid":"55/5275-2","text":"Jens Schneider 0002"}]},"title":"HistoContours: a Framework for Visual Annotation of Histopathology Whole Slide Images.","venue":"VCBM","pages":"99-109","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/Al-ThelayaJGMPG22","doi":"10.2312/VCBM.20221192","ee":"https://doi.org/10.2312/vcbm.20221192","url":"https://dblp.org/rec/conf/vcbm/Al-ThelayaJGMPG22"},
+"url":"URL#1704671"
+},
+{
+"@score":"1",
+"@id":"1704672",
+"info":{"authors":{"author":[{"@pid":"333/0344","text":"Ádám Böröndy"},{"@pid":"169/4223","text":"Katarína Furmanová"},{"@pid":"152/9100","text":"Renata Georgia Raidou"}]},"title":"Understanding the Impact of Statistical and Machine Learning Choices on Predictive Models for Radiotherapy.","venue":"VCBM","pages":"65-69","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/BorondyFR22","doi":"10.2312/VCBM.20221188","ee":"https://doi.org/10.2312/vcbm.20221188","url":"https://dblp.org/rec/conf/vcbm/BorondyFR22"},
+"url":"URL#1704672"
+},
+{
+"@score":"1",
+"@id":"1704673",
+"info":{"authors":{"author":[{"@pid":"332/1400","text":"Tanja Eichner"},{"@pid":"244/3152","text":"Eric Mörth"},{"@pid":"333/0272","text":"Kari S. Wagner-Larsen"},{"@pid":"333/0044","text":"Njål Lura"},{"@pid":"333/0029","text":"Ingfrid S. Haldorsen"},{"@pid":"g/MEGroller","text":"Eduard Gröller"},{"@pid":"80/3704","text":"Stefan Bruckner"},{"@pid":"26/8923","text":"Noeska N. Smit"}]},"title":"MuSIC: Multi-Sequential Interactive Co-Registration for Cancer Imaging Data based on Segmentation Masks.","venue":"VCBM","pages":"81-91","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/EichnerMWLHGBS22","doi":"10.2312/VCBM.20221190","ee":"https://doi.org/10.2312/vcbm.20221190","url":"https://dblp.org/rec/conf/vcbm/EichnerMWLHGBS22"},
+"url":"URL#1704673"
+},
+{
+"@score":"1",
+"@id":"1704674",
+"info":{"authors":{"author":[{"@pid":"333/0351","text":"Philipp Harth"},{"@pid":"326/6075","text":"Sumit Kumar Vohra"},{"@pid":"332/9733","text":"Daniel Udvary"},{"@pid":"74/7980","text":"Marcel Oberländer"},{"@pid":"49/283","text":"Hans-Christian Hege"},{"@pid":"b/DanielBaum","text":"Daniel Baum"}]},"title":"A Stratification Matrix Viewer for Analysis of Neural Network Data.","venue":"VCBM","pages":"117-121","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/HarthVUOHB22","doi":"10.2312/VCBM.20221194","ee":"https://doi.org/10.2312/vcbm.20221194","url":"https://dblp.org/rec/conf/vcbm/HarthVUOHB22"},
+"url":"URL#1704674"
+},
+{
+"@score":"1",
+"@id":"1704675",
+"info":{"authors":{"author":[{"@pid":"332/9961","text":"Karl Heimes"},{"@pid":"242/1721","text":"Marina Evers"},{"@pid":"190/2286","text":"Tim Gerrits"},{"@pid":"332/9736","text":"Sandeep Gyawali"},{"@pid":"332/9843","text":"David Sinden"},{"@pid":"36/1304","text":"Tobias Preusser"},{"@pid":"l/LarsLinsen","text":"Lars Linsen"}]},"title":"Studying the Effect of Tissue Properties on Radiofrequency Ablation by Visual Simulation Ensemble Analysis.","venue":"VCBM","pages":"53-63","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/HeimesEGGSPL22","doi":"10.2312/VCBM.20221187","ee":"https://doi.org/10.2312/vcbm.20221187","url":"https://dblp.org/rec/conf/vcbm/HeimesEGGSPL22"},
+"url":"URL#1704675"
+},
+{
+"@score":"1",
+"@id":"1704676",
+"info":{"authors":{"author":[{"@pid":"235/2521","text":"Jan N. Hombeck"},{"@pid":"149/0918","text":"Monique Meuschke"},{"@pid":"332/9962","text":"Simon J. Lieb"},{"@pid":"163/9823","text":"Nils Lichtenberg"},{"@pid":"318/7519","text":"Rabi R. Datta"},{"@pid":"74/7527","text":"Michael Krone"},{"@pid":"57/2217-1","text":"Christian Hansen 0001"},{"@pid":"p/BPreim","text":"Bernhard Preim"},{"@pid":"120/6338","text":"Kai Lawonn"}]},"title":"Distance Visualizations for Vascular Structures in Desktop and VR: Overview and Implementation.","venue":"VCBM","pages":"1-10","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/HombeckMLLDK0PL22","doi":"10.2312/VCBM.20221182","ee":"https://doi.org/10.2312/vcbm.20221182","url":"https://dblp.org/rec/conf/vcbm/HombeckMLLDK0PL22"},
+"url":"URL#1704676"
+},
+{
+"@score":"1",
+"@id":"1704677",
+"info":{"authors":{"author":[{"@pid":"332/9906","text":"Ariel Iporre-Rivas"},{"@pid":"s/GerikScheuermann","text":"Gerik Scheuermann"},{"@pid":"151/3331","text":"Christina Gillmann"}]},"title":"Understanding Graph Convolutional Networks to detect Brain Lesions from Stroke.","venue":"VCBM","pages":"123-127","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/Iporre-RivasSG22","doi":"10.2312/VCBM.20221195","ee":"https://doi.org/10.2312/vcbm.20221195","url":"https://dblp.org/rec/conf/vcbm/Iporre-RivasSG22"},
+"url":"URL#1704677"
+},
+{
+"@score":"1",
+"@id":"1704678",
+"info":{"authors":{"author":[{"@pid":"304/6828","text":"Anna Kleinau"},{"@pid":"333/0164","text":"Evgenia Stupak"},{"@pid":"244/3152","text":"Eric Mörth"},{"@pid":"37/7253","text":"Laura A. Garrison"},{"@pid":"286/7852","text":"Sarah Mittenentzwei"},{"@pid":"26/8923","text":"Noeska N. Smit"},{"@pid":"120/6338","text":"Kai Lawonn"},{"@pid":"80/3704","text":"Stefan Bruckner"},{"@pid":"26/9856","text":"Matthias Gutberlet"},{"@pid":"p/BPreim","text":"Bernhard Preim"},{"@pid":"149/0918","text":"Monique Meuschke"}]},"title":"Is there a Tornado in Alex&apos;s Blood Flow? A Case Study for Narrative Medical Visualization.","venue":"VCBM","pages":"11-21","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/KleinauSMGMSLBG22","doi":"10.2312/VCBM.20221183","ee":"https://doi.org/10.2312/vcbm.20221183","url":"https://dblp.org/rec/conf/vcbm/KleinauSMGMSLBG22"},
+"url":"URL#1704678"
+},
+{
+"@score":"1",
+"@id":"1704679",
+"info":{"authors":{"author":[{"@pid":"303/2843","text":"Caroline Magg"},{"@pid":"152/9100","text":"Renata Georgia Raidou"}]},"title":"Visual Analytics to Assess Deep Learning Models for Cross-Modal Brain Tumor Segmentation.","venue":"VCBM","pages":"111-115","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MaggR22","doi":"10.2312/VCBM.20221193","ee":"https://doi.org/10.2312/vcbm.20221193","url":"https://dblp.org/rec/conf/vcbm/MaggR22"},
+"url":"URL#1704679"
+},
+{
+"@score":"1",
+"@id":"1704680",
+"info":{"authors":{"author":[{"@pid":"149/0918","text":"Monique Meuschke"},{"@pid":"170/7152","text":"Samuel Voß"},{"@pid":"235/2552","text":"Pepe Eulzer"},{"@pid":"75/544","text":"Gábor Janiga"},{"@pid":"159/6001","text":"Christoph Arens"},{"@pid":"64/3000","text":"Ralph Wickenhöfer"},{"@pid":"p/BPreim","text":"Bernhard Preim"},{"@pid":"120/6338","text":"Kai Lawonn"}]},"title":"COMFIS - Comparative Visualization of Simulated Medical Flow Data.","venue":"VCBM","pages":"29-40","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MeuschkeVEJAWPL22","doi":"10.2312/VCBM.20221185","ee":"https://doi.org/10.2312/vcbm.20221185","url":"https://dblp.org/rec/conf/vcbm/MeuschkeVEJAWPL22"},
+"url":"URL#1704680"
+},
+{
+"@score":"1",
+"@id":"1704681",
+"info":{"authors":{"author":[{"@pid":"332/9727","text":"José Juan Reyes-Cabrera"},{"@pid":"122/0589","text":"José Miguel Santana Núñez"},{"@pid":"46/6849","text":"Agustín Trujillo-Pino"},{"@pid":"143/3723","text":"Manuel Maynar"},{"@pid":"01/2655","text":"Miguel Ángel Rodríguez Florido"}]},"title":"Learning Anatomy through Shared Virtual Reality.","venue":"VCBM","pages":"23-27","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/Reyes-CabreraNT22","doi":"10.2312/VCBM.20221184","ee":"https://doi.org/10.2312/vcbm.20221184","url":"https://dblp.org/rec/conf/vcbm/Reyes-CabreraNT22"},
+"url":"URL#1704681"
+},
+{
+"@score":"1",
+"@id":"1704682",
+"info":{"authors":{"author":[{"@pid":"299/7147","text":"Thomas Richard"},{"@pid":"215/3503","text":"Yan Chastagnier"},{"@pid":"332/9774","text":"Vivien Szabo"},{"@pid":"333/0156","text":"Kevin Chalard"},{"@pid":"57/8698","text":"Brian Summa"},{"@pid":"01/10261","text":"Jean-Marc Thiery"},{"@pid":"16/2388","text":"Tamy Boubekeur"},{"@pid":"10/10105","text":"Noura Faraj"}]},"title":"Multi-modal 3D Image Registration Using Interactive Voxel Grid Deformation and Rendering.","venue":"VCBM","pages":"93-97","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/RichardCSCSTBF22","doi":"10.2312/VCBM.20221191","ee":"https://doi.org/10.2312/vcbm.20221191","url":"https://dblp.org/rec/conf/vcbm/RichardCSCSTBF22"},
+"url":"URL#1704682"
+},
+{
+"@score":"1",
+"@id":"1704683",
+"info":{"authors":{"author":[{"@pid":"333/0018","text":"Kira Schmitt"},{"@pid":"218/4720","text":"Jürgen Titschack"},{"@pid":"b/DanielBaum","text":"Daniel Baum"}]},"title":"Polyp-Cavity Segmentation of Cold-Water Corals guided by Ambient Occlusion and Ambient Curvature.","venue":"VCBM","pages":"71-80","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SchmittTB22","doi":"10.2312/VCBM.20221189","ee":"https://doi.org/10.2312/vcbm.20221189","url":"https://dblp.org/rec/conf/vcbm/SchmittTB22"},
+"url":"URL#1704683"
+},
+{
+"@score":"1",
+"@id":"1704684",
+"info":{"authors":{"author":[{"@pid":"333/0214","text":"Anna Sterzik"},{"@pid":"163/9823","text":"Nils Lichtenberg"},{"@pid":"74/7527","text":"Michael Krone"},{"@pid":"25/4304","text":"Douglas W. Cunningham"},{"@pid":"120/6338","text":"Kai Lawonn"}]},"title":"Perceptual Evaluation of Common Line Variables for Displaying Uncertainty on Molecular Surfaces.","venue":"VCBM","pages":"41-51","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SterzikLKCL22","doi":"10.2312/VCBM.20221186","ee":"https://doi.org/10.2312/vcbm.20221186","url":"https://dblp.org/rec/conf/vcbm/SterzikLKCL22"},
+"url":"URL#1704684"
+},
+{
+"@score":"1",
+"@id":"1704685",
+"info":{"authors":{"author":[{"@pid":"288/9648","text":"Oliver Stritzel"},{"@pid":"152/9100","text":"Renata Georgia Raidou"}]},"title":"Predicting, Analyzing and Communicating Outcomes of COVID-19 Hospitalizations with Medical Images and Clinical Data.","venue":"VCBM","pages":"129-133","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/StritzelR22","doi":"10.2312/VCBM.20221196","ee":"https://doi.org/10.2312/vcbm.20221196","url":"https://dblp.org/rec/conf/vcbm/StritzelR22"},
+"url":"URL#1704685"
+},
+{
+"@score":"1",
+"@id":"1704686",
+"info":{"title":"Frontmatter.","venue":"VCBM","pages":"i-xii","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/X22","doi":"10.2312/VCBM.20222016","ee":"https://doi.org/10.2312/vcbm.20222016","url":"https://dblp.org/rec/conf/vcbm/X22"},
+"url":"URL#1704686"
+},
+{
+"@score":"1",
+"@id":"1717527",
+"info":{"authors":{"author":[{"@pid":"152/9100","text":"Renata G. Raidou"},{"@pid":"85/8970","text":"Björn Sommer 0001"},{"@pid":"k/TorstenKuhlen","text":"Torsten W. Kuhlen"},{"@pid":"74/7527","text":"Michael Krone"},{"@pid":"72/1969-1","text":"Thomas Schultz 0001"},{"@pid":"11/7258","text":"Hsiang-Yun Wu"}]},"title":"Eurographics Workshop on Visual Computing for Biology and Medicine, VCBM 2022, Vienna, Austria, September 22-23, 2022","venue":"VCBM","publisher":"Eurographics Association","year":"2022","type":"Editorship","key":"conf/vcbm/2022","doi":"10.2312/2633211","ee":"https://diglib.eg.org/handle/10.2312/2633211","url":"https://dblp.org/rec/conf/vcbm/2022"},
+"url":"URL#1717527"
+}
+]
+}
+}
+}

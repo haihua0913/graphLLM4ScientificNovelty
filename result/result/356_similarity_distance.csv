@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+intent categories,new intent discovery,0.8907,0.4675
+dialogue system,new intent discovery,-0.0447,1.4455
+dialogue system,intent categories,0.1358,1.3147
+dialogue system,representation learning,-0.3591,1.6487
+new intent discovery,representation learning,-0.21,1.5556
+multi-task pre-training,new intent discovery,0.9205,0.3989
+new intent discovery,unlabeled data,0.9057,0.4343
+multi-task pre-training,representation learning,-0.0081,1.4199
+representation learning,unlabeled data,-0.2636,1.5897
+multi-task pre-training,unlabeled data,0.8029,0.6278
+contrastive loss,new intent discovery,-0.039,1.4415
+contrastive loss,representation learning,-0.2358,1.5721
+contrastive loss,multi-task pre-training,0.1975,1.2669
+contrastive loss,unlabeled data,-0.0677,1.4613
+intent recognition,representation learning,-0.2081,1.5544
+benchmarks,representation learning,-0.2132,1.5577
+intent recognition,multi-task pre-training,0.8818,0.4861
+benchmarks,multi-task pre-training,0.3295,1.158
+intent recognition,unlabeled data,0.9411,0.3432
+benchmarks,unlabeled data,0.2595,1.217
+contrastive loss,intent recognition,-0.0511,1.4499
+benchmarks,contrastive loss,-0.2346,1.5714
+benchmarks,intent recognition,0.1834,1.278

@@ -1,0 +1,12 @@
+node1,node2,similarity,distance
+reward function,training scenarios,-0.1218,1.4979
+inverse reward design,test MDPs,-0.361,1.6498
+inverse reward design,risk-averse behavior,0.4684,1.0311
+risk-averse behavior,test MDPs,0.3128,1.1724
+inverse reward design,reward hacking,-0.0572,1.4541
+inverse reward design,misspecified reward functions,0.941,0.3436
+misspecified reward functions,reward hacking,0.0373,1.3876
+reward hacking,test MDPs,0.9404,0.3453
+reward hacking,risk-averse behavior,0.5145,0.9854
+misspecified reward functions,test MDPs,-0.2828,1.6018
+misspecified reward functions,risk-averse behavior,0.5317,0.9678

@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+dimensionality reduction,relational data,0.0005,1.4138
+dimensionality reduction,interpretability,0.2894,1.1921
+interpretability,relational data,-0.273,1.5956
+dimensionality reduction,sparse projection matrix,0.482,1.0178
+relational data,sparse projection matrix,-0.0872,1.4746
+interpretability,sparse projection matrix,0.5149,0.9849
+dimensionality reduction,sparsity-inducing prior,0.501,0.999
+Laplace prior,dimensionality reduction,0.9462,0.328
+Jeffreys prior,dimensionality reduction,-0.1728,1.5315
+interpretability,sparsity-inducing prior,0.4242,1.0731
+Laplace prior,interpretability,0.4654,1.0341
+Jeffreys prior,interpretability,-0.153,1.5185
+sparse projection matrix,sparsity-inducing prior,0.9725,0.2347
+Laplace prior,sparse projection matrix,0.6439,0.844
+Jeffreys prior,sparse projection matrix,-0.1396,1.5097
+Laplace prior,sparsity-inducing prior,0.6378,0.8511
+Jeffreys prior,sparsity-inducing prior,-0.2383,1.5737
+Jeffreys prior,Laplace prior,-0.2174,1.5604
+dimensionality reduction,expectation-maximization,0.9911,0.1333
+expectation-maximization,sparse projection matrix,0.4902,1.0098
+expectation-maximization,sparsity-inducing prior,0.513,0.9869
+Laplace prior,expectation-maximization,0.9455,0.3301
+Jeffreys prior,expectation-maximization,-0.0833,1.472
+expectation-maximization,real applications,0.0899,1.3491

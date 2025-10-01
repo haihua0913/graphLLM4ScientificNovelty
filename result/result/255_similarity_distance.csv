@@ -1,0 +1,14 @@
+node1,node2,similarity,distance
+1-best search,A* parsing,-0.1176,1.4951
+A* parsing,k-best extraction,0.1896,1.2731
+1-best search,k-best extraction,-0.1264,1.501
+A* parsing,algorithm,-0.21,1.5556
+1-best search,algorithm,0.923,0.3923
+algorithm,k-best extraction,-0.4077,1.6779
+A* parsing,optimal k-best parses,0.4196,1.0774
+k-best extraction,optimal k-best parses,0.9223,0.3942
+algorithm,optimal k-best parses,-0.3418,1.6382
+A* parsing,grammar types,0.1923,1.271
+grammar types,k-best extraction,0.3518,1.1386
+algorithm,grammar types,-0.2152,1.5589
+grammar types,optimal k-best parses,0.3396,1.1493

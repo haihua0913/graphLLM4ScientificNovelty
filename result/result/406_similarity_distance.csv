@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+RGB,thermal cameras,0.4186,1.0784
+RGB,multi-modal distribution,0.091,1.3483
+multi-modal distribution,thermal cameras,0.0551,1.3747
+multi-modal distribution,shadows,-0.2008,1.5497
+multi-modal distribution,pedestrian tracker,-0.109,1.4893
+multi-modal distribution,particle filter,-0.2115,1.5566
+pedestrian tracker,shadows,-0.2863,1.6039
+particle filter,shadows,-0.1611,1.5239
+particle filter,pedestrian tracker,-0.2873,1.6046
+observation likelihoods,pedestrian tracker,-0.4554,1.7061
+occlusions,pedestrian tracker,0.0052,1.4105
+observation likelihoods,particle filter,0.7044,0.7689
+occlusions,particle filter,0.0988,1.3425
+observation likelihoods,occlusions,0.3717,1.121
+observation likelihoods,outdoor environments,0.5618,0.9361
+occlusions,outdoor environments,0.2979,1.1849

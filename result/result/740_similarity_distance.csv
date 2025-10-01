@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+Conformal Prediction,confidence set,0.2664,1.2113
+Conformal Prediction,exchangeable,0.1621,1.2945
+Conformal Prediction,coverage,0.0787,1.3574
+confidence set,exchangeable,-0.2645,1.5903
+confidence set,coverage,-0.1672,1.5279
+coverage,exchangeable,-0.0946,1.4796
+algorithmic stability bounds,prediction model,-0.2025,1.5508
+model fit,prediction model,0.0583,1.3724
+algorithmic stability bounds,model fit,-0.3338,1.6333
+algorithmic stability bounds,confidence set,0.7423,0.718
+confidence set,model fit,-0.379,1.6607
+confidence set,data splitting,0.2867,1.1944
+algorithmic stability bounds,coverage,-0.312,1.6199
+coverage,model fit,-0.0604,1.4563
+coverage,data splitting,-0.0016,1.4154
+algorithmic stability bounds,data splitting,-0.2749,1.5968
+data splitting,model fit,-0.1543,1.5194
+confidence set,numerical experiments,-0.2422,1.5762
+confidence set,datasets,0.2886,1.1928
+coverage,numerical experiments,-0.2692,1.5932
+coverage,datasets,0.5102,0.9897
+algorithmic stability bounds,numerical experiments,-0.0848,1.473
+algorithmic stability bounds,datasets,0.1713,1.2874
+model fit,numerical experiments,0.9233,0.3916
+datasets,model fit,0.1571,1.2984
+data splitting,numerical experiments,-0.1221,1.4981
+data splitting,datasets,0.2573,1.2187
+datasets,numerical experiments,0.1789,1.2815

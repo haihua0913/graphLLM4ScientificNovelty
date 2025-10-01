@@ -1,0 +1,428 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/bibe/bibe2010.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"88.33"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"66",
+"@dc":"66",
+"@oc":"66",
+"@id":"48874966",
+"text":":facetid:toc:db/conf/bibe/bibe2010.bht"
+}
+},
+"hits":{
+"@total":"66",
+"@computed":"66",
+"@sent":"66",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5671867",
+"info":{"authors":{"author":[{"@pid":"13/2880","text":"Edward E. Allen"},{"@pid":"08/448","text":"James L. Norris"},{"@pid":"36/0","text":"David J. John"},{"@pid":"81/2922","text":"Stan J. Thomas"},{"@pid":"71/5801","text":"William H. Turkett Jr."},{"@pid":"23/6096","text":"Jacquelyn S. Fetrow"}]},"title":"Comparison of Co-temporal Modeling Algorithms on Sparse Experimental Time Series Data Sets.","venue":"BIBE","pages":"79-85","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/AllenNJTTF10","doi":"10.1109/BIBE.2010.21","ee":"https://doi.org/10.1109/BIBE.2010.21","url":"https://dblp.org/rec/conf/bibe/AllenNJTTF10"},
+"url":"URL#5671867"
+},
+{
+"@score":"1",
+"@id":"5671868",
+"info":{"authors":{"author":[{"@pid":"85/7066","text":"Hiromi Arai"},{"@pid":"69/8353","text":"Naoya Tochio"},{"@pid":"58/1278","text":"Tsuyoshi Kato"},{"@pid":"15/7068","text":"Takanori Kigawa"},{"@pid":"74/2225","text":"Masayuki Yamamura"}]},"title":"An Accurate Prediction Method for Protein Structural Class from Signal Patterns of NMR Spectra in the Absence of Chemical Shift Assignments.","venue":"BIBE","pages":"32-37","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/AraiTKKY10","doi":"10.1109/BIBE.2010.15","ee":"https://doi.org/10.1109/BIBE.2010.15","url":"https://dblp.org/rec/conf/bibe/AraiTKKY10"},
+"url":"URL#5671868"
+},
+{
+"@score":"1",
+"@id":"5671869",
+"info":{"authors":{"author":[{"@pid":"37/8325","text":"Gandhi Arpit"},{"@pid":"36/8325","text":"Raghavendra Adiga"},{"@pid":"03/1516","text":"Kuruvilla Varghese"}]},"title":"Space Efficient Diagonal Linear Space Sequence Alignment.","venue":"BIBE","pages":"244-249","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/ArpitAV10","doi":"10.1109/BIBE.2010.47","ee":"https://doi.org/10.1109/BIBE.2010.47","url":"https://dblp.org/rec/conf/bibe/ArpitAV10"},
+"url":"URL#5671869"
+},
+{
+"@score":"1",
+"@id":"5671870",
+"info":{"authors":{"author":[{"@pid":"26/7374","text":"Ferhat Ay"},{"@pid":"54/7220","text":"Thang N. Dinh"},{"@pid":"63/4711","text":"My T. Thai"},{"@pid":"k/TamerKahveci","text":"Tamer Kahveci"}]},"title":"Finding Dynamic Modules of Biological Regulatory Networks.","venue":"BIBE","pages":"136-143","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/AyDTK10","doi":"10.1109/BIBE.2010.31","ee":"https://doi.org/10.1109/BIBE.2010.31","url":"https://dblp.org/rec/conf/bibe/AyDTK10"},
+"url":"URL#5671870"
+},
+{
+"@score":"1",
+"@id":"5671871",
+"info":{"authors":{"author":[{"@pid":"97/8322","text":"Kemal Aydin"},{"@pid":"06/8582","text":"Rustu Murat Demirer"},{"@pid":"12/5678","text":"Coskun Bayrak"}]},"title":"Use of Hilbert Huang Transform in Uterine Contraction Analysis.","venue":"BIBE","pages":"314-315","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/AydinDB10","doi":"10.1109/BIBE.2010.70","ee":"https://doi.org/10.1109/BIBE.2010.70","url":"https://dblp.org/rec/conf/bibe/AydinDB10"},
+"url":"URL#5671871"
+},
+{
+"@score":"1",
+"@id":"5671872",
+"info":{"authors":{"author":[{"@pid":"98/5980","text":"Forrest Sheng Bao"},{"@pid":"96/4620","text":"Zhixin Xie"},{"@pid":"z/YuanlinZhang","text":"Yuanlin Zhang 0002"}]},"title":"Fast Phased Small RNA Cycle Counting Algorithms.","venue":"BIBE","pages":"130-135","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/BaoXZ10","doi":"10.1109/BIBE.2010.30","ee":"https://doi.org/10.1109/BIBE.2010.30","url":"https://dblp.org/rec/conf/bibe/BaoXZ10"},
+"url":"URL#5671872"
+},
+{
+"@score":"1",
+"@id":"5671873",
+"info":{"authors":{"author":[{"@pid":"34/6342","text":"Ionut Bebu"},{"@pid":"38/2448","text":"Françoise Seillier-Moiseiwitsch"},{"@pid":"88/3604","text":"Jing Wu"},{"@pid":"70/94","text":"Thomas Mathew"}]},"title":"Gene Set Analysis with Covariates.","venue":"BIBE","pages":"300-301","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/BebuSWM10","doi":"10.1109/BIBE.2010.63","ee":"https://doi.org/10.1109/BIBE.2010.63","url":"https://dblp.org/rec/conf/bibe/BebuSWM10"},
+"url":"URL#5671873"
+},
+{
+"@score":"1",
+"@id":"5671874",
+"info":{"authors":{"author":[{"@pid":"99/5670","text":"Ivan Buzurovic"},{"@pid":"51/1068","text":"Tarun Kanti Podder"},{"@pid":"31/4018","text":"Lei Fu"},{"@pid":"67/6201","text":"Yan Yu"}]},"title":"Modular Software Design for Brachytherapy Image-Guided Robotic Systems.","venue":"BIBE","pages":"203-208","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/BuzurovicPFY10","doi":"10.1109/BIBE.2010.40","ee":"https://doi.org/10.1109/BIBE.2010.40","url":"https://dblp.org/rec/conf/bibe/BuzurovicPFY10"},
+"url":"URL#5671874"
+},
+{
+"@score":"1",
+"@id":"5671875",
+"info":{"authors":{"author":[{"@pid":"99/5670","text":"Ivan Buzurovic"},{"@pid":"51/1068","text":"Tarun Kanti Podder"},{"@pid":"40/4385","text":"Ke Huang"},{"@pid":"67/6201","text":"Yan Yu"}]},"title":"Tumor Motion Prediction and Tracking in Adaptive Radiotherapy.","venue":"BIBE","pages":"273-278","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/BuzurovicPHY10","doi":"10.1109/BIBE.2010.52","ee":"https://doi.org/10.1109/BIBE.2010.52","url":"https://dblp.org/rec/conf/bibe/BuzurovicPHY10"},
+"url":"URL#5671875"
+},
+{
+"@score":"1",
+"@id":"5671876",
+"info":{"authors":{"author":[{"@pid":"48/4792","text":"Yang Chen"},{"@pid":"85/4419","text":"Jinglu Hu"}]},"title":"eSBH: An Accurate Constructive Heuristic Algorithm for DNA Sequencing by Hybridization.","venue":"BIBE","pages":"124-129","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/ChenH10","doi":"10.1109/BIBE.2010.29","ee":"https://doi.org/10.1109/BIBE.2010.29","url":"https://dblp.org/rec/conf/bibe/ChenH10"},
+"url":"URL#5671876"
+},
+{
+"@score":"1",
+"@id":"5671877",
+"info":{"authors":{"author":[{"@pid":"94/4051","text":"Francisco Claude"},{"@pid":"37/1556","text":"Antonio Fariña"},{"@pid":"84/3901","text":"Miguel A. Martínez-Prieto"},{"@pid":"n/GonzaloNavarro","text":"Gonzalo Navarro 0001"}]},"title":"Compressed q-Gram Indexing for Highly Repetitive Biological Sequences.","venue":"BIBE","pages":"86-91","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/ClaudeFMN10","doi":"10.1109/BIBE.2010.22","ee":"https://doi.org/10.1109/BIBE.2010.22","url":"https://dblp.org/rec/conf/bibe/ClaudeFMN10"},
+"url":"URL#5671877"
+},
+{
+"@score":"1",
+"@id":"5671878",
+"info":{"authors":{"author":[{"@pid":"62/8321","text":"Qian Cong"},{"@pid":"97/1037","text":"Bong-Hyun Kim"},{"@pid":"09/394","text":"Lisa N. Kinch"},{"@pid":"18/6563","text":"Nick V. Grishin"}]},"title":"Structural Differences between Proteins with Similar Sequences.","venue":"BIBE","pages":"250-256","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/CongKKG10","doi":"10.1109/BIBE.2010.48","ee":"https://doi.org/10.1109/BIBE.2010.48","url":"https://dblp.org/rec/conf/bibe/CongKKG10"},
+"url":"URL#5671878"
+},
+{
+"@score":"1",
+"@id":"5671879",
+"info":{"authors":{"author":[{"@pid":"47/8353","text":"Karthik Devarajan"},{"@pid":"60/5157","text":"Yan Zhou"},{"@pid":"67/8353","text":"Neeraj Chachra"},{"@pid":"23/4652","text":"Nader Ebrahimi 0001"}]},"title":"A Supervised Approach for Predicting Patient Survival with Gene Expression Data.","venue":"BIBE","pages":"26-31","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/DevarajanZCE10","doi":"10.1109/BIBE.2010.14","ee":"https://doi.org/10.1109/BIBE.2010.14","url":"https://dblp.org/rec/conf/bibe/DevarajanZCE10"},
+"url":"URL#5671879"
+},
+{
+"@score":"1",
+"@id":"5671880",
+"info":{"authors":{"author":[{"@pid":"92/8353","text":"Steven D. Essinger"},{"@pid":"81/8353","text":"Gail L. Rosen"}]},"title":"The Effect of Sequence Error and Partial Training Data on BLAST Accuracy.","venue":"BIBE","pages":"257-262","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/EssingerR10","doi":"10.1109/BIBE.2010.49","ee":"https://doi.org/10.1109/BIBE.2010.49","url":"https://dblp.org/rec/conf/bibe/EssingerR10"},
+"url":"URL#5671880"
+},
+{
+"@score":"1",
+"@id":"5671881",
+"info":{"authors":{"author":{"@pid":"92/3216","text":"Omar Gaci"}},"title":"How to Fold Amino Acid Interaction Networks by Computational Intelligence Methods.","venue":"BIBE","pages":"150-155","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/Gaci10","doi":"10.1109/BIBE.2010.33","ee":"https://doi.org/10.1109/BIBE.2010.33","url":"https://dblp.org/rec/conf/bibe/Gaci10"},
+"url":"URL#5671881"
+},
+{
+"@score":"1",
+"@id":"5671882",
+"info":{"authors":{"author":[{"@pid":"87/6555","text":"Lana X. Garmire"},{"@pid":"s/SSubramaniam","text":"Shankar Subramaniam"},{"@pid":"44/2152","text":"David G. Garmire"},{"@pid":"87/5255","text":"Christopher K. Glass"}]},"title":"A Clustering Approach to Identify Intergenic Non-coding RNA in Mouse Macrophages.","venue":"BIBE","pages":"1-6","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/GarmireSGG10","doi":"10.1109/BIBE.2010.10","ee":"https://doi.org/10.1109/BIBE.2010.10","url":"https://dblp.org/rec/conf/bibe/GarmireSGG10"},
+"url":"URL#5671882"
+},
+{
+"@score":"1",
+"@id":"5671883",
+"info":{"authors":{"author":[{"@pid":"68/6614","text":"Zeynep H. Gümüs"},{"@pid":"31/4221","text":"Fernando Siso-Nadal"},{"@pid":"68/8353","text":"Ada Gjrezi"},{"@pid":"45/8353","text":"Paul McDonagh"},{"@pid":"78/8353","text":"Iya Khalil"},{"@pid":"58/5599","text":"Paraskevi Giannakakou"},{"@pid":"08/2635","text":"Harel Weinstein"}]},"title":"Quantification and Analysis of Combination Drug Synergy in High-Throughput Transcriptome Studies.","venue":"BIBE","pages":"238-243","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/GumusSGMKGW10","doi":"10.1109/BIBE.2010.46","ee":"https://doi.org/10.1109/BIBE.2010.46","url":"https://dblp.org/rec/conf/bibe/GumusSGMKGW10"},
+"url":"URL#5671883"
+},
+{
+"@score":"1",
+"@id":"5671884",
+"info":{"authors":{"author":[{"@pid":"51/7240","text":"Marylens Hernandez"},{"@pid":"79/4860","text":"Alexander Lachmann"},{"@pid":"00/6640","text":"Shan Zhao"},{"@pid":"64/8353","text":"Kunhong Xiao"},{"@pid":"09/1149","text":"Avi Ma&apos;ayan"}]},"title":"Inferring the Sign of Kinase-Substrate Interactions by Combining Quantitative Phosphoproteomics with a Literature-Based Mammalian Kinome Network.","venue":"BIBE","pages":"180-184","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/HernandezLZXM10","doi":"10.1109/BIBE.2010.75","ee":"https://doi.org/10.1109/BIBE.2010.75","url":"https://dblp.org/rec/conf/bibe/HernandezLZXM10"},
+"url":"URL#5671884"
+},
+{
+"@score":"1",
+"@id":"5671885",
+"info":{"authors":{"author":[{"@pid":"73/8353","text":"Tomoya Higashigaki"},{"@pid":"53/4225","text":"Kaname Kojima"},{"@pid":"92/7043","text":"Rui Yamaguchi"},{"@pid":"88/3230","text":"Masato Inoue"},{"@pid":"91/5869","text":"Seiya Imoto"},{"@pid":"73/2912","text":"Satoru Miyano"}]},"title":"Identifying Hidden Confounders in Gene Networks by Bayesian Networks.","venue":"BIBE","pages":"168-173","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/HigashigakiKYIIM10","doi":"10.1109/BIBE.2010.35","ee":"https://doi.org/10.1109/BIBE.2010.35","url":"https://dblp.org/rec/conf/bibe/HigashigakiKYIIM10"},
+"url":"URL#5671885"
+},
+{
+"@score":"1",
+"@id":"5671886",
+"info":{"authors":{"author":[{"@pid":"40/4385","text":"Ke Huang"},{"@pid":"99/5670","text":"Ivan Buzurovic"},{"@pid":"67/6201","text":"Yan Yu"},{"@pid":"51/1068","text":"Tarun Kanti Podder"}]},"title":"A Comparative Study of a Novel AE-nLMS Filter and Two Traditional Filters in Predicting Respiration Induced Motion of the Tumor.","venue":"BIBE","pages":"281-282","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/HuangBYP10","doi":"10.1109/BIBE.2010.53","ee":"https://doi.org/10.1109/BIBE.2010.53","url":"https://dblp.org/rec/conf/bibe/HuangBYP10"},
+"url":"URL#5671886"
+},
+{
+"@score":"1",
+"@id":"5671887",
+"info":{"authors":{"author":[{"@pid":"14/5626","text":"Sohei Ito"},{"@pid":"09/6390","text":"Naoko Izumi"},{"@pid":"43/1232","text":"Shigeki Hagihara"},{"@pid":"01/5947","text":"Naoki Yonezaki"}]},"title":"Qualitative Analysis of Gene Regulatory Networks by Satisfiability Checking of Linear Temporal Logic.","venue":"BIBE","pages":"232-237","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/ItoIHY10","doi":"10.1109/BIBE.2010.45","ee":"https://doi.org/10.1109/BIBE.2010.45","url":"https://dblp.org/rec/conf/bibe/ItoIHY10"},
+"url":"URL#5671887"
+},
+{
+"@score":"1",
+"@id":"5671888",
+"info":{"authors":{"author":[{"@pid":"44/630","text":"Vidya V. Iyer"},{"@pid":"35/2558","text":"Ioannis P. Androulakis"},{"@pid":"44/8353","text":"Charles M. Roth"},{"@pid":"02/7149","text":"Marianthi G. Ierapetritou"}]},"title":"Effects of Triadimefon on the Metabolism of Cultured Hepatocytes.","venue":"BIBE","pages":"118-123","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/IyerARI10","doi":"10.1109/BIBE.2010.28","ee":"https://doi.org/10.1109/BIBE.2010.28","url":"https://dblp.org/rec/conf/bibe/IyerARI10"},
+"url":"URL#5671888"
+},
+{
+"@score":"1",
+"@id":"5671889",
+"info":{"authors":{"author":[{"@pid":"54/8353","text":"W. Garrett Jenkinson"},{"@pid":"g/JohnKGoutsias","text":"John Goutsias"}]},"title":"On Constructing Thermodynamically Consistent Parametrizations of Kinetic Models.","venue":"BIBE","pages":"214-219","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/JenkinsonG10","doi":"10.1109/BIBE.2010.42","ee":"https://doi.org/10.1109/BIBE.2010.42","url":"https://dblp.org/rec/conf/bibe/JenkinsonG10"},
+"url":"URL#5671889"
+},
+{
+"@score":"1",
+"@id":"5671890",
+"info":{"authors":{"author":[{"@pid":"63/2729","text":"Alexandros Karargyris"},{"@pid":"b/NikolaosGBourbakis","text":"Nikolaos G. Bourbakis"}]},"title":"An Elastic Video Interpolation Methodology for Wireless Capsule Endoscopy Videos.","venue":"BIBE","pages":"38-43","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/KarargyrisB10","doi":"10.1109/BIBE.2010.16","ee":"https://doi.org/10.1109/BIBE.2010.16","url":"https://dblp.org/rec/conf/bibe/KarargyrisB10"},
+"url":"URL#5671890"
+},
+{
+"@score":"1",
+"@id":"5671891",
+"info":{"authors":{"author":[{"@pid":"63/2729","text":"Alexandros Karargyris"},{"@pid":"75/8353","text":"Orestis Karargyris"},{"@pid":"b/NikolaosGBourbakis","text":"Nikolaos G. Bourbakis"}]},"title":"3D Representation of the Digestive Tract Surface in Wireless Capsule Endoscopy Videos.","venue":"BIBE","pages":"279-280","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/KarargyrisKB10","doi":"10.1109/BIBE.2010.9","ee":"https://doi.org/10.1109/BIBE.2010.9","url":"https://dblp.org/rec/conf/bibe/KarargyrisKB10"},
+"url":"URL#5671891"
+},
+{
+"@score":"1",
+"@id":"5671892",
+"info":{"authors":{"author":[{"@pid":"25/1039","text":"Hyunsoo Kim"},{"@pid":"55/8353","text":"Yingtao Bi"},{"@pid":"55/2246","text":"Ramana V. Davuluri"}]},"title":"Estimating the Expression of Transcript Isoforms from mRNA-Seq via Nonnegative Least Squares.","venue":"BIBE","pages":"296-297","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/KimBD10","doi":"10.1109/BIBE.2010.61","ee":"https://doi.org/10.1109/BIBE.2010.61","url":"https://dblp.org/rec/conf/bibe/KimBD10"},
+"url":"URL#5671892"
+},
+{
+"@score":"1",
+"@id":"5671893",
+"info":{"authors":{"author":[{"@pid":"12/2326","text":"Dong-Chul Kim"},{"@pid":"18/4336","text":"Jean Gao"},{"@pid":"80/5220","text":"Chin-Rang Yang"}]},"title":"Learning Proteomic Network Structure by a New Hill Climbing Algorithm.","venue":"BIBE","pages":"191-196","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/KimGY10","doi":"10.1109/BIBE.2010.38","ee":"https://doi.org/10.1109/BIBE.2010.38","url":"https://dblp.org/rec/conf/bibe/KimGY10"},
+"url":"URL#5671893"
+},
+{
+"@score":"1",
+"@id":"5671894",
+"info":{"authors":{"author":[{"@pid":"59/1757","text":"Taehyong Kim"},{"@pid":"99/6321","text":"Woochang Hwang"},{"@pid":"z/AidongZhang","text":"Aidong Zhang"},{"@pid":"09/5423","text":"Murali Ramanathan"}]},"title":"Computational Framework for Microstructural Bone Dynamics Model and Its Evaluation.","venue":"BIBE","pages":"92-98","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/KimHZR10","doi":"10.1109/BIBE.2010.23","ee":"https://doi.org/10.1109/BIBE.2010.23","url":"https://dblp.org/rec/conf/bibe/KimHZR10"},
+"url":"URL#5671894"
+},
+{
+"@score":"1",
+"@id":"5671895",
+"info":{"authors":{"author":[{"@pid":"50/6297","text":"Stuart King"},{"@pid":"20/1908","text":"Yanni Sun"},{"@pid":"98/6444","text":"James R. Cole"},{"@pid":"p/SaktiPramanik","text":"Sakti Pramanik"}]},"title":"BLAST Tree: Fast Filtering for Genomic Sequence Classification.","venue":"BIBE","pages":"58-65","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/KingSCP10","doi":"10.1109/BIBE.2010.74","ee":"https://doi.org/10.1109/BIBE.2010.74","url":"https://dblp.org/rec/conf/bibe/KingSCP10"},
+"url":"URL#5671895"
+},
+{
+"@score":"1",
+"@id":"5671896",
+"info":{"authors":{"author":[{"@pid":"50/8353","text":"Alan L. Kwan"},{"@pid":"20/206","text":"Susan K. Dutcher"},{"@pid":"81/4738","text":"Gary D. Stormo"}]},"title":"Detecting Coevolution of Functionally Related Proteins for Automated Protein Annotation.","venue":"BIBE","pages":"99-105","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/KwanDS10","doi":"10.1109/BIBE.2010.24","ee":"https://doi.org/10.1109/BIBE.2010.24","url":"https://dblp.org/rec/conf/bibe/KwanDS10"},
+"url":"URL#5671896"
+},
+{
+"@score":"1",
+"@id":"5671897",
+"info":{"authors":{"author":[{"@pid":"64/6025-35","text":"Wei Li 0035"},{"@pid":"62/8353","text":"Paul M. Ruegger"},{"@pid":"13/2056","text":"James Borneman"},{"@pid":"j/TaoJiang-1","text":"Tao Jiang 0001"}]},"title":"Polony Identification Using the EM Algorithm Based on a Gaussian Mixture Model.","venue":"BIBE","pages":"220-225","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/LiRBJ10","doi":"10.1109/BIBE.2010.43","ee":"https://doi.org/10.1109/BIBE.2010.43","url":"https://dblp.org/rec/conf/bibe/LiRBJ10"},
+"url":"URL#5671897"
+},
+{
+"@score":"1",
+"@id":"5671898",
+"info":{"authors":{"author":[{"@pid":"41/3068-1","text":"Jiang Li 0001"},{"@pid":"84/8353","text":"Ayyappa Vadlamudi"},{"@pid":"85/8353","text":"Shao-Hui Chuang"},{"@pid":"13/1574-4","text":"Xiaoyan Sun 0004"},{"@pid":"35/892","text":"Bo Sun"},{"@pid":"96/6188","text":"Frederic D. McKenzie"},{"@pid":"83/8245","text":"Lisa H. Cazares"},{"@pid":"59/8353","text":"Julius Nyalwidhe"},{"@pid":"91/8353","text":"Dean Troyer"},{"@pid":"07/5279","text":"O. John Semmes"}]},"title":"Combining Prostate Cancer Region Predictions from MALDI Spectra Processing and Texture Analysis.","venue":"BIBE","pages":"73-78","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/LiVCSSMCNTS10","doi":"10.1109/BIBE.2010.20","ee":"https://doi.org/10.1109/BIBE.2010.20","url":"https://dblp.org/rec/conf/bibe/LiVCSSMCNTS10"},
+"url":"URL#5671898"
+},
+{
+"@score":"1",
+"@id":"5671899",
+"info":{"authors":{"author":[{"@pid":"73/2252-3","text":"Lin Li 0003"},{"@pid":"w/JamesZijunWang","text":"James Z. Wang 0002"},{"@pid":"56/8353","text":"Dheeraj Chahal"},{"@pid":"74/8353","text":"Mark A. Eckert"},{"@pid":"94/8353","text":"Carl Lozar"}]},"title":"Detection of Mild Cognitive Impairment Using Image Differences and Clinical Features.","venue":"BIBE","pages":"106-111","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/LiWCEL10","doi":"10.1109/BIBE.2010.26","ee":"https://doi.org/10.1109/BIBE.2010.26","url":"https://dblp.org/rec/conf/bibe/LiWCEL10"},
+"url":"URL#5671899"
+},
+{
+"@score":"1",
+"@id":"5671900",
+"info":{"authors":{"author":[{"@pid":"47/2484","text":"Zhenqiu Liu"},{"@pid":"04/8249","text":"Terry Hyslop"}]},"title":"Partial AUC for Differentiated Gene Detection.","venue":"BIBE","pages":"310-311","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/LiuH10","doi":"10.1109/BIBE.2010.68","ee":"https://doi.org/10.1109/BIBE.2010.68","url":"https://dblp.org/rec/conf/bibe/LiuH10"},
+"url":"URL#5671900"
+},
+{
+"@score":"1",
+"@id":"5671901",
+"info":{"authors":{"author":[{"@pid":"80/7182","text":"Tantan Liu"},{"@pid":"88/898-4","text":"Fan Wang 0004"},{"@pid":"a/GAgrawal","text":"Gagan Agrawal"}]},"title":"Instance Discovery and Schema Matching with Applications to Biological Deep Web Data Integration.","venue":"BIBE","pages":"304-305","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/LiuWA10","doi":"10.1109/BIBE.2010.65","ee":"https://doi.org/10.1109/BIBE.2010.65","url":"https://dblp.org/rec/conf/bibe/LiuWA10"},
+"url":"URL#5671901"
+},
+{
+"@score":"1",
+"@id":"5671902",
+"info":{"authors":{"author":[{"@pid":"l/MicheleLombardi","text":"Michele Lombardi 0001"},{"@pid":"b/LucaBenini","text":"Luca Benini"},{"@pid":"62/5978","text":"Abhishek Garg"},{"@pid":"d/GDeMicheli","text":"Giovanni De Micheli"}]},"title":"Methods for Designing Reliable Probe Arrays.","venue":"BIBE","pages":"306-307","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/LombardiBGM10","doi":"10.1109/BIBE.2010.66","ee":"https://doi.org/10.1109/BIBE.2010.66","url":"https://dblp.org/rec/conf/bibe/LombardiBGM10"},
+"url":"URL#5671902"
+},
+{
+"@score":"1",
+"@id":"5671903",
+"info":{"authors":{"author":[{"@pid":"82/8353","text":"Jack W. London"},{"@pid":"70/8353","text":"Devjani Chatterjee"}]},"title":"Using the Semantically Interoperable Biospecimen Repository Application, caTissue: End User Deployment Lessons Learned.","venue":"BIBE","pages":"316-317","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/LondonC10","doi":"10.1109/BIBE.2010.71","ee":"https://doi.org/10.1109/BIBE.2010.71","url":"https://dblp.org/rec/conf/bibe/LondonC10"},
+"url":"URL#5671903"
+},
+{
+"@score":"1",
+"@id":"5671904",
+"info":{"authors":{"author":[{"@pid":"95/7266","text":"Haiyun Lu"},{"@pid":"81/7267","text":"Shamima Banu Bte Sm Rashid"},{"@pid":"17/5705-32","text":"Hao Li 0032"},{"@pid":"35/3964","text":"Wee Kheng Leow"},{"@pid":"23/7270","text":"Yih-Cherng Liou"}]},"title":"Knowledge-Guided Docking of Flexible Ligands to SH2 Domain Proteins.","venue":"BIBE","pages":"185-190","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/LuRLLL10","doi":"10.1109/BIBE.2010.37","ee":"https://doi.org/10.1109/BIBE.2010.37","url":"https://dblp.org/rec/conf/bibe/LuRLLL10"},
+"url":"URL#5671904"
+},
+{
+"@score":"1",
+"@id":"5671905",
+"info":{"authors":{"author":[{"@pid":"m/SMakrogiannis","text":"Sokratis Makrogiannis"},{"@pid":"63/8353","text":"Suraj Serai"},{"@pid":"95/8353","text":"Kenneth W. Fishbein"},{"@pid":"51/8353","text":"Willie Laney"},{"@pid":"49/8353","text":"Catherine Schreiber"},{"@pid":"83/8353","text":"William B. Ershler"},{"@pid":"52/8353","text":"Luigi Ferrucci"},{"@pid":"180/7767","text":"Richard G. S. Spencer"}]},"title":"Automated Quantification of Muscle and Fat in the Thigh from Water-, Fat- and Non-suppressed MR Images.","venue":"BIBE","pages":"52-57","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/MakrogiannisSFLSEFS10","doi":"10.1109/BIBE.2010.18","ee":"https://doi.org/10.1109/BIBE.2010.18","url":"https://dblp.org/rec/conf/bibe/MakrogiannisSFLSEFS10"},
+"url":"URL#5671905"
+},
+{
+"@score":"1",
+"@id":"5671906",
+"info":{"authors":{"author":[{"@pid":"32/1035","text":"Marco Masseroli"},{"@pid":"02/7502","text":"Giorgio Ghisalberti"},{"@pid":"86/7967","text":"Luca Tettamanti"}]},"title":"Detection of Errors and Inconsistencies in Biomolecular Databases through Integrative Approaches and Quality Controls.","venue":"BIBE","pages":"294-295","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/MasseroliGT10","doi":"10.1109/BIBE.2010.60","ee":"https://doi.org/10.1109/BIBE.2010.60","url":"https://dblp.org/rec/conf/bibe/MasseroliGT10"},
+"url":"URL#5671906"
+},
+{
+"@score":"1",
+"@id":"5671907",
+"info":{"authors":{"author":[{"@pid":"39/8248","text":"Tung T. Nguyen"},{"@pid":"12/1243","text":"Panagiota T. Foteinou"},{"@pid":"35/2558","text":"Ioannis P. Androulakis"},{"@pid":"80/8353","text":"Steve E. Calvano"},{"@pid":"90/8353","text":"Stephen F. Lowry"}]},"title":"Dynamic Complexity of the Temporal Transcriptional Regulation Program in Human Endotoxemia.","venue":"BIBE","pages":"112-117","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/NguyenFACL10","doi":"10.1109/BIBE.2010.27","ee":"https://doi.org/10.1109/BIBE.2010.27","url":"https://dblp.org/rec/conf/bibe/NguyenFACL10"},
+"url":"URL#5671907"
+},
+{
+"@score":"1",
+"@id":"5671908",
+"info":{"authors":{"author":[{"@pid":"76/8353","text":"Norbert Nwankwo"},{"@pid":"56/5395","text":"Huseyin Seker"}]},"title":"Assessment of the Binding Characteristics of Human Immunodeficiency Virus Type 1 Glycoprotein120 and Host Cluster of Differentiation4 Using Digital Signal Processing.","venue":"BIBE","pages":"289-290","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/NwankwoS10","doi":"10.1109/BIBE.2010.57","ee":"https://doi.org/10.1109/BIBE.2010.57","url":"https://dblp.org/rec/conf/bibe/NwankwoS10"},
+"url":"URL#5671908"
+},
+{
+"@score":"1",
+"@id":"5671909",
+"info":{"authors":{"author":[{"@pid":"18/3520","text":"Stanislaw Oldziej"},{"@pid":"34/6348","text":"Cezary Czaplewski"},{"@pid":"81/6372","text":"Adam Liwo"},{"@pid":"18/171","text":"Harold A. Scheraga"}]},"title":"Towards Temperature Dependent Coarse-grained Potential of Side-chain Interactions for Protein Folding Simulations.","venue":"BIBE","pages":"263-266","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/OldziejCLS10","doi":"10.1109/BIBE.2010.50","ee":"https://doi.org/10.1109/BIBE.2010.50","url":"https://dblp.org/rec/conf/bibe/OldziejCLS10"},
+"url":"URL#5671909"
+},
+{
+"@score":"1",
+"@id":"5671910",
+"info":{"authors":{"author":[{"@pid":"65/7517","text":"Natalia V. Petrova"},{"@pid":"w/CathyHWu","text":"Cathy H. Wu"}]},"title":"Prediction of Catalytic Residues in Proteins Using a Consensus of Prediction (CoP) Approach.","venue":"BIBE","pages":"226-231","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/PetrovaW10","doi":"10.1109/BIBE.2010.44","ee":"https://doi.org/10.1109/BIBE.2010.44","url":"https://dblp.org/rec/conf/bibe/PetrovaW10"},
+"url":"URL#5671910"
+},
+{
+"@score":"1",
+"@id":"5671911",
+"info":{"authors":{"author":[{"@pid":"51/1068","text":"Tarun Kanti Podder"},{"@pid":"99/5670","text":"Ivan Buzurovic"},{"@pid":"67/6201","text":"Yan Yu"}]},"title":"Multichannel Robot for Image-Guided Brachytherapy.","venue":"BIBE","pages":"209-213","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/PodderBY10","doi":"10.1109/BIBE.2010.41","ee":"https://doi.org/10.1109/BIBE.2010.41","url":"https://dblp.org/rec/conf/bibe/PodderBY10"},
+"url":"URL#5671911"
+},
+{
+"@score":"1",
+"@id":"5671912",
+"info":{"authors":{"author":[{"@pid":"79/8353","text":"Fotis E. Psomopoulos"},{"@pid":"79/1157","text":"Pericles A. Mitkas"}]},"title":"Multi Level Clustering of Phylogenetic Profiles.","venue":"BIBE","pages":"308-309","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/PsomopoulosM10","doi":"10.1109/BIBE.2010.67","ee":"https://doi.org/10.1109/BIBE.2010.67","url":"https://dblp.org/rec/conf/bibe/PsomopoulosM10"},
+"url":"URL#5671912"
+},
+{
+"@score":"1",
+"@id":"5671913",
+"info":{"authors":{"author":[{"@pid":"60/7457","text":"Yang Pu"},{"@pid":"65/7457","text":"Saangho Lee"},{"@pid":"35/721","text":"David C. Samuels"},{"@pid":"w/LayneTWatson","text":"Layne T. Watson"},{"@pid":"25/7045-1","text":"Yang Cao 0001"}]},"title":"Hybrid Modeling and Simulation of Insulin Secretion Pathway in Pancreatic Islets.","venue":"BIBE","pages":"156-161","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/PuLSWC10","doi":"10.1109/BIBE.2010.34","ee":"https://doi.org/10.1109/BIBE.2010.34","url":"https://dblp.org/rec/conf/bibe/PuLSWC10"},
+"url":"URL#5671913"
+},
+{
+"@score":"1",
+"@id":"5671914",
+"info":{"authors":{"author":[{"@pid":"66/8353","text":"Hamid Ravaee"},{"@pid":"38/317","text":"Ali Masoudi-Nejad"},{"@pid":"77/8353","text":"Saeed Omidi"},{"@pid":"28/846","text":"Ali Moeini"}]},"title":"Improved Immune Genetic Algorithm for Clustering Protein-Protein Interaction Network.","venue":"BIBE","pages":"174-179","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/RavaeeMOM10","doi":"10.1109/BIBE.2010.36","ee":"https://doi.org/10.1109/BIBE.2010.36","url":"https://dblp.org/rec/conf/bibe/RavaeeMOM10"},
+"url":"URL#5671914"
+},
+{
+"@score":"1",
+"@id":"5671915",
+"info":{"authors":{"author":[{"@pid":"48/8353","text":"Jeremy D. Scheff"},{"@pid":"35/2558","text":"Ioannis P. Androulakis"},{"@pid":"80/8353","text":"Steve E. Calvano"},{"@pid":"90/8353","text":"Stephen F. Lowry"}]},"title":"Modeling Circadian Rhythms in Inflammation.","venue":"BIBE","pages":"197-202","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/ScheffACL10","doi":"10.1109/BIBE.2010.39","ee":"https://doi.org/10.1109/BIBE.2010.39","url":"https://dblp.org/rec/conf/bibe/ScheffACL10"},
+"url":"URL#5671915"
+},
+{
+"@score":"1",
+"@id":"5671916",
+"info":{"authors":{"author":[{"@pid":"29/563-21","text":"Lei Shi 0021"},{"@pid":"12/2467","text":"Young-Rae Cho"},{"@pid":"z/AidongZhang","text":"Aidong Zhang"}]},"title":"Functional Flow Simulation Based Analysis of Protein Interaction Network.","venue":"BIBE","pages":"144-149","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/ShiCZ10","doi":"10.1109/BIBE.2010.32","ee":"https://doi.org/10.1109/BIBE.2010.32","url":"https://dblp.org/rec/conf/bibe/ShiCZ10"},
+"url":"URL#5671916"
+},
+{
+"@score":"1",
+"@id":"5671917",
+"info":{"authors":{"author":[{"@pid":"29/563-6","text":"Lei Shi 0006"},{"@pid":"99/1879","text":"Marko Srdanovic"},{"@pid":"10/2832","text":"Thijs Beuming"},{"@pid":"04/4099","text":"Lucy Skrabanek"},{"@pid":"09/7113","text":"Jonathan A. Javitch"},{"@pid":"08/2635","text":"Harel Weinstein"}]},"title":"TRAC: A Platform for Structure-Function Studies of NSS-Proteins Integrates Information from Bioinformatics and Biomedical Literature.","venue":"BIBE","pages":"267-272","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/ShiSBSJW10","doi":"10.1109/BIBE.2010.51","ee":"https://doi.org/10.1109/BIBE.2010.51","url":"https://dblp.org/rec/conf/bibe/ShiSBSJW10"},
+"url":"URL#5671917"
+},
+{
+"@score":"1",
+"@id":"5671918",
+"info":{"authors":{"author":[{"@pid":"41/1189","text":"Giovanni Stracquadanio"},{"@pid":"72/8353","text":"Renato Umeton"},{"@pid":"46/8353","text":"Alessio Papini"},{"@pid":"l/PietroLio","text":"Pietro Liò"},{"@pid":"28/6928","text":"Giuseppe Nicosia"}]},"title":"Analysis and Optimization of C3 Photosynthetic Carbon Metabolism.","venue":"BIBE","pages":"44-51","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/StracquadanioUPLN10","doi":"10.1109/BIBE.2010.17","ee":"https://doi.org/10.1109/BIBE.2010.17","url":"https://dblp.org/rec/conf/bibe/StracquadanioUPLN10"},
+"url":"URL#5671918"
+},
+{
+"@score":"1",
+"@id":"5671919",
+"info":{"authors":{"author":[{"@pid":"10/166","text":"Marco Tagliasacchi"},{"@pid":"87/8353","text":"Roberto Sarati"},{"@pid":"32/1035","text":"Marco Masseroli"}]},"title":"Prediction of Gene Ontology Annotations Based on Gene Functional Clustering.","venue":"BIBE","pages":"312-313","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/TagliasacchiSM10","doi":"10.1109/BIBE.2010.69","ee":"https://doi.org/10.1109/BIBE.2010.69","url":"https://dblp.org/rec/conf/bibe/TagliasacchiSM10"},
+"url":"URL#5671919"
+},
+{
+"@score":"1",
+"@id":"5671920",
+"info":{"authors":{"author":[{"@pid":"09/4859","text":"Rajanikanth Vadigepalli"},{"@pid":"65/8353","text":"Joshua Ogony"},{"@pid":"86/8353","text":"Helen Anni"}]},"title":"Ethanol Effects on Transcription Factor Network Regulating Stem Cell Differentiation.","venue":"BIBE","pages":"298-299","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/VadigepalliOA10","doi":"10.1109/BIBE.2010.62","ee":"https://doi.org/10.1109/BIBE.2010.62","url":"https://dblp.org/rec/conf/bibe/VadigepalliOA10"},
+"url":"URL#5671920"
+},
+{
+"@score":"1",
+"@id":"5671921",
+"info":{"authors":{"author":[{"@pid":"88/898-4","text":"Fan Wang 0004"},{"@pid":"a/GAgrawal","text":"Gagan Agrawal"}]},"title":"A Self-Healing Approach for a Domain-Specific Deep Web Search Tool.","venue":"BIBE","pages":"20-25","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/WangA10","doi":"10.1109/BIBE.2010.13","ee":"https://doi.org/10.1109/BIBE.2010.13","url":"https://dblp.org/rec/conf/bibe/WangA10"},
+"url":"URL#5671921"
+},
+{
+"@score":"1",
+"@id":"5671922",
+"info":{"authors":{"author":[{"@pid":"81/7516","text":"Chuang Wu"},{"@pid":"93/8353","text":"Andrew S. Walsh"},{"@pid":"r/RonaldRosenfeld","text":"Roni Rosenfeld"}]},"title":"Identification of Viral Protein Genotypic Determinants Using Combinatorial Filtering and Active Learning.","venue":"BIBE","pages":"162-167","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/WuWR10","doi":"10.1109/BIBE.2010.25","ee":"https://doi.org/10.1109/BIBE.2010.25","url":"https://dblp.org/rec/conf/bibe/WuWR10"},
+"url":"URL#5671922"
+},
+{
+"@score":"1",
+"@id":"5671923",
+"info":{"authors":{"author":[{"@pid":"96/3800","text":"Petros Xanthopoulos"},{"@pid":"26/4467","text":"Steffen Rebennack"},{"@pid":"27/5800","text":"Chang-Chia Liu"},{"@pid":"60/8353","text":"Jicong Zhang"},{"@pid":"57/8353","text":"Gregory L. Holmes"},{"@pid":"61/8353","text":"Basim M. Uthman"},{"@pid":"04/1137","text":"Panos M. Pardalos"}]},"title":"A Novel Wavelet Based Algorithm for Spike and Wave Detection in Absence Epilepsy.","venue":"BIBE","pages":"14-19","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/XanthopoulosRLZHUP10","doi":"10.1109/BIBE.2010.12","ee":"https://doi.org/10.1109/BIBE.2010.12","url":"https://dblp.org/rec/conf/bibe/XanthopoulosRLZHUP10"},
+"url":"URL#5671923"
+},
+{
+"@score":"1",
+"@id":"5671924",
+"info":{"authors":{"author":[{"@pid":"39/2959","text":"Changhui Yan"},{"@pid":"89/8353","text":"Jingru Luo"}]},"title":"A Comparison between Transmembrane Helices and Reentrant Loops.","venue":"BIBE","pages":"283-284","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/YanL10","doi":"10.1109/BIBE.2010.54","ee":"https://doi.org/10.1109/BIBE.2010.54","url":"https://dblp.org/rec/conf/bibe/YanL10"},
+"url":"URL#5671924"
+},
+{
+"@score":"1",
+"@id":"5671925",
+"info":{"authors":{"author":[{"@pid":"96/1048","text":"Kai Guo Yan"},{"@pid":"51/1068","text":"Tarun Kanti Podder"},{"@pid":"40/4385","text":"Ke Huang"},{"@pid":"67/6201","text":"Yan Yu"},{"@pid":"26/2766","text":"Lydia Liao"}]},"title":"A Noninvasive Multimodal Sono-contrast NIR Spectroscopy System for Breast Cancer Diagnosis.","venue":"BIBE","pages":"285-286","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/YanPHYL10","doi":"10.1109/BIBE.2010.55","ee":"https://doi.org/10.1109/BIBE.2010.55","url":"https://dblp.org/rec/conf/bibe/YanPHYL10"},
+"url":"URL#5671925"
+},
+{
+"@score":"1",
+"@id":"5671926",
+"info":{"authors":{"author":[{"@pid":"58/3599","text":"Hsiang-Yuan Yeh"},{"@pid":"08/2925","text":"Yi-Yu Liu"},{"@pid":"51/3789","text":"Cheng-Yu Yeh"},{"@pid":"05/5867","text":"Von-Wun Soo"}]},"title":"Identifying Prostate Cancer-Related Networks from Microarray Data Based on Genotype-Phenotype Networks Using Markov Blanket Search.","venue":"BIBE","pages":"302-303","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/YehLYS10","doi":"10.1109/BIBE.2010.64","ee":"https://doi.org/10.1109/BIBE.2010.64","url":"https://dblp.org/rec/conf/bibe/YehLYS10"},
+"url":"URL#5671926"
+},
+{
+"@score":"1",
+"@id":"5671927",
+"info":{"authors":{"author":[{"@pid":"71/8353","text":"Non Yok"},{"@pid":"81/8353","text":"Gail Rosen"}]},"title":"Comparison of Gene Prediction Programs for Metagenomic Data.","venue":"BIBE","pages":"291-292","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/YokR10","doi":"10.1109/BIBE.2010.58","ee":"https://doi.org/10.1109/BIBE.2010.58","url":"https://dblp.org/rec/conf/bibe/YokR10"},
+"url":"URL#5671927"
+},
+{
+"@score":"1",
+"@id":"5671928",
+"info":{"authors":{"author":[{"@pid":"94/6965","text":"Changyong Yu"},{"@pid":"64/146","text":"Guoren Wang"},{"@pid":"73/5946","text":"Yuhai Zhao"},{"@pid":"32/4109","text":"Keming Mao"}]},"title":"A Multi-stage Spectral Alignment Strategy for Unrestrictive PTM Peptide Identification.","venue":"BIBE","pages":"7-13","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/YuWZM10","doi":"10.1109/BIBE.2010.11","ee":"https://doi.org/10.1109/BIBE.2010.11","url":"https://dblp.org/rec/conf/bibe/YuWZM10"},
+"url":"URL#5671928"
+},
+{
+"@score":"1",
+"@id":"5671929",
+"info":{"authors":{"author":[{"@pid":"66/7664","text":"Jiawei Zhang 0008"},{"@pid":"36/1341-12","text":"Liping Wang 0012"},{"@pid":"88/4295","text":"Xia Liu"},{"@pid":"22/3237","text":"Hong-hai Zhu"},{"@pid":"00/2441","text":"Jun Dong"}]},"title":"Chinese Cardiovascular Disease Database (CCDD) and Its Management Tool.","venue":"BIBE","pages":"66-72","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/ZhangWLZD10","doi":"10.1109/BIBE.2010.19","ee":"https://doi.org/10.1109/BIBE.2010.19","url":"https://dblp.org/rec/conf/bibe/ZhangWLZD10"},
+"url":"URL#5671929"
+},
+{
+"@score":"1",
+"@id":"5671930",
+"info":{"authors":{"author":[{"@pid":"31/6916-2","text":"Hao Zheng 0002"},{"@pid":"02/6957","text":"Hongwei Wu"}]},"title":"Analysis on the Correlation Relationships between the Temperature Range Condition and the Genic GC Content Levels of Prokaryotes.","venue":"BIBE","pages":"287-288","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/bibe/ZhengW10","doi":"10.1109/BIBE.2010.56","ee":"https://doi.org/10.1109/BIBE.2010.56","url":"https://dblp.org/rec/conf/bibe/ZhengW10"},
+"url":"URL#5671930"
+},
+{
+"@score":"1",
+"@id":"5789577",
+"info":{"title":"10th IEEE International Conference on Bioinformatics and Bioengineering, BIBE 2010, Philadelphia, Pennsylvania, USA, May 31-June 3 2010","venue":"BIBE","publisher":"IEEE Computer Society","year":"2010","type":"Editorship","key":"conf/bibe/2010","ee":"https://ieeexplore.ieee.org/xpl/conhome/5521352/proceeding","url":"https://dblp.org/rec/conf/bibe/2010"},
+"url":"URL#5789577"
+},
+{
+"@score":"1",
+"@id":"5801451",
+"info":{"title":"Corpus Callosum Shape Deformation Analysis for Multiple Sclerosis.","venue":"BIBE","pages":"293","year":"2010","type":"Withdrawn Items","access":"withdrawn","key":"conf/bibe/DerrazTPPCB10","doi":"10.1109/BIBE.2010.59","ee":"https://doi.org/10.1109/BIBE.2010.59","url":"https://dblp.org/rec/conf/bibe/DerrazTPPCB10"},
+"url":"URL#5801451"
+}
+]
+}
+}
+}

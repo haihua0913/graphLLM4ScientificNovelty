@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+holistic data-driven technique,natural-language descriptions,0.2289,1.2419
+holistic data-driven technique,videos,-0.4888,1.7256
+holistic data-driven technique,object and activity detectors,-0.0973,1.4814
+holistic data-driven technique,subject-verb-object triplet,-0.1397,1.5098
+natural-language descriptions,videos,0.0228,1.398
+natural-language descriptions,object and activity detectors,-0.3434,1.6392
+natural-language descriptions,subject-verb-object triplet,-0.3763,1.6591
+object and activity detectors,videos,-0.0008,1.4148
+subject-verb-object triplet,videos,-0.1364,1.5076
+object and activity detectors,subject-verb-object triplet,0.9696,0.2465
+holistic data-driven technique,web-scale text corpora,0.0376,1.3874
+contextual information,holistic data-driven technique,0.3845,1.1095
+activity identification,holistic data-driven technique,-0.2082,1.5545
+natural-language descriptions,web-scale text corpora,0.8931,0.4624
+contextual information,natural-language descriptions,0.4772,1.0225
+activity identification,natural-language descriptions,-0.4088,1.6786
+videos,web-scale text corpora,-0.0535,1.4515
+contextual information,videos,-0.153,1.5186
+activity identification,videos,-0.0277,1.4337
+object and activity detectors,web-scale text corpora,-0.1955,1.5463
+contextual information,object and activity detectors,0.3982,1.0971
+activity identification,object and activity detectors,0.9695,0.2472
+subject-verb-object triplet,web-scale text corpora,-0.1697,1.5295
+contextual information,subject-verb-object triplet,0.329,1.1585
+activity identification,subject-verb-object triplet,0.966,0.2607
+contextual information,web-scale text corpora,0.3359,1.1524
+activity identification,web-scale text corpora,-0.2771,1.5982
+activity identification,contextual information,0.3421,1.1471

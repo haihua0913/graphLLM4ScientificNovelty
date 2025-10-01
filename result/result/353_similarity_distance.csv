@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+Transformer-based solutions,multi-document summarization,0.9128,0.4175
+Transformer-based solutions,medical domain,-0.6959,1.8417
+medical domain,multi-document summarization,-0.8989,1.9488
+discriminative marginalized probabilistic method,multi-document summarization,-0.1839,1.5387
+multi-document summarization,topic-related medical documents,-0.2255,1.5656
+multi-document summarization,multi-document summary,-0.4186,1.6844
+discriminative marginalized probabilistic method,topic-related medical documents,-0.0947,1.4796
+discriminative marginalized probabilistic method,multi-document summary,0.1828,1.2785
+multi-document summary,topic-related medical documents,-0.146,1.514
+biomedical dataset,multi-document summarization,-0.6139,1.7966
+biomedical dataset,discriminative marginalized probabilistic method,0.0146,1.4039
+biomedical dataset,topic-related medical documents,0.2957,1.1868
+biomedical dataset,multi-document summary,-0.2074,1.554
+ablation studies,multi-document summarization,0.0222,1.3985
+ablation studies,discriminative marginalized probabilistic method,-0.0924,1.4781
+ablation studies,topic-related medical documents,0.8894,0.4704
+ablation studies,multi-document summary,-0.2165,1.5598
+ablation studies,biomedical dataset,0.247,1.2272

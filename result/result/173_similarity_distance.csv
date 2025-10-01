@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+binary codes,unsupervised,0.8283,0.5861
+binary codes,image retrieval,0.8625,0.5244
+binary codes,generative adversarial networks,0.016,1.4029
+image retrieval,unsupervised,0.9957,0.0932
+generative adversarial networks,unsupervised,-0.1929,1.5446
+generative adversarial networks,image retrieval,-0.2055,1.5528
+binary codes,sign-activation strategy,0.3594,1.1319
+binary codes,loss function,-0.276,1.5975
+adversarial loss,binary codes,-0.4554,1.7061
+image retrieval,sign-activation strategy,-0.0423,1.4438
+image retrieval,loss function,-0.1214,1.4976
+adversarial loss,image retrieval,-0.218,1.5608
+loss function,sign-activation strategy,-0.1389,1.5092
+adversarial loss,sign-activation strategy,-0.4511,1.7036
+adversarial loss,loss function,0.0662,1.3666

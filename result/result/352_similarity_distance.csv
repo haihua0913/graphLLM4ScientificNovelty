@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+knowledge distillation,transfer learning,-0.2685,1.5928
+pre-trained multilingual language models,transfer learning,-0.2648,1.5904
+knowledge distillation,pre-trained multilingual language models,0.0884,1.3503
+auxiliary tasks,knowledge distillation,-0.3365,1.6349
+auxiliary tasks,pre-trained multilingual language models,-0.4352,1.6942
+knowledge distillation,multi-task learning,-0.2552,1.5844
+knowledge distillation,similarity metric model,-0.1203,1.4968
+auxiliary tasks,multi-task learning,0.4611,1.0382
+auxiliary tasks,similarity metric model,0.6249,0.8662
+multi-task learning,similarity metric model,0.1831,1.2782
+entity recognizer,knowledge distillation,-0.5508,1.7612
+auxiliary tasks,entity recognizer,0.4964,1.0036
+entity recognizer,multi-task learning,0.6981,0.777
+entity recognizer,similarity metric model,0.4317,1.0661

@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+chemistry,neural language models,0.2784,1.2013
+molecular design,neural language models,0.3522,1.1382
+neural language models,synthesis planning,0.3633,1.1285
+data-driven automation,neural language models,0.2649,1.2125
+chemistry,molecular design,-0.181,1.5368
+chemistry,synthesis planning,-0.0563,1.4535
+chemistry,data-driven automation,-0.205,1.5524
+molecular design,synthesis planning,0.9842,0.178
+data-driven automation,molecular design,0.8166,0.6057
+data-driven automation,synthesis planning,0.7772,0.6676
+data-driven automation,unified representation,-0.4496,1.7027
+multi-domain,unified representation,-0.3459,1.6407
+multi-task,unified representation,-0.3395,1.6368
+multi-domain,multi-task,0.974,0.2279
+cross-domain tasks,multi-domain,0.944,0.3347
+cross-domain tasks,multi-task,0.9825,0.1873
+cross-domain tasks,human-model interactions,0.9339,0.3637

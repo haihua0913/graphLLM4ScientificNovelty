@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+content planner,language generation system,0.0646,1.3678
+language generation system,plans,-0.2069,1.5537
+content planner,plans,0.6586,0.8263
+language generation system,training data,-0.1001,1.4833
+language generation system,semantically annotated transcripts,0.8775,0.495
+content planner,training data,0.1532,1.3014
+content planner,semantically annotated transcripts,-0.1317,1.5045
+plans,training data,-0.0594,1.4556
+plans,semantically annotated transcripts,-0.3589,1.6486
+semantically annotated transcripts,training data,0.1579,1.2978
+spoken language,training data,0.2054,1.2606
+algorithm,training data,-0.2573,1.5857
+semantically annotated transcripts,spoken language,0.9505,0.3147
+algorithm,semantically annotated transcripts,-0.3273,1.6293
+algorithm,spoken language,-0.3959,1.6709
+accuracy,training data,0.8875,0.4743
+accuracy,semantically annotated transcripts,0.0177,1.4017
+accuracy,spoken language,0.0937,1.3463
+accuracy,algorithm,-0.0287,1.4344
+qualitative evaluation,spoken language,0.339,1.1497
+algorithm,qualitative evaluation,-0.2345,1.5713
+accuracy,qualitative evaluation,0.9223,0.3942

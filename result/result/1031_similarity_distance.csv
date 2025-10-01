@@ -1,0 +1,44 @@
+node1,node2,similarity,distance
+risk minimization,stochastic optimization,0.1132,1.3317
+convex surrogate,risk minimization,0.0793,1.357
+risk minimization,variance,0.1536,1.3011
+distributionally robust optimization,risk minimization,0.0429,1.3835
+empirical likelihood,risk minimization,0.0254,1.3961
+finite-sample,risk minimization,0.0963,1.3444
+asymptotic results,risk minimization,0.1024,1.3398
+convex surrogate,stochastic optimization,-0.1602,1.5233
+stochastic optimization,variance,0.9731,0.2319
+distributionally robust optimization,stochastic optimization,0.9764,0.2173
+empirical likelihood,stochastic optimization,0.9774,0.2128
+finite-sample,stochastic optimization,0.9907,0.1367
+asymptotic results,stochastic optimization,0.2691,1.2091
+convex surrogate,variance,0.011,1.4064
+convex surrogate,distributionally robust optimization,-0.2367,1.5727
+convex surrogate,empirical likelihood,-0.1208,1.4972
+convex surrogate,finite-sample,-0.1659,1.527
+asymptotic results,convex surrogate,-0.1564,1.5208
+distributionally robust optimization,variance,0.9347,0.3613
+empirical likelihood,variance,0.9782,0.2086
+finite-sample,variance,0.9574,0.292
+asymptotic results,variance,0.3017,1.1818
+distributionally robust optimization,empirical likelihood,0.9601,0.2825
+distributionally robust optimization,finite-sample,0.9832,0.1832
+asymptotic results,distributionally robust optimization,0.3114,1.1735
+empirical likelihood,finite-sample,0.9743,0.2268
+asymptotic results,empirical likelihood,0.2604,1.2163
+asymptotic results,finite-sample,0.195,1.2688
+empirical risk minimization,risk minimization,-0.1939,1.5452
+empirical risk minimization,stochastic optimization,-0.2592,1.587
+convex surrogate,empirical risk minimization,0.923,0.3926
+empirical risk minimization,variance,-0.098,1.4819
+distributionally robust optimization,empirical risk minimization,-0.3058,1.616
+empirical likelihood,empirical risk minimization,-0.2101,1.5557
+empirical risk minimization,finite-sample,-0.2651,1.5907
+asymptotic results,empirical risk minimization,-0.1549,1.5198
+classification problems,risk minimization,0.9625,0.2738
+classification problems,variance,0.2094,1.2575
+classification problems,distributionally robust optimization,0.0571,1.3732
+classification problems,empirical likelihood,0.0842,1.3534
+classification problems,finite-sample,0.1077,1.3359
+asymptotic results,classification problems,0.2202,1.2489
+classification problems,empirical risk minimization,-0.1648,1.5263

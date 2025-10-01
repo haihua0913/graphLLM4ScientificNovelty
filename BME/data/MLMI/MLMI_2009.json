@@ -1,0 +1,74 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/mlmi/mlmi2009.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"89.40"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"7",
+"@dc":"7",
+"@oc":"7",
+"@id":"48911310",
+"text":":facetid:toc:db/conf/mlmi/mlmi2009.bht"
+}
+},
+"hits":{
+"@total":"7",
+"@computed":"7",
+"@sent":"7",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5977257",
+"info":{"authors":{"author":[{"@pid":"c/ManuelCebrian","text":"Manuel Cebrián"},{"@pid":"94/1167","text":"Enrique Frías-Martínez"}]},"title":"Word-of-mouth algorithms: what you don&apos;t know will hurt you.","venue":"MLMI","pages":"2:1-2:4","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/CebrianF09","doi":"10.1145/1641389.1641391","ee":"https://doi.org/10.1145/1641389.1641391","url":"https://dblp.org/rec/conf/mlmi/CebrianF09"},
+"url":"URL#5977257"
+},
+{
+"@score":"1",
+"@id":"5977258",
+"info":{"authors":{"author":[{"@pid":"341/8276","text":"Iolanthe Chronis"},{"@pid":"02/3855","text":"Anmol Madan"},{"@pid":"p/AlexPentland","text":"Alex &apos;Sandy&apos; Pentland"}]},"title":"SocialCircuits: the art of using mobile phones for modeling personal interactions.","venue":"MLMI","pages":"1:1-1:4","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/ChronisMP09","doi":"10.1145/1641389.1641390","ee":"https://doi.org/10.1145/1641389.1641390","url":"https://dblp.org/rec/conf/mlmi/ChronisMP09"},
+"url":"URL#5977258"
+},
+{
+"@score":"1",
+"@id":"5977259",
+"info":{"authors":{"author":[{"@pid":"30/5468","text":"Kenji Mase"},{"@pid":"23/3012","text":"Yuichi Sawamoto"},{"@pid":"69/5374","text":"Yuichi Koyama"},{"@pid":"81/8775","text":"Tomio Suzuki"},{"@pid":"26/5321","text":"Kimiko Katsuyama"}]},"title":"Interaction pattern and motif mining method for doctor-patient multi-modal dialog analysis.","venue":"MLMI","pages":"6:1-6:4","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/MaseSKSK09","doi":"10.1145/1641389.1641395","ee":"https://doi.org/10.1145/1641389.1641395","url":"https://dblp.org/rec/conf/mlmi/MaseSKSK09"},
+"url":"URL#5977259"
+},
+{
+"@score":"1",
+"@id":"5977260",
+"info":{"authors":{"author":[{"@pid":"10/10438","text":"Tuomas Niinimäki"},{"@pid":"55/10438","text":"Arttu Piri"},{"@pid":"08/10438","text":"Peitsa Hynninen"},{"@pid":"28/3392","text":"Casper Lassenius"}]},"title":"Studying communication in agile software development: a research framework and pilot study.","venue":"MLMI","pages":"5:1-5:4","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/NiinimakiPHL09","doi":"10.1145/1641389.1641394","ee":"https://doi.org/10.1145/1641389.1641394","url":"https://dblp.org/rec/conf/mlmi/NiinimakiPHL09"},
+"url":"URL#5977260"
+},
+{
+"@score":"1",
+"@id":"5977261",
+"info":{"authors":{"author":[{"@pid":"55/7561","text":"Daniel Olguín Olguín"},{"@pid":"p/AlexPentland","text":"Alex &apos;Sandy&apos; Pentland"}]},"title":"Sensor-based organizational engineering.","venue":"MLMI","pages":"4:1-4:4","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/OlguinP09","doi":"10.1145/1641389.1641393","ee":"https://doi.org/10.1145/1641389.1641393","url":"https://dblp.org/rec/conf/mlmi/OlguinP09"},
+"url":"URL#5977261"
+},
+{
+"@score":"1",
+"@id":"5977262",
+"info":{"authors":{"author":[{"@pid":"54/8856","text":"Dairazalia Sanchez-Cortes"},{"@pid":"39/1552","text":"Dinesh Babu Jayagopi"},{"@pid":"55/1328","text":"Daniel Gatica-Perez"}]},"title":"Predicting remote versus collocated group interactions using nonverbal cues.","venue":"MLMI","pages":"3:1-3:4","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/Sanchez-CortesJ09","doi":"10.1145/1641389.1641392","ee":"https://doi.org/10.1145/1641389.1641392","url":"https://dblp.org/rec/conf/mlmi/Sanchez-CortesJ09"},
+"url":"URL#5977262"
+},
+{
+"@score":"1",
+"@id":"6012392",
+"info":{"authors":{"author":[{"@pid":"50/3289","text":"James L. Crowley"},{"@pid":"57/1440","text":"Yuri A. Ivanov"},{"@pid":"88/2285","text":"Christopher Richard Wren"},{"@pid":"55/1328","text":"Daniel Gatica-Perez"},{"@pid":"77/2529","text":"Michael Johnston"},{"@pid":"31/4699","text":"Rainer Stiefelhagen"}]},"title":"Proceedings of the ICMI-MLMI &apos;09 Workshop on Multimodal Sensor-Based Systems and Mobile Phones for Social Computing, MLMI 2009, Cambridge, Massachusetts, USA, November 6, 2009","venue":"MLMI","publisher":"ACM","year":"2009","type":"Editorship","key":"conf/mlmi/2009","doi":"10.1145/1641389","ee":"https://doi.org/10.1145/1641389","url":"https://dblp.org/rec/conf/mlmi/2009"},
+"url":"URL#6012392"
+}
+]
+}
+}
+}

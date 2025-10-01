@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+gesture recognition,multiple data modalities,0.108,1.3357
+depth video,gesture recognition,-0.1802,1.5364
+gesture recognition,speech,-0.0683,1.4617
+gesture recognition,large-scale body motion,0.0603,1.3709
+gesture recognition,hand articulation,0.1027,1.3396
+depth video,multiple data modalities,-0.0763,1.4671
+multiple data modalities,speech,-0.0787,1.4688
+large-scale body motion,multiple data modalities,-0.3036,1.6147
+hand articulation,multiple data modalities,0.1533,1.3013
+depth video,speech,-0.301,1.6131
+depth video,large-scale body motion,-0.1403,1.5102
+depth video,hand articulation,-0.3573,1.6476
+large-scale body motion,speech,-0.129,1.5027
+hand articulation,speech,0.9151,0.4121
+hand articulation,large-scale body motion,0.1024,1.3398
+large-scale body motion,spatio-temporal blocks,0.9581,0.2894
+hand articulation,spatio-temporal blocks,0.1068,1.3365
+Recurrent Neural Network,spatio-temporal blocks,0.3804,1.1132
+gesture recognition,spatio-temporal blocks,-0.1112,1.4908
+Recurrent Neural Network,gesture recognition,0.2701,1.2082
+Multimodal Gesture Recognition dataset,gesture recognition,-0.0617,1.4572
+Multimodal Gesture Recognition dataset,spatio-temporal blocks,0.0181,1.4014
+Multimodal Gesture Recognition dataset,Recurrent Neural Network,0.1906,1.2723

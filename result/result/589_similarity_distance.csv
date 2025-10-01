@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+dataset,semantic segmentation,0.4654,1.034
+dataset,instance segmentation,-0.4406,1.6974
+dataset,object detection,-0.4253,1.6884
+camera poses,dataset,0.6005,0.8939
+dataset,depth data,0.683,0.7963
+instance segmentation,semantic segmentation,-0.2211,1.5628
+object detection,semantic segmentation,-0.2045,1.5521
+camera poses,semantic segmentation,-0.2063,1.5533
+depth data,semantic segmentation,-0.0931,1.4785
+instance segmentation,object detection,0.9989,0.0458
+camera poses,instance segmentation,-0.05,1.4491
+depth data,instance segmentation,-0.133,1.5053
+camera poses,object detection,-0.0275,1.4336
+depth data,object detection,-0.1105,1.4903
+camera poses,depth data,0.9669,0.2575
+dataset,synthetic,0.2878,1.1935
+semantic segmentation,synthetic,0.4261,1.0714
+instance segmentation,synthetic,-0.1347,1.5065
+object detection,synthetic,-0.1595,1.5228
+camera poses,synthetic,-0.2387,1.574
+depth data,synthetic,-0.1372,1.5081
+ImageNet,dataset,0.7644,0.6864
+ImageNet,semantic segmentation,0.0758,1.3595
+ImageNet,camera poses,0.9071,0.431
+ImageNet,depth data,0.9539,0.3037
+ImageNet,synthetic,0.0267,1.3952
+dataset,pre-training,-0.412,1.6805
+pre-training,semantic segmentation,-0.1831,1.5383
+pre-training,synthetic,-0.1324,1.5049
+ImageNet,pre-training,-0.2387,1.574

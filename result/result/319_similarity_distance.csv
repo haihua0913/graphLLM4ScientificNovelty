@@ -1,0 +1,40 @@
+node1,node2,similarity,distance
+relational facts,triplet overlap,-0.2543,1.5839
+EntityPairOverlap,relational facts,-0.2617,1.5885
+SingleEntiyOverlap,relational facts,-0.2814,1.6008
+EntityPairOverlap,triplet overlap,0.8484,0.5506
+SingleEntiyOverlap,triplet overlap,0.7509,0.7058
+EntityPairOverlap,SingleEntiyOverlap,0.9386,0.3505
+Normal class,triplet overlap,-0.2914,1.6071
+EntityPairOverlap,Normal class,-0.2561,1.585
+Normal class,SingleEntiyOverlap,-0.2593,1.587
+Normal class,relational facts,0.9914,0.1313
+end-to-end model,relational facts,-0.0251,1.4319
+relational facts,sequence-to-sequence learning,-0.224,1.5646
+copy mechanism,relational facts,-0.2176,1.5605
+end-to-end model,triplet overlap,-0.0033,1.4166
+sequence-to-sequence learning,triplet overlap,-0.5572,1.7648
+copy mechanism,triplet overlap,-0.1807,1.5367
+Normal class,end-to-end model,-0.0969,1.4812
+Normal class,sequence-to-sequence learning,-0.1235,1.499
+Normal class,copy mechanism,-0.2296,1.5682
+EntityPairOverlap,end-to-end model,-0.1575,1.5215
+EntityPairOverlap,sequence-to-sequence learning,-0.2347,1.5714
+EntityPairOverlap,copy mechanism,-0.3043,1.6151
+SingleEntiyOverlap,end-to-end model,-0.3996,1.6731
+SingleEntiyOverlap,sequence-to-sequence learning,-0.099,1.4825
+SingleEntiyOverlap,copy mechanism,-0.4067,1.6773
+end-to-end model,sequence-to-sequence learning,-0.1643,1.526
+copy mechanism,end-to-end model,0.5222,0.9775
+copy mechanism,sequence-to-sequence learning,0.2212,1.248
+relational facts,united decoder,0.8875,0.4744
+relational facts,separated decoders,-0.424,1.6876
+Normal class,united decoder,0.8869,0.4755
+Normal class,separated decoders,-0.3845,1.664
+end-to-end model,united decoder,-0.2152,1.5589
+end-to-end model,separated decoders,-0.1189,1.4959
+sequence-to-sequence learning,united decoder,-0.3795,1.6611
+separated decoders,sequence-to-sequence learning,0.2275,1.243
+copy mechanism,united decoder,-0.2842,1.6026
+copy mechanism,separated decoders,-0.2794,1.5996
+separated decoders,united decoder,-0.2551,1.5843

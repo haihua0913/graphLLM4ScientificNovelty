@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+ACL Anthology,NLP papers,0.0497,1.3786
+Google Scholar,NLP papers,0.9569,0.2937
+NLP papers,journal articles,0.2424,1.231
+NLP papers,conference papers,0.0519,1.3771
+ACL Anthology,Google Scholar,0.2352,1.2367
+ACL Anthology,journal articles,0.1745,1.2849
+ACL Anthology,conference papers,-0.1705,1.53
+Google Scholar,journal articles,0.2809,1.1992
+Google Scholar,conference papers,0.0488,1.3793
+conference papers,journal articles,0.7249,0.7418
+anaphora resolution,sentiment classification,-0.2706,1.5941
+entity recognition,sentiment classification,-0.1495,1.5163
+citation dominance,sentiment classification,-0.1034,1.4855
+anaphora resolution,entity recognition,0.9839,0.1794
+anaphora resolution,citation dominance,0.8066,0.6219
+citation dominance,entity recognition,0.8078,0.6201
+NLP papers,sentiment classification,-0.1408,1.5105
+NLP papers,anaphora resolution,0.1866,1.2754
+NLP papers,entity recognition,0.257,1.219
+NLP papers,citation dominance,-0.0525,1.4508

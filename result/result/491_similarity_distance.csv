@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+Aerial View Object Classification,deep learning,-0.352,1.6444
+Aerial View Object Classification,optical data,-0.4966,1.7301
+Aerial View Object Classification,Synthetic Aperture Radar,-0.0555,1.4529
+deep learning,optical data,0.6812,0.7984
+Synthetic Aperture Radar,deep learning,0.531,0.9685
+Synthetic Aperture Radar,optical data,0.0031,1.4121
+Aerial View Object Classification,long-tailed distribution,-0.5123,1.7391
+deep learning,long-tailed distribution,0.7467,0.7118
+long-tailed distribution,optical data,0.9762,0.2182
+Synthetic Aperture Radar,long-tailed distribution,0.0893,1.3496
+Synthetic Aperture Radar,two-branch framework,0.6111,0.882
+long-tailed distribution,two-branch framework,0.281,1.1992
+Aerial View Object Classification,two-branch framework,-0.204,1.5518
+Aerial View Object Classification,multi-expert architecture,-0.1166,1.4944
+long-tailed distribution,multi-expert architecture,0.0831,1.3542
+multi-expert architecture,two-branch framework,0.4122,1.0843
+Aerial View Object Classification,effectiveness,-0.3719,1.6564
+Aerial View Object Classification,efficiency,-0.4131,1.6811
+effectiveness,long-tailed distribution,0.9283,0.3788
+efficiency,long-tailed distribution,0.9591,0.286
+effectiveness,two-branch framework,0.1941,1.2696
+efficiency,two-branch framework,0.3498,1.1404
+effectiveness,multi-expert architecture,-0.042,1.4436
+efficiency,multi-expert architecture,-0.0288,1.4344
+effectiveness,efficiency,0.9078,0.4293

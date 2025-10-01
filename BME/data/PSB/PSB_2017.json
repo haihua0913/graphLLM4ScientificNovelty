@@ -1,0 +1,404 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/psb/psb2017.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"107.73"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"62",
+"@dc":"62",
+"@oc":"62",
+"@id":"48916861",
+"text":":facetid:toc:db/conf/psb/psb2017.bht"
+}
+},
+"hits":{
+"@total":"62",
+"@computed":"62",
+"@sent":"62",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3785083",
+"info":{"authors":{"author":[{"@pid":"197/3650","text":"Brian D. Aevermann"},{"@pid":"154/3742","text":"Jamison M. McCorrison"},{"@pid":"145/5265","text":"Pratap Venepally"},{"@pid":"372/4191","text":"Rebecca D. Hodge"},{"@pid":"199/4862","text":"Trygve E. Bakken"},{"@pid":"59/1021","text":"Jeremy A. Miller"},{"@pid":"199/4859","text":"Mark Novotny"},{"@pid":"199/4948","text":"Danny N. Tran"},{"@pid":"199/4840","text":"Francisco Diez-Fuertes"},{"@pid":"199/4853","text":"Lena Christiansen"},{"@pid":"21/3626","text":"Fan Zhang"},{"@pid":"199/4841","text":"Frank Steemers"},{"@pid":"154/3767","text":"Roger S. Lasken"},{"@pid":"38/1489","text":"Ed S. Lein"},{"@pid":"53/3666","text":"Nicholas J. Schork"},{"@pid":"71/4512","text":"Richard H. Scheuermann"}]},"title":"Production of a Preliminary Quality Control Pipeline for Single Nuclei RNA-Seq and Its Application in the Analysis of Cell Type Diversity of Post-Mortem Human Brain Neocortex.","venue":"PSB","pages":"564-575","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/AevermannMVHBMN17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/aevermann.pdf","url":"https://dblp.org/rec/conf/psb/AevermannMVHBMN17"},
+"url":"URL#3785083"
+},
+{
+"@score":"1",
+"@id":"3785084",
+"info":{"authors":{"author":[{"@pid":"188/0646","text":"Vibhu Agarwal"},{"@pid":"s/NHShah","text":"Nigam H. Shah"}]},"title":"Learning Attributes of Disease Progression from Trajectories of Sparse Lab Values.","venue":"PSB","pages":"184-194","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/AgarwalS17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/agarwal.pdf","url":"https://dblp.org/rec/conf/psb/AgarwalS17"},
+"url":"URL#3785084"
+},
+{
+"@score":"1",
+"@id":"3785085",
+"info":{"authors":{"author":[{"@pid":"172/9357","text":"Harish Babu Arunachalam"},{"@pid":"199/4879","text":"Rashika Mishra"},{"@pid":"153/8007","text":"Bogdan Armaselu"},{"@pid":"62/5844","text":"Ovidiu Daescu"},{"@pid":"00/2833","text":"Maria Martinez"},{"@pid":"172/9390","text":"Patrick Leavey"},{"@pid":"172/9352","text":"Dinesh Rakheja"},{"@pid":"172/9399","text":"Kevin Cederberg"},{"@pid":"172/9383","text":"Anita Sengupta"},{"@pid":"199/4911","text":"Molly Ni&apos;suilleabhain"}]},"title":"Computer Aided Image Segmentation and Classification for Viable and Non-Viable Tumor Identification in Osteosarcoma.","venue":"PSB","pages":"195-206","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ArunachalamMADM17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/arunachalam.pdf","url":"https://dblp.org/rec/conf/psb/ArunachalamMADM17"},
+"url":"URL#3785085"
+},
+{
+"@score":"1",
+"@id":"3785086",
+"info":{"authors":{"author":[{"@pid":"186/9233","text":"Anna Okula Basile"},{"@pid":"72/8828","text":"Anurag Verma"},{"@pid":"199/4936","text":"Marta Byrska-Bishop"},{"@pid":"24/276","text":"Sarah A. Pendergrass"},{"@pid":"65/5385","text":"Christian Darabos"},{"@pid":"199/4799","text":"H. Lester Kirchner"}]},"title":"Session Introduction.","venue":"PSB","pages":"177-183","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BasileVBPDK17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/intro-patterns.pdf","url":"https://dblp.org/rec/conf/psb/BasileVBPDK17"},
+"url":"URL#3785086"
+},
+{
+"@score":"1",
+"@id":"3785087",
+"info":{"authors":{"author":[{"@pid":"140/6646","text":"Christopher R. Bauer"},{"@pid":"199/4793","text":"Daniel R. Lavage"},{"@pid":"93/4133","text":"John Snyder"},{"@pid":"186/5889","text":"Joseph B. Leader"},{"@pid":"159/2663","text":"J. Matthew Mahoney"},{"@pid":"24/276","text":"Sarah A. Pendergrass"}]},"title":"Opening the Door to the Large Scale Use of Clinical Lab Measures for Association Testing: Exploring Different Methods for Defining Phenotypes.","venue":"PSB","pages":"356-367","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BauerLSLMP17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/bauer.pdf","url":"https://dblp.org/rec/conf/psb/BauerLSLMP17"},
+"url":"URL#3785087"
+},
+{
+"@score":"1",
+"@id":"3785088",
+"info":{"authors":{"author":[{"@pid":"190/9844","text":"Brett K. Beaulieu-Jones"},{"@pid":"07/315","text":"Jason H. Moore"},{"@pid":"82/8699","text":"et al."}]},"title":"Missing Data Imputation in the Electronic Health Record Using Deeply Learned Autoencoders.","venue":"PSB","pages":"207-218","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Beaulieu-JonesM17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/beaulieujones.pdf","url":"https://dblp.org/rec/conf/psb/Beaulieu-JonesM17"},
+"url":"URL#3785088"
+},
+{
+"@score":"1",
+"@id":"3785089",
+"info":{"authors":{"author":[{"@pid":"45/1112","text":"Andrew Beck"},{"@pid":"182/2131","text":"Alexander Luedtke"},{"@pid":"199/4927","text":"Keli Liu"},{"@pid":"27/7109","text":"Nathan L. Tintle"}]},"title":"A Powerful Method for Including Genotype Uncertainty in Tests of Hardy-Weinberg Equilibrium.","venue":"PSB","pages":"368-379","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BeckLLT17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/beck_a.pdf","url":"https://dblp.org/rec/conf/psb/BeckLLT17"},
+"url":"URL#3785089"
+},
+{
+"@score":"1",
+"@id":"3785090",
+"info":{"authors":{"author":[{"@pid":"199/4921","text":"Mette Beck"},{"@pid":"199/4861","text":"David Westergaard"},{"@pid":"116/4531","text":"Leif Groop"},{"@pid":"83/546","text":"Søren Brunak"}]},"title":"Temporal Order of Disease Pairs Affects Subsequent Disease Trajectories: The Case of Diabetes and Sleep Apnea.","venue":"PSB","pages":"380-389","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BeckWGB17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/beck_m.pdf","url":"https://dblp.org/rec/conf/psb/BeckWGB17"},
+"url":"URL#3785090"
+},
+{
+"@score":"1",
+"@id":"3785091",
+"info":{"authors":{"author":[{"@pid":"199/4909","text":"Nathan Bowerman"},{"@pid":"27/7109","text":"Nathan L. Tintle"},{"@pid":"81/7112","text":"Matthew DeJongh"},{"@pid":"46/7103","text":"Aaron A. Best"}]},"title":"Identification and Analysis of Bacterial Genomic Metabolic Signatures.","venue":"PSB","pages":"3-14","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BowermanTDB17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/bowerman.pdf","url":"https://dblp.org/rec/conf/psb/BowermanTDB17"},
+"url":"URL#3785091"
+},
+{
+"@score":"1",
+"@id":"3785092",
+"info":{"authors":{"author":[{"@pid":"82/967","text":"Yana Bromberg"},{"@pid":"50/4342","text":"Matthew W. Hahn"},{"@pid":"93/308","text":"Predrag Radivojac"}]},"title":"Session Introduction.","venue":"PSB","pages":"1-2","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BrombergHR17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/intro-comp.pdf","url":"https://dblp.org/rec/conf/psb/BrombergHR17"},
+"url":"URL#3785092"
+},
+{
+"@score":"1",
+"@id":"3785093",
+"info":{"authors":{"author":[{"@pid":"121/1381","text":"Mengfei Cao"},{"@pid":"c/LenoreCowen","text":"Lenore J. Cowen"}]},"title":"When should we NOT transfer functional annotation between sequence paralogs?","venue":"PSB","pages":"15-26","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/CaoC17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/cao.pdf","url":"https://dblp.org/rec/conf/psb/CaoC17"},
+"url":"URL#3785093"
+},
+{
+"@score":"1",
+"@id":"3785094",
+"info":{"authors":{"author":[{"@pid":"121/1243","text":"Ariella Cohain"},{"@pid":"199/4855","text":"Aparna A. Divaraniya"},{"@pid":"199/4839","text":"Kuixi Zhu"},{"@pid":"199/4881","text":"Joseph R. Scarpa"},{"@pid":"59/3557","text":"Andrew Kasarskis"},{"@pid":"50/2644","text":"Jun Zhu"},{"@pid":"61/1290","text":"Rui Chang"},{"@pid":"47/2610","text":"Joel T. Dudley"},{"@pid":"73/6271","text":"Eric E. Schadt"}]},"title":"Exploring the Reproducibility of Probabilistic Causal Molecular Network Models&gt;.","venue":"PSB","pages":"120-131","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/CohainDZSKZCDS17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/cohain.pdf","url":"https://dblp.org/rec/conf/psb/CohainDZSKZCDS17"},
+"url":"URL#3785094"
+},
+{
+"@score":"1",
+"@id":"3785095",
+"info":{"authors":{"author":[{"@pid":"72/5301","text":"Pablo Cordero"},{"@pid":"78/4108","text":"Joshua M. Stuart"}]},"title":"Tracing Co-Regulatory Network Dynamics in Noisy, Single-Cell Transcriptome Trajectories.","venue":"PSB","pages":"576-587","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/CorderoS17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/cordero.pdf","url":"https://dblp.org/rec/conf/psb/CorderoS17"},
+"url":"URL#3785095"
+},
+{
+"@score":"1",
+"@id":"3785096",
+"info":{"authors":{"author":[{"@pid":"199/4917","text":"Padideh Danaee"},{"@pid":"184/3783","text":"Reza Ghaeini"},{"@pid":"18/3031","text":"David Hendrix"}]},"title":"A Deep Learning Approach for Cancer Detection and Relevant Gene Identification.","venue":"PSB","pages":"219-229","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/DanaeeGH17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/danaee.pdf","url":"https://dblp.org/rec/conf/psb/DanaeeGH17"},
+"url":"URL#3785096"
+},
+{
+"@score":"1",
+"@id":"3785097",
+"info":{"authors":{"author":[{"@pid":"136/2135","text":"Diana Diaz"},{"@pid":"44/9915","text":"Michele Donato"},{"@pid":"94/10786","text":"Tin Nguyen 0001"},{"@pid":"80/2440","text":"Sorin Draghici"}]},"title":"MicroRNA-Augmented Pathways (mirAP) and Their Applications to Pathway Analysis and Disease Subtyping.","venue":"PSB","pages":"390-401","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/DiazDND17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/diaz.pdf","url":"https://dblp.org/rec/conf/psb/DiazDND17"},
+"url":"URL#3785097"
+},
+{
+"@score":"1",
+"@id":"3785098",
+"info":{"authors":{"author":[{"@pid":"151/2751","text":"Arda Durmaz"},{"@pid":"133/4679","text":"Tim A. D. Henderson"},{"@pid":"184/7142","text":"Douglas Brubaker"},{"@pid":"74/1308","text":"Gürkan Bebek"}]},"title":"Frequent Subgraph Mining of Personalized Signaling Pathway Networks Groups Patients with Frequently Dysregulated Disease Pathways and Predicts Prognosis.","venue":"PSB","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/DurmazHBB17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/durmaz.pdf","url":"https://dblp.org/rec/conf/psb/DurmazHBB17"},
+"url":"URL#3785098"
+},
+{
+"@score":"1",
+"@id":"3785099",
+"info":{"authors":{"author":[{"@pid":"199/4920","text":"Kristin I. Fread"},{"@pid":"199/4944","text":"William D. Strickland"},{"@pid":"31/5532","text":"Garry P. Nolan"},{"@pid":"199/4888","text":"Eli R. Zunder"}]},"title":"An Updated Debarcoding Tool for Mass Cytometry with Cell Type-Specific and Cell Sample-Specific Stringency Adjustment.","venue":"PSB","pages":"588-598","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/FreadSNZ17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/fread.pdf","url":"https://dblp.org/rec/conf/psb/FreadSNZ17"},
+"url":"URL#3785099"
+},
+{
+"@score":"1",
+"@id":"3785100",
+"info":{"authors":{"author":[{"@pid":"199/4857","text":"Jonathan Gallion"},{"@pid":"123/5907","text":"Angela D. Wilkins"},{"@pid":"38/5190","text":"Olivier Lichtarge"}]},"title":"Human Kinases Display Mutational Hotspots at Cognate Positions Within Cancer.","venue":"PSB","pages":"414-425","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GallionWL17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/gallion.pdf","url":"https://dblp.org/rec/conf/psb/GallionWL17"},
+"url":"URL#3785100"
+},
+{
+"@score":"1",
+"@id":"3785101",
+"info":{"authors":{"author":[{"@pid":"76/5013","text":"Chen Gao"},{"@pid":"152/1884","text":"Junghi Kim"},{"@pid":"69/4450","text":"Wei Pan"}]},"title":"Adaptive testing of SNP-brain functional connectivity association via a modular network analysis.","venue":"PSB","pages":"58-69","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GaoKP17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/gao.pdf","url":"https://dblp.org/rec/conf/psb/GaoKP17"},
+"url":"URL#3785101"
+},
+{
+"@score":"1",
+"@id":"3785102",
+"info":{"authors":{"author":[{"@pid":"87/6555","text":"Lana X. Garmire"},{"@pid":"169/9770","text":"Stephen V. Gliske"},{"@pid":"199/4844","text":"Quynh C. Nguyen"},{"@pid":"35/512","text":"Jonathan H. Chen"},{"@pid":"41/412","text":"Shamim Nemati"},{"@pid":"47/707","text":"John D. Van Horn"},{"@pid":"07/315","text":"Jason H. Moore"},{"@pid":"199/4869","text":"Carol Shreffler"},{"@pid":"152/8098","text":"Michelle Dunn"}]},"title":"The Training of Next Generation Data Scientists in Biomedicine.","venue":"PSB","pages":"640-645","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GarmireGNCNHMSD17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/wkshop-training.pdf","url":"https://dblp.org/rec/conf/psb/GarmireGNCNHMSD17"},
+"url":"URL#3785102"
+},
+{
+"@score":"1",
+"@id":"3785103",
+"info":{"authors":{"author":{"@pid":"62/332","text":"Emre Guney"}},"title":"Reproducible Drug Repurposing: When Similarity Does Not Suffice.","venue":"PSB","pages":"132-143","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Guney17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/guney.pdf","url":"https://dblp.org/rec/conf/psb/Guney17"},
+"url":"URL#3785103"
+},
+{
+"@score":"1",
+"@id":"3785104",
+"info":{"authors":{"author":[{"@pid":"56/11253","text":"Winston A. Haynes"},{"@pid":"199/4946","text":"Francesco Vallania"},{"@pid":"91/4301","text":"Charles Liu"},{"@pid":"199/4942","text":"Erika Bongen"},{"@pid":"199/4897","text":"Aurelie Tomczak"},{"@pid":"199/4926","text":"Marta Andres-Terrè"},{"@pid":"199/4863","text":"Shane Lofgren"},{"@pid":"23/2386","text":"Andrew Tam"},{"@pid":"199/4943","text":"Cole A. Deisseroth"},{"@pid":"199/4425","text":"Matthew D. Li"},{"@pid":"185/8076","text":"Timothy E. Sweeney"},{"@pid":"57/2196","text":"Purvesh Khatri"}]},"title":"Empowering Multi-Cohort Gene Expression Analysis to Increase Reproducibility.","venue":"PSB","pages":"144-153","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HaynesVLBTALTDL17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/haynes.pdf","url":"https://dblp.org/rec/conf/psb/HaynesVLBTALTDL17"},
+"url":"URL#3785104"
+},
+{
+"@score":"1",
+"@id":"3785105",
+"info":{"authors":{"author":[{"@pid":"77/2036-1","text":"Dan He 0001"},{"@pid":"61/5722","text":"Laxmi Parida"}]},"title":"MUSE: A Multi-locus Sampling-based Epistasis Algorithm for Quantitative Genetic Trait Prediction.","venue":"PSB","pages":"426-437","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HeP17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/he.pdf","url":"https://dblp.org/rec/conf/psb/HeP17"},
+"url":"URL#3785105"
+},
+{
+"@score":"1",
+"@id":"3785106",
+"info":{"authors":{"author":[{"@pid":"199/4937","text":"Brittany M. Hollister"},{"@pid":"164/0430","text":"Nicole A. Restrepo"},{"@pid":"144/7963","text":"Eric Farber-Eger"},{"@pid":"63/8090","text":"Dana C. Crawford"},{"@pid":"148/4090","text":"Melinda C. Aldrich"},{"@pid":"199/4923","text":"Amy Non"}]},"title":"Development and Performance of Text-Mining Algorithms to Extract Socioeconomic Status from De-Identified Electronic Health Records.","venue":"PSB","pages":"230-241","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HollisterRFCAN17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/hollister.pdf","url":"https://dblp.org/rec/conf/psb/HollisterRFCAN17"},
+"url":"URL#3785106"
+},
+{
+"@score":"1",
+"@id":"3785107",
+"info":{"authors":{"author":[{"@pid":"290/7470","text":"Travis S. Johnson"},{"@pid":"168/7530","text":"Zachary B. Abrams"},{"@pid":"04/3348","text":"Yan Zhang"},{"@pid":"10/4151-1","text":"Kun Huang 0001"}]},"title":"Mapping Neuronal Cell Types Using Integrative Multi-Species Modeling of Human and Mouse Single Cell RNA Sequencing.","venue":"PSB","pages":"599-610","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/JohnsonAZH17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/johnson.pdf","url":"https://dblp.org/rec/conf/psb/JohnsonAZH17"},
+"url":"URL#3785107"
+},
+{
+"@score":"1",
+"@id":"3785108",
+"info":{"authors":{"author":[{"@pid":"199/4913","text":"Halla Kabat"},{"@pid":"199/4929","text":"Leo Tunkle"},{"@pid":"199/4928","text":"Inhan Lee"}]},"title":"ceRNA Search Method Identified a MET-activated Subgroup Among EGFR DNA Amplified Lung Adenocarcinoma Patients.","venue":"PSB","pages":"438-448","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KabatTL17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/kabat.pdf","url":"https://dblp.org/rec/conf/psb/KabatTL17"},
+"url":"URL#3785108"
+},
+{
+"@score":"1",
+"@id":"3785109",
+"info":{"authors":{"author":[{"@pid":"199/4858","text":"Thomas Kamp"},{"@pid":"199/4871","text":"Micah Adams"},{"@pid":"199/4885","text":"Craig Disselkoen"},{"@pid":"27/7109","text":"Nathan L. Tintle"}]},"title":"Improved Performance of Gene Set Analysis on Genome-Wide Transcriptomics Data when Using Gene Activity State Estimates.","venue":"PSB","pages":"449-460","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KampADT17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/kamp.pdf","url":"https://dblp.org/rec/conf/psb/KampADT17"},
+"url":"URL#3785109"
+},
+{
+"@score":"1",
+"@id":"3785110",
+"info":{"authors":{"author":[{"@pid":"26/9779","text":"Konrad J. Karczewski"},{"@pid":"41/8767","text":"Nicholas P. Tatonetti"},{"@pid":"42/11538","text":"Chirag J. Patel"},{"@pid":"23/7391","text":"Arjun K. Manrai"},{"@pid":"11/4436","text":"C. Titus Brown"},{"@pid":"51/72","text":"John P. A. Ioannidis"}]},"title":"Session Introduction.","venue":"PSB","pages":"117-119","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KarczewskiTPMBI17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/intro-methods.pdf","url":"https://dblp.org/rec/conf/psb/KarczewskiTPMBI17"},
+"url":"URL#3785110"
+},
+{
+"@score":"1",
+"@id":"3785111",
+"info":{"authors":{"author":[{"@pid":"164/5056","text":"Gaurav Kaushik"},{"@pid":"199/4932","text":"Sinisa Ivkovic"},{"@pid":"199/4876","text":"Janko Simonovic"},{"@pid":"199/4849","text":"Nebojsa Tijanic"},{"@pid":"199/4868","text":"Brandi Davis-Dusenbery"},{"@pid":"199/4908","text":"Deniz Kural"}]},"title":"Rabix: An Open-Source Workflow Executor Supporting Recomputability and Interoperability of Workflow Descriptions.","venue":"PSB","pages":"154-165","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KaushikISTDK17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/kaushik.pdf","url":"https://dblp.org/rec/conf/psb/KaushikISTDK17"},
+"url":"URL#3785111"
+},
+{
+"@score":"1",
+"@id":"3785112",
+"info":{"authors":{"author":[{"@pid":"199/4924","text":"Jacob M. Keaton"},{"@pid":"199/4891","text":"Jacklyn N. Hellwege"},{"@pid":"199/4930","text":"Maggie C. Y. Ng"},{"@pid":"199/4922","text":"Nicholette D. Palmer"},{"@pid":"151/5676","text":"James S. Pankow"},{"@pid":"76/7102","text":"Myriam Fornage"},{"@pid":"136/2604","text":"James G. Wilson"},{"@pid":"148/6599","text":"Adolfo Correa"},{"@pid":"88/11038","text":"Laura Rasmussen-Torvik"},{"@pid":"199/4880","text":"Jerome I. Rotter"},{"@pid":"199/4870","text":"Yii-Der Ida Chen"},{"@pid":"199/4890","text":"Kent D. Taylor"},{"@pid":"31/8712","text":"Stephen S. Rich"},{"@pid":"199/4925","text":"Lynne E. Wagenknecht"},{"@pid":"124/2320","text":"Barry I. Freedman"},{"@pid":"124/2237","text":"Donald W. Bowden"}]},"title":"Genome-Wide Interaction with Selected Type 2 Diabetes Loci Reveals Novel Loci for Type 2 Diabetes in African Americans.","venue":"PSB","pages":"242-253","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KeatonHNPPFWCRR17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/keaton.pdf","url":"https://dblp.org/rec/conf/psb/KeatonHNPPFWCRR17"},
+"url":"URL#3785112"
+},
+{
+"@score":"1",
+"@id":"3785113",
+"info":{"authors":{"author":[{"@pid":"64/3462","text":"Juho Kim"},{"@pid":"199/4895","text":"Nate Russell"},{"@pid":"29/4181-1","text":"Jian Peng 0001"}]},"title":"Scalable Visualization for High-dimensional Single-cell Data.","venue":"PSB","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KimRP17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/kim.pdf","url":"https://dblp.org/rec/conf/psb/KimRP17"},
+"url":"URL#3785113"
+},
+{
+"@score":"1",
+"@id":"3785114",
+"info":{"authors":{"author":[{"@pid":"24/2241","text":"Modest von Korff"},{"@pid":"140/9208","text":"Tobias Fink"},{"@pid":"97/5850","text":"Thomas Sander"}]},"title":"A New Relevance Estimator for the Compilation and Visualization of Disease Patterns and Potential Drug Targets.","venue":"PSB","pages":"312-323","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KorffFS17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/vonkorff.pdf","url":"https://dblp.org/rec/conf/psb/KorffFS17"},
+"url":"URL#3785114"
+},
+{
+"@score":"1",
+"@id":"3785115",
+"info":{"authors":{"author":[{"@pid":"42/2915","text":"Pei Fen Kuan"},{"@pid":"199/4884","text":"Junyan Song"},{"@pid":"199/4906","text":"Shuyao He"}]},"title":"methylDMV: Simultaneous Detection of Differential DNA Methylation and Variability with Confounder Adjustment.","venue":"PSB","pages":"461-472","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KuanSH17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/kuan.pdf","url":"https://dblp.org/rec/conf/psb/KuanSH17"},
+"url":"URL#3785115"
+},
+{
+"@score":"1",
+"@id":"3785116",
+"info":{"authors":{"author":[{"@pid":"166/1590","text":"Zhana Kuncheva"},{"@pid":"193/8402","text":"Michelle L. Krishnan"},{"@pid":"89/449","text":"Giovanni Montana"}]},"title":"Exploring Brain Transcriptomic Patterns: A Topological Analysis Using Spatial Expression Networks.","venue":"PSB","pages":"70-81","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KunchevaKM17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/kuncheva.pdf","url":"https://dblp.org/rec/conf/psb/KunchevaKM17"},
+"url":"URL#3785116"
+},
+{
+"@score":"1",
+"@id":"3785117",
+"info":{"authors":{"author":[{"@pid":"178/8538","text":"Jack Lanchantin"},{"@pid":"180/5813","text":"Ritambhara Singh"},{"@pid":"180/5592","text":"Beilun Wang"},{"@pid":"81/3848","text":"Yanjun Qi"}]},"title":"Deep Motif Dashboard: Visualizing and Understanding Genomic Sequences Using Deep Neural Networks.","venue":"PSB","pages":"254-265","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/LanchantinSWQ17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/lanchantin.pdf","url":"https://dblp.org/rec/conf/psb/LanchantinSWQ17"},
+"url":"URL#3785117"
+},
+{
+"@score":"1",
+"@id":"3785118",
+"info":{"authors":{"author":[{"@pid":"15/4248","text":"Meng Ma"},{"@pid":"147/8437","text":"Changchang Wang"},{"@pid":"164/0304","text":"Benjamin S. Glicksberg"},{"@pid":"73/6271","text":"Eric E. Schadt"},{"@pid":"99/4247","text":"Shuyu Dan Li"},{"@pid":"22/6904-6","text":"Rong Chen 0006"}]},"title":"Identify Cancer Driver Genes Through Shared Mendelian Disease Pathogenic Variants and Cancer Somatic Mutations.","venue":"PSB","pages":"473-484","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MaWGSLC17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/ma.pdf","url":"https://dblp.org/rec/conf/psb/MaWGSLC17"},
+"url":"URL#3785118"
+},
+{
+"@score":"1",
+"@id":"3785119",
+"info":{"authors":{"author":[{"@pid":"07/315","text":"Jason H. Moore"},{"@pid":"58/5267","text":"Steven F. Jennings"},{"@pid":"69/5821","text":"Casey S. Greene"},{"@pid":"h/LawrenceHunter","text":"Lawrence E. Hunter"},{"@pid":"73/1342","text":"Andy D. Perkins"},{"@pid":"24/7064","text":"ClarLynda R. Williams-DeVane"},{"@pid":"w/DCWunsch","text":"Donald C. Wunsch"},{"@pid":"11/4656","text":"Zhongming Zhao"},{"@pid":"52/6518","text":"Xiuzhen Huang"}]},"title":"No-Boundary Thinking in Bioinformatics.","venue":"PSB","pages":"646-648","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MooreJGHPWWZH17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/wkshop-noboundary.pdf","url":"https://dblp.org/rec/conf/psb/MooreJGHPWWZH17"},
+"url":"URL#3785119"
+},
+{
+"@score":"1",
+"@id":"3785120",
+"info":{"authors":{"author":[{"@pid":"31/4175","text":"Alexander A. Morgan"},{"@pid":"63/8090","text":"Dana C. Crawford"},{"@pid":"41/7339","text":"Joshua C. Denny"},{"@pid":"03/1985","text":"Sean D. Mooney"},{"@pid":"34/4130","text":"Bruce J. Aronow"},{"@pid":"57/3260","text":"Steven E. Brenner"}]},"title":"Session Introduction.","venue":"PSB","pages":"348-355","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MorganCDMAB17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/intro-precmed.pdf","url":"https://dblp.org/rec/conf/psb/MorganCDMAB17"},
+"url":"URL#3785120"
+},
+{
+"@score":"1",
+"@id":"3785121",
+"info":{"authors":{"author":[{"@pid":"96/6655","text":"Philip R. O. Payne"},{"@pid":"10/4151-1","text":"Kun Huang 0001"},{"@pid":"s/NHShah","text":"Nigam H. Shah"},{"@pid":"35/6512","text":"Jessica D. Tenenbaum"}]},"title":"Open Data for Discovery Science.","venue":"PSB","pages":"649-652","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PayneHST17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/wkshop-opendata.pdf","url":"https://dblp.org/rec/conf/psb/PayneHST17"},
+"url":"URL#3785121"
+},
+{
+"@score":"1",
+"@id":"3785122",
+"info":{"authors":{"author":[{"@pid":"72/8248","text":"Nikolay Samusik"},{"@pid":"51/4668","text":"Nima Aghaeepour"},{"@pid":"199/4899","text":"Sean Bendall"}]},"title":"Session Introduction.","venue":"PSB","pages":"557-563","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SamusikAB17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/intro-single.pdf","url":"https://dblp.org/rec/conf/psb/SamusikAB17"},
+"url":"URL#3785122"
+},
+{
+"@score":"1",
+"@id":"3785123",
+"info":{"authors":{"author":[{"@pid":"161/4080","text":"André Schultz"},{"@pid":"169/7366","text":"Sanket Mehta"},{"@pid":"159/6866","text":"Chenyue W. Hu"},{"@pid":"199/4896","text":"Fieke W. Hoff"},{"@pid":"199/4852","text":"Terzah M. Horton"},{"@pid":"61/7066","text":"Steven M. Kornblau"},{"@pid":"65/8766","text":"Amina A. Qutub"}]},"title":"Identifying Cancer Specific Metabolic Signatures Using Constraint-Based Models.","venue":"PSB","pages":"485-496","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SchultzMHHHKQ17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/schultz.pdf","url":"https://dblp.org/rec/conf/psb/SchultzMHHHKQ17"},
+"url":"URL#3785123"
+},
+{
+"@score":"1",
+"@id":"3785124",
+"info":{"authors":{"author":[{"@pid":"199/4843","text":"Madeleine Scott"},{"@pid":"199/4946","text":"Francesco Vallania"},{"@pid":"57/2196","text":"Purvesh Khatri"}]},"title":"Meta-Analysis of Continuous Phenotypes Identifies a Gene Signature that Correlates with COPD Disease Status.","venue":"PSB","pages":"266-275","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ScottVK17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/scott.pdf","url":"https://dblp.org/rec/conf/psb/ScottVK17"},
+"url":"URL#3785124"
+},
+{
+"@score":"1",
+"@id":"3785125",
+"info":{"authors":{"author":[{"@pid":"17/6668","text":"Khader Shameer"},{"@pid":"199/4919","text":"Kipp W. Johnson"},{"@pid":"160/4275","text":"Alexandre Yahi"},{"@pid":"67/5504","text":"Riccardo Miotto"},{"@pid":"53/2189-62","text":"Li Li 0062"},{"@pid":"199/4889","text":"Doran Ricks"},{"@pid":"199/4894","text":"Jebakumar Jebakaran"},{"@pid":"360/5482","text":"Patricia H. Kovatch"},{"@pid":"60/11378","text":"Partho P. Sengupta"},{"@pid":"150/0491","text":"Annetine Gelijns"},{"@pid":"199/4903","text":"Alan Moskovitz"},{"@pid":"199/4887","text":"Bruce Darrow"},{"@pid":"16/6052","text":"David L. Reich"},{"@pid":"59/3557","text":"Andrew Kasarskis"},{"@pid":"41/8767","text":"Nicholas P. Tatonetti"},{"@pid":"01/4969","text":"Deborah F. Pinney"},{"@pid":"47/2610","text":"Joel T. Dudley"}]},"title":"Predictive Modeling of Hospital Readmission Rates Using Electronic Medical Record-Wide Machine Learning: A Case-Study Using Mount Sinai Heart Failure Cohort.","venue":"PSB","pages":"276-287","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ShameerJYMLRJKS17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/shameer.pdf","url":"https://dblp.org/rec/conf/psb/ShameerJYMLRJKS17"},
+"url":"URL#3785125"
+},
+{
+"@score":"1",
+"@id":"3785126",
+"info":{"authors":{"author":[{"@pid":"s/LiShen","text":"Li Shen 0001"},{"@pid":"89/9774","text":"Lee A. D. Cooper"}]},"title":"Session Introduction.","venue":"PSB","pages":"51-57","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ShenC17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/intro-imaging.pdf","url":"https://dblp.org/rec/conf/psb/ShenC17"},
+"url":"URL#3785126"
+},
+{
+"@score":"1",
+"@id":"3785127",
+"info":{"authors":{"author":[{"@pid":"199/4823","text":"Gil Speyer"},{"@pid":"199/4934","text":"Divya Mahendra"},{"@pid":"199/4866","text":"Hai J. Tran"},{"@pid":"124/3367","text":"Jeff Kiefer"},{"@pid":"28/6328","text":"Stuart L. Schreiber"},{"@pid":"59/4571","text":"Paul A. Clemons"},{"@pid":"199/4792","text":"Harshil Dhruv"},{"@pid":"54/918","text":"Michael E. Berens"},{"@pid":"50/5553","text":"Seungchan Kim"}]},"title":"Differential Pathway Dependency Discovery Associated with Drug Response across Cancer Cell Lines.","venue":"PSB","pages":"497-508","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SpeyerMTKSCDBK17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/speyer.pdf","url":"https://dblp.org/rec/conf/psb/SpeyerMTKSCDBK17"},
+"url":"URL#3785127"
+},
+{
+"@score":"1",
+"@id":"3785128",
+"info":{"authors":{"author":[{"@pid":"79/11438-1","text":"Ana Stanescu 0001"},{"@pid":"23/3937-7","text":"Gaurav Pandey 0007"}]},"title":"Learning Parsimonious Ensembles for Unbalanced Computational Genomics Problems.","venue":"PSB","pages":"288-299","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/StanescuP17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/stanescu.pdf","url":"https://dblp.org/rec/conf/psb/StanescuP17"},
+"url":"URL#3785128"
+},
+{
+"@score":"1",
+"@id":"3785129",
+"info":{"authors":{"author":[{"@pid":"63/10785","text":"Jeffrey A. Thompson"},{"@pid":"91/5402","text":"Carmen J. Marsit"}]},"title":"A Methylation-to-Expression Feature Model for Generating Accurate Prognostic Risk Scores and Identifying Disease Targets in Clear Cell Kidney Cancer.","venue":"PSB","pages":"509-520","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ThompsonM17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/thompson.pdf","url":"https://dblp.org/rec/conf/psb/ThompsonM17"},
+"url":"URL#3785129"
+},
+{
+"@score":"1",
+"@id":"3785130",
+"info":{"authors":{"author":[{"@pid":"141/4597","text":"Nicole L. Tignor"},{"@pid":"83/4555","text":"Pei Wang"},{"@pid":"146/7705","text":"Nicholas Genes"},{"@pid":"199/4904","text":"Linda Rogers"},{"@pid":"199/4882","text":"Steven G. Hershman"},{"@pid":"199/4848","text":"Erick R. Scott"},{"@pid":"199/4914","text":"Micol Zweig"},{"@pid":"199/4893","text":"Yu-Feng Yvonne Chan"},{"@pid":"73/6271","text":"Eric E. Schadt"}]},"title":"Methods for Clustering Time Series Data Acquired from Mobile Health Apps.","venue":"PSB","pages":"300-323","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/TignorWGRHSZCS17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/tignor.pdf","url":"https://dblp.org/rec/conf/psb/TignorWGRHSZCS17"},
+"url":"URL#3785130"
+},
+{
+"@score":"1",
+"@id":"3785131",
+"info":{"authors":{"author":[{"@pid":"199/4865","text":"Guhan Ram Venkataraman"},{"@pid":"199/4867","text":"Chloe O&apos;Connell"},{"@pid":"199/4939","text":"Fumiko Egawa"},{"@pid":"24/9780","text":"Dorna Kashef Haghighi"},{"@pid":"67/2444","text":"Dennis P. Wall"}]},"title":"De Novo Mutations in Autism Implicate the Synaptic Elimination Network.","venue":"PSB","pages":"521-532","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/VenkataramanOEH17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/venkataraman.pdf","url":"https://dblp.org/rec/conf/psb/VenkataramanOEH17"},
+"url":"URL#3785131"
+},
+{
+"@score":"1",
+"@id":"3785132",
+"info":{"authors":{"author":[{"@pid":"154/7763","text":"Shefali S. Verma"},{"@pid":"199/4772","text":"Anastasia Lucas"},{"@pid":"199/4793","text":"Daniel R. Lavage"},{"@pid":"186/5889","text":"Joseph B. Leader"},{"@pid":"124/0986","text":"Raghu Metpally"},{"@pid":"199/4892","text":"Sarathbabu Krishnamurthy"},{"@pid":"173/1930","text":"Frederick E. Dewey"},{"@pid":"97/4939","text":"Ingrid B. Borecki"},{"@pid":"173/1956","text":"Alexander E. Lopez"},{"@pid":"173/1950","text":"John D. Overton"},{"@pid":"197/9667","text":"John Penn"},{"@pid":"07/8111","text":"Jeffrey G. Reid"},{"@pid":"24/276","text":"Sarah A. Pendergrass"},{"@pid":"199/4945","text":"Gerda Breitwieser"},{"@pid":"65/714","text":"Marylyn D. Ritchie"}]},"title":"Identifying Genetic Associations with Variability in Metabolic Health and Blood Count Laboratory Values: Diving into the Quantitative Traits by Leveraging Longitudinal Data from an EHR.","venue":"PSB","pages":"533-544","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/VermaLLLMKDBLOP17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/verma.pdf","url":"https://dblp.org/rec/conf/psb/VermaLLLMKDBLOP17"},
+"url":"URL#3785132"
+},
+{
+"@score":"1",
+"@id":"3785133",
+"info":{"authors":{"author":[{"@pid":"85/1868-1","text":"Sheng Wang 0001"},{"@pid":"14/8543","text":"Meng Qu"},{"@pid":"29/4181-1","text":"Jian Peng 0001"}]},"title":"ProSNet: integrating homology with molecular networks for protein function prediction.","venue":"PSB","pages":"27-38","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WangQ017","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/wang_s.pdf","url":"https://dblp.org/rec/conf/psb/WangQ017"},
+"url":"URL#3785133"
+},
+{
+"@score":"1",
+"@id":"3785134",
+"info":{"authors":{"author":[{"@pid":"188/7759-81","text":"Chao Wang 0081"},{"@pid":"31/1210","text":"Hai Su"},{"@pid":"20/2970-2","text":"Lin Yang 0002"},{"@pid":"10/4151-1","text":"Kun Huang 0001"}]},"title":"Integrative Analysis for Lung Adenocarcinoma Predicts Morphological Features Associated with Genetic Variations.","venue":"PSB","pages":"82-93","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WangSYH17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/wang_c.pdf","url":"https://dblp.org/rec/conf/psb/WangSYH17"},
+"url":"URL#3785134"
+},
+{
+"@score":"1",
+"@id":"3785135",
+"info":{"authors":{"author":[{"@pid":"199/4837","text":"Kathleen Whiting"},{"@pid":"199/4949","text":"Larry Y. Liu"},{"@pid":"08/5667","text":"Mehmet Koyutürk"},{"@pid":"199/4902","text":"Gunnur Karakurt"}]},"title":"Network Map of Adverse Health Effects Among Victims of Intimate Partner Violence.","venue":"PSB","pages":"324-335","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WhitingLKK17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/whiting.pdf","url":"https://dblp.org/rec/conf/psb/WhitingLKK17"},
+"url":"URL#3785135"
+},
+{
+"@score":"1",
+"@id":"3785136",
+"info":{"authors":{"author":[{"@pid":"131/4634","text":"Laura K. Wiley"},{"@pid":"148/6010","text":"Jacob P. VanHouten"},{"@pid":"199/4916","text":"David Samuels"},{"@pid":"148/4090","text":"Melinda Aldrich"},{"@pid":"47/5181","text":"Dan M. Roden"},{"@pid":"07/7342","text":"Josh F. Peterson"},{"@pid":"41/7339","text":"Joshua C. Denny"}]},"title":"Strategies for Equitable Pharmacogenomic-Guided Warfarin Dosing Among European and African American Individuals in a Clinical Population.","venue":"PSB","pages":"545-556","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WileyVSARPD17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/wiley.pdf","url":"https://dblp.org/rec/conf/psb/WileyVSARPD17"},
+"url":"URL#3785136"
+},
+{
+"@score":"1",
+"@id":"3785137",
+"info":{"authors":{"author":[{"@pid":"47/7309","text":"Stephen J. Wilson"},{"@pid":"123/5907","text":"Angela D. Wilkins"},{"@pid":"199/4898","text":"Chih-Hsu Lin"},{"@pid":"78/8886","text":"Rhonald C. Lua"},{"@pid":"38/5190","text":"Olivier Lichtarge"}]},"title":"Discovery of Functional and Disease Pathways by Community Detection in Protein-Protein Interaction Networks.","venue":"PSB","pages":"336-347","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WilsonWLLL17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/wilson.pdf","url":"https://dblp.org/rec/conf/psb/WilsonWLLL17"},
+"url":"URL#3785137"
+},
+{
+"@score":"1",
+"@id":"3785138",
+"info":{"authors":{"author":[{"@pid":"199/4886","text":"Kimberly R. Kanigel Winner"},{"@pid":"10/4448","text":"James C. Costello"}]},"title":"A Spatiotemporal Model to Simulate Chemotherapy Regimens for Heterogeneous Bladder Cancer Metastases to the Lung.","venue":"PSB","pages":"611-622","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WinnerC17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/kanigelwinner.pdf","url":"https://dblp.org/rec/conf/psb/WinnerC17"},
+"url":"URL#3785138"
+},
+{
+"@score":"1",
+"@id":"3785139",
+"info":{"authors":{"author":[{"@pid":"199/4907","text":"Christian Wiwie"},{"@pid":"24/11044","text":"Richard Röttger"}]},"title":"On the power and limits of sequence similarity based clustering of proteins into families.","venue":"PSB","pages":"39-50","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WiwieR17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/wiwie.pdf","url":"https://dblp.org/rec/conf/psb/WiwieR17"},
+"url":"URL#3785139"
+},
+{
+"@score":"1",
+"@id":"3785140",
+"info":{"authors":{"author":[{"@pid":"89/10538","text":"Jingwen Yan"},{"@pid":"44/8526","text":"Shannon L. Risacher"},{"@pid":"51/8526","text":"Kwangsik Nho"},{"@pid":"32/2887","text":"Andrew J. Saykin"},{"@pid":"s/LiShen","text":"Li Shen 0001"}]},"title":"Identification of Discriminative Imaging Proteomics Associations in Alzheimer&apos;s Disease via a Novel Sparse Correlation Model&gt;.","venue":"PSB","pages":"94-104","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/YanRNSS17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/yan.pdf","url":"https://dblp.org/rec/conf/psb/YanRNSS17"},
+"url":"URL#3785140"
+},
+{
+"@score":"1",
+"@id":"3785141",
+"info":{"authors":{"author":[{"@pid":"72/8479","text":"Shan Yang"},{"@pid":"43/6526","text":"Melissa S. Cline"},{"@pid":"35/1714","text":"Can Zhang"},{"@pid":"83/7067","text":"Benedict Paten"},{"@pid":"199/4846","text":"Stephen E. Lincoln"}]},"title":"Data Sharing and Reproducible Clinical Genetic Testing: Successes and Challenges.","venue":"PSB","pages":"166-176","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/YangCZPL17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/yang.pdf","url":"https://dblp.org/rec/conf/psb/YangCZPL17"},
+"url":"URL#3785141"
+},
+{
+"@score":"1",
+"@id":"3785142",
+"info":{"authors":{"author":[{"@pid":"148/5947","text":"Kun-Hsing Yu"},{"@pid":"142/9575","text":"Steven N. Hart"},{"@pid":"191/9289","text":"Rachel L. Goldfeder"},{"@pid":"81/11250","text":"Qiangfeng Cliff Zhang"},{"@pid":"157/4171","text":"Stephen C. J. Parker"},{"@pid":"50/5034","text":"Michael Snyder 0001"}]},"title":"Harnessing Big Data for Precision Medicine: Infrastructures and Applications.","venue":"PSB","pages":"635-639","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/YuHGZPS17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/wkshop-harnessing.pdf","url":"https://dblp.org/rec/conf/psb/YuHGZPS17"},
+"url":"URL#3785142"
+},
+{
+"@score":"1",
+"@id":"3785143",
+"info":{"authors":{"author":[{"@pid":"29/11432","text":"Pascal Zille"},{"@pid":"48/3821","text":"Vince D. Calhoun"},{"@pid":"29/3814-2","text":"Yu-Ping Wang 0002"}]},"title":"Enforcing Co-expression in Multimodal Regression Framework.","venue":"PSB","pages":"96-107","year":"2017","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ZilleCW17","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/zille.pdf","url":"https://dblp.org/rec/conf/psb/ZilleCW17"},
+"url":"URL#3785143"
+},
+{
+"@score":"1",
+"@id":"3818090",
+"info":{"authors":{"author":[{"@pid":"47/2081","text":"Russ B. Altman"},{"@pid":"53/20","text":"A. Keith Dunker"},{"@pid":"h/LawrenceHunter","text":"Lawrence Hunter"},{"@pid":"65/714","text":"Marylyn D. Ritchie"},{"@pid":"k/TeriEKlein","text":"Teri E. Klein"}]},"title":"Biocomputing 2017: Proceedings of the Pacific Symposium, Kohala Coast, Hawaii, USA, January 3-7, 2017","venue":"Pacific Symposium on Biocomputing","year":"2017","type":"Editorship","key":"conf/psb/2017","ee":"http://psb.stanford.edu/psb-online/proceedings/psb17/","url":"https://dblp.org/rec/conf/psb/2017"},
+"url":"URL#3818090"
+}
+]
+}
+}
+}

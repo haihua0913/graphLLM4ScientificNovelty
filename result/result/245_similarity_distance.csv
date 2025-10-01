@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+statistical machine translation,target dependency language model,-0.0086,1.4203
+long distance word relations,statistical machine translation,-0.1357,1.5071
+n-gram language model,statistical machine translation,-0.1167,1.4944
+long distance word relations,target dependency language model,-0.0678,1.4613
+n-gram language model,target dependency language model,0.9381,0.3519
+long distance word relations,n-gram language model,0.0452,1.3819
+BLEU,statistical machine translation,-0.0514,1.4501
+TER,statistical machine translation,-0.0334,1.4376
+NIST 04 Chinese-English evaluation set,statistical machine translation,-0.2547,1.5841
+BLEU,target dependency language model,-0.0975,1.4816
+TER,target dependency language model,-0.1583,1.522
+NIST 04 Chinese-English evaluation set,target dependency language model,-0.4156,1.6826
+BLEU,long distance word relations,-0.2955,1.6097
+TER,long distance word relations,-0.2125,1.5572
+NIST 04 Chinese-English evaluation set,long distance word relations,0.8954,0.4574
+BLEU,n-gram language model,-0.0476,1.4475
+TER,n-gram language model,-0.1237,1.4992
+NIST 04 Chinese-English evaluation set,n-gram language model,-0.3073,1.617
+BLEU,TER,0.9898,0.1426
+BLEU,NIST 04 Chinese-English evaluation set,-0.1232,1.4988
+NIST 04 Chinese-English evaluation set,TER,-0.0162,1.4256

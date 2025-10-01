@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+geological prediction,spatially distributed measurements,-0.2211,1.5627
+3D geological models,geological prediction,0.9269,0.3824
+3D geological models,spatially distributed measurements,-0.1633,1.5253
+geological prediction,measurement-while-drilling,0.2364,1.2358
+measurement-while-drilling,spatially distributed measurements,0.3097,1.175
+3D geological models,measurement-while-drilling,0.2805,1.1996
+3D geological models,spatial relationships,-0.2301,1.5685
+measurement-while-drilling,spatial relationships,-0.1743,1.5325
+conditional random field,measurement-while-drilling,-0.1205,1.497
+boosted decision trees,measurement-while-drilling,0.0761,1.3593
+conditional random field,spatial relationships,-0.1767,1.5341
+boosted decision trees,spatial relationships,0.0222,1.3984
+boosted decision trees,conditional random field,0.8791,0.4917
+approximate inference,classification performance,0.3109,1.1739

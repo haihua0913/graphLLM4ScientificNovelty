@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+correlated objectives,multi-objective problems,0.8311,0.5812
+multi-objective problems,reinforcement learning,0.0605,1.3708
+multi-objective problems,reward shaping functions,0.734,0.7294
+reinforcement learning,reward shaping functions,-0.1603,1.5234
+adaptive objective selection,reinforcement learning,-0.2043,1.552
+adaptive objective selection,reward shaping functions,-0.3353,1.6342
+reinforcement learning,temporal difference learner,-0.1039,1.4858
+reward shaping functions,temporal difference learner,-0.0487,1.4483
+adaptive objective selection,temporal difference learner,-0.1346,1.5064
+confidence metric,reinforcement learning,-0.2234,1.5642
+action selection,reinforcement learning,0.009,1.4078
+adaptive objective selection,confidence metric,0.9939,0.1107
+action selection,adaptive objective selection,-0.2018,1.5504
+confidence metric,temporal difference learner,-0.1259,1.5006
+action selection,temporal difference learner,-0.1777,1.5348
+action selection,confidence metric,-0.1269,1.5013

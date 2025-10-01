@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+diversifying,latent variable models,-0.1439,1.5125
+Bayesian learning,latent variable models,0.9671,0.2564
+Bayesian learning,diversifying,-0.0568,1.4539
+Bayesian learning,diversity-promoting mutual angular prior,0.0249,1.3965
+MCMC sampling,diversity-promoting mutual angular prior,0.0815,1.3554
+diversity-promoting mutual angular prior,post-data distribution,-0.1472,1.5147
+MCMC sampling,post-data distribution,-0.0228,1.4302
+Bayesian nonparametric models,MCMC sampling,0.0601,1.3711
+Bayesian nonparametric models,post-data distribution,-0.3431,1.6389
+post-data distribution,slice sampling,0.1743,1.2851
+Hamiltonian Monte Carlo,post-data distribution,0.2705,1.2079
+Bayesian nonparametric models,slice sampling,0.1922,1.271
+Bayesian nonparametric models,Hamiltonian Monte Carlo,-0.0295,1.4349
+Hamiltonian Monte Carlo,slice sampling,-0.1406,1.5103

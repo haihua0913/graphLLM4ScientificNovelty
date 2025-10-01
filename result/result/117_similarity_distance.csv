@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+annotated Semantic Web data,annotated language,0.9772,0.2134
+annotated Semantic Web data,deductive system,0.4155,1.0812
+annotated Semantic Web data,query answering problem,0.9165,0.4086
+RDF annotations,annotated Semantic Web data,0.972,0.2365
+annotated Semantic Web data,reasoning formalism,0.9448,0.3322
+annotated language,deductive system,0.3929,1.1019
+annotated language,query answering problem,0.8998,0.4478
+RDF annotations,annotated language,0.9579,0.2901
+annotated language,reasoning formalism,0.9231,0.3921
+deductive system,query answering problem,0.7017,0.7724
+RDF annotations,deductive system,0.5004,0.9996
+deductive system,reasoning formalism,0.5198,0.98
+RDF annotations,query answering problem,0.936,0.3577
+query answering problem,reasoning formalism,0.9464,0.3275
+RDF annotations,reasoning formalism,0.9604,0.2816
+annotated Semantic Web data,temporal RDF,-0.2469,1.5792
+annotated Semantic Web data,fuzzy RDF,-0.1566,1.5209
+annotated language,temporal RDF,-0.1403,1.5102
+annotated language,fuzzy RDF,-0.1454,1.5136
+deductive system,temporal RDF,-0.6668,1.8258
+deductive system,fuzzy RDF,0.3247,1.1621
+query answering problem,temporal RDF,-0.5153,1.7408
+fuzzy RDF,query answering problem,-0.0049,1.4177
+RDF annotations,temporal RDF,-0.3015,1.6134
+RDF annotations,fuzzy RDF,0.0482,1.3797
+reasoning formalism,temporal RDF,-0.3936,1.6695
+fuzzy RDF,reasoning formalism,-0.0985,1.4822
+fuzzy RDF,temporal RDF,-0.1075,1.4883

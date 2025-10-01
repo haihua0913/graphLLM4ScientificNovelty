@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+Graph Neural Network,branch-and-bound,-0.0808,1.4702
+Graph Neural Network,Mixed Integer Linear Programming,-0.3583,1.6482
+CPU,Graph Neural Network,-0.0448,1.4455
+Graph Neural Network,inference,-0.2048,1.5523
+Mixed Integer Linear Programming,branch-and-bound,-0.2142,1.5583
+CPU,branch-and-bound,-0.1001,1.4833
+branch-and-bound,inference,0.0733,1.3614
+CPU,Mixed Integer Linear Programming,-0.0094,1.4209
+Mixed Integer Linear Programming,inference,0.0226,1.3981
+CPU,inference,-0.1447,1.5131
+CPU,hybrid architecture,-0.0868,1.4743
+CPU,multi-layer perceptrons,-0.3987,1.6726
+hybrid architecture,multi-layer perceptrons,0.0842,1.3534
+CPU,solver running time,-0.1281,1.5021
+CPU,MILP problems,0.1242,1.3235
+hybrid architecture,solver running time,0.716,0.7537
+MILP problems,hybrid architecture,0.797,0.6372
+multi-layer perceptrons,solver running time,0.1082,1.3355
+MILP problems,multi-layer perceptrons,-0.4557,1.7063
+MILP problems,solver running time,0.6996,0.7751

@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+noisy pairwise comparisons,parallel batches,-0.212,1.5569
+Condorcet winner,parallel batches,0.5974,0.8974
+parallel batches,strong stochastic transitivity,0.3873,1.107
+parallel batches,stochastic triangle inequality,0.4146,1.082
+Condorcet winner,strong stochastic transitivity,-0.1311,1.504
+Condorcet winner,stochastic triangle inequality,-0.0529,1.4512
+stochastic triangle inequality,strong stochastic transitivity,0.9909,0.1346
+Condorcet winner,regret bounds,-0.0133,1.4236
+Condorcet winner,sequential regret bounds,-0.1181,1.4954
+regret bounds,strong stochastic transitivity,-0.1491,1.516
+sequential regret bounds,strong stochastic transitivity,0.0308,1.3923
+regret bounds,stochastic triangle inequality,-0.1428,1.5118
+sequential regret bounds,stochastic triangle inequality,-0.0016,1.4154
+regret bounds,sequential regret bounds,-0.0629,1.458

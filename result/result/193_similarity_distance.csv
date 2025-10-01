@@ -1,0 +1,13 @@
+node1,node2,similarity,distance
+PU learning,Predictive Adversarial Networks,-0.0279,1.4338
+GAN,PU learning,0.98,0.1999
+PU learning,unlabeled examples,-0.1441,1.5127
+GAN,Predictive Adversarial Networks,0.0483,1.3797
+Predictive Adversarial Networks,unlabeled examples,0.2218,1.2475
+GAN,unlabeled examples,-0.1498,1.5165
+PU learning,discriminator,-0.3192,1.6243
+Predictive Adversarial Networks,discriminator,-0.1259,1.5006
+GAN,discriminator,-0.3408,1.6376
+discriminator,unlabeled examples,-0.3887,1.6666
+PU learning,objective function,-0.2057,1.5529
+GAN,objective function,-0.2162,1.5596

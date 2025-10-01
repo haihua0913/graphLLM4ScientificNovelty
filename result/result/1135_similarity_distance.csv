@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+N:M network sparsity,high sparsity,-0.2234,1.5643
+N:M network sparsity,NVIDIA A100 GPUs,-0.187,1.5408
+NVIDIA A100 GPUs,high sparsity,-0.1053,1.4868
+NVIDIA A100 GPUs,combinatorial problem,-0.1628,1.525
+combinatorial problem,divide-and-conquer,-0.0272,1.4333
+combinatorial problem,weight vector,0.0028,1.4122
+combination subsets,combinatorial problem,-0.2063,1.5533
+divide-and-conquer,weight vector,-0.0689,1.4621
+combination subsets,divide-and-conquer,0.0903,1.3489
+combination subsets,weight vector,-0.153,1.5186
+N:M fine-grained sparsity,combinatorial problem,0.2181,1.2505
+N:M fine-grained sparsity,weight vector,-0.1322,1.5048
+N:M fine-grained sparsity,combination subsets,0.0401,1.3856
+combination subsets,learning best combination,-0.047,1.4471
+N:M fine-grained sparsity,learning best combination,0.9529,0.3069

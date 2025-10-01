@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+MM,bidirectional heuristic search,-0.141,1.5106
+MM,meet in the middle,0.2741,1.2049
+MM,solution midpoint,0.1171,1.3288
+bidirectional heuristic search,meet in the middle,-0.1699,1.5296
+bidirectional heuristic search,solution midpoint,-0.165,1.5265
+meet in the middle,solution midpoint,0.8752,0.4995
+MM,brute-force search,0.7719,0.6754
+bidirectional heuristic search,brute-force search,-0.2294,1.5681
+brute-force search,meet in the middle,0.2536,1.2218
+brute-force search,solution midpoint,0.1306,1.3186
+MM,experimental results,0.4409,1.0574
+MM,theoretical analysis,-0.0537,1.4517
+experimental results,solution midpoint,0.0845,1.3531
+solution midpoint,theoretical analysis,0.4364,1.0617
+brute-force search,experimental results,-0.0162,1.4257
+brute-force search,theoretical analysis,0.3466,1.1432
+experimental results,theoretical analysis,-0.1787,1.5354

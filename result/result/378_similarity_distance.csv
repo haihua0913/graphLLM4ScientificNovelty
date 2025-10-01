@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+first-order methods,pruning,-0.0051,1.4178
+pruning,sparsity,-0.1087,1.4891
+first-order methods,sparsity,0.9375,0.3535
+movement pruning,pruning,0.0539,1.3756
+fine-tuning,pruning,-0.034,1.438
+first-order methods,movement pruning,0.9748,0.2244
+fine-tuning,first-order methods,-0.269,1.5931
+fine-tuning,movement pruning,-0.1859,1.5401
+movement pruning,sparsity,0.9451,0.3315
+fine-tuning,sparsity,-0.2397,1.5746
+Static Model Pruning,pruning,-0.338,1.6358
+Static Model Pruning,movement pruning,-0.0155,1.4251
+Static Model Pruning,fine-tuning,-0.0269,1.4331
+Static Model Pruning,sparsity,-0.0585,1.455
+masking function,pruning,-0.3506,1.6436
+pruning,training objective,-0.0721,1.4643
+fine-tuning,masking function,-0.0627,1.4579
+fine-tuning,training objective,-0.1893,1.5422
+Static Model Pruning,masking function,0.8834,0.4829
+Static Model Pruning,training objective,0.0245,1.3968
+masking function,sparsity,-0.0055,1.4181
+sparsity,training objective,0.9546,0.3012
+masking function,training objective,-0.0454,1.446
+first-order methods,masking function,-0.2012,1.55
+first-order methods,training objective,0.978,0.2099
+first-order methods,parameter efficient,-0.1365,1.5077
+fine-tuning,parameter efficient,-0.3168,1.6228
+parameter efficient,sparsity,-0.0489,1.4484

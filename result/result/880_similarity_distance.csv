@@ -1,0 +1,34 @@
+node1,node2,similarity,distance
+CP-nets,ordinal preference relations,0.1585,1.2973
+CP-nets,exact identification,-0.1019,1.4845
+CP-nets,membership queries,-0.0431,1.4444
+exact identification,ordinal preference relations,-0.0677,1.4613
+membership queries,ordinal preference relations,0.9423,0.3397
+exact identification,membership queries,-0.1437,1.5124
+CP-nets,equivalence queries,-0.0415,1.4433
+CP-nets,acyclic CP-nets,0.9162,0.4094
+acyclic CP-nets,equivalence queries,-0.0569,1.4539
+CP-nets,attribute-efficiently learnable,0.0214,1.399
+CP-nets,query complexity,0.0355,1.3889
+equivalence queries,membership queries,1.0,0.006
+attribute-efficiently learnable,equivalence queries,-0.4139,1.6816
+equivalence queries,query complexity,0.993,0.1186
+acyclic CP-nets,membership queries,-0.0569,1.4539
+attribute-efficiently learnable,membership queries,-0.4103,1.6795
+membership queries,query complexity,0.9928,0.1203
+acyclic CP-nets,attribute-efficiently learnable,0.331,1.1567
+acyclic CP-nets,query complexity,-0.0034,1.4166
+attribute-efficiently learnable,query complexity,-0.4469,1.7011
+CP-nets,tree-structured CP-nets,0.9523,0.3088
+equivalence queries,tree-structured CP-nets,-0.1954,1.5462
+membership queries,tree-structured CP-nets,-0.1956,1.5463
+acyclic CP-nets,tree-structured CP-nets,0.965,0.2645
+attribute-efficiently learnable,tree-structured CP-nets,0.2863,1.1947
+query complexity,tree-structured CP-nets,-0.1291,1.5027
+CP-nets,VC-dimension,-0.2312,1.5692
+VC-dimension,equivalence queries,-0.3818,1.6624
+VC-dimension,membership queries,-0.3815,1.6622
+VC-dimension,acyclic CP-nets,-0.4425,1.6986
+VC-dimension,attribute-efficiently learnable,-0.0865,1.4741
+VC-dimension,query complexity,-0.351,1.6438
+VC-dimension,tree-structured CP-nets,-0.21,1.5557

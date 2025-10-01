@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+MOOCs,prerequisite knowledge,0.1957,1.2683
+prerequisite knowledge,prerequisite relation,-0.1394,1.5096
+knowledge concepts,prerequisite knowledge,-0.1017,1.4844
+MOOCs,prerequisite relation,-0.0954,1.4801
+MOOCs,knowledge concepts,0.4213,1.0759
+knowledge concepts,prerequisite relation,-0.2057,1.5528
+MOOCs,representation learning,0.4083,1.0879
+MOOCs,latent representations,0.0348,1.3894
+MOOCs,course concepts,0.8685,0.5128
+MOOCs,features,-0.326,1.6285
+prerequisite relation,representation learning,-0.0556,1.453
+latent representations,prerequisite relation,0.9353,0.3598
+course concepts,prerequisite relation,-0.2606,1.5879
+features,prerequisite relation,-0.5065,1.7358
+knowledge concepts,representation learning,0.9108,0.4225
+knowledge concepts,latent representations,-0.0462,1.4465
+course concepts,knowledge concepts,0.1423,1.3097
+features,knowledge concepts,-0.0803,1.4699
+latent representations,representation learning,0.0625,1.3693
+course concepts,representation learning,0.136,1.3145
+features,representation learning,-0.4104,1.6795
+course concepts,latent representations,-0.1515,1.5175
+features,latent representations,-0.4137,1.6815
+course concepts,features,-0.1091,1.4893
+F1-score,prerequisite relation,-0.0818,1.4709
+F1-score,knowledge concepts,0.2525,1.2227
+F1-score,representation learning,0.0785,1.3576
+F1-score,latent representations,-0.0389,1.4415
+F1-score,course concepts,0.0351,1.3892
+F1-score,features,-0.1319,1.5046

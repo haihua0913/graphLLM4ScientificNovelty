@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+long word reorderings,phrase-based SMT decoder,0.7239,0.7431
+fuzzy chunk-based rules,long word reorderings,0.91,0.4243
+fuzzy chunk-based rules,phrase-based SMT decoder,0.8337,0.5768
+long word reorderings,reordered n-gram LMs,0.0037,1.4116
+phrase-based SMT decoder,reordered n-gram LMs,-0.0225,1.4301
+fuzzy chunk-based rules,reordered n-gram LMs,-0.22,1.5621
+distortion cost matrix,fuzzy chunk-based rules,-0.1714,1.5306
+distortion cost matrix,reordered n-gram LMs,0.0492,1.379
+Arabic-English,distortion cost matrix,-0.2362,1.5724
+German-English,distortion cost matrix,-0.0246,1.4315
+SMT benchmarks,distortion cost matrix,-0.7239,1.8568
+Arabic-English,German-English,-0.1554,1.5201
+Arabic-English,SMT benchmarks,0.2827,1.1977
+German-English,SMT benchmarks,-0.1175,1.495

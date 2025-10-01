@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+Unsupervised feature learning,unlabeled examples,0.9124,0.4185
+K-means clustering algorithm,Unsupervised feature learning,0.056,1.374
+Unsupervised feature learning,whitening,0.1852,1.2765
+K-means clustering algorithm,whitening,0.8311,0.5813
+ICA mixing matrix,Unsupervised feature learning,-0.2738,1.5962
+ICA filters,Unsupervised feature learning,0.1756,1.2841
+ICA mixing matrix,whitening,0.6239,0.8673
+ICA filters,whitening,0.8478,0.5517
+ICA filters,ICA mixing matrix,0.7699,0.6783
+ICA mixing matrix,classification,0.9227,0.3931
+ICA mixing matrix,feature learner,-0.2987,1.6117
+ICA filters,classification,0.8935,0.4615
+ICA filters,feature learner,0.218,1.2506
+classification,feature learner,-0.0421,1.4436
+classification,whitening,0.6802,0.7998
+feature learner,whitening,0.2419,1.2313
+initialization of K-means,whitening,0.6712,0.8109

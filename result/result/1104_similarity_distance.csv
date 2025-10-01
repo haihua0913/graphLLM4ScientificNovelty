@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+imitation learning,reinforcement learning,-0.045,1.4457
+Wasserstein-1 distance,imitation learning,0.1477,1.3056
+Wasserstein-1 distance,reinforcement learning,-0.248,1.5799
+goal-conditioned reinforcement learning,imitation learning,-0.254,1.5837
+goal-conditioned reinforcement learning,reinforcement learning,-0.589,1.7827
+Wasserstein-1 distance,goal-conditioned reinforcement learning,0.0066,1.4095
+Markov Decision Processes,reinforcement learning,-0.3709,1.6558
+quasimetric,reinforcement learning,-0.3922,1.6687
+Markov Decision Processes,goal-conditioned reinforcement learning,0.6692,0.8134
+goal-conditioned reinforcement learning,quasimetric,0.5782,0.9185
+Markov Decision Processes,Wasserstein-1 distance,0.2241,1.2457
+Wasserstein-1 distance,quasimetric,-0.0133,1.4236
+Markov Decision Processes,quasimetric,0.7685,0.6805
+Hindsight Experience Replay,Wasserstein-1 distance,0.0304,1.3925

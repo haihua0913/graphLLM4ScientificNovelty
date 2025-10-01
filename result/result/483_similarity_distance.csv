@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+biometrics,gait features,0.0241,1.397
+AutoEncoder framework,LSTM-based integration,-0.0175,1.4266
+AutoEncoder framework,pose and appearance features,0.4977,1.0023
+AutoEncoder framework,RGB imagery,0.0561,1.374
+AutoEncoder framework,gait features,-0.1207,1.4971
+LSTM-based integration,pose and appearance features,0.7342,0.7291
+LSTM-based integration,RGB imagery,-0.0659,1.46
+LSTM-based integration,gait features,0.9314,0.3705
+RGB imagery,pose and appearance features,-0.2945,1.609
+gait features,pose and appearance features,0.65,0.8367
+RGB imagery,gait features,-0.1417,1.5111
+AutoEncoder framework,Frontal-View Gait (FVG) dataset,0.2342,1.2376
+Frontal-View Gait (FVG) dataset,LSTM-based integration,-0.1289,1.5026
+Frontal-View Gait (FVG) dataset,pose and appearance features,-0.0323,1.4369
+Frontal-View Gait (FVG) dataset,RGB imagery,-0.2306,1.5688
+CASIA-B,Frontal-View Gait (FVG) dataset,0.106,1.3372
+Frontal-View Gait (FVG) dataset,USF,0.1371,1.3137
+CASIA-B,USF,0.907,0.4312

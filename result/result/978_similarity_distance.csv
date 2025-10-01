@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+empirical study,exact techniques,0.5366,0.9627
+approximate techniques,empirical study,-0.6182,1.799
+empirical study,scalability,0.4421,1.0563
+approximate techniques,exact techniques,0.2008,1.2643
+exact techniques,scalability,0.5509,0.9477
+approximate techniques,scalability,-0.3019,1.6136
+Virtual Best Solver,empirical study,-0.3122,1.62
+empirical study,portfolio solvers,-0.1901,1.5428
+Virtual Best Solver,exact techniques,-0.1995,1.5489
+exact techniques,portfolio solvers,-0.3742,1.6578
+Virtual Best Solver,approximate techniques,0.0164,1.4026
+approximate techniques,portfolio solvers,-0.1787,1.5354
+Virtual Best Solver,scalability,-0.2261,1.566
+portfolio solvers,scalability,-0.1529,1.5185
+Virtual Best Solver,portfolio solvers,0.0224,1.3983

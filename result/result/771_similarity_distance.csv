@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+recurrent neural networks,regular languages,0.9929,0.119
+recurrent neural networks,systematic distribution shifts,-0.1296,1.503
+compositional strategy,recurrent neural networks,-0.1389,1.5092
+regular languages,systematic distribution shifts,-0.0723,1.4644
+compositional strategy,systematic distribution shifts,0.9054,0.435
+compositional strategy,regular languages,-0.0985,1.4822
+deterministic finite-state automaton,recurrent neural networks,-0.1273,1.5015
+end-to-end strategy,recurrent neural networks,-0.3388,1.6363
+deterministic finite-state automaton,systematic distribution shifts,0.2769,1.2026
+end-to-end strategy,systematic distribution shifts,-0.1116,1.491
+deterministic finite-state automaton,regular languages,-0.0852,1.4732
+end-to-end strategy,regular languages,-0.3472,1.6414
+compositional strategy,deterministic finite-state automaton,0.0248,1.3966
+deterministic finite-state automaton,end-to-end strategy,0.793,0.6434
+compositional strategy,end-to-end strategy,-0.2478,1.5798
+auxiliary task,deterministic finite-state automaton,-0.4373,1.6955
+auxiliary task,compositional strategy,-0.0933,1.4787
+auxiliary task,end-to-end strategy,-0.3797,1.6612

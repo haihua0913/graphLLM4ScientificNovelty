@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+cluttered scene,real time,-0.1722,1.5311
+Action4DNet,deep neural network,-0.2249,1.5652
+deep neural network,real time,0.0101,1.407
+Action4DNet,real time,-0.0056,1.4182
+3D convolution layer,deep neural network,0.945,0.3317
+3D convolution layer,Action4DNet,-0.0162,1.4256
+3D convolution layer,camera view angles,-0.4619,1.7099
+3D convolution layer,crowd,0.0463,1.3811
+camera view angles,crowd,-0.328,1.6297
+action recognition,camera view angles,-0.1015,1.4842
+action recognition,crowd,0.1462,1.3068
+action recognition,real-world applications,-0.2163,1.5597
+camera view angles,real-world applications,0.2492,1.2254
+crowd,real-world applications,0.0855,1.3524

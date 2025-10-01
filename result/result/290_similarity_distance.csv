@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+MT systems,neural network language models,-0.4404,1.6973
+neural network joint model,neural network language models,0.934,0.3634
+neural network language models,source context window,-0.1546,1.5196
+MT systems,neural network joint model,-0.2856,1.6035
+MT systems,source context window,0.2235,1.2462
+neural network joint model,source context window,-0.0735,1.4653
+lexicalized,neural network language models,-0.4406,1.6974
+MT decoder,neural network language models,-0.2187,1.5612
+MT systems,lexicalized,0.4013,1.0943
+MT decoder,MT systems,0.8758,0.4983
+lexicalized,neural network joint model,-0.4643,1.7113
+MT decoder,neural network joint model,-0.1257,1.5004
+lexicalized,source context window,0.7818,0.6606
+MT decoder,source context window,0.194,1.2696
+MT decoder,lexicalized,0.1997,1.2651

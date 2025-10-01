@@ -1,0 +1,11 @@
+node1,node2,similarity,distance
+Compositional Zero-Shot Learning,unseen compositions,0.2599,1.2166
+Compositional Zero-Shot Learning,state-object compositions,-0.157,1.5212
+state-object compositions,unseen compositions,0.7819,0.6605
+Siamese Contrastive Embedding Network,state-object compositions,-0.1842,1.5389
+prototypes,state-object compositions,-0.0699,1.4628
+Siamese Contrastive Embedding Network,prototypes,-0.3077,1.6172
+Siamese Contrastive Embedding Network,State Transition Module,-0.2573,1.5858
+State Transition Module,prototypes,-0.0155,1.4251
+C-QGA dataset,State Transition Module,-0.1663,1.5273
+C-QGA dataset,prototypes,0.0289,1.3937

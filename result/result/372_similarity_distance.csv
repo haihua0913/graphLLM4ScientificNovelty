@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+Pre-trained Language Models,universal model,-0.3567,1.6472
+Pre-trained Language Models,information extraction tasks,0.0015,1.4132
+information extraction tasks,universal model,-0.3062,1.6163
+Lottery Prompt Tuning,lifelong learning,-0.5297,1.7491
+catastrophic forgetting,lifelong learning,0.9832,0.1835
+lifelong learning,mask selection,0.0139,1.4043
+lifelong learning,zero-shot generalization,0.2543,1.2213
+lifelong learning,task-incremental setting,-0.1545,1.5195
+Lottery Prompt Tuning,catastrophic forgetting,-0.5008,1.7325
+Lottery Prompt Tuning,mask selection,-0.2892,1.6057
+Lottery Prompt Tuning,zero-shot generalization,-0.1363,1.5075
+Lottery Prompt Tuning,task-incremental setting,0.153,1.3015
+catastrophic forgetting,mask selection,-0.0471,1.4472
+catastrophic forgetting,zero-shot generalization,0.358,1.1331
+catastrophic forgetting,task-incremental setting,-0.0347,1.4386
+mask selection,zero-shot generalization,0.0087,1.408
+mask selection,task-incremental setting,0.1625,1.2942
+task-incremental setting,zero-shot generalization,0.8621,0.5251

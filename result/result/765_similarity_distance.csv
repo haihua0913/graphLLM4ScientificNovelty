@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+certifiable robustness,deep neural networks,-0.4161,1.6829
+certifiable robustness,non-linearity,0.5037,0.9963
+certifiable robustness,certifiable robustness,1.0,0.0
+deep neural networks,non-linearity,-0.0064,1.4188
+certifiable robustness,robustness certification,0.1534,1.3013
+deep neural networks,robustness certification,0.1207,1.3261
+non-linearity,robustness certification,0.7833,0.6583
+certifiable robustness,linearity grafting,-0.5242,1.746
+certifiable robustness,neuron pruning,0.0971,1.3438
+certifiable robustness,certified bounds,0.2199,1.2491
+adversarially trained models,certifiable robustness,0.7751,0.6707
+certifiable robustness,complete verification,0.2121,1.2553
+linearity grafting,neuron pruning,0.3393,1.1495
+certified bounds,linearity grafting,0.2772,1.2023
+adversarially trained models,linearity grafting,-0.095,1.4798
+complete verification,linearity grafting,0.0771,1.3586
+certified bounds,neuron pruning,0.9876,0.1576
+adversarially trained models,neuron pruning,0.1582,1.2975
+complete verification,neuron pruning,0.1408,1.3109
+adversarially trained models,certified bounds,0.243,1.2304
+certified bounds,complete verification,0.2024,1.263
+adversarially trained models,complete verification,0.3296,1.1579

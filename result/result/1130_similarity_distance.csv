@@ -1,0 +1,38 @@
+node1,node2,similarity,distance
+fairness,robustness,-0.3344,1.6336
+robustness,social welfare,-0.1353,1.5068
+multi-agent tradeoffs,robustness,-0.3653,1.6525
+multi-distribution learning,robustness,-0.056,1.4532
+collaborative learning,robustness,0.0156,1.4032
+group distributionally robust optimization,robustness,0.0551,1.3747
+fair federated learning,robustness,-0.3895,1.667
+fairness,social welfare,0.0419,1.3843
+fairness,multi-agent tradeoffs,0.33,1.1576
+fairness,multi-distribution learning,0.0488,1.3793
+collaborative learning,fairness,-0.0037,1.4168
+fairness,group distributionally robust optimization,0.1924,1.2709
+fair federated learning,fairness,0.341,1.148
+multi-agent tradeoffs,social welfare,0.3168,1.169
+multi-distribution learning,social welfare,0.9351,0.3603
+collaborative learning,social welfare,0.31,1.1747
+group distributionally robust optimization,social welfare,0.9404,0.3452
+fair federated learning,social welfare,0.6975,0.7779
+multi-agent tradeoffs,multi-distribution learning,0.0234,1.3976
+collaborative learning,multi-agent tradeoffs,0.2451,1.2287
+group distributionally robust optimization,multi-agent tradeoffs,0.1818,1.2792
+fair federated learning,multi-agent tradeoffs,0.7854,0.6551
+collaborative learning,multi-distribution learning,0.0911,1.3483
+group distributionally robust optimization,multi-distribution learning,0.9546,0.3013
+fair federated learning,multi-distribution learning,0.5521,0.9465
+collaborative learning,group distributionally robust optimization,0.1872,1.275
+collaborative learning,fair federated learning,-0.0074,1.4194
+fair federated learning,group distributionally robust optimization,0.6369,0.8522
+robustness,sample complexity,0.0521,1.3769
+fairness,sample complexity,-0.3313,1.6318
+sample complexity,social welfare,-0.1202,1.4968
+multi-agent tradeoffs,sample complexity,-0.1686,1.5288
+multi-distribution learning,sample complexity,-0.0837,1.4722
+collaborative learning,sample complexity,-0.2889,1.6055
+group distributionally robust optimization,sample complexity,-0.1173,1.4949
+fair federated learning,sample complexity,-0.0022,1.4157
+sample complexity,zero-sum games,-0.0209,1.4289

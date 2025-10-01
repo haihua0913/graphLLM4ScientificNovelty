@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+Automated Deduction,analogy,0.0577,1.3728
+Automated Deduction,partial analogies,0.5954,0.8996
+Automated Deduction,application field,0.0336,1.3903
+analogy,partial analogies,0.0089,1.4079
+analogy,application field,0.8248,0.592
+application field,partial analogies,0.2504,1.2244
+analogy,bad analogies,0.0062,1.4098
+bad analogies,partial analogies,-0.0807,1.4702
+application field,bad analogies,0.2586,1.2177
+analogy,theorem-proving,-0.0372,1.4403
+analogy,counter-example building,0.9158,0.4103
+partial analogies,theorem-proving,-0.2895,1.6059
+counter-example building,partial analogies,0.1514,1.3028
+application field,theorem-proving,-0.2977,1.611
+application field,counter-example building,0.8127,0.6121
+bad analogies,theorem-proving,-0.0081,1.42
+bad analogies,counter-example building,0.1044,1.3383
+counter-example building,theorem-proving,-0.3374,1.6355

@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+low-communication,voting rules,-0.2122,1.557
+deterministic,voting rules,-0.2335,1.5707
+randomized,voting rules,0.0049,1.4108
+deterministic,low-communication,-0.2507,1.5816
+low-communication,randomized,-0.195,1.546
+deterministic,randomized,0.869,0.5118
+axiomatic properties,deterministic,0.5478,0.951
+axiomatic properties,randomized,0.4329,1.065
+Borda rule,deterministic,-0.1303,1.5036
+Impartial Culture,deterministic,-0.0616,1.4571
+Borda rule,randomized,-0.0206,1.4287
+Impartial Culture,randomized,-0.0346,1.4385
+Borda rule,axiomatic properties,0.6157,0.8767
+Impartial Culture,axiomatic properties,0.1856,1.2763
+Borda rule,Impartial Culture,0.0268,1.3952
+axiomatic properties,randomly generated data,0.2237,1.2461
+Borda rule,randomly generated data,-0.084,1.4724
+Impartial Culture,randomly generated data,0.9285,0.3782

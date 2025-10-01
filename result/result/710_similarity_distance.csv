@@ -1,0 +1,42 @@
+node1,node2,similarity,distance
+disentangled representations,unsupervised learning,0.954,0.3032
+data,unsupervised learning,-0.2993,1.612
+data,disentangled representations,-0.2104,1.5559
+inductive biases,unsupervised learning,-0.0758,1.4668
+models,unsupervised learning,-0.0173,1.4264
+disentangled representations,inductive biases,0.0894,1.3495
+disentangled representations,models,0.021,1.3993
+inductive biases,models,-0.1321,1.5048
+data,inductive biases,-0.088,1.4752
+data,models,0.6867,0.7916
+experimental study,unsupervised learning,-0.1848,1.5394
+data sets,unsupervised learning,-0.5465,1.7587
+disentangled representations,experimental study,-0.1583,1.522
+data sets,disentangled representations,-0.4528,1.7046
+experimental study,inductive biases,0.0103,1.4069
+data sets,inductive biases,-0.0186,1.4273
+experimental study,models,0.001,1.4135
+data sets,models,0.6641,0.8196
+data,experimental study,-0.511,1.7384
+data,data sets,0.8338,0.5766
+data sets,experimental study,-0.1715,1.5307
+supervision,unsupervised learning,-0.0685,1.4618
+disentangled representations,supervision,-0.0134,1.4237
+inductive biases,supervision,0.2867,1.1944
+models,supervision,0.0058,1.4101
+data,supervision,0.2074,1.259
+experimental study,supervision,-0.1213,1.4975
+data sets,supervision,0.4278,1.0698
+models,sample complexity,0.0667,1.3662
+downstream tasks,models,-0.2815,1.6009
+data,sample complexity,0.5445,0.9545
+data,downstream tasks,0.047,1.3806
+experimental study,sample complexity,-0.2985,1.6115
+downstream tasks,experimental study,-0.4187,1.6844
+data sets,sample complexity,0.4703,1.0293
+data sets,downstream tasks,-0.0224,1.4299
+sample complexity,supervision,0.47,1.0295
+downstream tasks,supervision,0.442,1.0564
+downstream tasks,sample complexity,0.2405,1.2325
+inductive biases,sample complexity,0.2095,1.2574
+downstream tasks,inductive biases,0.8358,0.5731

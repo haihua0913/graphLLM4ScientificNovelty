@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+group testing,locality-sensitive hashing,-0.1615,1.5242
+approximate near neighbor problem,group testing,0.9441,0.3344
+approximate near neighbor problem,locality-sensitive hashing,-0.1131,1.492
+distance-sensitive Bloom Filters,group testing,-0.083,1.4717
+FLINNG,group testing,-0.1048,1.4865
+distance-sensitive Bloom Filters,locality-sensitive hashing,0.9672,0.256
+FLINNG,locality-sensitive hashing,-0.1542,1.5194
+approximate near neighbor problem,distance-sensitive Bloom Filters,-0.086,1.4738
+FLINNG,approximate near neighbor problem,-0.0349,1.4387
+FLINNG,distance-sensitive Bloom Filters,-0.1233,1.4988
+group testing,sub-linear query time,-0.0515,1.4502
+distance-sensitive Bloom Filters,sub-linear query time,0.9551,0.2998
+FLINNG,sub-linear query time,-0.1982,1.548
+FLINNG,high-dimensional search tasks,-0.1998,1.549
+FLINNG,genome search,0.2018,1.2635
+FLINNG,URL similarity search,0.1127,1.3321
+high-dimensional search tasks,sub-linear query time,0.9155,0.4111
+genome search,sub-linear query time,-0.1613,1.524
+URL similarity search,sub-linear query time,-0.1335,1.5056
+genome search,high-dimensional search tasks,-0.3275,1.6294
+URL similarity search,high-dimensional search tasks,0.077,1.3587
+URL similarity search,genome search,0.0664,1.3664

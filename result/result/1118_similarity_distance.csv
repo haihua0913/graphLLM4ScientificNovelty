@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+modality fusion,transformer based architecture,-0.1755,1.5333
+fusion bottlenecks,transformer based architecture,0.9668,0.2578
+multimodal video classification,transformer based architecture,-0.1132,1.4921
+fusion bottlenecks,modality fusion,-0.0406,1.4426
+modality fusion,multimodal video classification,0.9006,0.446
+fusion bottlenecks,multimodal video classification,0.0441,1.3827
+pairwise self-attention,transformer based architecture,-0.0012,1.415
+bottleneck latents,transformer based architecture,0.6648,0.8187
+modality fusion,pairwise self-attention,-0.3176,1.6233
+bottleneck latents,modality fusion,0.3102,1.1746
+fusion bottlenecks,pairwise self-attention,-0.104,1.4859
+bottleneck latents,fusion bottlenecks,0.7421,0.7182
+multimodal video classification,pairwise self-attention,-0.5843,1.7801
+bottleneck latents,multimodal video classification,0.4499,1.0489
+bottleneck latents,pairwise self-attention,-0.068,1.4615
+pairwise self-attention,state-of-the-art results,0.9171,0.4072
+audio-visual classification benchmarks,pairwise self-attention,-0.0911,1.4772
+Audioset,pairwise self-attention,0.0577,1.3728
+bottleneck latents,state-of-the-art results,-0.1825,1.5378
+audio-visual classification benchmarks,bottleneck latents,0.1489,1.3047
+Audioset,bottleneck latents,0.1664,1.2912
+audio-visual classification benchmarks,state-of-the-art results,-0.3189,1.6242
+Audioset,state-of-the-art results,0.1627,1.294
+Audioset,audio-visual classification benchmarks,-0.1359,1.5072

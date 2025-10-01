@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+generalization,low dimensional structures,0.2423,1.231
+low dimensional structures,stability,0.0342,1.3898
+low dimensional structures,manifold regularization,-0.0167,1.426
+generalization,stability,-0.0922,1.4779
+generalization,manifold regularization,-0.0641,1.4588
+manifold regularization,stability,0.8855,0.4784
+Lipschitz continuous function,low dimensional structures,-0.156,1.5205
+Lipschitz continuous function,generalization,-0.2487,1.5803
+Lipschitz continuous function,stability,0.0141,1.4042
+Lipschitz continuous function,manifold regularization,0.0267,1.3952
+manifold regularization,weighted Laplacian penalty,-0.2921,1.6076
+manifold regularization,stochastic gradient techniques,-0.0986,1.4823
+Lipschitz continuous function,weighted Laplacian penalty,0.029,1.3935
+Lipschitz continuous function,stochastic gradient techniques,-0.0916,1.4776
+stochastic gradient techniques,weighted Laplacian penalty,-0.0338,1.4379
+real world data,weighted Laplacian penalty,-0.0429,1.4442
+real world data,stochastic gradient techniques,0.9945,0.1052

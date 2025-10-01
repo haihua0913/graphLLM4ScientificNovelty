@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+OOD detection,gradient space,0.8268,0.5885
+GradNorm,OOD detection,-0.0884,1.4754
+GradNorm,gradient space,-0.1114,1.4909
+KL divergence,OOD detection,0.7366,0.7258
+OOD detection,softmax output,-0.1589,1.5224
+OOD detection,vector norm,0.1394,1.312
+KL divergence,gradient space,0.96,0.283
+gradient space,softmax output,0.2621,1.2148
+gradient space,vector norm,-0.1367,1.5078
+GradNorm,KL divergence,0.0774,1.3584
+GradNorm,softmax output,0.3692,1.1233
+GradNorm,vector norm,0.8401,0.5654
+KL divergence,softmax output,0.3505,1.1397
+KL divergence,vector norm,-0.0174,1.4265
+softmax output,vector norm,-0.0823,1.4712
+FPR95,OOD detection,0.1492,1.3044
+FPR95,GradNorm,0.0584,1.3723
+FPR95,KL divergence,-0.2245,1.5649
+FPR95,softmax output,0.0091,1.4078
+FPR95,vector norm,0.0932,1.3467

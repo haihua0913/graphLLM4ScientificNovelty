@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+Optical flow,action detection,-0.1355,1.507
+Optical flow,activity recognition,0.0247,1.3966
+Optical flow,large displacement,-0.1505,1.5169
+action detection,activity recognition,0.8181,0.6031
+action detection,large displacement,-0.6824,1.8343
+activity recognition,large displacement,-0.6065,1.7925
+Deep Flow,Optical flow,-0.0213,1.4292
+Optical flow,variational approach,-0.084,1.4724
+Deep Flow,action detection,-0.3642,1.6518
+action detection,variational approach,0.1311,1.3182
+Deep Flow,activity recognition,-0.3214,1.6257
+activity recognition,variational approach,-0.2858,1.6037
+Deep Flow,large displacement,0.8101,0.6164
+large displacement,variational approach,-0.1742,1.5325
+Deep Flow,variational approach,-0.1263,1.5009
+Optical flow,descriptor matching algorithm,-0.1943,1.5455
+descriptor matching algorithm,large displacement,-0.1773,1.5344
+Deep Flow,descriptor matching algorithm,-0.3782,1.6602
+descriptor matching algorithm,variational approach,-0.253,1.583
+Optical flow,dense sampling,-0.3077,1.6172
+Optical flow,energy minimization,0.7766,0.6685
+dense sampling,descriptor matching algorithm,-0.2426,1.5765
+descriptor matching algorithm,energy minimization,0.1458,1.307
+dense sampling,energy minimization,-0.2305,1.5687
+Deep Flow,dense sampling,-0.0388,1.4414
+Deep Flow,energy minimization,-0.0681,1.4616
+MPI-Sintel dataset,Optical flow,0.969,0.249
+Deep Flow,MPI-Sintel dataset,-0.0287,1.4344
+MPI-Sintel dataset,dense sampling,-0.1759,1.5336
+MPI-Sintel dataset,energy minimization,0.8439,0.5587

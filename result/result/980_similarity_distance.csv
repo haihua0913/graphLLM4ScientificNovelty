@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+LTS loss,Levin Tree Search,-0.0915,1.4775
+Levin Tree Search,neural networks,0.2691,1.2091
+LTS loss,neural networks,-0.1747,1.5328
+Levin Tree Search,parameterized context models,0.2244,1.2455
+Levin Tree Search,online compression literature,-0.0648,1.4593
+LTS loss,parameterized context models,0.082,1.355
+LTS loss,online compression literature,0.9191,0.4023
+neural networks,parameterized context models,-0.1651,1.5265
+neural networks,online compression literature,-0.2102,1.5557
+online compression literature,parameterized context models,-0.1442,1.5127
+LTS loss,Sokoban,0.11,1.3341
+LTS loss,The Witness,0.9198,0.4006
+24-Sliding Tile puzzle,LTS loss,-0.1273,1.5015
+Sokoban,neural networks,-0.1019,1.4845
+The Witness,neural networks,-0.2352,1.5717
+24-Sliding Tile puzzle,neural networks,-0.2132,1.5577
+Sokoban,parameterized context models,0.9824,0.1877
+The Witness,parameterized context models,-0.2506,1.5815
+24-Sliding Tile puzzle,parameterized context models,-0.0114,1.4223
+Sokoban,online compression literature,-0.0866,1.4742
+The Witness,online compression literature,0.9321,0.3686
+24-Sliding Tile puzzle,online compression literature,0.0324,1.3911
+Sokoban,The Witness,-0.2348,1.5715
+24-Sliding Tile puzzle,Sokoban,-0.0223,1.4299
+24-Sliding Tile puzzle,The Witness,-0.1167,1.4944
+Rubik's cube,Sokoban,0.0924,1.3473
+Sokoban,machine learning techniques,-0.0713,1.4638
+Rubik's cube,The Witness,-0.0072,1.4193
+The Witness,machine learning techniques,-0.0295,1.4349
+24-Sliding Tile puzzle,Rubik's cube,-0.0153,1.425
+24-Sliding Tile puzzle,machine learning techniques,0.9593,0.2854
+Rubik's cube,machine learning techniques,-0.0118,1.4225

@@ -1,0 +1,398 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/aime/aime1995.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"89.31"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"61",
+"@dc":"61",
+"@oc":"61",
+"@id":"48871912",
+"text":":facetid:toc:db/conf/aime/aime1995.bht"
+}
+},
+"hits":{
+"@total":"61",
+"@computed":"61",
+"@sent":"61",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"7553009",
+"info":{"authors":{"author":[{"@pid":"65/4545","text":"Laurence Alpay"},{"@pid":"50/5856","text":"Anthony Nowlan"},{"@pid":"35/5366","text":"Danny Solomon"},{"@pid":"04/1020","text":"Christian Lovis"},{"@pid":"90/5209","text":"Robert H. Baud"},{"@pid":"54/2143","text":"Tony Rush"},{"@pid":"77/6195","text":"Jean-Raoul Scherrer"}]},"title":"Model-Based Application: The Galen Structured Clinical User Interface.","venue":"AIME","pages":"307-318","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/AlpayNSLBRS95","doi":"10.1007/3-540-60025-6_147","ee":"https://doi.org/10.1007/3-540-60025-6_147","url":"https://dblp.org/rec/conf/aime/AlpayNSLBRS95"},
+"url":"URL#7553009"
+},
+{
+"@score":"1",
+"@id":"7553010",
+"info":{"authors":{"author":[{"@pid":"28/1105","text":"R. Anselmi"},{"@pid":"35/2601","text":"Gabriella Paoli"},{"@pid":"15/309","text":"G. Ghiso"},{"@pid":"25/2735","text":"F. Foppiano"},{"@pid":"66/3606","text":"R. Martinelli"},{"@pid":"30/4804","text":"L. Andreucci"}]},"title":"A Software to Evaluate Multislices Radiotherapic Treatment Planning.","venue":"AIME","pages":"443","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/AnselmiPGFMA95","doi":"10.1007/3-540-60025-6_179","ee":"https://doi.org/10.1007/3-540-60025-6_179","url":"https://dblp.org/rec/conf/aime/AnselmiPGFMA95"},
+"url":"URL#7553010"
+},
+{
+"@score":"1",
+"@id":"7553011",
+"info":{"authors":{"author":{"@pid":"b/PBarahona","text":"Pedro Barahona"}},"title":"Semi-Qualitative Models and Simulation for Biomedical Applications.","venue":"AIME","pages":"103-114","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Barahona95","doi":"10.1007/3-540-60025-6_129","ee":"https://doi.org/10.1007/3-540-60025-6_129","url":"https://dblp.org/rec/conf/aime/Barahona95"},
+"url":"URL#7553011"
+},
+{
+"@score":"1",
+"@id":"7553012",
+"info":{"authors":{"author":[{"@pid":"b/NadiaBianchiBerthouze","text":"Nadia Bianchi"},{"@pid":"05/620","text":"Claudia Diamantini"}]},"title":"Integration of Neural Networks and Rule Based Systems in the Interpretation of Liver Biopsy Images.","venue":"AIME","pages":"367-378","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/BianchiD95","doi":"10.1007/3-540-60025-6_152","ee":"https://doi.org/10.1007/3-540-60025-6_152","url":"https://dblp.org/rec/conf/aime/BianchiD95"},
+"url":"URL#7553012"
+},
+{
+"@score":"1",
+"@id":"7553013",
+"info":{"authors":{"author":{"@pid":"b/IsabelleBichindaritz","text":"Isabelle Bichindaritz"}},"title":"Case-Based Medical Multi-Expertise: An Example in Psychiatry.","venue":"AIME","pages":"395-396","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Bichindaritz95","doi":"10.1007/3-540-60025-6_155","ee":"https://doi.org/10.1007/3-540-60025-6_155","url":"https://dblp.org/rec/conf/aime/Bichindaritz95"},
+"url":"URL#7553013"
+},
+{
+"@score":"1",
+"@id":"7553014",
+"info":{"authors":{"author":[{"@pid":"92/7037","text":"Kim Binsted"},{"@pid":"60/208","text":"Alison Cawsey"},{"@pid":"08/6712","text":"Ray B. Jones"}]},"title":"Generating Personalised Patient Information Using the Medical Record.","venue":"AIME","pages":"29-41","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/BinstedCJ95","doi":"10.1007/3-540-60025-6_123","ee":"https://doi.org/10.1007/3-540-60025-6_123","url":"https://dblp.org/rec/conf/aime/BinstedCJ95"},
+"url":"URL#7553014"
+},
+{
+"@score":"1",
+"@id":"7553015",
+"info":{"authors":{"author":[{"@pid":"25/906","text":"Birgit Brigl"},{"@pid":"71/3943","text":"Armin Grau"},{"@pid":"23/836","text":"Peter Ringleb"},{"@pid":"88/4052","text":"Thorsten Steiner"},{"@pid":"07/3686","text":"Werner Hacke"},{"@pid":"h/ReinholdHaux","text":"Reinhold Haux"}]},"title":"Sequential Knowledge Acquisition: Combining Models and Cases.","venue":"AIME","pages":"401-402","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/BriglGRSHH95","doi":"10.1007/3-540-60025-6_158","ee":"https://doi.org/10.1007/3-540-60025-6_158","url":"https://dblp.org/rec/conf/aime/BriglGRSHH95"},
+"url":"URL#7553015"
+},
+{
+"@score":"1",
+"@id":"7553016",
+"info":{"authors":{"author":[{"@pid":"43/5990","text":"P. Caleb"},{"@pid":"63/5550","text":"Peter K. Sharpe"},{"@pid":"35/3467","text":"R. Jones"}]},"title":"A Preliminary Investigation into the Analysis of Electromyographic Activity Using a System of Multiple Neural Networks.","venue":"AIME","pages":"439-440","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/CalebSJ95","doi":"10.1007/3-540-60025-6_177","ee":"https://doi.org/10.1007/3-540-60025-6_177","url":"https://dblp.org/rec/conf/aime/CalebSJ95"},
+"url":"URL#7553016"
+},
+{
+"@score":"1",
+"@id":"7553017",
+"info":{"authors":{"author":[{"@pid":"30/3994","text":"Giuseppe Carenini"},{"@pid":"95/6910","text":"Stefano Monti"},{"@pid":"90/6946","text":"Gordon Banks"}]},"title":"An Information-Based Bayesian Approach to History Taking.","venue":"AIME","pages":"129-138","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/CareniniMB95","doi":"10.1007/3-540-60025-6_131","ee":"https://doi.org/10.1007/3-540-60025-6_131","url":"https://dblp.org/rec/conf/aime/CareniniMB95"},
+"url":"URL#7553017"
+},
+{
+"@score":"1",
+"@id":"7553018",
+"info":{"authors":{"author":[{"@pid":"37/6727","text":"Luca Chittaro"},{"@pid":"26/5526","text":"Marco Del Rosso"},{"@pid":"65/4103","text":"Michel Dojat"}]},"title":"Modeling Medical Reasoning with the Event Calculus: An Application to the Management of Mechanical Ventilation.","venue":"AIME","pages":"79-90","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ChittaroRD95","doi":"10.1007/3-540-60025-6_127","ee":"https://doi.org/10.1007/3-540-60025-6_127","url":"https://dblp.org/rec/conf/aime/ChittaroRD95"},
+"url":"URL#7553018"
+},
+{
+"@score":"1",
+"@id":"7553019",
+"info":{"authors":{"author":{"@pid":"45/325","text":"Eleni Christodoulou"}},"title":"A Hybrid Architecture for Knowledge-Based Systems.","venue":"AIME","pages":"421-422","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Christodoulou95","doi":"10.1007/3-540-60025-6_168","ee":"https://doi.org/10.1007/3-540-60025-6_168","url":"https://dblp.org/rec/conf/aime/Christodoulou95"},
+"url":"URL#7553019"
+},
+{
+"@score":"1",
+"@id":"7553020",
+"info":{"authors":{"author":[{"@pid":"c/CarloCombi","text":"Carlo Combi"},{"@pid":"32/4245","text":"Francesco Pinciroli"},{"@pid":"87/3851","text":"Giuseppe Pozzi"}]},"title":"TIME-NESIS: A Data Model in Managing Time Granularity of Natural-Language Clinical Information.","venue":"AIME","pages":"397-398","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/CombiPP95","doi":"10.1007/3-540-60025-6_156","ee":"https://doi.org/10.1007/3-540-60025-6_156","url":"https://dblp.org/rec/conf/aime/CombiPP95"},
+"url":"URL#7553020"
+},
+{
+"@score":"1",
+"@id":"7553021",
+"info":{"authors":{"author":[{"@pid":"00/4065","text":"Stéfan Jacques Darmoni"},{"@pid":"32/1350","text":"Philippe Massari"},{"@pid":"93/670","text":"Jean-Michel Droy"},{"@pid":"17/4915","text":"Thierry Blanc"},{"@pid":"61/1970","text":"Jacques Leroy"}]},"title":"Functional Evaluation of SETH: An Expert System In Clinical Toxicology.","venue":"AIME","pages":"231-238","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/DarmoniMDBL95","doi":"10.1007/3-540-60025-6_140","ee":"https://doi.org/10.1007/3-540-60025-6_140","url":"https://dblp.org/rec/conf/aime/DarmoniMDBL95"},
+"url":"URL#7553021"
+},
+{
+"@score":"1",
+"@id":"7553022",
+"info":{"authors":{"author":[{"@pid":"59/2092","text":"Lawrence W. Diamond"},{"@pid":"154/3328","text":"Doyen T. Nguyen"},{"@pid":"44/5379","text":"P. Ralph"},{"@pid":"64/2285","text":"B. Sheridan"},{"@pid":"10/3743","text":"A. Bak"},{"@pid":"56/2109","text":"C. Kessler"},{"@pid":"56/2455","text":"D. Muncer"}]},"title":"Field Evaluations of a Knowledge-Based System for Peripheral Blood Interpretation.","venue":"AIME","pages":"221-230","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/DiamondNRSBKM95","doi":"10.1007/3-540-60025-6_139","ee":"https://doi.org/10.1007/3-540-60025-6_139","url":"https://dblp.org/rec/conf/aime/DiamondNRSBKM95"},
+"url":"URL#7553022"
+},
+{
+"@score":"1",
+"@id":"7553023",
+"info":{"authors":{"author":[{"@pid":"65/4103","text":"Michel Dojat"},{"@pid":"48/124","text":"François Pachet"}]},"title":"Representing Medical Context Using Rule-Based Object-Oriented Programming Techniques.","venue":"AIME","pages":"423-424","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/DojatP95","doi":"10.1007/3-540-60025-6_169","ee":"https://doi.org/10.1007/3-540-60025-6_169","url":"https://dblp.org/rec/conf/aime/DojatP95"},
+"url":"URL#7553023"
+},
+{
+"@score":"1",
+"@id":"7553024",
+"info":{"authors":{"author":[{"@pid":"92/1501","text":"Joseph Downs"},{"@pid":"00/5296","text":"Robert F. Harrison"},{"@pid":"23/5125","text":"Simon S. Cross"}]},"title":"Evaluating a Neural Network Decision-Support Tool for the Diagnosis of Breast Cancer.","venue":"AIME","pages":"239-250","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/DownsHC95","doi":"10.1007/3-540-60025-6_141","ee":"https://doi.org/10.1007/3-540-60025-6_141","url":"https://dblp.org/rec/conf/aime/DownsHC95"},
+"url":"URL#7553024"
+},
+{
+"@score":"1",
+"@id":"7553025",
+"info":{"authors":{"author":[{"@pid":"92/1501","text":"Joseph Downs"},{"@pid":"00/5296","text":"Robert F. Harrison"},{"@pid":"54/200","text":"R. Lee Kennedy"}]},"title":"A Prototype Neural Network Decision-Support Tool for the Early Diagnosis of Acute Myocardial Infarction.","venue":"AIME","pages":"355-366","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/DownsHK95","doi":"10.1007/3-540-60025-6_151","ee":"https://doi.org/10.1007/3-540-60025-6_151","url":"https://dblp.org/rec/conf/aime/DownsHK95"},
+"url":"URL#7553025"
+},
+{
+"@score":"1",
+"@id":"7553026",
+"info":{"authors":{"author":[{"@pid":"11/6806","text":"F. Fiocchi"},{"@pid":"95/2241","text":"A. Gamba"},{"@pid":"40/2034","text":"Rita Pizzi"},{"@pid":"30/209","text":"F. Sicurello"}]},"title":"A Neural Support to the Prognostic Evaluation of Cardiac Surgery.","venue":"AIME","pages":"435-436","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/FiocchiGPS95","doi":"10.1007/3-540-60025-6_175","ee":"https://doi.org/10.1007/3-540-60025-6_175","url":"https://dblp.org/rec/conf/aime/FiocchiGPS95"},
+"url":"URL#7553026"
+},
+{
+"@score":"1",
+"@id":"7553027",
+"info":{"authors":{"author":{"@pid":"33/1219","text":"Dragan Gamberger"}},"title":"Inductively Learned Rule for Breast Cancer Domain with Improved Interobserver Reproductibility.","venue":"AIME","pages":"431-432","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Gamberger95","doi":"10.1007/3-540-60025-6_173","ee":"https://doi.org/10.1007/3-540-60025-6_173","url":"https://dblp.org/rec/conf/aime/Gamberger95"},
+"url":"URL#7553027"
+},
+{
+"@score":"1",
+"@id":"7553028",
+"info":{"authors":{"author":[{"@pid":"75/3354","text":"Petr Hájek 0001"},{"@pid":"28/3187","text":"Dagmar Harmancová"}]},"title":"Medical Fuzz;y Expert Systems and Reasoning about Beliefs.","venue":"AIME","pages":"403-404","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/HajekH95","doi":"10.1007/3-540-60025-6_159","ee":"https://doi.org/10.1007/3-540-60025-6_159","url":"https://dblp.org/rec/conf/aime/HajekH95"},
+"url":"URL#7553028"
+},
+{
+"@score":"1",
+"@id":"7553029",
+"info":{"authors":{"author":[{"@pid":"60/2953","text":"Ole K. Hejlesen"},{"@pid":"73/4899","text":"Steen Andreassen"},{"@pid":"92/5542","text":"Stig K. Andersen"}]},"title":"Dynamic Propagation in Causal Probabilistic Networks with Instantiated Variables.","venue":"AIME","pages":"151-162","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/HejlesenAA95","doi":"10.1007/3-540-60025-6_133","ee":"https://doi.org/10.1007/3-540-60025-6_133","url":"https://dblp.org/rec/conf/aime/HejlesenAA95"},
+"url":"URL#7553029"
+},
+{
+"@score":"1",
+"@id":"7553030",
+"info":{"authors":{"author":[{"@pid":"62/6291","text":"J. Heras"},{"@pid":"77/6509","text":"Ramón P. Otero"}]},"title":"TKR-tool: An Expert System for Total Knee Replacement Management.","venue":"AIME","pages":"444-446","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/HerasO95","doi":"10.1007/3-540-60025-6_180","ee":"https://doi.org/10.1007/3-540-60025-6_180","url":"https://dblp.org/rec/conf/aime/HerasO95"},
+"url":"URL#7553030"
+},
+{
+"@score":"1",
+"@id":"7553031",
+"info":{"authors":{"author":[{"@pid":"74/3285","text":"Liliana Ironi"},{"@pid":"46/2882","text":"Mario Stefanelli"}]},"title":"Generating Explanations of Pathophysiological Systems Behaviors from Qualitative Simulation of Compartmental Models.","venue":"AIME","pages":"115-126","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/IroniS95","doi":"10.1007/3-540-60025-6_130","ee":"https://doi.org/10.1007/3-540-60025-6_130","url":"https://dblp.org/rec/conf/aime/IroniS95"},
+"url":"URL#7553031"
+},
+{
+"@score":"1",
+"@id":"7553032",
+"info":{"authors":{"author":[{"@pid":"53/1460","text":"Henry Kanoui"},{"@pid":"58/2608","text":"Michel Joubert"},{"@pid":"89/3015","text":"René Favard"}]},"title":"A Knowledge-Based Modelling of Hospital Information Systems Components.","venue":"AIME","pages":"319-330","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/KanouiJF95","doi":"10.1007/3-540-60025-6_148","ee":"https://doi.org/10.1007/3-540-60025-6_148","url":"https://dblp.org/rec/conf/aime/KanouiJF95"},
+"url":"URL#7553032"
+},
+{
+"@score":"1",
+"@id":"7553033",
+"info":{"authors":{"author":[{"@pid":"90/218","text":"Frieder Keller"},{"@pid":"96/5783","text":"R. Arnold"},{"@pid":"20/9213","text":"Thomas Frankewitsch"},{"@pid":"00/5139","text":"Dietmar Zellner"},{"@pid":"13/48","text":"Michael Giehl"}]},"title":"NEPHARM: A Pharmacokinetic Database for Adjusting Drug Dosage to Impaired Renal Function.","venue":"AIME","pages":"419-420","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/KellerAFZG95","doi":"10.1007/3-540-60025-6_167","ee":"https://doi.org/10.1007/3-540-60025-6_167","url":"https://dblp.org/rec/conf/aime/KellerAFZG95"},
+"url":"URL#7553033"
+},
+{
+"@score":"1",
+"@id":"7553034",
+"info":{"authors":{"author":{"@pid":"42/3667","text":"Elpida T. Keravnou"}},"title":"Modelling Medical Concepts as Time-Objects.","venue":"AIME","pages":"67-78","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Keravnou95","doi":"10.1007/3-540-60025-6_126","ee":"https://doi.org/10.1007/3-540-60025-6_126","url":"https://dblp.org/rec/conf/aime/Keravnou95"},
+"url":"URL#7553034"
+},
+{
+"@score":"1",
+"@id":"7553035",
+"info":{"authors":{"author":[{"@pid":"63/5267","text":"Hauke Kindler"},{"@pid":"91/5416","text":"Dirk Densow"},{"@pid":"24/5693","text":"B. Fischer"},{"@pid":"10/2953","text":"Theodor M. Fliedner"}]},"title":"Mapping Laboratory Medicine onto the Select and Test Model to Facilitate Knowledge-Based Report Generation in Laboratory Medicine.","venue":"AIME","pages":"265-275","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/KindlerDFF95","doi":"10.1007/3-540-60025-6_143","ee":"https://doi.org/10.1007/3-540-60025-6_143","url":"https://dblp.org/rec/conf/aime/KindlerDFF95"},
+"url":"URL#7553035"
+},
+{
+"@score":"1",
+"@id":"7553036",
+"info":{"authors":{"author":[{"@pid":"55/4995","text":"Marek Kurzynski"},{"@pid":"37/5714-1","text":"Michal Wozniak 0001"},{"@pid":"71/2247","text":"Alexandra Blinowska"}]},"title":"Diagnosis of Human Acid-Base Balance States via Combined Pattern Recognition of Markov Chains.","venue":"AIME","pages":"405-406","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/KurzynskiWB95","doi":"10.1007/3-540-60025-6_160","ee":"https://doi.org/10.1007/3-540-60025-6_160","url":"https://dblp.org/rec/conf/aime/KurzynskiWB95"},
+"url":"URL#7553036"
+},
+{
+"@score":"1",
+"@id":"7553037",
+"info":{"authors":{"author":[{"@pid":"32/2646","text":"Giordano Lanzola"},{"@pid":"64/4401","text":"Sabina Falasconi"},{"@pid":"46/2882","text":"Mario Stefanelli"}]},"title":"Cooperative Software Agents for Patient Management.","venue":"AIME","pages":"173-184","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/LanzolaFS95","doi":"10.1007/3-540-60025-6_135","ee":"https://doi.org/10.1007/3-540-60025-6_135","url":"https://dblp.org/rec/conf/aime/LanzolaFS95"},
+"url":"URL#7553037"
+},
+{
+"@score":"1",
+"@id":"7553038",
+"info":{"authors":{"author":[{"@pid":"57/1813","text":"Cristiana Larizza"},{"@pid":"40/2228","text":"Gabriele Bernuzzi"},{"@pid":"46/2882","text":"Mario Stefanelli"}]},"title":"A General Framework for Building Patient Monitoring Systems.","venue":"AIME","pages":"91-102","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/LarizzaBS95","doi":"10.1007/3-540-60025-6_128","ee":"https://doi.org/10.1007/3-540-60025-6_128","url":"https://dblp.org/rec/conf/aime/LarizzaBS95"},
+"url":"URL#7553038"
+},
+{
+"@score":"1",
+"@id":"7553039",
+"info":{"authors":{"author":[{"@pid":"04/1020","text":"Christian Lovis"},{"@pid":"39/2694","text":"Pierre-André Michel"},{"@pid":"90/5209","text":"Robert H. Baud"},{"@pid":"77/6195","text":"Jean-Raoul Scherrer"}]},"title":"Use of a Conceptual Semi-Automatic ICD-9 Encoding System in a Hospital Environment.","venue":"AIME","pages":"331-339","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/LovisMBS95","doi":"10.1007/3-540-60025-6_149","ee":"https://doi.org/10.1007/3-540-60025-6_149","url":"https://dblp.org/rec/conf/aime/LovisMBS95"},
+"url":"URL#7553039"
+},
+{
+"@score":"1",
+"@id":"7553040",
+"info":{"authors":{"author":[{"@pid":"82/6398","text":"Ian McClelland"},{"@pid":"05/5286","text":"Kenneth Adamson"},{"@pid":"b/NormanDBlack","text":"Norman D. Black"}]},"title":"Telecardiology.","venue":"AIME","pages":"409-410","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/McClellandAB95","doi":"10.1007/3-540-60025-6_162","ee":"https://doi.org/10.1007/3-540-60025-6_162","url":"https://dblp.org/rec/conf/aime/McClellandAB95"},
+"url":"URL#7553040"
+},
+{
+"@score":"1",
+"@id":"7553041",
+"info":{"authors":{"author":[{"@pid":"m/VincenzoDellaMea","text":"Vincenzo Della Mea"},{"@pid":"67/1677","text":"Nicoletta Finato"},{"@pid":"43/463","text":"Carlo Alberto Beltrami"}]},"title":"A Graph-Based Approach to the Structural Analysis of Proliferative Breast Lesions.","venue":"AIME","pages":"413-414","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/MeaFB95","doi":"10.1007/3-540-60025-6_164","ee":"https://doi.org/10.1007/3-540-60025-6_164","url":"https://dblp.org/rec/conf/aime/MeaFB95"},
+"url":"URL#7553041"
+},
+{
+"@score":"1",
+"@id":"7553042",
+"info":{"authors":{"author":[{"@pid":"48/4040","text":"Silvia Miksch"},{"@pid":"79/2268","text":"Werner Horn"},{"@pid":"45/4375","text":"Christian Popow"},{"@pid":"78/6936","text":"Franz Paky"}]},"title":"Therapy Planning Using Qualtitative Trend Descriptions.","venue":"AIME","pages":"197-208","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/MikschHPP95","doi":"10.1007/3-540-60025-6_137","ee":"https://doi.org/10.1007/3-540-60025-6_137","url":"https://dblp.org/rec/conf/aime/MikschHPP95"},
+"url":"URL#7553042"
+},
+{
+"@score":"1",
+"@id":"7553043",
+"info":{"authors":{"author":[{"@pid":"91/5218","text":"Mark A. Musen"},{"@pid":"61/5359","text":"Samson W. Tu"},{"@pid":"99/5148","text":"Amar K. Das"},{"@pid":"73/5503","text":"Yuval Shahar"}]},"title":"A Component-Based Architecture for Automation of Protocol-Directed Therapy.","venue":"AIME","pages":"3-13","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/MusenTDS95","doi":"10.1007/3-540-60025-6_121","ee":"https://doi.org/10.1007/3-540-60025-6_121","url":"https://dblp.org/rec/conf/aime/MusenTDS95"},
+"url":"URL#7553043"
+},
+{
+"@score":"1",
+"@id":"7553044",
+"info":{"authors":{"author":[{"@pid":"154/3328","text":"Doyen T. Nguyen"},{"@pid":"31/4702","text":"I. A. Park"},{"@pid":"78/5057","text":"P. Cherubino"},{"@pid":"65/6009","text":"P. B. Tamino"},{"@pid":"59/2092","text":"Lawrence W. Diamond"}]},"title":"Knowledge-Based Systems for Lymph Node Pathology: A Comparison of Two Approaches.","venue":"AIME","pages":"251-261","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/NguyenPCTD95","doi":"10.1007/3-540-60025-6_142","ee":"https://doi.org/10.1007/3-540-60025-6_142","url":"https://dblp.org/rec/conf/aime/NguyenPCTD95"},
+"url":"URL#7553044"
+},
+{
+"@score":"1",
+"@id":"7553045",
+"info":{"authors":{"author":[{"@pid":"94/6560","text":"Christian Ohmann"},{"@pid":"15/6961","text":"Q. Yang"},{"@pid":"57/724","text":"Vassilis Moustakis"},{"@pid":"65/7378","text":"Konrad Lang"},{"@pid":"15/3924","text":"P. J. van Elk"}]},"title":"Machine Learning Techniques Applied to the Diagnosis of Acute Abdominal Pain.","venue":"AIME","pages":"276-281","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/OhmannYMLE95","doi":"10.1007/3-540-60025-6_144","ee":"https://doi.org/10.1007/3-540-60025-6_144","url":"https://dblp.org/rec/conf/aime/OhmannYMLE95"},
+"url":"URL#7553045"
+},
+{
+"@score":"1",
+"@id":"7553046",
+"info":{"authors":{"author":[{"@pid":"21/4620","text":"I. F. Olkhovsky"},{"@pid":"59/1321","text":"S. I. Blokhina"}]},"title":"Intelligence Formation Problems in Children at an Early Age Applying New Computer Technologies under Conditions of Rehabilitation Center.","venue":"AIME","pages":"407-408","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/OlkhovskyB95","doi":"10.1007/3-540-60025-6_161","ee":"https://doi.org/10.1007/3-540-60025-6_161","url":"https://dblp.org/rec/conf/aime/OlkhovskyB95"},
+"url":"URL#7553046"
+},
+{
+"@score":"1",
+"@id":"7553047",
+"info":{"authors":{"author":{"@pid":"64/348","text":"Natalya Polikarpova"}},"title":"An Approach to Analysis of Qualitative Data with Insufficient Number of Quantization Levels.","venue":"AIME","pages":"429-430","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Polikarpova95","doi":"10.1007/3-540-60025-6_172","ee":"https://doi.org/10.1007/3-540-60025-6_172","url":"https://dblp.org/rec/conf/aime/Polikarpova95"},
+"url":"URL#7553047"
+},
+{
+"@score":"1",
+"@id":"7553048",
+"info":{"authors":{"author":{"@pid":"42/6124","text":"Bernhard Puppe"}},"title":"Reflections on Building Medical Decision Support Systems and Corresponding Implementation in Diagnostics Shell D3.","venue":"AIME","pages":"282-292","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Puppe95","doi":"10.1007/3-540-60025-6_145","ee":"https://doi.org/10.1007/3-540-60025-6_145","url":"https://dblp.org/rec/conf/aime/Puppe95"},
+"url":"URL#7553048"
+},
+{
+"@score":"1",
+"@id":"7553049",
+"info":{"authors":{"author":[{"@pid":"14/4857","text":"Frank Puppe"},{"@pid":"06/5344","text":"Bettina Reinhardt"},{"@pid":"74/6425","text":"Klaus Poeck"}]},"title":"Generated Critic in the Knowledge Based Neurology Trainer.","venue":"AIME","pages":"427-428","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/PuppeRP95","doi":"10.1007/3-540-60025-6_171","ee":"https://doi.org/10.1007/3-540-60025-6_171","url":"https://dblp.org/rec/conf/aime/PuppeRP95"},
+"url":"URL#7553049"
+},
+{
+"@score":"1",
+"@id":"7553050",
+"info":{"authors":{"author":[{"@pid":"47/2362","text":"Silvana Quaglini"},{"@pid":"46/2882","text":"Mario Stefanelli"},{"@pid":"97/4690","text":"Franco Locatelli"}]},"title":"Decision Models for Cost-Effectiveness Analysis: A Means for Knowledge Sharing and Quality Control in Health Care Multidisciplinary Tasks.","venue":"AIME","pages":"295-306","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/QuagliniSL95","doi":"10.1007/3-540-60025-6_146","ee":"https://doi.org/10.1007/3-540-60025-6_146","url":"https://dblp.org/rec/conf/aime/QuagliniSL95"},
+"url":"URL#7553050"
+},
+{
+"@score":"1",
+"@id":"7553051",
+"info":{"authors":{"author":[{"@pid":"r/MarcoRamoni","text":"Marco Ramoni"},{"@pid":"14/3936","text":"Alberto Riva"},{"@pid":"46/2882","text":"Mario Stefanelli"},{"@pid":"93/6200","text":"Vimla L. Patel"}]},"title":"Medical Decision Making Using Ignorant Influence Diagrams.","venue":"AIME","pages":"139-150","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/RamoniRSP95","doi":"10.1007/3-540-60025-6_132","ee":"https://doi.org/10.1007/3-540-60025-6_132","url":"https://dblp.org/rec/conf/aime/RamoniRSP95"},
+"url":"URL#7553051"
+},
+{
+"@score":"1",
+"@id":"7553052",
+"info":{"authors":{"author":[{"@pid":"51/1869","text":"Anne-Marie Rassinoux"},{"@pid":"53/3249","text":"C. Juge"},{"@pid":"39/2694","text":"Pierre-André Michel"},{"@pid":"90/5209","text":"Robert H. Baud"},{"@pid":"65/11534","text":"David Lemaitre"},{"@pid":"282/7826","text":"François-Christophe Jean"},{"@pid":"74/5559","text":"Patrice Degoulet"},{"@pid":"77/6195","text":"Jean-Raoul Scherrer"}]},"title":"Analysis of Medical Jargon: The RECIT System.","venue":"AIME","pages":"42-52","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/RassinouxJMBLJDS95","doi":"10.1007/3-540-60025-6_124","ee":"https://doi.org/10.1007/3-540-60025-6_124","url":"https://dblp.org/rec/conf/aime/RassinouxJMBLJDS95"},
+"url":"URL#7553052"
+},
+{
+"@score":"1",
+"@id":"7553053",
+"info":{"authors":{"author":{"@pid":"91/4955","text":"Alan L. Rector"}},"title":"Coordinating Taxonomies: Key to Re-Usable Concept Representations.","venue":"AIME","pages":"17-28","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Rector95","doi":"10.1007/3-540-60025-6_122","ee":"https://doi.org/10.1007/3-540-60025-6_122","url":"https://dblp.org/rec/conf/aime/Rector95"},
+"url":"URL#7553053"
+},
+{
+"@score":"1",
+"@id":"7553054",
+"info":{"authors":{"author":[{"@pid":"14/3936","text":"Alberto Riva"},{"@pid":"27/3072","text":"Riccardo Bellazzi"}]},"title":"High Level Control Strategies for Diabetes Therapy.","venue":"AIME","pages":"185-196","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/RivaB95","doi":"10.1007/3-540-60025-6_136","ee":"https://doi.org/10.1007/3-540-60025-6_136","url":"https://dblp.org/rec/conf/aime/RivaB95"},
+"url":"URL#7553054"
+},
+{
+"@score":"1",
+"@id":"7553055",
+"info":{"authors":{"author":[{"@pid":"85/5635","text":"Edith Safran"},{"@pid":"15/2820","text":"Didier Pittet"},{"@pid":"62/4766","text":"François Borst"},{"@pid":"90/370","text":"Gérald Thurler"},{"@pid":"08/5082","text":"Marcel Berthoud"},{"@pid":"55/7020","text":"Pascale Schulthess"},{"@pid":"65/4485","text":"Pascale Copin"},{"@pid":"30/2578","text":"Valérie Sauvan"},{"@pid":"09/3489","text":"Anna Alexiou"},{"@pid":"61/4734","text":"Ludovic Rebouillat"},{"@pid":"64/90","text":"Mathieu Lagana"},{"@pid":"24/3369","text":"Jean-Philippe Berney"},{"@pid":"42/5534","text":"Peter Rohner"},{"@pid":"91/669","text":"Raymond Auckenthaler"},{"@pid":"77/6195","text":"Jean-Raoul Scherrer"}]},"title":"Alerts as Starting Point for Hospital Infection Surveillance and Control.","venue":"AIME","pages":"165-172","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SafranPBTBSCSARLBRAS95","doi":"10.1007/3-540-60025-6_134","ee":"https://doi.org/10.1007/3-540-60025-6_134","url":"https://dblp.org/rec/conf/aime/SafranPBTBSCSARLBRAS95"},
+"url":"URL#7553055"
+},
+{
+"@score":"1",
+"@id":"7553056",
+"info":{"authors":{"author":[{"@pid":"45/5588","text":"E. Salzsieder"},{"@pid":"06/647","text":"U. Fischer"},{"@pid":"89/1502","text":"A. Hierle"},{"@pid":"19/5773","text":"U. Oppel"},{"@pid":"10/810","text":"A. Rutscher"},{"@pid":"79/4913","text":"C. Sell"}]},"title":"Knowledge-Based Education Tool to Improve Quality in Diabetes Care.","venue":"AIME","pages":"417-418","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SalzsiederFHORS95","doi":"10.1007/3-540-60025-6_166","ee":"https://doi.org/10.1007/3-540-60025-6_166","url":"https://dblp.org/rec/conf/aime/SalzsiederFHORS95"},
+"url":"URL#7553056"
+},
+{
+"@score":"1",
+"@id":"7553057",
+"info":{"authors":{"author":[{"@pid":"50/6445-2","text":"Rainer Schmidt 0002"},{"@pid":"73/1752","text":"L. Boscher"},{"@pid":"42/4759","text":"Bernhard Heindl"},{"@pid":"03/7022","text":"G. Schmid"},{"@pid":"61/1037","text":"Bernhard Pollwein"},{"@pid":"58/3935","text":"Lothar Gierl"}]},"title":"Adaptation and Abstraction in a Case-Based Antibiotics Therapy Adviser.","venue":"AIME","pages":"209-217","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SchmidtBHSPG95","doi":"10.1007/3-540-60025-6_138","ee":"https://doi.org/10.1007/3-540-60025-6_138","url":"https://dblp.org/rec/conf/aime/SchmidtBHSPG95"},
+"url":"URL#7553057"
+},
+{
+"@score":"1",
+"@id":"7553058",
+"info":{"authors":{"author":[{"@pid":"79/4913","text":"C. Sell"},{"@pid":"50/2449","text":"S. Herfurth"},{"@pid":"10/810","text":"A. Rutscher"},{"@pid":"45/5588","text":"E. Salzsieder"},{"@pid":"89/1502","text":"A. Hierle"},{"@pid":"19/5773","text":"U. Oppel"},{"@pid":"00/6561","text":"M. Förster"},{"@pid":"98/3084","text":"G. Müller"}]},"title":"Knowledge-Based System to Predict the Effect of Pregnancy on Progression of Diabetic Retinopathy.","venue":"AIME","pages":"441-442","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SellHRSHOFM95","doi":"10.1007/3-540-60025-6_178","ee":"https://doi.org/10.1007/3-540-60025-6_178","url":"https://dblp.org/rec/conf/aime/SellHRSHOFM95"},
+"url":"URL#7553058"
+},
+{
+"@score":"1",
+"@id":"7553059",
+"info":{"authors":{"author":[{"@pid":"37/6442","text":"Nosrat Shahsavar"},{"@pid":"24/4945","text":"Ove Wigertz"}]},"title":"Development and Evaluation of a Knowledge-Based System to Support Ventilator Therapy Management.","venue":"AIME","pages":"433-434","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ShahsavarW95","doi":"10.1007/3-540-60025-6_174","ee":"https://doi.org/10.1007/3-540-60025-6_174","url":"https://dblp.org/rec/conf/aime/ShahsavarW95"},
+"url":"URL#7553059"
+},
+{
+"@score":"1",
+"@id":"7553060",
+"info":{"authors":{"author":[{"@pid":"80/2146","text":"J. F. Smart"},{"@pid":"40/3984","text":"M. Roux"}]},"title":"Medical Knowledge Representation for Medical Report Analysis.","venue":"AIME","pages":"53-64","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SmartR95","doi":"10.1007/3-540-60025-6_125","ee":"https://doi.org/10.1007/3-540-60025-6_125","url":"https://dblp.org/rec/conf/aime/SmartR95"},
+"url":"URL#7553060"
+},
+{
+"@score":"1",
+"@id":"7553061",
+"info":{"authors":{"author":[{"@pid":"05/4227","text":"Corneliu Spinu"},{"@pid":"g/CGarbay","text":"Catherine Garbay"},{"@pid":"07/251","text":"Jean-Marc Chassery"}]},"title":"A Cooperative and Adaptive Approach to Medical Image Segmentation.","venue":"AIME","pages":"379-390","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SpinuGC95","doi":"10.1007/3-540-60025-6_153","ee":"https://doi.org/10.1007/3-540-60025-6_153","url":"https://dblp.org/rec/conf/aime/SpinuGC95"},
+"url":"URL#7553061"
+},
+{
+"@score":"1",
+"@id":"7553062",
+"info":{"authors":{"author":[{"@pid":"50/5529","text":"Geri Steve"},{"@pid":"28/6504","text":"Aldo Gangemi"},{"@pid":"57/442","text":"Angelo Rossi Mori"}]},"title":"Modelling a Sharable Medical Concept System: Ontological Foundation in GALEN.","venue":"AIME","pages":"411-412","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SteveGM95","doi":"10.1007/3-540-60025-6_163","ee":"https://doi.org/10.1007/3-540-60025-6_163","url":"https://dblp.org/rec/conf/aime/SteveGM95"},
+"url":"URL#7553062"
+},
+{
+"@score":"1",
+"@id":"7553063",
+"info":{"authors":{"author":[{"@pid":"95/2731","text":"Alessandro Taddei"},{"@pid":"57/5807","text":"Manila Niccolai"},{"@pid":"01/3594","text":"Mauro Raciti"},{"@pid":"90/4035","text":"Claudio Michelassi"},{"@pid":"59/5751","text":"Michele Emdin"},{"@pid":"22/5182","text":"Paolo Marzullo"},{"@pid":"15/5990","text":"Carlo Marchesi"}]},"title":"A Workstation for Clinical Decision Support in a Local Area Network for Cardiology.","venue":"AIME","pages":"415-416","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/TaddeiNRMEMM95","doi":"10.1007/3-540-60025-6_165","ee":"https://doi.org/10.1007/3-540-60025-6_165","url":"https://dblp.org/rec/conf/aime/TaddeiNRMEMM95"},
+"url":"URL#7553063"
+},
+{
+"@score":"1",
+"@id":"7553064",
+"info":{"authors":{"author":[{"@pid":"66/3259","text":"Shusaku Tsumoto"},{"@pid":"41/4423","text":"Hiroshi Tanaka"}]},"title":"Induction of Expert System Rules from Clinical Databases Based on Rough Set Theory and Resampling Methods.","venue":"AIME","pages":"399-400","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/TsumotoT95","doi":"10.1007/3-540-60025-6_157","ee":"https://doi.org/10.1007/3-540-60025-6_157","url":"https://dblp.org/rec/conf/aime/TsumotoT95"},
+"url":"URL#7553064"
+},
+{
+"@score":"1",
+"@id":"7553065",
+"info":{"authors":{"author":[{"@pid":"66/3259","text":"Shusaku Tsumoto"},{"@pid":"41/4423","text":"Hiroshi Tanaka"},{"@pid":"61/117","text":"Hiromi Amano"},{"@pid":"07/4168","text":"Kimie Ohyama"},{"@pid":"71/6655","text":"Takayuki Kuroda"}]},"title":"COBRA: Integration of Knowledge-Bases with Case-Databases in the Domain of Congenital Malformation.","venue":"AIME","pages":"393-394","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/TsumotoTAOK95","doi":"10.1007/3-540-60025-6_154","ee":"https://doi.org/10.1007/3-540-60025-6_154","url":"https://dblp.org/rec/conf/aime/TsumotoTAOK95"},
+"url":"URL#7553065"
+},
+{
+"@score":"1",
+"@id":"7553066",
+"info":{"authors":{"author":[{"@pid":"38/2096","text":"Alfred Ultsch"},{"@pid":"92/503","text":"Dieter Korus"},{"@pid":"36/4163","text":"T. O. Kleine"}]},"title":"Integration of Neural Networks and Knowledge-Based Systems in Medicine.","venue":"AIME","pages":"425-426","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/UltschKK95","doi":"10.1007/3-540-60025-6_170","ee":"https://doi.org/10.1007/3-540-60025-6_170","url":"https://dblp.org/rec/conf/aime/UltschKK95"},
+"url":"URL#7553066"
+},
+{
+"@score":"1",
+"@id":"7553067",
+"info":{"authors":{"author":[{"@pid":"12/2675","text":"Thomas Waschulzik"},{"@pid":"b/WBrauer","text":"Wilfried Brauer"},{"@pid":"00/6561","text":"M. Förster"},{"@pid":"28/5727","text":"K. Kirchner"},{"@pid":"23/806","text":"Rolf Engelbrecht"},{"@pid":"65/2589","text":"T. Schütz"},{"@pid":"60/5585","text":"T. Koschinsky"},{"@pid":"42/4261","text":"G. Entenmann"}]},"title":"Quality Assurance and Increased Efficiency in Medical Projects with Neural Networks by Using a Structured Development Method for Feedforward Neural Networks (SENN).","venue":"AIME","pages":"343-354","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/WalschulzikBFKESKE95","doi":"10.1007/3-540-60025-6_150","ee":"https://doi.org/10.1007/3-540-60025-6_150","url":"https://dblp.org/rec/conf/aime/WalschulzikBFKESKE95"},
+"url":"URL#7553067"
+},
+{
+"@score":"1",
+"@id":"7553068",
+"info":{"authors":{"author":[{"@pid":"41/3830","text":"G. Zeilinger"},{"@pid":"35/5101","text":"J. De Mey"},{"@pid":"83/4818","text":"Günther Gell"},{"@pid":"24/2055","text":"G. Vrisk"}]},"title":"DECISion-Support System for Radiological Diagnostic.","venue":"AIME","pages":"437-438","year":"1995","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ZeilingerMGV95","doi":"10.1007/3-540-60025-6_176","ee":"https://doi.org/10.1007/3-540-60025-6_176","url":"https://dblp.org/rec/conf/aime/ZeilingerMGV95"},
+"url":"URL#7553068"
+},
+{
+"@score":"1",
+"@id":"7576088",
+"info":{"authors":{"author":[{"@pid":"b/PBarahona","text":"Pedro Barahona"},{"@pid":"46/2882","text":"Mario Stefanelli"},{"@pid":"46/1761","text":"Jeremy C. Wyatt"}]},"title":"Artificial Intelligence Medicine, 5th Conference on Artificial Intelligence in Medicine in Europe, AIME&apos;95, Pavia, Italy, June 25-28, 1995, Proceedings","venue":["AIME","Lecture Notes in Computer Science"],"volume":"934","publisher":"Springer","year":"1995","type":"Editorship","key":"conf/aime/1995","doi":"10.1007/3-540-60025-6","ee":"https://doi.org/10.1007/3-540-60025-6","url":"https://dblp.org/rec/conf/aime/1995"},
+"url":"URL#7576088"
+}
+]
+}
+}
+}

@@ -1,0 +1,28 @@
+node1,node2,similarity,distance
+Diffusion models,text-to-image generation,0.7602,0.6925
+Diffusion models,interpretability analyses,-0.2383,1.5737
+Diffusion models,Stable Diffusion,-0.1513,1.5174
+interpretability analyses,text-to-image generation,-0.2512,1.5819
+Stable Diffusion,text-to-image generation,-0.2521,1.5825
+Stable Diffusion,interpretability analyses,0.0668,1.3662
+Diffusion models,cross-attention maps,0.6743,0.8071
+DAAM,Diffusion models,0.1331,1.3167
+cross-attention maps,text-to-image generation,0.9434,0.3364
+DAAM,text-to-image generation,0.0278,1.3945
+cross-attention maps,interpretability analyses,-0.1789,1.5355
+DAAM,interpretability analyses,0.4952,1.0048
+Stable Diffusion,cross-attention maps,0.0106,1.4067
+DAAM,Stable Diffusion,-0.4104,1.6795
+DAAM,cross-attention maps,-0.1217,1.4978
+Stable Diffusion,segmentation ability,0.0921,1.3475
+cross-attention maps,segmentation ability,0.9681,0.2524
+DAAM,segmentation ability,-0.1029,1.4852
+DAAM,syntax,-0.1929,1.5446
+DAAM,dependency relations,0.754,0.7014
+segmentation ability,syntax,-0.2921,1.6076
+dependency relations,segmentation ability,0.0131,1.4049
+dependency relations,syntax,-0.2953,1.6096
+DAAM,feature entanglement,0.2406,1.2324
+feature entanglement,syntax,-0.0432,1.4444
+dependency relations,feature entanglement,0.5528,0.9458
+Diffusion models,feature entanglement,0.9533,0.3057

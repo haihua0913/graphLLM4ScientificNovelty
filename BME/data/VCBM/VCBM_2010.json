@@ -1,0 +1,140 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/vcbm/vcbm2010.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"70.82"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"18",
+"@dc":"18",
+"@oc":"18",
+"@id":"48926937",
+"text":":facetid:toc:db/conf/vcbm/vcbm2010.bht"
+}
+},
+"hits":{
+"@total":"18",
+"@computed":"18",
+"@sent":"18",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5778137",
+"info":{"authors":{"author":[{"@pid":"37/9396","text":"Paolo Angelelli"},{"@pid":"21/4861","text":"Ivan Viola"},{"@pid":"33/9396","text":"Kim Nylund"},{"@pid":"38/9396","text":"Odd Helge Gilja"},{"@pid":"73/6704","text":"Helwig Hauser"}]},"title":"Guided Visualization of Ultrasound Image Sequences.","venue":"VCBM","pages":"125-132","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/AngelelliVNGH10","doi":"10.2312/VCBM/VCBM10/125-132","ee":"https://doi.org/10.2312/VCBM/VCBM10/125-132","url":"https://dblp.org/rec/conf/vcbm/AngelelliVNGH10"},
+"url":"URL#5778137"
+},
+{
+"@score":"1",
+"@id":"5778138",
+"info":{"authors":{"author":[{"@pid":"57/6684","text":"Alexandra Baer"},{"@pid":"42/9396","text":"Kerstin Kellermann"},{"@pid":"p/BPreim","text":"Bernhard Preim"}]},"title":"Importance-Driven Structure Categorization for 3D Surgery Planning.","venue":"VCBM","pages":"99-107","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/BaerKP10","doi":"10.2312/VCBM/VCBM10/099-107","ee":"https://doi.org/10.2312/VCBM/VCBM10/099-107","url":"https://dblp.org/rec/conf/vcbm/BaerKP10"},
+"url":"URL#5778138"
+},
+{
+"@score":"1",
+"@id":"5778139",
+"info":{"authors":{"author":[{"@pid":"27/9396","text":"Courtney A. Bishop"},{"@pid":"67/24","text":"Mark Jenkinson"},{"@pid":"33/367","text":"Jérôme Declerck"},{"@pid":"63/3515","text":"Dorit Merhof"}]},"title":"Evaluation of Hippocampal Segmentation Methods for Healthy and Pathological Subjects.","venue":"VCBM","pages":"17-24","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/BishopJDM10","doi":"10.2312/VCBM/VCBM10/017-024","ee":"https://doi.org/10.2312/VCBM/VCBM10/017-024","url":"https://dblp.org/rec/conf/vcbm/BishopJDM10"},
+"url":"URL#5778139"
+},
+{
+"@score":"1",
+"@id":"5778140",
+"info":{"authors":{"author":[{"@pid":"31/9396","text":"Alessandro Crippa"},{"@pid":"54/6121","text":"Natasha M. Maurits"},{"@pid":"r/JBTMRoerdink","text":"Jos B. T. M. Roerdink"}]},"title":"Graph Averaging as a Means to Compare Multichannel EEG Coherence Networks.","venue":"VCBM","pages":"33-40","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/CrippaMR10","doi":"10.2312/VCBM/VCBM10/033-040","ee":"https://doi.org/10.2312/VCBM/VCBM10/033-040","url":"https://dblp.org/rec/conf/vcbm/CrippaMR10"},
+"url":"URL#5778140"
+},
+{
+"@score":"1",
+"@id":"5778141",
+"info":{"authors":{"author":[{"@pid":"28/9396","text":"Andre F. van Dixhoorn"},{"@pid":"41/9396","text":"Bastijn H. Vissers"},{"@pid":"75/1888","text":"Luca Ferrarini"},{"@pid":"96/5431","text":"Julien Milles"},{"@pid":"24/5761","text":"Charl P. Botha"}]},"title":"Visual Analysis of Integrated Resting State Functional Brain Connectivity and Anatomy.","venue":"VCBM","pages":"57-64","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/DixhoornVFMB10","doi":"10.2312/VCBM/VCBM10/057-064","ee":"https://doi.org/10.2312/VCBM/VCBM10/057-064","url":"https://dblp.org/rec/conf/vcbm/DixhoornVFMB10"},
+"url":"URL#5778141"
+},
+{
+"@score":"1",
+"@id":"5778142",
+"info":{"authors":{"author":[{"@pid":"64/4797","text":"Rocco Gasteiger"},{"@pid":"95/2882","text":"Mathias Neugebauer"},{"@pid":"65/2798","text":"Christoph Kubisch"},{"@pid":"p/BPreim","text":"Bernhard Preim"}]},"title":"Adapted Surface Visualization of Cerebral Aneurysms with Embedded Blood Flow Information.","venue":"VCBM","pages":"25-32","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/GasteigerNKP10","doi":"10.2312/VCBM/VCBM10/025-032","ee":"https://doi.org/10.2312/VCBM/VCBM10/025-032","url":"https://dblp.org/rec/conf/vcbm/GasteigerNKP10"},
+"url":"URL#5778142"
+},
+{
+"@score":"1",
+"@id":"5778143",
+"info":{"authors":{"author":[{"@pid":"79/7923","text":"Frank Heckel"},{"@pid":"28/5446","text":"Olaf Konrad"},{"@pid":"78/3206","text":"Heinz-Otto Peitgen"}]},"title":"Fast and Smooth Interactive Segmentation of Medical Images Using Variational Interpolation.","venue":"VCBM","pages":"9-16","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/HeckelKP10","doi":"10.2312/VCBM/VCBM10/009-016","ee":"https://doi.org/10.2312/VCBM/VCBM10/009-016","url":"https://dblp.org/rec/conf/vcbm/HeckelKP10"},
+"url":"URL#5778143"
+},
+{
+"@score":"1",
+"@id":"5778144",
+"info":{"authors":{"author":[{"@pid":"82/1811","text":"Ilknur Kabul"},{"@pid":"60/1661","text":"Derek Merck"},{"@pid":"66/1141","text":"Julian G. Rosenman"},{"@pid":"92/41","text":"Stephen M. Pizer"}]},"title":"Model-based Solid Texture Synthesis for Anatomic Volume Illustration.","venue":"VCBM","pages":"133-140","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/KabulMRP10","doi":"10.2312/VCBM/VCBM10/133-140","ee":"https://doi.org/10.2312/VCBM/VCBM10/133-140","url":"https://dblp.org/rec/conf/vcbm/KabulMRP10"},
+"url":"URL#5778144"
+},
+{
+"@score":"1",
+"@id":"5778145",
+"info":{"authors":{"author":[{"@pid":"03/7528","text":"Thomas Kerwin"},{"@pid":"46/9396","text":"Bradley Hittle"},{"@pid":"61/6829","text":"Han-Wei Shen"},{"@pid":"10/6358","text":"Don Stredney"},{"@pid":"65/2607","text":"Gregory J. Wiet"}]},"title":"Anatomical Volume Visualization with Weighted Distance Fields.","venue":"VCBM","pages":"117-124","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/KerwinHSSW10","doi":"10.2312/VCBM/VCBM10/117-124","ee":"https://doi.org/10.2312/VCBM/VCBM10/117-124","url":"https://dblp.org/rec/conf/vcbm/KerwinHSSW10"},
+"url":"URL#5778145"
+},
+{
+"@score":"1",
+"@id":"5778146",
+"info":{"authors":{"author":[{"@pid":"10/8348","text":"Cristina Oyarzun Laura"},{"@pid":"25/8351","text":"Klaus Drechsler"}]},"title":"Efficient Globally Optimal Matching of Anatomical Trees of the Liver.","venue":"VCBM","pages":"75-82","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/LauraD10","doi":"10.2312/VCBM/VCBM10/075-082","ee":"https://doi.org/10.2312/VCBM/VCBM10/075-082","url":"https://dblp.org/rec/conf/vcbm/LauraD10"},
+"url":"URL#5778146"
+},
+{
+"@score":"1",
+"@id":"5778147",
+"info":{"authors":{"author":[{"@pid":"72/1414","text":"Frederic F. Leymarie"},{"@pid":"21/4361","text":"Ming-Ching Chang"},{"@pid":"93/4846","text":"Celina Imielinska"},{"@pid":"90/2917","text":"Benjamin B. Kimia"}]},"title":"A General Approach to Model Biomedical Data from 3D Unorganised Point Clouds with Medial Scaffolds.","venue":"VCBM","pages":"65-74","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/LeymarieCIK10","doi":"10.2312/VCBM/VCBM10/065-074","ee":"https://doi.org/10.2312/VCBM/VCBM10/065-074","url":"https://dblp.org/rec/conf/vcbm/LeymarieCIK10"},
+"url":"URL#5778147"
+},
+{
+"@score":"1",
+"@id":"5778148",
+"info":{"authors":{"author":[{"@pid":"47/6661","text":"Tobias Mönch"},{"@pid":"08/3076","text":"Simon Adler"},{"@pid":"p/BPreim","text":"Bernhard Preim"}]},"title":"Staircase-Aware Smoothing of Medical Surface Meshes.","venue":"VCBM","pages":"83-90","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MonchAP10","doi":"10.2312/VCBM/VCBM10/083-090","ee":"https://doi.org/10.2312/VCBM/VCBM10/083-090","url":"https://dblp.org/rec/conf/vcbm/MonchAP10"},
+"url":"URL#5778148"
+},
+{
+"@score":"1",
+"@id":"5778149",
+"info":{"authors":{"author":[{"@pid":"47/9396","text":"Erik Pernod"},{"@pid":"92/5704","text":"Maxime Sermesant"},{"@pid":"77/4851","text":"Jatin Relan"},{"@pid":"d/HerveDelingette","text":"Hervé Delingette"}]},"title":"Interactive Real Time Simulation of Cardiac Radio-Frequency Ablation.","venue":"VCBM","pages":"91-98","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/PernodSRD10","doi":"10.2312/VCBM/VCBM10/091-098","ee":"https://doi.org/10.2312/VCBM/VCBM10/091-098","url":"https://dblp.org/rec/conf/vcbm/PernodSRD10"},
+"url":"URL#5778149"
+},
+{
+"@score":"1",
+"@id":"5778150",
+"info":{"authors":{"author":[{"@pid":"142/1250","text":"Paulo Reis Rodrigues"},{"@pid":"85/168","text":"Remco Duits"},{"@pid":"50/2922","text":"Bart M. ter Haar Romeny"},{"@pid":"v/AnnaVilanova","text":"Anna Vilanova"}]},"title":"Accelerated Diffusion Operators for Enhancing DW-MRI.","venue":"VCBM","pages":"49-56","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/RodriguesDRV10","doi":"10.2312/VCBM/VCBM10/049-056","ee":"https://doi.org/10.2312/VCBM/VCBM10/049-056","url":"https://dblp.org/rec/conf/vcbm/RodriguesDRV10"},
+"url":"URL#5778150"
+},
+{
+"@score":"1",
+"@id":"5778151",
+"info":{"authors":{"author":[{"@pid":"04/7091","text":"Ivo Rössling"},{"@pid":"82/4392","text":"Peter Hahn"},{"@pid":"99/7090","text":"Christian Cyrus"},{"@pid":"65/2091","text":"Lars Dornheim"}]},"title":"Estimation of the Midsagittal Plane for Sideness Determination of Malignant Structures of Head and Neck.","venue":"VCBM","pages":"109-115","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/RosslingHCD10","doi":"10.2312/VCBM/VCBM10/109-115","ee":"https://doi.org/10.2312/VCBM/VCBM10/109-115","url":"https://dblp.org/rec/conf/vcbm/RosslingHCD10"},
+"url":"URL#5778151"
+},
+{
+"@score":"1",
+"@id":"5778152",
+"info":{"authors":{"author":[{"@pid":"30/9396","text":"Peter J. Schaafsma"},{"@pid":"17/4965","text":"Sander Schutte"},{"@pid":"19/6230","text":"Huib J. Simonsz"},{"@pid":"68/993","text":"Frits H. Post"},{"@pid":"24/5761","text":"Charl P. Botha"}]},"title":"Dynamic Visualisation of Orbital Fat Deformation using Anatomy-Guided Interaction.","venue":"VCBM","pages":"1-8","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SchaafsmaSSPB10","doi":"10.2312/VCBM/VCBM10/001-008","ee":"https://doi.org/10.2312/VCBM/VCBM10/001-008","url":"https://dblp.org/rec/conf/vcbm/SchaafsmaSSPB10"},
+"url":"URL#5778152"
+},
+{
+"@score":"1",
+"@id":"5778153",
+"info":{"authors":{"author":[{"@pid":"48/9396","text":"Ralph Schurade"},{"@pid":"47/2500","text":"Mario Hlawitschka"},{"@pid":"75/4849","text":"Bernd Hamann"},{"@pid":"s/GerikScheuermann","text":"Gerik Scheuermann"},{"@pid":"53/8266","text":"Thomas R. Knösche"},{"@pid":"04/633","text":"Alfred Anwander"}]},"title":"Visualizing White Matter Fiber Tracts with Optimally Fitted Curved Dissection Surfaces.","venue":"VCBM","pages":"41-48","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SchuradeHHSKA10","doi":"10.2312/VCBM/VCBM10/041-048","ee":"https://doi.org/10.2312/VCBM/VCBM10/041-048","url":"https://dblp.org/rec/conf/vcbm/SchuradeHHSKA10"},
+"url":"URL#5778153"
+},
+{
+"@score":"1",
+"@id":"5791381",
+"info":{"authors":{"author":[{"@pid":"57/6792","text":"Dirk Bartz"},{"@pid":"24/5761","text":"Charl P. Botha"},{"@pid":"27/3189","text":"Joachim Hornegger"},{"@pid":"65/1768","text":"Raghu Machiraju"},{"@pid":"14/4309","text":"Alexander Wiebel"},{"@pid":"p/BPreim","text":"Bernhard Preim"}]},"title":"Proceedings of the Eurographics Workshop on Visual Computing for Biomedicine, VCBM 2010, Leipzig, Germany, 2010.","venue":"VCBM","publisher":"Eurographics Association","year":"2010","type":"Editorship","key":"conf/vcbm/2010","doi":"10.2312/465","ee":"https://diglib.eg.org/handle/10.2312/465","url":"https://dblp.org/rec/conf/vcbm/2010"},
+"url":"URL#5791381"
+}
+]
+}
+}
+}

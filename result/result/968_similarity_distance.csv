@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+deep ensembles,robustness,0.9574,0.292
+deep ensembles,uncertainty estimation,-0.0621,1.4574
+accuracy,deep ensembles,0.2334,1.2382
+robustness,uncertainty estimation,-0.1477,1.515
+accuracy,robustness,0.2063,1.2599
+accuracy,uncertainty estimation,0.099,1.3423
+diversity metrics,robustness,-0.0699,1.4628
+diversity metrics,performance,0.1027,1.3397
+diversity metrics,training conditions,0.1312,1.3182
+performance,robustness,-0.2554,1.5846
+robustness,training conditions,0.4624,1.037
+performance,training conditions,0.4827,1.0172
+diversity metrics,uncertainty estimation,-0.3934,1.6694
+diversity metrics,out-of-distribution detection,-0.0525,1.4508
+out-of-distribution detection,robustness,0.9865,0.1643
+performance,uncertainty estimation,-0.1289,1.5026
+out-of-distribution detection,performance,-0.312,1.6199
+out-of-distribution detection,uncertainty estimation,-0.1948,1.5458
+training conditions,uncertainty estimation,0.2013,1.2639
+out-of-distribution detection,training conditions,0.3661,1.126
+accuracy,diversity metrics,-0.1189,1.4959
+accuracy,performance,0.0099,1.4072
+accuracy,out-of-distribution detection,0.1446,1.308
+deep ensembles,diversity metrics,-0.1354,1.5069
+deep ensembles,out-of-distribution detection,0.9734,0.2307

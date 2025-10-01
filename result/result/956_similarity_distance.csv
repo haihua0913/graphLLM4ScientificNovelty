@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+deep convolutional neural networks,pedestrian attribute recognition,-0.0374,1.4404
+attribute aware pooling,deep convolutional neural networks,-0.0253,1.432
+attribute entanglement,deep convolutional neural networks,0.033,1.3907
+attribute aware pooling,pedestrian attribute recognition,0.0076,1.4088
+attribute entanglement,pedestrian attribute recognition,0.3232,1.1635
+attribute aware pooling,attribute entanglement,-0.0385,1.4412
+correlation,deep convolutional neural networks,0.1255,1.3225
+correlation,pedestrian attribute recognition,-0.0808,1.4702
+attribute aware pooling,correlation,0.9835,0.1818
+attribute entanglement,correlation,-0.0331,1.4374
+attribute entanglement,multi-branch architecture,0.1131,1.3319
+correlation,multi-branch architecture,0.2345,1.2373
+context information,correlation,0.1449,1.3078
+context information,multi-branch architecture,-0.2999,1.6124
+attribute aware pooling,multi-branch architecture,0.0961,1.3446
+attribute aware pooling,context information,0.1868,1.2753
+context information,pedestrian attribute recognition,-0.2775,1.5984
+benchmark datasets,pedestrian attribute recognition,-0.1917,1.5438
+attribute aware pooling,benchmark datasets,0.3661,1.126
+benchmark datasets,context information,-0.1487,1.5157

@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+fast and scalable,online method,0.9499,0.3165
+fast and scalable,statistical machine translation,-0.3159,1.6223
+fast and scalable,large feature sets,0.0413,1.3847
+online method,statistical machine translation,-0.121,1.4973
+large feature sets,online method,-0.2332,1.5705
+large feature sets,statistical machine translation,-0.22,1.5621
+fast and scalable,sparse features,-0.0263,1.4327
+fast and scalable,translation quality gains,0.0578,1.3728
+online method,sparse features,-0.313,1.6205
+online method,translation quality gains,0.0048,1.4108
+sparse features,statistical machine translation,-0.2458,1.5785
+statistical machine translation,translation quality gains,-0.2729,1.5956
+large feature sets,sparse features,0.9752,0.2228
+large feature sets,translation quality gains,-0.0176,1.4266
+sparse features,translation quality gains,-0.0139,1.424
+adaptive learning rate,stochastic gradient descent,0.9702,0.2441
+sparse features,stochastic gradient descent,-0.1213,1.4975
+stochastic gradient descent,translation quality gains,0.0003,1.414
+adaptive learning rate,sparse features,-0.0456,1.4461
+adaptive learning rate,translation quality gains,0.122,1.3251
+discriminative methods,stochastic gradient descent,0.7914,0.646
+adaptive learning rate,discriminative methods,0.841,0.5639
+discriminative methods,sparse features,0.4096,1.0867
+discriminative methods,translation quality gains,-0.0064,1.4187

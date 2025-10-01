@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+second-order priors,smoothness,0.6924,0.7843
+3D surfaces,second-order priors,-0.1237,1.4991
+second-order priors,stereo reconstruction,0.1439,1.3085
+graph-cuts,second-order priors,-0.3631,1.6511
+second-order priors,triple cliques,-0.0761,1.4671
+3D surfaces,smoothness,-0.1452,1.5134
+smoothness,stereo reconstruction,0.3026,1.1811
+graph-cuts,smoothness,-0.1819,1.5375
+smoothness,triple cliques,-0.1194,1.4963
+3D surfaces,stereo reconstruction,0.8036,0.6268
+3D surfaces,graph-cuts,-0.1304,1.5036
+3D surfaces,triple cliques,0.9817,0.1913
+graph-cuts,stereo reconstruction,-0.0286,1.4343
+stereo reconstruction,triple cliques,0.8549,0.5386
+graph-cuts,triple cliques,-0.0215,1.4294
+a-expansion,second-order priors,0.2628,1.2142
+a-expansion,stereo reconstruction,-0.0523,1.4507
+a-expansion,graph-cuts,-0.1753,1.5332
+a-expansion,triple cliques,-0.1275,1.5016
+proposal depth maps,triple cliques,-0.1994,1.5488
+a-expansion,proposal depth maps,-0.1654,1.5267
+a-expansion,optimization framework,0.0739,1.3609
+optimization framework,proposal depth maps,0.484,1.0159

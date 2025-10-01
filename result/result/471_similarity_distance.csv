@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+deep neural networks,dense disparity map,-0.2263,1.5661
+deep neural networks,penalty-parameters,0.0263,1.3955
+dense disparity map,penalty-parameters,0.036,1.3885
+SGM-Nets,penalty-parameters,-0.1372,1.5081
+Convolutional Neural Networks,penalty-parameters,0.9435,0.3363
+Convolutional Neural Networks,SGM-Nets,-0.2255,1.5655
+SGM-Nets,sparsely annotated disparity maps,-0.0369,1.4401
+LiDAR sensor,SGM-Nets,0.0945,1.3457
+Convolutional Neural Networks,sparsely annotated disparity maps,-0.0569,1.4539
+Convolutional Neural Networks,LiDAR sensor,-0.0431,1.4444
+LiDAR sensor,sparsely annotated disparity maps,0.9872,0.1599
+KITTI benchmark datasets,SGM-Nets,-0.1468,1.5145
+KITTI benchmark datasets,sparsely annotated disparity maps,-0.0682,1.4617
+KITTI benchmark datasets,LiDAR sensor,-0.0416,1.4433

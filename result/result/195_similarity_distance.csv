@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+audits,fairness,-0.0538,1.4517
+envy-freeness,fairness,0.996,0.09
+fairness,recommendations,0.0056,1.4103
+audits,envy-freeness,-0.0354,1.439
+audits,recommendations,-0.3885,1.6664
+envy-freeness,recommendations,-0.0458,1.4462
+fairness,multi-armed bandits,-0.0946,1.4796
+audits,multi-armed bandits,-0.2932,1.6082
+envy-freeness,multi-armed bandits,-0.07,1.4629
+multi-armed bandits,recommendations,-0.013,1.4234
+algorithm,envy-freeness,-0.2029,1.5511
+envy-freeness,user experience,0.1328,1.3169
+algorithm,recommendations,-0.2744,1.5965
+recommendations,user experience,-0.0749,1.4662
+algorithm,multi-armed bandits,0.0269,1.395
+multi-armed bandits,user experience,0.9307,0.3723
+algorithm,user experience,-0.2675,1.5922

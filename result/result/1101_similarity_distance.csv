@@ -1,0 +1,28 @@
+node1,node2,similarity,distance
+option models,temporally abstract,-0.1264,1.5009
+option models,reasoning,0.2687,1.2094
+learning,option models,0.8392,0.5671
+reasoning,temporally abstract,-0.3872,1.6656
+learning,temporally abstract,0.1379,1.3131
+learning,reasoning,-0.0344,1.4383
+affordable actions,option models,0.359,1.1322
+affordable actions,temporally abstract,0.1728,1.2863
+affordable actions,reasoning,0.0322,1.3912
+affordable actions,learning,0.1893,1.2733
+affordances,option models,0.7433,0.7165
+option models,partial option models,0.8496,0.5485
+affordances,temporally abstract,0.0066,1.4096
+partial option models,temporally abstract,0.027,1.395
+affordances,reasoning,0.1858,1.2761
+partial option models,reasoning,-0.0457,1.4462
+affordances,partial option models,0.9101,0.424
+affordances,learning,0.9369,0.3554
+affordable actions,affordances,0.0021,1.4127
+learning,partial option models,0.9742,0.2274
+affordable actions,partial option models,0.0588,1.372
+option models,planning,0.8161,0.6064
+planning,temporally abstract,0.0959,1.3447
+affordances,planning,0.9388,0.3499
+partial option models,planning,0.976,0.2189
+learning,planning,0.9912,0.1327
+affordable actions,planning,0.1434,1.3089

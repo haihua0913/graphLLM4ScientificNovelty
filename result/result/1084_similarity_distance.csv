@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+information retrieval,top-k operation,0.0473,1.3804
+machine learning,top-k operation,-0.3253,1.6281
+data mining,top-k operation,0.0998,1.3418
+bubble algorithm,top-k operation,0.7754,0.6702
+gradient descent,top-k operation,0.9164,0.409
+information retrieval,machine learning,0.4294,1.0683
+data mining,information retrieval,0.9908,0.1356
+bubble algorithm,information retrieval,-0.1611,1.5239
+gradient descent,information retrieval,-0.1272,1.5015
+data mining,machine learning,0.3289,1.1586
+bubble algorithm,machine learning,-0.4154,1.6825
+gradient descent,machine learning,-0.4164,1.6831
+bubble algorithm,data mining,-0.1216,1.4977
+data mining,gradient descent,-0.0659,1.4601
+bubble algorithm,gradient descent,0.8387,0.568
+SOFT top-k operator,top-k operation,-0.0155,1.4252
+Entropic Optimal Transport,top-k operation,-0.0562,1.4534
+Entropic Optimal Transport,SOFT top-k operator,-0.1079,1.4885

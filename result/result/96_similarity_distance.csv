@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+Efficient query answering,ontologies,0.0659,1.3668
+Efficient query answering,Semantic Web,0.6842,0.7947
+Efficient query answering,approximation,0.1691,1.2891
+Efficient query answering,OWL DL,0.7517,0.7047
+Semantic Web,ontologies,-0.3342,1.6335
+approximation,ontologies,-0.1332,1.5055
+OWL DL,ontologies,-0.2591,1.5869
+Semantic Web,approximation,-0.1583,1.522
+OWL DL,Semantic Web,0.9597,0.2838
+OWL DL,approximation,-0.1549,1.5198
+DL-Lite,ontologies,-0.1943,1.5455
+knowledge compilation,ontologies,-0.1666,1.5275
+DL-Lite,approximation,0.0548,1.375
+approximation,knowledge compilation,0.9351,0.3602
+DL-Lite,OWL DL,-0.0501,1.4492
+OWL DL,knowledge compilation,-0.2462,1.5787
+DL-Lite,knowledge compilation,0.284,1.1966
+ONTOSEARCH2,ontologies,0.0274,1.3947
+ontologies,ontology reasoning systems,-0.0385,1.4412
+ONTOSEARCH2,OWL DL,-0.1867,1.5406
+OWL DL,ontology reasoning systems,0.9601,0.2825
+DL-Lite,ONTOSEARCH2,0.0369,1.3879
+DL-Lite,ontology reasoning systems,-0.1674,1.528
+ONTOSEARCH2,knowledge compilation,0.6368,0.8522
+knowledge compilation,ontology reasoning systems,-0.2563,1.5851
+ONTOSEARCH2,ontology reasoning systems,-0.2196,1.5618

@@ -1,0 +1,28 @@
+node1,node2,similarity,distance
+online setting,prediction sets,0.0139,1.4043
+data generating distribution,prediction sets,0.204,1.2617
+conformal inference,prediction sets,0.8766,0.4968
+data generating distribution,online setting,-0.2572,1.5857
+conformal inference,online setting,0.0696,1.3641
+conformal inference,data generating distribution,-0.0226,1.4301
+coverage frequency,prediction sets,0.9075,0.43
+adaptive,prediction sets,-0.4562,1.7066
+coverage frequency,online setting,-0.0274,1.4335
+adaptive,online setting,-0.3524,1.6446
+coverage frequency,data generating distribution,0.2056,1.2605
+adaptive,data generating distribution,-0.1527,1.5183
+conformal inference,coverage frequency,0.8305,0.5822
+adaptive,conformal inference,-0.4349,1.6941
+adaptive,coverage frequency,-0.2653,1.5908
+conformal inference,distribution shift,0.317,1.1688
+conformal inference,learning problem,-0.2944,1.609
+coverage frequency,distribution shift,0.1261,1.322
+coverage frequency,learning problem,-0.1584,1.5221
+distribution shift,learning problem,-0.0181,1.4269
+adaptive,distribution shift,-0.2908,1.6067
+adaptive,learning problem,0.9285,0.378
+conformal inference,real world datasets,0.027,1.395
+coverage frequency,real world datasets,-0.2004,1.5495
+distribution shift,real world datasets,-0.2485,1.5802
+learning problem,real world datasets,-0.2648,1.5905
+adaptive,real world datasets,-0.2788,1.5993

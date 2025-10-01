@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+observed objects,sensory observations,0.8883,0.4727
+probability,sensory observations,0.3474,1.1425
+observed objects,probability,0.0877,1.3508
+identity sentences,sensory observations,0.7546,0.7005
+identity sentences,reasoning,-0.2219,1.5632
+identity sentences,probability,-0.0014,1.4152
+reasoning,sensory observations,0.4133,1.0832
+probability,reasoning,0.7786,0.6654
+identity criterion,identity sentences,0.9309,0.3718
+identity sentences,observed objects,0.8873,0.4747
+identity criterion,sensory observations,0.7984,0.635
+identity criterion,observed objects,0.9668,0.2578
+identity criterion,reasoning,-0.0795,1.4694
+observed objects,reasoning,0.0487,1.3793
+identity criterion,probability,0.0974,1.3435
+appearance probability,identity criterion,-0.157,1.5212
+appearance probability,observed objects,-0.0535,1.4516
+appearance probability,reasoning,0.9651,0.2641
+appearance probability,probability,0.858,0.533
+appearance probability,freeway network,0.8928,0.4631
+appearance probability,online learning,0.922,0.3949
+freeway network,reasoning,0.7859,0.6543
+online learning,reasoning,0.825,0.5916
+freeway network,probability,0.845,0.5568
+online learning,probability,0.9408,0.344
+freeway network,online learning,0.9568,0.294

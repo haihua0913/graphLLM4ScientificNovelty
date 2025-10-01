@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+Deep generative models,audio waveforms,-0.1219,1.498
+audio waveforms,diffusion models,-0.1335,1.5057
+diffusion models,speech vocoders,-0.2178,1.5606
+diffusion models,multi-band,-0.2745,1.5966
+audio modality,diffusion models,-0.2568,1.5854
+diffusion models,low-bitrate,-0.232,1.5697
+multi-band,speech vocoders,-0.263,1.5893
+audio modality,speech vocoders,-0.2259,1.5658
+low-bitrate,speech vocoders,-0.2554,1.5845
+audio modality,multi-band,-0.1977,1.5477
+low-bitrate,multi-band,0.9691,0.2486
+audio modality,low-bitrate,-0.1377,1.5084
+perceptual quality,speech vocoders,-0.1595,1.5228
+multi-band,perceptual quality,0.028,1.3943
+audio modality,perceptual quality,0.105,1.3379
+low-bitrate,perceptual quality,-0.144,1.5126

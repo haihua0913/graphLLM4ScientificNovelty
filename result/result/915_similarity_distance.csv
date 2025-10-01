@@ -1,0 +1,32 @@
+node1,node2,similarity,distance
+Datalog,arithmetic functions,-0.0669,1.4607
+Datalog,integers,0.1598,1.2963
+Datalog,undecidable,-0.0717,1.4641
+arithmetic functions,integers,0.4018,1.0938
+arithmetic functions,undecidable,-0.393,1.6691
+integers,undecidable,0.0566,1.3736
+Datalog,numeric values,-0.0173,1.4264
+Datalog,fact entailment,-0.1004,1.4835
+Datalog,complexity,-0.1645,1.5261
+arithmetic functions,numeric values,0.9457,0.3296
+arithmetic functions,fact entailment,-0.143,1.512
+arithmetic functions,complexity,-0.2699,1.5937
+integers,numeric values,0.4775,1.0222
+fact entailment,integers,-0.3054,1.6158
+complexity,integers,-0.229,1.5678
+numeric values,undecidable,-0.323,1.6267
+fact entailment,undecidable,0.1825,1.2787
+complexity,undecidable,-0.0079,1.4198
+fact entailment,numeric values,0.0027,1.4123
+complexity,numeric values,-0.0669,1.4607
+complexity,fact entailment,0.0496,1.3787
+Datalog,stability,-0.0763,1.4672
+stability,undecidable,-0.3586,1.6484
+numeric values,stability,0.106,1.3372
+fact entailment,stability,-0.2481,1.5799
+complexity,stability,-0.1918,1.5439
+Datalog,data analysis tasks,-0.1276,1.5017
+data analysis tasks,numeric values,-0.1072,1.4881
+data analysis tasks,fact entailment,0.0033,1.4119
+complexity,data analysis tasks,-0.019,1.4276
+data analysis tasks,stability,-0.1433,1.5121

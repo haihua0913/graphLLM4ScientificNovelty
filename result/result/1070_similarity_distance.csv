@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+correlated equilibria,no-regret dynamics,-0.3661,1.653
+no-regret dynamics,normal-form games,-0.37,1.6553
+empirical frequency of play,no-regret dynamics,0.1146,1.3307
+correlated equilibria,normal-form games,0.9906,0.1372
+correlated equilibria,empirical frequency of play,0.0445,1.3824
+empirical frequency of play,normal-form games,0.0716,1.3627
+extensive-form games,no-regret dynamics,-0.3644,1.6519
+no-regret dynamics,perfect recall,-0.2363,1.5725
+extensive-form games,perfect recall,0.9284,0.3784
+no-regret dynamics,trigger regret,0.1194,1.3271
+extensive-form games,normal-form games,0.9991,0.0431
+normal-form games,trigger regret,-0.4717,1.7157
+normal-form games,perfect recall,0.9289,0.3772
+extensive-form games,trigger regret,-0.4953,1.7293
+perfect recall,trigger regret,-0.6413,1.8118
+empirical frequency of play,extensive-form games,0.076,1.3594
+empirical frequency of play,trigger regret,-0.2311,1.5691
+empirical frequency of play,perfect recall,0.1329,1.3169
+no-trigger-regret algorithm,normal-form games,-0.0577,1.4545
+extensive-form games,no-trigger-regret algorithm,-0.0638,1.4586
+no-trigger-regret algorithm,trigger regret,0.2323,1.2392
+empirical frequency of play,no-trigger-regret algorithm,-0.1336,1.5057

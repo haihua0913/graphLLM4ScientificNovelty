@@ -1,0 +1,12 @@
+node1,node2,similarity,distance
+domain-specific knowledge,pretrained language models,-0.1567,1.521
+domain knowledge transferring,knowledge distillation,-0.2585,1.5865
+activation boundary distillation,knowledge distillation,-0.1712,1.5305
+activation boundary distillation,domain knowledge transferring,-0.3201,1.6249
+activation boundary distillation,entropy regularization,-0.2018,1.5503
+entropy regularization,knowledge distillation,0.4288,1.0688
+activation boundary distillation,clinical,-0.0347,1.4386
+activation boundary distillation,financial domains,-0.1552,1.52
+clinical,entropy regularization,0.8355,0.5735
+entropy regularization,financial domains,-0.3193,1.6244
+clinical,financial domains,-0.3384,1.6361

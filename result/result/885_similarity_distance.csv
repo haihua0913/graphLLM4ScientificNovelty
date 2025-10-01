@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+graph-theoretic approaches,semi-supervised classification,0.1384,1.3127
+graph Laplacians,graph-theoretic approaches,0.5167,0.9831
+graph-theoretic approaches,spectral decomposition,0.2212,1.248
+graph-theoretic approaches,kernel matrix,0.8785,0.493
+graph-theoretic approaches,leave-one-out classification error,0.7698,0.6785
+graph Laplacians,semi-supervised classification,-0.2737,1.5961
+semi-supervised classification,spectral decomposition,-0.3472,1.6415
+kernel matrix,semi-supervised classification,0.0778,1.3581
+leave-one-out classification error,semi-supervised classification,0.3395,1.1494
+graph Laplacians,spectral decomposition,0.4302,1.0675
+graph Laplacians,kernel matrix,0.6092,0.884
+graph Laplacians,leave-one-out classification error,0.5806,0.9159
+kernel matrix,spectral decomposition,0.2953,1.1872
+leave-one-out classification error,spectral decomposition,-0.0753,1.4665
+kernel matrix,leave-one-out classification error,0.7885,0.6504
+graph-theoretic approaches,linear programming,-0.087,1.4744
+graph-theoretic approaches,transductive spectral kernel,0.0084,1.4082
+linear programming,semi-supervised classification,-0.1772,1.5344
+semi-supervised classification,transductive spectral kernel,0.9721,0.2363
+graph Laplacians,linear programming,0.4348,1.0632
+graph Laplacians,transductive spectral kernel,-0.3371,1.6353
+linear programming,spectral decomposition,0.7663,0.6836
+spectral decomposition,transductive spectral kernel,-0.4094,1.6789
+kernel matrix,linear programming,-0.001,1.4149
+kernel matrix,transductive spectral kernel,-0.1114,1.4909
+leave-one-out classification error,linear programming,-0.178,1.535
+leave-one-out classification error,transductive spectral kernel,0.2161,1.2521
+linear programming,transductive spectral kernel,-0.2007,1.5496

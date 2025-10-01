@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+3D Euclidean point coordinates,scanned scene,-0.4506,1.7033
+scanned scene,uncalibrated cameras,-0.1315,1.5043
+3D Euclidean point coordinates,uncalibrated cameras,0.8664,0.5169
+2D-3D correspondences,Linear Matrix Inequality,-0.3001,1.6125
+Linear Matrix Inequality,triangulation-free,0.9642,0.2676
+2D-3D correspondences,triangulation-free,-0.2459,1.5786
+Linear Matrix Inequality,registration algorithms,-0.1776,1.5347
+2D-3D correspondences,registration algorithms,-0.0054,1.418
+registration algorithms,triangulation-free,-0.1118,1.4912
+Branch-and-Prune,triangulation-free,0.9379,0.3524
+global solution,triangulation-free,0.1163,1.3295
+Branch-and-Prune,registration algorithms,-0.0528,1.4511
+global solution,registration algorithms,0.1869,1.2753
+Branch-and-Prune,global solution,0.1037,1.3389

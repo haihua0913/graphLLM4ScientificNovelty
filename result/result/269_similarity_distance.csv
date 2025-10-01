@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+predicate-argument structure analysis,zero-anaphora resolution,0.9755,0.2215
+noun phrases,predicate-argument structure analysis,-0.2067,1.5535
+candidate arguments,predicate-argument structure analysis,0.9049,0.4362
+predicate-argument structure analysis,target predicate,-0.1979,1.5478
+noun phrases,zero-anaphora resolution,-0.3091,1.6181
+candidate arguments,zero-anaphora resolution,0.8425,0.5612
+target predicate,zero-anaphora resolution,-0.3179,1.6235
+candidate arguments,noun phrases,0.1353,1.3151
+noun phrases,target predicate,0.9612,0.2785
+candidate arguments,target predicate,0.1843,1.2772
+discriminative models,predicate-argument structure analysis,-0.1517,1.5177
+argument identification,predicate-argument structure analysis,0.9716,0.2382
+discriminative models,zero-anaphora resolution,-0.281,1.6006
+argument identification,zero-anaphora resolution,0.9813,0.1935
+discriminative models,noun phrases,0.9716,0.2385
+argument identification,noun phrases,-0.1864,1.5404
+candidate arguments,discriminative models,0.1746,1.2849
+argument identification,candidate arguments,0.8727,0.5045
+discriminative models,target predicate,0.9582,0.2893
+argument identification,target predicate,-0.2214,1.563
+argument identification,discriminative models,-0.1789,1.5355
+language model scores,noun phrases,0.9794,0.203
+contextual features,noun phrases,-0.1487,1.5157
+candidate arguments,language model scores,0.1851,1.2767
+candidate arguments,contextual features,0.8399,0.5658
+language model scores,target predicate,0.9326,0.3671
+contextual features,target predicate,-0.1785,1.5353
+discriminative models,language model scores,0.9248,0.3879
+contextual features,discriminative models,-0.0708,1.4634
+argument identification,language model scores,-0.1178,1.4952
+argument identification,contextual features,0.9035,0.4393
+contextual features,language model scores,-0.1114,1.4909

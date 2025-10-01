@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+AutoEncoder,cross-domain image patch matching,-0.4364,1.6949
+Siamese network,cross-domain image patch matching,0.0667,1.3662
+H-Net,cross-domain image patch matching,0.8819,0.4859
+AutoEncoder,Siamese network,-0.1922,1.5442
+AutoEncoder,H-Net,-0.497,1.7303
+H-Net,Siamese network,-0.0746,1.466
+cross-domain image patch matching,invariant feature descriptors,0.1242,1.3235
+Euclidean space,cross-domain image patch matching,-0.278,1.5987
+AutoEncoder,invariant feature descriptors,-0.2879,1.6049
+AutoEncoder,Euclidean space,-0.2126,1.5573
+Siamese network,invariant feature descriptors,0.9412,0.3429
+Euclidean space,Siamese network,-0.1139,1.4926
+H-Net,invariant feature descriptors,-0.0887,1.4756
+Euclidean space,H-Net,-0.0099,1.4212
+Euclidean space,invariant feature descriptors,-0.0591,1.4554
+CycleGAN algorithm,H-Net,-0.0874,1.4747
+H-Net,UAV 3D model,-0.1442,1.5128
+CycleGAN algorithm,invariant feature descriptors,-0.1456,1.5137
+UAV 3D model,invariant feature descriptors,0.96,0.2828
+CycleGAN algorithm,Euclidean space,0.8975,0.4529
+Euclidean space,UAV 3D model,0.1726,1.2864
+CycleGAN algorithm,UAV 3D model,0.1087,1.3352

@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+dynamical system,time series,0.9287,0.3777
+deep learning,dynamical system,-0.2594,1.5871
+deep learning,time series,-0.3548,1.6461
+deep learning,dendritic computation,-0.2564,1.5852
+deep learning,piecewise-linear,-0.1218,1.4979
+deep learning,recurrent neural network,-0.4718,1.7157
+deep learning,linear spline,-0.3513,1.644
+dendritic computation,piecewise-linear,-0.173,1.5317
+dendritic computation,recurrent neural network,0.061,1.3704
+dendritic computation,linear spline,0.0145,1.4039
+piecewise-linear,recurrent neural network,-0.3119,1.6198
+linear spline,piecewise-linear,0.9149,0.4126
+linear spline,recurrent neural network,-0.2865,1.604
+dendritic computation,teacher forcing,-0.2094,1.5552
+dendritic computation,variational inference,-0.1257,1.5005
+piecewise-linear,teacher forcing,-0.0193,1.4278
+piecewise-linear,variational inference,-0.0178,1.4267
+recurrent neural network,teacher forcing,-0.2046,1.5521
+recurrent neural network,variational inference,-0.2588,1.5867
+linear spline,teacher forcing,-0.1098,1.4898
+linear spline,variational inference,-0.0878,1.475
+teacher forcing,variational inference,0.989,0.1481

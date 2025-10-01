@@ -1,0 +1,224 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/isbra/isbra2009.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"77.12"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"32",
+"@dc":"32",
+"@oc":"32",
+"@id":"48904320",
+"text":":facetid:toc:db/conf/isbra/isbra2009.bht"
+}
+},
+"hits":{
+"@total":"32",
+"@computed":"32",
+"@sent":"32",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5963976",
+"info":{"authors":{"author":[{"@pid":"27/927","text":"Na&apos;el Abu-Halaweh"},{"@pid":"44/1796","text":"Robert W. Harrison"}]},"title":"Prediction and Classification of Real and Pseudo MicroRNA Precursors via Data Fuzzification and Fuzzy Decision Trees.","venue":"ISBRA","pages":"323-334","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/Abu-halawehH09","doi":"10.1007/978-3-642-01551-9_31","ee":"https://doi.org/10.1007/978-3-642-01551-9_31","url":"https://dblp.org/rec/conf/isbra/Abu-halawehH09"},
+"url":"URL#5963976"
+},
+{
+"@score":"1",
+"@id":"5963977",
+"info":{"authors":{"author":[{"@pid":"76/3452","text":"András Bánhalmi"},{"@pid":"69/4876","text":"Róbert Busa-Fekete"},{"@pid":"k/BalazsKegl","text":"Balázs Kégl"}]},"title":"A One-Class Classification Approach for Protein Sequences and Structures.","venue":"ISBRA","pages":"310-322","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/BanhalmiBK09","doi":"10.1007/978-3-642-01551-9_30","ee":"https://doi.org/10.1007/978-3-642-01551-9_30","url":"https://dblp.org/rec/conf/isbra/BanhalmiBK09"},
+"url":"URL#5963977"
+},
+{
+"@score":"1",
+"@id":"5963978",
+"info":{"authors":{"author":[{"@pid":"04/4114","text":"Lichen Bao"},{"@pid":"b/SergeyBereg","text":"Sergey Bereg"}]},"title":"Counting Faces in Split Networks.","venue":"ISBRA","pages":"112-123","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/BaoB09","doi":"10.1007/978-3-642-01551-9_12","ee":"https://doi.org/10.1007/978-3-642-01551-9_12","url":"https://dblp.org/rec/conf/isbra/BaoB09"},
+"url":"URL#5963978"
+},
+{
+"@score":"1",
+"@id":"5963979",
+"info":{"authors":{"author":[{"@pid":"11/2469","text":"Guillaume Blin"},{"@pid":"32/6121","text":"Florian Sikora"},{"@pid":"42/3622","text":"Stéphane Vialette"}]},"title":"Querying Protein-Protein Interaction Networks.","venue":"ISBRA","pages":"52-62","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/BlinSV09","doi":"10.1007/978-3-642-01551-9_6","ee":"https://doi.org/10.1007/978-3-642-01551-9_6","url":"https://dblp.org/rec/conf/isbra/BlinSV09"},
+"url":"URL#5963979"
+},
+{
+"@score":"1",
+"@id":"5963980",
+"info":{"authors":{"author":[{"@pid":"80/4509","text":"Paola Bonizzoni"},{"@pid":"03/5602","text":"Gianluca Della Vedova"},{"@pid":"59/1669","text":"Riccardo Dondi"},{"@pid":"85/5143","text":"Yuri Pirola"},{"@pid":"81/4826","text":"Romeo Rizzi"}]},"title":"Pure Parsimony Xor Haplotyping.","venue":"ISBRA","pages":"186-197","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/BonizzoniVDPR09","doi":"10.1007/978-3-642-01551-9_19","ee":"https://doi.org/10.1007/978-3-642-01551-9_19","url":"https://dblp.org/rec/conf/isbra/BonizzoniVDPR09"},
+"url":"URL#5963980"
+},
+{
+"@score":"1",
+"@id":"5963981",
+"info":{"authors":{"author":[{"@pid":"11/6691","text":"Mikhail S. Gelfand"},{"@pid":"39/2446","text":"Alexei E. Kazakov"},{"@pid":"63/5397","text":"Yuri D. Korostelev"},{"@pid":"52/6882","text":"Olga N. Laikova"},{"@pid":"65/4184","text":"Andrey A. Mironov"},{"@pid":"81/5021","text":"Aleksandra B. Rakhmaninova"},{"@pid":"90/1570","text":"Dmitry A. Ravcheev"},{"@pid":"86/2169","text":"Dmitry A. Rodionov"},{"@pid":"83/1607","text":"Alexei G. Vitreschak"}]},"title":"Evolution of Regulatory Systems in Bacteria (Invited Keynote Talk).","venue":"ISBRA","pages":"1-4","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/GelfandKKLMRRRV09","doi":"10.1007/978-3-642-01551-9_1","ee":"https://doi.org/10.1007/978-3-642-01551-9_1","url":"https://dblp.org/rec/conf/isbra/GelfandKKLMRRRV09"},
+"url":"URL#5963981"
+},
+{
+"@score":"1",
+"@id":"5963982",
+"info":{"authors":{"author":[{"@pid":"85/162","text":"Stefan Gremalschi"},{"@pid":"67/2999","text":"Gulsah Altun"},{"@pid":"29/2877","text":"Irina Astrovskaya"},{"@pid":"z/AZelikovsky","text":"Alexander Zelikovsky"}]},"title":"Mean Square Residue Biclustering with Missing Data and Row Inversions.","venue":"ISBRA","pages":"28-39","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/GremalschiAAZ09","doi":"10.1007/978-3-642-01551-9_4","ee":"https://doi.org/10.1007/978-3-642-01551-9_4","url":"https://dblp.org/rec/conf/isbra/GremalschiAAZ09"},
+"url":"URL#5963982"
+},
+{
+"@score":"1",
+"@id":"5963983",
+"info":{"authors":{"author":[{"@pid":"05/541","text":"Matthew Hayes"},{"@pid":"l/JingLi2","text":"Jing Li 0002"}]},"title":"A Linear-Time Algorithm for Analyzing Array CGH Data Using Log Ratio Triangulation.","venue":"ISBRA","pages":"248-259","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/HayesL09","doi":"10.1007/978-3-642-01551-9_25","ee":"https://doi.org/10.1007/978-3-642-01551-9_25","url":"https://dblp.org/rec/conf/isbra/HayesL09"},
+"url":"URL#5963983"
+},
+{
+"@score":"1",
+"@id":"5963984",
+"info":{"authors":{"author":[{"@pid":"98/3815","text":"Allen Holder"},{"@pid":"09/3252","text":"Thomas M. Langley"}]},"title":"A Decomposition of the Pure Parsimony Haplotyping Problem.","venue":"ISBRA","pages":"198-208","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/HolderL09","doi":"10.1007/978-3-642-01551-9_20","ee":"https://doi.org/10.1007/978-3-642-01551-9_20","url":"https://dblp.org/rec/conf/isbra/HolderL09"},
+"url":"URL#5963984"
+},
+{
+"@score":"1",
+"@id":"5963985",
+"info":{"authors":{"author":[{"@pid":"10/6479","text":"Matej Holec"},{"@pid":"00/2873","text":"Filip Zelezný"},{"@pid":"33/3665","text":"Jirí Kléma"},{"@pid":"71/2182","text":"Jakub Tolar"}]},"title":"Integrating Multiple-Platform Expression Data through Gene Set Features.","venue":"ISBRA","pages":"5-17","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/HolecZKT09","doi":"10.1007/978-3-642-01551-9_2","ee":"https://doi.org/10.1007/978-3-642-01551-9_2","url":"https://dblp.org/rec/conf/isbra/HolecZKT09"},
+"url":"URL#5963985"
+},
+{
+"@score":"1",
+"@id":"5963986",
+"info":{"authors":{"author":[{"@pid":"05/2503","text":"Brian E. Howard"},{"@pid":"67/1796","text":"Beate Sick"},{"@pid":"28/4920","text":"Steffen Heber"}]},"title":"Practical Quality Assessment of Microarray Data by Simulation of Differential Gene Expression.","venue":"ISBRA","pages":"18-27","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/HowardSH09","doi":"10.1007/978-3-642-01551-9_3","ee":"https://doi.org/10.1007/978-3-642-01551-9_3","url":"https://dblp.org/rec/conf/isbra/HowardSH09"},
+"url":"URL#5963986"
+},
+{
+"@score":"1",
+"@id":"5963987",
+"info":{"authors":{"author":[{"@pid":"09/3223","text":"Miguel A. Jiménez-Montaño"},{"@pid":"91/2706","text":"Matthew He"}]},"title":"Irreplaceable Amino Acids and Reduced Alphabets in Short-Term and Directed Protein Evolution.","venue":"ISBRA","pages":"297-309","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/Jimenez-MontanoH09","doi":"10.1007/978-3-642-01551-9_29","ee":"https://doi.org/10.1007/978-3-642-01551-9_29","url":"https://dblp.org/rec/conf/isbra/Jimenez-MontanoH09"},
+"url":"URL#5963987"
+},
+{
+"@score":"1",
+"@id":"5963988",
+"info":{"authors":{"author":[{"@pid":"23/1569-5","text":"Jihye Kim 0005"},{"@pid":"64/2308","text":"Sihui Zhao"},{"@pid":"05/2503","text":"Brian E. Howard"},{"@pid":"28/4920","text":"Steffen Heber"}]},"title":"Mining of cis-Regulatory Motifs Associated with Tissue-Specific Alternative Splicing.","venue":"ISBRA","pages":"260-271","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/KimZHH09","doi":"10.1007/978-3-642-01551-9_26","ee":"https://doi.org/10.1007/978-3-642-01551-9_26","url":"https://dblp.org/rec/conf/isbra/KimZHH09"},
+"url":"URL#5963988"
+},
+{
+"@score":"1",
+"@id":"5963989",
+"info":{"authors":{"author":{"@pid":"67/2850","text":"Alexander Kister"}},"title":"Relationship between Amino Acids Sequences and Protein Structures: Folding Patterns and Sequence Patterns.","venue":"ISBRA","pages":"124-134","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/Kister09","doi":"10.1007/978-3-642-01551-9_13","ee":"https://doi.org/10.1007/978-3-642-01551-9_13","url":"https://dblp.org/rec/conf/isbra/Kister09"},
+"url":"URL#5963989"
+},
+{
+"@score":"1",
+"@id":"5963990",
+"info":{"authors":{"author":[{"@pid":"50/715","text":"Vamsi Kundeti"},{"@pid":"r/SanguthevarRajasekaran","text":"Sanguthevar Rajasekaran"}]},"title":"Efficient Algorithms for Self Assembling Triangular and Other Nano Structures.","venue":"ISBRA","pages":"148-158","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/KundetiR09","doi":"10.1007/978-3-642-01551-9_15","ee":"https://doi.org/10.1007/978-3-642-01551-9_15","url":"https://dblp.org/rec/conf/isbra/KundetiR09"},
+"url":"URL#5963990"
+},
+{
+"@score":"1",
+"@id":"5963991",
+"info":{"authors":{"author":[{"@pid":"59/9073","text":"Peter E. Larsen"},{"@pid":"13/5606","text":"Yang Dai"}]},"title":"Using Gene Expression Modeling to Determine Biological Relevance of Putative Regulatory Networks.","venue":"ISBRA","pages":"40-51","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/LarsenD09","doi":"10.1007/978-3-642-01551-9_5","ee":"https://doi.org/10.1007/978-3-642-01551-9_5","url":"https://dblp.org/rec/conf/isbra/LarsenD09"},
+"url":"URL#5963991"
+},
+{
+"@score":"1",
+"@id":"5963992",
+"info":{"authors":{"author":[{"@pid":"82/0-7","text":"Min Li 0007"},{"@pid":"75/2669-1","text":"Jianxin Wang 0001"},{"@pid":"c/JianerChen","text":"Jianer Chen"},{"@pid":"46/7028-1","text":"Yi Pan 0001"}]},"title":"Hierarchical Organization of Functional Modules in Weighted Protein Interaction Networks Using Clustering Coefficient.","venue":"ISBRA","pages":"75-86","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/LiWCP09","doi":"10.1007/978-3-642-01551-9_8","ee":"https://doi.org/10.1007/978-3-642-01551-9_8","url":"https://dblp.org/rec/conf/isbra/LiWCP09"},
+"url":"URL#5963992"
+},
+{
+"@score":"1",
+"@id":"5963993",
+"info":{"authors":{"author":[{"@pid":"32/971","text":"Juntao Li"},{"@pid":"26/3861","text":"Fajrian Yunus"},{"@pid":"67/6283","text":"Zhu Lei"},{"@pid":"90/4180","text":"Majid Eshaghi"},{"@pid":"00/5899","text":"Jianhua Liu"},{"@pid":"61/5673","text":"Karuturi R. Krishna Murthy"}]},"title":"Modeling and Visualizing Heterogeneity of Spatial Patterns of Protein-DNA Interaction from High-Density Chromatin Precipitation Mapping Data.","venue":"ISBRA","pages":"236-247","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/LiYLELM09","doi":"10.1007/978-3-642-01551-9_24","ee":"https://doi.org/10.1007/978-3-642-01551-9_24","url":"https://dblp.org/rec/conf/isbra/LiYLELM09"},
+"url":"URL#5963993"
+},
+{
+"@score":"1",
+"@id":"5963994",
+"info":{"authors":{"author":[{"@pid":"82/3521","text":"Adriana Muñoz"},{"@pid":"66/977","text":"David Sankoff"}]},"title":"Rearrangement Phylogeny of Genomes in Contig Form.","venue":"ISBRA","pages":"160-172","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/MunozS09","doi":"10.1007/978-3-642-01551-9_17","ee":"https://doi.org/10.1007/978-3-642-01551-9_17","url":"https://dblp.org/rec/conf/isbra/MunozS09"},
+"url":"URL#5963994"
+},
+{
+"@score":"1",
+"@id":"5963995",
+"info":{"authors":{"author":[{"@pid":"42/1216","text":"Aïda Ouangraoua"},{"@pid":"13/3507","text":"Frédéric Boyer"},{"@pid":"181/2397","text":"Andrew W. McPherson"},{"@pid":"31/1212","text":"Eric Tannier"},{"@pid":"52/3751","text":"Cédric Chauve"}]},"title":"Prediction of Contiguous Regions in the Amniote Ancestral Genome.","venue":"ISBRA","pages":"173-185","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/OuangraouaBMTC09","doi":"10.1007/978-3-642-01551-9_18","ee":"https://doi.org/10.1007/978-3-642-01551-9_18","url":"https://dblp.org/rec/conf/isbra/OuangraouaBMTC09"},
+"url":"URL#5963995"
+},
+{
+"@score":"1",
+"@id":"5963996",
+"info":{"authors":{"author":[{"@pid":"18/2191","text":"Bogdan Pasaniuc"},{"@pid":"11/2616","text":"Justin Kennedy"},{"@pid":"63/2084","text":"Ion I. Mandoiu"}]},"title":"Imputation-Based Local Ancestry Inference in Admixed Populations.","venue":"ISBRA","pages":"221-233","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/PasaniucKM09","doi":"10.1007/978-3-642-01551-9_22","ee":"https://doi.org/10.1007/978-3-642-01551-9_22","url":"https://dblp.org/rec/conf/isbra/PasaniucKM09"},
+"url":"URL#5963996"
+},
+{
+"@score":"1",
+"@id":"5963997",
+"info":{"authors":{"author":[{"@pid":"r/SanguthevarRajasekaran","text":"Sanguthevar Rajasekaran"},{"@pid":"23/1445","text":"Sahar Al Seesi"},{"@pid":"a/RedaAAmmar","text":"Reda A. Ammar"}]},"title":"Improved Algorithms for Parsing ESLTAGs: A Grammatical Model Suitable for RNA Pseudoknots.","venue":"ISBRA","pages":"135-147","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/RajasekaranSA09","doi":"10.1007/978-3-642-01551-9_14","ee":"https://doi.org/10.1007/978-3-642-01551-9_14","url":"https://dblp.org/rec/conf/isbra/RajasekaranSA09"},
+"url":"URL#5963997"
+},
+{
+"@score":"1",
+"@id":"5963998",
+"info":{"authors":{"author":[{"@pid":"70/6159","text":"Seung-Jin Sul"},{"@pid":"84/4994","text":"Tiffani L. Williams"}]},"title":"An Experimental Analysis of Consensus Tree Algorithms for Large-Scale Tree Collections.","venue":"ISBRA","pages":"100-111","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/SulW09","doi":"10.1007/978-3-642-01551-9_11","ee":"https://doi.org/10.1007/978-3-642-01551-9_11","url":"https://dblp.org/rec/conf/isbra/SulW09"},
+"url":"URL#5963998"
+},
+{
+"@score":"1",
+"@id":"5963999",
+"info":{"authors":{"author":[{"@pid":"53/2730","text":"Valentina Sulimova"},{"@pid":"68/2815","text":"Vadim Mottl"},{"@pid":"m/BorisMirkin","text":"Boris G. Mirkin"},{"@pid":"41/2613","text":"Ilya B. Muchnik"},{"@pid":"47/5246","text":"Casimir A. Kulikowski"}]},"title":"A Class of Evolution-Based Kernels for Protein Homology Analysis: A Generalization of the PAM Model.","venue":"ISBRA","pages":"284-296","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/SulimovaMMMK09","doi":"10.1007/978-3-642-01551-9_28","ee":"https://doi.org/10.1007/978-3-642-01551-9_28","url":"https://dblp.org/rec/conf/isbra/SulimovaMMMK09"},
+"url":"URL#5963999"
+},
+{
+"@score":"1",
+"@id":"5964000",
+"info":{"authors":{"author":{"@pid":"05/2391","text":"Shamil R. Sunyaev"}},"title":"Interpreting Population Sequencing Data.","venue":"ISBRA","pages":"234-235","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/Sunyaev09","doi":"10.1007/978-3-642-01551-9_23","ee":"https://doi.org/10.1007/978-3-642-01551-9_23","url":"https://dblp.org/rec/conf/isbra/Sunyaev09"},
+"url":"URL#5964000"
+},
+{
+"@score":"1",
+"@id":"5964001",
+"info":{"authors":{"author":{"@pid":"27/5419","text":"Nicholas F. Tsinoremas"}},"title":"Bioinformatics Challenges in Translational Research.","venue":"ISBRA","pages":"87","year":"2009","type":"Conference and Workshop Papers","access":"open","key":"conf/isbra/Tsinoremas09","doi":"10.1007/978-3-642-01551-9_9","ee":"https://doi.org/10.1007/978-3-642-01551-9_9","url":"https://dblp.org/rec/conf/isbra/Tsinoremas09"},
+"url":"URL#5964001"
+},
+{
+"@score":"1",
+"@id":"5964002",
+"info":{"authors":{"author":{"@pid":"u/EskoUkkonen","text":"Esko Ukkonen"}},"title":"Motif Construction from High-Throughput SELEX Data.","venue":"ISBRA","pages":"159","year":"2009","type":"Conference and Workshop Papers","access":"open","key":"conf/isbra/Ukkonen09","doi":"10.1007/978-3-642-01551-9_16","ee":"https://doi.org/10.1007/978-3-642-01551-9_16","url":"https://dblp.org/rec/conf/isbra/Ukkonen09"},
+"url":"URL#5964002"
+},
+{
+"@score":"1",
+"@id":"5964003",
+"info":{"authors":{"author":[{"@pid":"39/1070","text":"Balaji Venkatachalam"},{"@pid":"24/6826","text":"Jim Apple"},{"@pid":"18/4437","text":"Katherine St. John"},{"@pid":"g/DanGusfield","text":"Dan Gusfield"}]},"title":"Untangling Tanglegrams: Comparing Trees by Their Drawings.","venue":"ISBRA","pages":"88-99","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/VenkatachalamAJG09","doi":"10.1007/978-3-642-01551-9_10","ee":"https://doi.org/10.1007/978-3-642-01551-9_10","url":"https://dblp.org/rec/conf/isbra/VenkatachalamAJG09"},
+"url":"URL#5964003"
+},
+{
+"@score":"1",
+"@id":"5964004",
+"info":{"authors":{"author":[{"@pid":"89/5362","text":"Mahesh Visvanathan"},{"@pid":"55/3339","text":"Bernhard Pfeifer"},{"@pid":"35/3110","text":"Christian Baumgartner"},{"@pid":"33/6587","text":"Bernhard Tilg"},{"@pid":"06/4718","text":"Gerald H. Lushington"}]},"title":"Integrative Approach for Combining TNFa-NFkB Mathematical Model to a Protein Interaction Connectivity Map.","venue":"ISBRA","pages":"63-74","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/VisvanathanPBTL09","doi":"10.1007/978-3-642-01551-9_7","ee":"https://doi.org/10.1007/978-3-642-01551-9_7","url":"https://dblp.org/rec/conf/isbra/VisvanathanPBTL09"},
+"url":"URL#5964004"
+},
+{
+"@score":"1",
+"@id":"5964005",
+"info":{"authors":{"author":{"@pid":"55/5012","text":"Yufeng Wu"}},"title":"Exact Computation of Coalescent Likelihood under the Infinite Sites Model.","venue":"ISBRA","pages":"209-220","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/Wu09","doi":"10.1007/978-3-642-01551-9_21","ee":"https://doi.org/10.1007/978-3-642-01551-9_21","url":"https://dblp.org/rec/conf/isbra/Wu09"},
+"url":"URL#5964005"
+},
+{
+"@score":"1",
+"@id":"5964006",
+"info":{"authors":{"author":[{"@pid":"64/2308","text":"Sihui Zhao"},{"@pid":"23/1569-5","text":"Jihye Kim 0005"},{"@pid":"28/4920","text":"Steffen Heber"}]},"title":"Analysis of Cis-Regulatory Motifs in Cassette Exons by Incorporating Exon Skipping Rates.","venue":"ISBRA","pages":"272-283","year":"2009","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/ZhaoKH09","doi":"10.1007/978-3-642-01551-9_27","ee":"https://doi.org/10.1007/978-3-642-01551-9_27","url":"https://dblp.org/rec/conf/isbra/ZhaoKH09"},
+"url":"URL#5964006"
+},
+{
+"@score":"1",
+"@id":"6012171",
+"info":{"authors":{"author":[{"@pid":"63/2084","text":"Ion I. Mandoiu"},{"@pid":"38/5085","text":"Giri Narasimhan"},{"@pid":"z/YanqingZhang","text":"Yanqing Zhang 0001"}]},"title":"Bioinformatics Research and Applications, 5th International Symposium, ISBRA 2009, Fort Lauderdale, FL, USA, May 13-16, 2009, Proceedings","venue":["ISBRA","Lecture Notes in Computer Science"],"volume":"5542","publisher":"Springer","year":"2009","type":"Editorship","key":"conf/isbra/2009","doi":"10.1007/978-3-642-01551-9","ee":"https://doi.org/10.1007/978-3-642-01551-9","url":"https://dblp.org/rec/conf/isbra/2009"},
+"url":"URL#6012171"
+}
+]
+}
+}
+}

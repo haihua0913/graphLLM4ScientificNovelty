@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+classification algorithm,logistic regression,-0.3262,1.6286
+logistic regression,missing data,-0.347,1.6413
+classification algorithm,missing data,0.9717,0.2381
+Gaussian mixture model,logistic regression,-0.0616,1.4571
+expectation maximization,logistic regression,-0.1092,1.4894
+Variational Bayesian EM,logistic regression,0.0754,1.3598
+Gaussian mixture model,classification algorithm,0.2168,1.2516
+classification algorithm,expectation maximization,0.0983,1.3429
+Variational Bayesian EM,classification algorithm,0.0885,1.3502
+Gaussian mixture model,missing data,0.2276,1.2429
+expectation maximization,missing data,0.1099,1.3343
+Variational Bayesian EM,missing data,0.0932,1.3467
+Gaussian mixture model,expectation maximization,0.976,0.219
+Gaussian mixture model,Variational Bayesian EM,0.9803,0.1987
+Variational Bayesian EM,expectation maximization,0.9792,0.204
+missing data,real data,-0.096,1.4806
+Gaussian mixture model,real data,-0.1585,1.5222
+expectation maximization,real data,-0.0429,1.4443
+Variational Bayesian EM,real data,-0.1172,1.4948
+Gaussian mixture model,superior to standard imputation procedures,-0.2648,1.5905
+expectation maximization,superior to standard imputation procedures,-0.1394,1.5096
+Variational Bayesian EM,superior to standard imputation procedures,-0.2286,1.5675
+real data,superior to standard imputation procedures,0.9729,0.2328

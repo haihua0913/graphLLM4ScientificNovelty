@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+Bayesian evidence,marginal likelihood,-0.1294,1.5029
+Occam's razor,marginal likelihood,-0.1811,1.537
+Bayesian evidence,Occam's razor,0.8834,0.4829
+hyperparameter learning,marginal likelihood,-0.2605,1.5878
+Bayesian evidence,hyperparameter learning,-0.262,1.5887
+Occam's razor,hyperparameter learning,-0.1417,1.5111
+hypothesis testing,marginal likelihood,-0.1875,1.5411
+Bayesian evidence,hypothesis testing,0.126,1.3221
+Occam's razor,hypothesis testing,0.0343,1.3897
+hyperparameter learning,hypothesis testing,-0.1278,1.5019
+generalization,marginal likelihood,-0.0814,1.4706
+generalization,hyperparameter learning,-0.3365,1.6349
+generalization,hypothesis testing,-0.2955,1.6096
+marginal likelihood,neural architecture search,-0.0904,1.4767
+generalization,neural architecture search,0.8703,0.5093
+hyperparameter learning,neural architecture search,-0.093,1.4785
+hypothesis testing,neural architecture search,-0.2842,1.6026
+PAC-Bayes bounds,marginal likelihood,-0.1985,1.5482
+marginal likelihood,model selection,-0.1594,1.5228
+PAC-Bayes bounds,generalization,-0.1332,1.5054
+generalization,model selection,0.9946,0.1037
+PAC-Bayes bounds,hyperparameter learning,-0.198,1.5479
+hyperparameter learning,model selection,-0.3575,1.6477
+PAC-Bayes bounds,neural architecture search,-0.5275,1.7479
+model selection,neural architecture search,0.8547,0.5391
+PAC-Bayes bounds,model selection,-0.1112,1.4907
+deep kernel learning,marginal likelihood,-0.2118,1.5568
+deep kernel learning,generalization,0.8255,0.5908
+deep kernel learning,hyperparameter learning,-0.3732,1.6572
+deep kernel learning,neural architecture search,0.6757,0.8054
+PAC-Bayes bounds,deep kernel learning,-0.146,1.514
+deep kernel learning,model selection,0.8469,0.5533

@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+narrative event chains,unsupervised induction,-0.2065,1.5534
+narrative event chains,newswire text,0.8956,0.4571
+newswire text,unsupervised induction,-0.1041,1.486
+narrative event chains,narrative relations,0.0328,1.3909
+coreferring arguments,narrative event chains,-0.1347,1.5065
+coreferring arguments,narrative relations,-0.1856,1.5399
+narrative event chains,temporal classifier,-0.1033,1.4855
+narrative relations,temporal classifier,-0.3121,1.62
+coreferring arguments,temporal classifier,0.9531,0.3062
+narrative cloze,temporal classifier,-0.0932,1.4786
+order coherence,temporal classifier,-0.1752,1.5331
+narrative cloze,order coherence,-0.1767,1.5341
+narrative cloze,narrative prediction,-0.0306,1.4357
+narrative cloze,temporal coherence,-0.0683,1.4617
+narrative prediction,order coherence,0.9167,0.4082
+order coherence,temporal coherence,0.9458,0.3291
+narrative prediction,temporal coherence,0.8848,0.48

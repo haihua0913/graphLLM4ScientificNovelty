@@ -1,0 +1,40 @@
+node1,node2,similarity,distance
+differentially private,machine learning,1.0,0.0076
+auditing,differentially private,-0.2482,1.58
+differentially private,single training run,0.0465,1.3809
+differentially private,parallelism,-0.1938,1.5452
+differentially private,training examples,0.8144,0.6092
+auditing,machine learning,-0.2495,1.5808
+machine learning,single training run,0.0466,1.3809
+machine learning,parallelism,-0.1955,1.5463
+machine learning,training examples,0.8155,0.6075
+auditing,single training run,-0.1429,1.5119
+auditing,parallelism,0.9883,0.1528
+auditing,training examples,0.0851,1.3527
+parallelism,single training run,-0.1141,1.4927
+single training run,training examples,0.1044,1.3384
+parallelism,training examples,0.1173,1.3287
+differentially private,statistical generalization,-0.0015,1.4153
+differentially private,group privacy,-0.3225,1.6264
+machine learning,statistical generalization,-0.0018,1.4155
+group privacy,machine learning,-0.3237,1.6271
+auditing,statistical generalization,-0.0585,1.455
+auditing,group privacy,0.9931,0.1179
+single training run,statistical generalization,-0.2761,1.5976
+group privacy,single training run,-0.1125,1.4916
+parallelism,statistical generalization,0.0258,1.3959
+group privacy,parallelism,0.9811,0.1944
+statistical generalization,training examples,-0.1284,1.5023
+group privacy,training examples,0.0357,1.3888
+group privacy,statistical generalization,-0.0117,1.4224
+auditing,black-box,-0.1546,1.5196
+auditing,white-box,-0.1486,1.5157
+black-box,parallelism,-0.1565,1.5209
+parallelism,white-box,-0.1007,1.4837
+black-box,training examples,-0.1946,1.5457
+training examples,white-box,0.0174,1.4019
+black-box,statistical generalization,-0.0694,1.4625
+statistical generalization,white-box,-0.0757,1.4668
+black-box,group privacy,-0.0805,1.4701
+group privacy,white-box,-0.106,1.4873
+black-box,white-box,0.8369,0.5712

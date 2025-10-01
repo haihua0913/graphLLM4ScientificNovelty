@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+low-rank dictionary learning,sparse representation,0.9451,0.3314
+low-rank dictionary learning,over-complete dictionary,-0.0891,1.4759
+dictionary learning,low-rank dictionary learning,-0.0777,1.4681
+over-complete dictionary,sparse representation,0.1119,1.3327
+dictionary learning,sparse representation,0.104,1.3386
+dictionary learning,over-complete dictionary,0.978,0.2099
+low-rank dictionary learning,low-rank matrix recovery,0.8911,0.4667
+low-rank matrix recovery,sparse representation,0.97,0.2451
+low-rank matrix recovery,over-complete dictionary,0.0462,1.3812
+dictionary learning,low-rank matrix recovery,0.0457,1.3815
+rank minimization,sparse representation,0.1016,1.3405
+class discrimination,sparse representation,0.089,1.3498
+over-complete dictionary,rank minimization,0.9762,0.2182
+class discrimination,over-complete dictionary,0.9531,0.3062
+low-rank matrix recovery,rank minimization,0.0394,1.3861
+class discrimination,low-rank matrix recovery,0.0269,1.3951
+dictionary learning,rank minimization,0.9866,0.1639
+class discrimination,rank minimization,0.9879,0.1559
+class discrimination,dictionary learning,0.9894,0.1458
+face recognition,low-rank matrix recovery,0.9555,0.2984
+face recognition,rank minimization,0.1931,1.2704
+dictionary learning,face recognition,0.184,1.2775
+class discrimination,face recognition,0.1691,1.2891

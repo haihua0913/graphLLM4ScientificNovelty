@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+probabilistic convolutional sparse coding,shift-invariant atoms,0.9264,0.3837
+raw neural signals,shift-invariant atoms,-0.2761,1.5976
+probabilistic convolutional sparse coding,raw neural signals,-0.0911,1.4772
+Monte Carlo expectation-maximization,shift-invariant atoms,0.1058,1.3373
+Monte Carlo expectation-maximization,probabilistic convolutional sparse coding,0.0514,1.3774
+Monte Carlo expectation-maximization,raw neural signals,0.097,1.3439
+Monte Carlo expectation-maximization,weighted CSC problem,0.3991,1.0963
+Monte Carlo expectation-maximization,state-of-the-art convergence speeds,-0.2876,1.6047
+state-of-the-art convergence speeds,weighted CSC problem,0.147,1.3061
+cross-frequency coupling,weighted CSC problem,-0.1391,1.5094
+noisy neural time series,weighted CSC problem,0.0805,1.3561
+cross-frequency coupling,state-of-the-art convergence speeds,-0.0479,1.4477
+noisy neural time series,state-of-the-art convergence speeds,-0.5715,1.7728
+cross-frequency coupling,noisy neural time series,-0.1517,1.5177

@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+actionable recommendations,automated decision-making systems,-0.427,1.6894
+actionable recommendations,robust,0.5827,0.9136
+actionable recommendations,uncertainty,0.2882,1.1932
+automated decision-making systems,robust,-0.2717,1.5948
+automated decision-making systems,uncertainty,-0.0649,1.4594
+robust,uncertainty,0.8756,0.4987
+actionable recommendations,adversarially robust recourse,-0.3906,1.6677
+actionable recommendations,minimally costly recourse,-0.2653,1.5908
+adversarially robust recourse,automated decision-making systems,-0.249,1.5805
+automated decision-making systems,minimally costly recourse,-0.376,1.6589
+adversarially robust recourse,robust,-0.4071,1.6776
+minimally costly recourse,robust,-0.3333,1.633
+adversarially robust recourse,uncertainty,-0.2318,1.5696
+minimally costly recourse,uncertainty,-0.1667,1.5276
+adversarially robust recourse,minimally costly recourse,0.9602,0.2821
+regularizing,robust,0.1266,1.3217
+adversarially robust recourse,regularizing,-0.3867,1.6654
+minimally costly recourse,regularizing,-0.2603,1.5876

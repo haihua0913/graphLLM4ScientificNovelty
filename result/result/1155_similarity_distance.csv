@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+Graph Neural Networks,expressive power,0.0958,1.3447
+Graph Neural Networks,Weisfeiler-Lehman,-0.3828,1.663
+Weisfeiler-Lehman,expressive power,-0.3784,1.6603
+Graph Neural Networks,K-hop message passing,0.2039,1.2618
+K-hop message passing,expressive power,-0.2337,1.5708
+K-hop message passing,Weisfeiler-Lehman,-0.1178,1.4952
+K-hop message passing,regular graphs,0.9691,0.2488
+expressive power,regular graphs,-0.0969,1.4812
+K-hop message passing,KP-GNN framework,-0.1423,1.5115
+K-hop message passing,peripheral subgraph information,-0.432,1.6923
+KP-GNN framework,expressive power,0.2223,1.2471
+expressive power,peripheral subgraph information,-0.2295,1.5681
+KP-GNN framework,regular graphs,-0.1842,1.5389
+peripheral subgraph information,regular graphs,-0.4706,1.715
+KP-GNN framework,peripheral subgraph information,-0.5272,1.7477
+K-hop message passing,distance regular graphs,-0.2529,1.583
+distance regular graphs,expressive power,0.9519,0.31
+distance regular graphs,regular graphs,-0.1253,1.5002
+KP-GNN framework,distance regular graphs,0.1134,1.3316
+distance regular graphs,peripheral subgraph information,-0.1004,1.4835
+benchmark datasets,expressive power,0.0935,1.3465
+benchmark datasets,regular graphs,0.3486,1.1414
+benchmark datasets,distance regular graphs,0.0605,1.3707

@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+Gibbs sampling,Markov chain Monte Carlo,0.965,0.2646
+Gibbs sampling,marginal distributions,0.043,1.3834
+Gibbs sampling,parallelizing,0.024,1.3971
+Gibbs sampling,asynchronously,-0.214,1.5582
+Markov chain Monte Carlo,marginal distributions,-0.0366,1.4399
+Markov chain Monte Carlo,parallelizing,-0.064,1.4588
+Markov chain Monte Carlo,asynchronously,-0.0741,1.4657
+marginal distributions,parallelizing,-0.1285,1.5023
+asynchronously,marginal distributions,-0.0617,1.4572
+asynchronously,parallelizing,-0.1839,1.5388
+Gibbs sampling,Markov chain analysis,-0.1032,1.4854
+Markov chain Monte Carlo,Markov chain analysis,-0.2561,1.585
+Markov chain analysis,marginal distributions,0.2056,1.2605
+Markov chain analysis,parallelizing,0.1439,1.3085
+Markov chain analysis,asynchronously,-0.3543,1.6458
+Gibbs sampling,bias,-0.2071,1.5538
+Gibbs sampling,mixing time,0.8939,0.4607
+bias,parallelizing,-0.2618,1.5886
+mixing time,parallelizing,-0.3028,1.6142
+asynchronously,bias,-0.282,1.6013
+asynchronously,mixing time,-0.0078,1.4197
+Markov chain analysis,bias,-0.0166,1.4259
+Markov chain analysis,mixing time,-0.0913,1.4774
+bias,mixing time,-0.04,1.4422

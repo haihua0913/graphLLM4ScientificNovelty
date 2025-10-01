@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+kernel hyperparameters,variational method,-0.1519,1.5178
+novel variant,variational method,0.0995,1.342
+variational framework,variational method,0.803,0.6276
+Gaussian process latent variable model,variational method,-0.3593,1.6488
+standardised representation,variational method,0.748,0.7099
+kernel hyperparameters,novel variant,-0.7047,1.8465
+kernel hyperparameters,variational framework,-0.2101,1.5557
+Gaussian process latent variable model,kernel hyperparameters,-0.0956,1.4803
+kernel hyperparameters,standardised representation,0.2326,1.2388
+novel variant,variational framework,0.0773,1.3585
+Gaussian process latent variable model,novel variant,0.1542,1.3006
+novel variant,standardised representation,0.1314,1.318
+Gaussian process latent variable model,variational framework,-0.2759,1.5975
+standardised representation,variational framework,0.6311,0.859
+Gaussian process latent variable model,standardised representation,-0.2882,1.6051
+learning Mahalanobis distance metrics,variational method,-0.332,1.6322
+high-dimensional inputs,variational method,-0.093,1.4785
+kernel hyperparameters,learning Mahalanobis distance metrics,-0.0269,1.4331
+high-dimensional inputs,kernel hyperparameters,0.2017,1.2636
+learning Mahalanobis distance metrics,novel variant,0.2454,1.2285
+high-dimensional inputs,novel variant,-0.4035,1.6754
+learning Mahalanobis distance metrics,variational framework,-0.2405,1.5751
+high-dimensional inputs,variational framework,-0.2565,1.5852
+Gaussian process latent variable model,learning Mahalanobis distance metrics,-0.0423,1.4438
+Gaussian process latent variable model,high-dimensional inputs,-0.6538,1.8187
+learning Mahalanobis distance metrics,standardised representation,-0.3258,1.6284
+high-dimensional inputs,standardised representation,-0.1611,1.5239
+high-dimensional inputs,learning Mahalanobis distance metrics,0.0498,1.3785

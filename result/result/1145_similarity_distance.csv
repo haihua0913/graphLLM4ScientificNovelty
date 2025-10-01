@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+mixed scopes,treatment regimens,0.3481,1.1419
+online reinforcement learning,treatment regimens,0.2765,1.2029
+policy space,treatment regimens,0.2008,1.2643
+online reinforcement learning,policy space,0.1446,1.308
+mixed scopes,online reinforcement learning,-0.0491,1.4485
+mixed scopes,policy space,0.2577,1.2184
+online algorithms,treatment regimens,0.2012,1.264
+online algorithms,online reinforcement learning,0.0973,1.3437
+online algorithms,policy space,0.1653,1.292
+mixed scopes,online algorithms,0.9191,0.4021
+online reinforcement learning,state-action space,0.0841,1.3535
+policy space,state-action space,0.1383,1.3128
+mixed scopes,state-action space,0.3074,1.1769
+online algorithms,state-action space,0.0963,1.3444
+causal diagram,mixed scopes,0.9198,0.4006
+interventional distributions,mixed scopes,0.2026,1.2629
+causal diagram,online algorithms,0.9549,0.3003
+interventional distributions,online algorithms,0.039,1.3864
+causal diagram,state-action space,0.0434,1.3832
+interventional distributions,state-action space,0.4352,1.0628
+causal diagram,interventional distributions,0.1834,1.2779

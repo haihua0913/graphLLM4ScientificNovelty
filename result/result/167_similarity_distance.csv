@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+Denoising autoencoders,variational autoencoders,0.8244,0.5927
+Denoising autoencoders,noise injection,-0.1284,1.5023
+Denoising autoencoders,stochastic hidden layer,-0.2394,1.5744
+Denoising autoencoders,modified variational lower bound,0.3599,1.1314
+noise injection,variational autoencoders,-0.0637,1.4585
+stochastic hidden layer,variational autoencoders,-0.4009,1.6739
+modified variational lower bound,variational autoencoders,0.0614,1.3701
+noise injection,stochastic hidden layer,-0.1951,1.5461
+modified variational lower bound,noise injection,-0.0272,1.4333
+modified variational lower bound,stochastic hidden layer,-0.1094,1.4895
+Denoising autoencoders,input noise,-0.2488,1.5804
+Denoising autoencoders,training criterion,0.2647,1.2127
+input noise,variational autoencoders,-0.1351,1.5067
+training criterion,variational autoencoders,0.1355,1.3149
+input noise,noise injection,0.9217,0.3958
+noise injection,training criterion,0.801,0.6309
+input noise,stochastic hidden layer,0.083,1.3543
+stochastic hidden layer,training criterion,-0.1309,1.5039
+input noise,modified variational lower bound,-0.2028,1.551
+modified variational lower bound,training criterion,0.4364,1.0617
+input noise,training criterion,0.644,0.8439
+denoising variational autoencoder,input noise,-0.1148,1.4932
+Frey Face datasets,input noise,-0.035,1.4388
+denoising variational autoencoder,training criterion,0.2098,1.2571
+Frey Face datasets,training criterion,-0.0309,1.4359
+Frey Face datasets,denoising variational autoencoder,0.0989,1.3424

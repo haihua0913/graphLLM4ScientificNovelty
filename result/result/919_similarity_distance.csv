@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+dependence,redundancy,0.9772,0.2134
+dependence,unsupervised learning,-0.1757,1.5335
+dependence,sensory environment,0.9704,0.2434
+redundancy,unsupervised learning,-0.2299,1.5684
+redundancy,sensory environment,0.9432,0.337
+sensory environment,unsupervised learning,-0.265,1.5906
+dependence,total correlation,0.0946,1.3457
+dependence,multivariate mutual information,-0.3273,1.6293
+redundancy,total correlation,0.0711,1.363
+multivariate mutual information,redundancy,-0.2142,1.5583
+total correlation,unsupervised learning,-0.0221,1.4297
+multivariate mutual information,unsupervised learning,-0.2613,1.5883
+multivariate mutual information,total correlation,-0.1145,1.493
+sensory environment,total correlation,0.006,1.41
+multivariate mutual information,sensory environment,-0.2092,1.5551
+dependence,representations,-0.1861,1.5402
+redundancy,representations,-0.1195,1.4963
+representations,unsupervised learning,-0.0413,1.4431
+representations,total correlation,-0.0989,1.4825
+multivariate mutual information,representations,-0.061,1.4567
+representations,sensory environment,-0.231,1.5691
+dependence,human behavior,-0.0783,1.4686
+biology,dependence,0.9493,0.3186
+human behavior,unsupervised learning,-0.3127,1.6203
+biology,unsupervised learning,-0.2092,1.5551
+human behavior,total correlation,-0.0309,1.4359
+biology,total correlation,-0.0039,1.417
+human behavior,multivariate mutual information,-0.0841,1.4725
+biology,multivariate mutual information,-0.3075,1.6171
+human behavior,representations,0.3077,1.1767
+biology,representations,-0.0448,1.4455
+biology,human behavior,-0.0673,1.461

@@ -1,0 +1,32 @@
+node1,node2,similarity,distance
+online boosting,weak online learner,-0.1741,1.5324
+online boosting,strong online learner,-0.2575,1.5859
+online boosting,weak online learnability,-0.2855,1.6034
+strong online learner,weak online learner,0.917,0.4074
+weak online learnability,weak online learner,0.8643,0.5209
+strong online learner,weak online learnability,0.9754,0.2217
+online boosting,online version of boost-by-majority,-0.1876,1.5412
+online version of boost-by-majority,weak online learner,-0.0117,1.4225
+online version of boost-by-majority,strong online learner,-0.2108,1.5561
+online version of boost-by-majority,weak online learnability,-0.2689,1.593
+matching lower bound,online boosting,-0.1091,1.4894
+online boosting,sample complexity,-0.0221,1.4298
+online boosting,specified accuracy,-0.001,1.4149
+matching lower bound,weak online learnability,0.1639,1.2932
+sample complexity,weak online learnability,-0.1818,1.5374
+specified accuracy,weak online learnability,-0.0234,1.4306
+matching lower bound,online version of boost-by-majority,-0.0459,1.4463
+online version of boost-by-majority,sample complexity,0.0678,1.3655
+online version of boost-by-majority,specified accuracy,0.1116,1.333
+matching lower bound,sample complexity,0.9301,0.3738
+matching lower bound,specified accuracy,0.207,1.2593
+sample complexity,specified accuracy,0.2862,1.1948
+adaptive,online version of boost-by-majority,-0.0255,1.4321
+online version of boost-by-majority,parameter-free,-0.1152,1.4935
+adaptive,matching lower bound,0.1887,1.2738
+matching lower bound,parameter-free,0.3633,1.1284
+adaptive,sample complexity,0.1927,1.2707
+parameter-free,sample complexity,0.0426,1.3838
+adaptive,specified accuracy,0.9111,0.4218
+parameter-free,specified accuracy,0.0941,1.346
+adaptive,parameter-free,0.3007,1.1826

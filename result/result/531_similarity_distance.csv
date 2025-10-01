@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+stereo image formation,stereo views,-0.1101,1.49
+non-perspective,stereo image formation,-0.285,1.6031
+epipolar geometry,stereo image formation,-0.2624,1.589
+multiperspective images,stereo image formation,0.0419,1.3842
+non-perspective,stereo views,-0.2655,1.5909
+epipolar geometry,stereo views,-0.0688,1.462
+multiperspective images,stereo views,0.901,0.445
+epipolar geometry,non-perspective,-0.0526,1.4509
+multiperspective images,non-perspective,0.0229,1.3979
+epipolar geometry,multiperspective images,-0.2155,1.5592
+quadric surfaces,stereo image formation,-0.1451,1.5133
+quadric surfaces,stereo views,-0.1533,1.5188
+non-perspective,quadric surfaces,-0.1988,1.5484
+epipolar geometry,quadric surfaces,-0.1136,1.4924
+multiperspective images,quadric surfaces,-0.1696,1.5294
+quadric view,stereo views,0.0855,1.3524
+epipolar geometry,quadric view,0.1471,1.306
+multiperspective images,quadric view,-0.2399,1.5747
+quadric surfaces,quadric view,-0.2987,1.6116
+projection,stereo views,-0.3235,1.627
+stereo views,triangulation,-0.4635,1.7108
+projection,quadric surfaces,-0.048,1.4477
+quadric surfaces,triangulation,0.0365,1.3882
+projection,quadric view,-0.1899,1.5427
+quadric view,triangulation,-0.0441,1.4451
+projection,triangulation,-0.1638,1.5257
+3D binocular object reconstructions,stereo views,-0.0664,1.4604
+3D binocular object reconstructions,projection,-0.1399,1.5099
+3D binocular object reconstructions,triangulation,0.1,1.3416

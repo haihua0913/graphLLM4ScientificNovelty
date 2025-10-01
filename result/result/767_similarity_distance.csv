@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+Adversarially Trained Actor Critic,offline reinforcement learning,0.5459,0.953
+Adversarially Trained Actor Critic,relative pessimism,-0.0876,1.4749
+Adversarially Trained Actor Critic,value critic,-0.1308,1.5038
+Adversarially Trained Actor Critic,data-consistent scenarios,-0.1699,1.5296
+offline reinforcement learning,relative pessimism,-0.2723,1.5952
+offline reinforcement learning,value critic,0.1358,1.3147
+data-consistent scenarios,offline reinforcement learning,-0.4487,1.7022
+relative pessimism,value critic,0.0027,1.4123
+data-consistent scenarios,relative pessimism,0.4283,1.0693
+data-consistent scenarios,value critic,0.3345,1.1537
+Adversarially Trained Actor Critic,hyperparameters,-0.3727,1.6569
+hyperparameters,offline reinforcement learning,-0.4498,1.7028
+hyperparameters,relative pessimism,0.929,0.3769
+hyperparameters,value critic,-0.0214,1.4293
+data-consistent scenarios,hyperparameters,0.4198,1.0772
+theoretical guarantees,value critic,0.9515,0.3113
+function approximation,value critic,0.1409,1.3108
+data-consistent scenarios,theoretical guarantees,0.3624,1.1292
+data-consistent scenarios,function approximation,-0.4536,1.705
+hyperparameters,theoretical guarantees,0.0315,1.3918
+function approximation,hyperparameters,-0.128,1.502
+function approximation,theoretical guarantees,-0.0102,1.4214

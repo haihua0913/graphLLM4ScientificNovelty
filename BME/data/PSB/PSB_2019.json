@@ -1,0 +1,296 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/psb/psb2019.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"86.97"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"44",
+"@dc":"44",
+"@oc":"44",
+"@id":"48916863",
+"text":":facetid:toc:db/conf/psb/psb2019.bht"
+}
+},
+"hits":{
+"@total":"44",
+"@computed":"44",
+"@sent":"44",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3038603",
+"info":{"authors":{"author":[{"@pid":"20/7399","text":"Sean Simmons 0001"},{"@pid":"b/BonnieBerger","text":"Bonnie Berger"},{"@pid":"s/SCSahinalp","text":"S. Cenk Sahinalp"}]},"title":"Protecting Genomic Data Privacy with Probabilistic Modeling.","venue":"PSB","pages":"403-414","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/0001BS19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/simmons.pdf","url":"https://dblp.org/rec/conf/psb/0001BS19"},
+"url":"URL#3038603"
+},
+{
+"@score":"1",
+"@id":"3038604",
+"info":{"authors":{"author":[{"@pid":"233/4138","text":"Shankara Anand"},{"@pid":"193/1832","text":"Laurynas Kalesinskas"},{"@pid":"186/5172","text":"Craig Smail"},{"@pid":"01/6778","text":"Yosuke Tanigawa"}]},"title":"SNPs2ChIP: Latent Factors of ChIP-seq to infer functions of non-coding SNPs.","venue":"PSB","pages":"184-195","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/AnandKST19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/anand.pdf","url":"https://dblp.org/rec/conf/psb/AnandKST19"},
+"url":"URL#3038604"
+},
+{
+"@score":"1",
+"@id":"3038605",
+"info":{"authors":{"author":[{"@pid":"199/1782","text":"Ho Bae"},{"@pid":"124/7080","text":"Byunghan Lee"},{"@pid":"151/3490","text":"Sunyoung Kwon"},{"@pid":"99/1474","text":"Sungroh Yoon"}]},"title":"DNA Steganalysis Using Deep Recurrent Neural Networks.","venue":"PSB","pages":"88-99","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BaeLKY19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/bae.pdf","url":"https://dblp.org/rec/conf/psb/BaeLKY19"},
+"url":"URL#3038605"
+},
+{
+"@score":"1",
+"@id":"3038606",
+"info":{"authors":{"author":[{"@pid":"190/9844","text":"Brett K. Beaulieu-Jones"},{"@pid":"k/IsaacSKohane","text":"Isaac S. Kohane"},{"@pid":"154/3831","text":"Andrew L. Beam"}]},"title":"Learning Contextual Hierarchical Structure of Medical Concepts with Poincairé Embeddings to Clarify Phenotypes.","venue":"PSB","pages":"8-17","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Beaulieu-JonesK19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/beaulieu-jones.pdf","url":"https://dblp.org/rec/conf/psb/Beaulieu-JonesK19"},
+"url":"URL#3038606"
+},
+{
+"@score":"1",
+"@id":"3038607",
+"info":{"authors":{"author":[{"@pid":"141/4897","text":"Joanne Berghout"},{"@pid":"45/1590","text":"Yves A. Lussier"},{"@pid":"130/1716","text":"Francesca Vitali"},{"@pid":"70/7","text":"Martha L. Bulyk"},{"@pid":"07/3726","text":"Maricel G. Kann"},{"@pid":"07/315","text":"Jason H. Moore"}]},"title":"Reading between the genes: interpreting non-coding DNA in high-throughput.","venue":"PSB","pages":"444-448","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BerghoutLVBKM19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/wkshop-rbg.pdf","url":"https://dblp.org/rec/conf/psb/BerghoutLVBKM19"},
+"url":"URL#3038607"
+},
+{
+"@score":"1",
+"@id":"3038608",
+"info":{"authors":{"author":[{"@pid":"57/3260","text":"Steven E. Brenner"},{"@pid":"70/7","text":"Martha L. Bulyk"},{"@pid":"63/8090","text":"Dana C. Crawford"},{"@pid":"62/2857","text":"Jill P. Mesirov"},{"@pid":"31/4175","text":"Alexander A. Morgan"},{"@pid":"93/308","text":"Predrag Radivojac"}]},"title":"Session introduction.","venue":"PSB","pages":"220-223","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BrennerBCMMR19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/intro-pm.pdf","url":"https://dblp.org/rec/conf/psb/BrennerBCMMR19"},
+"url":"URL#3038608"
+},
+{
+"@score":"1",
+"@id":"3038609",
+"info":{"authors":{"author":[{"@pid":"48/4792","text":"Yang Chen"},{"@pid":"94/5469","text":"Yuping Zhang"},{"@pid":"82/6402","text":"Zhengqing Ouyang"}]},"title":"LISA: Accurate reconstruction of cell trajectory and pseudo-time for massive single cell RNA-seq data.","venue":"PSB","pages":"338-349","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ChenZO19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/chen_y.pdf","url":"https://dblp.org/rec/conf/psb/ChenZO19"},
+"url":"URL#3038609"
+},
+{
+"@score":"1",
+"@id":"3038610",
+"info":{"authors":{"author":[{"@pid":"133/4360","text":"Li-Fang Cheng"},{"@pid":"159/2122","text":"Niranjani Prasad"},{"@pid":"53/328","text":"Barbara E. Engelhardt"}]},"title":"An Optimal Policy for Patient Laboratory Tests in Intensive Care Units.","venue":"PSB","pages":"320-331","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ChengPE19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/cheng_l.pdf","url":"https://dblp.org/rec/conf/psb/ChengPE19"},
+"url":"URL#3038610"
+},
+{
+"@score":"1",
+"@id":"3038611",
+"info":{"authors":{"author":[{"@pid":"225/6343","text":"Daisy Yi Ding"},{"@pid":"225/6590","text":"Chloé Simpson"},{"@pid":"225/6445","text":"Stephen Pfohl"},{"@pid":"31/8372","text":"Dave C. Kale"},{"@pid":"120/6526","text":"Kenneth Jung"},{"@pid":"s/NHShah","text":"Nigam H. Shah"}]},"title":"The Effectiveness of Multitask Learning for Phenotyping with Electronic Health Records Data.","venue":"PSB","pages":"18-29","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/DingSPKJS19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/ding.pdf","url":"https://dblp.org/rec/conf/psb/DingSPKJS19"},
+"url":"URL#3038611"
+},
+{
+"@score":"1",
+"@id":"3038612",
+"info":{"authors":{"author":[{"@pid":"233/3873","text":"Megan Doerr"},{"@pid":"233/4033","text":"Shira Grayson"},{"@pid":"93/1694","text":"Sarah Moore"},{"@pid":"233/3733","text":"Christine Suver"},{"@pid":"91/10172","text":"John Wilbanks"},{"@pid":"299/4375","text":"Jennifer K. Wagner"}]},"title":"Implementing a universal informed consent process for the All of Us Research Program.","venue":"PSB","pages":"427-438","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/DoerrGMSWW19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/doerr.pdf","url":"https://dblp.org/rec/conf/psb/DoerrGMSWW19"},
+"url":"URL#3038612"
+},
+{
+"@score":"1",
+"@id":"3038613",
+"info":{"authors":{"author":[{"@pid":"20/5251","text":"Rui Duan"},{"@pid":"119/7465","text":"Mary Regina Boland"},{"@pid":"07/315","text":"Jason H. Moore"},{"@pid":"67/6351-16","text":"Yong Chen 0016"}]},"title":"ODAL: A one-shot distributed algorithm to perform logistic regressions on electronic health records data from multiple clinical sites.","venue":"PSB","pages":"30-41","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/DuanBMC19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/duan.pdf","url":"https://dblp.org/rec/conf/psb/DuanBMC19"},
+"url":"URL#3038613"
+},
+{
+"@score":"1",
+"@id":"3038614",
+"info":{"authors":{"author":[{"@pid":"87/6555","text":"Lana X. Garmire"},{"@pid":"44/931","text":"Guo-Cheng Yuan"},{"@pid":"36/108","text":"Rong Fan"},{"@pid":"00/1202","text":"Gene W. Yeo"},{"@pid":"68/1152","text":"John Quackenbush"}]},"title":"Session introduction.","venue":"PSB","pages":"332-337","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GarmireYFYQ19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/intro-singlecell.pdf","url":"https://dblp.org/rec/conf/psb/GarmireYFYQ19"},
+"url":"URL#3038614"
+},
+{
+"@score":"1",
+"@id":"3038615",
+"info":{"authors":{"author":[{"@pid":"233/3719","text":"Angela Gasdaska"},{"@pid":"233/4027","text":"Derek Friend"},{"@pid":"176/4107","text":"Rachel Chen"},{"@pid":"233/4039","text":"Jason Westra"},{"@pid":"233/4046","text":"Matthew Zawistowski"},{"@pid":"233/4035","text":"William Lindsey"},{"@pid":"27/7109","text":"Nathan L. Tintle"}]},"title":"Leveraging summary statistics to make inferences about complex phenotypes in large biobanks.","venue":"PSB","pages":"391-402","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GasdaskaFCWZLT19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/gasdaska.pdf","url":"https://dblp.org/rec/conf/psb/GasdaskaFCWZLT19"},
+"url":"URL#3038615"
+},
+{
+"@score":"1",
+"@id":"3038616",
+"info":{"authors":{"author":[{"@pid":"233/3866","text":"Maxwell P. Gold"},{"@pid":"200/7327","text":"Alexander LeNail"},{"@pid":"94/5033","text":"Ernest Fraenkel"}]},"title":"Shallow Sparsely-Connected Autoencoders for Gene Set Projection.","venue":"PSB","pages":"374-385","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GoldLF19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/gold.pdf","url":"https://dblp.org/rec/conf/psb/GoldLF19"},
+"url":"URL#3038616"
+},
+{
+"@score":"1",
+"@id":"3038617",
+"info":{"authors":{"author":[{"@pid":"219/1529","text":"Graciela Gonzalez 0001"},{"@pid":"66/6604","text":"Zhiyong Lu"},{"@pid":"26/5019","text":"Robert Leaman"},{"@pid":"69/1498","text":"Davy Weissenbacher"},{"@pid":"119/7465","text":"Mary Regina Boland"},{"@pid":"67/6351-16","text":"Yong Chen 0016"},{"@pid":"156/1121","text":"Jingcheng Du"},{"@pid":"99/2390","text":"Juliane Fluck"},{"@pid":"69/5821","text":"Casey S. Greene"},{"@pid":"88/4334","text":"John H. Holmes"},{"@pid":"12/3552","text":"Aditya Kashyap"},{"@pid":"233/3707","text":"Rikke Linnemann Nielsen"},{"@pid":"82/6402","text":"Zhengqing Ouyang"},{"@pid":"206/3355","text":"Sebastian Schaaf"},{"@pid":"159/2593","text":"Jaclyn N. Taroni"},{"@pid":"03/4748","text":"Cui Tao"},{"@pid":"94/5469","text":"Yuping Zhang"},{"@pid":"92/2407","text":"Hongfang Liu"}]},"title":"Text Mining and Machine Learning for Precision Medicine.","venue":"PSB","pages":"449-454","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GonzalezLLWBCDF19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/wkshop-text.pdf","url":"https://dblp.org/rec/conf/psb/GonzalezLLWBCDF19"},
+"url":"URL#3038617"
+},
+{
+"@score":"1",
+"@id":"3038618",
+"info":{"authors":{"author":[{"@pid":"233/3818","text":"Max Gordon"},{"@pid":"86/6301","text":"Cranos Williams"}]},"title":"PVC Detection Using a Convolutional Autoencoder and Random Forest Classifier.","venue":"PSB","pages":"42-53","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GordonW19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/gordon.pdf","url":"https://dblp.org/rec/conf/psb/GordonW19"},
+"url":"URL#3038618"
+},
+{
+"@score":"1",
+"@id":"3038619",
+"info":{"authors":{"author":[{"@pid":"130/7412","text":"Kiley Graim"},{"@pid":"233/3862","text":"Verena Friedl"},{"@pid":"214/2776","text":"Kathleen E. Houlahan"},{"@pid":"78/4108","text":"Joshua M. Stuart"}]},"title":"PLATYPUS: A Multiple-View Learning Predictive Framework for Cancer Drug Sensitivity Prediction.","venue":"PSB","pages":"136-147","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GraimFHS19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/graim.pdf","url":"https://dblp.org/rec/conf/psb/GraimFHS19"},
+"url":"URL#3038619"
+},
+{
+"@score":"1",
+"@id":"3038620",
+"info":{"authors":{"author":[{"@pid":"180/5393","text":"Peyton Greenside"},{"@pid":"173/1920","text":"Justin M. Zook"},{"@pid":"66/5393","text":"Marc Salit"},{"@pid":"266/7195","text":"Madeleine L. Cule"},{"@pid":"204/3348","text":"Ryan Poplin"},{"@pid":"51/9916","text":"Mark A. DePristo"}]},"title":"CrowdVariant: a crowdsourcing approach to classify copy number variants.","venue":"PSB","pages":"224-235","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GreensideZSCPD19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/greenside.pdf","url":"https://dblp.org/rec/conf/psb/GreensideZSCPD19"},
+"url":"URL#3038620"
+},
+{
+"@score":"1",
+"@id":"3038621",
+"info":{"authors":{"author":[{"@pid":"46/10044","text":"Gamze Gürsoy"},{"@pid":"18/7105","text":"Arif Ozgun Harmanci"},{"@pid":"90/3951","text":"Haixu Tang"},{"@pid":"44/2529","text":"Erman Ayday"},{"@pid":"57/3260","text":"Steven E. Brenner"}]},"title":"Session Introduction.","venue":"PSB","pages":"386-390","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GursoyHTAB19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/intro-whenbio.pdf","url":"https://dblp.org/rec/conf/psb/GursoyHTAB19"},
+"url":"URL#3038621"
+},
+{
+"@score":"1",
+"@id":"3038622",
+"info":{"authors":{"author":[{"@pid":"198/4950","text":"Wontack Han"},{"@pid":"06/4683","text":"Yuzhen Ye"}]},"title":"A repository of microbial marker genes related to human health and diseases for host phenotype prediction using microbiome data.","venue":"PSB","pages":"236-247","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HanY19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/han.pdf","url":"https://dblp.org/rec/conf/psb/HanY19"},
+"url":"URL#3038622"
+},
+{
+"@score":"1",
+"@id":"3038623",
+"info":{"authors":{"author":[{"@pid":"143/1349","text":"Qiwen Hu"},{"@pid":"69/5821","text":"Casey S. Greene"}]},"title":"Parameter tuning is a key part of dimensionality reduction via deep variational autoencoders for single cell RNA transcriptomics.","venue":"PSB","pages":"362-373","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HuG19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/hu_q.pdf","url":"https://dblp.org/rec/conf/psb/HuG19"},
+"url":"URL#3038623"
+},
+{
+"@score":"1",
+"@id":"3038624",
+"info":{"authors":{"author":[{"@pid":"233/3711","text":"Zhiyue Tom Hu"},{"@pid":"46/5540","text":"Yuting Ye"},{"@pid":"233/3752","text":"Patrick A. Newbury"},{"@pid":"94/3307","text":"Haiyan Huang"},{"@pid":"22/5523","text":"Bin Chen"}]},"title":"AICM: A Genuine Framework for Correcting Inconsistency Between Large Pharmacogenomics Datasets.","venue":"PSB","pages":"248-259","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HuYNHC19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/hu.pdf","url":"https://dblp.org/rec/conf/psb/HuYNHC19"},
+"url":"URL#3038624"
+},
+{
+"@score":"1",
+"@id":"3038625",
+"info":{"authors":{"author":[{"@pid":"157/0871","text":"Yuexu Jiang"},{"@pid":"199/4785","text":"Duolin Wang"},{"@pid":"09/3493-2","text":"Dong Xu 0002"}]},"title":"DeepDom: Predicting protein domain boundary from sequence alone using stacked bidirectional.","venue":"PSB","pages":"66-75","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/JiangW019","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/jiang.pdf","url":"https://dblp.org/rec/conf/psb/JiangW019"},
+"url":"URL#3038625"
+},
+{
+"@score":"1",
+"@id":"3038626",
+"info":{"authors":{"author":[{"@pid":"199/4919","text":"Kipp W. Johnson"},{"@pid":"233/3915","text":"Jessica K. De Freitas"},{"@pid":"164/0304","text":"Benjamin S. Glicksberg"},{"@pid":"233/4051","text":"Jason R. Bobe"},{"@pid":"47/2610","text":"Joel T. Dudley"}]},"title":"Evaluation of patient re-identification using laboratory test orders and mitigation via latent space variables.","venue":"PSB","pages":"415-426","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/JohnsonFGBD19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/johnson.pdf","url":"https://dblp.org/rec/conf/psb/JohnsonFGBD19"},
+"url":"URL#3038626"
+},
+{
+"@score":"1",
+"@id":"3038627",
+"info":{"authors":{"author":[{"@pid":"68/1195","text":"Kevin Li"},{"@pid":"176/4107","text":"Rachel Chen"},{"@pid":"233/4035","text":"William Lindsey"},{"@pid":"46/7103","text":"Aaron A. Best"},{"@pid":"81/7112","text":"Matthew DeJongh"},{"@pid":"12/1672","text":"Christopher S. Henry"},{"@pid":"27/7109","text":"Nathan L. Tintle"}]},"title":"Implementing and Evaluating A Gaussian Mixture Framework for Identifying Gene Function from TnSeq Data.","venue":"PSB","pages":"172-183","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/LiCLBDHT19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/li.pdf","url":"https://dblp.org/rec/conf/psb/LiCLBDHT19"},
+"url":"URL#3038627"
+},
+{
+"@score":"1",
+"@id":"3038628",
+"info":{"authors":{"author":[{"@pid":"219/3131","text":"Binglan Li"},{"@pid":"219/3072","text":"Yogasudha Veturi"},{"@pid":"162/7426","text":"Yukiko Bradford"},{"@pid":"154/7763","text":"Shefali S. Verma"},{"@pid":"72/8828","text":"Anurag Verma"},{"@pid":"199/4772","text":"Anastasia M. Lucas"},{"@pid":"83/8767","text":"David W. Haas"},{"@pid":"65/714","text":"Marylyn D. Ritchie"}]},"title":"Influence of tissue context on gene prioritization for predicted transcriptome-wide association studies.","venue":"PSB","pages":"296-307","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/LiVBVVLHR19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/li_b.pdf","url":"https://dblp.org/rec/conf/psb/LiVBVVLHR19"},
+"url":"URL#3038628"
+},
+{
+"@score":"1",
+"@id":"3038629",
+"info":{"authors":{"author":[{"@pid":"06/3580","text":"Zheng Liu"},{"@pid":"07/4410-7","text":"Yao Yao 0007"},{"@pid":"43/2782-6","text":"Qi Wei 0006"},{"@pid":"233/3986","text":"Benjamin Weeder"},{"@pid":"04/8711","text":"Stephen A. Ramsey"}]},"title":"Res2s2aM: Deep residual network-based model for identifying functional noncoding SNPs in trait-associated regions.","venue":"PSB","pages":"76-87","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/LiuYWWR19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/liu.pdf","url":"https://dblp.org/rec/conf/psb/LiuYWWR19"},
+"url":"URL#3038629"
+},
+{
+"@score":"1",
+"@id":"3038630",
+"info":{"authors":{"author":[{"@pid":"45/1590","text":"Yves A. Lussier"},{"@pid":"96/1665","text":"Atul J. Butte"},{"@pid":"85/5081","text":"Haiquan Li"},{"@pid":"22/6904","text":"Rong Chen"},{"@pid":"07/315","text":"Jason H. Moore"}]},"title":"Translational informatics of population Health: How large biomolecular and clinical datasets unite.","venue":"PSB","pages":"455","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/LussierBLCM19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/wkshop-translational.pdf","url":"https://dblp.org/rec/conf/psb/LussierBLCM19"},
+"url":"URL#3038630"
+},
+{
+"@score":"1",
+"@id":"3038631",
+"info":{"authors":{"author":[{"@pid":"195/6213","text":"Arjun Magge"},{"@pid":"69/1498","text":"Davy Weissenbacher"},{"@pid":"43/10772","text":"Abeed Sarker"},{"@pid":"01/6138","text":"Matthew Scotch"},{"@pid":"219/1529","text":"Graciela Gonzalez-Hernandez"}]},"title":"Bi-directional Recurrent Neural Network Models for Geographic Location Extraction in Biomedical Literature.","venue":"PSB","pages":"100-111","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MaggeWSSG19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/magge.pdf","url":"https://dblp.org/rec/conf/psb/MaggeWSSG19"},
+"url":"URL#3038631"
+},
+{
+"@score":"1",
+"@id":"3038632",
+"info":{"authors":{"author":[{"@pid":"233/4056","text":"Rachel M. Pyke"},{"@pid":"233/4013","text":"Raphael Genolet"},{"@pid":"233/3736","text":"Alexandre Harari"},{"@pid":"09/7426","text":"George Coukos"},{"@pid":"14/11204","text":"David Gfeller"},{"@pid":"86/7240","text":"Hannah Carter"}]},"title":"Computational KIR copy number discovery reveals interaction between inhibitory receptor burden and survival.","venue":"PSB","pages":"148-159","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PykeGHCGC19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/pyke.pdf","url":"https://dblp.org/rec/conf/psb/PykeGHCGC19"},
+"url":"URL#3038632"
+},
+{
+"@score":"1",
+"@id":"3038633",
+"info":{"authors":{"author":[{"@pid":"233/3761","text":"Blake Pyman"},{"@pid":"201/1035","text":"Alireza Sedghi"},{"@pid":"143/1915","text":"Shekoofeh Azizi"},{"@pid":"233/3926","text":"Kathrin Tyryshkin"},{"@pid":"233/3899","text":"Neil Renwick"},{"@pid":"95/1924","text":"Parvin Mousavi"}]},"title":"Exploring microRNA Regulation of Cancer with Context-Aware Deep Cancer Classifier.","venue":"PSB","pages":"160-171","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PymanSATRM19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/pyman.pdf","url":"https://dblp.org/rec/conf/psb/PymanSATRM19"},
+"url":"URL#3038633"
+},
+{
+"@score":"1",
+"@id":"3038634",
+"info":{"authors":{"author":[{"@pid":"233/4050","text":"Rashika Ramola"},{"@pid":"175/1596","text":"Shantanu Jain"},{"@pid":"93/308","text":"Predrag Radivojac"}]},"title":"Estimating classification accuracy in positive-unlabeled learning: characterization and correction strategies.","venue":"PSB","pages":"124-135","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/RamolaJR19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/ramola.pdf","url":"https://dblp.org/rec/conf/psb/RamolaJR19"},
+"url":"URL#3038634"
+},
+{
+"@score":"1",
+"@id":"3038635",
+"info":{"authors":{"author":[{"@pid":"208/3567","text":"Derek Reiman"},{"@pid":"16/8550","text":"Lingdao Sha"},{"@pid":"233/3815","text":"Irvin Ho"},{"@pid":"233/4067","text":"Timothy Tan"},{"@pid":"233/3751","text":"Denise Lau"},{"@pid":"46/2390","text":"Aly A. Khan"}]},"title":"Integrating RNA expression and visual features for immune infiltrate prediction.","venue":"PSB","pages":"284-295","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ReimanSHTLK19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/reiman.pdf","url":"https://dblp.org/rec/conf/psb/ReimanSHTLK19"},
+"url":"URL#3038635"
+},
+{
+"@score":"1",
+"@id":"3038636",
+"info":{"authors":{"author":[{"@pid":"233/4087","text":"Martin G. Seneviratne"},{"@pid":"59/256","text":"Michael G. Kahn"},{"@pid":"60/5937","text":"Tina Hernandez-Boussard"}]},"title":"Merging heterogeneous clinical data to enable knowledge discovery.","venue":"PSB","pages":"439-443","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SeneviratneKH19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/wkshop-merging.pdf","url":"https://dblp.org/rec/conf/psb/SeneviratneKH19"},
+"url":"URL#3038636"
+},
+{
+"@score":"1",
+"@id":"3038637",
+"info":{"authors":{"author":[{"@pid":"195/8197","text":"Arunima Srivastava"},{"@pid":"195/8221","text":"Ravali Adusumilli"},{"@pid":"195/8194","text":"Hunter Boyce"},{"@pid":"36/10486","text":"Daniel Garijo"},{"@pid":"93/4525","text":"Varun Ratnakar"},{"@pid":"09/10116","text":"Rajiv Mayani"},{"@pid":"159/6223","text":"Thomas Yu"},{"@pid":"65/1768","text":"Raghu Machiraju"},{"@pid":"88/2686","text":"Yolanda Gil"},{"@pid":"88/2810","text":"Parag Mallick"}]},"title":"Semantic workflows for benchmark challenges: Enhancing comparability, reusability and reproducibility.","venue":"PSB","pages":"208-219","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SrivastavaABGRM19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/srivastava.pdf","url":"https://dblp.org/rec/conf/psb/SrivastavaABGRM19"},
+"url":"URL#3038637"
+},
+{
+"@score":"1",
+"@id":"3038638",
+"info":{"authors":{"author":[{"@pid":"153/5351","text":"Brian Tsui"},{"@pid":"200/4189","text":"Michelle Dow"},{"@pid":"233/4068","text":"Dylan Skola"},{"@pid":"86/7240","text":"Hannah Carter"}]},"title":"Extracting allelic read counts from 250, 000 human sequencing runs in Sequence Read Archive.","venue":"PSB","pages":"196-207","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/TsuiDSC19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/tsui.pdf","url":"https://dblp.org/rec/conf/psb/TsuiDSC19"},
+"url":"URL#3038638"
+},
+{
+"@score":"1",
+"@id":"3038639",
+"info":{"authors":{"author":[{"@pid":"233/4077","text":"Maya Varma"},{"@pid":"141/5089","text":"Kelley Marie Paskov"},{"@pid":"72/4892","text":"Jae-Yoon Jung"},{"@pid":"233/3659","text":"Brianna Sierra Chrisman"},{"@pid":"233/3994","text":"Nate Tyler Stockham"},{"@pid":"139/2369","text":"Peter Yigitcan Washington"},{"@pid":"67/2444","text":"Dennis Paul Wall"}]},"title":"Outgroup Machine Learning Approach Identifies Single Nucleotide Variants in Noncoding DNA Associated with Autism Spectrum Disorder.","venue":"PSB","pages":"260-271","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/VarmaPJCSWW19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/varma.pdf","url":"https://dblp.org/rec/conf/psb/VarmaPJCSWW19"},
+"url":"URL#3038639"
+},
+{
+"@score":"1",
+"@id":"3038640",
+"info":{"authors":{"author":[{"@pid":"154/7763","text":"Shefali Setia Verma"},{"@pid":"72/8828","text":"Anurag Verma"},{"@pid":"13/8425","text":"Dokyoon Kim"},{"@pid":"65/5385","text":"Christian Darabos"}]},"title":"Session Introduction.","venue":"PSB","pages":"1-7","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/VermaVKD19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/intro-pattern.pdf","url":"https://dblp.org/rec/conf/psb/VermaVKD19"},
+"url":"URL#3038640"
+},
+{
+"@score":"1",
+"@id":"3038641",
+"info":{"authors":{"author":[{"@pid":"130/1716","text":"Francesca Vitali"},{"@pid":"141/4897","text":"Joanne Berghout"},{"@pid":"212/7788","text":"Jung-wei Fan"},{"@pid":"63/5716","text":"Jianrong Li"},{"@pid":"148/4835","text":"Qike Li"},{"@pid":"85/5081","text":"Haiquan Li"},{"@pid":"45/1590","text":"Yves A. Lussier"}]},"title":"Precision drug repurposing via convergent eQTL-based molecules and pathway targeting independent disease-associated polymorphisms.","venue":"PSB","pages":"308-319","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/VitaliBFLLLL19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/vitali.pdf","url":"https://dblp.org/rec/conf/psb/VitaliBFLLLL19"},
+"url":"URL#3038641"
+},
+{
+"@score":"1",
+"@id":"3038642",
+"info":{"authors":{"author":[{"@pid":"233/3977","text":"Tongxin Wang"},{"@pid":"290/7470","text":"Travis S. Johnson"},{"@pid":"84/6889-10","text":"Jie Zhang 0010"},{"@pid":"10/4151-1","text":"Kun Huang 0001"}]},"title":"Topological Methods for Visualization and Analysis of High Dimensional Single-Cell RNA Sequencing Data.","venue":"PSB","pages":"350-361","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WangJ0H19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/wang_t.pdf","url":"https://dblp.org/rec/conf/psb/WangJ0H19"},
+"url":"URL#3038642"
+},
+{
+"@score":"1",
+"@id":"3038643",
+"info":{"authors":{"author":[{"@pid":"132/4066","text":"Haohan Wang"},{"@pid":"31/5736-17","text":"Xiang Liu 0017"},{"@pid":"230/3558","text":"Yifeng Tao"},{"@pid":"209/9911","text":"Wenting Ye"},{"@pid":"96/5382-1","text":"Qiao Jin 0001"},{"@pid":"c/WWCohen","text":"William W. Cohen"},{"@pid":"36/3855","text":"Eric P. Xing"}]},"title":"Automatic Human-like Mining and Constructing Reliable Genetic Association Database with Deep Reinforcement Learning.","venue":"PSB","pages":"112-123","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WangLTYJCX19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/wang2.pdf","url":"https://dblp.org/rec/conf/psb/WangLTYJCX19"},
+"url":"URL#3038643"
+},
+{
+"@score":"1",
+"@id":"3038644",
+"info":{"authors":{"author":[{"@pid":"132/4066","text":"Haohan Wang"},{"@pid":"217/3453","text":"Zhenglin Wu"},{"@pid":"36/3855","text":"Eric P. Xing"}]},"title":"Removing Confounding Factors Associated Weights in Deep Neural Networks Improves the Prediction Accuracy for Healthcare Applications.","venue":"PSB","pages":"54-65","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WangWX19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/wang.pdf","url":"https://dblp.org/rec/conf/psb/WangWX19"},
+"url":"URL#3038644"
+},
+{
+"@score":"1",
+"@id":"3038645",
+"info":{"authors":{"author":[{"@pid":"22/4397-3","text":"Xinyuan Zhang 0003"},{"@pid":"219/3072","text":"Yogasudha Veturi"},{"@pid":"154/7763","text":"Shefali Setia Verma"},{"@pid":"233/3648","text":"William Bone"},{"@pid":"72/8828","text":"Anurag Verma"},{"@pid":"199/4772","text":"Anastasia Lucas"},{"@pid":"164/0829","text":"Scott J. Hebbring"},{"@pid":"41/7339","text":"Joshua C. Denny"},{"@pid":"233/3660","text":"Ian B. Stanaway"},{"@pid":"41/7613","text":"Gail P. Jarvik"},{"@pid":"13/11040","text":"David R. Crosslin"},{"@pid":"185/8584","text":"Eric B. Larson"},{"@pid":"88/11038","text":"Laura Rasmussen-Torvik"},{"@pid":"24/276","text":"Sarah A. Pendergrass"},{"@pid":"165/6451","text":"Jordan W. Smoller"},{"@pid":"45/7070","text":"Hakon Hakonarson"},{"@pid":"151/9838","text":"Patrick Sleiman"},{"@pid":"60/4820","text":"Chunhua Weng"},{"@pid":"233/3745","text":"David Fasel"},{"@pid":"62/8882","text":"Wei-Qi Wei"},{"@pid":"65/8749","text":"Iftikhar J. Kullo"},{"@pid":"89/7231","text":"Daniel J. Schaid"},{"@pid":"185/8222","text":"Wendy K. Chung"},{"@pid":"65/714","text":"Marylyn D. Ritchie"}]},"title":"Detecting potential pleiotropy across cardiovascular and neurological diseases using univariate, bivariate, and multivariate methods on 43, 870 individuals from the eMERGE network.","venue":"PSB","pages":"272-283","year":"2019","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ZhangVVBVLHDSJC19","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/zhang_x.pdf","url":"https://dblp.org/rec/conf/psb/ZhangVVBVLHDSJC19"},
+"url":"URL#3038645"
+},
+{
+"@score":"1",
+"@id":"3073851",
+"info":{"authors":{"author":[{"@pid":"47/2081","text":"Russ B. Altman"},{"@pid":"53/20","text":"A. Keith Dunker"},{"@pid":"h/LawrenceHunter","text":"Lawrence Hunter"},{"@pid":"65/714","text":"Marylyn D. Ritchie"},{"@pid":"k/TeriEKlein","text":"Teri E. Klein"}]},"title":"Biocomputing 2019: Proceedings of the Pacific Symposium, The Big Island of Hawaii, Hawaii, USA, January 3-7, 2019","venue":"PSB","year":"2019","type":"Editorship","key":"conf/psb/2019","ee":"http://psb.stanford.edu/psb-online/proceedings/psb19/","url":"https://dblp.org/rec/conf/psb/2019"},
+"url":"URL#3073851"
+}
+]
+}
+}
+}

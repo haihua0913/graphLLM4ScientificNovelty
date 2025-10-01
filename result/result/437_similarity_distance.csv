@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+Retinex,image restoration,0.9866,0.1639
+Retinex,center/surround Retinex,-0.2318,1.5696
+Retinex,parallelization,-0.2219,1.5632
+Retinex,convolution,-0.1709,1.5303
+center/surround Retinex,image restoration,-0.1533,1.5187
+image restoration,parallelization,-0.1009,1.4838
+convolution,image restoration,-0.2296,1.5682
+center/surround Retinex,parallelization,0.4553,1.0438
+center/surround Retinex,convolution,-0.1741,1.5324
+convolution,parallelization,-0.2424,1.5763
+GPGPU/CUDA,Retinex,-0.0261,1.4325
+GPURetinex,Retinex,0.9992,0.0402
+GPGPU/CUDA,image restoration,0.0564,1.3738
+GPURetinex,image restoration,0.9795,0.2024
+GPGPU/CUDA,center/surround Retinex,0.9129,0.4173
+GPURetinex,center/surround Retinex,-0.2526,1.5828
+GPGPU/CUDA,parallelization,0.2992,1.1839
+GPURetinex,parallelization,-0.243,1.5767
+GPGPU/CUDA,convolution,0.0036,1.4116
+GPGPU/CUDA,GPURetinex,-0.0516,1.4503
+GPURetinex,convolution,-0.1584,1.5221
+convolution,speedup,-0.2636,1.5897
+GPURetinex,speedup,-0.0866,1.4742
+Retinex,speedup,-0.0582,1.4548

@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+XSlit cameras,depth-dependent aspect ratio,0.7631,0.6883
+3D recovery,depth-dependent aspect ratio,0.888,0.4732
+depth-dependent aspect ratio,perspective cameras,0.936,0.3576
+3D recovery,XSlit cameras,0.7239,0.7431
+XSlit cameras,perspective cameras,0.5922,0.9031
+3D recovery,perspective cameras,0.7749,0.671
+Manhattan World scenes,depth-dependent aspect ratio,0.1368,1.3139
+3D reconstruction,depth-dependent aspect ratio,0.0399,1.3857
+Manhattan World scenes,XSlit cameras,0.1933,1.2702
+3D reconstruction,XSlit cameras,0.321,1.1654
+3D recovery,Manhattan World scenes,0.025,1.3964
+3D reconstruction,3D recovery,0.1092,1.3348
+Manhattan World scenes,perspective cameras,0.2531,1.2222
+3D reconstruction,Manhattan World scenes,0.3109,1.1739
+3D reconstruction,perspective cameras,-0.0731,1.465
+Manhattan World scenes,depth-dependent slopes,0.3568,1.1342
+3D reconstruction,depth-dependent slopes,0.2635,1.2137
+XSlit cameras,depth-dependent slopes,-0.0904,1.4768
+XSlit cameras,catadioptric mirrors,-0.531,1.7499
+catadioptric mirrors,depth-dependent slopes,-0.2507,1.5816
+XSlit cameras,single-image scene reconstruction,0.2291,1.2417
+depth-dependent slopes,single-image scene reconstruction,0.0247,1.3966
+catadioptric mirrors,single-image scene reconstruction,-0.2162,1.5596

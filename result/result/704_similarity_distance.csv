@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+Normalizing flows,autoregressive models,-0.1673,1.5279
+Normalizing flows,monotonic neural networks,0.9019,0.4429
+autoregressive models,monotonic neural networks,-0.1557,1.5204
+Normalizing flows,neural autoregressive flows,0.9554,0.2986
+Normalizing flows,universal approximators,0.3926,1.1022
+Normalizing flows,multimodal target distributions,0.6146,0.8779
+autoregressive models,neural autoregressive flows,-0.1913,1.5436
+autoregressive models,universal approximators,0.6725,0.8093
+autoregressive models,multimodal target distributions,-0.1419,1.5112
+monotonic neural networks,neural autoregressive flows,0.9471,0.3252
+monotonic neural networks,universal approximators,0.5036,0.9964
+monotonic neural networks,multimodal target distributions,0.795,0.6403
+neural autoregressive flows,universal approximators,0.3709,1.1217
+multimodal target distributions,neural autoregressive flows,0.66,0.8246
+multimodal target distributions,universal approximators,0.5651,0.9327
+monotonic neural networks,state-of-the-art performance,0.2641,1.2132
+neural autoregressive flows,state-of-the-art performance,0.0739,1.361
+state-of-the-art performance,universal approximators,0.336,1.1523
+multimodal target distributions,state-of-the-art performance,0.725,0.7416

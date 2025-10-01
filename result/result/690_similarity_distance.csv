@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+matrix variate Gaussian,variational Bayesian neural network,0.0411,1.3848
+covariance matrices,variational Bayesian neural network,-0.0152,1.4249
+covariance matrices,matrix variate Gaussian,0.0604,1.3709
+Gaussian Process,matrix variate Gaussian,0.8873,0.4747
+deep Gaussian processes,matrix variate Gaussian,0.151,1.3031
+Gaussian Process,covariance matrices,0.1746,1.2848
+covariance matrices,deep Gaussian processes,-0.0991,1.4826
+Gaussian Process,deep Gaussian processes,-0.1989,1.5485
+covariance matrices,pseudo-data,0.0921,1.3475
+covariance matrices,posterior sampling,-0.0438,1.4449
+Gaussian Process,pseudo-data,-0.0293,1.4348
+Gaussian Process,posterior sampling,-0.1078,1.4885
+deep Gaussian processes,pseudo-data,-0.2563,1.5851
+deep Gaussian processes,posterior sampling,-0.0284,1.4341
+posterior sampling,pseudo-data,0.0877,1.3507

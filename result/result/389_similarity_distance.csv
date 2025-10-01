@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+model based approaches,synthesize large-scale scenes,0.0224,1.3983
+hybrid method,realistic rendering,-0.0378,1.4407
+hybrid method,simple shapes,0.0897,1.3493
+realistic rendering,simple shapes,-0.0634,1.4584
+hybrid method,image capturing process,-0.0596,1.4558
+image capturing process,realistic rendering,-0.296,1.61
+image capturing process,simple shapes,-0.0472,1.4472
+error,hybrid method,-0.0027,1.4161
+data size,hybrid method,0.0061,1.4099
+error,simple shapes,0.0482,1.3797
+data size,simple shapes,-0.0106,1.4217
+error,image capturing process,-0.3145,1.6214
+data size,image capturing process,-0.3498,1.643
+data size,error,0.9813,0.1933

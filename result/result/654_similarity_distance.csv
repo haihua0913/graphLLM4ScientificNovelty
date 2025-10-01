@@ -1,0 +1,37 @@
+node1,node2,similarity,distance
+contaminated data-set,principal component analysis,0.0142,1.4041
+high dimensional regime,principal component analysis,-0.011,1.422
+deterministic,principal component analysis,-0.1313,1.5042
+principal component analysis,robust PCA,-0.2469,1.5792
+kernelizable,principal component analysis,-0.0136,1.4238
+asymptotic consistent,principal component analysis,-0.1826,1.5379
+breakdown point,principal component analysis,-0.0484,1.448
+contaminated data-set,high dimensional regime,0.9868,0.1628
+contaminated data-set,deterministic,0.9624,0.2741
+contaminated data-set,robust PCA,-0.077,1.4677
+contaminated data-set,kernelizable,0.9876,0.1573
+asymptotic consistent,contaminated data-set,-0.2043,1.552
+breakdown point,contaminated data-set,0.9763,0.2177
+deterministic,high dimensional regime,0.9814,0.1927
+high dimensional regime,robust PCA,-0.0596,1.4558
+high dimensional regime,kernelizable,0.9999,0.0141
+asymptotic consistent,high dimensional regime,-0.2814,1.6009
+breakdown point,high dimensional regime,0.9924,0.1233
+deterministic,robust PCA,-0.0816,1.4708
+deterministic,kernelizable,0.9811,0.1942
+asymptotic consistent,deterministic,-0.2518,1.5823
+breakdown point,deterministic,0.9728,0.2334
+kernelizable,robust PCA,-0.0579,1.4546
+asymptotic consistent,robust PCA,-0.2263,1.5661
+breakdown point,robust PCA,-0.013,1.4234
+asymptotic consistent,kernelizable,-0.2725,1.5953
+breakdown point,kernelizable,0.9934,0.1147
+asymptotic consistent,breakdown point,-0.2774,1.5984
+computational efficiency,principal component analysis,0.0188,1.4009
+computational efficiency,contaminated data-set,0.2606,1.2161
+computational efficiency,high dimensional regime,0.1801,1.2806
+computational efficiency,deterministic,0.1015,1.3405
+computational efficiency,robust PCA,0.1076,1.336
+computational efficiency,kernelizable,0.1866,1.2755
+asymptotic consistent,computational efficiency,0.5453,0.9537
+breakdown point,computational efficiency,0.156,1.2992

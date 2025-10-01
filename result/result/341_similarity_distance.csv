@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+Natural Language Processing,pre-trained language models,-0.0996,1.483
+knowledge distillation,pre-trained language models,0.3264,1.1607
+Natural Language Processing,knowledge distillation,0.0173,1.4019
+adversarial training,pre-trained language models,-0.2083,1.5545
+Natural Language Processing,adversarial training,-0.1073,1.4881
+adversarial training,knowledge distillation,0.7534,0.7023
+knowledge distillation,masked language model,0.2452,1.2286
+adversarial training,masked language model,-0.0761,1.467
+BERT-based models,knowledge distillation,0.6968,0.7787
+GLUE benchmark,knowledge distillation,0.7491,0.7084
+BERT-based models,masked language model,-0.0757,1.4668
+GLUE benchmark,masked language model,-0.0893,1.476
+BERT-based models,GLUE benchmark,0.9777,0.2111
+RoBERTa based model,knowledge distillation,0.5804,0.9161
+BERT-large,knowledge distillation,-0.4597,1.7086
+BERT-based models,RoBERTa based model,0.9472,0.325
+BERT-based models,BERT-large,-0.2457,1.5784
+GLUE benchmark,RoBERTa based model,0.957,0.2932
+BERT-large,GLUE benchmark,-0.3875,1.6658
+BERT-large,RoBERTa based model,-0.3824,1.6628

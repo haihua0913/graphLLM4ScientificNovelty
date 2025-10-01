@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Korean preprocessor system,noisy-channel,0.9485,0.3209
+noisy-channel,word spacing,0.9097,0.425
+noisy-channel,typographical errors,0.8641,0.5213
+Korean preprocessor system,word spacing,0.9252,0.3867
+Korean preprocessor system,typographical errors,0.9428,0.3382
+typographical errors,word spacing,0.9506,0.3144
+Eojeol transition pattern dictionary,noisy-channel,0.8439,0.5588
+Eumjeol n-gram,noisy-channel,0.9655,0.2628
+Jaso transition probabilities,noisy-channel,0.9576,0.2912
+Eojeol transition pattern dictionary,Korean preprocessor system,0.9515,0.3116
+Eumjeol n-gram,Korean preprocessor system,0.9874,0.159
+Jaso transition probabilities,Korean preprocessor system,0.9021,0.4424
+Eojeol transition pattern dictionary,word spacing,0.8944,0.4596
+Eumjeol n-gram,word spacing,0.9427,0.3384
+Jaso transition probabilities,word spacing,0.8234,0.5943
+Eojeol transition pattern dictionary,typographical errors,0.9721,0.2364
+Eumjeol n-gram,typographical errors,0.913,0.4172
+Jaso transition probabilities,typographical errors,0.7633,0.688
+Eojeol transition pattern dictionary,Eumjeol n-gram,0.9151,0.412
+Eojeol transition pattern dictionary,Jaso transition probabilities,0.7505,0.7064
+Eumjeol n-gram,Jaso transition probabilities,0.9243,0.3891

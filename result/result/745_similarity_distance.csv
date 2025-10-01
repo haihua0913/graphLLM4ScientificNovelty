@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+active sampling,reweighting strategies,0.8326,0.5786
+active sampling,classification,-0.2782,1.5989
+active sampling,regression,-0.3604,1.6495
+active sampling,loss minimization,-0.0771,1.4677
+active sampling,datapoint,0.1011,1.3408
+classification,reweighting strategies,-0.052,1.4505
+regression,reweighting strategies,-0.08,1.4697
+loss minimization,reweighting strategies,-0.137,1.508
+datapoint,reweighting strategies,0.1603,1.2959
+classification,regression,0.9693,0.2477
+classification,loss minimization,0.4527,1.0462
+classification,datapoint,0.2709,1.2075
+loss minimization,regression,0.4253,1.0721
+datapoint,regression,0.2287,1.242
+datapoint,loss minimization,-0.4147,1.6821
+active sampling,disadvantaged groups,-0.2584,1.5864
+disadvantaged groups,reweighting strategies,-0.3554,1.6464
+classification,disadvantaged groups,0.0577,1.3728
+disadvantaged groups,regression,0.1367,1.314
+disadvantaged groups,loss minimization,-0.1256,1.5004
+datapoint,disadvantaged groups,0.1384,1.3127
+convex learning problems,regression,-0.3681,1.6542
+rate of convergence,regression,0.9319,0.369
+convex learning problems,datapoint,0.6423,0.8458
+datapoint,rate of convergence,0.3253,1.1617
+convex learning problems,disadvantaged groups,0.1173,1.3287
+disadvantaged groups,rate of convergence,-0.0826,1.4714
+convex learning problems,rate of convergence,-0.2341,1.571

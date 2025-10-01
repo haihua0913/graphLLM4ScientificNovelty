@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+fast tree-growing algorithm,space complexity,0.9585,0.2881
+conditional independence assumption,fast tree-growing algorithm,-0.2016,1.5502
+conditional independence assumption,space complexity,-0.0579,1.4546
+fast tree-growing algorithm,time complexity,0.9537,0.3042
+conditional independence assumption,time complexity,-0.2208,1.5626
+space complexity,time complexity,0.9645,0.2664
+C4.5,conditional independence assumption,-0.3523,1.6446
+C4.5,time complexity,-0.2488,1.5804
+UCI benchmark data sets,time complexity,-0.0631,1.4582
+text classification,time complexity,-0.1759,1.5336
+C4.5,UCI benchmark data sets,0.2995,1.1836
+C4.5,text classification,0.1655,1.2919
+UCI benchmark data sets,text classification,-0.1809,1.5368
+naive Bayes,time complexity,0.957,0.2931
+C4.5,naive Bayes,-0.1517,1.5177
+UCI benchmark data sets,naive Bayes,-0.0011,1.415
+naive Bayes,text classification,-0.3276,1.6295

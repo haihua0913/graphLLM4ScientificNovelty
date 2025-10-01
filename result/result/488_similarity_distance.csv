@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+Lifelong place recognition,robust localization,-0.0958,1.4804
+3D reconstruction,Lifelong place recognition,0.946,0.3287
+3D reconstruction,robust localization,-0.0094,1.4208
+Lifelong place recognition,Mapillary Street-Level Sequences,0.8253,0.5911
+Lifelong place recognition,urban and suburban place recognition,0.9779,0.2104
+Lifelong place recognition,image sequences,-0.2135,1.5579
+Mapillary Street-Level Sequences,robust localization,-0.0924,1.4781
+robust localization,urban and suburban place recognition,0.0124,1.4054
+image sequences,robust localization,-0.4447,1.6998
+3D reconstruction,Mapillary Street-Level Sequences,0.9078,0.4295
+3D reconstruction,urban and suburban place recognition,0.9669,0.2574
+3D reconstruction,image sequences,-0.1843,1.539
+Mapillary Street-Level Sequences,urban and suburban place recognition,0.8653,0.519
+Mapillary Street-Level Sequences,image sequences,0.0942,1.3459
+image sequences,urban and suburban place recognition,-0.175,1.533
+GPS,compass,0.05,1.3784
+GPS,benchmark tasks,-0.1276,1.5018
+benchmark tasks,compass,0.0905,1.3487

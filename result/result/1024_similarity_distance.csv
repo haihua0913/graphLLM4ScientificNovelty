@@ -1,0 +1,28 @@
+node1,node2,similarity,distance
+online learning,regret,0.2811,1.1991
+online learning,online-gradient-descent,0.5967,0.8981
+follow-the-perturbed-leader,online learning,-0.5037,1.7342
+adversary,online learning,-0.3432,1.639
+delayed setting,online learning,0.1668,1.2909
+online-gradient-descent,regret,-0.3294,1.6306
+follow-the-perturbed-leader,regret,0.3821,1.1117
+adversary,regret,-0.05,1.4492
+delayed setting,regret,0.0155,1.4032
+follow-the-perturbed-leader,online-gradient-descent,-0.3828,1.663
+adversary,online-gradient-descent,-0.165,1.5265
+delayed setting,online-gradient-descent,0.0915,1.348
+adversary,follow-the-perturbed-leader,0.5317,0.9678
+delayed setting,follow-the-perturbed-leader,0.1151,1.3304
+adversary,delayed setting,-0.1075,1.4883
+delayed feedback,online learning,0.2534,1.2219
+delayed feedback,regret,0.9945,0.1047
+delayed feedback,online-gradient-descent,-0.317,1.623
+delayed feedback,follow-the-perturbed-leader,0.3891,1.1054
+delayed feedback,delayed setting,-0.0499,1.4491
+online learning,optimization,-0.0099,1.4212
+machine learning,online learning,0.3695,1.1229
+delayed feedback,optimization,-0.1876,1.5412
+delayed feedback,machine learning,0.1185,1.3278
+optimization,regret,-0.2086,1.5548
+machine learning,regret,0.1979,1.2665
+machine learning,optimization,-0.1068,1.4878

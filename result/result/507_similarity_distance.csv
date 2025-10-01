@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+moment retrieval,video summarization,-0.2149,1.5588
+moment retrieval,video captioning,0.7976,0.6363
+video captioning,video summarization,-0.1485,1.5156
+HIREST,moment retrieval,0.3535,1.1371
+instructional video corpus,moment retrieval,0.3854,1.1087
+moment retrieval,stepwise summarization,-0.0309,1.4359
+HIREST,video summarization,-0.0541,1.4519
+instructional video corpus,video summarization,-0.2586,1.5866
+stepwise summarization,video summarization,0.0506,1.378
+HIREST,video captioning,0.011,1.4064
+instructional video corpus,video captioning,0.0961,1.3445
+stepwise summarization,video captioning,-0.2386,1.5739
+HIREST,instructional video corpus,0.0304,1.3926
+HIREST,stepwise summarization,-0.1349,1.5066
+instructional video corpus,stepwise summarization,-0.3279,1.6297
+moment retrieval,step captioning,-0.1869,1.5407
+moment retrieval,moment segmentation,0.8931,0.4624
+HIREST,step captioning,-0.0425,1.4439
+HIREST,moment segmentation,0.4469,1.0518
+instructional video corpus,step captioning,-0.4284,1.6902
+instructional video corpus,moment segmentation,0.2317,1.2396
+moment segmentation,step captioning,-0.1274,1.5016
+step captioning,stepwise summarization,0.142,1.3099
+moment segmentation,stepwise summarization,-0.1322,1.5048

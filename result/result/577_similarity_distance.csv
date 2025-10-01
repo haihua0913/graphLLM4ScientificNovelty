@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+sequential observations,structured perturbations,-0.2635,1.5896
+residual,sequential observations,0.2731,1.2057
+residual,structured perturbations,-0.0256,1.4322
+Grassmannian,residual,-0.204,1.5517
+numerical solution,residual,0.0556,1.3743
+GOSUS,residual,0.3124,1.1727
+Grassmannian,numerical solution,-0.3911,1.668
+GOSUS,Grassmannian,-0.1054,1.4869
+GOSUS,numerical solution,0.0509,1.3778
+ADMM,Grassmannian,0.3147,1.1707
+ADMM,numerical solution,-0.153,1.5185
+ADMM,GOSUS,0.6576,0.8275
+Grassmannian,empirical performance,-0.0966,1.4809
+empirical performance,numerical solution,-0.3732,1.6572
+GOSUS,empirical performance,-0.0979,1.4818
+ADMM,empirical performance,-0.0959,1.4804

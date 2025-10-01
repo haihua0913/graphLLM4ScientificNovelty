@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+image profiles,motion recovery,-0.22,1.5621
+motion recovery,turntable sequences,0.8878,0.4738
+image profiles,turntable sequences,0.0735,1.3613
+homography,motion recovery,-0.2605,1.5878
+motion recovery,rotation axis,-0.1578,1.5217
+homography,image profiles,0.9907,0.1363
+image profiles,rotation axis,-0.3726,1.6568
+homography,turntable sequences,0.0236,1.3974
+rotation axis,turntable sequences,-0.3404,1.6373
+homography,rotation axis,-0.2975,1.6109
+epipolar geometry,homography,-0.1583,1.522
+epipoles,homography,-0.1162,1.4941
+camera system,homography,0.8889,0.4713
+epipolar geometry,rotation axis,-0.2605,1.5878
+epipolar geometry,epipoles,-0.0107,1.4218
+camera system,epipolar geometry,-0.2317,1.5695
+epipoles,rotation axis,-0.2786,1.5991
+camera system,rotation axis,0.0809,1.3558
+camera system,epipoles,-0.3764,1.6592
+epipolar geometry,motion recovery,0.145,1.3077
+epipoles,motion recovery,-0.2551,1.5844
+camera system,motion recovery,-0.216,1.5595

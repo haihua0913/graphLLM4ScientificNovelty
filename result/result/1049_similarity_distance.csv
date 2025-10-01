@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+Visual Question Answering,heterogeneous tasks,-0.126,1.5007
+Visual Question Answering,specialized models,-0.041,1.4429
+Visual Question Answering,independent ensemble approach,0.1877,1.2746
+heterogeneous tasks,specialized models,-0.1369,1.5079
+heterogeneous tasks,independent ensemble approach,0.0702,1.3637
+independent ensemble approach,specialized models,-0.2441,1.5774
+Visual Question Answering,multiple choice learning,-0.1382,1.5088
+Visual Question Answering,training examples,0.1583,1.2975
+heterogeneous tasks,multiple choice learning,-0.2606,1.5878
+heterogeneous tasks,training examples,-0.1962,1.5467
+multiple choice learning,training examples,-0.0911,1.4772
+multiple choice learning,specialized models,-0.063,1.4581
+independent ensemble approach,multiple choice learning,-0.449,1.7024
+specialized models,training examples,0.9588,0.2871
+independent ensemble approach,training examples,-0.2078,1.5542
+image classification,model-agnostic,-0.3453,1.6403
+experimental results,model-agnostic,0.1668,1.2909
+experimental results,image classification,-0.2971,1.6106

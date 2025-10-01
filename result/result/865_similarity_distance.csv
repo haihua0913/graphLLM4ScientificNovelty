@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+Coronary Heart Disease,ultrasound images,0.7165,0.753
+Coronary Heart Disease,left ventricle,0.7137,0.7567
+Coronary Heart Disease,endocardium,0.8624,0.5246
+Coronary Heart Disease,epicardium,-0.1185,1.4956
+left ventricle,ultrasound images,0.4687,1.0308
+endocardium,ultrasound images,0.5832,0.913
+epicardium,ultrasound images,-0.2122,1.5571
+endocardium,left ventricle,0.8658,0.5181
+epicardium,left ventricle,-0.5765,1.7756
+endocardium,epicardium,-0.2549,1.5842
+Bayesian Networks,endocardium,-0.2663,1.5914
+endocardium,structure learning,-0.302,1.6137
+Bayesian Networks,epicardium,0.2492,1.2254
+epicardium,structure learning,-0.1748,1.5328
+Bayesian Networks,structure learning,-0.0407,1.4427
+Bayesian Networks,numerical features,0.0017,1.413
+numerical features,structure learning,0.8568,0.5352
+echocardiograms,numerical features,-0.3656,1.6526

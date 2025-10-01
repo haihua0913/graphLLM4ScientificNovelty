@@ -1,0 +1,296 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/recomb/recomb2002.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"71.67"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"44",
+"@dc":"44",
+"@oc":"44",
+"@id":"48917527",
+"text":":facetid:toc:db/conf/recomb/recomb2002.bht"
+}
+},
+"hits":{
+"@total":"44",
+"@computed":"44",
+"@sent":"44",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"7102253",
+"info":{"authors":{"author":{"@pid":"76/2556","text":"Ruben Abagyan"}},"title":"Computational structural proteomics and virtual ligand screening.","venue":"RECOMB","pages":"1","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Abagyan02","doi":"10.1145/565196.565197","ee":"https://doi.org/10.1145/565196.565197","url":"https://dblp.org/rec/conf/recomb/Abagyan02"},
+"url":"URL#7102253"
+},
+{
+"@score":"1",
+"@id":"7102254",
+"info":{"authors":{"author":[{"@pid":"a/NMAmato","text":"Nancy M. Amato"},{"@pid":"34/5550","text":"Ken A. Dill"},{"@pid":"59/4427","text":"Guang Song"}]},"title":"Using motion planning to map protein folding landscapes and analyze folding kinetics of known native structures.","venue":"RECOMB","pages":"2-11","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/AmatoDS02","doi":"10.1145/565196.565198","ee":"https://doi.org/10.1145/565196.565198","url":"https://dblp.org/rec/conf/recomb/AmatoDS02"},
+"url":"URL#7102254"
+},
+{
+"@score":"1",
+"@id":"7102255",
+"info":{"authors":{"author":[{"@pid":"03/88","text":"Mehmet Serkan Apaydin"},{"@pid":"88/4215","text":"Douglas L. Brutlag"},{"@pid":"38/769","text":"Carlos Guestrin"},{"@pid":"29/331","text":"David Hsu"},{"@pid":"l/JCLatombe","text":"Jean-Claude Latombe"}]},"title":"Stochastic roadmap simulation: an efficient representation and algorithm for analyzing molecular motion.","venue":"RECOMB","pages":"12-21","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ApaydinBGHL02","doi":"10.1145/565196.565199","ee":"https://doi.org/10.1145/565196.565199","url":"https://dblp.org/rec/conf/recomb/ApaydinBGHL02"},
+"url":"URL#7102255"
+},
+{
+"@score":"1",
+"@id":"7102256",
+"info":{"authors":{"author":[{"@pid":"a/AlbertoApostolico","text":"Alberto Apostolico"},{"@pid":"95/395","text":"Mary Ellen Bock"},{"@pid":"l/StefanoLonardi","text":"Stefano Lonardi"}]},"title":"Monotony of surprise and large-scale quest for unusual words.","venue":"RECOMB","pages":"22-31","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ApostolicoBL02","doi":"10.1145/565196.565200","ee":"https://doi.org/10.1145/565196.565200","url":"https://dblp.org/rec/conf/recomb/ApostolicoBL02"},
+"url":"URL#7102256"
+},
+{
+"@score":"1",
+"@id":"7102257",
+"info":{"authors":{"author":[{"@pid":"23/5400","text":"Peter F. Arndt"},{"@pid":"83/4293","text":"Christopher B. Burge"},{"@pid":"77/2431","text":"Terence Hwa"}]},"title":"DNA sequence evolution with neighbor-dependent mutation.","venue":"RECOMB","pages":"32-38","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ArndtBH02","doi":"10.1145/565196.565201","ee":"https://doi.org/10.1145/565196.565201","url":"https://dblp.org/rec/conf/recomb/ArndtBH02"},
+"url":"URL#7102257"
+},
+{
+"@score":"1",
+"@id":"7102258",
+"info":{"authors":{"author":[{"@pid":"66/6963","text":"Ziv Bar-Joseph"},{"@pid":"20/1339","text":"Georg K. Gerber"},{"@pid":"g/DavidKGifford","text":"David K. Gifford"},{"@pid":"j/TommiJaakkola","text":"Tommi S. Jaakkola"},{"@pid":"32/2929","text":"Itamar Simon"}]},"title":"A new approach to analyzing gene expression time series data.","venue":"RECOMB","pages":"39-48","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Bar-JosephGGJS02","doi":"10.1145/565196.565202","ee":"https://doi.org/10.1145/565196.565202","url":"https://dblp.org/rec/conf/recomb/Bar-JosephGGJS02"},
+"url":"URL#7102258"
+},
+{
+"@score":"1",
+"@id":"7102259",
+"info":{"authors":{"author":[{"@pid":"82/3119","text":"Amir Ben-Dor"},{"@pid":"74/3460","text":"Benny Chor"},{"@pid":"k/RichardMKarp","text":"Richard M. Karp"},{"@pid":"16/7018","text":"Zohar Yakhini"}]},"title":"Discovering local structure in gene expression data: the order-preserving submatrix problem.","venue":"RECOMB","pages":"49-57","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Ben-DorCKY02","doi":"10.1145/565196.565203","ee":"https://doi.org/10.1145/565196.565203","url":"https://dblp.org/rec/conf/recomb/Ben-DorCKY02"},
+"url":"URL#7102259"
+},
+{
+"@score":"1",
+"@id":"7102260",
+"info":{"authors":{"author":[{"@pid":"82/3119","text":"Amir Ben-Dor"},{"@pid":"k/RichardMKarp","text":"Richard M. Karp"},{"@pid":"63/3509","text":"Benno Schwikowski"},{"@pid":"66/6913","text":"Ron Shamir"}]},"title":"The restriction scaffold problem.","venue":"RECOMB","pages":"58-66","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Ben-DorKSS02","doi":"10.1145/565196.565204","ee":"https://doi.org/10.1145/565196.565204","url":"https://dblp.org/rec/conf/recomb/Ben-DorKSS02"},
+"url":"URL#7102260"
+},
+{
+"@score":"1",
+"@id":"7102261",
+"info":{"authors":{"author":[{"@pid":"89/3537","text":"Sèverine Bérard"},{"@pid":"07/3055","text":"Eric Rivals"}]},"title":"Comparison of minisatellites.","venue":"RECOMB","pages":"67-76","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BerardR02","doi":"10.1145/565196.565205","ee":"https://doi.org/10.1145/565196.565205","url":"https://dblp.org/rec/conf/recomb/BerardR02"},
+"url":"URL#7102261"
+},
+{
+"@score":"1",
+"@id":"7102262",
+"info":{"authors":{"author":[{"@pid":"23/180","text":"Phil Bradley"},{"@pid":"65/5377","text":"Peter S. Kim"},{"@pid":"b/BonnieBerger","text":"Bonnie Berger"}]},"title":"Trilogy: discovery of sequence-structure patterns across diverse proteins.","venue":"RECOMB","pages":"77-88","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BradleyKB02","doi":"10.1145/565196.565206","ee":"https://doi.org/10.1145/565196.565206","url":"https://dblp.org/rec/conf/recomb/BradleyKB02"},
+"url":"URL#7102262"
+},
+{
+"@score":"1",
+"@id":"7102263",
+"info":{"authors":{"author":{"@pid":"20/4635","text":"Ali H. Brivanlou"}},"title":"Microarray analysis of vertebrate embryonic neural induction.","venue":"RECOMB","pages":"89-89","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Brivanlou02","doi":"10.1145/565196.565207","ee":"https://doi.org/10.1145/565196.565207","url":"https://dblp.org/rec/conf/recomb/Brivanlou02"},
+"url":"URL#7102263"
+},
+{
+"@score":"1",
+"@id":"7102264",
+"info":{"authors":{"author":{"@pid":"b/JeremyBuhler","text":"Jeremy Buhler"}},"title":"Provably sensitive Indexing strategies for biosequence similarity search.","venue":"RECOMB","pages":"90-99","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Buhler02","doi":"10.1145/565196.565208","ee":"https://doi.org/10.1145/565196.565208","url":"https://dblp.org/rec/conf/recomb/Buhler02"},
+"url":"URL#7102264"
+},
+{
+"@score":"1",
+"@id":"7102265",
+"info":{"authors":{"author":[{"@pid":"c/AlbertoCaprara","text":"Alberto Caprara"},{"@pid":"36/5719","text":"Giuseppe Lancia"}]},"title":"Structural alignment of large-size proteins via lagrangian relaxation.","venue":"RECOMB","pages":"100-108","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/CapraraL02","doi":"10.1145/565196.565209","ee":"https://doi.org/10.1145/565196.565209","url":"https://dblp.org/rec/conf/recomb/CapraraL02"},
+"url":"URL#7102265"
+},
+{
+"@score":"1",
+"@id":"7102267",
+"info":{"authors":{"author":[{"@pid":"84/1363","text":"Barry Cohen"},{"@pid":"s/StevenSkiena","text":"Steven Skiena"}]},"title":"Designing RNA structures: natural and artificial selection.","venue":"RECOMB","pages":"109-116","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/CohenS02","doi":"10.1145/565196.565210","ee":"https://doi.org/10.1145/565196.565210","url":"https://dblp.org/rec/conf/recomb/CohenS02"},
+"url":"URL#7102267"
+},
+{
+"@score":"1",
+"@id":"7102268",
+"info":{"authors":{"author":[{"@pid":"33/5820","text":"Minghua Deng"},{"@pid":"29/6894","text":"Shipra Mehta"},{"@pid":"56/1386","text":"Fengzhu Sun"},{"@pid":"19/1766-6","text":"Ting Chen 0006"}]},"title":"Inferring domain-domain interactions from protein-protein interactions.","venue":"RECOMB","pages":"117-126","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/DengMSC02","doi":"10.1145/565196.565211","ee":"https://doi.org/10.1145/565196.565211","url":"https://dblp.org/rec/conf/recomb/DengMSC02"},
+"url":"URL#7102268"
+},
+{
+"@score":"1",
+"@id":"7102269",
+"info":{"authors":{"author":{"@pid":"d/CHQDing","text":"Chris H. Q. Ding"}},"title":"Analysis of gene expression profiles: class discovery and leaf ordering.","venue":"RECOMB","pages":"127-136","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Ding02","doi":"10.1145/565196.565212","ee":"https://doi.org/10.1145/565196.565212","url":"https://dblp.org/rec/conf/recomb/Ding02"},
+"url":"URL#7102269"
+},
+{
+"@score":"1",
+"@id":"7102270",
+"info":{"authors":{"author":[{"@pid":"23/256","text":"Ron O. Dror"},{"@pid":"15/2065","text":"Jonathan G. Murnick"},{"@pid":"54/3110","text":"Nicola A. Rinaldi"},{"@pid":"82/6449","text":"Voichita D. Marinescu"},{"@pid":"39/2696","text":"Ryan M. Rifkin"},{"@pid":"97/2425","text":"Richard A. Young"}]},"title":"A bayesian approach to transcript estimation from gene array data: the BEAM technique.","venue":"RECOMB","pages":"137-143","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/DrorMRMRY02","doi":"10.1145/565196.565213","ee":"https://doi.org/10.1145/565196.565213","url":"https://dblp.org/rec/conf/recomb/DrorMRMRY02"},
+"url":"URL#7102270"
+},
+{
+"@score":"1",
+"@id":"7102271",
+"info":{"authors":{"author":[{"@pid":"d/DDurand","text":"Dannie Durand"},{"@pid":"66/977","text":"David Sankoff"}]},"title":"Tests for gene clustering.","venue":"RECOMB","pages":"144-154","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/DurandS02","doi":"10.1145/565196.565214","ee":"https://doi.org/10.1145/565196.565214","url":"https://dblp.org/rec/conf/recomb/DurandS02"},
+"url":"URL#7102271"
+},
+{
+"@score":"1",
+"@id":"7102272",
+"info":{"authors":{"author":{"@pid":"14/3719","text":"Evan E. Eichler"}},"title":"Recent duplication, evolution and assembly of the human genome.","venue":"RECOMB","pages":"155-155","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Eichler02","doi":"10.1145/565196.565215","ee":"https://doi.org/10.1145/565196.565215","url":"https://dblp.org/rec/conf/recomb/Eichler02"},
+"url":"URL#7102272"
+},
+{
+"@score":"1",
+"@id":"7102273",
+"info":{"authors":{"author":[{"@pid":"07/2749","text":"Nadia El-Mabrouk"},{"@pid":"98/2963","text":"Mathieu Raffinot"}]},"title":"Approximate matching of secondary structures.","venue":"RECOMB","pages":"156-164","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/El-MabroukR02","doi":"10.1145/565196.565216","ee":"https://doi.org/10.1145/565196.565216","url":"https://dblp.org/rec/conf/recomb/El-MabroukR02"},
+"url":"URL#7102273"
+},
+{
+"@score":"1",
+"@id":"7102274",
+"info":{"authors":{"author":{"@pid":"24/3224","text":"Harold R. Garner"}},"title":"Applied computational genomics: polymorphism prediction, data mining and genomic analysis.","venue":"RECOMB","pages":"165","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Garner02","doi":"10.1145/565196.565217","ee":"https://doi.org/10.1145/565196.565217","url":"https://dblp.org/rec/conf/recomb/Garner02"},
+"url":"URL#7102274"
+},
+{
+"@score":"1",
+"@id":"7102275",
+"info":{"authors":{"author":{"@pid":"g/DanGusfield","text":"Dan Gusfield"}},"title":"Haplotyping as perfect phylogeny: conceptual framework and efficient solutions.","venue":"RECOMB","pages":"166-175","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Gusfield02","doi":"10.1145/565196.565218","ee":"https://doi.org/10.1145/565196.565218","url":"https://dblp.org/rec/conf/recomb/Gusfield02"},
+"url":"URL#7102275"
+},
+{
+"@score":"1",
+"@id":"7102278",
+"info":{"authors":{"author":[{"@pid":"h/EranHalperin","text":"Eran Halperin"},{"@pid":"49/6683","text":"Shay Halperin"},{"@pid":"36/6598","text":"Tzvika Hartman"},{"@pid":"66/6913","text":"Ron Shamir"}]},"title":"Handling long targets and errors in sequencing by hybridization.","venue":"RECOMB","pages":"176-185","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/HalperinHHS02","doi":"10.1145/565196.565219","ee":"https://doi.org/10.1145/565196.565219","url":"https://dblp.org/rec/conf/recomb/HalperinHHS02"},
+"url":"URL#7102278"
+},
+{
+"@score":"1",
+"@id":"7102279",
+"info":{"authors":{"author":[{"@pid":"19/4031","text":"Samuel A. Heath"},{"@pid":"p/FPPreparata","text":"Franco P. Preparata"},{"@pid":"03/1732","text":"Joel Young"}]},"title":"Sequencing by hybridization using direct and reverse cooperating spectra.","venue":"RECOMB","pages":"186-193","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/HeathPY02","doi":"10.1145/565196.565220","ee":"https://doi.org/10.1145/565196.565220","url":"https://dblp.org/rec/conf/recomb/HeathPY02"},
+"url":"URL#7102279"
+},
+{
+"@score":"1",
+"@id":"7102280",
+"info":{"authors":{"author":{"@pid":"38/4046","text":"David D. Ho"}},"title":"Lymphocyte turnover in HIV-1 infection and the role of the thymus in SIV infection.","venue":"RECOMB","pages":"194-194","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Ho02","doi":"10.1145/565196.565221","ee":"https://doi.org/10.1145/565196.565221","url":"https://dblp.org/rec/conf/recomb/Ho02"},
+"url":"URL#7102280"
+},
+{
+"@score":"1",
+"@id":"7102281",
+"info":{"authors":{"author":[{"@pid":"k/UriKeich","text":"Uri Keich"},{"@pid":"p/PAPevzner","text":"Pavel A. Pevzner"}]},"title":"Finding motifs in the twilight zone.","venue":"RECOMB","pages":"195-204","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KeichP02","doi":"10.1145/565196.565222","ee":"https://doi.org/10.1145/565196.565222","url":"https://dblp.org/rec/conf/recomb/KeichP02"},
+"url":"URL#7102281"
+},
+{
+"@score":"1",
+"@id":"7102282",
+"info":{"authors":{"author":[{"@pid":"19/1837","text":"Christopher James Langmead"},{"@pid":"80/3776","text":"Anthony K. Yan"},{"@pid":"25/589","text":"C. Robertson McClung"},{"@pid":"d/BRDonald","text":"Bruce Randall Donald"}]},"title":"Phase-independent rhythmic analysis of genome-wide expression patterns.","venue":"RECOMB","pages":"205-215","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/LangmeadYMD02","doi":"10.1145/565196.565223","ee":"https://doi.org/10.1145/565196.565223","url":"https://dblp.org/rec/conf/recomb/LangmeadYMD02"},
+"url":"URL#7102282"
+},
+{
+"@score":"1",
+"@id":"7102283",
+"info":{"authors":{"author":[{"@pid":"23/6950-1","text":"Jia Li 0001"},{"@pid":"m/WebbMiller","text":"Webb Miller"}]},"title":"Significance Of inter-species matches when evolutionary rate varies.","venue":"RECOMB","pages":"216-224","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/LiM02","doi":"10.1145/565196.565224","ee":"https://doi.org/10.1145/565196.565224","url":"https://dblp.org/rec/conf/recomb/LiM02"},
+"url":"URL#7102283"
+},
+{
+"@score":"1",
+"@id":"7102284",
+"info":{"authors":{"author":[{"@pid":"11/2584","text":"Li Liao"},{"@pid":"08/978","text":"William Stafford Noble"}]},"title":"Combining pairwise sequence similarity and support vector machines for remote protein homology detection.","venue":"RECOMB","pages":"225-232","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/LiaoN02","doi":"10.1145/565196.565225","ee":"https://doi.org/10.1145/565196.565225","url":"https://dblp.org/rec/conf/recomb/LiaoN02"},
+"url":"URL#7102284"
+},
+{
+"@score":"1",
+"@id":"7102285",
+"info":{"authors":{"author":[{"@pid":"39/1826","text":"Brendan Mumey"},{"@pid":"47/2723","text":"Brian W. Bailey"},{"@pid":"44/1404","text":"Edward A. Dratz"}]},"title":"Revealing protein structures: a new method for mapping antibody epitopes.","venue":"RECOMB","pages":"233-240","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/MumeyBD02","doi":"10.1145/565196.565226","ee":"https://doi.org/10.1145/565196.565226","url":"https://dblp.org/rec/conf/recomb/MumeyBD02"},
+"url":"URL#7102285"
+},
+{
+"@score":"1",
+"@id":"7102287",
+"info":{"authors":{"author":[{"@pid":"60/4278","text":"Jürg Ott"},{"@pid":"29/3407","text":"Josephine Hoh"}]},"title":"Set association analysis of SNP case-control and microarray data.","venue":"RECOMB","pages":"241-245","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/OttH02","doi":"10.1145/565196.565227","ee":"https://doi.org/10.1145/565196.565227","url":"https://dblp.org/rec/conf/recomb/OttH02"},
+"url":"URL#7102287"
+},
+{
+"@score":"1",
+"@id":"7102288",
+"info":{"authors":{"author":[{"@pid":"52/2663","text":"Lior Pachter"},{"@pid":"80/402","text":"Fumei Lam"}]},"title":"Picking alignments from (steiner) trees.","venue":"RECOMB","pages":"246-253","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/PachterL02","doi":"10.1145/565196.565228","ee":"https://doi.org/10.1145/565196.565228","url":"https://dblp.org/rec/conf/recomb/PachterL02"},
+"url":"URL#7102288"
+},
+{
+"@score":"1",
+"@id":"7102289",
+"info":{"authors":{"author":[{"@pid":"71/313","text":"Sam Rash"},{"@pid":"g/DanGusfield","text":"Dan Gusfield"}]},"title":"String barcoding: uncovering optimal virus signatures.","venue":"RECOMB","pages":"254-261","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/RashG02","doi":"10.1145/565196.565229","ee":"https://doi.org/10.1145/565196.565229","url":"https://dblp.org/rec/conf/recomb/RashG02"},
+"url":"URL#7102289"
+},
+{
+"@score":"1",
+"@id":"7102290",
+"info":{"authors":{"author":{"@pid":"52/4538","text":"Gerald M. Rubin"}},"title":"Biological and computational annotation of the Drosophila Genome Sequence.","venue":"RECOMB","pages":"262-262","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Rubin02","doi":"10.1145/565196.565230","ee":"https://doi.org/10.1145/565196.565230","url":"https://dblp.org/rec/conf/recomb/Rubin02"},
+"url":"URL#7102290"
+},
+{
+"@score":"1",
+"@id":"7102292",
+"info":{"authors":{"author":[{"@pid":"51/3042","text":"Eran Segal"},{"@pid":"64/4220","text":"Yoseph Barash"},{"@pid":"32/2929","text":"Itamar Simon"},{"@pid":"86/249","text":"Nir Friedman"},{"@pid":"k/DaphneKoller","text":"Daphne Koller"}]},"title":"From promoter sequence to expression: a probabilistic framework.","venue":"RECOMB","pages":"263-272","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SegalBSFK02","doi":"10.1145/565196.565231","ee":"https://doi.org/10.1145/565196.565231","url":"https://dblp.org/rec/conf/recomb/SegalBSFK02"},
+"url":"URL#7102292"
+},
+{
+"@score":"1",
+"@id":"7102293",
+"info":{"authors":{"author":[{"@pid":"51/3042","text":"Eran Segal"},{"@pid":"k/DaphneKoller","text":"Daphne Koller"}]},"title":"Probabilistic hierarchical clustering for biological data.","venue":"RECOMB","pages":"273-280","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SegalK02","doi":"10.1145/565196.565232","ee":"https://doi.org/10.1145/565196.565232","url":"https://dblp.org/rec/conf/recomb/SegalK02"},
+"url":"URL#7102293"
+},
+{
+"@score":"1",
+"@id":"7102294",
+"info":{"authors":{"author":{"@pid":"s/AdamCSiepel","text":"Adam C. Siepel"}},"title":"An algorithm to enumerate all sorting reversals.","venue":"RECOMB","pages":"281-290","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Siepel02","doi":"10.1145/565196.565233","ee":"https://doi.org/10.1145/565196.565233","url":"https://dblp.org/rec/conf/recomb/Siepel02"},
+"url":"URL#7102294"
+},
+{
+"@score":"1",
+"@id":"7102295",
+"info":{"authors":{"author":{"@pid":"13/1472","text":"Saurabh Sinha"}},"title":"Discriminative motifs.","venue":"RECOMB","pages":"291-298","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Sinha02","doi":"10.1145/565196.565234","ee":"https://doi.org/10.1145/565196.565234","url":"https://dblp.org/rec/conf/recomb/Sinha02"},
+"url":"URL#7102295"
+},
+{
+"@score":"1",
+"@id":"7102296",
+"info":{"authors":{"author":[{"@pid":"45/4820","text":"Miguel L. Teodoro"},{"@pid":"26/3609","text":"George N. Phillips"},{"@pid":"k/LydiaEKavraki","text":"Lydia E. Kavraki"}]},"title":"A dimensionality reduction approach to modeling protein flexibility.","venue":"RECOMB","pages":"299-308","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/TeodoroPK02","doi":"10.1145/565196.565235","ee":"https://doi.org/10.1145/565196.565235","url":"https://dblp.org/rec/conf/recomb/TeodoroPK02"},
+"url":"URL#7102296"
+},
+{
+"@score":"1",
+"@id":"7102298",
+"info":{"authors":{"author":{"@pid":"34/4595","text":"J. Craig Venter"}},"title":"Sequencing the human genome.","venue":"RECOMB","pages":"309-309","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Venter02","doi":"10.1145/565196.565236","ee":"https://doi.org/10.1145/565196.565236","url":"https://dblp.org/rec/conf/recomb/Venter02"},
+"url":"URL#7102298"
+},
+{
+"@score":"1",
+"@id":"7102299",
+"info":{"authors":{"author":{"@pid":"93/3537","text":"Marc Vidal"}},"title":"Toward a proteome atlas for C. Elegans.","venue":"RECOMB","pages":"310-310","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Vidal02","doi":"10.1145/565196.565237","ee":"https://doi.org/10.1145/565196.565237","url":"https://dblp.org/rec/conf/recomb/Vidal02"},
+"url":"URL#7102299"
+},
+{
+"@score":"1",
+"@id":"7102301",
+"info":{"authors":{"author":[{"@pid":"41/6064","text":"Andy Wildenberg"},{"@pid":"s/StevenSkiena","text":"Steven Skiena"},{"@pid":"66/5163","text":"Pavel Sumazin"}]},"title":"Deconvolving sequence variation in mixed DNA populations.","venue":"RECOMB","pages":"311-320","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/WildenbergSS02","doi":"10.1145/565196.565238","ee":"https://doi.org/10.1145/565196.565238","url":"https://dblp.org/rec/conf/recomb/WildenbergSS02"},
+"url":"URL#7102301"
+},
+{
+"@score":"1",
+"@id":"7102304",
+"info":{"authors":{"author":[{"@pid":"29/3337","text":"Alexander Zien"},{"@pid":"99/2390","text":"Juliane Fluck"},{"@pid":"z/RalfZimmer","text":"Ralf Zimmer"},{"@pid":"l/TLengauer","text":"Thomas Lengauer"}]},"title":"Microarrays: how many do you need?","venue":"RECOMB","pages":"321-330","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ZienFZL02","doi":"10.1145/565196.565239","ee":"https://doi.org/10.1145/565196.565239","url":"https://dblp.org/rec/conf/recomb/ZienFZL02"},
+"url":"URL#7102304"
+},
+{
+"@score":"1",
+"@id":"7112318",
+"info":{"authors":{"author":[{"@pid":"m/EugeneWMyers","text":"Gene Myers"},{"@pid":"59/496","text":"Sridhar Hannenhalli"},{"@pid":"66/977","text":"David Sankoff"},{"@pid":"59/460","text":"Sorin Istrail"},{"@pid":"p/PAPevzner","text":"Pavel A. Pevzner"},{"@pid":"w/MichaelSWaterman","text":"Michael S. Waterman"}]},"title":"Proceedings of the Sixth Annual International Conference on Computational Biology, RECOMB 2002, Washington, DC, USA, April 18-21, 2002","venue":"RECOMB","publisher":"ACM","year":"2002","type":"Editorship","key":"conf/recomb/2002","doi":"10.1145/565196","ee":"https://doi.org/10.1145/565196","url":"https://dblp.org/rec/conf/recomb/2002"},
+"url":"URL#7112318"
+}
+]
+}
+}
+}

@@ -1,0 +1,35 @@
+node1,node2,similarity,distance
+SGMs,Score-based generative models,0.038,1.3871
+Euclidean space,Score-based generative models,0.9464,0.3274
+Euclidean space,SGMs,-0.1693,1.5293
+Riemannian manifolds,SGMs,0.0656,1.3671
+SGMs,robotics,0.0409,1.385
+SGMs,geoscience,0.2845,1.1963
+SGMs,protein modelling,-0.2912,1.607
+Euclidean space,Riemannian manifolds,-0.2262,1.566
+Riemannian manifolds,robotics,0.9867,0.1633
+Riemannian manifolds,geoscience,-0.0172,1.4264
+Riemannian manifolds,protein modelling,0.0076,1.4088
+Euclidean space,robotics,-0.1133,1.4922
+Euclidean space,geoscience,0.8292,0.5844
+Euclidean space,protein modelling,-0.1693,1.5293
+geoscience,robotics,0.0629,1.369
+protein modelling,robotics,-0.0006,1.4147
+geoscience,protein modelling,-0.1293,1.5029
+Riemannian manifolds,Score-based generative models,-0.1536,1.519
+Score-based generative models,robotics,-0.0578,1.4545
+Score-based generative models,geoscience,0.9432,0.337
+Score-based generative models,protein modelling,-0.0677,1.4613
+RSGMs,Score-based generative models,0.1577,1.2979
+RSGMs,SGMs,0.9703,0.2436
+RSGMs,Riemannian manifolds,0.0322,1.3913
+RSGMs,robotics,0.0266,1.3953
+RSGMs,geoscience,0.3862,1.1079
+RSGMs,protein modelling,-0.1198,1.4965
+Score-based generative models,spherical data,0.4342,1.0638
+SGMs,spherical data,-0.1232,1.4988
+Riemannian manifolds,spherical data,0.3452,1.1444
+robotics,spherical data,0.3443,1.1451
+geoscience,spherical data,0.348,1.142
+protein modelling,spherical data,-0.3001,1.6125
+RSGMs,spherical data,-0.1872,1.5409

@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Generative models,biological sequences,0.9557,0.2977
+Generative models,high-dimensional distributions,0.9859,0.168
+biological sequences,high-dimensional distributions,0.9558,0.2973
+Generative models,kernelized Stein discrepancy,-0.1412,1.5107
+Generative models,KSD-B,0.0407,1.3851
+Generative models,divergence measure,-0.0582,1.4548
+biological sequences,kernelized Stein discrepancy,-0.0139,1.424
+KSD-B,biological sequences,-0.0934,1.4788
+biological sequences,divergence measure,-0.1082,1.4887
+KSD-B,kernelized Stein discrepancy,-0.2928,1.608
+divergence measure,kernelized Stein discrepancy,0.7525,0.7036
+high-dimensional distributions,kernelized Stein discrepancy,-0.1312,1.5042
+KSD-B,divergence measure,-0.09,1.4765
+KSD-B,high-dimensional distributions,-0.0709,1.4635
+divergence measure,high-dimensional distributions,-0.0992,1.4827
+biological sequences,sequence space,0.2049,1.261
+kernelized Stein discrepancy,sequence space,-0.2148,1.5587
+KSD-B,sequence space,-0.1044,1.4862
+divergence measure,sequence space,-0.0058,1.4183
+KSD-B,machine learning models,-0.1227,1.4984
+machine learning models,sequence space,0.2285,1.2422

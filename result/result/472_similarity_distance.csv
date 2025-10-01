@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+image captioning,visual relationship detection,-0.3266,1.6289
+object detection,visual relationship detection,-0.0231,1.4304
+image captioning,object detection,-0.0975,1.4816
+Visual Phrase guided Convolutional Neural Network,visual relationship detection,-0.2539,1.5836
+Phrase-guided Message Passing Structure,visual relationship detection,0.8859,0.4778
+Phrase-guided Message Passing Structure,Visual Phrase guided Convolutional Neural Network,-0.203,1.5511
+non-maximum suppression method,visual relationship detection,0.0407,1.3852
+model training strategy,visual relationship detection,-0.3856,1.6647
+Visual Phrase guided Convolutional Neural Network,non-maximum suppression method,0.8188,0.6021
+Visual Phrase guided Convolutional Neural Network,model training strategy,0.7916,0.6456
+Phrase-guided Message Passing Structure,non-maximum suppression method,0.1999,1.265
+Phrase-guided Message Passing Structure,model training strategy,-0.4538,1.7052
+model training strategy,non-maximum suppression method,0.4729,1.0267
+Visual Genome Relationship dataset,non-maximum suppression method,0.7953,0.6399
+ImageNet,non-maximum suppression method,0.0521,1.3769
+Visual Genome Relationship dataset,model training strategy,0.7954,0.6397
+ImageNet,model training strategy,0.1236,1.3239
+ImageNet,Visual Genome Relationship dataset,0.271,1.2075

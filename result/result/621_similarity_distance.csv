@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+common substrings,suffix trees,-0.1358,1.5072
+common substrings,linear time,-0.3806,1.6617
+common substrings,linear space,0.0393,1.3861
+annotated suffix trees,common substrings,-0.3655,1.6526
+linear time,suffix trees,0.5207,0.9791
+linear space,suffix trees,-0.1225,1.4983
+annotated suffix trees,suffix trees,0.5075,0.9925
+linear space,linear time,0.0158,1.403
+annotated suffix trees,linear time,0.57,0.9274
+annotated suffix trees,linear space,0.4052,1.0907
+memory requirement,suffix trees,-0.1648,1.5263
+locality of memory access,suffix trees,0.5963,0.8986
+linear time,memory requirement,-0.0372,1.4403
+linear time,locality of memory access,0.4878,1.0121
+linear space,memory requirement,-0.3529,1.6449
+linear space,locality of memory access,0.1123,1.3324
+annotated suffix trees,memory requirement,0.2254,1.2447
+annotated suffix trees,locality of memory access,0.873,0.504
+locality of memory access,memory requirement,0.3831,1.1108
+suffix arrays,suffix trees,-0.0967,1.481
+linear time,suffix arrays,0.0728,1.3618
+memory requirement,suffix arrays,-0.1423,1.5115
+locality of memory access,suffix arrays,0.3191,1.167
+linear time,linear time prediction,-0.017,1.4262
+linear time prediction,suffix arrays,0.9833,0.1825
+linear time prediction,locality of memory access,0.2189,1.2499

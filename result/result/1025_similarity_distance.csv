@@ -1,0 +1,40 @@
+node1,node2,similarity,distance
+neural network,value iteration network,0.0775,1.3583
+planning module,value iteration network,0.0295,1.3932
+planning-based reasoning,value iteration network,0.3631,1.1286
+reinforcement learning,value iteration network,-0.3637,1.6515
+neural network,planning module,-0.1993,1.5487
+neural network,planning-based reasoning,-0.0962,1.4807
+neural network,reinforcement learning,-0.2245,1.5649
+planning module,planning-based reasoning,-0.055,1.4526
+planning module,reinforcement learning,-0.2276,1.5669
+planning-based reasoning,reinforcement learning,-0.2283,1.5674
+differentiable approximation,value iteration network,-0.0592,1.4555
+convolutional neural network,value iteration network,0.2266,1.2437
+backpropagation,value iteration network,0.5331,0.9663
+differentiable approximation,neural network,-0.1398,1.5098
+convolutional neural network,neural network,-0.1174,1.4949
+backpropagation,neural network,-0.0272,1.4333
+differentiable approximation,planning module,0.889,0.4711
+convolutional neural network,planning module,-0.1829,1.5381
+backpropagation,planning module,0.3134,1.1719
+differentiable approximation,planning-based reasoning,-0.0548,1.4524
+convolutional neural network,planning-based reasoning,0.9712,0.2398
+backpropagation,planning-based reasoning,0.1774,1.2826
+differentiable approximation,reinforcement learning,-0.414,1.6817
+convolutional neural network,reinforcement learning,-0.1432,1.5121
+backpropagation,reinforcement learning,-0.1327,1.5051
+convolutional neural network,differentiable approximation,-0.163,1.5251
+backpropagation,differentiable approximation,-0.0787,1.4688
+backpropagation,convolutional neural network,0.1015,1.3405
+neural network,path-planning domains,-0.02,1.4283
+path-planning domains,planning-based reasoning,-0.1367,1.5078
+path-planning domains,reinforcement learning,-0.142,1.5113
+differentiable approximation,path-planning domains,-0.2125,1.5573
+convolutional neural network,path-planning domains,-0.0758,1.4669
+backpropagation,path-planning domains,-0.2355,1.5719
+generalize better,neural network,0.1832,1.2782
+differentiable approximation,generalize better,-0.2571,1.5856
+convolutional neural network,generalize better,-0.1297,1.5031
+backpropagation,generalize better,0.8513,0.5454
+generalize better,path-planning domains,-0.0158,1.4254

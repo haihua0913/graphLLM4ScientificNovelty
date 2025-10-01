@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+active learning,labeled data,-0.1207,1.4971
+active learning,streaming AL,-0.2696,1.5935
+labeled data,streaming AL,0.0196,1.4003
+active learning,statistical function model,0.5984,0.8962
+statistical function model,streaming AL,0.1044,1.3384
+ensemble Gaussian process,streaming AL,-0.1159,1.494
+adaptivity,streaming AL,0.4859,1.014
+robustness,streaming AL,0.6445,0.8433
+ensemble Gaussian process,labeled data,-0.1132,1.4921
+labeled data,statistical function model,-0.0303,1.4355
+adaptivity,labeled data,0.1585,1.2973
+labeled data,robustness,0.4638,1.0356
+ensemble Gaussian process,statistical function model,-0.0755,1.4666
+adaptivity,ensemble Gaussian process,-0.1475,1.515
+ensemble Gaussian process,robustness,-0.2242,1.5647
+adaptivity,statistical function model,0.1198,1.3268
+robustness,statistical function model,-0.1739,1.5323
+adaptivity,robustness,0.2831,1.1974
+Kullback-Leibler divergence,labeled data,-0.0151,1.4249
+labeled data,predictive pdfs,0.4875,1.0124
+Kullback-Leibler divergence,ensemble Gaussian process,-0.2115,1.5566
+ensemble Gaussian process,predictive pdfs,-0.231,1.5691
+Kullback-Leibler divergence,statistical function model,0.8863,0.4769
+predictive pdfs,statistical function model,0.1009,1.341
+Kullback-Leibler divergence,adaptivity,0.0049,1.4107
+adaptivity,predictive pdfs,0.1822,1.2789
+Kullback-Leibler divergence,robustness,-0.3045,1.6152
+predictive pdfs,robustness,0.5515,0.9471
+Kullback-Leibler divergence,predictive pdfs,-0.1519,1.5179

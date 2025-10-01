@@ -1,0 +1,13 @@
+node1,node2,similarity,distance
+Bayesian models,Gaussian Processes,0.366,1.1261
+Gaussian Processes,uncertainty estimates,-0.0341,1.4382
+Gaussian Processes,non-parametric,-0.2118,1.5568
+Bayesian models,uncertainty estimates,-0.077,1.4676
+Bayesian models,non-parametric,-0.5264,1.7472
+non-parametric,uncertainty estimates,-0.3282,1.6298
+inducing points,sparse GP approximations,-0.0886,1.4755
+sparse GP approximations,training cost,0.1815,1.2794
+inducing points,training cost,0.102,1.3401
+inducing points,neural network,-0.1289,1.5026
+inducing points,input data,-0.0664,1.4604
+input data,neural network,-0.1434,1.5122

@@ -1,0 +1,230 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/icphm/icphm2022.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"75.03"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"33",
+"@dc":"33",
+"@oc":"33",
+"@id":"48898989",
+"text":":facetid:toc:db/conf/icphm/icphm2022.bht"
+}
+},
+"hits":{
+"@total":"33",
+"@computed":"33",
+"@sent":"33",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1630581",
+"info":{"authors":{"author":[{"@pid":"325/7647","text":"Anass Akrim"},{"@pid":"240/3905","text":"Christian Gogu"},{"@pid":"325/8346","text":"Thomas Guillebot de Nerville"},{"@pid":"325/7699","text":"Paul Strähle"},{"@pid":"325/7814","text":"Brondon Waffa Pagou"},{"@pid":"136/1387","text":"Michel Salaün"},{"@pid":"26/5001","text":"Rob A. Vingerhoeds"}]},"title":"A Framework for Generating Large Data Sets for Fatigue Damage Prognostic Problems.","venue":"ICPHM","pages":"25-33","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/AkrimGNSPSV22","doi":"10.1109/ICPHM53196.2022.9815692","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815692","url":"https://dblp.org/rec/conf/icphm/AkrimGNSPSV22"},
+"url":"URL#1630581"
+},
+{
+"@score":"1",
+"@id":"1630582",
+"info":{"authors":{"author":[{"@pid":"325/8431","text":"Saeed Saffar Ardabili"},{"@pid":"163/1854","text":"Behzad Sinafar"},{"@pid":"69/3111","text":"Hamed Kharrati"},{"@pid":"74/408-2","text":"Afshin Rahimi 0002"}]},"title":"Investigating the Effect of Event-triggered Control and Nonlinear Actuator Dynamics on Spacecraft Attitude Stabilization.","venue":"ICPHM","pages":"58-63","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/ArdabiliSK022","doi":"10.1109/ICPHM53196.2022.9815680","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815680","url":"https://dblp.org/rec/conf/icphm/ArdabiliSK022"},
+"url":"URL#1630582"
+},
+{
+"@score":"1",
+"@id":"1630583",
+"info":{"authors":{"author":[{"@pid":"272/4627","text":"Fariba Azizi"},{"@pid":"274/6170","text":"Hasan Rasay"},{"@pid":"223/8533","text":"Farnoosh Naderkhani"}]},"title":"Dynamic Maintenance of Continuously Monitored Parallel Systems.","venue":"ICPHM","pages":"12-16","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/AziziRN22","doi":"10.1109/ICPHM53196.2022.9815570","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815570","url":"https://dblp.org/rec/conf/icphm/AziziRN22"},
+"url":"URL#1630583"
+},
+{
+"@score":"1",
+"@id":"1630584",
+"info":{"authors":{"author":[{"@pid":"325/7871","text":"Antonio Carlo Bertolino"},{"@pid":"303/2890","text":"Andrea De Martin"},{"@pid":"325/7817","text":"Giovanni Jacazio"},{"@pid":"99/6479","text":"Massimo Sorli"}]},"title":"A technological demonstrator for the application of PHM techniques to electro-mechanical flight control actuators.","venue":"ICPHM","pages":"70-76","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/BertolinoMJS22","doi":"10.1109/ICPHM53196.2022.9815832","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815832","url":"https://dblp.org/rec/conf/icphm/BertolinoMJS22"},
+"url":"URL#1630584"
+},
+{
+"@score":"1",
+"@id":"1630585",
+"info":{"authors":{"author":[{"@pid":"06/9766","text":"Shivam Bhardwaj"},{"@pid":"325/7663","text":"Prashant Kartikeya"},{"@pid":"15/9104","text":"Ramesh Kumar"},{"@pid":"02/7762","text":"Soudip Roy Chowdhury"}]},"title":"Multilevel DiscreteWavelet Transform and Deep Neural Networks for Predicting Remaining Useful Life of a Machine Asset.","venue":"ICPHM","pages":"6-11","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/BhardwajKKC22","doi":"10.1109/ICPHM53196.2022.9815670","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815670","url":"https://dblp.org/rec/conf/icphm/BhardwajKKC22"},
+"url":"URL#1630585"
+},
+{
+"@score":"1",
+"@id":"1630586",
+"info":{"authors":{"author":[{"@pid":"325/7940","text":"Tsung-Ti Chen"},{"@pid":"18/3987","text":"Yuan-Jen Chang"},{"@pid":"129/2065","text":"Tzu-Hsuan Hsu"},{"@pid":"325/7775","text":"He-Kai Hsu"}]},"title":"Using UTAUT, TTF, and PR integrating models to evaluate employees&apos; acceptance and behavioral intention of PHM-based system in the military industry.","venue":"ICPHM","pages":"88-93","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/ChenCHH22","doi":"10.1109/ICPHM53196.2022.9815710","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815710","url":"https://dblp.org/rec/conf/icphm/ChenCHH22"},
+"url":"URL#1630586"
+},
+{
+"@score":"1",
+"@id":"1630587",
+"info":{"authors":{"author":[{"@pid":"276/4556","text":"Bojian Chen"},{"@pid":"246/6795","text":"Chuancang Ding"},{"@pid":"205/1068","text":"Xingxing Jiang"},{"@pid":"132/4211","text":"Juanjuan Shi"},{"@pid":"69/9173","text":"Weiguo Huang"},{"@pid":"187/6368","text":"Changqing Shen"}]},"title":"Lifelong Learning for Bearing Fault Diagnosis with Incremental Fault Types.","venue":"ICPHM","pages":"114-120","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/ChenDJSHS22","doi":"10.1109/ICPHM53196.2022.9815797","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815797","url":"https://dblp.org/rec/conf/icphm/ChenDJSHS22"},
+"url":"URL#1630587"
+},
+{
+"@score":"1",
+"@id":"1630588",
+"info":{"authors":{"author":[{"@pid":"16/3283","text":"Xi Chen"},{"@pid":"60/5073","text":"Cheng Ge"},{"@pid":"70/720","text":"Ming Wang"},{"@pid":"92/1375","text":"Jin Wang"}]},"title":"An Integration of Spectrum Analysis and Attention-based Network for Condition Monitoring of Vibration Components.","venue":"ICPHM","pages":"108-113","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/ChenGWW22","doi":"10.1109/ICPHM53196.2022.9815755","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815755","url":"https://dblp.org/rec/conf/icphm/ChenGWW22"},
+"url":"URL#1630588"
+},
+{
+"@score":"1",
+"@id":"1630589",
+"info":{"authors":{"author":[{"@pid":"155/1077","text":"Shaowei Chen"},{"@pid":"223/1516","text":"Fangda Xu"},{"@pid":"223/1660","text":"Pengfei Wen"},{"@pid":"325/8233","text":"Shuaiwen Feng"},{"@pid":"116/8682-3","text":"Shuai Zhao 0003"}]},"title":"A Multivariate Time Series Anomaly Detection Method Based on Generative Model.","venue":"ICPHM","pages":"137-144","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/ChenXWF022","doi":"10.1109/ICPHM53196.2022.9815702","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815702","url":"https://dblp.org/rec/conf/icphm/ChenXWF022"},
+"url":"URL#1630589"
+},
+{
+"@score":"1",
+"@id":"1630590",
+"info":{"authors":{"author":[{"@pid":"22/8437","text":"Zhipeng Chen"},{"@pid":"83/6159","text":"Haiping Zhu"},{"@pid":"325/8170","text":"Liangzhi Fan"},{"@pid":"181/2621","text":"Zheng Zhang"},{"@pid":"20/3894-12","text":"Jun Wu 0012"}]},"title":"Multi-mode signals driven damage detection for composite structures by ensemble generalized multiclass support vector machine.","venue":"ICPHM","pages":"183-187","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/ChenZFZW22","doi":"10.1109/ICPHM53196.2022.9815687","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815687","url":"https://dblp.org/rec/conf/icphm/ChenZFZW22"},
+"url":"URL#1630590"
+},
+{
+"@score":"1",
+"@id":"1630591",
+"info":{"authors":{"author":[{"@pid":"325/8010","text":"Hamed Habibzadeh"},{"@pid":"323/4610","text":"Amin Ziaei"},{"@pid":"69/3111","text":"Hamed Kharrati"},{"@pid":"74/408-2","text":"Afshin Rahimi 0002"}]},"title":"Fault-tolerant Consensus Control for Hybrid Multi-agent Systems.","venue":"ICPHM","pages":"64-69","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/HabibzadehZK022","doi":"10.1109/ICPHM53196.2022.9815753","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815753","url":"https://dblp.org/rec/conf/icphm/HabibzadehZK022"},
+"url":"URL#1630591"
+},
+{
+"@score":"1",
+"@id":"1630592",
+"info":{"authors":{"author":[{"@pid":"61/8464","text":"James Hofmeister"},{"@pid":"325/7783","text":"Wyatt Pena"},{"@pid":"50/861","text":"Douglas Goodman"},{"@pid":"325/8425","text":"Christopher Curti"}]},"title":"Condition-Based-Events Life Curve: Conceptual View to Support Fault Management of Complex Systems of Overlapped, Distributed Events.","venue":"ICPHM","pages":"48-51","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/HofmeisterPGC22","doi":"10.1109/ICPHM53196.2022.9815575","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815575","url":"https://dblp.org/rec/conf/icphm/HofmeisterPGC22"},
+"url":"URL#1630592"
+},
+{
+"@score":"1",
+"@id":"1630593",
+"info":{"authors":{"author":[{"@pid":"206/7551","text":"Zhengyi Jiang"},{"@pid":"216/8406","text":"Chongdang Liu"},{"@pid":"16/1220","text":"Linxuan Zhang"}]},"title":"Deep Feature Learning Based Fault Detection with High-Frequency Signals.","venue":"ICPHM","pages":"101-107","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/JiangLZ22","doi":"10.1109/ICPHM53196.2022.9815765","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815765","url":"https://dblp.org/rec/conf/icphm/JiangLZ22"},
+"url":"URL#1630593"
+},
+{
+"@score":"1",
+"@id":"1630594",
+"info":{"authors":{"author":[{"@pid":"143/2827","text":"Rohan Kulkarni"},{"@pid":"325/8079","text":"Alireza Qazizadeh"},{"@pid":"46/748","text":"Mats Berg"}]},"title":"Identification of vehicle response features for onboard diagnosis of vehicle running instability.","venue":"ICPHM","pages":"52-57","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/KulkarniQB22","doi":"10.1109/ICPHM53196.2022.9815828","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815828","url":"https://dblp.org/rec/conf/icphm/KulkarniQB22"},
+"url":"URL#1630594"
+},
+{
+"@score":"1",
+"@id":"1630595",
+"info":{"authors":{"author":[{"@pid":"97/8877","text":"Dean Lee"},{"@pid":"325/7679","text":"Andrew Sabater"}]},"title":"Visibility Graphs, Persistent Homology, and Rolling Element Bearing Fault Detection.","venue":"ICPHM","pages":"1-5","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/LeeS22","doi":"10.1109/ICPHM53196.2022.9815768","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815768","url":"https://dblp.org/rec/conf/icphm/LeeS22"},
+"url":"URL#1630595"
+},
+{
+"@score":"1",
+"@id":"1630596",
+"info":{"authors":{"author":[{"@pid":"153/2874","text":"Guanchen Li"},{"@pid":"k/DimitriosKagaris","text":"Dimitri Kagaris"}]},"title":"On the Number of Bounded Renewals in Two-Unit Systems with Critical Components.","venue":"ICPHM","pages":"40-47","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/LiK22","doi":"10.1109/ICPHM53196.2022.9815744","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815744","url":"https://dblp.org/rec/conf/icphm/LiK22"},
+"url":"URL#1630596"
+},
+{
+"@score":"1",
+"@id":"1630597",
+"info":{"authors":{"author":[{"@pid":"36/3098","text":"Tony Lindgren"},{"@pid":"248/2007","text":"Olof Steinert"}]},"title":"Low dimensional synthetic data generation for improving data driven prognostic models.","venue":"ICPHM","pages":"173-182","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/LindgrenS22","doi":"10.1109/ICPHM53196.2022.9815660","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815660","url":"https://dblp.org/rec/conf/icphm/LindgrenS22"},
+"url":"URL#1630597"
+},
+{
+"@score":"1",
+"@id":"1630598",
+"info":{"authors":{"author":[{"@pid":"93/9907","text":"Shaowei Liu"},{"@pid":"195/2877","text":"Hongkai Jiang"},{"@pid":"24/848","text":"Zhenghong Wu"},{"@pid":"38/2111","text":"Ke Zhao"},{"@pid":"10/5630-129","text":"Xin Wang 0129"}]},"title":"Imbalanced fault diagnosis of rolling bearing using a deep gradient improved generative adversarial network.","venue":"ICPHM","pages":"127-132","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/LiuJWZW22","doi":"10.1109/ICPHM53196.2022.9815711","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815711","url":"https://dblp.org/rec/conf/icphm/LiuJWZW22"},
+"url":"URL#1630598"
+},
+{
+"@score":"1",
+"@id":"1630599",
+"info":{"authors":{"author":[{"@pid":"77/10174","text":"Zhilong Liu"},{"@pid":"325/7865","text":"Tongxi Li"},{"@pid":"00/10104","text":"Yanping Huang"},{"@pid":"03/2134","text":"Jie Liu"},{"@pid":"325/7851","text":"Changhua Nie"},{"@pid":"07/10218","text":"Li Zhan"},{"@pid":"124/9269","text":"Zhangchun Tang"}]},"title":"Research on Fault Diagnosis of Nuclear Gate Valve Based on Analysis of Energy Variation Characteristics of Vibration Signal.","venue":"ICPHM","pages":"198-202","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/LiuLHLNZT22","doi":"10.1109/ICPHM53196.2022.9815758","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815758","url":"https://dblp.org/rec/conf/icphm/LiuLHLNZT22"},
+"url":"URL#1630599"
+},
+{
+"@score":"1",
+"@id":"1630600",
+"info":{"authors":{"author":[{"@pid":"325/8286","text":"Demin Peng"},{"@pid":"205/1068","text":"Xingxing Jiang"},{"@pid":"315/0030","text":"Qiuyu Song"},{"@pid":"83/9542","text":"Zhongkui Zhu"}]},"title":"An Enhanced Sparse Filtering Fusion Method for Bearing Fault Diagnosis.","venue":"ICPHM","pages":"203-208","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/PengJSZ22","doi":"10.1109/ICPHM53196.2022.9815635","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815635","url":"https://dblp.org/rec/conf/icphm/PengJSZ22"},
+"url":"URL#1630600"
+},
+{
+"@score":"1",
+"@id":"1630601",
+"info":{"authors":{"author":[{"@pid":"274/6170","text":"Hasan Rasay"},{"@pid":"223/8533","text":"Farnoosh Naderkhani"},{"@pid":"288/0132","text":"Amir-Mohammad Golmohammadi"}]},"title":"Reinforcement Learning based on Stochastic Dynamic Programming for Condition-based Maintenance of Deteriorating Production Processes.","venue":"ICPHM","pages":"17-24","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/RasayNG22","doi":"10.1109/ICPHM53196.2022.9815668","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815668","url":"https://dblp.org/rec/conf/icphm/RasayNG22"},
+"url":"URL#1630601"
+},
+{
+"@score":"1",
+"@id":"1630602",
+"info":{"authors":{"author":[{"@pid":"60/10775","text":"Zhijun Ren"},{"@pid":"51/10252","text":"Wenjun Su"},{"@pid":"325/7780","text":"Tantao Lin"},{"@pid":"60/2536","text":"Rui Zhang"},{"@pid":"90/2052","text":"Yongsheng Zhu"},{"@pid":"28/7692","text":"Ke Yan"},{"@pid":"h/JunHong2","text":"Jun Hong 0002"}]},"title":"Gradient harmonized loss: Improving the performance of intelligent diagnosis models in large imbalance scenarios.","venue":"ICPHM","pages":"34-39","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/RenSLZZY022","doi":"10.1109/ICPHM53196.2022.9815705","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815705","url":"https://dblp.org/rec/conf/icphm/RenSLZZY022"},
+"url":"URL#1630602"
+},
+{
+"@score":"1",
+"@id":"1630603",
+"info":{"authors":{"author":[{"@pid":"199/7614","text":"Yahui Shan"},{"@pid":"181/2812","text":"Hao Wang"},{"@pid":"306/2322","text":"Genping Wu"},{"@pid":"52/5264","text":"Xing Zhang"},{"@pid":"202/6790","text":"Jiayue Liu"},{"@pid":"157/3990","text":"Hongfeng Zhang"}]},"title":"Health Performance Interval Prediction of Pumped Storage Unit Based on Multi-Objective Optimization.","venue":"ICPHM","pages":"94-100","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/ShanWWZLZ22","doi":"10.1109/ICPHM53196.2022.9815655","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815655","url":"https://dblp.org/rec/conf/icphm/ShanWWZLZ22"},
+"url":"URL#1630603"
+},
+{
+"@score":"1",
+"@id":"1630604",
+"info":{"authors":{"author":[{"@pid":"325/7801","text":"Rebecca C. Shannon"},{"@pid":"325/7778","text":"Jingzhou Zhao"},{"@pid":"60/8744-1","text":"Zhaojun Li 0001"},{"@pid":"325/8000","text":"Jingru Benner"}]},"title":"Sensitivity Study of Mini-Batch Size on a Long Short-Term Memory Network for Predicting Shell-tocore Ratio of Microencapsulated Phase Change Materials.","venue":"ICPHM","pages":"77-81","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/ShannonZLB22","doi":"10.1109/ICPHM53196.2022.9815640","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815640","url":"https://dblp.org/rec/conf/icphm/ShannonZLB22"},
+"url":"URL#1630604"
+},
+{
+"@score":"1",
+"@id":"1630605",
+"info":{"authors":{"author":[{"@pid":"169/2205","text":"Ruixin Wang"},{"@pid":"195/2877","text":"Hongkai Jiang"},{"@pid":"16/8388","text":"Zhenning Li"},{"@pid":"02/8137","text":"Yunpeng Liu"}]},"title":"A Deep Ensemble Learning Model for Rolling Bearing Fault Diagnosis.","venue":"ICPHM","pages":"133-136","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/WangJLL22","doi":"10.1109/ICPHM53196.2022.9815733","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815733","url":"https://dblp.org/rec/conf/icphm/WangJLL22"},
+"url":"URL#1630605"
+},
+{
+"@score":"1",
+"@id":"1630606",
+"info":{"authors":{"author":[{"@pid":"293/2506","text":"Cunjun Wang"},{"@pid":"54/10134","text":"Zili Xu"},{"@pid":"125/8189","text":"Jun Wang"},{"@pid":"58/6692","text":"Song Yan"}]},"title":"A Multiple VAEs-based Information Fusion Framework With Mutual-KL Loss for Intelligent Fault Diagnosis and Toward OoD Detection.","venue":"ICPHM","pages":"188-197","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/WangXWY22","doi":"10.1109/ICPHM53196.2022.9815704","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815704","url":"https://dblp.org/rec/conf/icphm/WangXWY22"},
+"url":"URL#1630606"
+},
+{
+"@score":"1",
+"@id":"1630607",
+"info":{"authors":{"author":[{"@pid":"139/8291","text":"Shilei Wang"},{"@pid":"287/1439","text":"Qiuhui Xu"},{"@pid":"131/4074","text":"Jiahui Zhang"},{"@pid":"325/8180","text":"Qingjiang Wangxuan"},{"@pid":"90/7407-1","text":"Lei Qiu 0001"},{"@pid":"35/4797","text":"Shenfang Yuan"}]},"title":"Research on monitoring alarm and localization of weights loading on composite materials.","venue":"ICPHM","pages":"145-153","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/WangXZW0Y22","doi":"10.1109/ICPHM53196.2022.9815818","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815818","url":"https://dblp.org/rec/conf/icphm/WangXZW0Y22"},
+"url":"URL#1630607"
+},
+{
+"@score":"1",
+"@id":"1630608",
+"info":{"authors":{"author":[{"@pid":"145/1177","text":"Xiaofei Yang"},{"@pid":"23/2274","text":"Hui Zheng"},{"@pid":"325/8452","text":"Xulong Lu"},{"@pid":"273/3316","text":"Zhaopeng Xue"},{"@pid":"90/7407-1","text":"Lei Qiu 0001"},{"@pid":"35/4797","text":"Shenfang Yuan"}]},"title":"Experimental method based on guided wave for ablation monitoring of C/C thermal protection structures.","venue":"ICPHM","pages":"161-166","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/YangZLX0Y22","doi":"10.1109/ICPHM53196.2022.9815820","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815820","url":"https://dblp.org/rec/conf/icphm/YangZLX0Y22"},
+"url":"URL#1630608"
+},
+{
+"@score":"1",
+"@id":"1630609",
+"info":{"authors":{"author":[{"@pid":"325/7969","text":"Jeongseop Yoon"},{"@pid":"05/1032","text":"Donghwan Kim"},{"@pid":"29/986","text":"Daeyoung Kim"}]},"title":"SDBOSR: Separable Decision Boundary based Open Set Recognition for Manufacturing Equipment Fault Classification.","venue":"ICPHM","pages":"121-126","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/YoonKK22","doi":"10.1109/ICPHM53196.2022.9815748","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815748","url":"https://dblp.org/rec/conf/icphm/YoonKK22"},
+"url":"URL#1630609"
+},
+{
+"@score":"1",
+"@id":"1630610",
+"info":{"authors":{"author":[{"@pid":"06/4036","text":"Weiwei Zhang"},{"@pid":"39/1706-1","text":"Deji Chen 0001"},{"@pid":"181/1848","text":"Yang Xiao"}]},"title":"A Novel Fault Diagnosis Method Based on Semisupervised Contrast Learning.","venue":"ICPHM","pages":"82-87","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/ZhangCX22","doi":"10.1109/ICPHM53196.2022.9815610","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815610","url":"https://dblp.org/rec/conf/icphm/ZhangCX22"},
+"url":"URL#1630610"
+},
+{
+"@score":"1",
+"@id":"1630611",
+"info":{"authors":{"author":[{"@pid":"08/3759","text":"Fei Zheng"},{"@pid":"35/4797","text":"Shenfang Yuan"}]},"title":"Research on composite impact localization by MUSIC based guided wave monitoring.","venue":"ICPHM","pages":"154-160","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/ZhengY22","doi":"10.1109/ICPHM53196.2022.9815747","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815747","url":"https://dblp.org/rec/conf/icphm/ZhengY22"},
+"url":"URL#1630611"
+},
+{
+"@score":"1",
+"@id":"1630612",
+"info":{"authors":{"author":[{"@pid":"185/7126","text":"Yumeng Zhu"},{"@pid":"70/6313","text":"Yanyang Zi"},{"@pid":"07/1951","text":"Jing Xu"}]},"title":"Transfer Learning-based SAE-CNN for Industrial Data Processing in Multiple working Conditions Recognition.","venue":"ICPHM","pages":"167-172","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/icphm/ZhuZX22","doi":"10.1109/ICPHM53196.2022.9815720","ee":"https://doi.org/10.1109/ICPHM53196.2022.9815720","url":"https://dblp.org/rec/conf/icphm/ZhuZX22"},
+"url":"URL#1630612"
+},
+{
+"@score":"1",
+"@id":"1716255",
+"info":{"title":"2022 IEEE International Conference on Prognostics and Health Management, ICPHM 2022, Detroit (Romulus), MI, USA, June 6-8, 2022","venue":"ICPHM","publisher":"IEEE","year":"2022","type":"Editorship","key":"conf/icphm/2022","doi":"10.1109/ICPHM53196.2022","ee":"https://doi.org/10.1109/ICPHM53196.2022","url":"https://dblp.org/rec/conf/icphm/2022"},
+"url":"URL#1716255"
+}
+]
+}
+}
+}

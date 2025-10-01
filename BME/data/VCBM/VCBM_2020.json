@@ -1,0 +1,140 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/vcbm/vcbm2020.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"74.33"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"18",
+"@dc":"18",
+"@oc":"18",
+"@id":"48926945",
+"text":":facetid:toc:db/conf/vcbm/vcbm2020.bht"
+}
+},
+"hits":{
+"@total":"18",
+"@computed":"18",
+"@sent":"18",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2623792",
+"info":{"authors":{"author":[{"@pid":"13/6215","text":"Marco Agus"},{"@pid":"265/7853","text":"Khaled A. Al-Thelaya"},{"@pid":"88/5712","text":"Corrado Calì"},{"@pid":"275/7816","text":"Marina M. Boido"},{"@pid":"56/2998-1","text":"Yin Yang 0001"},{"@pid":"33/4033","text":"Giovanni Pintore"},{"@pid":"31/2575","text":"Enrico Gobbetti"},{"@pid":"55/5275-2","text":"Jens Schneider 0002"}]},"title":"InShaDe: Invariant Shape Descriptors for Visual Analysis of Histology 2D Cellular and Nuclear Shapes.","venue":"VCBM","pages":"61-70","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/AgusACBYPGS20","doi":"10.2312/VCBM.20201173","ee":"https://doi.org/10.2312/vcbm.20201173","url":"https://dblp.org/rec/conf/vcbm/AgusACBYPGS20"},
+"url":"URL#2623792"
+},
+{
+"@score":"1",
+"@id":"2623793",
+"info":{"authors":{"author":[{"@pid":"177/3334","text":"Benjamin Behrendt"},{"@pid":"275/7883","text":"Lisa Piotrowski"},{"@pid":"80/7090","text":"Sylvia Saalfeld"},{"@pid":"p/BPreim","text":"Bernhard Preim"},{"@pid":"146/6640","text":"Patrick Saalfeld"}]},"title":"The Virtual Reality Flow Lens for Blood Flow Exploration.","venue":"VCBM","pages":"37-41","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/BehrendtPSPS20","doi":"10.2312/VCBM.20201169","ee":"https://doi.org/10.2312/vcbm.20201169","url":"https://dblp.org/rec/conf/vcbm/BehrendtPSPS20"},
+"url":"URL#2623793"
+},
+{
+"@score":"1",
+"@id":"2623794",
+"info":{"authors":{"author":[{"@pid":"275/7622","text":"Astrid van den Brandt"},{"@pid":"34/6695","text":"Mark Christopher"},{"@pid":"66/7941","text":"Linda M. Zangwill"},{"@pid":"275/7335","text":"Jasmin Rezapour"},{"@pid":"49/7941","text":"Christopher Bowd"},{"@pid":"261/5688","text":"Sally L. Baxter"},{"@pid":"275/7533","text":"Derek S. Welsbie"},{"@pid":"259/0295","text":"Andrew Camp"},{"@pid":"275/7808","text":"Sasan Moghimi"},{"@pid":"275/7127","text":"Jiun L. Do"},{"@pid":"120/4668","text":"Robert N. Weinreb"},{"@pid":"120/6058","text":"Chris C. P. Snijders"},{"@pid":"w/MAWestenberg","text":"Michel A. Westenberg"}]},"title":"GLANCE: Visual Analytics for Monitoring Glaucoma Progression.","venue":"VCBM","pages":"85-96","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/BrandtCZRBBWCMD20","doi":"10.2312/VCBM.20201175","ee":"https://doi.org/10.2312/vcbm.20201175","url":"https://dblp.org/rec/conf/vcbm/BrandtCZRBBWCMD20"},
+"url":"URL#2623794"
+},
+{
+"@score":"1",
+"@id":"2623795",
+"info":{"authors":{"author":[{"@pid":"275/7628","text":"Nicolas Brich"},{"@pid":"49/5881-1","text":"Christoph Schulz 0001"},{"@pid":"36/3326-1","text":"Jörg Peter 0001"},{"@pid":"150/4735","text":"Wilfried Klingert"},{"@pid":"150/4716","text":"Martin Schenk"},{"@pid":"w/DanielWeiskopf","text":"Daniel Weiskopf"},{"@pid":"74/7527","text":"Michael Krone"}]},"title":"Visual Analysis of Multivariate Intensive Care Surveillance Data.","venue":"VCBM","pages":"71-83","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/BrichSPKSWK20","doi":"10.2312/VCBM.20201174","ee":"https://doi.org/10.2312/vcbm.20201174","url":"https://dblp.org/rec/conf/vcbm/BrichSPKSWK20"},
+"url":"URL#2623795"
+},
+{
+"@score":"1",
+"@id":"2623796",
+"info":{"authors":{"author":[{"@pid":"76/3945","text":"Martin Falk"},{"@pid":"57/4809","text":"Patric Ljung"},{"@pid":"34/6383","text":"Claes Lundström"},{"@pid":"44/4430","text":"Anders Ynnerman"},{"@pid":"81/7045","text":"Ingrid Hotz"}]},"title":"Feature Exploration using Local Frequency Distributions in Computed Tomography Data.","venue":"VCBM","pages":"13-24","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/FalkLLYH20","doi":"10.2312/VCBM.20201166","ee":"https://doi.org/10.2312/vcbm.20201166","url":"https://dblp.org/rec/conf/vcbm/FalkLLYH20"},
+"url":"URL#2623796"
+},
+{
+"@score":"1",
+"@id":"2623797",
+"info":{"authors":{"author":[{"@pid":"151/3331","text":"Christina Gillmann"},{"@pid":"14/10737","text":"Dorothee Saur"},{"@pid":"46/2459","text":"Thomas Wischgoll"},{"@pid":"125/6165","text":"Karl-Titus Hoffmann"},{"@pid":"h/HansHagen","text":"Hans Hagen"},{"@pid":"81/5349","text":"Ross Maciejewski"},{"@pid":"s/GerikScheuermann","text":"Gerik Scheuermann"}]},"title":"Uncertainty-aware Brain Lesion Visualization.","venue":"VCBM","pages":"97-101","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/GillmannSWHHMS20","doi":"10.2312/VCBM.20201176","ee":"https://doi.org/10.2312/vcbm.20201176","url":"https://dblp.org/rec/conf/vcbm/GillmannSWHHMS20"},
+"url":"URL#2623797"
+},
+{
+"@score":"1",
+"@id":"2623798",
+"info":{"authors":{"author":[{"@pid":"48/6711","text":"Nigel W. John"},{"@pid":"347/1224","text":"Thomas W. Day"},{"@pid":"275/7405","text":"Terrence Wardle"}]},"title":"An Endoscope Interface for Immersive Virtual Reality.","venue":"VCBM","pages":"25-29","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/JohnDW20","doi":"10.2312/VCBM.20201167","ee":"https://doi.org/10.2312/vcbm.20201167","url":"https://dblp.org/rec/conf/vcbm/JohnDW20"},
+"url":"URL#2623798"
+},
+{
+"@score":"1",
+"@id":"2623799",
+"info":{"authors":{"author":[{"@pid":"275/7182","text":"Hannah Kniesel"},{"@pid":"92/5590","text":"Timo Ropinski"},{"@pid":"170/7065","text":"Pedro Hermosilla"}]},"title":"Real-Time Visualization of 3D Amyloid-Beta Fibrils from 2D Cryo-EM Density Maps.","venue":"VCBM","pages":"115-125","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/KnieselRH20","doi":"10.2312/VCBM.20201178","ee":"https://doi.org/10.2312/vcbm.20201178","url":"https://dblp.org/rec/conf/vcbm/KnieselRH20"},
+"url":"URL#2623799"
+},
+{
+"@score":"1",
+"@id":"2623800",
+"info":{"authors":{"author":[{"@pid":"248/4538","text":"Simon Leistikow"},{"@pid":"275/7616","text":"Ali Nahardani"},{"@pid":"275/7581","text":"Verena Hoerr"},{"@pid":"l/LarsLinsen","text":"Lars Linsen"}]},"title":"Interactive Visual Similarity Analysis of Measured and Simulated Multi-field Tubular Flow Ensembles.","venue":"VCBM","pages":"139-150","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/LeistikowNHL20","doi":"10.2312/VCBM.20201180","ee":"https://doi.org/10.2312/vcbm.20201180","url":"https://dblp.org/rec/conf/vcbm/LeistikowNHL20"},
+"url":"URL#2623800"
+},
+{
+"@score":"1",
+"@id":"2623801",
+"info":{"authors":{"author":[{"@pid":"275/7817","text":"Elodie Medina"},{"@pid":"236/7562","text":"Ainhoa Aguado"},{"@pid":"236/7867","text":"Jordi Mill"},{"@pid":"200/1714","text":"Xavier Freixa"},{"@pid":"275/7985","text":"Dabit Arzamendi"},{"@pid":"220/0003","text":"Carlos Yagüe"},{"@pid":"20/3217","text":"Oscar Camara 0001"}]},"title":"VRIDAA: Virtual Reality Platform for Training and Planning Implantations of Occluder Devices in Left Atrial Appendages.","venue":"VCBM","pages":"31-35","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MedinaAMFAYC20","doi":"10.2312/VCBM.20201168","ee":"https://doi.org/10.2312/vcbm.20201168","url":"https://dblp.org/rec/conf/vcbm/MedinaAMFAYC20"},
+"url":"URL#2623801"
+},
+{
+"@score":"1",
+"@id":"2623802",
+"info":{"authors":{"author":[{"@pid":"149/0918","text":"Monique Meuschke"},{"@pid":"64/3000","text":"Ralph Wickenhöfer"},{"@pid":"p/BPreim","text":"Bernhard Preim"},{"@pid":"120/6338","text":"Kai Lawonn"}]},"title":"Aneulysis - A System for Aneurysm Data Analysis.","venue":"VCBM","pages":"127-138","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MeuschkeWPL20","doi":"10.2312/VCBM.20201179","ee":"https://doi.org/10.2312/vcbm.20201179","url":"https://dblp.org/rec/conf/vcbm/MeuschkeWPL20"},
+"url":"URL#2623802"
+},
+{
+"@score":"1",
+"@id":"2623803",
+"info":{"authors":{"author":[{"@pid":"146/6640","text":"Patrick Saalfeld"},{"@pid":"275/7469","text":"Aylin Albrecht"},{"@pid":"275/7864","text":"Wolfgang D&apos;Hanis"},{"@pid":"275/7524","text":"Hermann-Josef Rothkötter"},{"@pid":"p/BPreim","text":"Bernhard Preim"}]},"title":"Learning Hand Anatomy with Sense of Embodiment.","venue":"VCBM","pages":"43-47","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SaalfeldADRP20","doi":"10.2312/VCBM.20201170","ee":"https://doi.org/10.2312/vcbm.20201170","url":"https://dblp.org/rec/conf/vcbm/SaalfeldADRP20"},
+"url":"URL#2623803"
+},
+{
+"@score":"1",
+"@id":"2623804",
+"info":{"authors":{"author":[{"@pid":"146/6640","text":"Patrick Saalfeld"},{"@pid":"275/7877","text":"Anna Schmeier"},{"@pid":"275/7864","text":"Wolfgang D&apos;Hanis"},{"@pid":"275/7524","text":"Hermann-Josef Rothkötter"},{"@pid":"p/BPreim","text":"Bernhard Preim"}]},"title":"Student and Teacher Meet in a Shared Virtual Reality: A one-on-one Tutoring System for Anatomy Education.","venue":"VCBM","pages":"55-59","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SaalfeldSDRP20","doi":"10.2312/VCBM.20201172","ee":"https://doi.org/10.2312/vcbm.20201172","url":"https://dblp.org/rec/conf/vcbm/SaalfeldSDRP20"},
+"url":"URL#2623804"
+},
+{
+"@score":"1",
+"@id":"2623805",
+"info":{"authors":{"author":[{"@pid":"196/4316","text":"Karsten Schatz"},{"@pid":"190/2267","text":"Florian Frieß"},{"@pid":"268/4422","text":"Marco Schäfer"},{"@pid":"e/ThomasErtl","text":"Thomas Ertl"},{"@pid":"74/7527","text":"Michael Krone"}]},"title":"Analyzing Protein Similarity by Clustering Molecular Surface Maps.","venue":"VCBM","pages":"103-114","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SchatzFSEK20","doi":"10.2312/VCBM.20201177","ee":"https://doi.org/10.2312/vcbm.20201177","url":"https://dblp.org/rec/conf/vcbm/SchatzFSEK20"},
+"url":"URL#2623805"
+},
+{
+"@score":"1",
+"@id":"2623806",
+"info":{"authors":{"author":[{"@pid":"244/9819","text":"Florian Thamm"},{"@pid":"159/1416","text":"Markus Jürgens"},{"@pid":"36/4432","text":"Hendrik Ditt"},{"@pid":"131/7133","text":"Andreas Maier 0001"}]},"title":"VirtualDSA++: Automated Segmentation, Vessel Labeling, Occlusion Detection and Graph Search on CT-Angiography Data.","venue":"VCBM","pages":"151-155","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/ThammJDM20","doi":"10.2312/VCBM.20201181","ee":"https://doi.org/10.2312/vcbm.20201181","url":"https://dblp.org/rec/conf/vcbm/ThammJDM20"},
+"url":"URL#2623806"
+},
+{
+"@score":"1",
+"@id":"2623807",
+"info":{"authors":{"author":[{"@pid":"275/7413","text":"Agajan Torayev"},{"@pid":"72/1969-1","text":"Thomas Schultz 0001"}]},"title":"Interactive Classification of Multi-Shell Diffusion MRI With Features From a Dual-Branch CNN Autoencoder.","venue":"VCBM","pages":"1-11","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/TorayevS20","doi":"10.2312/VCBM.20201165","ee":"https://doi.org/10.2312/vcbm.20201165","url":"https://dblp.org/rec/conf/vcbm/TorayevS20"},
+"url":"URL#2623807"
+},
+{
+"@score":"1",
+"@id":"2623808",
+"info":{"authors":{"author":[{"@pid":"34/7116","text":"Sebastian Wagner"},{"@pid":"275/7575","text":"Kay Illner"},{"@pid":"22/5982-6","text":"Matthias Weber 0006"},{"@pid":"p/BPreim","text":"Bernhard Preim"},{"@pid":"146/6640","text":"Patrick Saalfeld"}]},"title":"VR Acrophobia Treatment - Development of Customizable Acrophobia Inducing Scenarios.","venue":"VCBM","pages":"49-53","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/WagnerIWPS20","doi":"10.2312/VCBM.20201171","ee":"https://doi.org/10.2312/vcbm.20201171","url":"https://dblp.org/rec/conf/vcbm/WagnerIWPS20"},
+"url":"URL#2623808"
+},
+{
+"@score":"1",
+"@id":"2636201",
+"info":{"authors":{"author":[{"@pid":"76/6255","text":"Barbora Kozlíková"},{"@pid":"74/7527","text":"Michael Krone"},{"@pid":"26/8923","text":"Noeska N. Smit"},{"@pid":"29/2209","text":"Kay Nieselt"},{"@pid":"152/9100","text":"Renata Georgia Raidou"}]},"title":"10th Eurographics Workshop on Visual Computing for Biology and Medicine, VCBM 2020, Tübingen, Germany, September 28 - October 1, 2020","venue":"VCBM","publisher":"Eurographics Association","year":"2020","type":"Editorship","key":"conf/vcbm/2020","doi":"10.2312/2632935","ee":"https://diglib.eg.org/handle/10.2312/2632935","url":"https://dblp.org/rec/conf/vcbm/2020"},
+"url":"URL#2636201"
+}
+]
+}
+}
+}

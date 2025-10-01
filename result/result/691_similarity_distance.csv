@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Online Proximal Gradient,stochastic optimization algorithms,-0.0031,1.4164
+Regularized Dual Averaging,stochastic optimization algorithms,0.972,0.2367
+ADMM with online proximal gradient,stochastic optimization algorithms,0.9761,0.2188
+convergence speed,stochastic optimization algorithms,0.4438,1.0547
+Online Proximal Gradient,Regularized Dual Averaging,0.1106,1.3337
+ADMM with online proximal gradient,Online Proximal Gradient,0.0197,1.4002
+Online Proximal Gradient,convergence speed,-0.2033,1.5513
+ADMM with online proximal gradient,Regularized Dual Averaging,0.9835,0.1818
+Regularized Dual Averaging,convergence speed,0.3567,1.1343
+ADMM with online proximal gradient,convergence speed,0.3258,1.1612
+locally strongly convex,stochastic optimization algorithms,-0.0487,1.4483
+Online Proximal Gradient,locally strongly convex,0.9264,0.3838
+Regularized Dual Averaging,locally strongly convex,0.0189,1.4008
+ADMM with online proximal gradient,locally strongly convex,-0.0858,1.4737
+convergence speed,locally strongly convex,0.0235,1.3975
+Lasso,locally strongly convex,-0.0421,1.4437
+Logistic Regression,locally strongly convex,0.0899,1.3492
+Lasso,Logistic Regression,0.5266,0.973
+locally strongly convex,online optimization algorithms,0.1999,1.265
+Lasso,online optimization algorithms,-0.1842,1.539
+Logistic Regression,online optimization algorithms,0.2826,1.1979

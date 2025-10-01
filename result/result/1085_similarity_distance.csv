@@ -1,0 +1,41 @@
+node1,node2,similarity,distance
+overparametrization,smooth interpolation,0.8084,0.6191
+ambient data dimension,overparametrization,0.0476,1.3801
+ambient data dimension,smooth interpolation,-0.0436,1.4447
+overparametrization,universal law of robustness,0.0595,1.3715
+overparametrization,smoothly parametrized function class,0.9651,0.2643
+overparametrization,polynomial size weights,0.9133,0.4163
+isoperimetry,overparametrization,-0.0087,1.4204
+smooth interpolation,universal law of robustness,0.5289,0.9707
+smooth interpolation,smoothly parametrized function class,0.758,0.6958
+polynomial size weights,smooth interpolation,0.7302,0.7345
+isoperimetry,smooth interpolation,0.0493,1.3789
+ambient data dimension,universal law of robustness,-0.3234,1.6269
+ambient data dimension,smoothly parametrized function class,0.0085,1.4082
+ambient data dimension,polynomial size weights,0.3716,1.121
+ambient data dimension,isoperimetry,-0.0998,1.4831
+smoothly parametrized function class,universal law of robustness,0.0828,1.3544
+polynomial size weights,universal law of robustness,0.0487,1.3794
+isoperimetry,universal law of robustness,-0.1049,1.4866
+polynomial size weights,smoothly parametrized function class,0.8362,0.5724
+isoperimetry,smoothly parametrized function class,0.0762,1.3593
+isoperimetry,polynomial size weights,-0.2119,1.5568
+smooth interpolation,two-layer neural networks,0.5002,0.9998
+Gaussian covariates,smooth interpolation,0.7154,0.7545
+ambient data dimension,two-layer neural networks,-0.3801,1.6614
+Gaussian covariates,ambient data dimension,0.0398,1.3858
+two-layer neural networks,universal law of robustness,0.9651,0.2643
+Gaussian covariates,universal law of robustness,0.0619,1.3698
+smoothly parametrized function class,two-layer neural networks,0.0012,1.4134
+Gaussian covariates,smoothly parametrized function class,0.9426,0.3389
+polynomial size weights,two-layer neural networks,0.0214,1.399
+Gaussian covariates,polynomial size weights,0.921,0.3975
+isoperimetry,two-layer neural networks,-0.1069,1.4879
+Gaussian covariates,isoperimetry,-0.1213,1.4975
+Gaussian covariates,two-layer neural networks,0.0275,1.3946
+generalization bound,universal law of robustness,0.0154,1.4033
+generalization bound,smoothly parametrized function class,-0.2021,1.5505
+generalization bound,polynomial size weights,0.2023,1.2631
+generalization bound,isoperimetry,-0.3319,1.6321
+generalization bound,two-layer neural networks,-0.0226,1.4301
+Gaussian covariates,generalization bound,-0.139,1.5093

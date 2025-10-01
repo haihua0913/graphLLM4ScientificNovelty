@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+2D sprites,generative modeling,0.6711,0.8111
+3D scene,generative modeling,0.2437,1.2298
+generative modeling,moving objects,-0.1455,1.5136
+2D sprites,3D scene,0.5991,0.8954
+2D sprites,moving objects,-0.3594,1.6489
+3D scene,moving objects,-0.2147,1.5587
+2D sprites,monocular videos,0.8514,0.5451
+3D scene,monocular videos,0.4433,1.0552
+monocular videos,moving objects,-0.3904,1.6675
+depth-prediction,monocular videos,0.9077,0.4297
+2D instance segmentation,monocular videos,0.073,1.3616
+monocular videos,tracking,-0.1693,1.5293
+depth-prediction,moving objects,-0.2761,1.5976
+2D instance segmentation,moving objects,-0.0387,1.4413
+moving objects,tracking,-0.0996,1.483
+2D instance segmentation,depth-prediction,0.2054,1.2606
+depth-prediction,tracking,0.0547,1.375
+2D instance segmentation,tracking,-0.0928,1.4784

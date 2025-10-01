@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+illumination image,reflectance image,0.9738,0.229
+computer vision,reflectance image,0.2171,1.2513
+computer vision,illumination image,0.1396,1.3118
+reflectance image,sequence of T images,0.9468,0.3262
+illumination image,sequence of T images,0.9561,0.2964
+computer vision,sequence of T images,0.073,1.3616
+maximum-likelihood estimation,reflectance image,0.0472,1.3805
+computer vision,maximum-likelihood estimation,-0.2776,1.5985
+maximum-likelihood estimation,sequence of T images,0.0365,1.3882
+reflectance image,statistics of natural images,0.2119,1.2555
+reflectance image,sparse filter outputs,-0.3355,1.6343
+sequence of T images,statistics of natural images,0.0286,1.3938
+sequence of T images,sparse filter outputs,-0.2262,1.566
+maximum-likelihood estimation,statistics of natural images,-0.1964,1.5469
+maximum-likelihood estimation,sparse filter outputs,-0.1127,1.4918
+sparse filter outputs,statistics of natural images,0.1318,1.3177
+algorithm,maximum-likelihood estimation,-0.1132,1.4921
+algorithm,statistics of natural images,0.1725,1.2864
+algorithm,sparse filter outputs,0.9864,0.1652
+image sequences,statistics of natural images,0.3226,1.1639
+image sequences,sparse filter outputs,-0.2907,1.6067
+algorithm,image sequences,-0.2893,1.6058

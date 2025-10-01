@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+Wasserstein gradient flows,maximum mean discrepancy,0.919,0.4024
+Wasserstein gradient flows,neural networks,-0.0189,1.4275
+maximum mean discrepancy,neural networks,0.2438,1.2298
+Wasserstein gradient flows,transport plans,-0.1329,1.5052
+Wasserstein gradient flows,velocity plans,-0.0663,1.4604
+neural networks,transport plans,0.269,1.2092
+neural networks,velocity plans,-0.3701,1.6554
+transport plans,velocity plans,-0.2973,1.6108
+Wasserstein gradient flows,disintegration,-0.0687,1.462
+disintegration,neural networks,-0.4307,1.6916
+disintegration,transport plans,-0.3384,1.6361
+disintegration,velocity plans,0.9413,0.3428
+interaction energy,transport plans,-0.3313,1.6318
+interaction energy,velocity plans,0.9789,0.2056
+disintegration,interaction energy,0.9295,0.3754
+Dirac measure,disintegration,0.1074,1.3361
+Dirac measure,interaction energy,-0.0834,1.472

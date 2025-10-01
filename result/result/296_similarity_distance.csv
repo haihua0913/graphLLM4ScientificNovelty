@@ -1,0 +1,46 @@
+node1,node2,similarity,distance
+Quality estimation,prediction score distributions,-0.2628,1.5892
+Quality estimation,gold label distributions,-0.1034,1.4855
+gold label distributions,prediction score distributions,0.5036,0.9964
+Quality estimation,methods of comparison,-0.19,1.5427
+Quality estimation,aggregate statistics,-0.1619,1.5244
+methods of comparison,prediction score distributions,0.8492,0.5491
+aggregate statistics,prediction score distributions,0.5939,0.9013
+gold label distributions,methods of comparison,0.8323,0.5791
+aggregate statistics,gold label distributions,0.8117,0.6137
+aggregate statistics,methods of comparison,0.8171,0.6048
+Pearson correlation,Quality estimation,0.0208,1.3995
+Quality estimation,significance testing,-0.0907,1.4769
+Pearson correlation,prediction score distributions,-0.4549,1.7058
+prediction score distributions,significance testing,-0.0526,1.451
+Pearson correlation,gold label distributions,-0.1683,1.5286
+gold label distributions,significance testing,-0.1044,1.4862
+Pearson correlation,methods of comparison,-0.2117,1.5567
+methods of comparison,significance testing,-0.1443,1.5128
+Pearson correlation,aggregate statistics,0.0292,1.3934
+aggregate statistics,significance testing,-0.0066,1.4189
+Pearson correlation,significance testing,-0.4351,1.6941
+Quality estimation,WMT-13,-0.043,1.4443
+Quality estimation,WMT-14,-0.0849,1.473
+Quality estimation,system rankings,-0.2913,1.607
+WMT-13,prediction score distributions,-0.1963,1.5468
+WMT-14,prediction score distributions,0.9479,0.3227
+prediction score distributions,system rankings,0.9495,0.3178
+WMT-13,gold label distributions,0.3351,1.1531
+WMT-14,gold label distributions,0.5818,0.9145
+gold label distributions,system rankings,0.6925,0.7843
+WMT-13,methods of comparison,0.0182,1.4013
+WMT-14,methods of comparison,0.8063,0.6224
+methods of comparison,system rankings,0.9034,0.4395
+WMT-13,aggregate statistics,-0.0863,1.474
+WMT-14,aggregate statistics,0.5884,0.9073
+aggregate statistics,system rankings,0.7794,0.6642
+Pearson correlation,WMT-13,0.0362,1.3884
+Pearson correlation,WMT-14,-0.6049,1.7916
+Pearson correlation,system rankings,-0.4374,1.6955
+WMT-13,WMT-14,-0.098,1.4819
+WMT-13,significance testing,-0.0717,1.464
+WMT-13,system rankings,-0.1267,1.5011
+WMT-14,significance testing,-0.0108,1.4218
+WMT-14,system rankings,0.9402,0.3458
+significance testing,system rankings,-0.0097,1.421

@@ -1,0 +1,254 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/recomb/recomb2016.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"74.47"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"37",
+"@dc":"37",
+"@oc":"37",
+"@id":"48917541",
+"text":":facetid:toc:db/conf/recomb/recomb2016.bht"
+}
+},
+"hits":{
+"@total":"37",
+"@computed":"37",
+"@sent":"37",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4110800",
+"info":{"authors":{"author":[{"@pid":"20/7399","text":"Sean Simmons 0001"},{"@pid":"s/SCSahinalp","text":"S. Cenk Sahinalp"},{"@pid":"b/BonnieBerger","text":"Bonnie Berger"}]},"title":"Enabling Privacy Preserving GWAS in Heterogeneous Human Populations.","venue":"RECOMB","pages":"246-247","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/0001SB16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/0001SB16"},
+"url":"URL#4110800"
+},
+{
+"@score":"1",
+"@id":"4110801",
+"info":{"authors":{"author":[{"@pid":"140/3301","text":"Alexander Artyomenko"},{"@pid":"146/9886","text":"Nicholas C. Wu"},{"@pid":"99/8436","text":"Serghei Mangul"},{"@pid":"e/EEskin","text":"Eleazar Eskin"},{"@pid":"140/5221","text":"Ren Sun"},{"@pid":"z/AZelikovsky","text":"Alex Zelikovsky"}]},"title":"Long Single-Molecule Reads Can Resolve the Complexity of the Influenza Virus Composed of Rare, Closely Related Mutant Variants.","venue":"RECOMB","pages":"164-175","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ArtyomenkoWMESZ16","doi":"10.1007/978-3-319-31957-5_12","ee":"https://doi.org/10.1007/978-3-319-31957-5_12","url":"https://dblp.org/rec/conf/recomb/ArtyomenkoWMESZ16"},
+"url":"URL#4110801"
+},
+{
+"@score":"1",
+"@id":"4110802",
+"info":{"authors":{"author":[{"@pid":"178/2933","text":"Simona Cristea"},{"@pid":"138/6428","text":"Jack Kuipers"},{"@pid":"58/2558","text":"Niko Beerenwinkel"}]},"title":"pathTiMEx: Joint Inference of Mutually Exclusive Cancer Pathways and Their Dependencies in Tumor Progression.","venue":"RECOMB","pages":"65-82","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/CristeaKB16","doi":"10.1007/978-3-319-31957-5_5","ee":"https://doi.org/10.1007/978-3-319-31957-5_5","url":"https://dblp.org/rec/conf/recomb/CristeaKB16"},
+"url":"URL#4110802"
+},
+{
+"@score":"1",
+"@id":"4110803",
+"info":{"authors":{"author":[{"@pid":"18/325","text":"Phuong Dao"},{"@pid":"77/11538","text":"Jan Hoinka"},{"@pid":"91/1726-4","text":"Yijie Wang 0004"},{"@pid":"86/526","text":"Mayumi Takahashi"},{"@pid":"179/2427","text":"Jiehua Zhou"},{"@pid":"30/5745","text":"Fabrizio Costa"},{"@pid":"12/9375","text":"John Rossi"},{"@pid":"68/6735","text":"John Burnett"},{"@pid":"b/RolfBackofen","text":"Rolf Backofen"},{"@pid":"17/6857","text":"Teresa M. Przytycka"}]},"title":"AptaTRACE: Elucidating Sequence-Structure Binding Motifs by Uncovering Selection Trends in HT-SELEX Experiments.","venue":"RECOMB","pages":"261-262","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/DaoHWTZCRBBP16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/DaoHWTZCRBBP16"},
+"url":"URL#4110803"
+},
+{
+"@score":"1",
+"@id":"4110804",
+"info":{"authors":{"author":[{"@pid":"09/9358","text":"Nilgun Donmez"},{"@pid":"162/0576","text":"Salem Malikic"},{"@pid":"50/11192","text":"Alexander W. Wyatt"},{"@pid":"178/2971","text":"Martin E. Gleave"},{"@pid":"242/5290","text":"Colin C. Collins"},{"@pid":"s/SCSahinalp","text":"Süleyman Cenk Sahinalp"}]},"title":"Clonality Inference from Single Tumor Samples Using Low Coverage Sequence Data.","venue":"RECOMB","pages":"83-94","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/DonmezMWGCS16","doi":"10.1007/978-3-319-31957-5_6","ee":"https://doi.org/10.1007/978-3-319-31957-5_6","url":"https://dblp.org/rec/conf/recomb/DonmezMWGCS16"},
+"url":"URL#4110804"
+},
+{
+"@score":"1",
+"@id":"4110805",
+"info":{"authors":{"author":[{"@pid":"63/10044","text":"Mohammed El-Kebir"},{"@pid":"155/1370","text":"Gryte Satas"},{"@pid":"123/7641","text":"Layla Oesper"},{"@pid":"23/3243","text":"Benjamin J. Raphael"}]},"title":"Multi-state Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing.","venue":"RECOMB","pages":"251","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/El-KebirSOR16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/El-KebirSOR16"},
+"url":"URL#4110805"
+},
+{
+"@score":"1",
+"@id":"4110806",
+"info":{"authors":{"author":[{"@pid":"86/10995","text":"Nicoló Fusi"},{"@pid":"l/JenniferListgarten","text":"Jennifer Listgarten"}]},"title":"Flexible Modelling of Genetic Effects on Function-Valued Traits.","venue":"RECOMB","pages":"95-110","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/FusiL16","doi":"10.1007/978-3-319-31957-5_7","ee":"https://doi.org/10.1007/978-3-319-31957-5_7","url":"https://dblp.org/rec/conf/recomb/FusiL16"},
+"url":"URL#4110806"
+},
+{
+"@score":"1",
+"@id":"4110807",
+"info":{"authors":{"author":[{"@pid":"159/1928","text":"Andreas D. M. Gunawan"},{"@pid":"12/1709","text":"Bhaskar DasGupta"},{"@pid":"68/5601","text":"Louxin Zhang"}]},"title":"Locating a Tree in a Reticulation-Visible Network in Cubic Time.","venue":"RECOMB","pages":"266","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/GunawanDZ16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/GunawanDZ16"},
+"url":"URL#4110807"
+},
+{
+"@score":"1",
+"@id":"4110808",
+"info":{"authors":{"author":[{"@pid":"79/10995","text":"Mark A. Hallen"},{"@pid":"160/6843","text":"Jonathan D. Jou"},{"@pid":"d/BRDonald","text":"Bruce Randall Donald"}]},"title":"LUTE (Local Unpruned Tuple Expansion): Accurate Continuously Flexible Protein Design with General Energy Functions and Rigid-rotamer-like Efficiency.","venue":"RECOMB","pages":"122-136","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/HallenJD16","doi":"10.1007/978-3-319-31957-5_9","ee":"https://doi.org/10.1007/978-3-319-31957-5_9","url":"https://dblp.org/rec/conf/recomb/HallenJD16"},
+"url":"URL#4110808"
+},
+{
+"@score":"1",
+"@id":"4110809",
+"info":{"authors":{"author":[{"@pid":"233/9947","text":"Tommy Hansen"},{"@pid":"62/5172","text":"Fabio Vandin"}]},"title":"Finding Mutated Subnetworks Associated with Survival in Cancer.","venue":"RECOMB","pages":"250","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/HansenV16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/HansenV16"},
+"url":"URL#4110809"
+},
+{
+"@score":"1",
+"@id":"4110810",
+"info":{"authors":{"author":[{"@pid":"131/9959","text":"Somaye Hashemifar"},{"@pid":"82/241","text":"Qixing Huang"},{"@pid":"45/2923","text":"Jinbo Xu"}]},"title":"Joint Alignment of Multiple Protein-Protein Interaction Networks via Convex Optimization.","venue":"RECOMB","pages":"267-269","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/HashemifarHX16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/HashemifarHX16"},
+"url":"URL#4110810"
+},
+{
+"@score":"1",
+"@id":"4110811",
+"info":{"authors":{"author":[{"@pid":"09/6555","text":"Farhad Hormozdiari"},{"@pid":"91/1989","text":"Fereydoun Hormozdiari"},{"@pid":"75/4537","text":"Carl Kingsford"},{"@pid":"95/4828","text":"Paul Medvedev"},{"@pid":"62/5172","text":"Fabio Vandin"}]},"title":"The Second Decade of the International Conference on Research in Computational Molecular Biology (RECOMB).","venue":"RECOMB","pages":"3-16","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/HormozdiariHKMV16","doi":"10.1007/978-3-319-31957-5_1","ee":"https://doi.org/10.1007/978-3-319-31957-5_1","url":"https://dblp.org/rec/conf/recomb/HormozdiariHKMV16"},
+"url":"URL#4110811"
+},
+{
+"@score":"1",
+"@id":"4110812",
+"info":{"authors":{"author":[{"@pid":"06/3142","text":"Katharina Jahn 0001"},{"@pid":"138/6428","text":"Jack Kuipers"},{"@pid":"58/2558","text":"Niko Beerenwinkel"}]},"title":"Tree Inference for Single-Cell Data.","venue":"RECOMB","pages":"252","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/JahnKB16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/JahnKB16"},
+"url":"URL#4110812"
+},
+{
+"@score":"1",
+"@id":"4110813",
+"info":{"authors":{"author":[{"@pid":"54/4829","text":"Luis Antonio Brasil Kowada"},{"@pid":"22/10085","text":"Daniel Doerr"},{"@pid":"84/5767","text":"Simone Dantas"},{"@pid":"72/3506","text":"Jens Stoye"}]},"title":"New Genome Similarity Measures Based on Conserved Gene Adjacencies.","venue":"RECOMB","pages":"204-224","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KowadaDDS16","doi":"10.1007/978-3-319-31957-5_15","ee":"https://doi.org/10.1007/978-3-319-31957-5_15","url":"https://dblp.org/rec/conf/recomb/KowadaDDS16"},
+"url":"URL#4110813"
+},
+{
+"@score":"1",
+"@id":"4110814",
+"info":{"authors":{"author":[{"@pid":"25/2533-1","text":"Meghana Kshirsagar 0001"},{"@pid":"56/3395","text":"Jaime G. Carbonell"},{"@pid":"32/6501","text":"Judith Klein-Seetharaman"},{"@pid":"178/2877","text":"Keerthiram Murugesan"}]},"title":"Multitask Matrix Completion for Learning Protein Interactions Across Diseases.","venue":"RECOMB","pages":"53-64","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KshirsagarCKM16","doi":"10.1007/978-3-319-31957-5_4","ee":"https://doi.org/10.1007/978-3-319-31957-5_4","url":"https://dblp.org/rec/conf/recomb/KshirsagarCKM16"},
+"url":"URL#4110814"
+},
+{
+"@score":"1",
+"@id":"4110815",
+"info":{"authors":{"author":[{"@pid":"37/4190","text":"Yang Li"},{"@pid":"02/2017","text":"Shiguo Zhou"},{"@pid":"92/1367","text":"David C. Schwartz"},{"@pid":"26/4870-4","text":"Jian Ma 0004"}]},"title":"Allele-Specific Quantification of Structural Variations in Cancer Genomes.","venue":"RECOMB","pages":"264","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/LiZS016","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/LiZS016"},
+"url":"URL#4110815"
+},
+{
+"@score":"1",
+"@id":"4110816",
+"info":{"authors":{"author":[{"@pid":"74/2577-1","text":"Yu Lin 0001"},{"@pid":"233/9948","text":"Max W. Shen"},{"@pid":"32/2132","text":"Jeffrey Yuan"},{"@pid":"48/268","text":"Mark Chaisson"},{"@pid":"p/PAPevzner","text":"Pavel A. Pevzner"}]},"title":"Assembly of Long Error-Prone Reads Using de Bruijn Graphs.","venue":"RECOMB","pages":"265","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/LinSYCP16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/LinSYCP16"},
+"url":"URL#4110816"
+},
+{
+"@score":"1",
+"@id":"4110817",
+"info":{"authors":{"author":[{"@pid":"225/8950","text":"Yunan Luo"},{"@pid":"59/6722-1","text":"Jianyang Zeng 0001"},{"@pid":"b/BonnieBerger","text":"Bonnie Berger"},{"@pid":"29/4181-1","text":"Jian Peng 0001"}]},"title":"Low-Density Locality-Sensitive Hashing Boosts Metagenomic Binning.","venue":"RECOMB","pages":"255-257","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/LuoZB016","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/LuoZB016"},
+"url":"URL#4110817"
+},
+{
+"@score":"1",
+"@id":"4110818",
+"info":{"authors":{"author":[{"@pid":"11/646","text":"Xiuli Ma"},{"@pid":"22/6475","text":"Guangyu Zhou"},{"@pid":"62/2631","text":"Jingjing Wang"},{"@pid":"29/4181-1","text":"Jian Peng 0001"},{"@pid":"h/JiaweiHan","text":"Jiawei Han 0001"}]},"title":"Complexes Detection in Biological Networks via Diversified Dense Subgraphs Mining.","venue":"RECOMB","pages":"270-272","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/MaZW0016","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/MaZW0016"},
+"url":"URL#4110818"
+},
+{
+"@score":"1",
+"@id":"4110819",
+"info":{"authors":{"author":[{"@pid":"122/8985","text":"Sergey Nurk"},{"@pid":"233/9946","text":"Dmitry Meleshko"},{"@pid":"24/11279","text":"Anton I. Korobeynikov"},{"@pid":"p/PAPevzner","text":"Pavel A. Pevzner"}]},"title":"metaSPAdes: A New Versatile de novo Metagenomics Assembler.","venue":"RECOMB","pages":"258","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/NurkMKP16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/NurkMKP16"},
+"url":"URL#4110819"
+},
+{
+"@score":"1",
+"@id":"4110820",
+"info":{"authors":{"author":[{"@pid":"153/6777","text":"David Pellow"},{"@pid":"86/7989","text":"Darya Filippova"},{"@pid":"75/4537","text":"Carl Kingsford"}]},"title":"Improving Bloom Filter Performance on Sequence Data Using k -mer Bloom Filters.","venue":"RECOMB","pages":"137-151","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/PellowFK16","doi":"10.1007/978-3-319-31957-5_10","ee":"https://doi.org/10.1007/978-3-319-31957-5_10","url":"https://dblp.org/rec/conf/recomb/PellowFK16"},
+"url":"URL#4110820"
+},
+{
+"@score":"1",
+"@id":"4110821",
+"info":{"authors":{"author":[{"@pid":"131/4786","text":"Victoria Popic"},{"@pid":"b/SerafimBatzoglou","text":"Serafim Batzoglou"}]},"title":"Efficient Privacy-Preserving Read Mapping Using Locality Sensitive Hashing and Secure Kmer Voting.","venue":"RECOMB","pages":"248-249","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/PopicB16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/PopicB16"},
+"url":"URL#4110821"
+},
+{
+"@score":"1",
+"@id":"4110822",
+"info":{"authors":{"author":[{"@pid":"118/0896","text":"Kristoffer Sahlin"},{"@pid":"178/2887","text":"Mattias Frånberg"},{"@pid":"08/5901","text":"Lars Arvestad"}]},"title":"Structural Variation Detection with Read Pair Information - An Improved Null-Hypothesis Reduces Bias.","venue":"RECOMB","pages":"176-188","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SahlinFA16","doi":"10.1007/978-3-319-31957-5_13","ee":"https://doi.org/10.1007/978-3-319-31957-5_13","url":"https://dblp.org/rec/conf/recomb/SahlinFA16"},
+"url":"URL#4110822"
+},
+{
+"@score":"1",
+"@id":"4110823",
+"info":{"authors":{"author":[{"@pid":"70/7563","text":"Emre Sefer"},{"@pid":"66/6963","text":"Ziv Bar-Joseph"}]},"title":"Shall We Dense? Comparing Design Strategies for Time Series Expression Experiments.","venue":"RECOMB","pages":"244-245","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/SeferJ16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/SeferJ16"},
+"url":"URL#4110823"
+},
+{
+"@score":"1",
+"@id":"4110824",
+"info":{"authors":{"author":[{"@pid":"123/7340","text":"Mingfu Shao"},{"@pid":"18/242","text":"Bernard M. E. Moret"}]},"title":"On Computing Breakpoint Distances for Genomes with Duplicate Genes.","venue":"RECOMB","pages":"189-203","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ShaoM16","doi":"10.1007/978-3-319-31957-5_14","ee":"https://doi.org/10.1007/978-3-319-31957-5_14","url":"https://dblp.org/rec/conf/recomb/ShaoM16"},
+"url":"URL#4110824"
+},
+{
+"@score":"1",
+"@id":"4110825",
+"info":{"authors":{"author":[{"@pid":"63/9609-5","text":"Shashank Singh 0005"},{"@pid":"23/10787","text":"Sabrina Rashid"},{"@pid":"31/3315","text":"Saket Navlakha"},{"@pid":"66/6963","text":"Ziv Bar-Joseph"}]},"title":"Distributed Gradient Descent in Bacterial Food Search.","venue":"RECOMB","pages":"259-260","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/SinghRNB16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/SinghRNB16"},
+"url":"URL#4110825"
+},
+{
+"@score":"1",
+"@id":"4110826",
+"info":{"authors":{"author":[{"@pid":"178/2973","text":"Ahmed Sobih"},{"@pid":"98/3921","text":"Alexandru I. Tomescu"},{"@pid":"77/2752","text":"Veli Mäkinen"}]},"title":"MetaFlow: Metagenomic Profiling Based on Whole-Genome Coverage Analysis with Min-Cost Flows.","venue":"RECOMB","pages":"111-121","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SobihTM16","doi":"10.1007/978-3-319-31957-5_8","ee":"https://doi.org/10.1007/978-3-319-31957-5_8","url":"https://dblp.org/rec/conf/recomb/SobihTM16"},
+"url":"URL#4110826"
+},
+{
+"@score":"1",
+"@id":"4110827",
+"info":{"authors":{"author":[{"@pid":"173/1985","text":"Yael Steuerman"},{"@pid":"92/3173","text":"Irit Gat-Viks"}]},"title":"Revealing the Genetic Basis of Immune Traits in the Absence of Experimental Immunophenotyping.","venue":"RECOMB","pages":"242-243","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/SteuermanG16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/SteuermanG16"},
+"url":"URL#4110827"
+},
+{
+"@score":"1",
+"@id":"4110828",
+"info":{"authors":{"author":[{"@pid":"98/3921","text":"Alexandru I. Tomescu"},{"@pid":"95/4828","text":"Paul Medvedev"}]},"title":"Safe and Complete Contig Assembly Via Omnitigs.","venue":"RECOMB","pages":"152-163","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/TomescuM16","doi":"10.1007/978-3-319-31957-5_11","ee":"https://doi.org/10.1007/978-3-319-31957-5_11","url":"https://dblp.org/rec/conf/recomb/TomescuM16"},
+"url":"URL#4110828"
+},
+{
+"@score":"1",
+"@id":"4110829",
+"info":{"authors":{"author":[{"@pid":"117/9084","text":"Constantinos Tsirogiannis"},{"@pid":"117/9040","text":"Brody Sandel"}]},"title":"Fast Phylogenetic Biodiversity Computations Under a Non-uniform Random Distribution.","venue":"RECOMB","pages":"225-236","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/TsirogiannisS16","doi":"10.1007/978-3-319-31957-5_16","ee":"https://doi.org/10.1007/978-3-319-31957-5_16","url":"https://dblp.org/rec/conf/recomb/TsirogiannisS16"},
+"url":"URL#4110829"
+},
+{
+"@score":"1",
+"@id":"4110830",
+"info":{"authors":{"author":[{"@pid":"w/HaoWang-24","text":"Hao Wang 0024"},{"@pid":"178/2932","text":"Joel McManus"},{"@pid":"75/4537","text":"Carl Kingsford"}]},"title":"Accurate Recovery of Ribosome Positions Reveals Slow Translation of Wobble-Pairing Codons in Yeast.","venue":"RECOMB","pages":"37-52","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/WangMK16","doi":"10.1007/978-3-319-31957-5_3","ee":"https://doi.org/10.1007/978-3-319-31957-5_3","url":"https://dblp.org/rec/conf/recomb/WangMK16"},
+"url":"URL#4110830"
+},
+{
+"@score":"1",
+"@id":"4110831",
+"info":{"authors":{"author":[{"@pid":"123/6991","text":"Joshua D. Welch"},{"@pid":"207/0909","text":"Ziqing Liu"},{"@pid":"58/6810","text":"Li Wang"},{"@pid":"71/4462","text":"Junjie Lu"},{"@pid":"233/9945","text":"Paul Lerou"},{"@pid":"00/11018","text":"Jeremy E. Purvis"},{"@pid":"25/6847","text":"Li Qian"},{"@pid":"64/1983","text":"Alexander J. Hartemink"},{"@pid":"p/JanPrins","text":"Jan F. Prins"}]},"title":"SLICER: Inferring Branched, Nonlinear Cellular Trajectories from Single Cell RNA-seq Data.","venue":"RECOMB","pages":"239-240","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/WelchLWLLPQHP16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/WelchLWLLPQHP16"},
+"url":"URL#4110831"
+},
+{
+"@score":"1",
+"@id":"4110832",
+"info":{"authors":{"author":[{"@pid":"25/8068","text":"John Wiedenhoeft"},{"@pid":"183/4836","text":"Eric Brugel"},{"@pid":"23/3903","text":"Alexander Schliep"}]},"title":"Fast Bayesian Inference of Copy Number Variants Using Hidden Markov Models with Wavelet Compression.","venue":"RECOMB","pages":"263","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/WiedenhoeftBS16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/WiedenhoeftBS16"},
+"url":"URL#4110832"
+},
+{
+"@score":"1",
+"@id":"4110833",
+"info":{"authors":{"author":[{"@pid":"91/9064","text":"Yuqing Yang"},{"@pid":"56/1670-2","text":"Ning Chen 0002"},{"@pid":"19/1766-6","text":"Ting Chen 0006"}]},"title":"mLDM: A New Hierarchical Bayesian Statistical Model for Sparse Microbial Association Discovery.","venue":"RECOMB","pages":"253-254","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/YangC016","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/YangC016"},
+"url":"URL#4110833"
+},
+{
+"@score":"1",
+"@id":"4110834",
+"info":{"authors":{"author":[{"@pid":"159/6216","text":"Chenchen Zou"},{"@pid":"94/5469","text":"Yuping Zhang"},{"@pid":"82/6402","text":"Zhengqing Ouyang"}]},"title":"Multi-track Modeling for Genome-Scale Reconstruction of 3D Chromatin Structure from Hi-C Data.","venue":"RECOMB","pages":"241","year":"2016","type":"Conference and Workshop Papers","access":"open","key":"conf/recomb/ZouZO16","ee":"https://link.springer.com/content/pdf/bbm%3A978-3-319-31957-5%2F1.pdf","url":"https://dblp.org/rec/conf/recomb/ZouZO16"},
+"url":"URL#4110834"
+},
+{
+"@score":"1",
+"@id":"4110835",
+"info":{"authors":{"author":[{"@pid":"143/4882","text":"Chandler Zuo"},{"@pid":"178/2882","text":"Kailei Chen"},{"@pid":"63/6767","text":"Sündüz Keles"}]},"title":"A MAD-Bayes Algorithm for State-Space Inference and Clustering with Application to Querying Large Collections of ChIP-Seq Data Sets.","venue":"RECOMB","pages":"19-36","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ZuoCK16","doi":"10.1007/978-3-319-31957-5_2","ee":"https://doi.org/10.1007/978-3-319-31957-5_2","url":"https://dblp.org/rec/conf/recomb/ZuoCK16"},
+"url":"URL#4110835"
+},
+{
+"@score":"1",
+"@id":"4144255",
+"info":{"authors":{"author":{"@pid":"73/6093-1","text":"Mona Singh 0001"}},"title":"Research in Computational Molecular Biology - 20th Annual Conference, RECOMB 2016, Santa Monica, CA, USA, April 17-21, 2016, Proceedings","venue":["RECOMB","Lecture Notes in Computer Science"],"volume":"9649","publisher":"Springer","year":"2016","type":"Editorship","key":"conf/recomb/2016","doi":"10.1007/978-3-319-31957-5","ee":"https://doi.org/10.1007/978-3-319-31957-5","url":"https://dblp.org/rec/conf/recomb/2016"},
+"url":"URL#4144255"
+}
+]
+}
+}
+}

@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+parse,unlexicalized PCFG,-0.231,1.569
+state splits,unlexicalized PCFG,-0.1582,1.522
+treebank grammar,unlexicalized PCFG,0.9629,0.2725
+lexicalized PCFG models,unlexicalized PCFG,0.9666,0.2584
+performance,unlexicalized PCFG,-0.1801,1.5363
+parse,state splits,-0.2467,1.5791
+parse,treebank grammar,-0.1574,1.5214
+lexicalized PCFG models,parse,-0.1046,1.4864
+parse,performance,-0.2813,1.6008
+state splits,treebank grammar,-0.1522,1.5181
+lexicalized PCFG models,state splits,-0.1102,1.4901
+performance,state splits,-0.0492,1.4486
+lexicalized PCFG models,treebank grammar,0.9903,0.1394
+performance,treebank grammar,-0.2267,1.5663
+lexicalized PCFG models,performance,-0.2518,1.5823
+accuracy,unlexicalized PCFG,-0.4904,1.7265
+algorithms,unlexicalized PCFG,-0.4951,1.7292
+accuracy,parse,-0.0329,1.4373
+algorithms,parse,-0.2367,1.5727
+accuracy,state splits,0.0131,1.4049
+algorithms,state splits,0.8939,0.4607
+accuracy,treebank grammar,-0.5472,1.7591
+algorithms,treebank grammar,-0.5177,1.7422
+accuracy,lexicalized PCFG models,-0.5445,1.7575
+algorithms,lexicalized PCFG models,-0.4907,1.7267
+accuracy,performance,0.8811,0.4877
+accuracy,algorithms,0.3862,1.108
+algorithms,performance,0.2512,1.2238

@@ -1,0 +1,38 @@
+node1,node2,similarity,distance
+bounded fitting,learning algorithms,-0.195,1.546
+bounded fitting,description logic,-0.2717,1.5948
+bounded fitting,ontologies,-0.2667,1.5917
+PAC learning,bounded fitting,0.9519,0.3102
+bounded fitting,generalization,-0.2073,1.5539
+description logic,learning algorithms,0.9545,0.3015
+learning algorithms,ontologies,0.9414,0.3423
+PAC learning,learning algorithms,-0.0042,1.4172
+generalization,learning algorithms,-0.1083,1.4888
+description logic,ontologies,0.9673,0.2559
+PAC learning,description logic,-0.0984,1.4821
+description logic,generalization,0.1129,1.332
+PAC learning,ontologies,-0.0827,1.4716
+generalization,ontologies,0.1622,1.2944
+PAC learning,generalization,-0.2671,1.5919
+SPELL,bounded fitting,0.9421,0.3402
+ELHr,bounded fitting,-0.1768,1.5341
+SAT solver,bounded fitting,-0.0001,1.4143
+bounded fitting,performance,-0.1886,1.5418
+SPELL,learning algorithms,-0.1214,1.4976
+ELHr,learning algorithms,-0.2597,1.5873
+SAT solver,learning algorithms,0.9132,0.4167
+learning algorithms,performance,0.9519,0.3102
+PAC learning,SPELL,0.9554,0.2986
+ELHr,PAC learning,-0.1296,1.5031
+PAC learning,SAT solver,0.1489,1.3047
+PAC learning,performance,0.0371,1.3877
+SPELL,generalization,-0.1076,1.4884
+ELHr,generalization,-0.399,1.6727
+SAT solver,generalization,0.1588,1.2971
+generalization,performance,-0.1254,1.5003
+ELHr,SPELL,-0.1359,1.5072
+SAT solver,SPELL,0.0574,1.373
+SPELL,performance,-0.0816,1.4708
+ELHr,SAT solver,-0.5097,1.7376
+ELHr,performance,-0.2759,1.5974
+SAT solver,performance,0.855,0.5386

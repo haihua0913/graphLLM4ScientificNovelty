@@ -1,0 +1,14 @@
+node1,node2,similarity,distance
+RDF triples,knowledge base,-0.1729,1.5316
+RDF triples,encoder-decoder framework,-0.218,1.5607
+RDF triples,graph-based triple encoder,0.0838,1.3537
+encoder-decoder framework,graph-based triple encoder,0.902,0.4427
+BLEU,RDF triples,-0.2474,1.5795
+METEOR,RDF triples,-0.0039,1.417
+RDF triples,TER,0.0258,1.3958
+BLEU,graph-based triple encoder,-0.2733,1.5958
+METEOR,graph-based triple encoder,-0.1924,1.5443
+TER,graph-based triple encoder,-0.2101,1.5557
+BLEU,METEOR,0.9511,0.3127
+BLEU,TER,0.9164,0.4089
+METEOR,TER,0.9888,0.15

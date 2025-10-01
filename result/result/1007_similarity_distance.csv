@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+Hamiltonian Monte Carlo,binary distributions,-0.0636,1.4585
+Hamiltonian Monte Carlo,exponential variables,0.0896,1.3494
+Hamiltonian Monte Carlo,probit regression models,-0.1197,1.4965
+Hamiltonian Monte Carlo,spike-and-slab priors,-0.1909,1.5433
+binary distributions,exponential variables,0.8402,0.5654
+binary distributions,probit regression models,-0.3248,1.6277
+binary distributions,spike-and-slab priors,-0.1415,1.5109
+exponential variables,probit regression models,-0.4405,1.6973
+exponential variables,spike-and-slab priors,0.0518,1.3771
+probit regression models,spike-and-slab priors,-0.246,1.5786
+Gibbs samplers,Hamiltonian Monte Carlo,-0.2244,1.5649
+Gibbs samplers,binary distributions,-0.0968,1.4811
+Gibbs samplers,exponential variables,0.0547,1.375
+Gibbs samplers,probit regression models,-0.399,1.6727
+Gibbs samplers,spike-and-slab priors,0.9551,0.2997

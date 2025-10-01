@@ -1,0 +1,296 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/recomb/recomb1999.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"73.52"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"44",
+"@dc":"44",
+"@oc":"44",
+"@id":"48917524",
+"text":":facetid:toc:db/conf/recomb/recomb1999.bht"
+}
+},
+"hits":{
+"@total":"44",
+"@computed":"44",
+"@sent":"44",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"7345320",
+"info":{"authors":{"author":[{"@pid":"11/1738","text":"Eric L. Anson"},{"@pid":"m/EugeneWMyers","text":"Eugene W. Myers"}]},"title":"Algorithms for whole genome shotgun sequencing.","venue":"RECOMB","pages":"1-9","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/AnsonM99","doi":"10.1145/299432.299442","ee":"https://doi.org/10.1145/299432.299442","url":"https://dblp.org/rec/conf/recomb/AnsonM99"},
+"url":"URL#7345320"
+},
+{
+"@score":"1",
+"@id":"7345321",
+"info":{"authors":{"author":[{"@pid":"03/6212","text":"Timothy L. Bailey"},{"@pid":"08/978","text":"William Noble Grundy"}]},"title":"Classifying proteins by family using the product of correlated p-values.","venue":"RECOMB","pages":"10-14","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BaileyG99","doi":"10.1145/299432.299444","ee":"https://doi.org/10.1145/299432.299444","url":"https://dblp.org/rec/conf/recomb/BaileyG99"},
+"url":"URL#7345321"
+},
+{
+"@score":"1",
+"@id":"7345322",
+"info":{"authors":{"author":[{"@pid":"89/6986","text":"Martin J. Bayley"},{"@pid":"34/5879","text":"Valerie J. Gillet"},{"@pid":"w/PeterWillett","text":"Peter Willett 0002"},{"@pid":"58/1303","text":"John Bradshaw"},{"@pid":"06/4293","text":"Darren V. S. Green"}]},"title":"Computational analysis of molecular diversity for drug discovery.","venue":"RECOMB","pages":"321-330","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BayleyGWBG99","doi":"10.1145/299432.299510","ee":"https://doi.org/10.1145/299432.299510","url":"https://dblp.org/rec/conf/recomb/BayleyGWBG99"},
+"url":"URL#7345322"
+},
+{
+"@score":"1",
+"@id":"7345323",
+"info":{"authors":{"author":[{"@pid":"b/GillBejerano","text":"Gill Bejerano"},{"@pid":"09/4046","text":"Golan Yona"}]},"title":"Modeling protein families using probabilistic suffix trees.","venue":"RECOMB","pages":"15-24","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BejeranoY99","doi":"10.1145/299432.299445","ee":"https://doi.org/10.1145/299432.299445","url":"https://dblp.org/rec/conf/recomb/BejeranoY99"},
+"url":"URL#7345323"
+},
+{
+"@score":"1",
+"@id":"7345324",
+"info":{"authors":{"author":[{"@pid":"82/3119","text":"Amir Ben-Dor"},{"@pid":"16/7018","text":"Zohar Yakhini"}]},"title":"Clustering gene expression patterns.","venue":"RECOMB","pages":"33-42","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Ben-DorY99","doi":"10.1145/299432.299448","ee":"https://doi.org/10.1145/299432.299448","url":"https://dblp.org/rec/conf/recomb/Ben-DorY99"},
+"url":"URL#7345324"
+},
+{
+"@score":"1",
+"@id":"7345325",
+"info":{"authors":{"author":[{"@pid":"36/3770","text":"Piotr Berman"},{"@pid":"81/5458","text":"Zheng Zhang 0004"},{"@pid":"65/3472","text":"Yuri I. Wolf"},{"@pid":"69/4198","text":"Eugene V. Koonin"},{"@pid":"m/WebbMiller","text":"Webb Miller"}]},"title":"Winnowing sequences from a database search.","venue":"RECOMB","pages":"50-58","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BermanZWKM99","doi":"10.1145/299432.299451","ee":"https://doi.org/10.1145/299432.299451","url":"https://dblp.org/rec/conf/recomb/BermanZWKM99"},
+"url":"URL#7345325"
+},
+{
+"@score":"1",
+"@id":"7345326",
+"info":{"authors":{"author":[{"@pid":"b/VincentBerry","text":"Vincent Berry"},{"@pid":"67/4063","text":"David Bryant"}]},"title":"Faster reliable phylogenetic analysis.","venue":"RECOMB","pages":"59-68","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BerryB99","doi":"10.1145/299432.299457","ee":"https://doi.org/10.1145/299432.299457","url":"https://dblp.org/rec/conf/recomb/BerryB99"},
+"url":"URL#7345326"
+},
+{
+"@score":"1",
+"@id":"7345327",
+"info":{"authors":{"author":[{"@pid":"39/1406","text":"Jadwiga R. Bienkowska"},{"@pid":"98/5763","text":"Robert G. Rogers"},{"@pid":"81/6039","text":"Temple F. Smith"}]},"title":"A method for optimal design of a threading scoring function.","venue":"RECOMB","pages":"25-32","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BienkowskaRS99","doi":"10.1145/299432.299446","ee":"https://doi.org/10.1145/299432.299446","url":"https://dblp.org/rec/conf/recomb/BienkowskaRS99"},
+"url":"URL#7345327"
+},
+{
+"@score":"1",
+"@id":"7345328",
+"info":{"authors":{"author":[{"@pid":"06/2330","text":"Laurent Bize"},{"@pid":"62/142","text":"Florence Muri"},{"@pid":"24/2132","text":"Franck Samson"},{"@pid":"28/4979","text":"François Rodolphe"},{"@pid":"59/4065","text":"S. Dusko Ehrlich"},{"@pid":"02/5866","text":"Bernard Prun"},{"@pid":"99/1215","text":"Philippe Bessières"}]},"title":"Searching gene transfers on Bacillus subtilis using hidden Markov models.","venue":"RECOMB","pages":"43-49","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BizeMSREPB99","doi":"10.1145/299432.299449","ee":"https://doi.org/10.1145/299432.299449","url":"https://dblp.org/rec/conf/recomb/BizeMSREPB99"},
+"url":"URL#7345328"
+},
+{
+"@score":"1",
+"@id":"7345329",
+"info":{"authors":{"author":{"@pid":"b/PeerBork","text":"Peer Bork"}},"title":"Comparing genes and genomes (abstract): from polymorphism to phylogeny.","venue":"RECOMB","pages":"69-76","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Bork99","doi":"10.1145/299432.299458","ee":"https://doi.org/10.1145/299432.299458","url":"https://dblp.org/rec/conf/recomb/Bork99"},
+"url":"URL#7345329"
+},
+{
+"@score":"1",
+"@id":"7345330",
+"info":{"authors":{"author":[{"@pid":"02/6792","text":"Stefan Burkhardt"},{"@pid":"84/600","text":"Andreas Crauser"},{"@pid":"f/PaoloFerragina","text":"Paolo Ferragina"},{"@pid":"l/HPLenhof","text":"Hans-Peter Lenhof"},{"@pid":"07/3055","text":"Eric Rivals"},{"@pid":"36/6567","text":"Martin Vingron"}]},"title":"q-gram based database searching using a suffix array (QUASAR).","venue":"RECOMB","pages":"77-83","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BurkhardtCFLRV99","doi":"10.1145/299432.299460","ee":"https://doi.org/10.1145/299432.299460","url":"https://dblp.org/rec/conf/recomb/BurkhardtCFLRV99"},
+"url":"URL#7345330"
+},
+{
+"@score":"1",
+"@id":"7345331",
+"info":{"authors":{"author":{"@pid":"c/AlbertoCaprara","text":"Alberto Caprara"}},"title":"Formulations and hardness of multiple sorting by reversals.","venue":"RECOMB","pages":"84-94","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Caprara99","doi":"10.1145/299432.299461","ee":"https://doi.org/10.1145/299432.299461","url":"https://dblp.org/rec/conf/recomb/Caprara99"},
+"url":"URL#7345331"
+},
+{
+"@score":"1",
+"@id":"7345332",
+"info":{"authors":{"author":[{"@pid":"19/1766","text":"Ting Chen"},{"@pid":"f/VladimirFilkov","text":"Vladimir Filkov"},{"@pid":"s/StevenSkiena","text":"Steven Skiena"}]},"title":"Identifying gene regulatory networks from experimental data.","venue":"RECOMB","pages":"94-103","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ChenFS99","doi":"10.1145/299432.299462","ee":"https://doi.org/10.1145/299432.299462","url":"https://dblp.org/rec/conf/recomb/ChenFS99"},
+"url":"URL#7345332"
+},
+{
+"@score":"1",
+"@id":"7345333",
+"info":{"authors":{"author":[{"@pid":"69/6168","text":"L. Paul Chew"},{"@pid":"h/DPHuttenlocher","text":"Daniel P. Huttenlocher"},{"@pid":"k/KlaraKedem","text":"Klara Kedem"},{"@pid":"k/JonMKleinberg","text":"Jon M. Kleinberg"}]},"title":"Fast detection of common geometric substructure in proteins.","venue":"RECOMB","pages":"104-114","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ChewHKK99","doi":"10.1145/299432.299464","ee":"https://doi.org/10.1145/299432.299464","url":"https://dblp.org/rec/conf/recomb/ChewHKK99"},
+"url":"URL#7345333"
+},
+{
+"@score":"1",
+"@id":"7345334",
+"info":{"authors":{"author":[{"@pid":"28/5721","text":"Thomas Christof"},{"@pid":"k/JDKececioglu","text":"John D. Kececioglu"}]},"title":"Computing physical maps of chromosomes with nonoverlapping probes by branch-and-cut.","venue":"RECOMB","pages":"115-123","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ChristofK99","doi":"10.1145/299432.299465","ee":"https://doi.org/10.1145/299432.299465","url":"https://dblp.org/rec/conf/recomb/ChristofK99"},
+"url":"URL#7345334"
+},
+{
+"@score":"1",
+"@id":"7345335",
+"info":{"authors":{"author":[{"@pid":"85/2738","text":"Daniel Cohen"},{"@pid":"53/5577","text":"Marta Blumenfeld"},{"@pid":"47/117","text":"Ilya Chumakov"},{"@pid":"53/3666","text":"Nicholas J. Schork"}]},"title":"Whole genome association studies in humans (abstract).","venue":"RECOMB","pages":"134","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/CohenBCS99","doi":"10.1145/299432.299469","ee":"https://doi.org/10.1145/299432.299469","url":"https://dblp.org/rec/conf/recomb/CohenBCS99"},
+"url":"URL#7345335"
+},
+{
+"@score":"1",
+"@id":"7345336",
+"info":{"authors":{"author":[{"@pid":"84/1363","text":"Barry Cohen"},{"@pid":"s/StevenSkiena","text":"Steven Skiena"}]},"title":"Optimizing combinatorial library construction via split synthesis.","venue":"RECOMB","pages":"124-133","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/CohenS99","doi":"10.1145/299432.299467","ee":"https://doi.org/10.1145/299432.299467","url":"https://dblp.org/rec/conf/recomb/CohenS99"},
+"url":"URL#7345336"
+},
+{
+"@score":"1",
+"@id":"7345337",
+"info":{"authors":{"author":[{"@pid":"81/6475","text":"Vlado Dancík"},{"@pid":"05/1731","text":"Theresa A. Addona"},{"@pid":"11/1183","text":"Karl R. Clauser"},{"@pid":"93/3386","text":"James E. Vath"}]},"title":"De Novo peptide sequencing via tandem mass spectrometry: a graph-theoretical approach.","venue":"RECOMB","pages":"135-144","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/DancikACV99","doi":"10.1145/299432.299471","ee":"https://doi.org/10.1145/299432.299471","url":"https://dblp.org/rec/conf/recomb/DancikACV99"},
+"url":"URL#7345337"
+},
+{
+"@score":"1",
+"@id":"7345338",
+"info":{"authors":{"author":[{"@pid":"75/1228","text":"Alan A. Dombkowski"},{"@pid":"89/451","text":"Gordon M. Crippen"}]},"title":"A solvation potential with improved contact definitions and optimized by extensive threading.","venue":"RECOMB","pages":"145-153","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/DombkowskiC99","doi":"10.1145/299432.299474","ee":"https://doi.org/10.1145/299432.299474","url":"https://dblp.org/rec/conf/recomb/DombkowskiC99"},
+"url":"URL#7345338"
+},
+{
+"@score":"1",
+"@id":"7345339",
+"info":{"authors":{"author":[{"@pid":"07/2749","text":"Nadia El-Mabrouk"},{"@pid":"67/4063","text":"David Bryant"},{"@pid":"66/977","text":"David Sankoff"}]},"title":"Reconstructing the pre-doubling genome.","venue":"RECOMB","pages":"154-163","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/El-MabroukBS99","doi":"10.1145/299432.299475","ee":"https://doi.org/10.1145/299432.299475","url":"https://dblp.org/rec/conf/recomb/El-MabroukBS99"},
+"url":"URL#7345339"
+},
+{
+"@score":"1",
+"@id":"7345340",
+"info":{"authors":{"author":[{"@pid":"18/5854","text":"Aris Floratos"},{"@pid":"14/6123","text":"Isidore Rigoutsos"},{"@pid":"61/5722","text":"Laxmi Parida"},{"@pid":"s/GStolovitzky","text":"Gustavo Stolovitzky"},{"@pid":"76/2452","text":"Yuan Gao"}]},"title":"Sequence homology detection through large scale pattern discovery.","venue":"RECOMB","pages":"164-169","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/FloratosRPSG99","doi":"10.1145/299432.299477","ee":"https://doi.org/10.1145/299432.299477","url":"https://dblp.org/rec/conf/recomb/FloratosRPSG99"},
+"url":"URL#7345340"
+},
+{
+"@score":"1",
+"@id":"7345341",
+"info":{"authors":{"author":[{"@pid":"70/2374","text":"Christian V. Forst"},{"@pid":"31/3141","text":"Klaus Schulten"}]},"title":"Evolution of metabolisms: a new method for the comparison of metabolic pathways.","venue":"RECOMB","pages":"174-181","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ForstS99","doi":"10.1145/299432.299481","ee":"https://doi.org/10.1145/299432.299481","url":"https://dblp.org/rec/conf/recomb/ForstS99"},
+"url":"URL#7345341"
+},
+{
+"@score":"1",
+"@id":"7345342",
+"info":{"authors":{"author":[{"@pid":"43/1016","text":"Gregory R. Grant"},{"@pid":"16/2230","text":"R. S. Spielman"},{"@pid":"83/5012","text":"Elisabetta Manduchi"},{"@pid":"18/3561","text":"Vivian G. Cheung"},{"@pid":"64/57","text":"Warren J. Ewens"}]},"title":"Significance testing for genomic mismatch scanning.","venue":"RECOMB","pages":"182-187","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/GrantSMCE99","doi":"10.1145/299432.299482","ee":"https://doi.org/10.1145/299432.299482","url":"https://dblp.org/rec/conf/recomb/GrantSMCE99"},
+"url":"URL#7345342"
+},
+{
+"@score":"1",
+"@id":"7345343",
+"info":{"authors":{"author":[{"@pid":"51/630","text":"Erez Hartuv"},{"@pid":"83/103","text":"Armin O. Schmitt"},{"@pid":"24/590","text":"Jörg Lange"},{"@pid":"39/6386","text":"Sebastian Meier-Ewert"},{"@pid":"79/2444","text":"Hans Lehrach"},{"@pid":"66/6913","text":"Ron Shamir"}]},"title":"An algorithm for clustering cDNAs for gene expression analysis.","venue":"RECOMB","pages":"188-197","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/HartuvSLMLS99","doi":"10.1145/299432.299483","ee":"https://doi.org/10.1145/299432.299483","url":"https://dblp.org/rec/conf/recomb/HartuvSLMLS99"},
+"url":"URL#7345343"
+},
+{
+"@score":"1",
+"@id":"7345344",
+"info":{"authors":{"author":[{"@pid":"03/1116","text":"Daniel H. Huson"},{"@pid":"71/3029","text":"Scott Nettles"},{"@pid":"w/TandyWarnow","text":"Tandy J. Warnow"}]},"title":"Obtaining highly accurate topology estimates of evolutionary trees from very short sequences.","venue":"RECOMB","pages":"198-207","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/HusonNW99","doi":"10.1145/299432.299484","ee":"https://doi.org/10.1145/299432.299484","url":"https://dblp.org/rec/conf/recomb/HusonNW99"},
+"url":"URL#7345344"
+},
+{
+"@score":"1",
+"@id":"7345345",
+"info":{"authors":{"author":[{"@pid":"k/RichardMKarp","text":"Richard M. Karp"},{"@pid":"11/2711","text":"Roland Stoughton"},{"@pid":"04/4452","text":"Ka Yee Yeung"}]},"title":"Algorithms for choosing differential gene expression experiments.","venue":"RECOMB","pages":"208-217","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KarpSY99","doi":"10.1145/299432.299485","ee":"https://doi.org/10.1145/299432.299485","url":"https://dblp.org/rec/conf/recomb/KarpSY99"},
+"url":"URL#7345345"
+},
+{
+"@score":"1",
+"@id":"7345346",
+"info":{"authors":{"author":[{"@pid":"53/7030","text":"Lawrence A. Kelley"},{"@pid":"25/4770","text":"Robert M. MacCallum"},{"@pid":"93/2269","text":"Michael J. E. Sternberg"}]},"title":"Recognition of remote protein homologies using three-dimensional information to generate a position specific scoring matrix in the program 3D-PSSM.","venue":"RECOMB","pages":"218-225","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KelleyMS99","doi":"10.1145/299432.299486","ee":"https://doi.org/10.1145/299432.299486","url":"https://dblp.org/rec/conf/recomb/KelleyMS99"},
+"url":"URL#7345346"
+},
+{
+"@score":"1",
+"@id":"7345347",
+"info":{"authors":{"author":{"@pid":"k/JonMKleinberg","text":"Jon M. Kleinberg"}},"title":"Efficient algorithms for protein sequence design and the analysis of certain evolutionary fitness landscapes.","venue":"RECOMB","pages":"226-237","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Kleinberg99","doi":"10.1145/299432.299487","ee":"https://doi.org/10.1145/299432.299487","url":"https://dblp.org/rec/conf/recomb/Kleinberg99"},
+"url":"URL#7345347"
+},
+{
+"@score":"1",
+"@id":"7345348",
+"info":{"authors":{"author":[{"@pid":"l/StevenMLaValle","text":"Steven M. LaValle"},{"@pid":"87/2313","text":"Paul W. Finn"},{"@pid":"k/LydiaEKavraki","text":"Lydia E. Kavraki"},{"@pid":"l/JCLatombe","text":"Jean-Claude Latombe"}]},"title":"Efficient database screening for rational drug design using pharmacophore-constrained conformational search.","venue":"RECOMB","pages":"250-260","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/LaValleFKL99","doi":"10.1145/299432.299489","ee":"https://doi.org/10.1145/299432.299489","url":"https://dblp.org/rec/conf/recomb/LaValleFKL99"},
+"url":"URL#7345348"
+},
+{
+"@score":"1",
+"@id":"7345349",
+"info":{"authors":{"author":{"@pid":"l/RHLathrop","text":"Richard H. Lathrop"}},"title":"An anytime algorithm for gapped block protein threading with pair interactions.","venue":"RECOMB","pages":"238-249","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Lathrop99","doi":"10.1145/299432.299488","ee":"https://doi.org/10.1145/299432.299488","url":"https://dblp.org/rec/conf/recomb/Lathrop99"},
+"url":"URL#7345349"
+},
+{
+"@score":"1",
+"@id":"7345350",
+"info":{"authors":{"author":[{"@pid":"86/401","text":"Rune B. Lyngsø"},{"@pid":"75/2590","text":"Michael Zuker"},{"@pid":"06/4038","text":"Christian N. S. Pedersen"}]},"title":"Internal loops in RNA secondary structure prediction.","venue":"RECOMB","pages":"260-267","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/LyngsoZP99","doi":"10.1145/299432.299490","ee":"https://doi.org/10.1145/299432.299490","url":"https://dblp.org/rec/conf/recomb/LyngsoZP99"},
+"url":"URL#7345350"
+},
+{
+"@score":"1",
+"@id":"7345351",
+"info":{"authors":{"author":[{"@pid":"39/3226","text":"Guy Mayraz"},{"@pid":"66/6913","text":"Ron Shamir"}]},"title":"Construction of physical maps from oligonucleotide fingerprints data.","venue":"RECOMB","pages":"268-277","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/MayrazS99","doi":"10.1145/299432.299497","ee":"https://doi.org/10.1145/299432.299497","url":"https://dblp.org/rec/conf/recomb/MayrazS99"},
+"url":"URL#7345351"
+},
+{
+"@score":"1",
+"@id":"7345352",
+"info":{"authors":{"author":[{"@pid":"47/5161","text":"Julie C. Mitchell"},{"@pid":"88/2205","text":"J. Ben Rosen"},{"@pid":"34/4006","text":"Andrew T. Phillips"},{"@pid":"50/5969","text":"Lynn F. Ten Eyck"}]},"title":"Coupled optimization in protein docking.","venue":"RECOMB","pages":"280-284","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/MitchellRPE99","doi":"10.1145/299432.299502","ee":"https://doi.org/10.1145/299432.299502","url":"https://dblp.org/rec/conf/recomb/MitchellRPE99"},
+"url":"URL#7345352"
+},
+{
+"@score":"1",
+"@id":"7345353",
+"info":{"authors":{"author":{"@pid":"82/2105","text":"John Moult"}},"title":"The past, present and future of protein structure prediction (abstract).","venue":"RECOMB","pages":"278","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Moult99","doi":"10.1145/299432.299500","ee":"https://doi.org/10.1145/299432.299500","url":"https://dblp.org/rec/conf/recomb/Moult99"},
+"url":"URL#7345353"
+},
+{
+"@score":"1",
+"@id":"7345354",
+"info":{"authors":{"author":{"@pid":"m/EugeneWMyers","text":"Gene Myers"}},"title":"Progress toward the whole-genome shotgun sequencing of Drosophila.","venue":"RECOMB","pages":"279","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Myers99","doi":"10.1145/299432.299501","ee":"https://doi.org/10.1145/299432.299501","url":"https://dblp.org/rec/conf/recomb/Myers99"},
+"url":"URL#7345354"
+},
+{
+"@score":"1",
+"@id":"7345355",
+"info":{"authors":{"author":[{"@pid":"52/2663","text":"Lior Pachter"},{"@pid":"b/SerafimBatzoglou","text":"Serafim Batzoglou"},{"@pid":"70/3104","text":"Valentin I. Spitkovsky"},{"@pid":"46/5700","text":"William S. Beebee"},{"@pid":"39/3633","text":"Eric S. Lander"},{"@pid":"b/BonnieBerger","text":"Bonnie Berger"},{"@pid":"08/5543","text":"Daniel J. Kleitman"}]},"title":"A dictionary based approach for gene annotation.","venue":"RECOMB","pages":"285-294","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/PachterBSBLBK99","doi":"10.1145/299432.299504","ee":"https://doi.org/10.1145/299432.299504","url":"https://dblp.org/rec/conf/recomb/PachterBSBLBK99"},
+"url":"URL#7345355"
+},
+{
+"@score":"1",
+"@id":"7345356",
+"info":{"authors":{"author":[{"@pid":"p/FPPreparata","text":"Franco P. Preparata"},{"@pid":"f/AlanMFrieze","text":"Alan M. Frieze"},{"@pid":"u/EliUpfal","text":"Eli Upfal"}]},"title":"On the power of universal bases in sequencing by hybridization.","venue":"RECOMB","pages":"295-301","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/PreparataFU99","doi":"10.1145/299432.299505","ee":"https://doi.org/10.1145/299432.299505","url":"https://dblp.org/rec/conf/recomb/PreparataFU99"},
+"url":"URL#7345356"
+},
+{
+"@score":"1",
+"@id":"7345357",
+"info":{"authors":{"author":[{"@pid":"66/977","text":"David Sankoff"},{"@pid":"b/MathieuBlanchette","text":"Mathieu Blanchette"}]},"title":"Probability models for genome rearrangement and linear invariants for phylogenetic inference.","venue":"RECOMB","pages":"302-309","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SankoffB99","doi":"10.1145/299432.299506","ee":"https://doi.org/10.1145/299432.299506","url":"https://dblp.org/rec/conf/recomb/SankoffB99"},
+"url":"URL#7345357"
+},
+{
+"@score":"1",
+"@id":"7345358",
+"info":{"authors":{"author":{"@pid":"15/2203","text":"Piotr P. Slonimski"}},"title":"Comparison of complete genomes: Organization and evolution (abstract).","venue":"RECOMB","pages":"310","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Slonimsky99","doi":"10.1145/299432.299507","ee":"https://doi.org/10.1145/299432.299507","url":"https://dblp.org/rec/conf/recomb/Slonimsky99"},
+"url":"URL#7345358"
+},
+{
+"@score":"1",
+"@id":"7345359",
+"info":{"authors":{"author":{"@pid":"40/5944","text":"Ed Southern"}},"title":"DNA microarrays - the how and the why.","venue":"RECOMB","pages":"311","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Southern99","doi":"10.1145/299432.299508","ee":"https://doi.org/10.1145/299432.299508","url":"https://dblp.org/rec/conf/recomb/Southern99"},
+"url":"URL#7345359"
+},
+{
+"@score":"1",
+"@id":"7345360",
+"info":{"authors":{"author":[{"@pid":"90/4458","text":"Sarah A. Teichmann"},{"@pid":"20/7162","text":"Jong-Chan Park"},{"@pid":"86/713","text":"Cyrus Chothia"}]},"title":"Genome sequences and protein structures.","venue":"RECOMB","pages":"114","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/TeichmannPC99","doi":"10.1145/299432.303134","ee":"https://doi.org/10.1145/299432.303134","url":"https://dblp.org/rec/conf/recomb/TeichmannPC99"},
+"url":"URL#7345360"
+},
+{
+"@score":"1",
+"@id":"7345361",
+"info":{"authors":{"author":[{"@pid":"19/4350","text":"Maxim Totrov"},{"@pid":"76/2556","text":"Ruben Abagyan"}]},"title":"Derivation of sensitive discrimination potential for virtual ligand screening.","venue":"RECOMB","pages":"312-320","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/TotrovA99","doi":"10.1145/299432.299509","ee":"https://doi.org/10.1145/299432.299509","url":"https://dblp.org/rec/conf/recomb/TotrovA99"},
+"url":"URL#7345361"
+},
+{
+"@score":"1",
+"@id":"7345362",
+"info":{"authors":{"author":{"@pid":"31/1768","text":"John C. Wooley"}},"title":"Trends in computational biology.","venue":"RECOMB","pages":"331","year":"1999","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Wooley99","doi":"10.1145/299432.299511","ee":"https://doi.org/10.1145/299432.299511","url":"https://dblp.org/rec/conf/recomb/Wooley99"},
+"url":"URL#7345362"
+},
+{
+"@score":"1",
+"@id":"7352844",
+"info":{"authors":{"author":[{"@pid":"59/460","text":"Sorin Istrail"},{"@pid":"p/PAPevzner","text":"Pavel A. Pevzner"},{"@pid":"w/MichaelSWaterman","text":"Michael S. Waterman"}]},"title":"Proceedings of the Third Annual International Conference on Research in Computational Molecular Biology, RECOMB 1999, Lyon, France, April 11-14, 1999","venue":"RECOMB","publisher":"ACM","year":"1999","type":"Editorship","key":"conf/recomb/1999","doi":"10.1145/299432","ee":"https://doi.org/10.1145/299432","url":"https://dblp.org/rec/conf/recomb/1999"},
+"url":"URL#7352844"
+}
+]
+}
+}
+}

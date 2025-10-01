@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+dynamical systems,observable quantities,0.9105,0.423
+observable quantities,predictions,0.4755,1.0242
+model,observable quantities,-0.2356,1.572
+dynamical systems,predictions,0.4001,1.0953
+dynamical systems,model,-0.1815,1.5372
+model,predictions,-0.6989,1.8433
+memory-PSRs,predictions,0.5453,0.9536
+memories,memory-PSRs,0.9199,0.4004
+memory-PSRs,model,-0.1033,1.4854
+memories,predictions,0.3162,1.1695
+memories,model,0.0136,1.4046
+dynamical systems,memories,0.9436,0.3359
+dynamical systems,landmarks,-0.0378,1.4407
+landmarks,memories,0.1635,1.2934
+landmarks,model,0.9055,0.4347
+detection,dynamical systems,-0.0555,1.4529
+detection,memories,0.1307,1.3186
+detection,landmarks,0.9249,0.3875
+detection,model,0.9607,0.2802
+dynamical systems,memory-PSRs,0.845,0.5569
+landmarks,memory-PSRs,0.0638,1.3683
+detection,memory-PSRs,-0.0324,1.4369

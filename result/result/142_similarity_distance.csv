@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+competitive online scheduling algorithms,servers,0.9161,0.4096
+competitive online scheduling algorithms,customers,0.917,0.4074
+customers,servers,0.994,0.1093
+First-Come-First-Served,servers,0.0523,1.3768
+First-Come-First-Served,customers,0.0513,1.3775
+game,servers,0.3129,1.1723
+customers,game,0.2627,1.2143
+First-Come-First-Served,game,-0.2595,1.5871
+non-Bayesian,servers,0.6479,0.8392
+customers,non-Bayesian,0.6504,0.8362
+First-Come-First-Served,non-Bayesian,0.7578,0.696
+game,non-Bayesian,-0.1065,1.4876
+safety-level equilibrium,servers,0.0289,1.3936
+customers,safety-level equilibrium,0.0238,1.3973
+game,safety-level equilibrium,-0.2146,1.5586
+non-Bayesian,safety-level equilibrium,0.7417,0.7188
+competitive ratio,servers,0.0114,1.4061
+competitive ratio,safety-level equilibrium,-0.155,1.5199

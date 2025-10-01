@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+deep learning,stochastic optimization,-0.018,1.4269
+parallel computing,stochastic optimization,0.8592,0.5307
+communication constraints,stochastic optimization,-0.0609,1.4566
+elastic force,stochastic optimization,0.007,1.4092
+deep learning,parallel computing,-0.2802,1.6001
+communication constraints,deep learning,-0.0729,1.4649
+deep learning,elastic force,0.0214,1.399
+communication constraints,parallel computing,0.0008,1.4136
+elastic force,parallel computing,0.1493,1.3044
+communication constraints,elastic force,-0.2404,1.575
+asynchronous,deep learning,-0.2762,1.5976
+deep learning,synchronous,-0.3801,1.6614
+asynchronous,synchronous,0.9457,0.3297
+deep learning,stability analysis,-0.3239,1.6272
+asynchronous,stability analysis,0.9748,0.2244
+stability analysis,synchronous,0.9484,0.3211
+EASGD,asynchronous,-0.2411,1.5755
+EASGD,synchronous,-0.204,1.5518
+EASGD,stability analysis,-0.2311,1.5691
+CIFAR,asynchronous,-0.1012,1.4841
+CIFAR,synchronous,-0.0118,1.4225
+CIFAR,EASGD,0.1987,1.266

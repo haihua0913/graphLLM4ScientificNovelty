@@ -1,0 +1,43 @@
+node1,node2,similarity,distance
+Reward,reinforcement-learning agents,-0.0543,1.4521
+Reward,expressivity,-0.0633,1.4583
+expressivity,reinforcement-learning agents,0.999,0.0447
+Reward,task,0.0039,1.4114
+Reward,set of acceptable behaviors,0.0193,1.4005
+Reward,partial ordering,-0.0758,1.4669
+Reward,behaviors,-0.0612,1.4568
+Reward,trajectories,-0.0713,1.4638
+reinforcement-learning agents,task,-0.2428,1.5766
+reinforcement-learning agents,set of acceptable behaviors,-0.16,1.5232
+partial ordering,reinforcement-learning agents,0.999,0.0451
+behaviors,reinforcement-learning agents,0.9679,0.2533
+reinforcement-learning agents,trajectories,0.9974,0.0725
+expressivity,task,-0.2177,1.5606
+expressivity,set of acceptable behaviors,-0.1368,1.5079
+expressivity,partial ordering,0.9997,0.0248
+behaviors,expressivity,0.9651,0.2641
+expressivity,trajectories,0.9956,0.0936
+set of acceptable behaviors,task,0.9912,0.133
+partial ordering,task,-0.2272,1.5667
+behaviors,task,-0.1727,1.5315
+task,trajectories,-0.2607,1.5879
+partial ordering,set of acceptable behaviors,-0.1456,1.5137
+behaviors,set of acceptable behaviors,-0.0755,1.4666
+set of acceptable behaviors,trajectories,-0.1777,1.5348
+behaviors,partial ordering,0.9662,0.2601
+partial ordering,trajectories,0.9965,0.0831
+behaviors,trajectories,0.9724,0.2348
+Markov reward function,Reward,-0.2496,1.5809
+Markov reward function,expressivity,0.9502,0.3156
+Markov reward function,task,-0.2469,1.5792
+Markov reward function,set of acceptable behaviors,-0.1521,1.5179
+Markov reward function,partial ordering,0.9562,0.2959
+Markov reward function,behaviors,0.9675,0.2551
+Markov reward function,trajectories,0.9613,0.2784
+Reward,polynomial-time algorithms,-0.0784,1.4686
+polynomial-time algorithms,task,-0.2386,1.5739
+polynomial-time algorithms,set of acceptable behaviors,-0.1453,1.5135
+partial ordering,polynomial-time algorithms,0.9868,0.1627
+behaviors,polynomial-time algorithms,0.987,0.161
+polynomial-time algorithms,trajectories,0.9901,0.1407
+Markov reward function,polynomial-time algorithms,0.9774,0.2125

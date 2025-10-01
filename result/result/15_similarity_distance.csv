@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+Rubik's Cube,median optimal solution length,-0.2058,1.5529
+Rubik's Cube,lower-bound heuristic function,0.0657,1.367
+Rubik's Cube,memory-based lookup tables,0.8572,0.5345
+Rubik's Cube,pattern databases,0.9782,0.2086
+lower-bound heuristic function,median optimal solution length,0.9175,0.4063
+median optimal solution length,memory-based lookup tables,-0.2092,1.5551
+median optimal solution length,pattern databases,-0.2488,1.5804
+lower-bound heuristic function,memory-based lookup tables,0.0482,1.3797
+lower-bound heuristic function,pattern databases,0.0315,1.3917
+memory-based lookup tables,pattern databases,0.8371,0.5708
+median optimal solution length,subgoals,0.8985,0.4506
+lower-bound heuristic function,subgoals,0.9387,0.3501
+memory-based lookup tables,subgoals,-0.1013,1.4841
+pattern databases,subgoals,0.0421,1.3842
+lower-bound heuristic function,state space,0.1005,1.3412
+memory-based lookup tables,state space,0.8036,0.6267
+pattern databases,state space,0.9711,0.2404
+state space,subgoals,0.1222,1.325

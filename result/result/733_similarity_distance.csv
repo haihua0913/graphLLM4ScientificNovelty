@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+catastrophic forgetting,continual learning,0.0399,1.3857
+continual learning,deep networks,0.0978,1.3433
+catastrophic forgetting,deep networks,0.0556,1.3743
+continual learning,multiple teachers,0.7651,0.6854
+catastrophic forgetting,multiple teachers,-0.1333,1.5055
+continual learning,transfer,-0.3378,1.6357
+multiple teachers,transfer,-0.1658,1.527
+multiple teachers,task similarity,0.0298,1.393
+task similarity,transfer,-0.3962,1.671
+feature similarity,task similarity,-0.3036,1.6147
+feature similarity,transfer,-0.1604,1.5234
+readouts,task similarity,-0.5452,1.7579
+feature similarity,readouts,0.0549,1.3748
+long-term transfer/forgetting,task similarity,-0.2411,1.5755
+feature similarity,long-term transfer/forgetting,0.3134,1.1718
+readouts,transfer,0.3678,1.1245
+long-term transfer/forgetting,transfer,-0.0534,1.4515
+long-term transfer/forgetting,readouts,-0.181,1.5369
+catastrophic forgetting,task similarity,-0.1591,1.5225
+catastrophic forgetting,transfer,0.179,1.2814
+catastrophic forgetting,readouts,0.4225,1.0747
+catastrophic forgetting,long-term transfer/forgetting,-0.1346,1.5064

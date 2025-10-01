@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+Vulnerability of Deep Neural Networks,adversarial attacks,0.3888,1.1056
+Vulnerability of Deep Neural Networks,universal adversarial perturbations,0.461,1.0383
+Vulnerability of Deep Neural Networks,image classification,0.6073,0.8862
+adversarial attacks,universal adversarial perturbations,0.9009,0.4452
+adversarial attacks,image classification,0.8755,0.499
+image classification,universal adversarial perturbations,0.9609,0.2795
+Jacobian matrices,universal adversarial perturbations,-0.3202,1.6249
+singular vectors,universal adversarial perturbations,-0.4475,1.7015
+Jacobian matrices,image classification,-0.2354,1.5719
+image classification,singular vectors,-0.3776,1.6599
+Jacobian matrices,singular vectors,0.9437,0.3356
+Jacobian matrices,fooling rate,0.9011,0.4447
+Jacobian matrices,visual patterns,0.9271,0.3817
+fooling rate,singular vectors,0.985,0.1729
+singular vectors,visual patterns,0.978,0.21
+fooling rate,visual patterns,0.9724,0.2348
+Jacobian matrices,generalize across networks,-0.2354,1.5719
+generalize across networks,singular vectors,-0.3776,1.6599
+fooling rate,generalize across networks,-0.3035,1.6146
+generalize across networks,visual patterns,-0.2671,1.5919

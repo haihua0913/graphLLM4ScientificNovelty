@@ -1,0 +1,482 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/chase/chase2017.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"77.21"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"75",
+"@dc":"75",
+"@oc":"75",
+"@id":"48877908",
+"text":":facetid:toc:db/conf/chase/chase2017.bht"
+}
+},
+"hits":{
+"@total":"75",
+"@computed":"75",
+"@sent":"75",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3672489",
+"info":{"authors":{"author":[{"@pid":"205/8095","text":"Ridwan Alam"},{"@pid":"217/9183","text":"Joshua Dugan"},{"@pid":"217/9615","text":"Nutta Homdee"},{"@pid":"203/4851","text":"Neeraj Gandhi"},{"@pid":"217/9320","text":"Benjamin Ghaemmaghami"},{"@pid":"217/9171","text":"Harshitha Meda"},{"@pid":"88/10695","text":"Azziza Bankole"},{"@pid":"251/5748","text":"Martha S. Anderson"},{"@pid":"133/9381","text":"Jiaqi Gong"},{"@pid":"88/732","text":"Tonya L. Smith-Jackson"},{"@pid":"07/3021","text":"John C. Lach"}]},"title":"BESI: Reliable and Heterogeneous Sensing and Intervention for In-home Health Applications.","venue":"CHASE","pages":"147-156","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/AlamDHGGMBAGSL17","doi":"10.1109/CHASE.2017.73","ee":"https://doi.org/10.1109/CHASE.2017.73","url":"https://dblp.org/rec/conf/chase/AlamDHGGMBAGSL17"},
+"url":"URL#3672489"
+},
+{
+"@score":"1",
+"@id":"3672490",
+"info":{"authors":{"author":[{"@pid":"179/3220","text":"Musaab Alaziz"},{"@pid":"141/7630","text":"Zhenhua Jia"},{"@pid":"26/1455","text":"Richard E. Howard"},{"@pid":"59/554-4","text":"Xiaodong Lin 0004"},{"@pid":"44/2799","text":"Yanyong Zhang"}]},"title":"MotionTree: A Tree-Based In-Bed Body Motion Classification System Using Load-Cells.","venue":"CHASE","pages":"127-136","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/AlazizJHLZ17","doi":"10.1109/CHASE.2017.71","ee":"https://doi.org/10.1109/CHASE.2017.71","url":"https://dblp.org/rec/conf/chase/AlazizJHLZ17"},
+"url":"URL#3672490"
+},
+{
+"@score":"1",
+"@id":"3672491",
+"info":{"authors":{"author":[{"@pid":"197/0145","text":"Murtadha M. N. Aldeer"},{"@pid":"55/3942","text":"Richard P. Martin"},{"@pid":"26/1455","text":"Richard E. Howard"}]},"title":"Tackling the Fidelity-Energy Trade-Off in Wireless Body Sensor Networks.","venue":"CHASE","pages":"7-12","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/AldeerMH17","doi":"10.1109/CHASE.2017.52","ee":"https://doi.org/10.1109/CHASE.2017.52","url":"https://dblp.org/rec/conf/chase/AldeerMH17"},
+"url":"URL#3672491"
+},
+{
+"@score":"1",
+"@id":"3672492",
+"info":{"authors":{"author":[{"@pid":"167/2308","text":"Mohammed Aledhari"},{"@pid":"78/10099","text":"Ali F. Marhoon"},{"@pid":"217/9252","text":"Ali Hamad"},{"@pid":"51/3307","text":"Fahad Saeed"}]},"title":"A New Cryptography Algorithm to Protect Cloud-Based Healthcare Services.","venue":"CHASE","pages":"37-43","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/AledhariMHS17","doi":"10.1109/CHASE.2017.57","ee":"https://doi.org/10.1109/CHASE.2017.57","url":"https://dblp.org/rec/conf/chase/AledhariMHS17"},
+"url":"URL#3672492"
+},
+{
+"@score":"1",
+"@id":"3672493",
+"info":{"authors":{"author":[{"@pid":"217/9595","text":"Nada Alharbi"},{"@pid":"65/1700","text":"Yu Liang"},{"@pid":"63/6682","text":"Dalei Wu"}]},"title":"A Data Preprocessing Technique for Gesture Recognition Based on Extended-Kalman-Filter.","venue":"CHASE","pages":"77-83","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/AlharbiLW17","doi":"10.1109/CHASE.2017.63","ee":"https://doi.org/10.1109/CHASE.2017.63","url":"https://dblp.org/rec/conf/chase/AlharbiLW17"},
+"url":"URL#3672493"
+},
+{
+"@score":"1",
+"@id":"3672494",
+"info":{"authors":{"author":[{"@pid":"60/10573","text":"Hussain M. J. Almohri"},{"@pid":"49/225-5","text":"Long Cheng 0005"},{"@pid":"y/DanfengYao","text":"Danfeng Yao"},{"@pid":"80/7769","text":"Homa Alemzadeh"}]},"title":"On Threat Modeling and Mitigation of Medical Cyber-Physical Systems.","venue":"CHASE","pages":"114-119","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/AlmohriCYA17","doi":"10.1109/CHASE.2017.69","ee":"https://doi.org/10.1109/CHASE.2017.69","url":"https://dblp.org/rec/conf/chase/AlmohriCYA17"},
+"url":"URL#3672494"
+},
+{
+"@score":"1",
+"@id":"3672495",
+"info":{"authors":{"author":[{"@pid":"139/1829","text":"Rabindra K. Barik"},{"@pid":"170/1691","text":"Harishchandra Dubey"},{"@pid":"217/9393","text":"Sapana Sasane"},{"@pid":"57/4222","text":"Chinmaya Misra"},{"@pid":"169/6728","text":"Nicholas Constant"},{"@pid":"56/10629","text":"Kunal Mankodiya"}]},"title":"Fog2Fog: Augmenting Scalability in Fog Computing for Health GIS Systems.","venue":"CHASE","pages":"241-242","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/BarikDSMCM17","doi":"10.1109/CHASE.2017.83","ee":"https://doi.org/10.1109/CHASE.2017.83","url":"https://dblp.org/rec/conf/chase/BarikDSMCM17"},
+"url":"URL#3672495"
+},
+{
+"@score":"1",
+"@id":"3672496",
+"info":{"authors":{"author":[{"@pid":"183/5002","text":"Chris M. Buonocore"},{"@pid":"217/9544","text":"Rosemary A. Rocchio"},{"@pid":"217/9436","text":"Alfonso Roman"},{"@pid":"117/9342","text":"Christine E. King"},{"@pid":"s/MajidSarrafzadeh","text":"Majid Sarrafzadeh"}]},"title":"Wireless Sensor-Dependent Ecological Momentary Assessment for Pediatric Asthma mHealth Applications.","venue":"CHASE","pages":"137-146","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/BuonocoreRRKS17","doi":"10.1109/CHASE.2017.72","ee":"https://doi.org/10.1109/CHASE.2017.72","url":"https://dblp.org/rec/conf/chase/BuonocoreRRKS17"},
+"url":"URL#3672496"
+},
+{
+"@score":"1",
+"@id":"3672497",
+"info":{"authors":{"author":[{"@pid":"145/7760","text":"Hang Cai"},{"@pid":"53/6806","text":"Krishna K. Venkatasubramanian"}]},"title":"Patient Identity Verification Based on Physiological Signal Fusion.","venue":"CHASE","pages":"90-95","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/CaiV17","doi":"10.1109/CHASE.2017.65","ee":"https://doi.org/10.1109/CHASE.2017.65","url":"https://dblp.org/rec/conf/chase/CaiV17"},
+"url":"URL#3672497"
+},
+{
+"@score":"1",
+"@id":"3672498",
+"info":{"authors":{"author":[{"@pid":"10/524","text":"Hung-Yang Chang"},{"@pid":"76/6479","text":"Zhiguo Li"},{"@pid":"136/5374","text":"Subhro Das"},{"@pid":"49/4117","text":"Tian Hao"},{"@pid":"217/9270","text":"Chandramouli Maduri"},{"@pid":"217/9658","text":"Chohreh Partovian"},{"@pid":"279/0921","text":"James V. Codella"},{"@pid":"16/8545","text":"Ching-Hua Chen"}]},"title":"A Personalized Pacing System for Real-Time Physical Activity Advising.","venue":"CHASE","pages":"266-267","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ChangLDHMPCC17","doi":"10.1109/CHASE.2017.95","ee":"https://doi.org/10.1109/CHASE.2017.95","url":"https://dblp.org/rec/conf/chase/ChangLDHMPCC17"},
+"url":"URL#3672498"
+},
+{
+"@score":"1",
+"@id":"3672499",
+"info":{"authors":{"author":[{"@pid":"145/9455","text":"Diliang Chen"},{"@pid":"99/6879","text":"Jia Chen"},{"@pid":"180/0691","text":"Haotian Jiang"},{"@pid":"93/10077","text":"Ming-Chun Huang"}]},"title":"Risk Factors Identification for Work-Related Musculoskeletal Disorders with Wearable and Connected Gait Analytics System.","venue":"CHASE","pages":"330-339","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ChenCJH17","doi":"10.1109/CHASE.2017.116","ee":"https://doi.org/10.1109/CHASE.2017.116","url":"https://dblp.org/rec/conf/chase/ChenCJH17"},
+"url":"URL#3672499"
+},
+{
+"@score":"1",
+"@id":"3672500",
+"info":{"authors":{"author":[{"@pid":"15/11061","text":"Wei-Yi Cheng"},{"@pid":"217/9571","text":"Alf Scotland"},{"@pid":"24/11165","text":"Florian Lipsmeier"},{"@pid":"217/9556","text":"Timothy Kilchenmann"},{"@pid":"123/7966","text":"Liping Jin"},{"@pid":"217/9539","text":"Jens Schjodt-Eriksen"},{"@pid":"06/6112","text":"Detlef Wolf"},{"@pid":"196/8756","text":"Yan-Ping Zhang Schärer"},{"@pid":"37/7168","text":"Ignacio Fernández García"},{"@pid":"32/8408","text":"Juliane Siebourg-Polster"},{"@pid":"217/9645","text":"Jay Soto"},{"@pid":"217/9555","text":"Lynne Verselis"},{"@pid":"80/11500","text":"Meret Martin-Facklam"},{"@pid":"217/9354","text":"Frank Boess"},{"@pid":"217/9675","text":"Martin Koller"},{"@pid":"217/9276","text":"Michael Grundman"},{"@pid":"89/11386","text":"Andreas U. Monsch"},{"@pid":"217/9267","text":"Ron Postuma"},{"@pid":"217/9373","text":"Anirvan Ghosh"},{"@pid":"157/8157","text":"Thomas Kremer"},{"@pid":"52/9730","text":"Kirsten I. Taylor"},{"@pid":"217/9322","text":"Christian Czech"},{"@pid":"217/9678","text":"Christian Gossens"},{"@pid":"217/9195","text":"Michael Lindemann"}]},"title":"Human Activity Recognition from Sensor-Based Large-Scale Continuous Monitoring of Parkinson&apos;s Disease Patients.","venue":"CHASE","pages":"249-250","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ChengSLKJSWSGSS17","doi":"10.1109/CHASE.2017.87","ee":"https://doi.org/10.1109/CHASE.2017.87","url":"https://dblp.org/rec/conf/chase/ChengSLKJSWSGSS17"},
+"url":"URL#3672500"
+},
+{
+"@score":"1",
+"@id":"3672501",
+"info":{"authors":{"author":[{"@pid":"217/9472","text":"Sylvie Claes"},{"@pid":"217/9303","text":"Miguel Cabral Guerra"},{"@pid":"122/5133","text":"Jiachun Du"},{"@pid":"217/9704","text":"Lisa Malou Smits"},{"@pid":"217/9628","text":"Deedee Kommers"},{"@pid":"76/7414","text":"Sidarto Bambang Oetomo"}]},"title":"Hugsy: A Comforting Solution for Preterm Neonates Designed to Enhance Parent-Child Bonding.","venue":"CHASE","pages":"177-184","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ClaesGDSKO17","doi":"10.1109/CHASE.2017.76","ee":"https://doi.org/10.1109/CHASE.2017.76","url":"https://dblp.org/rec/conf/chase/ClaesGDSKO17"},
+"url":"URL#3672501"
+},
+{
+"@score":"1",
+"@id":"3672502",
+"info":{"authors":{"author":[{"@pid":"06/10794","text":"Iván Contreras"},{"@pid":"54/1262","text":"Josep Vehí"},{"@pid":"171/9021","text":"Roberto Visentin"},{"@pid":"171/7890","text":"Martina Vettoretti"}]},"title":"A Hybrid Clustering Prediction for Type 1 Diabetes Aid: Towards Decision Support Systems Based upon Scenario Profile Analysis.","venue":"CHASE","pages":"64-69","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ContrerasVVV17","doi":"10.1109/CHASE.2017.61","ee":"https://doi.org/10.1109/CHASE.2017.61","url":"https://dblp.org/rec/conf/chase/ContrerasVVV17"},
+"url":"URL#3672502"
+},
+{
+"@score":"1",
+"@id":"3672503",
+"info":{"authors":{"author":[{"@pid":"169/6766","text":"Jean-Francois Daneault"},{"@pid":"35/11104","text":"Sunghoon Ivan Lee"},{"@pid":"171/7298","text":"Fatemeh Noushin Golabchi"},{"@pid":"54/31","text":"Shyamal Patel"},{"@pid":"116/3440","text":"Ludy C. Shih"},{"@pid":"171/8242","text":"Sabrina Paganoni"},{"@pid":"37/6693","text":"Paolo Bonato"}]},"title":"Estimating Bradykinesia in Parkinson&apos;s Disease with a Minimum Number of Wearable Sensors.","venue":"CHASE","pages":"264-265","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/DaneaultLGPSPB17","doi":"10.1109/CHASE.2017.94","ee":"https://doi.org/10.1109/CHASE.2017.94","url":"https://dblp.org/rec/conf/chase/DaneaultLGPSPB17"},
+"url":"URL#3672503"
+},
+{
+"@score":"1",
+"@id":"3672504",
+"info":{"authors":{"author":[{"@pid":"217/9657","text":"Eric Ding 0001"},{"@pid":"59/9902-4","text":"Dongqi Liu 0004"},{"@pid":"217/8382","text":"Apurv Soni"},{"@pid":"217/9264","text":"Oluwaseun Adaramola"},{"@pid":"03/278","text":"Dong Han"},{"@pid":"168/6903","text":"Syed Khairul Bashar"},{"@pid":"96/9207","text":"Yeon-Sik Noh"},{"@pid":"21/10653","text":"Ki H. Chon"},{"@pid":"93/11395","text":"David D. McManus"}]},"title":"Impressions of Older Patients with Cardiovascular Diseases to Smart Devices for Heart Rhythm Monitoring.","venue":"CHASE","pages":"270-271","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/DingLSAHBNCM17","doi":"10.1109/CHASE.2017.97","ee":"https://doi.org/10.1109/CHASE.2017.97","url":"https://dblp.org/rec/conf/chase/DingLSAHBNCM17"},
+"url":"URL#3672504"
+},
+{
+"@score":"1",
+"@id":"3672505",
+"info":{"authors":{"author":[{"@pid":"186/4152","text":"Yuxi Dong"},{"@pid":"186/3867","text":"Yuchao Pan"},{"@pid":"29/4190","text":"Jun Zhang"},{"@pid":"32/1213-5","text":"Wei Xu 0005"}]},"title":"Learning to Read Chest X-Ray Images from 16000+ Examples Using CNN.","venue":"CHASE","pages":"51-57","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/DongPZX17","doi":"10.1109/CHASE.2017.59","ee":"https://doi.org/10.1109/CHASE.2017.59","url":"https://dblp.org/rec/conf/chase/DongPZX17"},
+"url":"URL#3672505"
+},
+{
+"@score":"1",
+"@id":"3672506",
+"info":{"authors":{"author":[{"@pid":"217/9374","text":"Penglin Dong"},{"@pid":"79/1394","text":"Weichao Wang"},{"@pid":"56/4047","text":"Xinghua Shi"},{"@pid":"94/4838","text":"Tuanfa Qin"}]},"title":"Lightweight Key Management for Group Communication in Body Area Networks through Physical Unclonable Functions.","venue":"CHASE","pages":"102-107","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/DongWSQ17","doi":"10.1109/CHASE.2017.67","ee":"https://doi.org/10.1109/CHASE.2017.67","url":"https://dblp.org/rec/conf/chase/DongWSQ17"},
+"url":"URL#3672506"
+},
+{
+"@score":"1",
+"@id":"3672507",
+"info":{"authors":{"author":[{"@pid":"170/1691","text":"Harishchandra Dubey"},{"@pid":"169/6728","text":"Nicholas Constant"},{"@pid":"56/10629","text":"Kunal Mankodiya"}]},"title":"RESPIRE: A Spectral Kurtosis-Based Method to Extract Respiration Rate from Wearable PPG Signals.","venue":"CHASE","pages":"84-89","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/DubeyCM17","doi":"10.1109/CHASE.2017.64","ee":"https://doi.org/10.1109/CHASE.2017.64","url":"https://dblp.org/rec/conf/chase/DubeyCM17"},
+"url":"URL#3672507"
+},
+{
+"@score":"1",
+"@id":"3672508",
+"info":{"authors":{"author":[{"@pid":"90/7398","text":"Dawei Fan"},{"@pid":"133/9381","text":"Jiaqi Gong"},{"@pid":"217/9320","text":"Benjamin Ghaemmaghami"},{"@pid":"217/9518","text":"Anyi Zhang"},{"@pid":"07/3021","text":"John C. Lach"},{"@pid":"217/9370","text":"David B. Peden"}]},"title":"Characterizing and Calibrating Low-Cost Wearable Ozone Sensors in Dynamic Environments.","venue":"CHASE","pages":"300-301","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/FanGGZLP17","doi":"10.1109/CHASE.2017.112","ee":"https://doi.org/10.1109/CHASE.2017.112","url":"https://dblp.org/rec/conf/chase/FanGGZLP17"},
+"url":"URL#3672508"
+},
+{
+"@score":"1",
+"@id":"3672509",
+"info":{"authors":{"author":[{"@pid":"217/9315","text":"Xiaoce Feng"},{"@pid":"22/2379","text":"Ming Dong"},{"@pid":"209/0613","text":"Philip Levy"},{"@pid":"07/4630","text":"Yong Xu"}]},"title":"Non-contact Home Health Monitoring Based on Low-Cost High-Performance Accelerometers.","venue":"CHASE","pages":"356-364","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/FengDLX17","doi":"10.1109/CHASE.2017.119","ee":"https://doi.org/10.1109/CHASE.2017.119","url":"https://dblp.org/rec/conf/chase/FengDLX17"},
+"url":"URL#3672509"
+},
+{
+"@score":"1",
+"@id":"3672510",
+"info":{"authors":{"author":[{"@pid":"151/8708","text":"Hossein Fereidooni"},{"@pid":"189/1758","text":"Tommaso Frassetto"},{"@pid":"05/617","text":"Markus Miettinen"},{"@pid":"s/AhmadRezaSadeghi","text":"Ahmad-Reza Sadeghi"},{"@pid":"82/4386","text":"Mauro Conti"}]},"title":"Fitness Trackers: Fit for Health but Unfit for Security and Privacy.","venue":"CHASE","pages":"19-24","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/FereidooniFMSC17","doi":"10.1109/CHASE.2017.54","ee":"https://doi.org/10.1109/CHASE.2017.54","url":"https://dblp.org/rec/conf/chase/FereidooniFMSC17"},
+"url":"URL#3672510"
+},
+{
+"@score":"1",
+"@id":"3672511",
+"info":{"authors":{"author":[{"@pid":"57/10000","text":"George Grispos"},{"@pid":"72/6449","text":"William Bradley Glisson"},{"@pid":"c/KimKwangRaymondChoo","text":"Kim-Kwang Raymond Choo"}]},"title":"Medical Cyber-Physical Systems Development: A Forensics-Driven Approach.","venue":"CHASE","pages":"108-113","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/GrisposGC17","doi":"10.1109/CHASE.2017.68","ee":"https://doi.org/10.1109/CHASE.2017.68","url":"https://dblp.org/rec/conf/chase/GrisposGC17"},
+"url":"URL#3672511"
+},
+{
+"@score":"1",
+"@id":"3672512",
+"info":{"authors":{"author":[{"@pid":"194/7014","text":"Mohammad Hadian"},{"@pid":"194/6940","text":"Thamer Altuwaiyan"},{"@pid":"92/3528","text":"Xiaohui Liang"},{"@pid":"64/6025-69","text":"Wei Li 0069"}]},"title":"Efficient and Privacy-Preserving Voice-Based Search over mHealth Data.","venue":"CHASE","pages":"96-101","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/HadianALL17","doi":"10.1109/CHASE.2017.66","ee":"https://doi.org/10.1109/CHASE.2017.66","url":"https://dblp.org/rec/conf/chase/HadianALL17"},
+"url":"URL#3672512"
+},
+{
+"@score":"1",
+"@id":"3672513",
+"info":{"authors":{"author":[{"@pid":"217/9494","text":"Noah Hammarlund"},{"@pid":"19/1038","text":"Sriraam Natarajan"}]},"title":"Does Race Play a Role in Invasive Procedure Treatments? An Initial Analysis.","venue":"CHASE","pages":"243-244","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/HammarlundN17","doi":"10.1109/CHASE.2017.84","ee":"https://doi.org/10.1109/CHASE.2017.84","url":"https://dblp.org/rec/conf/chase/HammarlundN17"},
+"url":"URL#3672513"
+},
+{
+"@score":"1",
+"@id":"3672514",
+"info":{"authors":{"author":[{"@pid":"69/6357","text":"Qian He"},{"@pid":"23/3629","text":"Emmanuel O. Agu"}]},"title":"A Rhythm Analysis-Based Model to Predict Sedentary Behaviors.","venue":"CHASE","pages":"383-391","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/HeA17","doi":"10.1109/CHASE.2017.122","ee":"https://doi.org/10.1109/CHASE.2017.122","url":"https://dblp.org/rec/conf/chase/HeA17"},
+"url":"URL#3672514"
+},
+{
+"@score":"1",
+"@id":"3672515",
+"info":{"authors":{"author":[{"@pid":"64/5820-2","text":"Mohammad Hosseini 0002"},{"@pid":"132/8232","text":"Richard R. Berlin"},{"@pid":"21/4633-1","text":"Yu Jiang 0001"},{"@pid":"67/5282","text":"Lui Sha"}]},"title":"Adaptive Clinical Data Communication for Remote Monitoring in Rural Ambulance Transport.","venue":"CHASE","pages":"245-246","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/HosseiniBJS17","doi":"10.1109/CHASE.2017.85","ee":"https://doi.org/10.1109/CHASE.2017.85","url":"https://dblp.org/rec/conf/chase/HosseiniBJS17"},
+"url":"URL#3672515"
+},
+{
+"@score":"1",
+"@id":"3672516",
+"info":{"authors":{"author":[{"@pid":"75/4070","text":"Yannis Katsis"},{"@pid":"79/9989","text":"Natasha Balac"},{"@pid":"181/1505","text":"Derek Chapman"},{"@pid":"217/9708","text":"Madhur Kapoor"},{"@pid":"164/9640","text":"Jessica Block"},{"@pid":"g/WilliamGGriswold","text":"William G. Griswold"},{"@pid":"30/219","text":"Jeannie Huang"},{"@pid":"199/8954","text":"Nikos Koulouris"},{"@pid":"47/6388","text":"Massimiliano Menarini"},{"@pid":"57/3451","text":"Viswanath Nandigam"},{"@pid":"217/9584","text":"Mandy Ngo"},{"@pid":"39/1521","text":"Kian Win Ong"},{"@pid":"p/YPapakonstantinou","text":"Yannis Papakonstantinou"},{"@pid":"217/9583","text":"Besa Smith"},{"@pid":"217/9670","text":"Konstantinos Zarifis"},{"@pid":"127/5773","text":"Steven H. Woolf"},{"@pid":"05/531","text":"Kevin Patrick"}]},"title":"Big Data Techniques for Public Health: A Case Study.","venue":"CHASE","pages":"222-231","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/KatsisBCKBGHKMN17","doi":"10.1109/CHASE.2017.81","ee":"https://doi.org/10.1109/CHASE.2017.81","url":"https://dblp.org/rec/conf/chase/KatsisBCKBGHKMN17"},
+"url":"URL#3672516"
+},
+{
+"@score":"1",
+"@id":"3672517",
+"info":{"authors":{"author":[{"@pid":"200/3632","text":"Jisan Lee"},{"@pid":"204/6871","text":"Hyeongju Ryu"},{"@pid":"200/3655","text":"Ahjung Byun"},{"@pid":"217/9568","text":"Yeonji Ko"},{"@pid":"41/2263","text":"Jeongeun Kim"}]},"title":"Method for Selection of the Best Application for Women&apos;s Health.","venue":"CHASE","pages":"294-295","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/LeeRBKK17","doi":"10.1109/CHASE.2017.109","ee":"https://doi.org/10.1109/CHASE.2017.109","url":"https://dblp.org/rec/conf/chase/LeeRBKK17"},
+"url":"URL#3672517"
+},
+{
+"@score":"1",
+"@id":"3672518",
+"info":{"authors":{"author":[{"@pid":"217/9287","text":"Mario F. Li"},{"@pid":"00/4883","text":"Jun Feng"}]},"title":"Healthcare Road Map to Modernization in Clouds: Healthcare Forum for Healthcare Professionals, Medical Device Manufacturers, Pharmaceutical Companies and Average People on Virtual Private Clouds.","venue":"CHASE","pages":"247-248","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/LiF17","doi":"10.1109/CHASE.2017.86","ee":"https://doi.org/10.1109/CHASE.2017.86","url":"https://dblp.org/rec/conf/chase/LiF17"},
+"url":"URL#3672518"
+},
+{
+"@score":"1",
+"@id":"3672519",
+"info":{"authors":{"author":[{"@pid":"82/1763-6","text":"Xian Li 0006"},{"@pid":"29/795","text":"Ye Sun"}]},"title":"NCMB-Button: A Wearable Non-contact System for Long-Term Multiple Biopotential Monitoring.","venue":"CHASE","pages":"348-355","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/LiS17","doi":"10.1109/CHASE.2017.118","ee":"https://doi.org/10.1109/CHASE.2017.118","url":"https://dblp.org/rec/conf/chase/LiS17"},
+"url":"URL#3672519"
+},
+{
+"@score":"1",
+"@id":"3672520",
+"info":{"authors":{"author":[{"@pid":"04/7618","text":"Peilong Li"},{"@pid":"54/1474","text":"Chen Xu"},{"@pid":"25/2208-1","text":"Yan Luo 0001"},{"@pid":"68/6563-2","text":"Yu Cao 0002"},{"@pid":"198/8782","text":"Jomol Mathew"},{"@pid":"159/8051","text":"Yunsheng Ma"}]},"title":"CareNet: Building Regulation-Compliant Home-Based Healthcare Services with Software-Defined Infrastructure.","venue":"CHASE","pages":"373-382","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/LiXLCMM17","doi":"10.1109/CHASE.2017.121","ee":"https://doi.org/10.1109/CHASE.2017.121","url":"https://dblp.org/rec/conf/chase/LiXLCMM17"},
+"url":"URL#3672520"
+},
+{
+"@score":"1",
+"@id":"3672521",
+"info":{"authors":{"author":[{"@pid":"35/837-16","text":"Bin Liu 0016"},{"@pid":"14/3727","text":"Hao Luo"},{"@pid":"29/4638","text":"Chang Wen Chen"}]},"title":"A Novel Authentication Scheme Based on Acceleration Data in WBAN.","venue":"CHASE","pages":"120-126","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/LiuLC17","doi":"10.1109/CHASE.2017.70","ee":"https://doi.org/10.1109/CHASE.2017.70","url":"https://dblp.org/rec/conf/chase/LiuLC17"},
+"url":"URL#3672521"
+},
+{
+"@score":"1",
+"@id":"3672522",
+"info":{"authors":{"author":[{"@pid":"10/6178-14","text":"Liang Liu 0014"},{"@pid":"04/563","text":"Sanjay Mehrotra"}]},"title":"Patient Associated Motion Detection with Optical Flow Using Microsoft Kinect V2.","venue":"CHASE","pages":"274-275","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/LiuM17","doi":"10.1109/CHASE.2017.99","ee":"https://doi.org/10.1109/CHASE.2017.99","url":"https://dblp.org/rec/conf/chase/LiuM17"},
+"url":"URL#3672522"
+},
+{
+"@score":"1",
+"@id":"3672523",
+"info":{"authors":{"author":[{"@pid":"33/4528-16","text":"Li Liu 0016"},{"@pid":"120/4232","text":"Shuo Niu"},{"@pid":"23/1491","text":"D. Scott McCrickard"}]},"title":"Non-contact Human Computer Interaction System Design and Implementation.","venue":"CHASE","pages":"312-320","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/LiuNM17","doi":"10.1109/CHASE.2017.114","ee":"https://doi.org/10.1109/CHASE.2017.114","url":"https://dblp.org/rec/conf/chase/LiuNM17"},
+"url":"URL#3672523"
+},
+{
+"@score":"1",
+"@id":"3672524",
+"info":{"authors":{"author":[{"@pid":"76/1820-34","text":"Xin Liu 0034"},{"@pid":"217/9262","text":"Smita Rajan"},{"@pid":"175/1746","text":"Gabriel Hollander"},{"@pid":"122/9695","text":"Nathan Ramasarma"},{"@pid":"37/6693","text":"Paolo Bonato"},{"@pid":"35/11104","text":"Sunghoon Ivan Lee"}]},"title":"A Novel Finger-Worn Sensor for Ambulatory Monitoring of Hand Use.","venue":"CHASE","pages":"276-277","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/LiuRHRBL17","doi":"10.1109/CHASE.2017.100","ee":"https://doi.org/10.1109/CHASE.2017.100","url":"https://dblp.org/rec/conf/chase/LiuRHRBL17"},
+"url":"URL#3672524"
+},
+{
+"@score":"1",
+"@id":"3672525",
+"info":{"authors":{"author":{"@pid":"50/1585-2","text":"Xiao Luo 0002"}},"title":"Analyzing the Correlations between the Uninsured and Diabetes Prevalence Rates in Geographic Regions in the United States.","venue":"CHASE","pages":"44-50","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/Luo17","doi":"10.1109/CHASE.2017.58","ee":"https://doi.org/10.1109/CHASE.2017.58","url":"https://dblp.org/rec/conf/chase/Luo17"},
+"url":"URL#3672525"
+},
+{
+"@score":"1",
+"@id":"3672526",
+"info":{"authors":{"author":[{"@pid":"211/4238","text":"Mengxuan Ma"},{"@pid":"217/9654","text":"Benjavicha Hotrabhavananda"},{"@pid":"217/9674","text":"Justin Hall"},{"@pid":"83/95","text":"Marjorie Skubic"}]},"title":"Assistive Adjustable Smart Shower System.","venue":"CHASE","pages":"253-254","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/MaHHS17","doi":"10.1109/CHASE.2017.89","ee":"https://doi.org/10.1109/CHASE.2017.89","url":"https://dblp.org/rec/conf/chase/MaHHS17"},
+"url":"URL#3672526"
+},
+{
+"@score":"1",
+"@id":"3672527",
+"info":{"authors":{"author":[{"@pid":"211/4238","text":"Mengxuan Ma"},{"@pid":"17/8736","text":"Rachel Proffitt"},{"@pid":"83/95","text":"Marjorie Skubic"}]},"title":"Quantitative Assessment and Validation of a Stroke Rehabilitation Game.","venue":"CHASE","pages":"255-257","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/MaPS17","doi":"10.1109/CHASE.2017.90","ee":"https://doi.org/10.1109/CHASE.2017.90","url":"https://dblp.org/rec/conf/chase/MaPS17"},
+"url":"URL#3672527"
+},
+{
+"@score":"1",
+"@id":"3672528",
+"info":{"authors":{"author":[{"@pid":"211/4238","text":"Mengxuan Ma"},{"@pid":"83/95","text":"Marjorie Skubic"},{"@pid":"217/9700","text":"Karen Ai"},{"@pid":"62/1714","text":"Jordan Hubbard"}]},"title":"Angel-Echo: A Personalized Health Care Application.","venue":"CHASE","pages":"258-259","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/MaSAH17","doi":"10.1109/CHASE.2017.91","ee":"https://doi.org/10.1109/CHASE.2017.91","url":"https://dblp.org/rec/conf/chase/MaSAH17"},
+"url":"URL#3672528"
+},
+{
+"@score":"1",
+"@id":"3672529",
+"info":{"authors":{"author":[{"@pid":"156/4923","text":"Ruhi Mahajan"},{"@pid":"217/9165","text":"Babak Noroozi"},{"@pid":"93/10482","text":"Bashir I. Morshed"}]},"title":"Reconfigurable Architecture of Neuro-Physiological Sensors for Mobile Health System.","venue":"CHASE","pages":"402-409","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/MahajanNM17","doi":"10.1109/CHASE.2017.124","ee":"https://doi.org/10.1109/CHASE.2017.124","url":"https://dblp.org/rec/conf/chase/MahajanNM17"},
+"url":"URL#3672529"
+},
+{
+"@score":"1",
+"@id":"3672530",
+"info":{"authors":{"author":[{"@pid":"198/1342","text":"Md Safiur Rahman Mahdi"},{"@pid":"197/9878","text":"Mohammad Zahidul Hasan"},{"@pid":"94/1458","text":"Noman Mohammed"}]},"title":"Secure Sequence Similarity Search on Encrypted Genomic Data.","venue":"CHASE","pages":"205-213","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/MahdiHM17","doi":"10.1109/CHASE.2017.79","ee":"https://doi.org/10.1109/CHASE.2017.79","url":"https://dblp.org/rec/conf/chase/MahdiHM17"},
+"url":"URL#3672530"
+},
+{
+"@score":"1",
+"@id":"3672531",
+"info":{"authors":{"author":[{"@pid":"217/9569","text":"Naveen Manoharan"},{"@pid":"76/4140","text":"Kewei Sha"},{"@pid":"36/5533","text":"Jiang Lu"}]},"title":"Exercise Evaluation Using Wrist Sensors.","venue":"CHASE","pages":"268-269","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ManoharanSL17","doi":"10.1109/CHASE.2017.96","ee":"https://doi.org/10.1109/CHASE.2017.96","url":"https://dblp.org/rec/conf/chase/ManoharanSL17"},
+"url":"URL#3672531"
+},
+{
+"@score":"1",
+"@id":"3672532",
+"info":{"authors":{"author":[{"@pid":"62/6713","text":"Daniel Minoli"},{"@pid":"31/4427","text":"Kazem Sohraby"},{"@pid":"195/4806","text":"Benedict Occhiogrosso"}]},"title":"IoT Security (IoTSec) Mechanisms for e-Health and Ambient Assisted Living Applications.","venue":"CHASE","pages":"13-18","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/MinoliSO17","doi":"10.1109/CHASE.2017.53","ee":"https://doi.org/10.1109/CHASE.2017.53","url":"https://dblp.org/rec/conf/chase/MinoliSO17"},
+"url":"URL#3672532"
+},
+{
+"@score":"1",
+"@id":"3672533",
+"info":{"authors":{"author":[{"@pid":"188/2554","text":"Fadi Muheidat"},{"@pid":"16/7369","text":"Harry W. Tyrer"}]},"title":"Deriving Information from Low Spatial Resolution Floor-Based Personnel Detection System.","venue":"CHASE","pages":"251-252","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/MuheidatT17","doi":"10.1109/CHASE.2017.88","ee":"https://doi.org/10.1109/CHASE.2017.88","url":"https://dblp.org/rec/conf/chase/MuheidatT17"},
+"url":"URL#3672533"
+},
+{
+"@score":"1",
+"@id":"3672534",
+"info":{"authors":{"author":[{"@pid":"19/1038","text":"Sriraam Natarajan"},{"@pid":"81/6126","text":"Annu Prabhakar"},{"@pid":"211/4216","text":"Nandini Ramanan"},{"@pid":"217/9328","text":"Anna N. Baglione"},{"@pid":"04/4400","text":"Katie A. Siek"},{"@pid":"c/KayConnelly","text":"Kay Connelly"}]},"title":"Boosting for Postpartum Depression Prediction.","venue":"CHASE","pages":"232-240","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/NatarajanPRBSC17","doi":"10.1109/CHASE.2017.82","ee":"https://doi.org/10.1109/CHASE.2017.82","url":"https://dblp.org/rec/conf/chase/NatarajanPRBSC17"},
+"url":"URL#3672534"
+},
+{
+"@score":"1",
+"@id":"3672535",
+"info":{"authors":{"author":[{"@pid":"83/9220","text":"Ioannis Papavasileiou"},{"@pid":"217/9265","text":"Savanna Smith"},{"@pid":"26/3430","text":"Jinbo Bi"},{"@pid":"80/806-2","text":"Song Han 0002"}]},"title":"Gait-Based Continuous Authentication Using Multimodal Learning.","venue":"CHASE","pages":"290-291","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/PapavasileiouSB17","doi":"10.1109/CHASE.2017.107","ee":"https://doi.org/10.1109/CHASE.2017.107","url":"https://dblp.org/rec/conf/chase/PapavasileiouSB17"},
+"url":"URL#3672535"
+},
+{
+"@score":"1",
+"@id":"3672536",
+"info":{"authors":{"author":[{"@pid":"83/9220","text":"Ioannis Papavasileiou"},{"@pid":"63/7023","text":"Wenlong Zhang"},{"@pid":"10/5630-23","text":"Xin Wang 0023"},{"@pid":"26/3430","text":"Jinbo Bi"},{"@pid":"89/5992","text":"Li Zhang"},{"@pid":"80/806-2","text":"Song Han 0002"}]},"title":"Classification of Neurological Gait Disorders Using Multi-task Feature Learning.","venue":"CHASE","pages":"195-204","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/PapavasileiouZW17","doi":"10.1109/CHASE.2017.78","ee":"https://doi.org/10.1109/CHASE.2017.78","url":"https://dblp.org/rec/conf/chase/PapavasileiouZW17"},
+"url":"URL#3672536"
+},
+{
+"@score":"1",
+"@id":"3672537",
+"info":{"authors":{"author":[{"@pid":"266/7086","text":"Kristofer delas Peñas"},{"@pid":"215/6087","text":"Pilarita T. Rivera"},{"@pid":"21/5289","text":"Prospero C. Naval Jr."}]},"title":"Malaria Parasite Detection and Species Identification on Thin Blood Smears Using a Convolutional Neural Network.","venue":"CHASE","pages":"1-6","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/PenasRN17","doi":"10.1109/CHASE.2017.51","ee":"https://doi.org/10.1109/CHASE.2017.51","url":"https://dblp.org/rec/conf/chase/PenasRN17"},
+"url":"URL#3672537"
+},
+{
+"@score":"1",
+"@id":"3672538",
+"info":{"authors":{"author":[{"@pid":"203/2849","text":"Emmanuel S. Peters"},{"@pid":"97/5512","text":"Nicholas F. Maxemchuk"}]},"title":"A Privacy-Preserving Distributed Medical Insurance Claim Clearinghouse &amp; EHR Application.","venue":"CHASE","pages":"70-76","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/PetersM17","doi":"10.1109/CHASE.2017.62","ee":"https://doi.org/10.1109/CHASE.2017.62","url":"https://dblp.org/rec/conf/chase/PetersM17"},
+"url":"URL#3672538"
+},
+{
+"@score":"1",
+"@id":"3672539",
+"info":{"authors":{"author":[{"@pid":"217/9553","text":"Md Khurram Monir Rabby"},{"@pid":"06/6213","text":"Mohammad Shah Alam"},{"@pid":"60/4350","text":"Shamim Ara Shawkat"},{"@pid":"57/806","text":"Mohammad Asadul Hoque"}]},"title":"A Scheduling Scheme for Efficient Wireless Charging of Sensor Nodes in WBAN.","venue":"CHASE","pages":"31-36","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/RabbyASH17","doi":"10.1109/CHASE.2017.56","ee":"https://doi.org/10.1109/CHASE.2017.56","url":"https://dblp.org/rec/conf/chase/RabbyASH17"},
+"url":"URL#3672539"
+},
+{
+"@score":"1",
+"@id":"3672540",
+"info":{"authors":{"author":[{"@pid":"94/9914","text":"Sandeep Reddivari"},{"@pid":"02/1964","text":"Jason Smith"},{"@pid":"217/9337","text":"Jonathan Pabalate"}]},"title":"VRvisu: A Tool for Virtual Reality Based Visualization of Medical Data.","venue":"CHASE","pages":"280-281","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ReddivariSP17","doi":"10.1109/CHASE.2017.102","ee":"https://doi.org/10.1109/CHASE.2017.102","url":"https://dblp.org/rec/conf/chase/ReddivariSP17"},
+"url":"URL#3672540"
+},
+{
+"@score":"1",
+"@id":"3672541",
+"info":{"authors":{"author":[{"@pid":"204/5272","text":"Allison M. Rossetto"},{"@pid":"162/4799","text":"Wenjin Zhou"}]},"title":"Deep Learning for Categorization of Lung Cancer CT Images.","venue":"CHASE","pages":"272-273","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/RossettoZ17","doi":"10.1109/CHASE.2017.98","ee":"https://doi.org/10.1109/CHASE.2017.98","url":"https://dblp.org/rec/conf/chase/RossettoZ17"},
+"url":"URL#3672541"
+},
+{
+"@score":"1",
+"@id":"3672542",
+"info":{"authors":{"author":[{"@pid":"204/6871","text":"Hyeongju Ryu"},{"@pid":"200/3655","text":"Ahjung Byun"},{"@pid":"217/9471","text":"Hyeoiyun Lee"},{"@pid":"41/2263","text":"Jeongeun Kim"},{"@pid":"200/3632","text":"Jisan Lee"}]},"title":"Possibility of Gamified ICT Applications for Young Elderly.","venue":"CHASE","pages":"292-293","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/RyuBLKL17","doi":"10.1109/CHASE.2017.108","ee":"https://doi.org/10.1109/CHASE.2017.108","url":"https://dblp.org/rec/conf/chase/RyuBLKL17"},
+"url":"URL#3672542"
+},
+{
+"@score":"1",
+"@id":"3672543",
+"info":{"authors":{"author":[{"@pid":"131/0606","text":"Asif Salekin"},{"@pid":"05/6545","text":"Hongning Wang"},{"@pid":"217/9177","text":"Kristine Williams"},{"@pid":"s/JohnAStankovic","text":"John A. Stankovic"}]},"title":"DAVE: Detecting Agitated Vocal Events.","venue":"CHASE","pages":"157-166","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/SalekinWWS17","doi":"10.1109/CHASE.2017.74","ee":"https://doi.org/10.1109/CHASE.2017.74","url":"https://dblp.org/rec/conf/chase/SalekinWWS17"},
+"url":"URL#3672543"
+},
+{
+"@score":"1",
+"@id":"3672544",
+"info":{"authors":{"author":[{"@pid":"177/0367","text":"Stefano Sapienza"},{"@pid":"217/9248","text":"Catherine P. Adans-Dester"},{"@pid":"217/9251","text":"Anne T. O&apos;Brien"},{"@pid":"188/3425","text":"Gloria Vergara-Diaz"},{"@pid":"35/11104","text":"Sunghoon Ivan Lee"},{"@pid":"54/31","text":"Shyamal Patel"},{"@pid":"217/9428","text":"Randie Black-Schaffer"},{"@pid":"157/5784","text":"Ross Zafonte"},{"@pid":"37/6693","text":"Paolo Bonato"},{"@pid":"217/9500","text":"Claire Meagher"},{"@pid":"32/7984","text":"Ann-Marie Hughes"},{"@pid":"47/11436","text":"Jane H. Burridge"},{"@pid":"119/7140","text":"Danilo Demarchi"}]},"title":"Using a Minimum Set of Wearable Sensors to Assess Quality of Movement in Stroke Survivors.","venue":"CHASE","pages":"284-285","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/SapienzaAOVLPBZ17","doi":"10.1109/CHASE.2017.104","ee":"https://doi.org/10.1109/CHASE.2017.104","url":"https://dblp.org/rec/conf/chase/SapienzaAOVLPBZ17"},
+"url":"URL#3672544"
+},
+{
+"@score":"1",
+"@id":"3672545",
+"info":{"authors":{"author":[{"@pid":"134/9392","text":"Matthew Saponaro"},{"@pid":"183/9682","text":"Haoran Wei"},{"@pid":"d/KSDecker","text":"Keith Decker"}]},"title":"Towards Learning Efficient Intervention Policies for Wearable Devices.","venue":"CHASE","pages":"298-299","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/SaponaroWD17","doi":"10.1109/CHASE.2017.111","ee":"https://doi.org/10.1109/CHASE.2017.111","url":"https://dblp.org/rec/conf/chase/SaponaroWD17"},
+"url":"URL#3672545"
+},
+{
+"@score":"1",
+"@id":"3672546",
+"info":{"authors":{"author":[{"@pid":"171/8869","text":"Farhad Shahmohammadi"},{"@pid":"173/6126","text":"Anahita Hosseini"},{"@pid":"117/9342","text":"Christine E. King"},{"@pid":"s/MajidSarrafzadeh","text":"Majid Sarrafzadeh"}]},"title":"Smartwatch Based Activity Recognition Using Active Learning.","venue":"CHASE","pages":"321-329","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ShahmohammadiHK17","doi":"10.1109/CHASE.2017.115","ee":"https://doi.org/10.1109/CHASE.2017.115","url":"https://dblp.org/rec/conf/chase/ShahmohammadiHK17"},
+"url":"URL#3672546"
+},
+{
+"@score":"1",
+"@id":"3672547",
+"info":{"authors":{"author":[{"@pid":"217/9702","text":"Sahil Sholla"},{"@pid":"174/2954","text":"Roohie Naaz Mir"},{"@pid":"55/4255","text":"Mohammad Ahsan Chishti"}]},"title":"Incorporating Ethics in Internet of Things (IoT) Enabled Connected Smart Healthcare.","venue":"CHASE","pages":"262-263","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ShollaNC17","doi":"10.1109/CHASE.2017.93","ee":"https://doi.org/10.1109/CHASE.2017.93","url":"https://dblp.org/rec/conf/chase/ShollaNC17"},
+"url":"URL#3672547"
+},
+{
+"@score":"1",
+"@id":"3672548",
+"info":{"authors":{"author":[{"@pid":"211/5173","text":"Rahel Strässle"},{"@pid":"211/4898","text":"Sebastian Gerke"},{"@pid":"19/7934","text":"Thomas Brunschwiler"},{"@pid":"52/7961","text":"Yuksel Temiz"},{"@pid":"135/2076","text":"Jonas R. M. Weiss"},{"@pid":"99/7570","text":"Arvind Sridhar"},{"@pid":"43/7933","text":"Stephan Paredes"},{"@pid":"275/3264","text":"Emanuel Loertscher"},{"@pid":"275/3187","text":"Neil Ebejer"},{"@pid":"89/6243","text":"Bruno Michel"},{"@pid":"217/9524","text":"H.-M. Lee"},{"@pid":"217/9282","text":"C. Alvarado"},{"@pid":"223/0601","text":"Ismael Faro"},{"@pid":"04/9326","text":"T. van Kessel"},{"@pid":"90/1564","text":"Mounir Meghelli"},{"@pid":"233/4195","text":"Marc A. Taubenblatt"},{"@pid":"65/8550","text":"Sufi Zafar"},{"@pid":"261/3620","text":"Frank Libsch"},{"@pid":"73/479","text":"Keiji Matsumoto"}]},"title":"Internet of the Body and Cognitive Hypervisor.","venue":"CHASE","pages":"296-297","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/StraessleGBTWSP17","doi":"10.1109/CHASE.2017.110","ee":"https://doi.org/10.1109/CHASE.2017.110","url":"https://dblp.org/rec/conf/chase/StraessleGBTWSP17"},
+"url":"URL#3672548"
+},
+{
+"@score":"1",
+"@id":"3672549",
+"info":{"authors":{"author":[{"@pid":"127/8676","text":"Shanti R. Thiyagaraja"},{"@pid":"82/5236","text":"Ram Dantu"},{"@pid":"217/9460","text":"Pradhumna L. Shrestha"},{"@pid":"41/11148","text":"Mark A. Thompson"},{"@pid":"54/2096","text":"Christopher Smith"}]},"title":"Optimized and Secured Transmission and Retrieval of Vital Signs from Remote Devices.","venue":"CHASE","pages":"25-30","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ThiyagarajaDSTS17","doi":"10.1109/CHASE.2017.55","ee":"https://doi.org/10.1109/CHASE.2017.55","url":"https://dblp.org/rec/conf/chase/ThiyagarajaDSTS17"},
+"url":"URL#3672549"
+},
+{
+"@score":"1",
+"@id":"3672550",
+"info":{"authors":{"author":[{"@pid":"154/9091","text":"Shane Transue"},{"@pid":"99/10437-2","text":"Phuc Nguyen 0002"},{"@pid":"12/8574","text":"Tam Vu 0001"},{"@pid":"02/5555","text":"Min-Hyung Choi"}]},"title":"Thermal-Depth Fusion for Occluded Body Skeletal Posture Estimation.","venue":"CHASE","pages":"167-176","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/TransueNVC17","doi":"10.1109/CHASE.2017.75","ee":"https://doi.org/10.1109/CHASE.2017.75","url":"https://dblp.org/rec/conf/chase/TransueNVC17"},
+"url":"URL#3672550"
+},
+{
+"@score":"1",
+"@id":"3672551",
+"info":{"authors":{"author":[{"@pid":"198/8510","text":"Tri Vu"},{"@pid":"198/8664","text":"Hoan Tran"},{"@pid":"75/2611-4","text":"Feng Lin 0004"},{"@pid":"191/7955","text":"Jeanne Langan"},{"@pid":"178/9991","text":"Lora Cavuoto"},{"@pid":"11/6689","text":"Wenyao Xu"}]},"title":"A Home-Based Functional Hand-Extremity Assessment System for Stroke Rehabilitation.","venue":"CHASE","pages":"286-287","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/VuTLLCX17","doi":"10.1109/CHASE.2017.105","ee":"https://doi.org/10.1109/CHASE.2017.105","url":"https://dblp.org/rec/conf/chase/VuTLLCX17"},
+"url":"URL#3672551"
+},
+{
+"@score":"1",
+"@id":"3672552",
+"info":{"authors":{"author":[{"@pid":"70/6155","text":"Huan Wang"},{"@pid":"60/6909","text":"Dechang Chen"},{"@pid":"181/5584","text":"Matthew T. Hueman"},{"@pid":"09/3121-1","text":"Li Sheng 0001"},{"@pid":"80/7573","text":"Donald E. Henson"}]},"title":"Clustering Big Cancer Data by Effect Sizes.","venue":"CHASE","pages":"58-63","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/WangCH0H17","doi":"10.1109/CHASE.2017.60","ee":"https://doi.org/10.1109/CHASE.2017.60","url":"https://dblp.org/rec/conf/chase/WangCH0H17"},
+"url":"URL#3672552"
+},
+{
+"@score":"1",
+"@id":"3672553",
+"info":{"authors":{"author":[{"@pid":"217/9410","text":"Haiji Wang"},{"@pid":"217/9458","text":"Zitong Su"},{"@pid":"10/966-1","text":"Hua Fang 0001"}]},"title":"Simulating Normal and Abnormal ECG Signals in Children Age 0-16.","venue":"CHASE","pages":"282-283","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/WangSF17","doi":"10.1109/CHASE.2017.103","ee":"https://doi.org/10.1109/CHASE.2017.103","url":"https://dblp.org/rec/conf/chase/WangSF17"},
+"url":"URL#3672553"
+},
+{
+"@score":"1",
+"@id":"3672554",
+"info":{"authors":{"author":[{"@pid":"97/5340","text":"Jyh-Da Wei"},{"@pid":"217/9642","text":"Yuan-Ping Lin"},{"@pid":"33/2184","text":"Ming-Feng Wu"},{"@pid":"217/9532","text":"Ke-Jun Hong"},{"@pid":"217/9185","text":"Yih-Hsiang Wang"}]},"title":"A Portable Tool for Eye Fatigue Detection.","venue":"CHASE","pages":"260-261","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/WeiLWHW17","doi":"10.1109/CHASE.2017.92","ee":"https://doi.org/10.1109/CHASE.2017.92","url":"https://dblp.org/rec/conf/chase/WeiLWHW17"},
+"url":"URL#3672554"
+},
+{
+"@score":"1",
+"@id":"3672555",
+"info":{"authors":{"author":[{"@pid":"91/3122","text":"Xiaopei Wu"},{"@pid":"179/4677","text":"Robert Dunne"},{"@pid":"06/5757","text":"Zhifeng Yu"},{"@pid":"s/WeisongShi","text":"Weisong Shi"}]},"title":"STREMS: A Smart Real-Time Solution toward Enhancing EMS Prehospital Quality.","venue":"CHASE","pages":"365-372","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/WuDYS17","doi":"10.1109/CHASE.2017.120","ee":"https://doi.org/10.1109/CHASE.2017.120","url":"https://dblp.org/rec/conf/chase/WuDYS17"},
+"url":"URL#3672555"
+},
+{
+"@score":"1",
+"@id":"3672556",
+"info":{"authors":{"author":[{"@pid":"39/9577","text":"Yao Xiao"},{"@pid":"80/8845","text":"Ruogu Fang"}]},"title":"RFMiner: Risk Factors Discovery and Mining for Preventive Cardiovascular Health.","venue":"CHASE","pages":"278-279","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/XiaoF17","doi":"10.1109/CHASE.2017.101","ee":"https://doi.org/10.1109/CHASE.2017.101","url":"https://dblp.org/rec/conf/chase/XiaoF17"},
+"url":"URL#3672556"
+},
+{
+"@score":"1",
+"@id":"3672557",
+"info":{"authors":{"author":[{"@pid":"177/1469","text":"Qinghan Xue"},{"@pid":"23/5033","text":"Mooi Choo Chuah"}]},"title":"Incentivising High Quality Crowdsourcing Clinical Data for Disease Prediction.","venue":"CHASE","pages":"185-194","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/XueC17","doi":"10.1109/CHASE.2017.77","ee":"https://doi.org/10.1109/CHASE.2017.77","url":"https://dblp.org/rec/conf/chase/XueC17"},
+"url":"URL#3672557"
+},
+{
+"@score":"1",
+"@id":"3672558",
+"info":{"authors":{"author":[{"@pid":"152/4206","text":"Zhuolin Yang"},{"@pid":"75/2611-4","text":"Feng Lin 0004"},{"@pid":"11/6689","text":"Wenyao Xu"},{"@pid":"191/7955","text":"Jeanne Langan"},{"@pid":"178/9991","text":"Lora Cavuoto"},{"@pid":"63/10077","text":"Zhinan Li"},{"@pid":"80/43","text":"Qin Li"}]},"title":"Validation of a Novel Gait Analysis System.","venue":"CHASE","pages":"288-289","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/YangLXLCLL17","doi":"10.1109/CHASE.2017.106","ee":"https://doi.org/10.1109/CHASE.2017.106","url":"https://dblp.org/rec/conf/chase/YangLXLCLL17"},
+"url":"URL#3672558"
+},
+{
+"@score":"1",
+"@id":"3672559",
+"info":{"authors":{"author":[{"@pid":"152/4206","text":"Zhuolin Yang"},{"@pid":"14/5979-1","text":"Chen Song 0001"},{"@pid":"75/2611-4","text":"Feng Lin 0004"},{"@pid":"191/7955","text":"Jeanne Langan"},{"@pid":"11/6689","text":"Wenyao Xu"}]},"title":"Empowering a Gait Feature-Rich Timed-Up-and-Go System for Complex Ecological Environments.","venue":"CHASE","pages":"340-347","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/YangSLLX17","doi":"10.1109/CHASE.2017.117","ee":"https://doi.org/10.1109/CHASE.2017.117","url":"https://dblp.org/rec/conf/chase/YangSLLX17"},
+"url":"URL#3672559"
+},
+{
+"@score":"1",
+"@id":"3672560",
+"info":{"authors":{"author":[{"@pid":"69/9913","text":"Jinghe Zhang"},{"@pid":"133/9381","text":"Jiaqi Gong"},{"@pid":"23/2218","text":"Laura E. Barnes"}]},"title":"HCNN: Heterogeneous Convolutional Neural Networks for Comorbid Risk Prediction with Electronic Health Records.","venue":"CHASE","pages":"214-221","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ZhangGB17","doi":"10.1109/CHASE.2017.80","ee":"https://doi.org/10.1109/CHASE.2017.80","url":"https://dblp.org/rec/conf/chase/ZhangGB17"},
+"url":"URL#3672560"
+},
+{
+"@score":"1",
+"@id":"3672561",
+"info":{"authors":{"author":[{"@pid":"71/10187","text":"Hongyang Zhao"},{"@pid":"23/5003","text":"Shuangquan Wang"},{"@pid":"67/4904","text":"Gang Zhou"},{"@pid":"83/1359-1","text":"Daqing Zhang 0001"}]},"title":"Gesture-Enabled Remote Control for Healthcare.","venue":"CHASE","pages":"392-401","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ZhaoWZZ17","doi":"10.1109/CHASE.2017.123","ee":"https://doi.org/10.1109/CHASE.2017.123","url":"https://dblp.org/rec/conf/chase/ZhaoWZZ17"},
+"url":"URL#3672561"
+},
+{
+"@score":"1",
+"@id":"3672562",
+"info":{"authors":{"author":[{"@pid":"40/6068","text":"Rong Zheng"},{"@pid":"217/9360","text":"Joey K. Legere"},{"@pid":"31/393","text":"Martin v. Mohrenschildt"}]},"title":"Finger Movement Recognition During Ballistic Movements Using Electromyography.","venue":"CHASE","pages":"302-311","year":"2017","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ZhengLM17","doi":"10.1109/CHASE.2017.113","ee":"https://doi.org/10.1109/CHASE.2017.113","url":"https://dblp.org/rec/conf/chase/ZhengLM17"},
+"url":"URL#3672562"
+},
+{
+"@score":"1",
+"@id":"3816338",
+"info":{"authors":{"author":[{"@pid":"37/6693","text":"Paolo Bonato"},{"@pid":"70/5417","text":"Honggang Wang"}]},"title":"Proceedings of the Second IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies, CHASE 2017, Philadelphia, PA, USA, July 17-19, 2017","venue":"CHASE","publisher":"IEEE Computer Society / ACM","year":"2017","type":"Editorship","key":"conf/chase/2017","ee":"https://ieeexplore.ieee.org/xpl/conhome/8010607/proceeding","url":"https://dblp.org/rec/conf/chase/2017"},
+"url":"URL#3816338"
+}
+]
+}
+}
+}

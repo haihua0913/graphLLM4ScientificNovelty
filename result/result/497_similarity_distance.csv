@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+Batch normalization,convolutional neural networks,0.0029,1.4122
+Batch normalization,affine parameters,0.8996,0.4481
+Batch normalization,few-shot learning,0.1537,1.301
+affine parameters,convolutional neural networks,-0.045,1.4457
+convolutional neural networks,few-shot learning,-0.2314,1.5694
+affine parameters,few-shot learning,-0.1601,1.5232
+few-shot learning,minilmageNet,0.796,0.6387
+META-DATASET,few-shot learning,-0.1905,1.543
+META-DATASET,minilmageNet,0.087,1.3513
+Batch normalization,domain-shift,0.012,1.4057
+Batch normalization,CNNs,0.2114,1.2558
+Batch normalization,minilmageNet,0.406,1.09
+Batch normalization,META-DATASET,-0.1526,1.5183
+domain-shift,few-shot learning,-0.3707,1.6557
+CNNs,few-shot learning,0.8974,0.453
+CNNs,domain-shift,-0.1783,1.5351
+domain-shift,minilmageNet,-0.0017,1.4154
+META-DATASET,domain-shift,0.9034,0.4395
+CNNs,minilmageNet,0.9072,0.4309
+CNNs,META-DATASET,-0.0615,1.4571

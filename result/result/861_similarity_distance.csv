@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+Ensemble learning,feature subsets,0.8593,0.5304
+feature subsets,genetic search,-0.2979,1.6112
+ensemble feature selection,feature subsets,0.1823,1.2788
+ensemble feature selection,genetic search,0.0647,1.3677
+base classifier,genetic search,-0.4553,1.7061
+base classifier,ensemble feature selection,0.2314,1.2399
+ensemble feature selection,ensemble sizes,0.0867,1.3515
+ensemble feature selection,ensemble integration methods,0.1551,1.2999
+data sets,ensemble feature selection,0.4053,1.0906
+base classifier,ensemble sizes,0.9816,0.1918
+base classifier,ensemble integration methods,0.9817,0.1912
+base classifier,data sets,-0.38,1.6613
+ensemble integration methods,ensemble sizes,0.9898,0.1429
+data sets,ensemble sizes,-0.4075,1.6778
+data sets,ensemble integration methods,-0.4171,1.6835

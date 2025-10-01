@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+BLEU scores,minimum Bayes risk,-0.102,1.4846
+k-best lists,minimum Bayes risk,-0.2283,1.5674
+Viterbi objective,minimum Bayes risk,-0.5221,1.7448
+BLEU scores,k-best lists,0.0591,1.3718
+BLEU scores,Viterbi objective,-0.2533,1.5832
+Viterbi objective,k-best lists,-0.1598,1.523
+fast decoding procedure,minimum Bayes risk,0.0218,1.3987
+BLEU scores,fast decoding procedure,-0.0952,1.48
+fast decoding procedure,k-best lists,-0.0814,1.4706
+Viterbi objective,fast decoding procedure,-0.0267,1.4329
+k-best lists,translation forests,0.6274,0.8632
+hierarchical machine translation systems,k-best lists,0.9698,0.2459
+fast decoding procedure,translation forests,0.5661,0.9316
+fast decoding procedure,hierarchical machine translation systems,-0.1693,1.5292
+hierarchical machine translation systems,translation forests,0.5201,0.9797

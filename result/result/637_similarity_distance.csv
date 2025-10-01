@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+Indian Buffet Process,non-parametric prior,-0.538,1.7539
+Indian Buffet Process,inference techniques,0.4614,1.0379
+inference techniques,non-parametric prior,-0.1216,1.4977
+Indian Buffet Process,collapsed Gibbs sampler,0.8621,0.5252
+Indian Buffet Process,uncollapsed Gibbs sampler,0.8708,0.5083
+collapsed Gibbs sampler,non-parametric prior,-0.4619,1.7099
+non-parametric prior,uncollapsed Gibbs sampler,-0.3564,1.647
+collapsed Gibbs sampler,inference techniques,0.6535,0.8325
+inference techniques,uncollapsed Gibbs sampler,0.6746,0.8067
+collapsed Gibbs sampler,uncollapsed Gibbs sampler,0.8697,0.5104
+Indian Buffet Process,conjugate likelihood models,0.2762,1.2032
+Indian Buffet Process,linear-time,0.6794,0.8008
+Indian Buffet Process,large real-world datasets,0.9364,0.3566
+conjugate likelihood models,non-parametric prior,-0.0626,1.4578
+linear-time,non-parametric prior,-0.0596,1.4557
+large real-world datasets,non-parametric prior,-0.409,1.6787
+conjugate likelihood models,inference techniques,0.5841,0.9121
+inference techniques,linear-time,0.8195,0.6008
+inference techniques,large real-world datasets,0.7024,0.7715
+collapsed Gibbs sampler,conjugate likelihood models,0.1248,1.3231
+collapsed Gibbs sampler,linear-time,0.7769,0.668
+collapsed Gibbs sampler,large real-world datasets,0.9475,0.3241
+conjugate likelihood models,uncollapsed Gibbs sampler,0.4338,1.0641
+linear-time,uncollapsed Gibbs sampler,0.9089,0.4268
+large real-world datasets,uncollapsed Gibbs sampler,0.9466,0.3269
+conjugate likelihood models,linear-time,0.4314,1.0664
+conjugate likelihood models,large real-world datasets,0.331,1.1567
+large real-world datasets,linear-time,0.8627,0.524

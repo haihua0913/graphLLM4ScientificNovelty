@@ -1,0 +1,28 @@
+node1,node2,similarity,distance
+POMDPs,partially observable Markov decision processes,-0.0778,1.4682
+POMDPs,integer cost,-0.0876,1.4749
+POMDPs,target states,0.1297,1.3193
+POMDPs,expected total cost,0.0176,1.4017
+integer cost,partially observable Markov decision processes,0.9463,0.3277
+partially observable Markov decision processes,target states,-0.1763,1.5338
+expected total cost,partially observable Markov decision processes,-0.0792,1.4692
+integer cost,target states,-0.2161,1.5596
+expected total cost,integer cost,-0.2003,1.5494
+expected total cost,target states,0.6476,0.8395
+POMDPs,undecidable,-0.1692,1.5292
+partially observable Markov decision processes,undecidable,0.9527,0.3075
+integer cost,undecidable,0.9687,0.2502
+target states,undecidable,-0.1972,1.5474
+expected total cost,undecidable,-0.2796,1.5997
+POMDPs,positive costs,-0.2009,1.5498
+POMDPs,double exponential,-0.1531,1.5186
+POMDPs,approximation algorithms,0.8481,0.5512
+expected total cost,positive costs,0.4214,1.0757
+double exponential,expected total cost,0.4971,1.0029
+approximation algorithms,expected total cost,-0.2274,1.5668
+positive costs,undecidable,0.1727,1.2863
+double exponential,undecidable,0.008,1.4086
+approximation algorithms,undecidable,-0.004,1.4171
+double exponential,positive costs,0.9085,0.4278
+approximation algorithms,positive costs,0.0226,1.3981
+approximation algorithms,double exponential,0.0429,1.3836

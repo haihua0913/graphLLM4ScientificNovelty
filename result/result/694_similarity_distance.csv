@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+Rectified Linear Units,vanishing gradient problem,0.3639,1.1279
+Rectified Linear Units,efficient backpropagation,0.5416,0.9575
+Rectified Linear Units,sparsity,0.1351,1.3152
+efficient backpropagation,vanishing gradient problem,0.9132,0.4166
+sparsity,vanishing gradient problem,-0.1106,1.4904
+efficient backpropagation,sparsity,0.041,1.385
+Rectified Linear Units,expressiveness,0.2217,1.2477
+expressiveness,vanishing gradient problem,-0.1275,1.5017
+efficient backpropagation,expressiveness,0.0347,1.3895
+expressiveness,sparsity,0.8814,0.4869
+decision boundary,expressiveness,0.1884,1.274
+expressiveness,two-layer ReLU networks,-0.0281,1.4339
+expressiveness,threshold networks,0.0022,1.4127
+decision boundary,two-layer ReLU networks,-0.2657,1.5911
+decision boundary,threshold networks,-0.4055,1.6766
+threshold networks,two-layer ReLU networks,0.1455,1.3073
+decision boundary,synthetically generated data,-0.0648,1.4593
+synthetically generated data,threshold networks,-0.24,1.5748

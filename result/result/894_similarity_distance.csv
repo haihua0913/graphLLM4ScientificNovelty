@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+face images,kinship,-0.2256,1.5656
+kinship,young parent,-0.052,1.4505
+kinship,old parent,-0.3357,1.6345
+face images,young parent,-0.2599,1.5874
+face images,old parent,-0.0231,1.4305
+old parent,young parent,0.3132,1.172
+kinship,transfer subspace learning,-0.2961,1.61
+face images,transfer subspace learning,-0.2195,1.5617
+transfer subspace learning,young parent,0.8284,0.5859
+old parent,transfer subspace learning,0.5779,0.9188
+kinship,kinship verification,-0.1477,1.515
+kinship verification,young parent,-0.1267,1.5011
+kinship,transfer learning,-0.2936,1.6085
+kinship,verification accuracy,-0.0621,1.4574
+transfer learning,young parent,-0.4599,1.7088
+verification accuracy,young parent,0.1316,1.3179
+kinship verification,transfer learning,0.3508,1.1395
+kinship verification,verification accuracy,-0.3145,1.6214
+transfer learning,verification accuracy,-0.366,1.6529

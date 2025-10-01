@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+body joints,depth image,0.872,0.5059
+body joints,object recognition,-0.1376,1.5084
+body joints,pose estimation,-0.1577,1.5216
+body joints,per-pixel classification,-0.2177,1.5606
+depth image,object recognition,-0.4609,1.7093
+depth image,pose estimation,-0.2678,1.5923
+depth image,per-pixel classification,0.0273,1.3948
+object recognition,pose estimation,-0.1815,1.5372
+object recognition,per-pixel classification,-0.1778,1.5348
+per-pixel classification,pose estimation,-0.0675,1.4612
+body joints,training dataset,0.8789,0.4921
+depth image,training dataset,0.8851,0.4794
+object recognition,training dataset,-0.202,1.5505
+pose estimation,training dataset,-0.3454,1.6404
+per-pixel classification,training dataset,0.0562,1.3739
+body joints,confidence-scored 3D proposals,0.218,1.2506
+confidence-scored 3D proposals,object recognition,0.8977,0.4523
+confidence-scored 3D proposals,pose estimation,-0.2551,1.5843
+confidence-scored 3D proposals,per-pixel classification,-0.1313,1.5042
+confidence-scored 3D proposals,training dataset,0.2134,1.2542
+body joints,consumer hardware,0.8092,0.6177
+consumer hardware,training dataset,0.8981,0.4514
+confidence-scored 3D proposals,consumer hardware,-0.118,1.4953
+body joints,high accuracy,0.913,0.4172
+confidence-scored 3D proposals,high accuracy,-0.0861,1.4739
+consumer hardware,high accuracy,0.9655,0.2625
+consumer hardware,generalization,-0.1892,1.5422
+generalization,high accuracy,-0.1768,1.5342

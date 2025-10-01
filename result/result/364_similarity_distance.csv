@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+generative model,paraphrase generation,-0.0552,1.4527
+generative model,syntactic diversity,0.1527,1.3018
+generative model,syntactic sketch,-0.0804,1.47
+HRQ-VAE,generative model,0.8998,0.4478
+discrete latent variables,generative model,0.001,1.4135
+paraphrase generation,syntactic diversity,0.6394,0.8493
+paraphrase generation,syntactic sketch,0.6164,0.8759
+HRQ-VAE,paraphrase generation,0.0377,1.3873
+discrete latent variables,paraphrase generation,-0.0685,1.4619
+syntactic diversity,syntactic sketch,0.9372,0.3543
+HRQ-VAE,syntactic diversity,0.0636,1.3685
+discrete latent variables,syntactic diversity,-0.1405,1.5103
+HRQ-VAE,syntactic sketch,-0.155,1.5199
+discrete latent variables,syntactic sketch,-0.1006,1.4836
+HRQ-VAE,discrete latent variables,0.0247,1.3966
+HRQ-VAE,hierarchical representation,-0.2176,1.5605
+HRQ-VAE,input space,0.1493,1.3044
+HRQ-VAE,paraphrases,-0.2683,1.5927
+hierarchical representation,input space,0.0829,1.3543
+hierarchical representation,paraphrases,0.8833,0.4831
+input space,paraphrases,-0.2843,1.6027

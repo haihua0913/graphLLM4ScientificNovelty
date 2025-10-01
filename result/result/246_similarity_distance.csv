@@ -1,0 +1,45 @@
+node1,node2,similarity,distance
+forest reranking,n-best reranking,0.0309,1.3922
+forest reranking,packed forest,0.961,0.2792
+forest reranking,parses,-0.1631,1.5252
+n-best reranking,packed forest,0.0348,1.3894
+n-best reranking,parses,-0.2683,1.5927
+packed forest,parses,-0.19,1.5427
+exact inference,forest reranking,0.9511,0.3126
+forest reranking,non-local features,-0.1093,1.4895
+approximate algorithm,forest reranking,0.0446,1.3823
+forest reranking,forest rescoring,0.0226,1.3981
+discriminative training,forest reranking,-0.0003,1.4144
+exact inference,n-best reranking,-0.1086,1.489
+n-best reranking,non-local features,-0.3091,1.6181
+approximate algorithm,n-best reranking,-0.1004,1.4835
+forest rescoring,n-best reranking,0.9933,0.1161
+discriminative training,n-best reranking,-0.031,1.436
+exact inference,packed forest,0.9659,0.261
+non-local features,packed forest,-0.171,1.5304
+approximate algorithm,packed forest,0.0978,1.3433
+forest rescoring,packed forest,0.0522,1.3768
+discriminative training,packed forest,-0.2146,1.5586
+exact inference,parses,-0.2356,1.572
+non-local features,parses,0.9299,0.3744
+approximate algorithm,parses,-0.4681,1.7135
+forest rescoring,parses,-0.2769,1.5981
+discriminative training,parses,-0.3477,1.6418
+exact inference,non-local features,-0.2349,1.5715
+approximate algorithm,exact inference,0.0633,1.3687
+exact inference,forest rescoring,-0.0997,1.483
+discriminative training,exact inference,-0.0593,1.4556
+approximate algorithm,non-local features,-0.3847,1.6642
+forest rescoring,non-local features,-0.3182,1.6237
+discriminative training,non-local features,-0.1949,1.5459
+approximate algorithm,forest rescoring,-0.118,1.4953
+approximate algorithm,discriminative training,-0.0068,1.419
+discriminative training,forest rescoring,-0.104,1.4859
+F-score,forest reranking,0.1371,1.3137
+F-score,packed forest,-0.08,1.4697
+F-score,parses,-0.2159,1.5595
+F-score,exact inference,0.104,1.3387
+F-score,non-local features,-0.0605,1.4564
+F-score,approximate algorithm,-0.1898,1.5426
+F-score,forest rescoring,-0.3157,1.6221
+F-score,discriminative training,0.9345,0.3619

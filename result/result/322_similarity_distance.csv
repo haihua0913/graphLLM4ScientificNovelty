@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+SHRG-based parser,semantic graphs,0.2529,1.2224
+SHRG-based parser,synchronous production rules,0.2594,1.2171
+SHRG-based parser,syntacto-semantic composition,-0.4095,1.679
+SHRG-based parser,elementary dependency match,0.1626,1.2941
+SHRG-based parser,data-driven semantic parsing,0.2974,1.1854
+semantic graphs,synchronous production rules,0.8116,0.6139
+semantic graphs,syntacto-semantic composition,0.0319,1.3915
+elementary dependency match,semantic graphs,-0.3075,1.6171
+data-driven semantic parsing,semantic graphs,0.9126,0.418
+synchronous production rules,syntacto-semantic composition,-0.2753,1.597
+elementary dependency match,synchronous production rules,-0.5537,1.7628
+data-driven semantic parsing,synchronous production rules,0.8825,0.4849
+elementary dependency match,syntacto-semantic composition,-0.2182,1.5609
+data-driven semantic parsing,syntacto-semantic composition,-0.1376,1.5084
+data-driven semantic parsing,elementary dependency match,-0.2582,1.5863
+English Resource Grammar,SHRG-based parser,0.9016,0.4436
+English Resource Grammar,semantic graphs,0.2341,1.2377
+English Resource Grammar,synchronous production rules,0.2661,1.2115
+English Resource Grammar,syntacto-semantic composition,-0.1345,1.5063
+English Resource Grammar,elementary dependency match,-0.0884,1.4754
+English Resource Grammar,data-driven semantic parsing,0.2482,1.2262

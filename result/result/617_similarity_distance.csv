@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+Conditional Random Fields,Viterbi algorithm,-0.0321,1.4368
+Hidden Markov Models,Viterbi algorithm,-0.3496,1.6429
+Viterbi algorithm,inference procedure,0.0267,1.3952
+Conditional Random Fields,Hidden Markov Models,0.0518,1.3771
+Conditional Random Fields,inference procedure,0.0599,1.3712
+Hidden Markov Models,inference procedure,-0.0463,1.4466
+Viterbi algorithm,integer linear programming,0.0043,1.4111
+Viterbi algorithm,linear programming,-0.3075,1.6171
+Conditional Random Fields,integer linear programming,0.0726,1.3619
+Conditional Random Fields,linear programming,0.7167,0.7527
+Hidden Markov Models,integer linear programming,-0.0736,1.4654
+Hidden Markov Models,linear programming,-0.1234,1.499
+inference procedure,integer linear programming,0.9983,0.0586
+integer linear programming,linear programming,-0.2686,1.5929
+inference procedure,linear programming,-0.3061,1.6163
+integer linear programming,sequential constraints,-0.3449,1.6401
+inference procedure,sequential constraints,-0.3516,1.6441
+linear programming,sequential constraints,0.0432,1.3833
+integer linear programming,semantic role labeling,0.9944,0.1056
+inference procedure,semantic role labeling,0.9887,0.1501
+semantic role labeling,sequential constraints,-0.3481,1.642
+linear programming,semantic role labeling,-0.2076,1.5541

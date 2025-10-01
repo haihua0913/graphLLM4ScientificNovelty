@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+strict entailment,textual entailment,0.0194,1.4004
+statistical approach,textual entailment,-0.033,1.4374
+prototypical sentences,textual entailment,-0.1059,1.4872
+entailment relations,textual entailment,-0.074,1.4656
+statistical approach,strict entailment,0.0227,1.3981
+prototypical sentences,strict entailment,-0.0359,1.4393
+entailment relations,strict entailment,-0.1516,1.5176
+prototypical sentences,statistical approach,-0.2791,1.5994
+entailment relations,statistical approach,-0.0157,1.4252
+entailment relations,prototypical sentences,-0.117,1.4946
+WordNet,textual entailment,0.9775,0.2123
+textual entailment,web as corpus,0.9567,0.2944
+WordNet,strict entailment,0.0945,1.3457
+strict entailment,web as corpus,0.0235,1.3975
+WordNet,statistical approach,-0.2003,1.5494
+statistical approach,web as corpus,-0.1967,1.5471
+WordNet,prototypical sentences,-0.0653,1.4597
+prototypical sentences,web as corpus,0.0098,1.4073
+WordNet,entailment relations,-0.0144,1.4244
+entailment relations,web as corpus,0.0173,1.402
+WordNet,web as corpus,0.9805,0.1974

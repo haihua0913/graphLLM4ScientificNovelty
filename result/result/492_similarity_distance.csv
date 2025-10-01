@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+controllable styles,image-to-painting translation,0.0903,1.3489
+image-to-painting translation,vectorized environment,0.0274,1.3947
+image-to-painting translation,stroke parameters,-0.0054,1.4181
+controllable styles,vectorized environment,0.8029,0.6279
+controllable styles,stroke parameters,-0.2325,1.57
+stroke parameters,vectorized environment,-0.2627,1.5891
+image-to-painting translation,neural renderer,-0.1369,1.5079
+image-to-painting translation,parameter searching,-0.1463,1.5141
+controllable styles,neural renderer,-0.1973,1.5474
+controllable styles,parameter searching,-0.1608,1.5237
+neural renderer,vectorized environment,-0.0792,1.4691
+parameter searching,vectorized environment,-0.0633,1.4583
+neural renderer,stroke parameters,0.9291,0.3766
+parameter searching,stroke parameters,0.9535,0.3051
+neural renderer,parameter searching,0.9883,0.1531
+optimal transportation,vectorized environment,-0.0263,1.4327
+optimal transportation,stroke parameters,-0.103,1.4852
+neural renderer,optimal transportation,-0.0976,1.4816
+optimal transportation,parameter searching,-0.0843,1.4726
+fidelity,parameter searching,0.8793,0.4914
+fidelity,optimal transportation,0.1751,1.2844
+fidelity,neural style transfer,0.2231,1.2466

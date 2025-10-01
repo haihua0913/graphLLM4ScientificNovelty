@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+Wikipedia categories,category network,0.8873,0.4748
+Wikipedia categories,human classification,0.0039,1.4115
+Wikipedia categories,class attributes,-0.1471,1.5146
+Wikipedia categories,semantic relations,-0.1365,1.5077
+category network,human classification,-0.1083,1.4888
+category network,class attributes,-0.1485,1.5156
+category network,semantic relations,-0.0406,1.4426
+class attributes,human classification,0.0342,1.3898
+human classification,semantic relations,0.0019,1.4129
+class attributes,semantic relations,-0.1288,1.5025
+Wikipedia categories,concept links,-0.2416,1.5758
+concept links,human classification,0.0071,1.4092
+class attributes,concept links,0.9581,0.2893
+concept links,semantic relations,0.0578,1.3727
+ResearchCyc,concept links,0.4246,1.0728
+concept links,human judges,0.2996,1.1835
+ResearchCyc,human judges,0.9477,0.3234

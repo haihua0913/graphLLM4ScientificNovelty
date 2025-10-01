@@ -1,0 +1,34 @@
+node1,node2,similarity,distance
+holistic approach,natural language classification,0.8875,0.4744
+content moderation,holistic approach,-0.117,1.4947
+content taxonomies,holistic approach,-0.1237,1.4991
+holistic approach,labeling instructions,0.1645,1.2927
+data quality control,holistic approach,0.0963,1.3444
+active learning,holistic approach,-0.1302,1.5035
+content moderation,natural language classification,-0.1394,1.5096
+content taxonomies,natural language classification,-0.1662,1.5273
+labeling instructions,natural language classification,0.2685,1.2095
+data quality control,natural language classification,0.3677,1.1246
+active learning,natural language classification,-0.1342,1.5061
+content moderation,content taxonomies,-0.0723,1.4644
+content moderation,labeling instructions,-0.2592,1.5869
+content moderation,data quality control,-0.1785,1.5353
+active learning,content moderation,-0.07,1.4629
+content taxonomies,labeling instructions,0.7734,0.6732
+content taxonomies,data quality control,-0.4041,1.6758
+active learning,content taxonomies,-0.2728,1.5955
+data quality control,labeling instructions,0.1,1.3416
+active learning,labeling instructions,-0.5017,1.733
+active learning,data quality control,0.1612,1.2953
+holistic approach,undesired content,-0.0996,1.4829
+natural language classification,undesired content,-0.2967,1.6104
+content moderation,undesired content,-0.3438,1.6394
+content taxonomies,undesired content,-0.1628,1.525
+labeling instructions,undesired content,-0.3482,1.6421
+data quality control,undesired content,-0.1635,1.5255
+active learning,undesired content,-0.0578,1.4545
+content classifiers,content taxonomies,-0.3083,1.6176
+content classifiers,labeling instructions,-0.078,1.4683
+content classifiers,data quality control,0.243,1.2305
+active learning,content classifiers,-0.0685,1.4618
+content classifiers,undesired content,-0.2857,1.6035

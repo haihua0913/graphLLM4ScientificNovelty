@@ -1,0 +1,46 @@
+node1,node2,similarity,distance
+STAGE,learning approach,0.0775,1.3583
+STAGE,search performance,-0.2555,1.5846
+STAGE,optimization problems,-0.1766,1.534
+STAGE,evaluation function,-0.1488,1.5158
+STAGE,local search algorithm,0.0844,1.3532
+STAGE,hillclimbing,-0.1387,1.5091
+STAGE,WALKSAT,-0.0759,1.4669
+STAGE,search trajectories,0.2708,1.2076
+learning approach,search performance,-0.111,1.4906
+learning approach,optimization problems,-0.1988,1.5484
+evaluation function,learning approach,-0.1576,1.5216
+learning approach,local search algorithm,0.9126,0.4181
+hillclimbing,learning approach,-0.2427,1.5765
+WALKSAT,learning approach,-0.0551,1.4526
+learning approach,search trajectories,0.6665,0.8167
+optimization problems,search performance,0.0041,1.4113
+evaluation function,search performance,0.9812,0.1938
+local search algorithm,search performance,0.1932,1.2703
+hillclimbing,search performance,0.9165,0.4087
+WALKSAT,search performance,0.947,0.3255
+search performance,search trajectories,0.2745,1.2046
+evaluation function,optimization problems,-0.0491,1.4485
+local search algorithm,optimization problems,-0.0104,1.4216
+hillclimbing,optimization problems,-0.138,1.5086
+WALKSAT,optimization problems,-0.2738,1.5962
+optimization problems,search trajectories,-0.1664,1.5274
+evaluation function,local search algorithm,0.1528,1.3017
+evaluation function,hillclimbing,0.9697,0.2462
+WALKSAT,evaluation function,0.9516,0.3111
+evaluation function,search trajectories,0.2481,1.2263
+hillclimbing,local search algorithm,0.0529,1.3763
+WALKSAT,local search algorithm,0.2094,1.2575
+local search algorithm,search trajectories,0.685,0.7937
+WALKSAT,hillclimbing,0.9161,0.4097
+hillclimbing,search trajectories,0.0904,1.3488
+WALKSAT,search trajectories,0.3035,1.1802
+STAGE,optima,-0.0698,1.4627
+learning approach,optima,-0.078,1.4683
+optima,search performance,0.977,0.2144
+optima,optimization problems,-0.0927,1.4783
+evaluation function,optima,0.9727,0.2338
+local search algorithm,optima,0.215,1.253
+hillclimbing,optima,0.9033,0.4397
+WALKSAT,optima,0.9741,0.2276
+optima,search trajectories,0.3626,1.129

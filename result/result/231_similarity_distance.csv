@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+IDL-expressions,text-to-text applications,0.2897,1.1919
+representation formalism,text-to-text applications,0.1966,1.2676
+generation mechanism,text-to-text applications,-0.1548,1.5197
+probabilistic language models,text-to-text applications,0.8332,0.5775
+algorithms,text-to-text applications,0.1599,1.2962
+IDL-expressions,representation formalism,0.9845,0.176
+IDL-expressions,generation mechanism,0.6009,0.8934
+IDL-expressions,probabilistic language models,0.4974,1.0026
+IDL-expressions,algorithms,0.5894,0.9062
+generation mechanism,representation formalism,0.6975,0.7778
+probabilistic language models,representation formalism,0.4662,1.0332
+algorithms,representation formalism,0.5022,0.9978
+generation mechanism,probabilistic language models,0.2198,1.2491
+algorithms,generation mechanism,0.0366,1.3881
+algorithms,probabilistic language models,0.0194,1.4004
+correctness,text-to-text applications,0.8467,0.5537
+efficiency,text-to-text applications,-0.2976,1.611
+IDL-expressions,correctness,-0.0684,1.4618
+IDL-expressions,efficiency,-0.1396,1.5097
+correctness,representation formalism,-0.1384,1.5089
+efficiency,representation formalism,-0.0753,1.4665
+correctness,generation mechanism,-0.3138,1.621
+efficiency,generation mechanism,0.4999,1.0001
+correctness,probabilistic language models,0.7464,0.7121
+efficiency,probabilistic language models,0.0516,1.3773
+algorithms,correctness,-0.0437,1.4448
+algorithms,efficiency,-0.4933,1.7282
+correctness,efficiency,-0.0699,1.4628

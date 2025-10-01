@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+32 bits,backpropagation,0.3132,1.172
+backpropagation,precision levels,0.863,0.5235
+64 bits,backpropagation,0.2998,1.1834
+32 bits,precision levels,-0.1227,1.4985
+64 bits,precision levels,-0.1325,1.505
+32 bits,64 bits,0.9926,0.1216
+16 bits,backpropagation,0.1593,1.2967
+16 bits,precision levels,-0.277,1.5981
+16 bits,32 bits,0.9786,0.2071
+16 bits,64 bits,0.9774,0.2125
+SGD,backpropagation,0.8258,0.5902
+32 bits,SGD,-0.1776,1.5347
+16 bits,SGD,-0.3212,1.6256
+16 bits,batch-norm,0.2433,1.2302
+16 bits,ADAM,0.0978,1.3433
+SGD,batch-norm,-0.2738,1.5961
+ADAM,SGD,-0.035,1.4387
+ADAM,batch-norm,-0.3698,1.6552

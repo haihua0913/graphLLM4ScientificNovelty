@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+robust counterfactuals,tree-based ensembles,0.1485,1.305
+XGBoost,robust counterfactuals,-0.1288,1.5026
+XGBoost,tree-based ensembles,0.1778,1.2824
+robust counterfactual generation,robust counterfactuals,0.8139,0.6101
+robust counterfactual generation,tree-based ensembles,-0.3111,1.6193
+XGBoost,robust counterfactual generation,0.0531,1.3762
+Counterfactual Stability,robust counterfactuals,0.9356,0.3588
+model changes,robust counterfactuals,0.3046,1.1794
+Counterfactual Stability,tree-based ensembles,-0.0963,1.4808
+model changes,tree-based ensembles,0.4547,1.0443
+Counterfactual Stability,XGBoost,-0.1931,1.5447
+XGBoost,model changes,0.1941,1.2696
+Counterfactual Stability,robust counterfactual generation,0.8897,0.4697
+Counterfactual Stability,model changes,0.0521,1.3769
+model changes,robust counterfactual generation,0.0645,1.3678
+local outlier factor,robust counterfactuals,-0.2719,1.5949
+local outlier factor,tree-based ensembles,-0.1858,1.54
+Counterfactual Stability,local outlier factor,-0.1943,1.5455
+local outlier factor,model changes,0.013,1.405

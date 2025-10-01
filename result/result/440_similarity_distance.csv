@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+non-rigid structure-from-motion,prior-free,0.0198,1.4002
+low-order linear combination model,non-rigid structure-from-motion,0.9887,0.1506
+factorization,non-rigid structure-from-motion,-0.0572,1.4541
+low-order linear combination model,prior-free,0.0577,1.3728
+factorization,prior-free,-0.0044,1.4173
+factorization,low-order linear combination model,-0.03,1.4353
+low-order linear combination model,semi-definite programming,0.8733,0.5034
+low-order linear combination model,nuclear-norm minimization,-0.3249,1.6278
+factorization,semi-definite programming,0.0199,1.4001
+factorization,nuclear-norm minimization,-0.2828,1.6018
+nuclear-norm minimization,semi-definite programming,-0.4731,1.7164
+factorization,uniqueness,-0.0379,1.4408
+factorization,relaxation gap,0.0571,1.3732
+semi-definite programming,uniqueness,0.1871,1.275
+relaxation gap,semi-definite programming,0.9962,0.0872
+nuclear-norm minimization,uniqueness,-0.3025,1.614
+nuclear-norm minimization,relaxation gap,-0.4944,1.7288
+relaxation gap,uniqueness,0.2236,1.2461
+low-order linear combination model,uniqueness,-0.2563,1.5851
+low-order linear combination model,relaxation gap,0.8616,0.5261
+low-order linear combination model,real motion capture data,-0.2906,1.6066
+factorization,real motion capture data,-0.0764,1.4672
+real motion capture data,semi-definite programming,0.0861,1.352
+nuclear-norm minimization,real motion capture data,-0.1752,1.5331
+real motion capture data,uniqueness,0.9426,0.3389
+real motion capture data,relaxation gap,0.121,1.3259

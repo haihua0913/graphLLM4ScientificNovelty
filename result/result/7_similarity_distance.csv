@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+Bayesian networks,decision trees,0.6767,0.8042
+Bayesian networks,neural networks,0.6075,0.886
+decision trees,neural networks,0.0023,1.4126
+Bayesian networks,probabilistic inference,0.5626,0.9353
+decision trees,probabilistic inference,0.83,0.5831
+neural networks,probabilistic inference,-0.0031,1.4164
+Bayesian networks,learning of Bayesian networks,0.1697,1.2887
+decision trees,learning of Bayesian networks,-0.0102,1.4214
+learning of Bayesian networks,neural networks,-0.0436,1.4447
+learning of Bayesian networks,probabilistic inference,0.055,1.3748
+Bayesian networks,selective Bayesian networks,-0.3839,1.6637
+Bayesian networks,attributes,-0.1126,1.4917
+learning of Bayesian networks,selective Bayesian networks,-0.2393,1.5744
+attributes,learning of Bayesian networks,-0.17,1.5297
+attributes,selective Bayesian networks,-0.2702,1.5939
+Bayesian networks,K2-AS,0.1309,1.3184
+K2-AS,selective Bayesian networks,0.159,1.2969
+K2-AS,attributes,-0.0972,1.4814
+Bayesian networks,InfoAS,-0.1842,1.539
+InfoAS,selective Bayesian networks,-0.2389,1.5741
+InfoAS,attributes,-0.1642,1.5259
+InfoAS,K2-AS,0.0744,1.3606

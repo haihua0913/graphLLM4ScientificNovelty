@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+Min Max objective,correlation clustering,0.7613,0.6909
+constant factor approximations,correlation clustering,0.9436,0.3359
+combinatorial,correlation clustering,0.0874,1.351
+complete graphs,correlation clustering,0.9898,0.1427
+Min Max objective,constant factor approximations,0.5718,0.9255
+Min Max objective,combinatorial,0.1596,1.2965
+Min Max objective,complete graphs,0.7878,0.6514
+combinatorial,constant factor approximations,0.1391,1.3121
+complete graphs,constant factor approximations,0.9204,0.3989
+combinatorial,complete graphs,0.1714,1.2873
+correlation clustering,semi-metric,0.3202,1.166
+correlation clustering,correlation metric,0.1652,1.2921
+clustering algorithms,correlation clustering,-0.2144,1.5585
+Min Max objective,semi-metric,-0.0761,1.467
+Min Max objective,correlation metric,-0.0891,1.4759
+Min Max objective,clustering algorithms,0.143,1.3092
+constant factor approximations,semi-metric,0.395,1.1
+constant factor approximations,correlation metric,0.112,1.3327
+clustering algorithms,constant factor approximations,-0.373,1.6571
+combinatorial,semi-metric,0.1515,1.3027
+combinatorial,correlation metric,-0.2326,1.5701
+clustering algorithms,combinatorial,0.2952,1.1873
+complete graphs,semi-metric,0.3448,1.1447
+complete graphs,correlation metric,0.2069,1.2595
+clustering algorithms,complete graphs,-0.1679,1.5283
+correlation metric,semi-metric,0.6835,0.7956
+clustering algorithms,semi-metric,-0.6422,1.8123
+clustering algorithms,correlation metric,-0.2945,1.6091
+combinatorial,run-time,0.7295,0.7355
+run-time,semi-metric,0.0812,1.3556
+correlation metric,run-time,-0.3379,1.6358
+clustering algorithms,run-time,0.0729,1.3617

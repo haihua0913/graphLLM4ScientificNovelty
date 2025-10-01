@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+classifier heads,collaborative learning,0.7476,0.7105
+collaborative learning,robustness,0.1226,1.3247
+collaborative learning,label noise,-0.2821,1.6013
+classifier heads,robustness,0.2045,1.2614
+classifier heads,label noise,-0.4218,1.6863
+label noise,robustness,-0.0318,1.4365
+backpropagation rescaling,collaborative learning,-0.3256,1.6282
+backpropagation rescaling,classifier heads,-0.4415,1.698
+CIFAR,classifier heads,-0.0739,1.4655
+ImageNet,classifier heads,0.189,1.2736
+classifier heads,neural networks,0.2562,1.2197
+backpropagation rescaling,robustness,0.067,1.366
+CIFAR,robustness,0.0135,1.4046
+ImageNet,robustness,-0.0223,1.4299
+neural networks,robustness,0.9419,0.3409
+backpropagation rescaling,label noise,0.9627,0.2731
+CIFAR,label noise,-0.0937,1.479
+ImageNet,label noise,-0.2584,1.5865
+label noise,neural networks,-0.2157,1.5593
+CIFAR,backpropagation rescaling,-0.0554,1.4528
+ImageNet,backpropagation rescaling,-0.1467,1.5144
+backpropagation rescaling,neural networks,-0.1515,1.5176
+CIFAR,ImageNet,0.1132,1.3318
+CIFAR,neural networks,-0.0872,1.4746
+ImageNet,neural networks,0.0669,1.3661

@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+sentence boundaries,tokenization,0.539,0.9602
+reference length,tokenization,0.3875,1.1068
+state-of-the-art methods,tokenization,-0.1607,1.5236
+evaluation measures,tokenization,0.7914,0.6458
+machine translation,tokenization,-0.0768,1.4675
+reference length,sentence boundaries,0.9293,0.3759
+sentence boundaries,state-of-the-art methods,-0.3012,1.6132
+evaluation measures,sentence boundaries,0.8891,0.4709
+machine translation,sentence boundaries,0.1221,1.3251
+reference length,state-of-the-art methods,-0.1708,1.5302
+evaluation measures,reference length,0.705,0.7682
+machine translation,reference length,0.0816,1.3553
+evaluation measures,state-of-the-art methods,-0.3679,1.654
+machine translation,state-of-the-art methods,-0.7405,1.8657
+evaluation measures,machine translation,0.0077,1.4087
+human evaluation scores,state-of-the-art methods,-0.2958,1.6098
+correlation,state-of-the-art methods,-0.3839,1.6637
+evaluation measures,human evaluation scores,0.9469,0.3258
+correlation,human evaluation scores,0.9472,0.3249
+correlation,evaluation measures,0.9126,0.4181
+human evaluation scores,tokenization,0.6957,0.7801
+correlation,tokenization,0.4979,1.0021
+human evaluation scores,sentence boundaries,0.973,0.2324
+correlation,sentence boundaries,0.9664,0.2592
+human evaluation scores,reference length,0.8572,0.5344
+correlation,reference length,0.8434,0.5596

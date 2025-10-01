@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+decoding speed,kNN-MT,0.9968,0.0797
+kNN-MT,subset neighbor search,-0.2123,1.5571
+kNN-MT,look-up table,0.9782,0.2087
+decoding speed,subset neighbor search,-0.1852,1.5396
+decoding speed,look-up table,0.9793,0.2036
+look-up table,subset neighbor search,-0.1718,1.5309
+BLEU score,kNN-MT,-0.1102,1.4901
+WMT’19 De-En translation task,kNN-MT,-0.2115,1.5566
+domain adaptation tasks,kNN-MT,-0.2383,1.5737
+BLEU score,decoding speed,-0.157,1.5212
+WMT’19 De-En translation task,decoding speed,-0.2462,1.5787
+decoding speed,domain adaptation tasks,-0.2691,1.5931
+BLEU score,subset neighbor search,-0.0377,1.4406
+WMT’19 De-En translation task,subset neighbor search,-0.3228,1.6265
+domain adaptation tasks,subset neighbor search,-0.314,1.6211
+BLEU score,look-up table,-0.2146,1.5586
+WMT’19 De-En translation task,look-up table,-0.266,1.5912
+domain adaptation tasks,look-up table,-0.3171,1.623
+BLEU score,WMT’19 De-En translation task,-0.1474,1.5149
+BLEU score,domain adaptation tasks,-0.0663,1.4603
+WMT’19 De-En translation task,domain adaptation tasks,0.9703,0.2438

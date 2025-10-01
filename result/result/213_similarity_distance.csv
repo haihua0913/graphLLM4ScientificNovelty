@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+NP-complete,Natural-Language Generation,0.4729,1.0267
+Natural-Language Generation,flat semantics,-0.2837,1.6023
+Natural-Language Generation,generation,-0.392,1.6685
+NP-complete,flat semantics,-0.0843,1.4726
+NP-complete,generation,-0.3993,1.6729
+flat semantics,generation,-0.2499,1.5811
+Natural-Language Generation,TAG generation,-0.122,1.498
+Natural-Language Generation,constraint programming,0.5295,0.97
+Natural-Language Generation,combinatorics,0.4693,1.0302
+NP-complete,TAG generation,-0.19,1.5427
+NP-complete,constraint programming,0.9224,0.3939
+NP-complete,combinatorics,0.9331,0.3658
+TAG generation,flat semantics,-0.4048,1.6762
+constraint programming,flat semantics,-0.27,1.5937
+combinatorics,flat semantics,-0.1027,1.485
+TAG generation,constraint programming,0.0865,1.3517
+TAG generation,combinatorics,0.0176,1.4017
+TAG generation,generation,0.9462,0.3281
+combinatorics,constraint programming,0.9585,0.288
+constraint programming,generation,-0.1513,1.5174
+combinatorics,generation,-0.22,1.5621
+TAG generation,runtimes,-0.0961,1.4806
+constraint programming,runtimes,0.5297,0.9698
+combinatorics,runtimes,0.4768,1.0229
+generation,runtimes,-0.3696,1.655

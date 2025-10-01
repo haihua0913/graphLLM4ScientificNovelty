@@ -1,0 +1,34 @@
+node1,node2,similarity,distance
+control structures,options,0.9671,0.2564
+MDPs,options,-0.0062,1.4186
+continuous state-spaces,options,-0.0832,1.4719
+Approximate Value Iteration,options,0.0285,1.3939
+options,primitive actions,-0.222,1.5633
+options,temporally extended actions,-0.0646,1.4591
+convergence,options,0.8678,0.5143
+MDPs,control structures,0.0285,1.3939
+continuous state-spaces,control structures,-0.0721,1.4643
+Approximate Value Iteration,control structures,-0.0514,1.4501
+control structures,primitive actions,-0.208,1.5543
+control structures,temporally extended actions,-0.0397,1.442
+control structures,convergence,0.8813,0.4872
+MDPs,continuous state-spaces,0.9878,0.1562
+Approximate Value Iteration,MDPs,0.4039,1.0919
+MDPs,primitive actions,0.5387,0.9605
+MDPs,temporally extended actions,0.2048,1.2611
+MDPs,convergence,-0.0852,1.4733
+Approximate Value Iteration,continuous state-spaces,0.4296,1.068
+continuous state-spaces,primitive actions,0.6002,0.8942
+continuous state-spaces,temporally extended actions,0.2501,1.2246
+continuous state-spaces,convergence,-0.1576,1.5216
+Approximate Value Iteration,primitive actions,0.3561,1.1348
+Approximate Value Iteration,temporally extended actions,-0.5369,1.7532
+Approximate Value Iteration,convergence,0.0001,1.4142
+primitive actions,temporally extended actions,0.3904,1.1041
+convergence,primitive actions,-0.0742,1.4658
+convergence,temporally extended actions,0.1258,1.3222
+optimal value function,options,-0.0643,1.459
+Approximate Value Iteration,optimal value function,0.7136,0.7569
+optimal value function,primitive actions,-0.287,1.6044
+optimal value function,temporally extended actions,-0.792,1.8931
+convergence,optimal value function,-0.0895,1.4761

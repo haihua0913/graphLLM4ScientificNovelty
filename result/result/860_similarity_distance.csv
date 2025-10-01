@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+COMET,collaborative intelligent tutoring system,0.9955,0.0946
+Bayesian networks,COMET,0.999,0.0438
+COMET,individual student knowledge,0.6005,0.8939
+Bayesian networks,collaborative intelligent tutoring system,0.9932,0.1163
+collaborative intelligent tutoring system,individual student knowledge,0.561,0.9371
+Bayesian networks,individual student knowledge,0.6095,0.8838
+COMET,tutoring hints,0.996,0.0896
+collaborative intelligent tutoring system,tutoring hints,0.9982,0.06
+Bayesian networks,tutoring hints,0.9933,0.1157
+individual student knowledge,tutoring hints,0.5656,0.9321
+COMET,evaluation studies,0.2515,1.2235
+Bayesian networks,evaluation studies,0.2515,1.2235
+evaluation studies,individual student knowledge,0.1394,1.312
+evaluation studies,tutoring hints,0.2389,1.2337
+Mann-Whitney,student clinical reasoning,-0.4914,1.727

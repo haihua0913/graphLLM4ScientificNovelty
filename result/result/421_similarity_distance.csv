@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+segmentations,unstable segmentations,0.9023,0.442
+partial region matching,segmentations,-0.1621,1.5245
+partial region matching,unstable segmentations,-0.2186,1.5611
+dominant contours,partial region matching,-0.1691,1.5291
+partial matching cost,partial region matching,0.8161,0.6065
+dominant contours,partial matching cost,0.0206,1.3996
+partial region matching,region adjacency graph,-0.2137,1.558
+dominant contours,region adjacency graph,0.8776,0.4948
+partial matching cost,region adjacency graph,-0.1734,1.5319
+belief propagation,dominant contours,0.178,1.2822
+belief propagation,partial matching cost,-0.012,1.4227
+belief propagation,region adjacency graph,-0.0821,1.4711
+region adjacency graph,segmentations,0.7746,0.6714
+belief propagation,segmentations,0.0169,1.4022

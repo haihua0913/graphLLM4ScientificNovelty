@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+Generative adversarial networks,training dynamics,0.9133,0.4163
+Generative adversarial networks,function space,0.3361,1.1523
+Generative adversarial networks,control theory,0.0236,1.3974
+function space,training dynamics,0.3121,1.1729
+control theory,training dynamics,0.2581,1.2181
+control theory,function space,0.4358,1.0623
+Dirac GAN,training dynamics,0.0862,1.3519
+closed-loop control,training dynamics,0.1255,1.3225
+Dirac GAN,function space,0.8808,0.4882
+closed-loop control,function space,0.0659,1.3668
+Dirac GAN,control theory,0.0652,1.3673
+closed-loop control,control theory,-0.1989,1.5485
+Dirac GAN,closed-loop control,0.2417,1.2315
+Dirac GAN,data generation tasks,-0.0932,1.4786
+closed-loop control,data generation tasks,-0.431,1.6917

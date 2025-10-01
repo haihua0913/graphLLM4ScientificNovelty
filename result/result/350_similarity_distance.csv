@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+DST,Dialogue State Tracking,0.0599,1.3712
+Dialogue State Tracking,relations,-0.2071,1.5538
+DST,relations,0.846,0.5551
+Dialogue State Tracking,slot-domain membership,0.3966,1.0985
+Dialogue State Tracking,dynamic slot relations,-0.0488,1.4483
+DST,slot-domain membership,-0.1194,1.4962
+DST,dynamic slot relations,-0.1399,1.5099
+relations,slot-domain membership,-0.1821,1.5376
+dynamic slot relations,relations,0.0956,1.3449
+dynamic slot relations,slot-domain membership,-0.271,1.5944
+DSGFNet,DST,0.9166,0.4084
+DSGFNet,relations,0.8612,0.5268
+DSGFNet,slot-domain membership,0.0155,1.4032
+DSGFNet,dynamic slot relations,-0.1474,1.5148
+dialogue utterance encoder,relations,-0.2677,1.5923
+relations,schema graph encoder,-0.387,1.6655
+dialogue utterance encoder,slot-domain membership,0.7182,0.7507
+schema graph encoder,slot-domain membership,0.713,0.7577
+dialogue utterance encoder,dynamic slot relations,-0.5853,1.7806
+dynamic slot relations,schema graph encoder,-0.279,1.5994
+DSGFNet,dialogue utterance encoder,-0.0783,1.4686
+DSGFNet,schema graph encoder,-0.1728,1.5316
+dialogue utterance encoder,schema graph encoder,0.9061,0.4333
+DSGFNet,benchmark datasets,-0.026,1.4325
+benchmark datasets,dialogue utterance encoder,0.9554,0.2986
+benchmark datasets,schema graph encoder,0.951,0.313

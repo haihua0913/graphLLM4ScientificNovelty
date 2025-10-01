@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+large problem spaces,restricted memory,0.4536,1.0453
+large problem spaces,two-layered storage systems,0.597,0.8978
+restricted memory,two-layered storage systems,0.9278,0.38
+breadth-first,two-layered storage systems,0.1334,1.3165
+best-first,two-layered storage systems,0.1265,1.3217
+two-layered storage systems,virtual memory management,0.843,0.5604
+page faults,two-layered storage systems,0.7474,0.7108
+best-first,breadth-first,0.919,0.4025
+breadth-first,virtual memory management,-0.3412,1.6378
+breadth-first,page faults,-0.1492,1.516
+best-first,virtual memory management,-0.3354,1.6343
+best-first,page faults,-0.3001,1.6125
+page faults,virtual memory management,0.6948,0.7812
+breadth-first,search algorithm,-0.3617,1.6503
+best-first,search algorithm,-0.1179,1.4953
+search algorithm,virtual memory management,-0.2395,1.5745
+page faults,search algorithm,-0.4423,1.6984

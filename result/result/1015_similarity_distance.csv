@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+add-constant estimators,large alphabets,-0.3613,1.65
+absolute discounting,large alphabets,-0.0249,1.4317
+Jelinek-Mercer,large alphabets,0.0558,1.3742
+Good-Turing,large alphabets,-0.2346,1.5713
+absolute discounting,add-constant estimators,0.4351,1.0629
+Jelinek-Mercer,add-constant estimators,-0.4631,1.7106
+Good-Turing,add-constant estimators,0.8554,0.5377
+Jelinek-Mercer,absolute discounting,-0.3629,1.651
+Good-Turing,absolute discounting,0.5368,0.9625
+Good-Turing,Jelinek-Mercer,-0.1232,1.4988
+add-constant estimators,probability estimators,-0.0301,1.4353
+absolute discounting,probability estimators,-0.4469,1.7011
+Jelinek-Mercer,probability estimators,-0.3192,1.6243
+Good-Turing,probability estimators,-0.3994,1.673
+add-constant estimators,discrete distribution,-0.392,1.6685
+absolute discounting,discrete distribution,-0.1373,1.5082
+Jelinek-Mercer,discrete distribution,0.1547,1.3003
+Good-Turing,discrete distribution,-0.243,1.5767
+discrete distribution,probability estimators,-0.2048,1.5523
+Good-Turing,KL divergence,0.3431,1.1462
+Good-Turing,n samples,0.3013,1.1821
+KL divergence,n samples,0.1082,1.3355

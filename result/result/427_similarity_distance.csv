@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+granularity-tunable gradients partition,human detection,-0.5095,1.7375
+granularity,granularity-tunable gradients partition,0.884,0.4816
+granularity-tunable gradients partition,spatial and angular uncertainty,0.2025,1.2629
+granularity,human detection,-0.3195,1.6245
+human detection,spatial and angular uncertainty,-0.5935,1.7852
+granularity,spatial and angular uncertainty,0.3082,1.1763
+granularity-tunable gradients partition,orientation-space partitioning,-0.0186,1.4273
+human detection,orientation-space partitioning,-0.5162,1.7414
+granularity,orientation-space partitioning,0.0918,1.3477
+orientation-space partitioning,spatial and angular uncertainty,0.8344,0.5755
+finely granular GGP descriptors,granularity,0.8753,0.4994
+coarsely granular GGP descriptors,granularity,0.8169,0.6051
+coarsely granular GGP descriptors,finely granular GGP descriptors,0.7193,0.7493
+cascade structured classifier,finely granular GGP descriptors,0.289,1.1925
+cascade structured classifier,coarsely granular GGP descriptors,0.2137,1.2541
+INRIA dataset,cascade structured classifier,0.0391,1.3863

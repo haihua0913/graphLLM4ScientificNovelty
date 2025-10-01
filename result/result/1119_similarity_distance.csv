@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+pseudo-labels,self-training,-0.026,1.4325
+self-training,semi-supervised learning,0.1533,1.3013
+pseudo-labels,semi-supervised learning,-0.4361,1.6948
+pseudo-labels,pseudo-supervision,-0.3869,1.6655
+conformal prediction,pseudo-supervision,-0.1732,1.5318
+conformal prediction,set-valued predictions,0.1556,1.2995
+pseudo-supervision,set-valued predictions,-0.6633,1.8239
+conformal prediction,credal sets,-0.0942,1.4793
+credal sets,set-valued predictions,0.3003,1.1829
+credal sets,pseudo-supervision,-0.0621,1.4575
+calibration properties,pseudo-supervision,-0.3883,1.6663
+benchmark datasets,pseudo-supervision,-0.0244,1.4313
+calibration properties,credal sets,0.7569,0.6973
+benchmark datasets,credal sets,0.1022,1.34
+benchmark datasets,calibration properties,0.1497,1.3041

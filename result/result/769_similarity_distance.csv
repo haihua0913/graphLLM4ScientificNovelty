@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+correlation clustering,signed graph,0.3818,1.112
+clustering,correlation clustering,-0.0822,1.4712
+clustering,signed graph,-0.1972,1.5474
+correlation clustering,online setting,-0.001,1.4149
+correlation clustering,recourse,0.5349,0.9645
+approximate clustering,correlation clustering,-0.0258,1.4324
+clustering,online setting,0.8973,0.4532
+clustering,recourse,-0.0345,1.4384
+approximate clustering,clustering,0.972,0.2365
+online setting,recourse,-0.0014,1.4152
+approximate clustering,online setting,0.9443,0.3339
+approximate clustering,recourse,0.0637,1.3684
+algorithm,correlation clustering,0.961,0.2792
+algorithm,clustering,0.0413,1.3847
+algorithm,online setting,0.0999,1.3417
+algorithm,recourse,0.6606,0.8239
+algorithm,approximate clustering,0.1203,1.3264
+clustering,lower bound,0.439,1.0593
+lower bound,online setting,0.5052,0.9948
+lower bound,recourse,0.3648,1.1272
+approximate clustering,lower bound,0.5256,0.974
+algorithm,lower bound,0.8293,0.5843
+real world data,recourse,0.3871,1.1072
+lower bound,real world data,0.4227,1.0745
+algorithm,real world data,0.4572,1.0419

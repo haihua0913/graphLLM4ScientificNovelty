@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+hierarchical phrases,statistical phrase-based translation model,-0.0324,1.4369
+statistical phrase-based translation model,synchronous context-free grammar,0.9933,0.1158
+bitext,statistical phrase-based translation model,0.1311,1.3182
+hierarchical phrases,synchronous context-free grammar,-0.008,1.4198
+bitext,hierarchical phrases,-0.2116,1.5567
+bitext,synchronous context-free grammar,0.1815,1.2795
+statistical phrase-based translation model,syntax-based translation systems,0.9451,0.3313
+hierarchical phrases,syntax-based translation systems,-0.1994,1.5488
+synchronous context-free grammar,syntax-based translation systems,0.9492,0.3188
+bitext,syntax-based translation systems,0.2422,1.2311
+BLEU,synchronous context-free grammar,0.0042,1.4113
+Pharaoh,synchronous context-free grammar,-0.0689,1.4621
+phrase-based system,synchronous context-free grammar,0.9008,0.4453
+BLEU,bitext,0.5815,0.9149
+Pharaoh,bitext,-0.1471,1.5146
+bitext,phrase-based system,0.0654,1.3672
+BLEU,syntax-based translation systems,0.0767,1.3589
+Pharaoh,syntax-based translation systems,-0.0698,1.4628
+phrase-based system,syntax-based translation systems,0.8757,0.4987
+BLEU,Pharaoh,0.144,1.3084
+BLEU,phrase-based system,-0.1755,1.5333
+Pharaoh,phrase-based system,0.0729,1.3617

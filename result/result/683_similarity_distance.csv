@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+Optimal Bellman Residual,quasi-Newton methods,0.0483,1.3796
+quasi-Newton methods,zero-sum two-player Markov Games,-0.0834,1.472
+Newton's method,quasi-Newton methods,0.5048,0.9952
+Optimal Bellman Residual,zero-sum two-player Markov Games,0.083,1.3542
+Newton's method,Optimal Bellman Residual,0.085,1.3528
+Newton's method,zero-sum two-player Markov Games,-0.4107,1.6797
+Bellman Residual Minimization Policy Iteration,quasi-Newton methods,0.137,1.3137
+Least Squares Policy Iteration,quasi-Newton methods,0.5296,0.97
+Bellman Residual Minimization Policy Iteration,Optimal Bellman Residual,-0.2345,1.5713
+Least Squares Policy Iteration,Optimal Bellman Residual,0.0102,1.407
+Bellman Residual Minimization Policy Iteration,zero-sum two-player Markov Games,0.2006,1.2644
+Least Squares Policy Iteration,zero-sum two-player Markov Games,-0.2367,1.5727
+Bellman Residual Minimization Policy Iteration,Newton's method,-0.2613,1.5883
+Least Squares Policy Iteration,Newton's method,0.9491,0.3191
+Bellman Residual Minimization Policy Iteration,Least Squares Policy Iteration,-0.3599,1.6492
+quasi-Newton methods,stability,0.3375,1.1511
+Newton's method,stability,-0.2152,1.559
+Bellman Residual Minimization Policy Iteration,stability,0.0864,1.3517
+Least Squares Policy Iteration,stability,-0.0171,1.4262

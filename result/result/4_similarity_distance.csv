@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+CNF satisfiability,local search methods,0.7157,0.7541
+local minimas,local search methods,0.6395,0.8491
+Weighting by Morris,local search methods,0.7015,0.7727
+Selman and Kautz,local search methods,0.3827,1.1112
+CNF satisfiability,local minimas,-0.0117,1.4225
+CNF satisfiability,Weighting by Morris,0.2059,1.2602
+CNF satisfiability,Selman and Kautz,-0.3014,1.6133
+Weighting by Morris,local minimas,0.8313,0.5808
+Selman and Kautz,local minimas,0.9305,0.3728
+Selman and Kautz,Weighting by Morris,0.6618,0.8225
+Weighting by Morris,weighting strategy,0.0839,1.3536
+Selman and Kautz,weighting strategy,-0.1324,1.5049
+resolvents of the clauses,weighting strategy,0.2165,1.2518
+number of variables,resolvents of the clauses,-0.3745,1.658
+resolvents of the clauses,search steps,-0.2214,1.5629
+number of variables,search steps,0.967,0.2568

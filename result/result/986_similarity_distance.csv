@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+Simultaneous Sampling-and-Search Planning,multi-robot motion planning,0.0743,1.3606
+SSSP,multi-robot motion planning,0.0482,1.3797
+SSSP,Simultaneous Sampling-and-Search Planning,0.0725,1.362
+multi-robot motion planning,roadmap construction,0.8534,0.5415
+collision-free pathfinding,multi-robot motion planning,-0.0856,1.4735
+Simultaneous Sampling-and-Search Planning,roadmap construction,0.07,1.3638
+Simultaneous Sampling-and-Search Planning,collision-free pathfinding,0.944,0.3347
+SSSP,roadmap construction,-0.1558,1.5204
+SSSP,collision-free pathfinding,-0.0566,1.4537
+collision-free pathfinding,roadmap construction,-0.1066,1.4877
+SSSP,search techniques,0.2779,1.2018
+SSSP,multi-agent pathfinding,0.118,1.3281
+SSSP,discretized spaces,-0.3658,1.6528
+roadmap construction,search techniques,0.0326,1.391
+multi-agent pathfinding,roadmap construction,0.0023,1.4126
+discretized spaces,roadmap construction,-0.2842,1.6026
+collision-free pathfinding,search techniques,0.0022,1.4127
+collision-free pathfinding,multi-agent pathfinding,0.9585,0.2881
+collision-free pathfinding,discretized spaces,0.0166,1.4024
+multi-agent pathfinding,search techniques,0.1027,1.3396
+discretized spaces,search techniques,-0.3562,1.647
+discretized spaces,multi-agent pathfinding,-0.2377,1.5734
+SSSP,empirical evaluations,-0.2737,1.5961

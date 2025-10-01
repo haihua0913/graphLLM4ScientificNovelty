@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+deep neural networks,model guidance,0.0139,1.4044
+deep neural networks,generalization,-0.175,1.533
+generalization,model guidance,0.941,0.3436
+PASCAL VOC 2007,model guidance,0.1072,1.3363
+attribution methods,model guidance,0.9239,0.3903
+PASCAL VOC 2007,attribution methods,0.201,1.2642
+bounding box annotations,model guidance,0.9501,0.316
+PASCAL VOC 2007,bounding box annotations,0.1613,1.2951
+attribution methods,bounding box annotations,0.9592,0.2858
+Energy loss,model guidance,-0.4318,1.6922
+Energy loss,bounding box annotations,-0.2222,1.5635
+distribution shifts,model guidance,-0.1713,1.5306
+bounding box annotations,generalization,0.971,0.2407
+Energy loss,generalization,-0.332,1.6322
+distribution shifts,generalization,-0.3341,1.6334
+bounding box annotations,distribution shifts,-0.2178,1.5606
+Energy loss,distribution shifts,-0.0754,1.4665

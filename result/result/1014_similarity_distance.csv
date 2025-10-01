@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+Bayesian computation,parallel coordinate ascent,0.8867,0.476
+Bayesian computation,stochastic optimization,0.0618,1.3698
+parallel coordinate ascent,stochastic optimization,0.0115,1.4061
+Bayesian computation,bias and variance,-0.1738,1.5322
+Bayesian computation,batch variational Bayes,0.3066,1.1776
+bias and variance,parallel coordinate ascent,-0.1564,1.5208
+batch variational Bayes,parallel coordinate ascent,-0.0271,1.4332
+batch variational Bayes,bias and variance,-0.2105,1.556
+bias and variance,stochastic optimization,0.4923,1.0077
+batch variational Bayes,stochastic optimization,-0.0932,1.4786
+Kalman filter,variational parameters,-0.3653,1.6524
+adaptive steps,variational parameters,0.1123,1.3324
+Kalman filter,adaptive steps,-0.0196,1.428
+heavy-tailed noise,variational parameters,0.0964,1.3443
+Kalman filter,heavy-tailed noise,0.0261,1.3956
+adaptive steps,heavy-tailed noise,-0.0469,1.447

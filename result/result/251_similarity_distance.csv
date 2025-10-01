@@ -1,0 +1,37 @@
+node1,node2,similarity,distance
+dependency parsers,semisupervised method,0.1034,1.3391
+dependency parsers,lexical representation,-0.1412,1.5107
+dependency parsers,word clusters,-0.1442,1.5127
+dependency parsers,unannotated corpus,-0.2845,1.6028
+lexical representation,semisupervised method,0.6739,0.8076
+semisupervised method,word clusters,0.7271,0.7388
+semisupervised method,unannotated corpus,0.5327,0.9667
+lexical representation,word clusters,0.9516,0.3112
+lexical representation,unannotated corpus,0.1552,1.2998
+unannotated corpus,word clusters,0.0638,1.3684
+dependency parsers,dependency parsing experiments,0.8954,0.4573
+Penn Treebank,dependency parsers,-0.4431,1.6989
+Prague Dependency Treebank,dependency parsers,-0.2961,1.61
+cluster-based features,dependency parsers,-0.0348,1.4386
+dependency parsing experiments,semisupervised method,0.2728,1.206
+Penn Treebank,semisupervised method,0.091,1.3483
+Prague Dependency Treebank,semisupervised method,-0.3941,1.6698
+cluster-based features,semisupervised method,0.5935,0.9016
+dependency parsing experiments,lexical representation,-0.0098,1.4211
+Penn Treebank,lexical representation,-0.1123,1.4915
+Prague Dependency Treebank,lexical representation,-0.1146,1.4931
+cluster-based features,lexical representation,0.0541,1.3754
+dependency parsing experiments,word clusters,-0.0551,1.4526
+Penn Treebank,word clusters,0.0133,1.4048
+Prague Dependency Treebank,word clusters,-0.1695,1.5294
+cluster-based features,word clusters,0.0135,1.4047
+dependency parsing experiments,unannotated corpus,-0.0227,1.4302
+Penn Treebank,unannotated corpus,0.055,1.3748
+Prague Dependency Treebank,unannotated corpus,-0.2022,1.5506
+cluster-based features,unannotated corpus,0.9422,0.3401
+Penn Treebank,dependency parsing experiments,-0.2493,1.5807
+Prague Dependency Treebank,dependency parsing experiments,-0.343,1.6389
+cluster-based features,dependency parsing experiments,0.1806,1.2801
+Penn Treebank,Prague Dependency Treebank,-0.0651,1.4595
+Penn Treebank,cluster-based features,0.0097,1.4074
+Prague Dependency Treebank,cluster-based features,-0.4307,1.6915

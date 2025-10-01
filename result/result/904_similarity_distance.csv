@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+inconsistent behaviors,multi-view outlier detection,0.0839,1.3536
+multi-view outlier detection,system errors,0.0649,1.3676
+data-captured sensors,multi-view outlier detection,-0.0454,1.4459
+inconsistent behaviors,system errors,0.9307,0.3723
+data-captured sensors,inconsistent behaviors,0.9442,0.334
+data-captured sensors,system errors,0.9174,0.4066
+anomalies,multi-view outlier detection,-0.0469,1.447
+anomalies,system errors,-0.1235,1.499
+anomalies,data-captured sensors,-0.2545,1.584
+latent coefficients,multi-view outlier detection,0.0519,1.377
+multi-view outlier detection,sample-specific errors,0.9674,0.2554
+latent coefficients,sample-specific errors,-0.0621,1.4575
+anomalies,latent coefficients,0.0211,1.3992
+anomalies,sample-specific errors,0.1257,1.3224
+multi-view outlier detection,outlier measurement criterion,0.9763,0.2177
+latent coefficients,outlier measurement criterion,-0.0641,1.4588
+outlier measurement criterion,sample-specific errors,0.9496,0.3174
+anomalies,outlier measurement criterion,-0.1516,1.5176
+latent coefficients,optimization algorithm,-0.2726,1.5954
+optimization algorithm,sample-specific errors,-0.0024,1.4159
+optimization algorithm,outlier measurement criterion,0.0339,1.39

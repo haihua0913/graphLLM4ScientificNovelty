@@ -1,0 +1,182 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/chil/chil2022.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"75.62"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"25",
+"@dc":"25",
+"@oc":"25",
+"@id":"48878054",
+"text":":facetid:toc:db/conf/chil/chil2022.bht"
+}
+},
+"hits":{
+"@total":"25",
+"@computed":"25",
+"@sent":"25",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1563633",
+"info":{"authors":{"author":[{"@pid":"258/1233","text":"Zhixuan Chu"},{"@pid":"136/7508","text":"Stephen L. Rathbun"},{"@pid":"23/3439-1","text":"Sheng Li 0001"}]},"title":"Multi-Task Adversarial Learning for Treatment Effect Estimation in Basket Trials.","venue":"CHIL","pages":"79-91","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/ChuR022","ee":"https://proceedings.mlr.press/v174/chu22a.html","url":"https://dblp.org/rec/conf/chil/ChuR022"},
+"url":"URL#1563633"
+},
+{
+"@score":"1",
+"@id":"1563634",
+"info":{"authors":{"author":[{"@pid":"86/2026","text":"Tal El-Hay"},{"@pid":"13/2614","text":"Chen Yanover"}]},"title":"Estimating Model Performance on External Samples from Their Limited Statistical Characteristics.","venue":"CHIL","pages":"48-62","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/El-HayY22","ee":"https://proceedings.mlr.press/v174/el-hay22a.html","url":"https://dblp.org/rec/conf/chil/El-HayY22"},
+"url":"URL#1563634"
+},
+{
+"@score":"1",
+"@id":"1563635",
+"info":{"authors":{"author":[{"@pid":"81/3625","text":"Mehdi Fatemi"},{"@pid":"21/267","text":"Mary Wu"},{"@pid":"191/3746","text":"Jeremy Petch"},{"@pid":"316/9879","text":"Walter Nelson"},{"@pid":"317/0421","text":"Stuart J. Connolly"},{"@pid":"43/4502","text":"Alexander Benz"},{"@pid":"317/0288","text":"Anthony Carnicelli"},{"@pid":"145/6563","text":"Marzyeh Ghassemi"}]},"title":"Semi-Markov Offline Reinforcement Learning for Healthcare.","venue":"CHIL","pages":"119-137","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/FatemiWPNCBCG22","ee":"https://proceedings.mlr.press/v174/fatemi22a.html","url":"https://dblp.org/rec/conf/chil/FatemiWPNCBCG22"},
+"url":"URL#1563635"
+},
+{
+"@score":"1",
+"@id":"1563636",
+"info":{"authors":{"author":[{"@pid":"213/8100","text":"Gerardo Flores"},{"@pid":"121/1833","text":"George H. Chen"},{"@pid":"204/5503","text":"Tom J. Pollard"},{"@pid":"130/6419","text":"Ayah Zirikly"},{"@pid":"117/8186","text":"Michael C. Hughes"},{"@pid":"319/1885","text":"Tasmie Sarker"},{"@pid":"144/4961","text":"Joyce C. Ho"},{"@pid":"148/5539","text":"Tristan Naumann"}]},"title":"Conference on Health, Inference, and Learning (CHIL) 2022.","venue":"CHIL","pages":"1-4","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/FloresCPZHSHN22","ee":"https://proceedings.mlr.press/v174/flores22a.html","url":"https://dblp.org/rec/conf/chil/FloresCPZHSHN22"},
+"url":"URL#1563636"
+},
+{
+"@score":"1",
+"@id":"1563637",
+"info":{"authors":{"author":[{"@pid":"32/5207-2","text":"Xiaolei Huang 0002"},{"@pid":"132/4043","text":"Franck Dernoncourt"},{"@pid":"31/5468","text":"Mark Dredze"}]},"title":"Enriching Unsupervised User Embedding via Medical Concepts.","venue":"CHIL","pages":"63-78","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/HuangDD22","ee":"https://proceedings.mlr.press/v174/huang22a.html","url":"https://dblp.org/rec/conf/chil/HuangDD22"},
+"url":"URL#1563637"
+},
+{
+"@score":"1",
+"@id":"1563638",
+"info":{"authors":{"author":[{"@pid":"299/1450","text":"Kyunghoon Hur"},{"@pid":"26/4105","text":"Jiyoung Lee"},{"@pid":"18/9560","text":"Jungwoo Oh"},{"@pid":"299/1555","text":"Wesley Price"},{"@pid":"71/10880","text":"Younghak Kim"},{"@pid":"41/3886","text":"Edward Choi"}]},"title":"Unifying Heterogeneous Electronic Health Records Systems via Text-Based Code Embedding.","venue":"CHIL","pages":"183-203","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/HurLOPKC22","ee":"https://proceedings.mlr.press/v174/hur22a.html","url":"https://dblp.org/rec/conf/chil/HurLOPKC22"},
+"url":"URL#1563638"
+},
+{
+"@score":"1",
+"@id":"1563639",
+"info":{"authors":{"author":[{"@pid":"317/0852","text":"Vincent Jeanselme"},{"@pid":"37/6417","text":"Brian D. M. Tom"},{"@pid":"284/4833","text":"Jessica K. Barrett"}]},"title":"Neural Survival Clustering: Non-parametric mixture of neural networks for survival clustering.","venue":"CHIL","pages":"92-102","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/JeanselmeTB22","ee":"https://proceedings.mlr.press/v174/jeanselme22a.html","url":"https://dblp.org/rec/conf/chil/JeanselmeTB22"},
+"url":"URL#1563639"
+},
+{
+"@score":"1",
+"@id":"1563640",
+"info":{"authors":{"author":[{"@pid":"222/1863","text":"Ramtin Keramati"},{"@pid":"217/4338","text":"Omer Gottesman"},{"@pid":"95/10052","text":"Leo Anthony Celi"},{"@pid":"64/7056","text":"Finale Doshi-Velez"},{"@pid":"27/1277","text":"Emma Brunskill"}]},"title":"Identification of Subgroups With Similar Benefits in Off-Policy Policy Evaluation.","venue":"CHIL","pages":"397-410","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/KeramatiGCDB22","ee":"https://proceedings.mlr.press/v174/keramati22a.html","url":"https://dblp.org/rec/conf/chil/KeramatiGCDB22"},
+"url":"URL#1563640"
+},
+{
+"@score":"1",
+"@id":"1563641",
+"info":{"authors":{"author":[{"@pid":"192/1575","text":"Taylor W. Killian"},{"@pid":"145/6563","text":"Marzyeh Ghassemi"},{"@pid":"173/2910","text":"Shalmali Joshi"}]},"title":"Counterfactually Guided Policy Transfer in Clinical Settings.","venue":"CHIL","pages":"5-31","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/KillianGJ22","ee":"https://proceedings.mlr.press/v174/killian22a.html","url":"https://dblp.org/rec/conf/chil/KillianGJ22"},
+"url":"URL#1563641"
+},
+{
+"@score":"1",
+"@id":"1563642",
+"info":{"authors":{"author":[{"@pid":"29/986","text":"Daeyoung Kim"},{"@pid":"307/5358","text":"Seongsu Bae"},{"@pid":"22/1792","text":"Seungho Kim"},{"@pid":"41/3886","text":"Edward Choi"}]},"title":"Uncertainty-Aware Text-to-Program for Question Answering on Structured Electronic Health Records.","venue":"CHIL","pages":"138-151","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/KimBKC22","ee":"https://proceedings.mlr.press/v174/kim22a.html","url":"https://dblp.org/rec/conf/chil/KimBKC22"},
+"url":"URL#1563642"
+},
+{
+"@score":"1",
+"@id":"1563643",
+"info":{"authors":{"author":[{"@pid":"123/5825","text":"Juyong Kim 0002"},{"@pid":"117/4916","text":"Jeremy C. Weiss"},{"@pid":"94/3594","text":"Pradeep Ravikumar"}]},"title":"Context-Sensitive Spelling Correction of Clinical Text via Conditional Independence.","venue":"CHIL","pages":"234-247","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/KimWR22","ee":"https://proceedings.mlr.press/v174/kim22b.html","url":"https://dblp.org/rec/conf/chil/KimWR22"},
+"url":"URL#1563643"
+},
+{
+"@score":"1",
+"@id":"1563644",
+"info":{"authors":{"author":[{"@pid":"306/0868","text":"Newton Mwai Kinyanjui"},{"@pid":"58/1342-2","text":"Fredrik D. Johansson"}]},"title":"ADCB: An Alzheimer&apos;s disease simulator for benchmarking observational estimators of causal effects.","venue":"CHIL","pages":"103-118","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/KinyanjuiJ22","ee":"https://proceedings.mlr.press/v174/kinyanjui22a.html","url":"https://dblp.org/rec/conf/chil/KinyanjuiJ22"},
+"url":"URL#1563644"
+},
+{
+"@score":"1",
+"@id":"1563645",
+"info":{"authors":{"author":[{"@pid":"140/2101","text":"Kwanhyung Lee"},{"@pid":"147/5446","text":"Hyewon Jeong"},{"@pid":"41/7538","text":"Seyun Kim"},{"@pid":"312/5482","text":"Donghwa Yang"},{"@pid":"187/8016","text":"Hoon-Chul Kang"},{"@pid":"41/3886","text":"Edward Choi"}]},"title":"Real-Time Seizure Detection using EEG: A Comprehensive Comparison of Recent Approaches under a Realistic Setting.","venue":"CHIL","pages":"311-337","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/LeeJKYKC22","ee":"https://proceedings.mlr.press/v174/lee22a.html","url":"https://dblp.org/rec/conf/chil/LeeJKYKC22"},
+"url":"URL#1563645"
+},
+{
+"@score":"1",
+"@id":"1563646",
+"info":{"authors":{"author":[{"@pid":"18/9560","text":"Jungwoo Oh"},{"@pid":"276/6797","text":"Hyunseung Chung"},{"@pid":"286/8535","text":"Joon-Myoung Kwon"},{"@pid":"315/8866","text":"Dong-gyun Hong"},{"@pid":"41/3886","text":"Edward Choi"}]},"title":"Lead-agnostic Self-supervised Learning for Local and Global Representations of Electrocardiogram.","venue":"CHIL","pages":"338-353","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/OhCKHC22","ee":"https://proceedings.mlr.press/v174/oh22a.html","url":"https://dblp.org/rec/conf/chil/OhCKHC22"},
+"url":"URL#1563646"
+},
+{
+"@score":"1",
+"@id":"1563647",
+"info":{"authors":{"author":[{"@pid":"261/9861","text":"Ankit Pal"},{"@pid":"317/4556","text":"Logesh Kumar Umapathi"},{"@pid":"224/0138","text":"Malaikannan Sankarasubbu"}]},"title":"MedMCQA: A Large-scale Multi-Subject Multi-Choice Dataset for Medical domain Question Answering.","venue":"CHIL","pages":"248-260","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/PalUS22","ee":"https://proceedings.mlr.press/v174/pal22a.html","url":"https://dblp.org/rec/conf/chil/PalUS22"},
+"url":"URL#1563647"
+},
+{
+"@score":"1",
+"@id":"1563648",
+"info":{"authors":{"author":[{"@pid":"76/6987","text":"Sungjin Park"},{"@pid":"307/5358","text":"Seongsu Bae"},{"@pid":"50/5515","text":"Jiho Kim"},{"@pid":"316/9982","text":"Tackeun Kim"},{"@pid":"41/3886","text":"Edward Choi"}]},"title":"Graph-Text Multi-Modal Pre-training for Medical Representation Learning.","venue":"CHIL","pages":"261-281","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/ParkBKKC22","ee":"https://proceedings.mlr.press/v174/park22a.html","url":"https://dblp.org/rec/conf/chil/ParkBKKC22"},
+"url":"URL#1563648"
+},
+{
+"@score":"1",
+"@id":"1563649",
+"info":{"authors":{"author":[{"@pid":"186/8428","text":"Florian Pfisterer"},{"@pid":"13/113","text":"Chris Harbron"},{"@pid":"209/7389","text":"Gunther Jansen"},{"@pid":"96/6771","text":"Tao Xu"}]},"title":"Evaluating Domain Generalization for Survival Analysis in Clinical Studies.","venue":"CHIL","pages":"32-47","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/PfistererHJX22","ee":"https://proceedings.mlr.press/v174/pfisterer22a.html","url":"https://dblp.org/rec/conf/chil/PfistererHJX22"},
+"url":"URL#1563649"
+},
+{
+"@score":"1",
+"@id":"1563650",
+"info":{"authors":{"author":[{"@pid":"200/8793","text":"Aniruddh Raghu"},{"@pid":"232/1705","text":"Divya Shanmugam"},{"@pid":"287/4122","text":"Eugene Pomerantsev"},{"@pid":"g/JohnVGuttag","text":"John V. Guttag"},{"@pid":"30/7948","text":"Collin M. Stultz"}]},"title":"Data Augmentation for Electrocardiograms.","venue":"CHIL","pages":"282-310","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/RaghuSPGS22","ee":"https://proceedings.mlr.press/v174/raghu22a.html","url":"https://dblp.org/rec/conf/chil/RaghuSPGS22"},
+"url":"URL#1563650"
+},
+{
+"@score":"1",
+"@id":"1563651",
+"info":{"authors":{"author":[{"@pid":"255/5652","text":"Shadi Rahimian"},{"@pid":"226/7191","text":"Raouf Kerkouche"},{"@pid":"277/9071","text":"Ina Kurth"},{"@pid":"07/5701","text":"Mario Fritz"}]},"title":"Practical Challenges in Differentially-Private Federated Survival Analysis of Medical Data.","venue":"CHIL","pages":"411-425","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/RahimianKKF22","ee":"https://proceedings.mlr.press/v174/rahimian22a.html","url":"https://dblp.org/rec/conf/chil/RahimianKKF22"},
+"url":"URL#1563651"
+},
+{
+"@score":"1",
+"@id":"1563652",
+"info":{"authors":{"author":[{"@pid":"73/8829","text":"Subhrajit Roy"},{"@pid":"278/2655","text":"Diana Mincu"},{"@pid":"318/1283","text":"Lev Proleev"},{"@pid":"126/0982","text":"Negar Rostamzadeh"},{"@pid":"318/1122","text":"Chintan Ghate"},{"@pid":"301/2532","text":"Natalie Harris"},{"@pid":"278/2847","text":"Christina Chen"},{"@pid":"96/9449","text":"Jessica Schrouff"},{"@pid":"80/1424","text":"Nenad Tomasev"},{"@pid":"318/1102","text":"Fletcher Lee Hartsell"},{"@pid":"32/4403","text":"Katherine A. Heller"}]},"title":"Disability prediction in multiple sclerosis using performance outcome measures and demographic data.","venue":"CHIL","pages":"375-396","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/RoyMPRGHCSTHH22","ee":"https://proceedings.mlr.press/v174/roy22a.html","url":"https://dblp.org/rec/conf/chil/RoyMPRGHCSTHH22"},
+"url":"URL#1563652"
+},
+{
+"@score":"1",
+"@id":"1563653",
+"info":{"authors":{"author":[{"@pid":"206/6599","text":"Sana Tonekaboni"},{"@pid":"319/1777","text":"Gabriela Morgenshtern"},{"@pid":"285/6659","text":"Azadeh Assadi"},{"@pid":"319/1206","text":"Aslesha Pokhrel"},{"@pid":"40/5044","text":"Xi Huang"},{"@pid":"231/9528","text":"Anand Jayarajan"},{"@pid":"209/4444","text":"Robert Greer"},{"@pid":"118/8979","text":"Gennady Pekhimenko"},{"@pid":"241/5959","text":"Melissa D. McCradden"},{"@pid":"225/9261","text":"Mjaye Mazwi"},{"@pid":"06/3543","text":"Anna Goldenberg"}]},"title":"How to validate Machine Learning Models Prior to Deployment: Silent trial protocol for evaluation of real-time models at ICU.","venue":"CHIL","pages":"169-182","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/TonekaboniMAPHJ22","ee":"https://proceedings.mlr.press/v174/tonekaboni22a.html","url":"https://dblp.org/rec/conf/chil/TonekaboniMAPHJ22"},
+"url":"URL#1563653"
+},
+{
+"@score":"1",
+"@id":"1563654",
+"info":{"authors":{"author":[{"@pid":"319/1862","text":"Addison Weatherhead"},{"@pid":"209/4444","text":"Robert Greer"},{"@pid":"319/1688","text":"Michael-Alice Moga"},{"@pid":"225/9261","text":"Mjaye Mazwi"},{"@pid":"10/11026","text":"Danny Eytan"},{"@pid":"06/3543","text":"Anna Goldenberg"},{"@pid":"206/6599","text":"Sana Tonekaboni"}]},"title":"Learning Unsupervised Representations for ICU Timeseries.","venue":"CHIL","pages":"152-168","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/WeatherheadGMME22","ee":"https://proceedings.mlr.press/v174/weatherhead22a.html","url":"https://dblp.org/rec/conf/chil/WeatherheadGMME22"},
+"url":"URL#1563654"
+},
+{
+"@score":"1",
+"@id":"1563655",
+"info":{"authors":{"author":[{"@pid":"95/4452-3","text":"Haoran Zhang 0003"},{"@pid":"283/2784","text":"Natalie Dullerud"},{"@pid":"234/7803","text":"Karsten Roth"},{"@pid":"317/1241","text":"Lauren Oakden-Rayner"},{"@pid":"225/6445","text":"Stephen Pfohl"},{"@pid":"145/6563","text":"Marzyeh Ghassemi"}]},"title":"Improving the Fairness of Chest X-ray Classifiers.","venue":"CHIL","pages":"204-233","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/ZhangDROPG22","ee":"https://proceedings.mlr.press/v174/zhang22a.html","url":"https://dblp.org/rec/conf/chil/ZhangDROPG22"},
+"url":"URL#1563655"
+},
+{
+"@score":"1",
+"@id":"1563656",
+"info":{"authors":{"author":[{"@pid":"40/10195","text":"Jiacheng Zhu"},{"@pid":"96/11537","text":"Gregory Darnell"},{"@pid":"269/0522","text":"Agni Kumar"},{"@pid":"135/7202","text":"Ding Zhao"},{"@pid":"50/3402-26","text":"Bo Li 0026"},{"@pid":"91/5150","text":"XuanLong Nguyen"},{"@pid":"317/2660","text":"Shirley You Ren"}]},"title":"PhysioMTL: Personalizing Physiological Patterns using Optimal Transport Multi-Task Regression.","venue":"CHIL","pages":"354-374","year":"2022","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/ZhuDKZLNR22","ee":"https://proceedings.mlr.press/v174/zhu22a.html","url":"https://dblp.org/rec/conf/chil/ZhuDKZLNR22"},
+"url":"URL#1563656"
+},
+{
+"@score":"1",
+"@id":"1715215",
+"info":{"authors":{"author":[{"@pid":"213/8100","text":"Gerardo Flores"},{"@pid":"121/1833","text":"George H. Chen"},{"@pid":"204/5503","text":"Tom J. Pollard"},{"@pid":"144/4961","text":"Joyce C. Ho"},{"@pid":"148/5539","text":"Tristan Naumann"}]},"title":"Conference on Health, Inference, and Learning, CHIL 2022, 7-8 April 2022, Virtual Event.","venue":["CHIL","Proceedings of Machine Learning Research"],"volume":"174","publisher":"PMLR","year":"2022","type":"Editorship","access":"open","key":"conf/chil/2022","ee":"http://proceedings.mlr.press/v174/","url":"https://dblp.org/rec/conf/chil/2022"},
+"url":"URL#1715215"
+}
+]
+}
+}
+}

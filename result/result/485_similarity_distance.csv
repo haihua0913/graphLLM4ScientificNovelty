@@ -1,0 +1,40 @@
+node1,node2,similarity,distance
+autoencoder,single-view images,0.3935,1.1014
+3D deformable object categories,autoencoder,0.3268,1.1603
+autoencoder,depth,-0.4985,1.7312
+albedo,autoencoder,0.4675,1.0319
+autoencoder,viewpoint,-0.0469,1.447
+autoencoder,illumination,0.5714,0.9258
+autoencoder,supervision,-0.1054,1.4868
+3D deformable object categories,single-view images,-0.1592,1.5227
+depth,single-view images,-0.3591,1.6487
+albedo,single-view images,0.0792,1.357
+single-view images,viewpoint,0.7896,0.6488
+illumination,single-view images,0.4699,1.0296
+single-view images,supervision,-0.7577,1.8749
+3D deformable object categories,depth,-0.0758,1.4669
+3D deformable object categories,albedo,0.9313,0.3707
+3D deformable object categories,viewpoint,-0.054,1.4519
+3D deformable object categories,illumination,-0.2857,1.6036
+3D deformable object categories,supervision,0.2626,1.2144
+albedo,depth,-0.2983,1.6114
+depth,viewpoint,-0.1505,1.5169
+depth,illumination,-0.0762,1.4671
+depth,supervision,-0.1333,1.5055
+albedo,viewpoint,0.0246,1.3967
+albedo,illumination,-0.0525,1.4508
+albedo,supervision,0.1992,1.2656
+illumination,viewpoint,-0.132,1.5047
+supervision,viewpoint,-0.7184,1.8538
+illumination,supervision,-0.281,1.6006
+autoencoder,object symmetry,0.4005,1.095
+depth,object symmetry,-0.1946,1.5457
+albedo,object symmetry,0.9331,0.3657
+object symmetry,viewpoint,-0.3171,1.623
+illumination,object symmetry,0.017,1.4022
+object symmetry,supervision,0.4187,1.0782
+illumination,symmetry probability map,-0.521,1.7442
+object symmetry,symmetry probability map,-0.2432,1.5768
+supervision,symmetry probability map,-0.0924,1.4781
+single-view images,symmetry probability map,-0.2277,1.567
+object symmetry,single-view images,-0.1881,1.5415

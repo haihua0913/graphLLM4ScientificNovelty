@@ -1,0 +1,35 @@
+node1,node2,similarity,distance
+Q-learning,dynamic programming,-0.3807,1.6617
+Q-learning,function approximation,0.9227,0.3931
+Q-learning,delusional bias,-0.061,1.4567
+Q-learning,expressible greedy policies,0.9155,0.4112
+dynamic programming,function approximation,-0.3195,1.6245
+delusional bias,dynamic programming,-0.0897,1.4763
+dynamic programming,expressible greedy policies,-0.2174,1.5604
+delusional bias,function approximation,0.0192,1.4006
+expressible greedy policies,function approximation,0.7461,0.7126
+delusional bias,expressible greedy policies,-0.1366,1.5077
+Q-learning,Q-value estimates,-0.1239,1.4993
+Q-value estimates,dynamic programming,-0.371,1.6559
+Q-value estimates,function approximation,-0.1499,1.5165
+Q-value estimates,delusional bias,0.0089,1.4079
+Q-value estimates,expressible greedy policies,-0.0929,1.4784
+delusional bias,policy consistency,0.1508,1.3033
+delusional bias,local backup process,-0.1217,1.4978
+delusional bias,information sets,0.1695,1.2888
+expressible greedy policies,policy consistency,0.0128,1.4051
+expressible greedy policies,local backup process,0.6198,0.872
+expressible greedy policies,information sets,-0.2939,1.6087
+Q-value estimates,policy consistency,-0.3139,1.621
+Q-value estimates,local backup process,-0.4581,1.7077
+Q-value estimates,information sets,-0.0438,1.4448
+local backup process,policy consistency,0.1212,1.3258
+information sets,policy consistency,0.8441,0.5584
+information sets,local backup process,-0.1074,1.4882
+delusional bias,optimal results,-0.1293,1.5028
+Q-value estimates,optimal results,0.9347,0.3613
+optimal results,policy consistency,-0.2794,1.5996
+local backup process,optimal results,-0.2456,1.5784
+information sets,optimal results,-0.1687,1.5289
+Q-learning,information sets,-0.2089,1.5549
+Q-learning,optimal results,0.074,1.3609

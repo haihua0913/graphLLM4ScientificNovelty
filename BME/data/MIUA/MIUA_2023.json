@@ -1,0 +1,182 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/miua/miua2023.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"76.46"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"25",
+"@dc":"25",
+"@oc":"25",
+"@id":"48911151",
+"text":":facetid:toc:db/conf/miua/miua2023.bht"
+}
+},
+"hits":{
+"@total":"25",
+"@computed":"25",
+"@sent":"25",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"660545",
+"info":{"authors":{"author":[{"@pid":"04/7495","text":"Gordon D. Waiter"},{"@pid":"13/387","text":"Tryphon Lambrou"},{"@pid":"171/8444","text":"Georgios Leontidis"},{"@pid":"93/2933","text":"Nir Oren"},{"@pid":"362/7357","text":"Teresa Morris"},{"@pid":"362/6850","text":"Sharon Gordon"}]},"title":"Medical Image Understanding and Analysis - 27th Annual Conference, MIUA 2023, Aberdeen, UK, July 19-21, 2023, Proceedings","venue":["MIUA","Lecture Notes in Computer Science"],"volume":"14122","publisher":"Springer","year":"2024","type":"Editorship","key":"conf/miua/2023","doi":"10.1007/978-3-031-48593-0","ee":"https://doi.org/10.1007/978-3-031-48593-0","url":"https://dblp.org/rec/conf/miua/2023"},
+"url":"URL#660545"
+},
+{
+"@score":"1",
+"@id":"1163521",
+"info":{"authors":{"author":[{"@pid":"124/5380","text":"Faisal Ahmed"},{"@pid":"287/4893","text":"Baris Coskunuzer"}]},"title":"ToFi-ML: Retinal Image Screening with Topological Machine Learning.","venue":"MIUA","pages":"281-297","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/AhmedC23","doi":"10.1007/978-3-031-48593-0_21","ee":"https://doi.org/10.1007/978-3-031-48593-0_21","url":"https://dblp.org/rec/conf/miua/AhmedC23"},
+"url":"URL#1163521"
+},
+{
+"@score":"1",
+"@id":"1163522",
+"info":{"authors":{"author":[{"@pid":"362/7362","text":"Merna Bibars"},{"@pid":"362/7259","text":"Peter E. Salah"},{"@pid":"220/9358","text":"Ayman Eldeib"},{"@pid":"45/8192","text":"Mustafa A. Elattar"},{"@pid":"149/9633","text":"Inas A. Yassine"}]},"title":"Cross-Modality Deep Transfer Learning: Application to Liver Segmentation in CT and MRI.","venue":"MIUA","pages":"96-110","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/BibarsSEEY23","doi":"10.1007/978-3-031-48593-0_7","ee":"https://doi.org/10.1007/978-3-031-48593-0_7","url":"https://dblp.org/rec/conf/miua/BibarsSEEY23"},
+"url":"URL#1163522"
+},
+{
+"@score":"1",
+"@id":"1163523",
+"info":{"authors":{"author":[{"@pid":"44/5047","text":"Jonathan Campbell"},{"@pid":"204/5423","text":"Mitchell Dawson"},{"@pid":"z/AndrewZisserman","text":"Andrew Zisserman"},{"@pid":"199/1718","text":"Weidi Xie"},{"@pid":"31/7113","text":"Christoffer Nellåker"}]},"title":"Deep Facial Phenotyping with Mixup Augmentation.","venue":"MIUA","pages":"133-144","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/CampbellDZXN23","doi":"10.1007/978-3-031-48593-0_10","ee":"https://doi.org/10.1007/978-3-031-48593-0_10","url":"https://dblp.org/rec/conf/miua/CampbellDZXN23"},
+"url":"URL#1163523"
+},
+{
+"@score":"1",
+"@id":"1163524",
+"info":{"authors":{"author":[{"@pid":"175/3324","text":"Hao Chen"},{"@pid":"362/6783","text":"Taowen Liu"},{"@pid":"147/6572","text":"Songyun Hu"},{"@pid":"362/6962","text":"Leyang Yu"},{"@pid":"17/10445","text":"Yiqi Li"},{"@pid":"287/0800","text":"Sihan Tao"},{"@pid":"44/11246","text":"Jacqueline Lee"},{"@pid":"134/3560","text":"Ahmed E. Fetit"}]},"title":"Web-Based AI System for Medical Image Segmentation.","venue":"MIUA","pages":"231-241","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/ChenLHYLTLF23","doi":"10.1007/978-3-031-48593-0_17","ee":"https://doi.org/10.1007/978-3-031-48593-0_17","url":"https://dblp.org/rec/conf/miua/ChenLHYLTLF23"},
+"url":"URL#1163524"
+},
+{
+"@score":"1",
+"@id":"1163525",
+"info":{"authors":{"author":[{"@pid":"362/6754","text":"Samiran Dey"},{"@pid":"54/5020","text":"Partha Basuchowdhuri"},{"@pid":"182/0418","text":"Debasis Mitra"},{"@pid":"197/6641","text":"Robin Augustine"},{"@pid":"95/5989","text":"Sanjoy Kumar Saha 0001"},{"@pid":"147/9917","text":"Tapabrata Chakraborti"}]},"title":"BliMSR: Blind Degradation Modelling for Generating High-Resolution Medical Images.","venue":"MIUA","pages":"64-78","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/DeyBMASC23","doi":"10.1007/978-3-031-48593-0_5","ee":"https://doi.org/10.1007/978-3-031-48593-0_5","url":"https://dblp.org/rec/conf/miua/DeyBMASC23"},
+"url":"URL#1163525"
+},
+{
+"@score":"1",
+"@id":"1163526",
+"info":{"authors":{"author":[{"@pid":"306/1129","text":"Eyad Gad"},{"@pid":"333/8955","text":"Mustafa Abou Khatwa"},{"@pid":"45/8192","text":"Mustafa A. Elattar"},{"@pid":"192/2756","text":"Sahar Selim"}]},"title":"A Novel Approach to Breast Cancer Segmentation Using U-Net Model with Attention Mechanisms and FedProx.","venue":"MIUA","pages":"310-324","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/GadKES23","doi":"10.1007/978-3-031-48593-0_23","ee":"https://doi.org/10.1007/978-3-031-48593-0_23","url":"https://dblp.org/rec/conf/miua/GadKES23"},
+"url":"URL#1163526"
+},
+{
+"@score":"1",
+"@id":"1163527",
+"info":{"authors":{"author":[{"@pid":"362/6781","text":"Matthew Gil"},{"@pid":"362/6671","text":"Craig Dick"},{"@pid":"362/6883","text":"Stephen Harrow"},{"@pid":"18/4378","text":"Paul Murray"},{"@pid":"362/6905","text":"Gabriel Reines March"},{"@pid":"94/1778","text":"Stephen Marshall"}]},"title":"A Deep Learning Based Approach to Semantic Segmentation of Lung Tumour Areas in Gross Pathology Images.","venue":"MIUA","pages":"18-32","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/GilDHMMM23","doi":"10.1007/978-3-031-48593-0_2","ee":"https://doi.org/10.1007/978-3-031-48593-0_2","url":"https://dblp.org/rec/conf/miua/GilDHMMM23"},
+"url":"URL#1163527"
+},
+{
+"@score":"1",
+"@id":"1163528",
+"info":{"authors":{"author":[{"@pid":"167/2130","text":"Florent Grélard"},{"@pid":"264/4756","text":"Michael Tuck"},{"@pid":"362/7240","text":"Elise Cosenza"},{"@pid":"161/2978","text":"David Legland"},{"@pid":"362/7441","text":"Marlène Durand"},{"@pid":"345/6769","text":"Sylvain Miraux"},{"@pid":"362/6534","text":"Nicolas Desbenoit"}]},"title":"A New Similarity Metric for Deformable Registration of MALDI-MS and MRI Images.","venue":"MIUA","pages":"171-181","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/GrelardTCLDMD23","doi":"10.1007/978-3-031-48593-0_13","ee":"https://doi.org/10.1007/978-3-031-48593-0_13","url":"https://dblp.org/rec/conf/miua/GrelardTCLDMD23"},
+"url":"URL#1163528"
+},
+{
+"@score":"1",
+"@id":"1163529",
+"info":{"authors":{"author":[{"@pid":"308/6697","text":"Christoph Großbröhmer"},{"@pid":"95/10171","text":"Mattias P. Heinrich"}]},"title":"Generalised 3D Medical Image Registration with Learned Shape Encodings.","venue":"MIUA","pages":"268-280","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/GrossbrohmerH23","doi":"10.1007/978-3-031-48593-0_20","ee":"https://doi.org/10.1007/978-3-031-48593-0_20","url":"https://dblp.org/rec/conf/miua/GrossbrohmerH23"},
+"url":"URL#1163529"
+},
+{
+"@score":"1",
+"@id":"1163530",
+"info":{"authors":{"author":[{"@pid":"362/7168","text":"Mostafa A. Hammouda"},{"@pid":"362/6558","text":"Marwan Khaled"},{"@pid":"325/2882","text":"Hesham Ali 0002"},{"@pid":"192/2756","text":"Sahar Selim"},{"@pid":"273/8045","text":"Mustafa Elattar"}]},"title":"Revolutionizing Cancer Diagnosis Through Hybrid Self-supervised Deep Learning: EfficientNet with Denoising Autoencoder for Semantic Segmentation of Histopathological Images.","venue":"MIUA","pages":"197-214","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/HammoudaKASE23","doi":"10.1007/978-3-031-48593-0_15","ee":"https://doi.org/10.1007/978-3-031-48593-0_15","url":"https://dblp.org/rec/conf/miua/HammoudaKASE23"},
+"url":"URL#1163530"
+},
+{
+"@score":"1",
+"@id":"1163531",
+"info":{"authors":{"author":[{"@pid":"362/7078","text":"Nina Jiang"},{"@pid":"362/7386","text":"Yupeng Zhuo"},{"@pid":"302/5959","text":"Andrew W. Kirkpatrick"},{"@pid":"262/3648","text":"Kyle Couperus"},{"@pid":"266/0488","text":"Oanh Tran"},{"@pid":"362/6976","text":"Jonah Beck"},{"@pid":"362/7022","text":"DeAnna DeVane"},{"@pid":"362/6747","text":"Ross Candelore"},{"@pid":"302/6178","text":"Jessica L. McKee"},{"@pid":"313/4752","text":"Chad Gorbatkin"},{"@pid":"362/7088","text":"Eleanor Birch"},{"@pid":"362/6977","text":"Christopher Colombo"},{"@pid":"117/3417","text":"Bradley Duerstock"},{"@pid":"89/1212","text":"Juan P. Wachs"}]},"title":"Baseline Models for Action Recognition of Unscripted Casualty Care Dataset.","venue":"MIUA","pages":"215-227","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/JiangZKCTBDCMGBCDW23","doi":"10.1007/978-3-031-48593-0_16","ee":"https://doi.org/10.1007/978-3-031-48593-0_16","url":"https://dblp.org/rec/conf/miua/JiangZKCTBDCMGBCDW23"},
+"url":"URL#1163531"
+},
+{
+"@score":"1",
+"@id":"1163532",
+"info":{"authors":{"author":[{"@pid":"362/7287","text":"Riddhi Johri"},{"@pid":"150/7556","text":"Pankaj Pandey"},{"@pid":"00/4508","text":"Krishna Prasad Miyapuram"},{"@pid":"63/840","text":"James Derek Lomas"}]},"title":"Decoding Individual and Shared Experiences of Media Perception Using CNN Architectures.","venue":"MIUA","pages":"182-196","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/JohriPML23","doi":"10.1007/978-3-031-48593-0_14","ee":"https://doi.org/10.1007/978-3-031-48593-0_14","url":"https://dblp.org/rec/conf/miua/JohriPML23"},
+"url":"URL#1163532"
+},
+{
+"@score":"1",
+"@id":"1163533",
+"info":{"authors":{"author":[{"@pid":"362/6558","text":"Marwan Khaled"},{"@pid":"362/7168","text":"Mostafa A. Hammouda"},{"@pid":"325/2882","text":"Hesham Ali 0002"},{"@pid":"273/8045","text":"Mustafa Elattar"},{"@pid":"192/2756","text":"Sahar Selim"}]},"title":"Efficient Semantic Segmentation of Nuclei in Histopathology Images Using Segformer.","venue":"MIUA","pages":"81-95","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/KhaledHAES23","doi":"10.1007/978-3-031-48593-0_6","ee":"https://doi.org/10.1007/978-3-031-48593-0_6","url":"https://dblp.org/rec/conf/miua/KhaledHAES23"},
+"url":"URL#1163533"
+},
+{
+"@score":"1",
+"@id":"1163534",
+"info":{"authors":{"author":[{"@pid":"251/9480","text":"Bidur Khanal"},{"@pid":"127/0101","text":"Binod Bhattarai"},{"@pid":"18/10556","text":"Bishesh Khanal"},{"@pid":"53/3543","text":"Danail Stoyanov"},{"@pid":"69/1358","text":"Cristian A. Linte"}]},"title":"M-VAAL: Multimodal Variational Adversarial Active Learning for Downstream Medical Image Analysis Tasks.","venue":"MIUA","pages":"48-63","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/KhanalBKSL23","doi":"10.1007/978-3-031-48593-0_4","ee":"https://doi.org/10.1007/978-3-031-48593-0_4","url":"https://dblp.org/rec/conf/miua/KhanalBKSL23"},
+"url":"URL#1163534"
+},
+{
+"@score":"1",
+"@id":"1163535",
+"info":{"authors":{"author":[{"@pid":"362/6891","text":"Aakriti Mishra"},{"@pid":"143/0121","text":"A. Ramanathan"},{"@pid":"362/6719","text":"Vineet Batta"},{"@pid":"55/8836","text":"C. Malathy 0001"},{"@pid":"276/1394","text":"Soumya Snigdha Kundu"},{"@pid":"42/7690","text":"M. Gayathri"},{"@pid":"300/2139","text":"D. Vathana"},{"@pid":"362/7044","text":"Srinath Kamineni"}]},"title":"Harnessing the Potential of Deep Learning for Total Shoulder Implant Classification: A Comparative Study.","venue":"MIUA","pages":"119-132","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/MishraRBMKGVK23","doi":"10.1007/978-3-031-48593-0_9","ee":"https://doi.org/10.1007/978-3-031-48593-0_9","url":"https://dblp.org/rec/conf/miua/MishraRBMKGVK23"},
+"url":"URL#1163535"
+},
+{
+"@score":"1",
+"@id":"1163536",
+"info":{"authors":{"author":[{"@pid":"362/6511","text":"Jesse Phitidis"},{"@pid":"167/9700","text":"Alison Q. O&apos;Neil"},{"@pid":"182/3476","text":"Stewart Wiseman"},{"@pid":"187/4778","text":"David Alexander Dickie"},{"@pid":"69/10210","text":"Eleni Sakka"},{"@pid":"362/6777","text":"Agniete Kampaite"},{"@pid":"237/9749","text":"William Whiteley"},{"@pid":"83/3964","text":"Miguel O. Bernabeu"},{"@pid":"17/2942","text":"Beatrice Alex"},{"@pid":"116/1927","text":"Joanna M. Wardlaw"},{"@pid":"152/3983","text":"Maria del C. Valdés Hernández"}]},"title":"Segmentation of White Matter Hyperintensities and Ischaemic Stroke Lesions in Structural MRI.","venue":"MIUA","pages":"3-17","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/PhitidisOWDSKWBAWH23","doi":"10.1007/978-3-031-48593-0_1","ee":"https://doi.org/10.1007/978-3-031-48593-0_1","url":"https://dblp.org/rec/conf/miua/PhitidisOWDSKWBAWH23"},
+"url":"URL#1163536"
+},
+{
+"@score":"1",
+"@id":"1163537",
+"info":{"authors":{"author":[{"@pid":"362/7259","text":"Peter E. Salah"},{"@pid":"362/7362","text":"Merna Bibars"},{"@pid":"220/9358","text":"Ayman Eldeib"},{"@pid":"85/10450","text":"Ahmed M. Ghanem"},{"@pid":"37/8373","text":"Ahmed M. Gharib"},{"@pid":"20/1515","text":"Khaled Z. Abd-Elmoniem"},{"@pid":"45/8192","text":"Mustafa A. Elattar"},{"@pid":"149/9633","text":"Inas A. Yassine"}]},"title":"Iterative Refinement Algorithm for Liver Segmentation Ground-Truth Generation Using Fine-Tuning Weak Labels for CT and Structural MRI.","venue":"MIUA","pages":"33-47","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/SalahBEGGAEY23","doi":"10.1007/978-3-031-48593-0_3","ee":"https://doi.org/10.1007/978-3-031-48593-0_3","url":"https://dblp.org/rec/conf/miua/SalahBEGGAEY23"},
+"url":"URL#1163537"
+},
+{
+"@score":"1",
+"@id":"1163538",
+"info":{"authors":{"author":[{"@pid":"292/8249","text":"Suman Sapkota"},{"@pid":"318/1287","text":"Pranav Poudel"},{"@pid":"340/4011","text":"Sudarshan Regmi"},{"@pid":"348/6588","text":"Bibek Panthi"},{"@pid":"127/0101","text":"Binod Bhattarai"}]},"title":"Neural Network Pruning for Real-Time Polyp Segmentation.","venue":"MIUA","pages":"298-309","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/SapkotaPRPB23","doi":"10.1007/978-3-031-48593-0_22","ee":"https://doi.org/10.1007/978-3-031-48593-0_22","url":"https://dblp.org/rec/conf/miua/SapkotaPRPB23"},
+"url":"URL#1163538"
+},
+{
+"@score":"1",
+"@id":"1163539",
+"info":{"authors":{"author":[{"@pid":"311/5433","text":"Ikboljon Sobirov"},{"@pid":"191/6883","text":"Numan Saeed"},{"@pid":"72/10265","text":"Mohammad Yaqub"}]},"title":"Super Images - A New 2D Perspective on 3D Medical Imaging Analysis.","venue":"MIUA","pages":"325-337","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/SobirovSY23","doi":"10.1007/978-3-031-48593-0_24","ee":"https://doi.org/10.1007/978-3-031-48593-0_24","url":"https://dblp.org/rec/conf/miua/SobirovSY23"},
+"url":"URL#1163539"
+},
+{
+"@score":"1",
+"@id":"1163540",
+"info":{"authors":{"author":[{"@pid":"362/6588","text":"Théo Sourget"},{"@pid":"299/3862","text":"Syed Nouman Hasany"},{"@pid":"70/6285","text":"Fabrice Mériaudeau"},{"@pid":"13/1045","text":"Caroline Petitjean"}]},"title":"Can SegFormer be a True Competitor to U-Net for Medical Image Segmentation?","venue":"MIUA","pages":"111-118","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/SourgetHMP23","doi":"10.1007/978-3-031-48593-0_8","ee":"https://doi.org/10.1007/978-3-031-48593-0_8","url":"https://dblp.org/rec/conf/miua/SourgetHMP23"},
+"url":"URL#1163540"
+},
+{
+"@score":"1",
+"@id":"1163541",
+"info":{"authors":{"author":[{"@pid":"328/9856","text":"Ziqi Wen"},{"@pid":"156/8785","text":"Qingzhong Wang"},{"@pid":"09/851-3","text":"Jiang Bian 0003"},{"@pid":"76/5330-2","text":"Xuhong Li 0002"},{"@pid":"97/4626-40","text":"Yi Liu 0040"},{"@pid":"06/2700","text":"Haoyi Xiong"}]},"title":"Context Matters: Cross-Domain Cell Detection in Histopathology Images via Contextual Regularization.","venue":"MIUA","pages":"147-156","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/WenWBLLX23","doi":"10.1007/978-3-031-48593-0_11","ee":"https://doi.org/10.1007/978-3-031-48593-0_11","url":"https://dblp.org/rec/conf/miua/WenWBLLX23"},
+"url":"URL#1163541"
+},
+{
+"@score":"1",
+"@id":"1163542",
+"info":{"authors":{"author":[{"@pid":"362/6694","text":"Ama Katseena Yawson"},{"@pid":"362/7236","text":"Katharina Maria Paul"},{"@pid":"362/6887","text":"Cedric Beyer"},{"@pid":"362/7043","text":"Stefan Dorsch"},{"@pid":"362/7077","text":"Sebastian Klüter"},{"@pid":"86/1472","text":"Thomas Welzel"},{"@pid":"362/7346","text":"Katharina Seidensaal"},{"@pid":"30/2326","text":"Jürgen Debus"},{"@pid":"168/0076","text":"Oliver Jäkel"},{"@pid":"06/7092","text":"Kristina Giske"}]},"title":"Pseudo-SPR Map Generation from MRI Using U-Net Architecture for Ion Beam Therapy Application.","venue":"MIUA","pages":"257-267","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/YawsonPBDKWSDJG23","doi":"10.1007/978-3-031-48593-0_19","ee":"https://doi.org/10.1007/978-3-031-48593-0_19","url":"https://dblp.org/rec/conf/miua/YawsonPBDKWSDJG23"},
+"url":"URL#1163542"
+},
+{
+"@score":"1",
+"@id":"1163543",
+"info":{"authors":{"author":[{"@pid":"362/7386","text":"Yupeng Zhuo"},{"@pid":"362/7078","text":"Nina Jiang"},{"@pid":"302/5959","text":"Andrew W. Kirkpatrick"},{"@pid":"262/3648","text":"Kyle Couperus"},{"@pid":"266/0488","text":"Oanh Tran"},{"@pid":"362/6976","text":"Jonah Beck"},{"@pid":"362/7022","text":"DeAnna DeVane"},{"@pid":"362/6747","text":"Ross Candelore"},{"@pid":"302/6178","text":"Jessica L. McKee"},{"@pid":"313/4752","text":"Chad Gorbatkin"},{"@pid":"362/7088","text":"Eleanor Birch"},{"@pid":"362/6977","text":"Christopher Colombo"},{"@pid":"117/3417","text":"Bradley Duerstock"},{"@pid":"89/1212","text":"Juan P. Wachs"}]},"title":"TON-ViT: A Neuro-Symbolic AI Based on Task Oriented Network with a Vision Transformer.","venue":"MIUA","pages":"157-170","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/ZhuoJKCTBDCMGBCDW23","doi":"10.1007/978-3-031-48593-0_12","ee":"https://doi.org/10.1007/978-3-031-48593-0_12","url":"https://dblp.org/rec/conf/miua/ZhuoJKCTBDCMGBCDW23"},
+"url":"URL#1163543"
+},
+{
+"@score":"1",
+"@id":"1163544",
+"info":{"authors":{"author":[{"@pid":"325/2334","text":"Mustapha Zokay"},{"@pid":"69/2294","text":"Hicham Saylani"}]},"title":"A New Approach for Identifying Skin Diseases from Dermatological RGB Images Using Source Separation.","venue":"MIUA","pages":"242-256","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/ZokayS23","doi":"10.1007/978-3-031-48593-0_18","ee":"https://doi.org/10.1007/978-3-031-48593-0_18","url":"https://dblp.org/rec/conf/miua/ZokayS23"},
+"url":"URL#1163544"
+}
+]
+}
+}
+}

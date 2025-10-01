@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+active diagnosis,sensor network,0.9776,0.2118
+active diagnosis,monitoring,0.9725,0.2344
+active diagnosis,agents,0.9002,0.4467
+monitoring,sensor network,0.9534,0.3052
+agents,sensor network,0.8493,0.549
+agents,monitoring,0.9531,0.3064
+active diagnosis,immunity-based agents,0.9703,0.2436
+immunity-based agents,sensor network,0.948,0.3224
+immunity-based agents,monitoring,0.9806,0.1968
+agents,immunity-based agents,0.9415,0.3421
+active diagnosis,process diagnosis,0.2194,1.2495
+process diagnosis,sensor network,0.1657,1.2918
+immunity-based agents,process diagnosis,0.108,1.3357
+monitoring,process diagnosis,0.186,1.2759
+agents,process diagnosis,0.0078,1.4087
+sensor network,sensor values,0.7737,0.6727
+process constraints,sensor network,-0.2135,1.5579
+monitoring,sensor values,0.8655,0.5187
+monitoring,process constraints,-0.0451,1.4457
+process diagnosis,sensor values,0.045,1.382
+process constraints,process diagnosis,0.2449,1.2289
+agents,sensor values,0.9308,0.3722
+agents,process constraints,0.1308,1.3185
+process constraints,sensor values,0.325,1.1619

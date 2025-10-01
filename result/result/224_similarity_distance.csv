@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+information extraction,scenario template,-0.1956,1.5463
+multiple sentences,scenario template,0.6231,0.8682
+accuracy,scenario template,-0.2045,1.5521
+manually engineered rules,scenario template,0.0252,1.3963
+information extraction,multiple sentences,0.4756,1.0241
+accuracy,information extraction,-0.0598,1.4559
+information extraction,manually engineered rules,0.9388,0.3498
+accuracy,multiple sentences,-0.3889,1.6667
+manually engineered rules,multiple sentences,0.6308,0.8593
+accuracy,manually engineered rules,-0.1804,1.5365
+full parsing,scenario template,-0.0715,1.4639
+scenario template,state-of-the-art learning algorithms,-0.1838,1.5387
+full parsing,information extraction,0.9818,0.191
+information extraction,state-of-the-art learning algorithms,0.0711,1.363
+full parsing,multiple sentences,0.5545,0.9439
+multiple sentences,state-of-the-art learning algorithms,-0.3098,1.6185
+accuracy,full parsing,-0.0242,1.4313
+accuracy,state-of-the-art learning algorithms,0.9749,0.2238
+full parsing,manually engineered rules,0.9378,0.3526
+manually engineered rules,state-of-the-art learning algorithms,-0.0377,1.4406
+full parsing,state-of-the-art learning algorithms,0.1182,1.328
+information extraction,knowledge engineering approach,-0.1696,1.5295
+accuracy,knowledge engineering approach,-0.0177,1.4267
+knowledge engineering approach,manually engineered rules,-0.1678,1.5283
+full parsing,knowledge engineering approach,-0.0974,1.4815
+knowledge engineering approach,state-of-the-art learning algorithms,0.0032,1.412

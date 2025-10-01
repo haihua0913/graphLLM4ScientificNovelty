@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+maximum state entropy exploration,reward-free environment,-0.2724,1.5953
+maximum state entropy exploration,state visitations,0.053,1.3762
+reward-free environment,state visitations,0.2354,1.2366
+Markovian stochastic policies,maximum state entropy exploration,0.8351,0.5744
+maximum state entropy exploration,non-Markovianity,0.063,1.3689
+Markovian stochastic policies,reward-free environment,-0.0617,1.4572
+non-Markovianity,reward-free environment,0.2525,1.2227
+Markovian stochastic policies,non-Markovianity,0.2878,1.1935
+Markovian stochastic policies,state visitations,0.2664,1.2112
+non-Markovianity,state visitations,0.9981,0.0622
+finite-sample regime,maximum state entropy exploration,0.8996,0.4481
+Markovian stochastic policies,finite-sample regime,0.9482,0.322
+finite-sample regime,non-Markovianity,0.0495,1.3787
+finite-sample regime,state visitations,0.0291,1.3934
+maximum state entropy exploration,non-Markovian deterministic policies,0.8268,0.5886
+non-Markovian deterministic policies,non-Markovianity,0.4689,1.0307
+finite-sample regime,non-Markovian deterministic policies,0.8167,0.6054
+non-Markovian deterministic policies,state visitations,0.4611,1.0381
+NP-hard,state visitations,-0.1269,1.5013
+NP-hard,non-Markovian deterministic policies,-0.0721,1.4643
+non-Markovian deterministic policies,sample efficiency,0.3167,1.169
+non-Markovian deterministic policies,online reinforcement learning,0.0466,1.3809
+NP-hard,sample efficiency,-0.092,1.4779
+NP-hard,online reinforcement learning,0.0558,1.3742
+online reinforcement learning,sample efficiency,0.4192,1.0778

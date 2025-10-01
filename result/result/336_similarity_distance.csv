@@ -1,0 +1,35 @@
+node1,node2,similarity,distance
+ASDiv,Academia Sinica,0.3123,1.1727
+ASDiv,Diverse,0.2103,1.2568
+ASDiv,MWP Dataset,-0.379,1.6607
+ASDiv,MWP solvers,0.2494,1.2252
+ASDiv,English,0.1291,1.3197
+ASDiv,corpus,0.9012,0.4446
+ASDiv,problem types,0.0079,1.4086
+Academia Sinica,Diverse,0.8771,0.4957
+Academia Sinica,MWP Dataset,-0.6529,1.8182
+Academia Sinica,MWP solvers,0.9234,0.3915
+Academia Sinica,English,-0.3586,1.6484
+Academia Sinica,corpus,0.1064,1.3368
+Academia Sinica,problem types,0.3358,1.1526
+Diverse,MWP Dataset,-0.4252,1.6883
+Diverse,MWP solvers,0.9831,0.1838
+Diverse,English,-0.0134,1.4237
+Diverse,corpus,-0.1171,1.4948
+Diverse,problem types,0.5283,0.9713
+MWP Dataset,MWP solvers,-0.533,1.751
+English,MWP Dataset,0.6683,0.8145
+MWP Dataset,corpus,-0.2778,1.5986
+MWP Dataset,problem types,-0.2498,1.581
+English,MWP solvers,-0.1309,1.5039
+MWP solvers,corpus,-0.0634,1.4584
+MWP solvers,problem types,0.5554,0.943
+English,corpus,-0.0053,1.418
+English,problem types,-0.0934,1.4788
+corpus,problem types,-0.1349,1.5066
+ASDiv,lexicon usage diversity,-0.0923,1.478
+Diverse,lexicon usage diversity,0.2465,1.2276
+English,lexicon usage diversity,-0.1937,1.5451
+corpus,lexicon usage diversity,-0.1573,1.5213
+lexicon usage diversity,problem types,0.0983,1.3429
+MWP solvers,lexicon usage diversity,0.2964,1.1863

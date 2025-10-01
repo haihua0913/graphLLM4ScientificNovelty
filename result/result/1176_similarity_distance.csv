@@ -1,0 +1,28 @@
+node1,node2,similarity,distance
+emergent abilities,large language models,-0.2199,1.562
+emergent abilities,unpredictability,0.0882,1.3504
+large language models,unpredictability,-0.4148,1.6821
+emergent abilities,model behavior,-0.1834,1.5385
+large language models,model behavior,0.9876,0.1576
+model behavior,unpredictability,-0.3839,1.6637
+continuous metrics,emergent abilities,0.0408,1.3851
+emergent abilities,performance,-0.0153,1.425
+continuous metrics,unpredictability,0.5457,0.9532
+performance,unpredictability,0.4767,1.0231
+continuous metrics,model behavior,-0.3383,1.636
+model behavior,performance,-0.299,1.6118
+continuous metrics,performance,0.0133,1.4048
+InstructGPT/GPT-3,emergent abilities,0.127,1.3214
+BIG-Bench,emergent abilities,-0.0708,1.4634
+InstructGPT/GPT-3,model behavior,-0.1172,1.4948
+BIG-Bench,model behavior,-0.2098,1.5555
+InstructGPT/GPT-3,continuous metrics,0.6978,0.7774
+BIG-Bench,continuous metrics,0.5016,0.9984
+InstructGPT/GPT-3,performance,0.2157,1.2524
+BIG-Bench,performance,0.4822,1.0176
+BIG-Bench,InstructGPT/GPT-3,0.6425,0.8456
+emergent abilities,scaling AI models,-0.1062,1.4874
+continuous metrics,scaling AI models,-0.3167,1.6228
+performance,scaling AI models,-0.3073,1.617
+InstructGPT/GPT-3,scaling AI models,-0.0697,1.4627
+BIG-Bench,scaling AI models,-0.1961,1.5467

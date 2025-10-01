@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+data-augmentation technique,neural machine translation,0.0146,1.4038
+enciphered training data,neural machine translation,0.8964,0.4551
+multi-source training,neural machine translation,0.9676,0.2545
+enciphered training data,multi-source training,0.9578,0.2905
+CipherDAug,neural machine translation,-0.0955,1.4802
+co-regularization-inspired training,neural machine translation,0.9357,0.3586
+Transformer,neural machine translation,-0.1236,1.4991
+data augmentation,neural machine translation,0.9839,0.1795
+CipherDAug,enciphered training data,-0.2126,1.5573
+co-regularization-inspired training,enciphered training data,0.8481,0.5512
+Transformer,enciphered training data,-0.1181,1.4954
+data augmentation,enciphered training data,0.8952,0.4579
+CipherDAug,multi-source training,-0.1265,1.501
+co-regularization-inspired training,multi-source training,0.9259,0.3851
+Transformer,multi-source training,-0.1419,1.5112
+data augmentation,multi-source training,0.9698,0.2457
+CipherDAug,co-regularization-inspired training,-0.0524,1.4508
+CipherDAug,Transformer,0.019,1.4007
+CipherDAug,data augmentation,-0.009,1.4206
+Transformer,co-regularization-inspired training,-0.0674,1.4611
+co-regularization-inspired training,data augmentation,0.9376,0.3534
+Transformer,data augmentation,-0.0108,1.4218
+low-resource settings,neural machine translation,0.0992,1.3423
+enciphered training data,low-resource settings,-0.1413,1.5108
+low-resource settings,multi-source training,-0.0484,1.448
+CipherDAug,low-resource settings,-0.1843,1.539
+co-regularization-inspired training,low-resource settings,-0.0757,1.4668
+Transformer,low-resource settings,-0.2938,1.6086
+data augmentation,low-resource settings,-0.0096,1.421

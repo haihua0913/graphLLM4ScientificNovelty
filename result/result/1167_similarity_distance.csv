@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+point cloud tasks,self-attention mechanism,-0.044,1.445
+non-Euclidean spatial structures,self-attention mechanism,0.5881,0.9076
+long-range relationships,self-attention mechanism,0.9255,0.3861
+non-Euclidean spatial structures,point cloud tasks,0.6353,0.854
+long-range relationships,point cloud tasks,-0.2192,1.5616
+long-range relationships,non-Euclidean spatial structures,0.5367,0.9626
+Euclidean space,self-attention mechanism,-0.1902,1.5428
+implicit manifold surface,self-attention mechanism,-0.1852,1.5396
+Euclidean space,point cloud tasks,0.3337,1.1544
+implicit manifold surface,point cloud tasks,0.3888,1.1056
+Euclidean space,non-Euclidean spatial structures,0.0528,1.3764
+implicit manifold surface,non-Euclidean spatial structures,-0.0285,1.4342
+Euclidean space,long-range relationships,-0.2537,1.5835
+Euclidean space,implicit manifold surface,-0.1099,1.4899
+implicit manifold surface,long-range relationships,-0.2064,1.5533
+Riemannian manifold,non-Euclidean spatial structures,0.4766,1.0231
+Euclidean space,Riemannian manifold,-0.178,1.5349
+Riemannian manifold,long-range relationships,0.8437,0.559
+Riemannian manifold,implicit manifold surface,-0.2925,1.6078
+Euclidean space,state-of-the-art performance,0.5668,0.9308
+long-range relationships,state-of-the-art performance,-0.1024,1.4849
+implicit manifold surface,state-of-the-art performance,-0.2859,1.6037
+Riemannian manifold,state-of-the-art performance,0.2329,1.2386

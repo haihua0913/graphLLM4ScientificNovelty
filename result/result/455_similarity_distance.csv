@@ -1,0 +1,46 @@
+node1,node2,similarity,distance
+dense SLAM system,non-rigidly deforming scenes,0.8166,0.6056
+dense SLAM system,real-time,0.1025,1.3398
+RGBD scans,dense SLAM system,0.2437,1.2299
+commodity sensors,dense SLAM system,-0.1393,1.5095
+DynamicFusion,dense SLAM system,-0.2062,1.5532
+dense SLAM system,scene geometry,0.3227,1.1639
+dense SLAM system,dense volumetric 6D motion field,0.8271,0.588
+dense SLAM system,live frame,0.9835,0.1814
+non-rigidly deforming scenes,real-time,-0.0327,1.4372
+RGBD scans,non-rigidly deforming scenes,-0.1165,1.4944
+commodity sensors,non-rigidly deforming scenes,-0.1286,1.5024
+DynamicFusion,non-rigidly deforming scenes,-0.255,1.5843
+non-rigidly deforming scenes,scene geometry,-0.0769,1.4676
+dense volumetric 6D motion field,non-rigidly deforming scenes,0.9245,0.3885
+live frame,non-rigidly deforming scenes,0.8347,0.575
+RGBD scans,real-time,0.072,1.3623
+commodity sensors,real-time,-0.0828,1.4716
+DynamicFusion,real-time,-0.0999,1.4832
+real-time,scene geometry,-0.0484,1.4481
+dense volumetric 6D motion field,real-time,-0.0908,1.477
+live frame,real-time,0.1461,1.3068
+RGBD scans,commodity sensors,0.3525,1.138
+DynamicFusion,RGBD scans,-0.2986,1.6116
+RGBD scans,scene geometry,0.8921,0.4645
+RGBD scans,dense volumetric 6D motion field,-0.0693,1.4624
+RGBD scans,live frame,0.2658,1.2118
+DynamicFusion,commodity sensors,-0.1583,1.522
+commodity sensors,scene geometry,0.3796,1.1139
+commodity sensors,dense volumetric 6D motion field,0.0212,1.3991
+commodity sensors,live frame,-0.1601,1.5232
+DynamicFusion,scene geometry,0.0741,1.3608
+DynamicFusion,dense volumetric 6D motion field,-0.1697,1.5295
+DynamicFusion,live frame,-0.2201,1.5621
+dense volumetric 6D motion field,scene geometry,0.0456,1.3816
+live frame,scene geometry,0.3023,1.1813
+dense volumetric 6D motion field,live frame,0.8173,0.6045
+KinectFusion,dense SLAM system,0.173,1.286
+KinectFusion,non-rigidly deforming scenes,0.0539,1.3756
+KinectFusion,real-time,0.9951,0.0992
+KinectFusion,RGBD scans,0.0572,1.3731
+KinectFusion,commodity sensors,-0.1338,1.5058
+DynamicFusion,KinectFusion,-0.1297,1.5031
+KinectFusion,scene geometry,-0.0679,1.4614
+KinectFusion,dense volumetric 6D motion field,-0.0137,1.4239
+KinectFusion,live frame,0.2199,1.2491

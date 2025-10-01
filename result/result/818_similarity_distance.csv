@@ -1,0 +1,13 @@
+node1,node2,similarity,distance
+neural network,photometric stereo,-0.0447,1.4455
+neural network,principal components analysis,0.987,0.1611
+neural network,radial basis function,0.9962,0.0871
+principal components analysis,radial basis function,0.9945,0.1047
+neural network,surface normal,0.9963,0.0862
+principal components analysis,surface normal,0.9869,0.1621
+radial basis function,surface normal,0.9965,0.0834
+calibration sphere,neural network,0.9544,0.3019
+calibration sphere,surface normal,0.9705,0.2431
+confidence estimate,surface normal,0.9878,0.156
+calibration sphere,confidence estimate,0.955,0.2999
+confidence estimate,real data,-0.1167,1.4944

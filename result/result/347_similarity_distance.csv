@@ -1,0 +1,38 @@
+node1,node2,similarity,distance
+Lexical ambiguity,Machine Translation,-0.6658,1.8253
+Lexical ambiguity,polysemous nature,-0.622,1.8011
+Machine Translation,polysemous nature,0.8701,0.5096
+Lexical ambiguity,semantic biases,0.9031,0.4403
+Machine Translation,semantic biases,-0.7341,1.8623
+polysemous nature,semantic biases,-0.7565,1.8743
+Machine Translation,nominal and verbal words,0.928,0.3796
+Machine Translation,evaluation benchmark,0.1978,1.2667
+Machine Translation,language combinations,-0.3387,1.6363
+DiBiMT,Machine Translation,-0.1185,1.4956
+nominal and verbal words,semantic biases,-0.6997,1.8438
+evaluation benchmark,semantic biases,-0.1487,1.5157
+language combinations,semantic biases,0.1234,1.3241
+DiBiMT,semantic biases,-0.2427,1.5765
+nominal and verbal words,polysemous nature,0.8835,0.4826
+evaluation benchmark,polysemous nature,0.2303,1.2407
+language combinations,polysemous nature,-0.3467,1.6411
+DiBiMT,polysemous nature,0.1157,1.3299
+evaluation benchmark,nominal and verbal words,-0.0591,1.4554
+language combinations,nominal and verbal words,-0.5398,1.7549
+DiBiMT,nominal and verbal words,0.0312,1.392
+evaluation benchmark,language combinations,0.3004,1.1828
+DiBiMT,evaluation benchmark,-0.3916,1.6683
+DiBiMT,language combinations,-0.0006,1.4147
+Machine Translation,state-of-the-art Machine Translation systems,-0.3002,1.6126
+semantic biases,state-of-the-art Machine Translation systems,0.0789,1.3573
+nominal and verbal words,state-of-the-art Machine Translation systems,-0.5044,1.7346
+evaluation benchmark,state-of-the-art Machine Translation systems,0.286,1.195
+language combinations,state-of-the-art Machine Translation systems,0.9971,0.0764
+DiBiMT,state-of-the-art Machine Translation systems,0.0077,1.4088
+Machine Translation,public leaderboard,0.8169,0.6052
+public leaderboard,semantic biases,-0.7629,1.8777
+nominal and verbal words,public leaderboard,0.8506,0.5467
+evaluation benchmark,public leaderboard,0.1216,1.3254
+language combinations,public leaderboard,-0.3039,1.6148
+public leaderboard,state-of-the-art Machine Translation systems,-0.2805,1.6003
+DiBiMT,public leaderboard,0.1766,1.2832

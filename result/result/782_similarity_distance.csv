@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+language models,privacy attacks,0.0048,1.4108
+language models,web-scraped training sets,0.16,1.2962
+duplication,language models,-0.0182,1.427
+privacy attacks,web-scraped training sets,0.169,1.2892
+duplication,privacy attacks,0.7505,0.7064
+duplication,web-scraped training sets,-0.1005,1.4836
+language models,training sequences,-0.0159,1.4254
+privacy attacks,training sequences,-0.1419,1.5112
+training sequences,web-scraped training sets,0.0735,1.3613
+duplication,training sequences,0.0051,1.4106
+language models,memorized sequences,-0.1364,1.5076
+memorized sequences,training sequences,-0.074,1.4656
+deduplicate,language models,0.8313,0.5808
+memorized sequences,privacy attacks,-0.534,1.7516
+deduplicate,privacy attacks,-0.0025,1.416
+deduplicate,training sequences,-0.1353,1.5068
+deduplicate,memorized sequences,-0.2365,1.5725

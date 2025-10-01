@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+Maximum k-plex Problem,k-plex,0.5093,0.9906
+NP-hard,k-plex,-0.3102,1.6188
+Maximum k-plex Problem,NP-hard,-0.5251,1.7465
+branch-and-bound,k-plex,-0.1208,1.4972
+k-plex,upper bounds,0.3671,1.1251
+graph reduction,k-plex,-0.004,1.417
+Maximum k-plex Problem,branch-and-bound,0.7757,0.6698
+Maximum k-plex Problem,upper bounds,0.1125,1.3323
+Maximum k-plex Problem,graph reduction,-0.3213,1.6256
+NP-hard,branch-and-bound,-0.3368,1.6351
+NP-hard,upper bounds,0.1356,1.3149
+NP-hard,graph reduction,-0.1364,1.5076
+branch-and-bound,upper bounds,-0.2214,1.5629
+branch-and-bound,graph reduction,-0.3319,1.6321
+graph reduction,upper bounds,-0.453,1.7047
+branch-and-bound,search space,-0.1124,1.4916
+search space,upper bounds,-0.2091,1.5551
+graph reduction,search space,-0.097,1.4812

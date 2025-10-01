@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+Graph Implicit Nonlinear Diffusion,over-smoothing,-0.2597,1.5873
+Graph Implicit Nonlinear Diffusion,infinite hops,-0.1246,1.4997
+Graph Implicit Nonlinear Diffusion,nonlinear diffusion,-0.033,1.4374
+infinite hops,over-smoothing,0.0327,1.3909
+nonlinear diffusion,over-smoothing,-0.2807,1.6004
+infinite hops,nonlinear diffusion,0.2312,1.24
+Graph Implicit Nonlinear Diffusion,convex optimization,-0.5864,1.7812
+convex optimization,over-smoothing,0.5448,0.9541
+convex optimization,infinite hops,-0.0926,1.4782
+convex optimization,nonlinear diffusion,-0.2404,1.5751
+Graph Implicit Nonlinear Diffusion,equilibrium,-0.5766,1.7757
+equilibrium,over-smoothing,0.0897,1.3493
+equilibrium,infinite hops,-0.0275,1.4336
+equilibrium,nonlinear diffusion,-0.307,1.6168
+convex optimization,equilibrium,0.1782,1.282
+equilibrium,skip connections,0.4529,1.0461
+nonlinear diffusion,skip connections,-0.7742,1.8837
+long-range dependencies,nonlinear diffusion,-0.2235,1.5643
+heterophilic graphs,nonlinear diffusion,0.2492,1.2254
+equilibrium,long-range dependencies,0.0729,1.3617
+equilibrium,heterophilic graphs,-0.5635,1.7684
+long-range dependencies,skip connections,0.1648,1.2925
+heterophilic graphs,skip connections,-0.5006,1.7324
+heterophilic graphs,long-range dependencies,-0.0478,1.4476

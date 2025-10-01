@@ -1,0 +1,12 @@
+node1,node2,similarity,distance
+human pose estimation,monocular images,0.3622,1.1294
+human pose estimation,joint occlusions,-0.1832,1.5383
+joint occlusions,monocular images,0.1257,1.3223
+occlusion heatmaps,pose generator,0.7432,0.7166
+conditional Generative Adversarial Networks,pose generator,0.6541,0.8317
+conditional Generative Adversarial Networks,occlusion heatmaps,0.0993,1.3422
+human pose estimation,occlusion heatmaps,0.0395,1.386
+conditional Generative Adversarial Networks,human pose estimation,-0.2662,1.5913
+benchmark datasets,human pose estimation,0.0001,1.4141
+benchmark datasets,occlusion heatmaps,-0.0511,1.4499
+benchmark datasets,conditional Generative Adversarial Networks,0.1795,1.281

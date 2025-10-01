@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+hashing,similarity-preserving binary codes,-0.1923,1.5442
+hashing,nearest neighbor search,0.9786,0.2067
+binary codes,hashing,-0.058,1.4546
+hashing,two-stage strategy,-0.0254,1.4321
+nearest neighbor search,similarity-preserving binary codes,-0.153,1.5185
+binary codes,similarity-preserving binary codes,-0.116,1.494
+similarity-preserving binary codes,two-stage strategy,0.1206,1.3262
+binary codes,nearest neighbor search,-0.1643,1.526
+nearest neighbor search,two-stage strategy,-0.0165,1.4258
+binary codes,two-stage strategy,-0.097,1.4812
+hashing,single-bit quantization,-0.0907,1.477
+binary codes,single-bit quantization,0.1637,1.2933
+double-bit quantization,hashing,0.0031,1.412
+hashing,quantization strategy,-0.1932,1.5448
+double-bit quantization,single-bit quantization,0.3773,1.116
+quantization strategy,single-bit quantization,-0.0318,1.4365
+double-bit quantization,quantization strategy,0.2536,1.2218
+adaptively learned thresholds,hashing,0.8487,0.5501
+adaptively learned thresholds,single-bit quantization,-0.0741,1.4657
+adaptively learned thresholds,double-bit quantization,0.0604,1.3709
+adaptively learned thresholds,quantization strategy,-0.2406,1.5752

@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+English sentences,unsupervised learning,0.0734,1.3613
+English sentences,heuristics,-0.2041,1.5519
+AMR aligners,English sentences,0.0307,1.3923
+heuristics,unsupervised learning,-0.0846,1.4728
+AMR aligners,unsupervised learning,-0.202,1.5505
+AMR aligners,heuristics,-0.2088,1.5548
+English sentences,graph substructures,-0.253,1.583
+graph substructures,unsupervised learning,0.0405,1.3853
+graph substructures,heuristics,0.8968,0.4542
+AMR aligners,graph substructures,-0.2277,1.567
+AMR substructures,unsupervised learning,0.0574,1.373
+higher coverage,unsupervised learning,-0.2132,1.5577
+AMR substructures,heuristics,0.9344,0.3621
+heuristics,higher coverage,-0.1352,1.5068
+AMR substructures,graph substructures,0.9731,0.232
+graph substructures,higher coverage,-0.2997,1.6122
+AMR aligners,AMR substructures,-0.1494,1.5162
+AMR aligners,higher coverage,-0.199,1.5485
+AMR substructures,higher coverage,-0.2427,1.5765
+LEAMR datasets,graph substructures,-0.0846,1.4728
+AMR substructures,LEAMR datasets,-0.007,1.4192
+LEAMR datasets,higher coverage,0.0351,1.3891

@@ -1,0 +1,37 @@
+node1,node2,similarity,distance
+3D reconstruction,linear approach,0.0423,1.384
+linear approach,occluding contours,0.4612,1.0381
+algebraic surfaces,linear approach,0.5714,0.9259
+linear approach,noise,0.0706,1.3634
+linear approach,missing data,0.7696,0.6788
+3D reconstruction,occluding contours,0.2839,1.1968
+3D reconstruction,algebraic surfaces,-0.1728,1.5315
+3D reconstruction,noise,-0.1764,1.5339
+3D reconstruction,missing data,0.0501,1.3783
+algebraic surfaces,occluding contours,-0.0561,1.4534
+noise,occluding contours,-0.1668,1.5276
+missing data,occluding contours,0.2439,1.2297
+algebraic surfaces,noise,-0.1552,1.52
+algebraic surfaces,missing data,0.1633,1.2936
+missing data,noise,-0.0652,1.4596
+duality property,linear approach,0.9867,0.1633
+3D points,linear approach,-0.0762,1.4671
+linear approach,tangent planes,0.0224,1.3983
+3D reconstruction,duality property,0.0905,1.3487
+3D points,3D reconstruction,0.9237,0.3905
+3D reconstruction,tangent planes,0.9623,0.2747
+duality property,occluding contours,0.4487,1.05
+3D points,occluding contours,0.1734,1.2858
+occluding contours,tangent planes,0.3527,1.1378
+algebraic surfaces,duality property,0.4741,1.0255
+3D points,algebraic surfaces,-0.325,1.6279
+algebraic surfaces,tangent planes,-0.1817,1.5374
+duality property,noise,0.1061,1.3371
+3D points,noise,0.0519,1.377
+noise,tangent planes,-0.2994,1.6121
+duality property,missing data,0.8056,0.6236
+3D points,missing data,-0.0701,1.463
+missing data,tangent planes,-0.0048,1.4176
+3D points,duality property,0.0128,1.4052
+duality property,tangent planes,0.0827,1.3545
+3D points,tangent planes,0.9144,0.4137

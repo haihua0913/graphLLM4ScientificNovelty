@@ -1,0 +1,14 @@
+node1,node2,similarity,distance
+motion segmentation,small textured patches,0.9268,0.3827
+EM clustering,motion coherence detector,0.9453,0.3307
+EM clustering,affine flow,0.2894,1.1921
+affine flow,motion coherence detector,0.3763,1.1169
+EM clustering,residual noise model,-0.1102,1.4901
+EM clustering,χ^2 test,-0.2231,1.564
+motion coherence detector,residual noise model,0.0397,1.3858
+motion coherence detector,χ^2 test,-0.1627,1.5249
+affine flow,residual noise model,-0.2362,1.5724
+affine flow,χ^2 test,-0.455,1.7059
+residual noise model,χ^2 test,0.8995,0.4484
+real image sequences,residual noise model,-0.0761,1.4671
+real image sequences,χ^2 test,-0.2062,1.5532

@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+Fourier Neural Operators,long-range dependencies,0.274,1.205
+Fourier Neural Operators,discrete Fourier transform,-0.338,1.6359
+Fourier Neural Operators,spectral artifacts,-0.176,1.5336
+Fourier Neural Operators,spherical coordinates,-0.0461,1.4464
+discrete Fourier transform,long-range dependencies,-0.2701,1.5938
+long-range dependencies,spectral artifacts,-0.2774,1.5984
+long-range dependencies,spherical coordinates,-0.5229,1.7452
+discrete Fourier transform,spectral artifacts,-0.2382,1.5736
+discrete Fourier transform,spherical coordinates,-0.2878,1.6049
+spectral artifacts,spherical coordinates,0.9253,0.3866
+Spherical FNOs,long-range dependencies,-0.0599,1.456
+Spherical FNOs,discrete Fourier transform,0.883,0.4838
+Spherical FNOs,spectral artifacts,-0.1883,1.5416
+Spherical FNOs,spherical coordinates,-0.3239,1.6272
+atmospheric dynamics,discrete Fourier transform,0.0431,1.3834
+atmospheric dynamics,spectral artifacts,0.1811,1.2798
+atmospheric dynamics,spherical coordinates,0.0647,1.3677
+Spherical FNOs,atmospheric dynamics,-0.2044,1.552
+Spherical FNOs,climate dynamics,-0.135,1.5067
+atmospheric dynamics,climate dynamics,0.9266,0.3831

@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+fast rates,online convex optimization,-0.2463,1.5788
+MetaGrad,fast rates,0.3171,1.1686
+MetaGrad,strongly convex functions,-0.049,1.4484
+MetaGrad,stochastic functions,-0.2061,1.5531
+MetaGrad,non-stochastic functions,0.2393,1.2335
+fast rates,strongly convex functions,-0.3279,1.6297
+fast rates,stochastic functions,-0.276,1.5975
+fast rates,non-stochastic functions,-0.1138,1.4925
+stochastic functions,strongly convex functions,0.2024,1.263
+non-stochastic functions,strongly convex functions,-0.1653,1.5266
+non-stochastic functions,stochastic functions,0.7884,0.6506
+MetaGrad,logarithmic regret,0.3204,1.1658
+logarithmic regret,strongly convex functions,0.6722,0.8097
+logarithmic regret,stochastic functions,0.2018,1.2635
+logarithmic regret,non-stochastic functions,0.2236,1.2461
+MetaGrad,tilted exponential weights master algorithm,-0.1399,1.5099

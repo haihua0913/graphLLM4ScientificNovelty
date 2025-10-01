@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+ASGD,Asynchronous stochastic gradient descent,0.0864,1.3517
+ASGD,stochastic differential equations,-0.1043,1.4861
+ASGD,SDE,0.9176,0.4061
+ASGD,stochastic differential delay equations,-0.0633,1.4583
+ASGD,SDDE,0.9754,0.2217
+SDE,stochastic differential equations,0.0004,1.4139
+stochastic differential delay equations,stochastic differential equations,0.2242,1.2456
+SDDE,stochastic differential equations,-0.1654,1.5267
+SDE,stochastic differential delay equations,-0.0273,1.4334
+SDDE,SDE,0.9094,0.4257
+SDDE,stochastic differential delay equations,-0.0396,1.442
+ASGD,convergence rate,-0.0909,1.4771
+ASGD,moment estimation,0.0065,1.4096
+ASGD,energy function minimization,0.9525,0.3082
+convergence rate,stochastic differential equations,0.9205,0.3988
+moment estimation,stochastic differential equations,-0.0832,1.4719
+energy function minimization,stochastic differential equations,-0.2049,1.5523
+SDE,convergence rate,0.0154,1.4033
+SDE,moment estimation,0.1441,1.3083
+SDE,energy function minimization,0.9507,0.3141
+convergence rate,stochastic differential delay equations,-0.1201,1.4967
+moment estimation,stochastic differential delay equations,-0.0429,1.4442
+energy function minimization,stochastic differential delay equations,-0.1345,1.5063
+SDDE,convergence rate,-0.1737,1.5321
+SDDE,moment estimation,0.0056,1.4103
+SDDE,energy function minimization,0.947,0.3257
+convergence rate,moment estimation,-0.0295,1.4349
+convergence rate,energy function minimization,-0.1658,1.527
+energy function minimization,moment estimation,0.0288,1.3937

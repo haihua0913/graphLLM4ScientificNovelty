@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+adversarial data corruptions,differential privacy,-0.1266,1.5011
+STOC 2009,differential privacy,-0.4309,1.6917
+STOC 2009,adversarial data corruptions,-0.3319,1.6321
+black-box transformation,differential privacy,-0.2114,1.5565
+differential privacy,pure differential privacy,0.9825,0.1873
+STOC 2009,black-box transformation,-0.1784,1.5352
+STOC 2009,pure differential privacy,-0.3303,1.6311
+black-box transformation,pure differential privacy,-0.2876,1.6047
+differential privacy,low-dimensional estimation,-0.1252,1.5001
+black-box transformation,low-dimensional estimation,0.0219,1.3987
+low-dimensional estimation,pure differential privacy,-0.185,1.5395
+high-dimensional tasks,low-dimensional estimation,-0.0447,1.4455
+PCA,low-dimensional estimation,-0.208,1.5544
+PCA,high-dimensional tasks,-0.2953,1.6095
+differential privacy,high-dimensional tasks,-0.2898,1.6061
+PCA,differential privacy,-0.1342,1.5061
+high-dimensional tasks,pure differential privacy,-0.2863,1.6039
+PCA,pure differential privacy,-0.012,1.4227

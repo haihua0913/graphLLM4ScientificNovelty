@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+CSSP,Nystrom method,-0.0354,1.439
+CSSP,low-rank approximations,-0.1253,1.5002
+Nystrom method,low-rank approximations,-0.1972,1.5474
+CSSP,spectral properties,-0.3703,1.6555
+CSSP,approximation guarantees,-0.0771,1.4677
+Nystrom method,spectral properties,-0.1966,1.547
+Nystrom method,approximation guarantees,-0.1933,1.5449
+low-rank approximations,spectral properties,0.8984,0.4507
+approximation guarantees,low-rank approximations,-0.0229,1.4303
+approximation guarantees,spectral properties,0.0455,1.3817
+singular value decay,spectral properties,0.8993,0.4487
+approximation guarantees,singular value decay,-0.1258,1.5006
+multiple-descent curve,spectral properties,-0.2559,1.5849
+approximation guarantees,multiple-descent curve,-0.0226,1.4301
+multiple-descent curve,singular value decay,-0.3279,1.6297
+CSSP,singular value decay,-0.1454,1.5135
+CSSP,multiple-descent curve,-0.1957,1.5464
+CSSP,radial basis function,-0.3762,1.659
+CSSP,real datasets,-0.1052,1.4867
+multiple-descent curve,radial basis function,-0.1722,1.5312
+multiple-descent curve,real datasets,-0.0783,1.4686
+radial basis function,real datasets,-0.2652,1.5907

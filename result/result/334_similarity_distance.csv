@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+fastText,unsupervised pre-training,0.0619,1.3697
+ELMo,unsupervised pre-training,-0.099,1.4826
+BERT,unsupervised pre-training,-0.3609,1.6498
+model capacity,unsupervised pre-training,-0.1902,1.5428
+ELMo,fastText,-0.3697,1.6551
+BERT,fastText,-0.1526,1.5183
+fastText,model capacity,0.1159,1.3297
+BERT,ELMo,0.9217,0.3957
+ELMo,model capacity,-0.0893,1.476
+BERT,model capacity,0.0289,1.3936
+fastText,multilingual,-0.1357,1.5071
+ELMo,multilingual,-0.1071,1.488
+BERT,multilingual,-0.0989,1.4825
+model capacity,multilingual,-0.231,1.5691
+joint fine-tuning,multilingual,0.0293,1.3934
+low-resource languages,multilingual,-0.1823,1.5377
+joint fine-tuning,low-resource languages,0.6635,0.8203
+joint fine-tuning,state-of-the-art results,-0.1214,1.4976
+low-resource languages,state-of-the-art results,-0.3843,1.6639

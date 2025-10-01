@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+logical formulas,models,0.7164,0.7531
+finite model,models,0.288,1.1933
+exhaustive search,models,0.4592,1.04
+finite model,logical formulas,0.5679,0.9296
+exhaustive search,logical formulas,0.0801,1.3564
+exhaustive search,finite model,-0.0735,1.4652
+isomorphism,models,0.1242,1.3235
+models,search space,0.2482,1.2262
+models,structured problem instances,0.3194,1.1667
+isomorphism,logical formulas,0.4986,1.0014
+logical formulas,search space,0.4947,1.0053
+logical formulas,structured problem instances,0.0263,1.3955
+finite model,isomorphism,0.9669,0.2571
+finite model,search space,0.9259,0.3849
+finite model,structured problem instances,-0.0917,1.4776
+exhaustive search,isomorphism,-0.0888,1.4757
+exhaustive search,search space,0.1618,1.2947
+exhaustive search,structured problem instances,0.9749,0.224
+isomorphism,search space,0.9554,0.2987
+isomorphism,structured problem instances,-0.0914,1.4775
+search space,structured problem instances,0.1401,1.3114
+finite model,predicates,0.145,1.3076
+exhaustive search,predicates,0.0989,1.3425
+isomorphism,predicates,0.0314,1.3918
+predicates,search space,0.0714,1.3628
+predicates,structured problem instances,-0.023,1.4304
+isomorphism,symmetries,0.9285,0.3781
+search space,symmetries,0.9123,0.4188
+structured problem instances,symmetries,0.071,1.3631
+predicates,symmetries,0.0533,1.376

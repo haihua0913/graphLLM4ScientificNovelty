@@ -1,0 +1,296 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/aime/aime2015.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"1.00"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"44",
+"@dc":"44",
+"@oc":"44",
+"@id":"48871921",
+"text":":facetid:toc:db/conf/aime/aime2015.bht"
+}
+},
+"hits":{
+"@total":"44",
+"@computed":"44",
+"@sent":"44",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4295331",
+"info":{"authors":{"author":[{"@pid":"34/9125","text":"Asma Ben Abacha"},{"@pid":"71/7085","text":"Duy Dinh"},{"@pid":"82/670","text":"Yassine Mrabet"}]},"title":"Semantic Analysis and Automatic Corpus Construction for Entailment Recognition in Medical Texts.","venue":"AIME","pages":"238-242","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/AbachaDM15","doi":"10.1007/978-3-319-19551-3_31","ee":"https://doi.org/10.1007/978-3-319-19551-3_31","url":"https://dblp.org/rec/conf/aime/AbachaDM15"},
+"url":"URL#4295331"
+},
+{
+"@score":"1",
+"@id":"4295332",
+"info":{"authors":{"author":[{"@pid":"16/5737","text":"Luca Anselma"},{"@pid":"159/9110","text":"Luca Piovesan"},{"@pid":"s/AbdulSattar","text":"Abdul Sattar 0001"},{"@pid":"74/1636","text":"Bela Stantic"},{"@pid":"26/279","text":"Paolo Terenziani"}]},"title":"A General Approach to Represent and Query Now-Relative Medical Data in Relational Databases.","venue":"AIME","pages":"327-331","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/AnselmaPSST15","doi":"10.1007/978-3-319-19551-3_41","ee":"https://doi.org/10.1007/978-3-319-19551-3_41","url":"https://dblp.org/rec/conf/aime/AnselmaPSST15"},
+"url":"URL#4295332"
+},
+{
+"@score":"1",
+"@id":"4295333",
+"info":{"authors":{"author":[{"@pid":"163/6815","text":"Tim Op De Beéck"},{"@pid":"09/5015","text":"Arjen Hommersom"},{"@pid":"117/4923","text":"Jan Van Haaren"},{"@pid":"76/7184","text":"Maarten van der Heijden"},{"@pid":"d/JesseDavis","text":"Jesse Davis"},{"@pid":"l/PeterJFLucas","text":"Peter J. F. Lucas"},{"@pid":"163/6922","text":"Lucy Overbeek"},{"@pid":"163/6865","text":"Iris Nagtegaal"}]},"title":"Mining Hierarchical Pathology Data Using Inductive Logic Programming.","venue":"AIME","pages":"76-85","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/BeeckHHHDLON15","doi":"10.1007/978-3-319-19551-3_9","ee":"https://doi.org/10.1007/978-3-319-19551-3_9","url":"https://dblp.org/rec/conf/aime/BeeckHHHDLON15"},
+"url":"URL#4295333"
+},
+{
+"@score":"1",
+"@id":"4295336",
+"info":{"authors":{"author":[{"@pid":"163/6938","text":"Ward R. J. van Breda"},{"@pid":"19/1103","text":"Mark Hoogendoorn"},{"@pid":"e/AEEiben","text":"A. E. Eiben"},{"@pid":"138/3809","text":"Matthias Berking 0002"}]},"title":"An Evaluation Framework for the Comparison of Fine-Grained Predictive Models in Health Care.","venue":"AIME","pages":"148-152","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/BredaHEB15","doi":"10.1007/978-3-319-19551-3_18","ee":"https://doi.org/10.1007/978-3-319-19551-3_18","url":"https://dblp.org/rec/conf/aime/BredaHEB15"},
+"url":"URL#4295336"
+},
+{
+"@score":"1",
+"@id":"4295338",
+"info":{"authors":{"author":[{"@pid":"23/8569","text":"Isidoro J. Casanova"},{"@pid":"c/ManuelCampos","text":"Manuel Campos"},{"@pid":"32/3594","text":"Jose M. Juarez"},{"@pid":"163/6919","text":"Antonio Fernandez-Fernandez-Arroyo"},{"@pid":"163/6906","text":"Jose A. Lorente"}]},"title":"Using Multivariate Sequential Patterns to Improve Survival Prediction in Intensive Care Burn Unit.","venue":"AIME","pages":"277-286","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/CasanovaCJFL15","doi":"10.1007/978-3-319-19551-3_36","ee":"https://doi.org/10.1007/978-3-319-19551-3_36","url":"https://dblp.org/rec/conf/aime/CasanovaCJFL15"},
+"url":"URL#4295338"
+},
+{
+"@score":"1",
+"@id":"4295339",
+"info":{"authors":{"author":[{"@pid":"127/5329","text":"Wiem Chebil"},{"@pid":"24/939","text":"Lina Fatima Soualmia"},{"@pid":"00/11472","text":"Mohamed Nazih Omri"},{"@pid":"00/4065","text":"Stéfan Jacques Darmoni"}]},"title":"Biomedical Concepts Extraction Based on Possibilistic Network and Vector Space Model.","venue":"AIME","pages":"227-231","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ChebilSOD15","doi":"10.1007/978-3-319-19551-3_29","ee":"https://doi.org/10.1007/978-3-319-19551-3_29","url":"https://dblp.org/rec/conf/aime/ChebilSOD15"},
+"url":"URL#4295339"
+},
+{
+"@score":"1",
+"@id":"4295340",
+"info":{"authors":{"author":[{"@pid":"39/9509","text":"Camilla Colombo"},{"@pid":"163/6871","text":"Jan Hendrik Leopold"},{"@pid":"163/6916","text":"Lieuwe D. J. Bos"},{"@pid":"27/3072","text":"Riccardo Bellazzi"},{"@pid":"31/59","text":"Ameen Abu-Hanna"}]},"title":"Comparison of Probabilistic versus Non-probabilistic Electronic Nose Classification Methods in an Animal Model.","venue":"AIME","pages":"298-303","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ColomboLBBA15","doi":"10.1007/978-3-319-19551-3_38","ee":"https://doi.org/10.1007/978-3-319-19551-3_38","url":"https://dblp.org/rec/conf/aime/ColomboLBBA15"},
+"url":"URL#4295340"
+},
+{
+"@score":"1",
+"@id":"4295341",
+"info":{"authors":{"author":[{"@pid":"c/CarloCombi","text":"Carlo Combi"},{"@pid":"40/2273","text":"Barbara Oliboni"},{"@pid":"163/6926","text":"Alberto Gabrieli"}]},"title":"Conceptual Modeling of Clinical Pathways: Making Data and Processes Connected.","venue":"AIME","pages":"57-62","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/CombiOG15","doi":"10.1007/978-3-319-19551-3_7","ee":"https://doi.org/10.1007/978-3-319-19551-3_7","url":"https://dblp.org/rec/conf/aime/CombiOG15"},
+"url":"URL#4295341"
+},
+{
+"@score":"1",
+"@id":"4295342",
+"info":{"authors":{"author":[{"@pid":"154/4412","text":"Andrea Damiani"},{"@pid":"13/7563","text":"Mauro Vallati"},{"@pid":"134/0085","text":"Roberto Gatta"},{"@pid":"163/6867","text":"Nicola Dinapoli"},{"@pid":"163/6855","text":"Arthur Jochems"},{"@pid":"163/6881","text":"Timo Deist"},{"@pid":"152/3113","text":"Johan van Soest"},{"@pid":"82/4514","text":"Andre Dekker"},{"@pid":"163/6827","text":"Vincenzo Valentini"}]},"title":"Distributed Learning to Protect Privacy in Multi-centric Clinical Studies.","venue":"AIME","pages":"65-75","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/DamianiVGDJDSDV15","doi":"10.1007/978-3-319-19551-3_8","ee":"https://doi.org/10.1007/978-3-319-19551-3_8","url":"https://dblp.org/rec/conf/aime/DamianiVGDJDSDV15"},
+"url":"URL#4295342"
+},
+{
+"@score":"1",
+"@id":"4295343",
+"info":{"authors":{"author":[{"@pid":"163/6810","text":"Andrea Demartini"},{"@pid":"27/7171","text":"Davide Capozzi"},{"@pid":"25/7234","text":"Alberto Malovini"},{"@pid":"27/3072","text":"Riccardo Bellazzi"}]},"title":"Running Genome Wide Data Analysis Using a Parallel Approach on a Cloud Platform.","venue":"AIME","pages":"188-192","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/DemartiniCMB15","doi":"10.1007/978-3-319-19551-3_25","ee":"https://doi.org/10.1007/978-3-319-19551-3_25","url":"https://dblp.org/rec/conf/aime/DemartiniCMB15"},
+"url":"URL#4295343"
+},
+{
+"@score":"1",
+"@id":"4295345",
+"info":{"authors":{"author":[{"@pid":"83/2426","text":"Germain Forestier"},{"@pid":"68/8371","text":"François Petitjean"},{"@pid":"65/4733","text":"Laurent Riffaud"},{"@pid":"52/4728","text":"Pierre Jannin"}]},"title":"Optimal Sub-Sequence Matching for the Automatic Prediction of Surgical Tasks.","venue":"AIME","pages":"123-132","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ForestierPRJ15","doi":"10.1007/978-3-319-19551-3_15","ee":"https://doi.org/10.1007/978-3-319-19551-3_15","url":"https://dblp.org/rec/conf/aime/ForestierPRJ15"},
+"url":"URL#4295345"
+},
+{
+"@score":"1",
+"@id":"4295346",
+"info":{"authors":{"author":[{"@pid":"163/6878","text":"Andrea Franco"},{"@pid":"36/5177","text":"Marco Correia"},{"@pid":"18/4839","text":"Jorge Cruz 0001"}]},"title":"Uncertainty Propagation in Biomedical Models.","venue":"AIME","pages":"166-171","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/FrancoCC15","doi":"10.1007/978-3-319-19551-3_21","ee":"https://doi.org/10.1007/978-3-319-19551-3_21","url":"https://dblp.org/rec/conf/aime/FrancoCC15"},
+"url":"URL#4295346"
+},
+{
+"@score":"1",
+"@id":"4295347",
+"info":{"authors":{"author":[{"@pid":"153/9515","text":"Andreea Kamiana Godea"},{"@pid":"69/6680","text":"Cornelia Caragea"},{"@pid":"153/9594","text":"Florin Adrian Bulgarov"},{"@pid":"163/6904","text":"Suhasini Ramisetty-Mikler"}]},"title":"An Analysis of Twitter Data on E-cigarette Sentiments and Promotion.","venue":"AIME","pages":"205-215","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/GodeaCBR15","doi":"10.1007/978-3-319-19551-3_27","ee":"https://doi.org/10.1007/978-3-319-19551-3_27","url":"https://dblp.org/rec/conf/aime/GodeaCBR15"},
+"url":"URL#4295347"
+},
+{
+"@score":"1",
+"@id":"4295348",
+"info":{"authors":{"author":[{"@pid":"47/584","text":"Natalia Grabar"},{"@pid":"163/6835","text":"Loïc Dumonet"}]},"title":"Automatic Computing of Global Emotional Polarity in French Health Forum Messages.","venue":"AIME","pages":"243-248","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/GrabarD15","doi":"10.1007/978-3-319-19551-3_32","ee":"https://doi.org/10.1007/978-3-319-19551-3_32","url":"https://dblp.org/rec/conf/aime/GrabarD15"},
+"url":"URL#4295348"
+},
+{
+"@score":"1",
+"@id":"4295351",
+"info":{"authors":{"author":{"@pid":"62/6027","text":"George Hripcsak"}},"title":"Physics of the Medical Record: Handling Time in Health Record Studies.","venue":"AIME","pages":"3-6","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Hripcsak15","doi":"10.1007/978-3-319-19551-3_1","ee":"https://doi.org/10.1007/978-3-319-19551-3_1","url":"https://dblp.org/rec/conf/aime/Hripcsak15"},
+"url":"URL#4295351"
+},
+{
+"@score":"1",
+"@id":"4295352",
+"info":{"authors":{"author":[{"@pid":"48/4407-2","text":"Qing Hu 0002"},{"@pid":"h/ZhishengHuang","text":"Zhisheng Huang"},{"@pid":"96/3134","text":"Annette ten Teije"},{"@pid":"h/FrankvanHarmelen","text":"Frank van Harmelen"}]},"title":"Detecting New Evidence for Evidence-Based Guidelines Using a Semantic Distance Method.","venue":"AIME","pages":"307-316","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/HuHTH15","doi":"10.1007/978-3-319-19551-3_39","ee":"https://doi.org/10.1007/978-3-319-19551-3_39","url":"https://dblp.org/rec/conf/aime/HuHTH15"},
+"url":"URL#4295352"
+},
+{
+"@score":"1",
+"@id":"4295354",
+"info":{"authors":{"author":[{"@pid":"01/8634","text":"Zhengxing Huang"},{"@pid":"32/3594","text":"Jose M. Juarez"},{"@pid":"92/748-5","text":"Wei Dong 0005"},{"@pid":"42/2721-5","text":"Lei Ji 0005"},{"@pid":"13/6891","text":"Huilong Duan"}]},"title":"Predictive Monitoring of Local Anomalies in Clinical Treatment Processes.","venue":"AIME","pages":"25-34","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/HuangJDJD15","doi":"10.1007/978-3-319-19551-3_4","ee":"https://doi.org/10.1007/978-3-319-19551-3_4","url":"https://dblp.org/rec/conf/aime/HuangJDJD15"},
+"url":"URL#4295354"
+},
+{
+"@score":"1",
+"@id":"4295355",
+"info":{"authors":{"author":[{"@pid":"95/1787","text":"Ling Jiang"},{"@pid":"09/6487","text":"Christopher C. Yang"}]},"title":"Determining User Similarity in Healthcare Social Media Using Content Similarity and Structural Similarity.","venue":"AIME","pages":"216-226","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/JiangY15","doi":"10.1007/978-3-319-19551-3_28","ee":"https://doi.org/10.1007/978-3-319-19551-3_28","url":"https://dblp.org/rec/conf/aime/JiangY15"},
+"url":"URL#4295355"
+},
+{
+"@score":"1",
+"@id":"4295356",
+"info":{"authors":{"author":[{"@pid":"156/6622","text":"Reinier Kop"},{"@pid":"19/1103","text":"Mark Hoogendoorn"},{"@pid":"148/2247","text":"Leon M. G. Moons"},{"@pid":"142/4991","text":"Mattijs E. Numans"},{"@pid":"96/3134","text":"Annette ten Teije"}]},"title":"On the Advantage of Using Dedicated Data Mining Techniques to Predict Colorectal Cancer.","venue":"AIME","pages":"133-142","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/KopHMNT15","doi":"10.1007/978-3-319-19551-3_16","ee":"https://doi.org/10.1007/978-3-319-19551-3_16","url":"https://dblp.org/rec/conf/aime/KopHMNT15"},
+"url":"URL#4295356"
+},
+{
+"@score":"1",
+"@id":"4295359",
+"info":{"authors":{"author":[{"@pid":"58/2285","text":"Simone Marini"},{"@pid":"159/9129","text":"Ivan Limongelli"},{"@pid":"159/9102","text":"Ettore Rizzo"},{"@pid":"163/6869","text":"Tan Da"},{"@pid":"27/3072","text":"Riccardo Bellazzi"}]},"title":"A Genomic Data Fusion Framework to Exploit Rare and Common Variants for Association Discovery.","venue":"AIME","pages":"101-105","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/MariniLRDB15","doi":"10.1007/978-3-319-19551-3_12","ee":"https://doi.org/10.1007/978-3-319-19551-3_12","url":"https://dblp.org/rec/conf/aime/MariniLRDB15"},
+"url":"URL#4295359"
+},
+{
+"@score":"1",
+"@id":"4295360",
+"info":{"authors":{"author":[{"@pid":"12/5835","text":"Jean-Philippe Métivier"},{"@pid":"116/6351","text":"Laurie Serrano"},{"@pid":"29/2665","text":"Thierry Charnois"},{"@pid":"49/2566","text":"Bertrand Cuissart"},{"@pid":"03/4359","text":"Antoine Widlöcher"}]},"title":"Automatic Symptom Extraction from Texts to Enhance Knowledge Discovery on Rare Diseases.","venue":"AIME","pages":"249-254","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/MetivierSCCW15","doi":"10.1007/978-3-319-19551-3_33","ee":"https://doi.org/10.1007/978-3-319-19551-3_33","url":"https://dblp.org/rec/conf/aime/MetivierSCCW15"},
+"url":"URL#4295360"
+},
+{
+"@score":"1",
+"@id":"4295361",
+"info":{"authors":{"author":{"@pid":"60/6717","text":"Goran Nenadic"}},"title":"Contextualisation of Biomedical Knowledge Through Large-Scale Processing of Literature, Clinical Narratives and Social Media.","venue":"AIME","pages":"7-9","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Nenadic15","doi":"10.1007/978-3-319-19551-3_2","ee":"https://doi.org/10.1007/978-3-319-19551-3_2","url":"https://dblp.org/rec/conf/aime/Nenadic15"},
+"url":"URL#4295361"
+},
+{
+"@score":"1",
+"@id":"4295362",
+"info":{"authors":{"author":[{"@pid":"119/7373","text":"Che Ngufor"},{"@pid":"163/6799","text":"Sudhindra Upadhyaya"},{"@pid":"163/6851","text":"Dennis Murphree"},{"@pid":"163/6842","text":"Nageswar Madde"},{"@pid":"134/2424","text":"Daryl J. Kor"},{"@pid":"52/1723","text":"Jyotishman Pathak"}]},"title":"A Heterogeneous Multi-Task Learning for Predicting RBC Transfusion and Perioperative Outcomes.","venue":"AIME","pages":"287-297","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/NguforUMMKP15","doi":"10.1007/978-3-319-19551-3_37","ee":"https://doi.org/10.1007/978-3-319-19551-3_37","url":"https://dblp.org/rec/conf/aime/NguforUMMKP15"},
+"url":"URL#4295362"
+},
+{
+"@score":"1",
+"@id":"4295363",
+"info":{"authors":{"author":[{"@pid":"92/6610","text":"Nir Nissim"},{"@pid":"119/7465","text":"Mary Regina Boland"},{"@pid":"34/678","text":"Robert Moskovitch"},{"@pid":"41/8767","text":"Nicholas P. Tatonetti"},{"@pid":"38/4086","text":"Yuval Elovici"},{"@pid":"73/5503","text":"Yuval Shahar"},{"@pid":"62/6027","text":"George Hripcsak"}]},"title":"An Active Learning Framework for Efficient Condition Severity Classification.","venue":"AIME","pages":"13-24","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/NissimBMTESH15","doi":"10.1007/978-3-319-19551-3_3","ee":"https://doi.org/10.1007/978-3-319-19551-3_3","url":"https://dblp.org/rec/conf/aime/NissimBMTESH15"},
+"url":"URL#4295363"
+},
+{
+"@score":"1",
+"@id":"4295364",
+"info":{"authors":{"author":[{"@pid":"140/9583","text":"Phillip Odom"},{"@pid":"163/6897","text":"Vishal Bangera"},{"@pid":"83/8117","text":"Tushar Khot"},{"@pid":"p/DavidPage","text":"David Page"},{"@pid":"19/1038","text":"Sriraam Natarajan"}]},"title":"Extracting Adverse Drug Events from Text Using Human Advice.","venue":"AIME","pages":"195-204","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/OdomBKPN15","doi":"10.1007/978-3-319-19551-3_26","ee":"https://doi.org/10.1007/978-3-319-19551-3_26","url":"https://dblp.org/rec/conf/aime/OdomBKPN15"},
+"url":"URL#4295364"
+},
+{
+"@score":"1",
+"@id":"4295365",
+"info":{"authors":{"author":[{"@pid":"121/1123","text":"Kalia Orphanou"},{"@pid":"45/1338","text":"Athena Stassopoulou"},{"@pid":"42/3667","text":"Elpida Keravnou"}]},"title":"Risk Assessment for Primary Coronary Heart Disease Event Using Dynamic Bayesian Networks.","venue":"AIME","pages":"161-165","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/OrphanouSK15","doi":"10.1007/978-3-319-19551-3_20","ee":"https://doi.org/10.1007/978-3-319-19551-3_20","url":"https://dblp.org/rec/conf/aime/OrphanouSK15"},
+"url":"URL#4295365"
+},
+{
+"@score":"1",
+"@id":"4295368",
+"info":{"authors":{"author":[{"@pid":"148/6145","text":"Enea Parimbelli"},{"@pid":"47/2362","text":"Silvana Quaglini"},{"@pid":"27/3072","text":"Riccardo Bellazzi"},{"@pid":"88/4334","text":"John H. Holmes"}]},"title":"Collaborative Filtering for Estimating Health Related Utilities in Decision Support Systems.","venue":"AIME","pages":"106-110","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ParimbelliQBH15","doi":"10.1007/978-3-319-19551-3_13","ee":"https://doi.org/10.1007/978-3-319-19551-3_13","url":"https://dblp.org/rec/conf/aime/ParimbelliQBH15"},
+"url":"URL#4295368"
+},
+{
+"@score":"1",
+"@id":"4295370",
+"info":{"authors":{"author":[{"@pid":"70/10716","text":"Marco Pota"},{"@pid":"154/9042","text":"Elisa Scalco"},{"@pid":"163/6856","text":"Giuseppe Sanguineti"},{"@pid":"163/6935","text":"Maria Luisa Belli"},{"@pid":"154/9057","text":"Giovanni Mauro Cattaneo"},{"@pid":"69/3473","text":"Massimo Esposito"},{"@pid":"05/2816","text":"Giovanna Rizzo"}]},"title":"A Composite Model for Classifying Parotid Shrinkage in Radiotherapy Patients Using Heterogeneous Data.","venue":"AIME","pages":"257-266","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/PotaSSBCER15","doi":"10.1007/978-3-319-19551-3_34","ee":"https://doi.org/10.1007/978-3-319-19551-3_34","url":"https://dblp.org/rec/conf/aime/PotaSSBCER15"},
+"url":"URL#4295370"
+},
+{
+"@score":"1",
+"@id":"4295371",
+"info":{"authors":{"author":[{"@pid":"163/6903","text":"Sandro Radovanovic"},{"@pid":"86/7627","text":"Milan Vukicevic"},{"@pid":"97/9017","text":"Ana Kovacevic"},{"@pid":"67/6780","text":"Gregor Stiglic"},{"@pid":"92/1944","text":"Zoran Obradovic"}]},"title":"Domain knowledge Based Hierarchical Feature Selection for 30-Day Hospital Readmission Prediction.","venue":"AIME","pages":"96-100","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/RadovanovicVKSO15","doi":"10.1007/978-3-319-19551-3_11","ee":"https://doi.org/10.1007/978-3-319-19551-3_11","url":"https://dblp.org/rec/conf/aime/RadovanovicVKSO15"},
+"url":"URL#4295371"
+},
+{
+"@score":"1",
+"@id":"4295373",
+"info":{"authors":{"author":[{"@pid":"49/4014","text":"Lucia Sacchi"},{"@pid":"148/6145","text":"Enea Parimbelli"},{"@pid":"95/457","text":"Silvia Panzarasa"},{"@pid":"163/6901","text":"Natalia Viani"},{"@pid":"163/6895","text":"Elena Rizzo"},{"@pid":"85/9536","text":"Carlo Napolitano"},{"@pid":"163/6828","text":"Roxana Ioana Budasu"},{"@pid":"47/2362","text":"Silvana Quaglini"}]},"title":"Combining Decision Support System-Generated Recommendations with Interactive Guideline Visualization for Better Informed Decisions.","venue":"AIME","pages":"337-341","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SacchiPPVRNBQ15","doi":"10.1007/978-3-319-19551-3_43","ee":"https://doi.org/10.1007/978-3-319-19551-3_43","url":"https://dblp.org/rec/conf/aime/SacchiPPVRNBQ15"},
+"url":"URL#4295373"
+},
+{
+"@score":"1",
+"@id":"4295374",
+"info":{"authors":{"author":[{"@pid":"34/5829","text":"Aleksander Sadikov"},{"@pid":"15/280","text":"Jure Zabkar"},{"@pid":"82/554","text":"Martin Mozina"},{"@pid":"34/8487","text":"Vida Groznik"},{"@pid":"41/7916","text":"Dag Nyholm"},{"@pid":"07/10324","text":"Mevludin Memedi"}]},"title":"Feasibility of Spirography Features for Objective Assessment of Motor Symptoms in Parkinson&apos;s Disease.","venue":"AIME","pages":"267-276","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SadikovZMGNM15","doi":"10.1007/978-3-319-19551-3_35","ee":"https://doi.org/10.1007/978-3-319-19551-3_35","url":"https://dblp.org/rec/conf/aime/SadikovZMGNM15"},
+"url":"URL#4295374"
+},
+{
+"@score":"1",
+"@id":"4295375",
+"info":{"authors":{"author":[{"@pid":"21/7873","text":"Francesco Sambo"},{"@pid":"07/11233","text":"Andrea Facchinetti"},{"@pid":"163/6928","text":"Liisa Hakaste"},{"@pid":"163/6942","text":"Jasmina Kravic"},{"@pid":"84/7110","text":"Barbara Di Camillo"},{"@pid":"149/9477","text":"Giuseppe Fico"},{"@pid":"163/6899","text":"Jaakko Tuomilehto"},{"@pid":"116/4531","text":"Leif Groop"},{"@pid":"163/6844","text":"Rafael Gabriel"},{"@pid":"163/6914","text":"Tuomi Tiinamaija"},{"@pid":"c/ClaudioCobelli","text":"Claudio Cobelli"}]},"title":"A Bayesian Network for Probabilistic Reasoning and Imputation of Missing Risk Factors in Type 2 Diabetes.","venue":"AIME","pages":"172-176","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SamboFHKCFTGGTC15","doi":"10.1007/978-3-319-19551-3_22","ee":"https://doi.org/10.1007/978-3-319-19551-3_22","url":"https://dblp.org/rec/conf/aime/SamboFHKCFTGGTC15"},
+"url":"URL#4295375"
+},
+{
+"@score":"1",
+"@id":"4295377",
+"info":{"authors":{"author":[{"@pid":"150/6910","text":"Elena Sokolova"},{"@pid":"31/3145","text":"Perry Groot"},{"@pid":"00/10452","text":"Tom Claassen"},{"@pid":"163/6834","text":"Daniel von Rhein"},{"@pid":"34/8260","text":"Jan K. Buitelaar"},{"@pid":"03/1145","text":"Tom Heskes"}]},"title":"Causal Discovery from Medical Data: Dealing with Missing Values and a Mixture of Discrete and Continuous Data.","venue":"AIME","pages":"177-181","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SokolovaGCRBH15","doi":"10.1007/978-3-319-19551-3_23","ee":"https://doi.org/10.1007/978-3-319-19551-3_23","url":"https://dblp.org/rec/conf/aime/SokolovaGCRBH15"},
+"url":"URL#4295377"
+},
+{
+"@score":"1",
+"@id":"4295378",
+"info":{"authors":{"author":[{"@pid":"135/9943","text":"Matteo Spiotta"},{"@pid":"26/279","text":"Paolo Terenziani"},{"@pid":"d/DTDupre","text":"Daniele Theseider Dupré"}]},"title":"Temporal Conformance Analysis of Clinical Guidelines Execution.","venue":"AIME","pages":"332-336","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SpiottaTD15","doi":"10.1007/978-3-319-19551-3_42","ee":"https://doi.org/10.1007/978-3-319-19551-3_42","url":"https://dblp.org/rec/conf/aime/SpiottaTD15"},
+"url":"URL#4295378"
+},
+{
+"@score":"1",
+"@id":"4295380",
+"info":{"authors":{"author":[{"@pid":"163/6921","text":"Haider Syed"},{"@pid":"99/5148","text":"Amar K. Das"}]},"title":"Identifying Chemotherapy Regimens in Electronic Health Record Data Using Interval-Encoded Sequence Alignment.","venue":"AIME","pages":"143-147","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SyedD15","doi":"10.1007/978-3-319-19551-3_17","ee":"https://doi.org/10.1007/978-3-319-19551-3_17","url":"https://dblp.org/rec/conf/aime/SyedD15"},
+"url":"URL#4295380"
+},
+{
+"@score":"1",
+"@id":"4295381",
+"info":{"authors":{"author":[{"@pid":"151/5272","text":"Roberto Luis Shinmoto Torres"},{"@pid":"157/2404","text":"Asanga Wickramasinghe"},{"@pid":"163/6884","text":"Viet Ninh Pham"},{"@pid":"56/8102","text":"Damith Chinthana Ranasinghe"}]},"title":"What if Your Floor Could Tell Someone You Fell? A Device Free Fall Detection Method.","venue":"AIME","pages":"86-95","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/TorresWPR15","doi":"10.1007/978-3-319-19551-3_10","ee":"https://doi.org/10.1007/978-3-319-19551-3_10","url":"https://dblp.org/rec/conf/aime/TorresWPR15"},
+"url":"URL#4295381"
+},
+{
+"@score":"1",
+"@id":"4295382",
+"info":{"authors":{"author":[{"@pid":"163/6910","text":"Ben-Manson Toussaint"},{"@pid":"49/1812","text":"Vanda Luengo"}]},"title":"Mining Surgery Phase-Related Sequential Rules from Vertebroplasty Simulations Traces.","venue":"AIME","pages":"35-46","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ToussaintL15","doi":"10.1007/978-3-319-19551-3_5","ee":"https://doi.org/10.1007/978-3-319-19551-3_5","url":"https://dblp.org/rec/conf/aime/ToussaintL15"},
+"url":"URL#4295382"
+},
+{
+"@score":"1",
+"@id":"4295383",
+"info":{"authors":{"author":[{"@pid":"53/4404","text":"Allan Tucker"},{"@pid":"73/9511","text":"Yuanxi Li"}]},"title":"Updating Stochastic Networks to Integrate Cross-Sectional and Longitudinal Studies.","venue":"AIME","pages":"113-122","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/TuckerL15","doi":"10.1007/978-3-319-19551-3_14","ee":"https://doi.org/10.1007/978-3-319-19551-3_14","url":"https://dblp.org/rec/conf/aime/TuckerL15"},
+"url":"URL#4295383"
+},
+{
+"@score":"1",
+"@id":"4295384",
+"info":{"authors":{"author":[{"@pid":"53/2631","text":"Günter Tusch"},{"@pid":"97/10678","text":"Olvi Tole"},{"@pid":"163/6818","text":"Mary Ellen Hoinski"}]},"title":"A Model for Cross-Platform Searches in Temporal Microarray Data.","venue":"AIME","pages":"153-158","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/TuschTH15","doi":"10.1007/978-3-319-19551-3_19","ee":"https://doi.org/10.1007/978-3-319-19551-3_19","url":"https://dblp.org/rec/conf/aime/TuschTH15"},
+"url":"URL#4295384"
+},
+{
+"@score":"1",
+"@id":"4295386",
+"info":{"authors":{"author":[{"@pid":"78/1102-4","text":"Shuo Yang 0004"},{"@pid":"40/3793","text":"Kristian Kersting"},{"@pid":"163/6930","text":"Greg Terry"},{"@pid":"40/9322","text":"Jefferey Carr"},{"@pid":"19/1038","text":"Sriraam Natarajan"}]},"title":"Modeling Coronary Artery Calcification Levels from Behavioral Data in a Clinical Study.","venue":"AIME","pages":"182-187","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/YangKTCN15","doi":"10.1007/978-3-319-19551-3_24","ee":"https://doi.org/10.1007/978-3-319-19551-3_24","url":"https://dblp.org/rec/conf/aime/YangKTCN15"},
+"url":"URL#4295386"
+},
+{
+"@score":"1",
+"@id":"4295387",
+"info":{"authors":{"author":[{"@pid":"36/6967","text":"Veruska Zamborlini"},{"@pid":"64/2164","text":"Marcos Da Silveira"},{"@pid":"40/4526","text":"Cédric Pruski"},{"@pid":"96/3134","text":"Annette ten Teije"},{"@pid":"h/FrankvanHarmelen","text":"Frank van Harmelen"}]},"title":"Analyzing Recommendations Interactions in Clinical Guidelines - Impact of Action Type Hierarchies and Causation Beliefs.","venue":"AIME","pages":"317-326","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ZamborliniSPTH15","doi":"10.1007/978-3-319-19551-3_40","ee":"https://doi.org/10.1007/978-3-319-19551-3_40","url":"https://dblp.org/rec/conf/aime/ZamborliniSPTH15"},
+"url":"URL#4295387"
+},
+{
+"@score":"1",
+"@id":"4295388",
+"info":{"authors":{"author":[{"@pid":"127/9778","text":"Yiye Zhang"},{"@pid":"85/2518","text":"Rema Padman"}]},"title":"Data Driven Order Set Development Using Metaheuristic Optimization.","venue":"AIME","pages":"47-56","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ZhangP15","doi":"10.1007/978-3-319-19551-3_6","ee":"https://doi.org/10.1007/978-3-319-19551-3_6","url":"https://dblp.org/rec/conf/aime/ZhangP15"},
+"url":"URL#4295388"
+},
+{
+"@score":"1",
+"@id":"4295389",
+"info":{"authors":{"author":[{"@pid":"130/1801","text":"Eya Znaidi"},{"@pid":"t/LyndaTamine","text":"Lynda Tamine"},{"@pid":"86/2072","text":"Chiraz Latiri"}]},"title":"Answering PICO Clinical Questions: A Semantic Graph-Based Approach.","venue":"AIME","pages":"232-237","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ZnaidiTL15","doi":"10.1007/978-3-319-19551-3_30","ee":"https://doi.org/10.1007/978-3-319-19551-3_30","url":"https://dblp.org/rec/conf/aime/ZnaidiTL15"},
+"url":"URL#4295389"
+},
+{
+"@score":"1",
+"@id":"4452072",
+"info":{"authors":{"author":[{"@pid":"88/4334","text":"John H. Holmes"},{"@pid":"27/3072","text":"Riccardo Bellazzi"},{"@pid":"49/4014","text":"Lucia Sacchi"},{"@pid":"36/2563","text":"Niels Peek"}]},"title":"Artificial Intelligence in Medicine - 15th Conference on Artificial Intelligence in Medicine, AIME 2015, Pavia, Italy, June 17-20, 2015. Proceedings","venue":["AIME","Lecture Notes in Computer Science"],"volume":"9105","publisher":"Springer","year":"2015","type":"Editorship","key":"conf/aime/2015","doi":"10.1007/978-3-319-19551-3","ee":"https://doi.org/10.1007/978-3-319-19551-3","url":"https://dblp.org/rec/conf/aime/2015"},
+"url":"URL#4452072"
+}
+]
+}
+}
+}

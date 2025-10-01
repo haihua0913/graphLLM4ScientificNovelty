@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+Bayesian optimization,high dimensions,-0.189,1.5421
+Bayesian optimization,random embedding,-0.4069,1.6775
+high dimensions,random embedding,-0.4039,1.6757
+Bayesian optimization,REMBO,-0.2129,1.5575
+Bayesian optimization,continuous variables,-0.2272,1.5667
+REMBO,high dimensions,-0.0671,1.4609
+continuous variables,high dimensions,0.0065,1.4096
+REMBO,random embedding,-0.0301,1.4354
+continuous variables,random embedding,-0.0117,1.4224
+REMBO,continuous variables,-0.1305,1.5037
+Bayesian optimization,automatic parameter configuration,0.6231,0.8683
+Bayesian optimization,mixed integer linear programming solver,-0.161,1.5238
+automatic parameter configuration,random embedding,-0.3477,1.6418
+mixed integer linear programming solver,random embedding,-0.0272,1.4334
+REMBO,automatic parameter configuration,0.3145,1.1709
+REMBO,mixed integer linear programming solver,0.6684,0.8144
+automatic parameter configuration,continuous variables,0.1928,1.2706
+continuous variables,mixed integer linear programming solver,-0.1765,1.534
+automatic parameter configuration,mixed integer linear programming solver,0.4222,1.075

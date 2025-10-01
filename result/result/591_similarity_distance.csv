@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+3D CNN,spatial-temporal features,-0.0361,1.4395
+3D CNN,computational cost,-0.153,1.5185
+3D CNN,temporal reasoning,-0.0728,1.4648
+computational cost,spatial-temporal features,-0.4399,1.697
+spatial-temporal features,temporal reasoning,-0.0782,1.4684
+computational cost,temporal reasoning,0.9107,0.4226
+3D CNN,spatial and temporal filters,-0.1002,1.4834
+spatial and temporal filters,spatial-temporal features,-0.2884,1.6053
+computational cost,spatial and temporal filters,0.9457,0.3294
+spatial and temporal filters,temporal reasoning,0.9308,0.3719
+3D CNN,decomposition method,0.1197,1.3269
+3D CNN,feature channels,0.2156,1.2525
+decomposition method,spatial-temporal features,-0.3051,1.6156
+feature channels,spatial-temporal features,-0.0263,1.4327
+computational cost,decomposition method,0.869,0.5119
+computational cost,feature channels,-0.0355,1.4391
+decomposition method,spatial and temporal filters,0.8047,0.625
+feature channels,spatial and temporal filters,-0.1974,1.5475
+decomposition method,feature channels,0.0217,1.3988
+spatial and temporal filters,static and dynamic cues,-0.3979,1.672
+decomposition method,static and dynamic cues,-0.3505,1.6435
+feature channels,static and dynamic cues,0.072,1.3623
+parameter-efficient,static and dynamic cues,-0.1867,1.5406
+parameter-efficient,temporal reasoning,-0.3662,1.653

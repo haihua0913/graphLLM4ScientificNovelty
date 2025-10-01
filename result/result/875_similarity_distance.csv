@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+automated essay scoring,optical handwriting recognition,-0.2036,1.5515
+handwritten student essays,optical handwriting recognition,-0.2256,1.5657
+optical handwriting recognition,scoring,-0.1117,1.4911
+automated essay scoring,handwritten student essays,0.9736,0.23
+automated essay scoring,scoring,0.7987,0.6344
+handwritten student essays,scoring,0.8419,0.5624
+optical handwriting recognition,reading comprehension tests,-0.2211,1.5627
+automated essay scoring,reading comprehension tests,0.953,0.3064
+handwritten student essays,reading comprehension tests,0.9568,0.2941
+reading comprehension tests,scoring,0.8919,0.4649
+image-level operations,optical handwriting recognition,0.8843,0.481
+automated essay scoring,image-level operations,-0.3998,1.6732
+image-level operations,scoring,-0.1311,1.5041
+image-level operations,reading comprehension tests,-0.3505,1.6435
+machine learning,scoring,-0.2474,1.5795
+human-scored samples,scoring,0.0379,1.3872
+image-level operations,machine learning,0.2197,1.2493
+human-scored samples,image-level operations,0.9566,0.2945
+human-scored samples,machine learning,0.1525,1.3019

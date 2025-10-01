@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+Markov mixed membership model,fully connected graph,0.981,0.1951
+Markov mixed membership model,Markov random walk,0.1233,1.3242
+Markov random walk,fully connected graph,0.0379,1.3872
+Markov random walk,parametric model,0.1589,1.297
+Markov random walk,complex dependency structure,-0.2859,1.6037
+Markov random walk,conjugacy,-0.0703,1.4631
+Markov random walk,stochastic variational inference,0.0632,1.3688
+complex dependency structure,parametric model,-0.0459,1.4463
+conjugacy,parametric model,0.1506,1.3034
+parametric model,stochastic variational inference,-0.3057,1.616
+complex dependency structure,conjugacy,0.8867,0.4759
+complex dependency structure,stochastic variational inference,-0.17,1.5297
+conjugacy,stochastic variational inference,-0.0343,1.4383
+parametric model,tree structured topic models,-0.2177,1.5606
+complex dependency structure,tree structured topic models,-0.2006,1.5496
+conjugacy,tree structured topic models,-0.5109,1.7383
+stochastic variational inference,tree structured topic models,-0.1676,1.5282

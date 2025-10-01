@@ -1,0 +1,980 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/bhi/bhi2016.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"77.73"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"158",
+"@dc":"158",
+"@oc":"158",
+"@id":"48874942",
+"text":":facetid:toc:db/conf/bhi/bhi2016.bht"
+}
+},
+"hits":{
+"@total":"158",
+"@computed":"158",
+"@sent":"158",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3993350",
+"info":{"authors":{"author":[{"@pid":"98/9686","text":"Naveed Afzal"},{"@pid":"91/3328","text":"Sunghwan Sohn"},{"@pid":"178/9965","text":"Sara Abram"},{"@pid":"92/2407","text":"Hongfang Liu"},{"@pid":"65/8749","text":"Iftikhar J. Kullo"},{"@pid":"179/0003","text":"Adelaide M. Arruda-Olson"}]},"title":"Identifying peripheral arterial disease cases using natural language processing of clinical notes.","venue":"BHI","pages":"126-131","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/AfzalSALKA16","doi":"10.1109/BHI.2016.7455851","ee":"https://doi.org/10.1109/BHI.2016.7455851","url":"https://dblp.org/rec/conf/bhi/AfzalSALKA16"},
+"url":"URL#3993350"
+},
+{
+"@score":"1",
+"@id":"3993351",
+"info":{"authors":{"author":[{"@pid":"163/4524","text":"Mohammed Al-Musawi"},{"@pid":"171/8291","text":"Andres Ledesma"},{"@pid":"149/9425","text":"Hannu Nieminen"},{"@pid":"84/35","text":"Ilkka Korhonen"}]},"title":"Implementation and user testing of a system for visualizing continuous health data and events.","venue":"BHI","pages":"156-159","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/Al-MusawiLNK16","doi":"10.1109/BHI.2016.7455858","ee":"https://doi.org/10.1109/BHI.2016.7455858","url":"https://dblp.org/rec/conf/bhi/Al-MusawiLNK16"},
+"url":"URL#3993351"
+},
+{
+"@score":"1",
+"@id":"3993352",
+"info":{"authors":{"author":[{"@pid":"159/4112","text":"Nijad Anabtawi"},{"@pid":"178/9962","text":"Sabrina Freeman"},{"@pid":"28/6107","text":"Rony Ferzli"}]},"title":"A fully implantable, NFC enabled, continuous interstitial glucose monitor.","venue":"BHI","pages":"612-615","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/AnabtawiFF16","doi":"10.1109/BHI.2016.7455973","ee":"https://doi.org/10.1109/BHI.2016.7455973","url":"https://dblp.org/rec/conf/bhi/AnabtawiFF16"},
+"url":"URL#3993352"
+},
+{
+"@score":"1",
+"@id":"3993353",
+"info":{"authors":{"author":[{"@pid":"159/4112","text":"Nijad Anabtawi"},{"@pid":"178/9962","text":"Sabrina Freeman"},{"@pid":"28/6107","text":"Rony Ferzli"}]},"title":"An auditory nerve stimulation chip with integrated AFE, sound processing, and power management for fully implantable cochlear implants.","venue":"BHI","pages":"616-619","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/AnabtawiFF16a","doi":"10.1109/BHI.2016.7455974","ee":"https://doi.org/10.1109/BHI.2016.7455974","url":"https://dblp.org/rec/conf/bhi/AnabtawiFF16a"},
+"url":"URL#3993353"
+},
+{
+"@score":"1",
+"@id":"3993354",
+"info":{"authors":{"author":[{"@pid":"152/3090","text":"Björn Andersen"},{"@pid":"38/10099-2","text":"Martin Kasparick 0002"},{"@pid":"83/3304","text":"Frank Golatowski"},{"@pid":"53/1847","text":"Josef Ingenerf"}]},"title":"Extending the IEEE 11073-1010X nomenclature for the modelling of surgical devices.","venue":"BHI","pages":"244-247","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/AndersenKGI16","doi":"10.1109/BHI.2016.7455880","ee":"https://doi.org/10.1109/BHI.2016.7455880","url":"https://dblp.org/rec/conf/bhi/AndersenKGI16"},
+"url":"URL#3993354"
+},
+{
+"@score":"1",
+"@id":"3993355",
+"info":{"authors":{"author":[{"@pid":"46/7649","text":"Sardar Ansari"},{"@pid":"178/9975","text":"Negar Farzaneh"},{"@pid":"179/0015","text":"Michael Heung"},{"@pid":"25/10642","text":"Kenn R. Oldham"},{"@pid":"50/316","text":"Harm Derksen"},{"@pid":"71/7647","text":"Kevin R. Ward"},{"@pid":"93/4379","text":"Kayvan Najarian"}]},"title":"Real-time detection of intradialytic hypotension using a novel polyvinylidene fluoride based sensor.","venue":"BHI","pages":"493-496","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/AnsariFHODWN16","doi":"10.1109/BHI.2016.7455942","ee":"https://doi.org/10.1109/BHI.2016.7455942","url":"https://dblp.org/rec/conf/bhi/AnsariFHODWN16"},
+"url":"URL#3993355"
+},
+{
+"@score":"1",
+"@id":"3993356",
+"info":{"authors":{"author":[{"@pid":"48/10411","text":"Meltem Apaydin"},{"@pid":"74/2630-1","text":"Bo Zeng 0001"},{"@pid":"62/4504","text":"Xiaoning Qian"}]},"title":"A reliable alternative of OptKnock for desirable mutant microbial strains.","venue":"BHI","pages":"573-576","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ApaydinZQ16","doi":"10.1109/BHI.2016.7455962","ee":"https://doi.org/10.1109/BHI.2016.7455962","url":"https://dblp.org/rec/conf/bhi/ApaydinZQ16"},
+"url":"URL#3993356"
+},
+{
+"@score":"1",
+"@id":"3993357",
+"info":{"authors":{"author":[{"@pid":"178/9910","text":"Anjali Arunan"},{"@pid":"178/9895","text":"Rahul Krishnan Pathinarupothi"},{"@pid":"117/5227","text":"Maneesha Vinodini Ramesh"}]},"title":"A real-time detection and warning of cardiovascular disease LAHB for a wearable wireless ECG device.","venue":"BHI","pages":"98-101","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ArunanPR16","doi":"10.1109/BHI.2016.7455844","ee":"https://doi.org/10.1109/BHI.2016.7455844","url":"https://dblp.org/rec/conf/bhi/ArunanPR16"},
+"url":"URL#3993357"
+},
+{
+"@score":"1",
+"@id":"3993358",
+"info":{"authors":{"author":[{"@pid":"179/0030","text":"Hazar Ashouri"},{"@pid":"00/1242","text":"Omer T. Inan"}]},"title":"Improving the accuracy of proximal timing detection from ballistocardiogram signals using a high bandwidth force plate.","venue":"BHI","pages":"553-556","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/AshouriI16","doi":"10.1109/BHI.2016.7455957","ee":"https://doi.org/10.1109/BHI.2016.7455957","url":"https://dblp.org/rec/conf/bhi/AshouriI16"},
+"url":"URL#3993358"
+},
+{
+"@score":"1",
+"@id":"3993359",
+"info":{"authors":{"author":[{"@pid":"163/5294","text":"Ruqayya Awan"},{"@pid":"178/9969","text":"Nada A. Aloraidi"},{"@pid":"76/8312","text":"Uvais Qidwai"},{"@pid":"r/NasirRajpoot","text":"Nasir M. Rajpoot"}]},"title":"How divided is a cell? Eigenphase nuclei for classification of mitotic phase in cancer histology images.","venue":"BHI","pages":"70-73","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/AwanAQR16","doi":"10.1109/BHI.2016.7455837","ee":"https://doi.org/10.1109/BHI.2016.7455837","url":"https://dblp.org/rec/conf/bhi/AwanAQR16"},
+"url":"URL#3993359"
+},
+{
+"@score":"1",
+"@id":"3993360",
+"info":{"authors":{"author":[{"@pid":"179/0009","text":"Angeline Muga Awiti"},{"@pid":"178/9934","text":"Besufekad M. Shifferaw"},{"@pid":"178/9890","text":"Maximus Baguma Byamukama"},{"@pid":"179/0002","text":"Ronald Kizito"},{"@pid":"90/8142","text":"Cosmas Mwikirize"}]},"title":"Design and implementation of an Android based digital fetoscope.","venue":"BHI","pages":"152-155","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/AwitiSBKM16","doi":"10.1109/BHI.2016.7455857","ee":"https://doi.org/10.1109/BHI.2016.7455857","url":"https://dblp.org/rec/conf/bhi/AwitiSBKM16"},
+"url":"URL#3993360"
+},
+{
+"@score":"1",
+"@id":"3993361",
+"info":{"authors":{"author":[{"@pid":"178/9978","text":"Oluyemi Badmus"},{"@pid":"54/4521","text":"Sergio Camorlinga"},{"@pid":"178/9963","text":"Orlando Simpson"}]},"title":"Poverty and the emergence of tuberculosis: An agent-based modelling approach.","venue":"BHI","pages":"561-564","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/BadmusCS16","doi":"10.1109/BHI.2016.7455959","ee":"https://doi.org/10.1109/BHI.2016.7455959","url":"https://dblp.org/rec/conf/bhi/BadmusCS16"},
+"url":"URL#3993361"
+},
+{
+"@score":"1",
+"@id":"3993362",
+"info":{"authors":{"author":[{"@pid":"143/2477","text":"Stephanie L. Bennett"},{"@pid":"g/RafikAGoubran","text":"Rafik A. Goubran"},{"@pid":"00/3682","text":"Frank Knoefel"}]},"title":"Measurement and comparison of thermal and in-bed pressure data towards the prevention of pressure ulcers.","venue":"BHI","pages":"62-65","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/BennettGK16","doi":"10.1109/BHI.2016.7455835","ee":"https://doi.org/10.1109/BHI.2016.7455835","url":"https://dblp.org/rec/conf/bhi/BennettGK16"},
+"url":"URL#3993362"
+},
+{
+"@score":"1",
+"@id":"3993363",
+"info":{"authors":{"author":[{"@pid":"61/5209","text":"Anna M. Bianchi"},{"@pid":"29/7009","text":"Jorge Henriques"},{"@pid":"171/7638","text":"Clara Italiano Monteiro"},{"@pid":"06/8324","text":"Audrey Borghi-Silva"},{"@pid":"52/5239-1","text":"Paulo Carvalho 0001"},{"@pid":"160/1963","text":"Matteo Migliorini"},{"@pid":"21/1757","text":"Teresa Rocha"},{"@pid":"08/4683","text":"Simão Paredes"},{"@pid":"171/7558","text":"Vitor Trimer"},{"@pid":"165/1277","text":"Ramona Cabiddu"}]},"title":"Identification of CVD risk parameters during sleep.","venue":"BHI","pages":"352-355","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/BianchiHMBCMRPT16","doi":"10.1109/BHI.2016.7455907","ee":"https://doi.org/10.1109/BHI.2016.7455907","url":"https://dblp.org/rec/conf/bhi/BianchiHMBCMRPT16"},
+"url":"URL#3993363"
+},
+{
+"@score":"1",
+"@id":"3993364",
+"info":{"authors":{"author":[{"@pid":"164/6550","text":"Javad Birjandtalab"},{"@pid":"68/7728","text":"Maziyar Baran Pouyan"},{"@pid":"n/MehrdadNourani","text":"Mehrdad Nourani"}]},"title":"Nonlinear dimension reduction for EEG-based epileptic seizure detection.","venue":"BHI","pages":"595-598","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/BirjandtalabPN16","doi":"10.1109/BHI.2016.7455968","ee":"https://doi.org/10.1109/BHI.2016.7455968","url":"https://dblp.org/rec/conf/bhi/BirjandtalabPN16"},
+"url":"URL#3993364"
+},
+{
+"@score":"1",
+"@id":"3993365",
+"info":{"authors":{"author":[{"@pid":"178/9938","text":"Keith Bissett"},{"@pid":"142/2674","text":"Jose Cadena"},{"@pid":"84/7031","text":"Maleq Khan"},{"@pid":"09/7561","text":"Chris J. Kuhlman"},{"@pid":"195/6150","text":"Bryan L. Lewis"},{"@pid":"178/9948","text":"Pyrros A. Telionis"}]},"title":"An integrated agent-based approach for modeling disease spread in large populations to support health informatics.","venue":"BHI","pages":"629-632","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/BissettCKKLT16","doi":"10.1109/BHI.2016.7455977","ee":"https://doi.org/10.1109/BHI.2016.7455977","url":"https://dblp.org/rec/conf/bhi/BissettCKKLT16"},
+"url":"URL#3993365"
+},
+{
+"@score":"1",
+"@id":"3993366",
+"info":{"authors":{"author":[{"@pid":"133/2215","text":"Dwaipayan Biswas"},{"@pid":"142/5679","text":"Valentina Bono"},{"@pid":"178/9913","text":"Michael Scott-South"},{"@pid":"178/1388","text":"Shre Kumar Chatterjee"},{"@pid":"178/9994","text":"Anna Soska"},{"@pid":"178/9918","text":"Steve Snow"},{"@pid":"303/6168","text":"Catherine J. Noakes"},{"@pid":"178/9906","text":"Janet F. Barlow"},{"@pid":"01/3640","text":"Koushik Maharatna"},{"@pid":"s/MonicaMCSchraefel","text":"m. c. schraefel"}]},"title":"Analysing wireless EEG based functional connectivity measures with respect to change in environmental factors.","venue":"BHI","pages":"599-602","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/BiswasBSCSSNBMs16","doi":"10.1109/BHI.2016.7455969","ee":"https://doi.org/10.1109/BHI.2016.7455969","url":"https://dblp.org/rec/conf/bhi/BiswasBSCSSNBMs16"},
+"url":"URL#3993366"
+},
+{
+"@score":"1",
+"@id":"3993367",
+"info":{"authors":{"author":[{"@pid":"65/10823","text":"Vincent Blijleven"},{"@pid":"04/7308","text":"Monique W. M. Jaspers"},{"@pid":"178/9891","text":"Marijntje Wetzels"},{"@pid":"178/9943","text":"Kitty Koelemeijer"},{"@pid":"06/8772","text":"Afshin Mehrsai"}]},"title":"A meta-modeling technique for analyzing, designing and adapting healthcare processes: A process-deliverable perspective.","venue":"BHI","pages":"316-319","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/BlijlevenJWKM16","doi":"10.1109/BHI.2016.7455898","ee":"https://doi.org/10.1109/BHI.2016.7455898","url":"https://dblp.org/rec/conf/bhi/BlijlevenJWKM16"},
+"url":"URL#3993367"
+},
+{
+"@score":"1",
+"@id":"3993368",
+"info":{"authors":{"author":[{"@pid":"142/5679","text":"Valentina Bono"},{"@pid":"133/2215","text":"Dwaipayan Biswas"},{"@pid":"29/8859","text":"Saptarshi Das"},{"@pid":"01/3640","text":"Koushik Maharatna"}]},"title":"Classifying human emotional states using wireless EEG based ERP and functional connectivity measures.","venue":"BHI","pages":"200-203","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/BonoBDM16","doi":"10.1109/BHI.2016.7455869","ee":"https://doi.org/10.1109/BHI.2016.7455869","url":"https://dblp.org/rec/conf/bhi/BonoBDM16"},
+"url":"URL#3993368"
+},
+{
+"@score":"1",
+"@id":"3993369",
+"info":{"authors":{"author":[{"@pid":"147/7200","text":"Davide Boschetto"},{"@pid":"149/7521","text":"Hadis Mirzaei"},{"@pid":"149/7679","text":"Rupert W. L. Leong"},{"@pid":"61/5711","text":"Enrico Grisan"}]},"title":"Superpixel-based automatic segmentation of villi in confocal endomicroscopy.","venue":"BHI","pages":"168-171","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/BoschettoMLG16","doi":"10.1109/BHI.2016.7455861","ee":"https://doi.org/10.1109/BHI.2016.7455861","url":"https://dblp.org/rec/conf/bhi/BoschettoMLG16"},
+"url":"URL#3993369"
+},
+{
+"@score":"1",
+"@id":"3993370",
+"info":{"authors":{"author":[{"@pid":"153/1160","text":"Alexander Boschmann"},{"@pid":"32/9149","text":"Strahinja Dosen"},{"@pid":"03/7001","text":"Andreas Werner"},{"@pid":"178/9956","text":"Ali Raies"},{"@pid":"76/5573","text":"Dario Farina"}]},"title":"A novel immersive augmented reality system for prosthesis training and assessment.","venue":"BHI","pages":"280-283","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/BoschmannDWRF16","doi":"10.1109/BHI.2016.7455889","ee":"https://doi.org/10.1109/BHI.2016.7455889","url":"https://dblp.org/rec/conf/bhi/BoschmannDWRF16"},
+"url":"URL#3993370"
+},
+{
+"@score":"1",
+"@id":"3993371",
+"info":{"authors":{"author":[{"@pid":"f/JulianaKusterFilipe","text":"Juliana Küster Filipe Bowles"},{"@pid":"178/9915","text":"Agastya Silvina"}]},"title":"Model checking cancer automata.","venue":"BHI","pages":"376-379","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/BowlesS16","doi":"10.1109/BHI.2016.7455913","ee":"https://doi.org/10.1109/BHI.2016.7455913","url":"https://dblp.org/rec/conf/bhi/BowlesS16"},
+"url":"URL#3993371"
+},
+{
+"@score":"1",
+"@id":"3993372",
+"info":{"authors":{"author":[{"@pid":"84/8285","text":"Justin R. Boyle"},{"@pid":"155/2604","text":"Derek Ireland"},{"@pid":"179/0001","text":"Fiona Webster"},{"@pid":"179/0006","text":"Kim O&apos;Sullivan"}]},"title":"Predicting demand for hospital capacity planning.","venue":"BHI","pages":"328-331","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/BoyleIWO16","doi":"10.1109/BHI.2016.7455901","ee":"https://doi.org/10.1109/BHI.2016.7455901","url":"https://dblp.org/rec/conf/bhi/BoyleIWO16"},
+"url":"URL#3993372"
+},
+{
+"@score":"1",
+"@id":"3993373",
+"info":{"authors":{"author":[{"@pid":"171/8927","text":"Marianna Capecci"},{"@pid":"15/9870","text":"M. Gabriella Ceravolo"},{"@pid":"129/4674","text":"Francesco Ferracuti"},{"@pid":"139/3736","text":"Sabrina Iarlori"},{"@pid":"07/2806","text":"Ville Kyrki"},{"@pid":"99/6912","text":"Sauro Longhi"},{"@pid":"160/1914","text":"Luca Romeo"},{"@pid":"171/7894","text":"Federica Verdini"}]},"title":"Physical rehabilitation exercises assessment based on Hidden Semi-Markov Model by Kinect v2.","venue":"BHI","pages":"256-259","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/CapecciCFIKLRV16","doi":"10.1109/BHI.2016.7455883","ee":"https://doi.org/10.1109/BHI.2016.7455883","url":"https://dblp.org/rec/conf/bhi/CapecciCFIKLRV16"},
+"url":"URL#3993373"
+},
+{
+"@score":"1",
+"@id":"3993374",
+"info":{"authors":{"author":[{"@pid":"52/5239-1","text":"Paulo Carvalho 0001"},{"@pid":"29/7009","text":"Jorge Henriques"},{"@pid":"144/9418","text":"César Alexandre Teixeira"},{"@pid":"93/6635","text":"Ricardo Couceiro"},{"@pid":"21/1757","text":"Teresa Rocha"},{"@pid":"97/2393","text":"Luis Mendes"},{"@pid":"200/5728","text":"Bruno Moraes Rocha"},{"@pid":"125/3382","text":"Diogo Nunes"},{"@pid":"33/1080","text":"Ioanna Chouvarda"},{"@pid":"m/NicosMaglaveras","text":"Nicos Maglaveras"},{"@pid":"50/3339","text":"Rui Pedro Paiva"}]},"title":"Biodata analytics for COPD.","venue":"BHI","pages":"469-472","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/CarvalhoHTCRMRN16","doi":"10.1109/BHI.2016.7455936","ee":"https://doi.org/10.1109/BHI.2016.7455936","url":"https://dblp.org/rec/conf/bhi/CarvalhoHTCRMRN16"},
+"url":"URL#3993374"
+},
+{
+"@score":"1",
+"@id":"3993375",
+"info":{"authors":{"author":[{"@pid":"231/2659","text":"Oscal T.-C. Chen"},{"@pid":"115/9384","text":"Y. H. Tsai"},{"@pid":"178/9904","text":"C. W. Su"},{"@pid":"178/9923","text":"P. C. Kuo"},{"@pid":"178/9992","text":"W. C. Lai"}]},"title":"Voice-activity home care system.","venue":"BHI","pages":"110-113","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ChenTSKL16","doi":"10.1109/BHI.2016.7455847","ee":"https://doi.org/10.1109/BHI.2016.7455847","url":"https://dblp.org/rec/conf/bhi/ChenTSKL16"},
+"url":"URL#3993375"
+},
+{
+"@score":"1",
+"@id":"3993376",
+"info":{"authors":{"author":[{"@pid":"14/7555","text":"Yi-Ting Cheng"},{"@pid":"08/7329","text":"Yu-Feng Lin"},{"@pid":"39/3724","text":"Kuo-Hwa Chiang"},{"@pid":"t/VincentSMTseng","text":"Vincent S. Tseng"}]},"title":"Mining disease sequential risk patterns from nationwide clinical databases for early assessment of chronic obstructive pulmonary disease.","venue":"BHI","pages":"324-327","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ChengLCT16","doi":"10.1109/BHI.2016.7455900","ee":"https://doi.org/10.1109/BHI.2016.7455900","url":"https://dblp.org/rec/conf/bhi/ChengLCT16"},
+"url":"URL#3993376"
+},
+{
+"@score":"1",
+"@id":"3993377",
+"info":{"authors":{"author":[{"@pid":"57/4265","text":"Olivier Chételat"},{"@pid":"160/6438","text":"Josias Wacker"},{"@pid":"160/6441","text":"Michaël Rapin"},{"@pid":"38/10904","text":"Jacques-André Porchet"},{"@pid":"160/6470","text":"Christophe Meier"},{"@pid":"178/9887","text":"Abdessamad Fahli"},{"@pid":"179/0021","text":"Etienne Haenni"},{"@pid":"72/11306","text":"Laura Caldani"},{"@pid":"178/9892","text":"Carlo Mancuso"},{"@pid":"09/3813","text":"Rita Paradiso"},{"@pid":"179/0013","text":"Lutz Arneth"}]},"title":"New biosensors and wearables for cardiorespiratory telemonitoring.","venue":"BHI","pages":"481-484","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ChetelatWRPMFHC16","doi":"10.1109/BHI.2016.7455939","ee":"https://doi.org/10.1109/BHI.2016.7455939","url":"https://dblp.org/rec/conf/bhi/ChetelatWRPMFHC16"},
+"url":"URL#3993377"
+},
+{
+"@score":"1",
+"@id":"3993378",
+"info":{"authors":{"author":[{"@pid":"40/6750","text":"Jo Woon Chong"},{"@pid":"142/0401","text":"Chae Ho Cho"},{"@pid":"162/8533","text":"Nada Esa"},{"@pid":"93/11395","text":"David D. McManus"},{"@pid":"21/10653","text":"Ki H. Chon"}]},"title":"Motion and noise artifact-resilient atrial fibrillation detection algorithm for a smartphone.","venue":"BHI","pages":"591-594","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ChongCEMC16","doi":"10.1109/BHI.2016.7455967","ee":"https://doi.org/10.1109/BHI.2016.7455967","url":"https://dblp.org/rec/conf/bhi/ChongCEMC16"},
+"url":"URL#3993378"
+},
+{
+"@score":"1",
+"@id":"3993379",
+"info":{"authors":{"author":[{"@pid":"33/1080","text":"Ioanna Chouvarda"},{"@pid":"92/7342","text":"Vassilis Kilintzis"},{"@pid":"160/6396","text":"Nikolaos Beredimas"},{"@pid":"28/7652","text":"Pantelis Natsiavas"},{"@pid":"160/6359","text":"Eleni Perantoni"},{"@pid":"171/9793","text":"Ioannis M. Vogiatzis"},{"@pid":"178/9908","text":"Vangelis Vaimakakis"},{"@pid":"m/NicosMaglaveras","text":"Nicos Maglaveras"}]},"title":"Clinical flows and decision support systems for co-ordinated and integrated care in COPD.","venue":"BHI","pages":"477-480","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ChouvardaKBNPVV16","doi":"10.1109/BHI.2016.7455938","ee":"https://doi.org/10.1109/BHI.2016.7455938","url":"https://dblp.org/rec/conf/bhi/ChouvardaKBNPVV16"},
+"url":"URL#3993379"
+},
+{
+"@score":"1",
+"@id":"3993380",
+"info":{"authors":{"author":[{"@pid":"93/6635","text":"Ricardo Couceiro"},{"@pid":"52/5239-1","text":"Paulo Carvalho 0001"},{"@pid":"50/3339","text":"Rui Pedro Paiva"},{"@pid":"07/10229","text":"Jens Muehlsteff"},{"@pid":"29/7009","text":"Jorge Henriques"},{"@pid":"193/8197","text":"Stephan Willems"},{"@pid":"178/9936","text":"Christiane Jungen"},{"@pid":"51/5621-2","text":"Christian Meyer 0002"}]},"title":"Evaluation of a PPG-based algorithm for prediction of neurally mediated syncope.","venue":"BHI","pages":"434-436","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/CouceiroCPMHWJM16","doi":"10.1109/BHI.2016.7455927","ee":"https://doi.org/10.1109/BHI.2016.7455927","url":"https://dblp.org/rec/conf/bhi/CouceiroCPMHWJM16"},
+"url":"URL#3993380"
+},
+{
+"@score":"1",
+"@id":"3993381",
+"info":{"authors":{"author":[{"@pid":"175/2241","text":"Ali Fatih Demir"},{"@pid":"67/1416","text":"Hüseyin Arslan"},{"@pid":"71/1844","text":"Ismail Uysal"}]},"title":"Bio-inspired filter banks for SSVEP-based brain-computer interfaces.","venue":"BHI","pages":"144-147","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/DemirAU16","doi":"10.1109/BHI.2016.7455855","ee":"https://doi.org/10.1109/BHI.2016.7455855","url":"https://dblp.org/rec/conf/bhi/DemirAU16"},
+"url":"URL#3993381"
+},
+{
+"@score":"1",
+"@id":"3993382",
+"info":{"authors":{"author":[{"@pid":"44/3350","text":"Xiaodong Deng"},{"@pid":"179/0010","text":"Wee Hwee Lin"},{"@pid":"192/7266","text":"E. Shyong Tai"},{"@pid":"178/9947","text":"Eric Khoo Yin Hao"},{"@pid":"179/0025","text":"Mark Kevin Salloway"},{"@pid":"23/5411","text":"Chuen Seng Tan"}]},"title":"From descriptive to diagnostic analytics for assessing data quality: An application to temporal data elements in electronic health records.","venue":"BHI","pages":"236-239","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/DengLEESS16","doi":"10.1109/BHI.2016.7455878","ee":"https://doi.org/10.1109/BHI.2016.7455878","url":"https://dblp.org/rec/conf/bhi/DengLEESS16"},
+"url":"URL#3993382"
+},
+{
+"@score":"1",
+"@id":"3993383",
+"info":{"authors":{"author":[{"@pid":"179/0007","text":"Tyler Desplenter"},{"@pid":"178/9886","text":"A. Kyrylova"},{"@pid":"83/6940","text":"Ana Luisa Trejos"}]},"title":"Development of an EMG-driven control system for a wearable mechatronic elbow brace.","venue":"BHI","pages":"501-504","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/DesplenterKT16","doi":"10.1109/BHI.2016.7455944","ee":"https://doi.org/10.1109/BHI.2016.7455944","url":"https://dblp.org/rec/conf/bhi/DesplenterKT16"},
+"url":"URL#3993383"
+},
+{
+"@score":"1",
+"@id":"3993384",
+"info":{"authors":{"author":[{"@pid":"178/9935","text":"Imen Dhif"},{"@pid":"175/6116","text":"Mohammed Shaaban Ibraheem"},{"@pid":"171/8943","text":"Laurent Lambert"},{"@pid":"60/8285","text":"Khalil Hachicha"},{"@pid":"14/6292","text":"Andréa Pinna 0001"},{"@pid":"127/6193","text":"Sylvain Hochberg"},{"@pid":"127/6207","text":"Imen Mhedhbi"},{"@pid":"20/3385","text":"Patrick Garda"}]},"title":"A novel approach using WAAVES coder for the EEG signal compression.","venue":"BHI","pages":"453-456","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/DhifILHPHMG16","doi":"10.1109/BHI.2016.7455932","ee":"https://doi.org/10.1109/BHI.2016.7455932","url":"https://dblp.org/rec/conf/bhi/DhifILHPHMG16"},
+"url":"URL#3993384"
+},
+{
+"@score":"1",
+"@id":"3993385",
+"info":{"authors":{"author":[{"@pid":"144/6093","text":"Xiao-Rong Ding"},{"@pid":"78/6888","text":"Yuan-Ting Zhang"},{"@pid":"03/1868","text":"Hon Ki Tsang"}]},"title":"A new modeling methodology for continuous cuffless blood pressure measurement.","venue":"BHI","pages":"264-267","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/DingZT16","doi":"10.1109/BHI.2016.7455885","ee":"https://doi.org/10.1109/BHI.2016.7455885","url":"https://dblp.org/rec/conf/bhi/DingZT16"},
+"url":"URL#3993385"
+},
+{
+"@score":"1",
+"@id":"3993386",
+"info":{"authors":{"author":[{"@pid":"178/9903","text":"Yuhang Dong"},{"@pid":"142/0032","text":"Hongda Shen"},{"@pid":"p/WDavidPan","text":"W. David Pan"}]},"title":"An interactive tool for ROI extraction and compression on whole slide images.","venue":"BHI","pages":"224-227","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/DongSP16","doi":"10.1109/BHI.2016.7455875","ee":"https://doi.org/10.1109/BHI.2016.7455875","url":"https://dblp.org/rec/conf/bhi/DongSP16"},
+"url":"URL#3993386"
+},
+{
+"@score":"1",
+"@id":"3993387",
+"info":{"authors":{"author":[{"@pid":"22/924","text":"Themis P. Exarchos"},{"@pid":"35/3058-1","text":"George Rigas 0001"},{"@pid":"139/5656","text":"Athanasios Bibas"},{"@pid":"139/5478","text":"Dimitrios Kikidis"},{"@pid":"173/8517","text":"Christos Nikitas"},{"@pid":"173/8555","text":"Floris L. Wuyts"},{"@pid":"173/8688","text":"Berina Ihtijarevic"},{"@pid":"173/8423","text":"Leen Maes"},{"@pid":"81/11513","text":"Massimo Cenciarini"},{"@pid":"173/6344","text":"Christoph Maurer"},{"@pid":"173/8718","text":"Nora Macdonald"},{"@pid":"173/8501","text":"Doris Eva Bamiou"},{"@pid":"173/8481","text":"Linda Luxon"},{"@pid":"173/8523","text":"Marios Prasinos"},{"@pid":"13/1166","text":"George Spanoudakis"},{"@pid":"27/3742","text":"Dimitrios D. Koutsouris"},{"@pid":"26/42","text":"Dimitrios I. Fotiadis"}]},"title":"Multiparametric data analysis for diagnostic decision support in balance disorders.","venue":"BHI","pages":"437-440","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ExarchosRBKNWIM16","doi":"10.1109/BHI.2016.7455928","ee":"https://doi.org/10.1109/BHI.2016.7455928","url":"https://dblp.org/rec/conf/bhi/ExarchosRBKNWIM16"},
+"url":"URL#3993387"
+},
+{
+"@score":"1",
+"@id":"3993388",
+"info":{"authors":{"author":[{"@pid":"82/9769","text":"Carlos Fernández-Llatas"},{"@pid":"192/6745","text":"Jose-Luis Bayo-Monton"},{"@pid":"171/9822","text":"Alvaro Martinez-Romero"},{"@pid":"04/2129","text":"José-Miguel Benedí"},{"@pid":"23/4060","text":"Vicente Traver 0001"}]},"title":"Interactive pattern recognition in cardiovascular disease management. A process mining approach.","venue":"BHI","pages":"348-351","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/Fernandez-Llatas16","doi":"10.1109/BHI.2016.7455906","ee":"https://doi.org/10.1109/BHI.2016.7455906","url":"https://dblp.org/rec/conf/bhi/Fernandez-Llatas16"},
+"url":"URL#3993388"
+},
+{
+"@score":"1",
+"@id":"3993389",
+"info":{"authors":{"author":[{"@pid":"82/9769","text":"Carlos Fernández-Llatas"},{"@pid":"171/9822","text":"Alvaro Martinez-Romero"},{"@pid":"61/5209","text":"Anna M. Bianchi"},{"@pid":"29/7009","text":"Jorge Henriques"},{"@pid":"52/5239-1","text":"Paulo Carvalho 0001"},{"@pid":"23/4060","text":"Vicente Traver 0001"}]},"title":"Challenges in personalized systems for Personal Health Care.","venue":"BHI","pages":"356-359","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/Fernandez-Llatas16a","doi":"10.1109/BHI.2016.7455908","ee":"https://doi.org/10.1109/BHI.2016.7455908","url":"https://dblp.org/rec/conf/bhi/Fernandez-Llatas16a"},
+"url":"URL#3993389"
+},
+{
+"@score":"1",
+"@id":"3993390",
+"info":{"authors":{"author":[{"@pid":"83/9632","text":"Refaat E. Gabr"},{"@pid":"51/6444","text":"Amol S. Pednekar"},{"@pid":"98/7998","text":"Xiaojun Sun"},{"@pid":"83/6347","text":"Ponnada A. Narayana"}]},"title":"A framework for precision magnetic resonance imaging: Initial results.","venue":"BHI","pages":"276-279","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/GabrPSN16","doi":"10.1109/BHI.2016.7455888","ee":"https://doi.org/10.1109/BHI.2016.7455888","url":"https://dblp.org/rec/conf/bhi/GabrPSN16"},
+"url":"URL#3993390"
+},
+{
+"@score":"1",
+"@id":"3993391",
+"info":{"authors":{"author":[{"@pid":"159/8539","text":"Jean I. Garcia-Gathright"},{"@pid":"179/0019","text":"Nicholas J. Matiasz"},{"@pid":"159/8318","text":"Edward B. Garon"},{"@pid":"20/5281","text":"Denise R. Aberle"},{"@pid":"t/RickyKTaira","text":"Ricky K. Taira"},{"@pid":"92/1850","text":"Alex A. T. Bui"}]},"title":"Toward patient-tailored summarization of lung cancer literature.","venue":"BHI","pages":"449-452","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/Garcia-Gathright16","doi":"10.1109/BHI.2016.7455931","ee":"https://doi.org/10.1109/BHI.2016.7455931","url":"https://dblp.org/rec/conf/bhi/Garcia-Gathright16"},
+"url":"URL#3993391"
+},
+{
+"@score":"1",
+"@id":"3993392",
+"info":{"authors":{"author":[{"@pid":"06/6822","text":"Vijay Gehlot"},{"@pid":"178/9911","text":"Liji Matthew"},{"@pid":"64/5337","text":"Elliot B. Sloane"}]},"title":"From data to processes - Use of modeling and simulation in healthcare.","venue":"BHI","pages":"320-323","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/GehlotMS16","doi":"10.1109/BHI.2016.7455899","ee":"https://doi.org/10.1109/BHI.2016.7455899","url":"https://dblp.org/rec/conf/bhi/GehlotMS16"},
+"url":"URL#3993392"
+},
+{
+"@score":"1",
+"@id":"3993393",
+"info":{"authors":{"author":[{"@pid":"179/0004","text":"Susan Giblin"},{"@pid":"178/9958","text":"Dara Meldrum"},{"@pid":"178/9940","text":"Mark McGroarty"},{"@pid":"178/9993","text":"Stuart O&apos;Brien"},{"@pid":"179/0011","text":"Simon Rand"},{"@pid":"76/1953","text":"Stephen Smith"},{"@pid":"179/0024","text":"Karl Grogan"},{"@pid":"179/0008","text":"Friedrich Wetterling"}]},"title":"Bone length calibration can significantly improve the measurement accuracy of knee flexion angle when using a marker-less system to capture the motion of countermovement jump.","venue":"BHI","pages":"392-397","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/GiblinMMORSGW16","doi":"10.1109/BHI.2016.7455917","ee":"https://doi.org/10.1109/BHI.2016.7455917","url":"https://dblp.org/rec/conf/bhi/GiblinMMORSGW16"},
+"url":"URL#3993393"
+},
+{
+"@score":"1",
+"@id":"3993394",
+"info":{"authors":{"author":[{"@pid":"153/8022","text":"Norm M. Good"},{"@pid":"28/6764","text":"Sankalp Khanna"},{"@pid":"84/8285","text":"Justin R. Boyle"}]},"title":"In-hospital mortality and the &quot;weekend effect&quot;: Can we find the underlying causes?","venue":"BHI","pages":"336-339","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/GoodKB16","doi":"10.1109/BHI.2016.7455903","ee":"https://doi.org/10.1109/BHI.2016.7455903","url":"https://dblp.org/rec/conf/bhi/GoodKB16"},
+"url":"URL#3993394"
+},
+{
+"@score":"1",
+"@id":"3993395",
+"info":{"authors":{"author":[{"@pid":"150/7640","text":"Daniel R. Harris"},{"@pid":"178/9950","text":"Tamela J. Harper"},{"@pid":"148/3719","text":"Darren W. Henderson"},{"@pid":"179/0016","text":"Keith W. Henry"},{"@pid":"03/9046","text":"Jeffery C. Talbert"}]},"title":"Informatics-based challenges of building collaborative healthcare research and analysis networks from rural community health centers.","venue":"BHI","pages":"513-516","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/HarrisHHHT16","doi":"10.1109/BHI.2016.7455947","ee":"https://doi.org/10.1109/BHI.2016.7455947","url":"https://dblp.org/rec/conf/bhi/HarrisHHHT16"},
+"url":"URL#3993395"
+},
+{
+"@score":"1",
+"@id":"3993396",
+"info":{"authors":{"author":[{"@pid":"48/1477","text":"Takuya Hashimoto"},{"@pid":"179/0018","text":"Atsuko Murakoshi"},{"@pid":"75/1691","text":"Takahiro Kikuchi"},{"@pid":"178/9924","text":"Yukihiro Michiwaki"},{"@pid":"178/9901","text":"Takuji Koike"}]},"title":"Development of musculoskeletal model for the hyoid bone during swallowing.","venue":"BHI","pages":"457-460","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/HashimotoMKMK16","doi":"10.1109/BHI.2016.7455933","ee":"https://doi.org/10.1109/BHI.2016.7455933","url":"https://dblp.org/rec/conf/bhi/HashimotoMKMK16"},
+"url":"URL#3993396"
+},
+{
+"@score":"1",
+"@id":"3993397",
+"info":{"authors":{"author":[{"@pid":"69/6357","text":"Qian He"},{"@pid":"23/3629","text":"Emmanuel O. Agu"}]},"title":"A frequency domain algorithm to identify recurrent sedentary behaviors from activity time-series data.","venue":"BHI","pages":"45-48","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/HeA16","doi":"10.1109/BHI.2016.7455831","ee":"https://doi.org/10.1109/BHI.2016.7455831","url":"https://dblp.org/rec/conf/bhi/HeA16"},
+"url":"URL#3993397"
+},
+{
+"@score":"1",
+"@id":"3993398",
+"info":{"authors":{"author":[{"@pid":"95/9649-1","text":"Zhe He 0001"},{"@pid":"61/4069","text":"Neil Charness"},{"@pid":"09/851-1","text":"Jiang Bian 0001"},{"@pid":"33/3529","text":"William R. Hogan"}]},"title":"Assessing the comorbidity gap between clinical studies and prevalence in elderly patient populations.","venue":"BHI","pages":"136-139","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/HeCBH16","doi":"10.1109/BHI.2016.7455853","ee":"https://doi.org/10.1109/BHI.2016.7455853","url":"https://dblp.org/rec/conf/bhi/HeCBH16"},
+"url":"URL#3993398"
+},
+{
+"@score":"1",
+"@id":"3993399",
+"info":{"authors":{"author":[{"@pid":"50/9836","text":"Xiaochuan He"},{"@pid":"g/RafikAGoubran","text":"Rafik A. Goubran"},{"@pid":"l/PeterXiaopingLiu","text":"Xiaoping P. Liu"}]},"title":"Wrist pulse measurement and analysis using Eulerian video magnification.","venue":"BHI","pages":"41-44","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/HeGL16","doi":"10.1109/BHI.2016.7455830","ee":"https://doi.org/10.1109/BHI.2016.7455830","url":"https://dblp.org/rec/conf/bhi/HeGL16"},
+"url":"URL#3993399"
+},
+{
+"@score":"1",
+"@id":"3993400",
+"info":{"authors":{"author":[{"@pid":"96/7622","text":"Tiancheng He"},{"@pid":"171/4071","text":"Richard Ogunti"},{"@pid":"171/4078","text":"Mamta Puppala"},{"@pid":"97/3340","text":"Shenyi Chen"},{"@pid":"51/1449-3","text":"Xiaohui Yu 0003"},{"@pid":"178/9885","text":"James J. Mancuso"},{"@pid":"51/5211","text":"Stephen T. C. Wong"}]},"title":"A smartphone app framework for segmented cancer care coordination.","venue":"BHI","pages":"372-375","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/HeOPCYMW16","doi":"10.1109/BHI.2016.7455912","ee":"https://doi.org/10.1109/BHI.2016.7455912","url":"https://dblp.org/rec/conf/bhi/HeOPCYMW16"},
+"url":"URL#3993400"
+},
+{
+"@score":"1",
+"@id":"3993401",
+"info":{"authors":{"author":[{"@pid":"96/7622","text":"Tiancheng He"},{"@pid":"52/4733","text":"Zhong Xue"},{"@pid":"51/5211","text":"Stephen T. Wong"}]},"title":"A three-dimensional medical image segmentation app using graphic theory.","venue":"BHI","pages":"268-271","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/HeXW16","doi":"10.1109/BHI.2016.7455886","ee":"https://doi.org/10.1109/BHI.2016.7455886","url":"https://dblp.org/rec/conf/bhi/HeXW16"},
+"url":"URL#3993401"
+},
+{
+"@score":"1",
+"@id":"3993402",
+"info":{"authors":{"author":[{"@pid":"50/7782","text":"Andy Huang"},{"@pid":"143/2497","text":"Yuu Ono"}]},"title":"Estimation of wrist flexion angle from muscle thickness changes measured by a flexible ultrasonic sensor.","venue":"BHI","pages":"188-191","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/HuangO16","doi":"10.1109/BHI.2016.7455866","ee":"https://doi.org/10.1109/BHI.2016.7455866","url":"https://dblp.org/rec/conf/bhi/HuangO16"},
+"url":"URL#3993402"
+},
+{
+"@score":"1",
+"@id":"3993403",
+"info":{"authors":{"author":[{"@pid":"175/6116","text":"Mohammed Shaaban Ibraheem"},{"@pid":"76/7357","text":"Syed Zahid Ahmed"},{"@pid":"60/8285","text":"Khalil Hachicha"},{"@pid":"127/6193","text":"Sylvain Hochberg"},{"@pid":"20/3385","text":"Patrick Garda"}]},"title":"Medical images compression with clinical diagnostic quality using logarithmic DWT.","venue":"BHI","pages":"402-405","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/IbraheemAHHG16","doi":"10.1109/BHI.2016.7455919","ee":"https://doi.org/10.1109/BHI.2016.7455919","url":"https://dblp.org/rec/conf/bhi/IbraheemAHHG16"},
+"url":"URL#3993403"
+},
+{
+"@score":"1",
+"@id":"3993404",
+"info":{"authors":{"author":[{"@pid":"12/675","text":"Milla Immonen"},{"@pid":"09/8017","text":"Heidi Similä"},{"@pid":"178/9968","text":"Elixabete Altube Arabiurrutia"},{"@pid":"178/9893","text":"Maria Jose Cano Manas"},{"@pid":"178/9954","text":"Jesus Blanco Laguia"},{"@pid":"178/9960","text":"Cristina Palmer García"},{"@pid":"137/3348","text":"Carlos García Gordillo"}]},"title":"Development and user feedback of home technology for preventing falls in older adults.","venue":"BHI","pages":"122-125","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ImmonenSAMLGG16","doi":"10.1109/BHI.2016.7455850","ee":"https://doi.org/10.1109/BHI.2016.7455850","url":"https://dblp.org/rec/conf/bhi/ImmonenSAMLGG16"},
+"url":"URL#3993404"
+},
+{
+"@score":"1",
+"@id":"3993405",
+"info":{"authors":{"author":[{"@pid":"159/9054","text":"Roosan Islam"},{"@pid":"148/5428","text":"Jeanmarie Mayer"},{"@pid":"178/9927","text":"Justin Clutter"}]},"title":"Supporting novice clinicians cognitive strategies: System design perspective.","venue":"BHI","pages":"509-512","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/IslamMC16","doi":"10.1109/BHI.2016.7455946","ee":"https://doi.org/10.1109/BHI.2016.7455946","url":"https://dblp.org/rec/conf/bhi/IslamMC16"},
+"url":"URL#3993405"
+},
+{
+"@score":"1",
+"@id":"3993406",
+"info":{"authors":{"author":[{"@pid":"55/4824","text":"Akshay Jain"},{"@pid":"19/6162","text":"James M. Keller"},{"@pid":"07/1057","text":"James C. Bezdek"}]},"title":"Quantitative and qualitative comparison of periodic sensor data.","venue":"BHI","pages":"37-40","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/JainKB16","doi":"10.1109/BHI.2016.7455829","ee":"https://doi.org/10.1109/BHI.2016.7455829","url":"https://dblp.org/rec/conf/bhi/JainKB16"},
+"url":"URL#3993406"
+},
+{
+"@score":"1",
+"@id":"3993407",
+"info":{"authors":{"author":[{"@pid":"98/8378","text":"Majid Janidarmian"},{"@pid":"123/2341","text":"Atena Roshan Fekr"},{"@pid":"79/5582","text":"Katarzyna Radecka"},{"@pid":"75/1586","text":"Zeljko Zilic"}]},"title":"Haptic feedback and human performance in a wearable sensor system.","venue":"BHI","pages":"620-624","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/JanidarmianFRZ16","doi":"10.1109/BHI.2016.7455975","ee":"https://doi.org/10.1109/BHI.2016.7455975","url":"https://dblp.org/rec/conf/bhi/JanidarmianFRZ16"},
+"url":"URL#3993407"
+},
+{
+"@score":"1",
+"@id":"3993408",
+"info":{"authors":{"author":[{"@pid":"171/9401","text":"Behnaz Jarrahi"},{"@pid":"62/5104","text":"Dante Mantini"}]},"title":"Hierarchical subdivision and effect of ICA model dimensionality on the interoceptive task-derived brain networks.","venue":"BHI","pages":"57-61","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/JarrahiM16","doi":"10.1109/BHI.2016.7455834","ee":"https://doi.org/10.1109/BHI.2016.7455834","url":"https://dblp.org/rec/conf/bhi/JarrahiM16"},
+"url":"URL#3993408"
+},
+{
+"@score":"1",
+"@id":"3993409",
+"info":{"authors":{"author":[{"@pid":"167/5581","text":"Abdul Qadir Javaid"},{"@pid":"179/0030","text":"Hazar Ashouri"},{"@pid":"00/1242","text":"Omer T. Inan"}]},"title":"Estimating systolic time intervals during walking using wearable ballistocardiography.","venue":"BHI","pages":"549-552","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/JavaidAI16","doi":"10.1109/BHI.2016.7455956","ee":"https://doi.org/10.1109/BHI.2016.7455956","url":"https://dblp.org/rec/conf/bhi/JavaidAI16"},
+"url":"URL#3993409"
+},
+{
+"@score":"1",
+"@id":"3993410",
+"info":{"authors":{"author":[{"@pid":"122/5048","text":"Vilas Joshi"},{"@pid":"85/10929","text":"Bruce Wallace 0001"},{"@pid":"189/2144","text":"Anissa Shaddy"},{"@pid":"00/3682","text":"Frank Knoefel"},{"@pid":"g/RafikAGoubran","text":"Rafik A. Goubran"},{"@pid":"178/9981","text":"C. Lord"}]},"title":"Metrics to monitor performance of patients with mild cognitive impairment using computer based games.","venue":"BHI","pages":"521-524","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/JoshiWSKGL16","doi":"10.1109/BHI.2016.7455949","ee":"https://doi.org/10.1109/BHI.2016.7455949","url":"https://dblp.org/rec/conf/bhi/JoshiWSKGL16"},
+"url":"URL#3993410"
+},
+{
+"@score":"1",
+"@id":"3993411",
+"info":{"authors":{"author":[{"@pid":"143/3226","text":"Changyong (Andrew) Jung"},{"@pid":"43/5586","text":"Suk-Jin Lee"}]},"title":"Design of automatic insulin injection system with Continuous Glucose Monitoring (CGM) signals.","venue":"BHI","pages":"102-105","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/JungL16","doi":"10.1109/BHI.2016.7455845","ee":"https://doi.org/10.1109/BHI.2016.7455845","url":"https://dblp.org/rec/conf/bhi/JungL16"},
+"url":"URL#3993411"
+},
+{
+"@score":"1",
+"@id":"3993412",
+"info":{"authors":{"author":[{"@pid":"128/2612","text":"Jae-Hwan Kang"},{"@pid":"178/9907","text":"Chung Ho Lee"},{"@pid":"42/6173","text":"Sung-Phil Kim"}]},"title":"EEG feature selection and the use of Lyapunov exponents for EEG-based biometrics.","venue":"BHI","pages":"228-231","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/KangLK16","doi":"10.1109/BHI.2016.7455876","ee":"https://doi.org/10.1109/BHI.2016.7455876","url":"https://dblp.org/rec/conf/bhi/KangLK16"},
+"url":"URL#3993412"
+},
+{
+"@score":"1",
+"@id":"3993413",
+"info":{"authors":{"author":[{"@pid":"178/9999","text":"Vaishnavi Kannan"},{"@pid":"179/0020","text":"Jason C. Fish"},{"@pid":"179/0017","text":"DuWayne L. Willett"}]},"title":"Agile model driven development of electronic health record-based specialty population registries.","venue":"BHI","pages":"465-468","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/KannanFW16","doi":"10.1109/BHI.2016.7455935","ee":"https://doi.org/10.1109/BHI.2016.7455935","url":"https://dblp.org/rec/conf/bhi/KannanFW16"},
+"url":"URL#3993413"
+},
+{
+"@score":"1",
+"@id":"3993414",
+"info":{"authors":{"author":[{"@pid":"51/49","text":"Ebrahim Karami"},{"@pid":"33/2495","text":"Mohamed S. Shehata"},{"@pid":"133/7934","text":"Peter F. McGuire"},{"@pid":"143/3152","text":"Andrew J. Smith"}]},"title":"A semi-automated technique for internal jugular vein segmentation in ultrasound images using active contours.","venue":"BHI","pages":"184-187","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/KaramiSMS16","doi":"10.1109/BHI.2016.7455865","ee":"https://doi.org/10.1109/BHI.2016.7455865","url":"https://dblp.org/rec/conf/bhi/KaramiSMS16"},
+"url":"URL#3993414"
+},
+{
+"@score":"1",
+"@id":"3993415",
+"info":{"authors":{"author":[{"@pid":"179/0022","text":"Mohamed Karasad"},{"@pid":"18/11060","text":"Dalel Bouslimi"},{"@pid":"119/0629","text":"Michel Cozic"},{"@pid":"19/4450","text":"Gouenou Coatrieux"}]},"title":"Watermarking of radiographic images based on quantum noise modulation.","venue":"BHI","pages":"9-12","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/KarasadBCC16","doi":"10.1109/BHI.2016.7455822","ee":"https://doi.org/10.1109/BHI.2016.7455822","url":"https://dblp.org/rec/conf/bhi/KarasadBCC16"},
+"url":"URL#3993415"
+},
+{
+"@score":"1",
+"@id":"3993416",
+"info":{"authors":{"author":[{"@pid":"178/9931","text":"Yuta Kawamoto"},{"@pid":"11/7084","text":"Shintaro Izumi"},{"@pid":"10/4720","text":"Yoshito Tanaka"},{"@pid":"00/945","text":"Hiroshi Kawaguchi 0001"},{"@pid":"22/2856","text":"Masahiko Yoshimoto"}]},"title":"Capacitively coupled ECG sensor using a single electrode with adaptive power-line noise cancellation.","venue":"BHI","pages":"212-215","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/KawamotoITKY16","doi":"10.1109/BHI.2016.7455872","ee":"https://doi.org/10.1109/BHI.2016.7455872","url":"https://dblp.org/rec/conf/bhi/KawamotoITKY16"},
+"url":"URL#3993416"
+},
+{
+"@score":"1",
+"@id":"3993417",
+"info":{"authors":{"author":[{"@pid":"160/6509","text":"Reem Kayyali"},{"@pid":"160/6402","text":"Shereen Nabhani-Gebara"},{"@pid":"178/9946","text":"Iman Hesso"},{"@pid":"160/6362","text":"Roshan Siva"},{"@pid":"71/61","text":"Evangelos Kaimakamis"},{"@pid":"134/2935","text":"Anouk W. Vaes"},{"@pid":"134/2799","text":"Martijn A. Spruit"},{"@pid":"98/1313","text":"John Chang"},{"@pid":"171/9263","text":"Richard W. Costello"},{"@pid":"48/3262","text":"Nada Y. Philip"},{"@pid":"63/10268","text":"Barbara K. Pierscionek"},{"@pid":"m/NicosMaglaveras","text":"Nicos Maglaveras"}]},"title":"User profiling for coordinated and integrated care.","venue":"BHI","pages":"473-476","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/KayyaliNHSKVSCC16","doi":"10.1109/BHI.2016.7455937","ee":"https://doi.org/10.1109/BHI.2016.7455937","url":"https://dblp.org/rec/conf/bhi/KayyaliNHSKVSCC16"},
+"url":"URL#3993417"
+},
+{
+"@score":"1",
+"@id":"3993418",
+"info":{"authors":{"author":[{"@pid":"158/4143","text":"Benjamin C. Knoll"},{"@pid":"18/4279","text":"Genevieve B. Melton"},{"@pid":"92/2407","text":"Hongfang Liu"},{"@pid":"31/4114-1","text":"Hua Xu 0001"},{"@pid":"55/1703","text":"Serguei V. S. Pakhomov"}]},"title":"Using synthetic clinical data to train an HMM-based POS tagger.","venue":"BHI","pages":"252-255","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/KnollMLXP16","doi":"10.1109/BHI.2016.7455882","ee":"https://doi.org/10.1109/BHI.2016.7455882","url":"https://dblp.org/rec/conf/bhi/KnollMLXP16"},
+"url":"URL#3993418"
+},
+{
+"@score":"1",
+"@id":"3993419",
+"info":{"authors":{"author":[{"@pid":"66/5067","text":"Sonal Kothari"},{"@pid":"50/6004","text":"Hang Wu"},{"@pid":"68/844-1","text":"Li Tong 0001"},{"@pid":"178/9970","text":"Kevin E. Woods"},{"@pid":"93/2701","text":"May D. Wang"}]},"title":"Automated risk prediction for esophageal optical endomicroscopic images.","venue":"BHI","pages":"160-163","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/KothariWTWW16","doi":"10.1109/BHI.2016.7455859","ee":"https://doi.org/10.1109/BHI.2016.7455859","url":"https://dblp.org/rec/conf/bhi/KothariWTWW16"},
+"url":"URL#3993419"
+},
+{
+"@score":"1",
+"@id":"3993420",
+"info":{"authors":{"author":[{"@pid":"171/9053","text":"Konstantina Kourou"},{"@pid":"16/2990","text":"Costas Papaloukas"},{"@pid":"26/42","text":"Dimitrios I. Fotiadis"}]},"title":"Gene-based pathway enrichment analysis of oral squamous cell carcinoma patients.","venue":"BHI","pages":"360-363","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/KourouPF16","doi":"10.1109/BHI.2016.7455909","ee":"https://doi.org/10.1109/BHI.2016.7455909","url":"https://dblp.org/rec/conf/bhi/KourouPF16"},
+"url":"URL#3993420"
+},
+{
+"@score":"1",
+"@id":"3993421",
+"info":{"authors":{"author":{"@pid":"64/4749","text":"Joon Lee"}},"title":"Personalized mortality prediction for the critically ill using a patient similarity metric and bagging.","venue":"BHI","pages":"332-335","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/Lee16","doi":"10.1109/BHI.2016.7455902","ee":"https://doi.org/10.1109/BHI.2016.7455902","url":"https://dblp.org/rec/conf/bhi/Lee16"},
+"url":"URL#3993421"
+},
+{
+"@score":"1",
+"@id":"3993422",
+"info":{"authors":{"author":[{"@pid":"122/1968","text":"Seung-Hee Lee"},{"@pid":"07/496","text":"Minsu Song"},{"@pid":"92/5951-1","text":"Jonghyun Kim 0001"}]},"title":"Towards clinically relevant automatic assessment of upper-limb motor function impairment.","venue":"BHI","pages":"148-151","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/LeeSK16","doi":"10.1109/BHI.2016.7455856","ee":"https://doi.org/10.1109/BHI.2016.7455856","url":"https://dblp.org/rec/conf/bhi/LeeSK16"},
+"url":"URL#3993422"
+},
+{
+"@score":"1",
+"@id":"3993423",
+"info":{"authors":{"author":[{"@pid":"64/6025","text":"Wei Li"},{"@pid":"68/2378","text":"Xuenan Cui"},{"@pid":"78/2875","text":"Van Huan Nguyen"},{"@pid":"152/5770","text":"Trung Dung Do"},{"@pid":"175/8863","text":"Iju Park"},{"@pid":"98/2300","text":"Hakil Kim"}]},"title":"Blind image deconvolution based on robust stable edge prediction.","venue":"BHI","pages":"66-69","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/LiCNDPK16","doi":"10.1109/BHI.2016.7455836","ee":"https://doi.org/10.1109/BHI.2016.7455836","url":"https://dblp.org/rec/conf/bhi/LiCNDPK16"},
+"url":"URL#3993423"
+},
+{
+"@score":"1",
+"@id":"3993424",
+"info":{"authors":{"author":[{"@pid":"36/3924","text":"Fuhai Li"},{"@pid":"17/6729","text":"Lin Wang"},{"@pid":"178/9933","text":"Ren Kong"},{"@pid":"146/9850","text":"Jianting Sheng"},{"@pid":"178/9983","text":"Huojun Cao"},{"@pid":"178/9885","text":"James J. Mancuso"},{"@pid":"83/7978","text":"Xiaofeng Xia"},{"@pid":"178/9922","text":"Clifford Stephan"},{"@pid":"51/5211","text":"Stephen T. C. Wong"}]},"title":"DrugMoaMiner: A computational tool for mechanism of action discovery and personalized drug sensitivity prediction.","venue":"BHI","pages":"368-371","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/LiWKSCMXSW16","doi":"10.1109/BHI.2016.7455911","ee":"https://doi.org/10.1109/BHI.2016.7455911","url":"https://dblp.org/rec/conf/bhi/LiWKSCMXSW16"},
+"url":"URL#3993424"
+},
+{
+"@score":"1",
+"@id":"3993425",
+"info":{"authors":{"author":[{"@pid":"60/7723","text":"Danping Li"},{"@pid":"w/LeiWang79","text":"Lei Wang 0079"},{"@pid":"52/4733","text":"Zhong Xue"},{"@pid":"51/5211","text":"Stephen T. C. Wong"}]},"title":"When discriminative K-means meets Grassmann manifold: Disease gene identification via a general multi-view clustering method.","venue":"BHI","pages":"364-367","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/LiWXW16","doi":"10.1109/BHI.2016.7455910","ee":"https://doi.org/10.1109/BHI.2016.7455910","url":"https://dblp.org/rec/conf/bhi/LiWXW16"},
+"url":"URL#3993425"
+},
+{
+"@score":"1",
+"@id":"3993426",
+"info":{"authors":{"author":[{"@pid":"40/8436","text":"Ruizhi Liao"},{"@pid":"06/6882","text":"Weibei Dou"},{"@pid":"43/1322","text":"Mingyu Zhang"},{"@pid":"48/3975","text":"Hongyan Chen"},{"@pid":"82/1417","text":"Shaowu Li"}]},"title":"A framework for mapping scalable human brain anatomical networks via diffusion MRI.","venue":"BHI","pages":"49-52","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/LiaoDZCL16","doi":"10.1109/BHI.2016.7455832","ee":"https://doi.org/10.1109/BHI.2016.7455832","url":"https://dblp.org/rec/conf/bhi/LiaoDZCL16"},
+"url":"URL#3993426"
+},
+{
+"@score":"1",
+"@id":"3993427",
+"info":{"authors":{"author":[{"@pid":"174/0379","text":"Wen-Chen Lin"},{"@pid":"34/7180","text":"Wen-Chi Lin"},{"@pid":"88/5889","text":"Cheng-Lun Tsai"},{"@pid":"13/1617","text":"Kang-Ping Lin"}]},"title":"Feature analysis and extraction of tumor vascular structure on microscopic images.","venue":"BHI","pages":"441-444","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/LinLTL16","doi":"10.1109/BHI.2016.7455929","ee":"https://doi.org/10.1109/BHI.2016.7455929","url":"https://dblp.org/rec/conf/bhi/LinLTL16"},
+"url":"URL#3993427"
+},
+{
+"@score":"1",
+"@id":"3993428",
+"info":{"authors":{"author":[{"@pid":"75/2611-4","text":"Feng Lin 0004"},{"@pid":"181/2733-4","text":"Xiaowei Xu 0004"},{"@pid":"158/8262","text":"Aosen Wang"},{"@pid":"178/9991","text":"Lora Cavuoto"},{"@pid":"11/6689","text":"Wenyao Xu"}]},"title":"Automated patient handling activity recognition for at-risk caregivers using an unobtrusive wearable sensor.","venue":"BHI","pages":"422-425","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/LinXWCX16","doi":"10.1109/BHI.2016.7455924","ee":"https://doi.org/10.1109/BHI.2016.7455924","url":"https://dblp.org/rec/conf/bhi/LinXWCX16"},
+"url":"URL#3993428"
+},
+{
+"@score":"1",
+"@id":"3993429",
+"info":{"authors":{"author":[{"@pid":"87/2948-19","text":"Yuan Liu 0019"},{"@pid":"82/3911","text":"Benoit M. Dawant"}]},"title":"Multi-modal learning-based pre-operative targeting in deep brain stimulation procedures.","venue":"BHI","pages":"17-20","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/LiuD16","doi":"10.1109/BHI.2016.7455824","ee":"https://doi.org/10.1109/BHI.2016.7455824","url":"https://dblp.org/rec/conf/bhi/LiuD16"},
+"url":"URL#3993429"
+},
+{
+"@score":"1",
+"@id":"3993430",
+"info":{"authors":{"author":[{"@pid":"56/2849-7","text":"Fan Liu 0007"},{"@pid":"88/20-1","text":"Xingshe Zhou 0001"},{"@pid":"03/6588-1","text":"Zhu Wang 0001"},{"@pid":"171/9762","text":"Tianben Wang"},{"@pid":"83/3203","text":"Hongbo Ni"}]},"title":"A light-weight data preprocessing and integrative scheduling framework for health monitoring.","venue":"BHI","pages":"192-195","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/LiuZWWN16","doi":"10.1109/BHI.2016.7455867","ee":"https://doi.org/10.1109/BHI.2016.7455867","url":"https://dblp.org/rec/conf/bhi/LiuZWWN16"},
+"url":"URL#3993430"
+},
+{
+"@score":"1",
+"@id":"3993431",
+"info":{"authors":{"author":[{"@pid":"167/2963","text":"Nuhad A. Malalla"},{"@pid":"88/6707","text":"Pengfei Sun"},{"@pid":"21/5521","text":"Ying Chen"},{"@pid":"174/0388","text":"Michael E. Lipkin"},{"@pid":"174/0317","text":"Glenn M. Preminger"},{"@pid":"36/2844","text":"Jun Qin"}]},"title":"C-arm technique with distance driven for nephrolithiasis and kidney stones detection: Preliminary study.","venue":"BHI","pages":"164-167","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/MalallaSCLPQ16","doi":"10.1109/BHI.2016.7455860","ee":"https://doi.org/10.1109/BHI.2016.7455860","url":"https://dblp.org/rec/conf/bhi/MalallaSCLPQ16"},
+"url":"URL#3993431"
+},
+{
+"@score":"1",
+"@id":"3993432",
+"info":{"authors":{"author":[{"@pid":"07/10324","text":"Mevludin Memedi"},{"@pid":"178/9971","text":"Somayeh Aghanavesi"},{"@pid":"04/7918","text":"Jerker Westin"}]},"title":"A method for measuring Parkinson&apos;s disease related temporal irregularity in spiral drawings.","venue":"BHI","pages":"410-413","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/MemediAW16","doi":"10.1109/BHI.2016.7455921","ee":"https://doi.org/10.1109/BHI.2016.7455921","url":"https://dblp.org/rec/conf/bhi/MemediAW16"},
+"url":"URL#3993432"
+},
+{
+"@score":"1",
+"@id":"3993433",
+"info":{"authors":{"author":[{"@pid":"150/4654","text":"Mario Merone"},{"@pid":"22/7405","text":"Leonardo Onofri"},{"@pid":"150/4789","text":"Claudio Pedone"},{"@pid":"179/0035","text":"Angela M. Bussu"},{"@pid":"178/9982","text":"Barbara F. M. Rubiu"},{"@pid":"179/0026","text":"Giuseppe Capasso"},{"@pid":"178/9951","text":"Silvano Salaris"},{"@pid":"78/2954","text":"Giulio Iannello"},{"@pid":"165/1771","text":"Raffaele Antonelli Incalzi"},{"@pid":"49/5247","text":"Paolo Soda"}]},"title":"On the remote detection of COPD-related worrisome events.","venue":"BHI","pages":"33-36","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/MeroneOPBRCSIIS16","doi":"10.1109/BHI.2016.7455828","ee":"https://doi.org/10.1109/BHI.2016.7455828","url":"https://dblp.org/rec/conf/bhi/MeroneOPBRCSIIS16"},
+"url":"URL#3993433"
+},
+{
+"@score":"1",
+"@id":"3993434",
+"info":{"authors":{"author":[{"@pid":"135/0381","text":"Diane Mitchnick"},{"@pid":"79/4115","text":"Vive Kumar"},{"@pid":"k/Kinshuk","text":"Kinshuk"},{"@pid":"203/1471","text":"Shawn N. Fraser"}]},"title":"Using healthcare analytics to determine an effective diagnostic model for ADHD in students.","venue":"BHI","pages":"1-4","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/MitchnickKKF16","doi":"10.1109/BHI.2016.7467133","ee":"https://doi.org/10.1109/BHI.2016.7467133","url":"https://dblp.org/rec/conf/bhi/MitchnickKKF16"},
+"url":"URL#3993434"
+},
+{
+"@score":"1",
+"@id":"3993435",
+"info":{"authors":{"author":[{"@pid":"168/1808","text":"Hossein Mohammadhassanzadeh"},{"@pid":"94/2734","text":"William Van Woensel"},{"@pid":"28/1138","text":"Samina Raza Abidi"},{"@pid":"53/914","text":"Syed Sibte Raza Abidi"}]},"title":"A semantic web-based approach to plausible reasoning for improving clinical knowledge engineering.","venue":"BHI","pages":"525-528","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/Mohammadhassanzadeh16","doi":"10.1109/BHI.2016.7455950","ee":"https://doi.org/10.1109/BHI.2016.7455950","url":"https://dblp.org/rec/conf/bhi/Mohammadhassanzadeh16"},
+"url":"URL#3993435"
+},
+{
+"@score":"1",
+"@id":"3993436",
+"info":{"authors":{"author":[{"@pid":"169/3397","text":"Daniel N. Mohsenizadeh"},{"@pid":"141/2080","text":"Roozbeh Dehghannasiri"},{"@pid":"90/3909","text":"Edward R. Dougherty"}]},"title":"Optimal dynamics uncertainty reduction in gene networks in the presence of experimental error.","venue":"BHI","pages":"581-582","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/MohsenizadehDD16","doi":"10.1109/BHI.2016.7455964","ee":"https://doi.org/10.1109/BHI.2016.7455964","url":"https://dblp.org/rec/conf/bhi/MohsenizadehDD16"},
+"url":"URL#3993436"
+},
+{
+"@score":"1",
+"@id":"3993437",
+"info":{"authors":{"author":[{"@pid":"178/9952","text":"Erin J. Moore"},{"@pid":"72/3809","text":"Thirimachos Bourlai"}]},"title":"Biclustering for ssDNA aptamer motif prototypes.","venue":"BHI","pages":"292-295","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/MooreB16","doi":"10.1109/BHI.2016.7455892","ee":"https://doi.org/10.1109/BHI.2016.7455892","url":"https://dblp.org/rec/conf/bhi/MooreB16"},
+"url":"URL#3993437"
+},
+{
+"@score":"1",
+"@id":"3993438",
+"info":{"authors":{"author":[{"@pid":"178/9944","text":"Shruti Motiwale"},{"@pid":"178/9961","text":"William Eppler"},{"@pid":"179/0040","text":"Dale Hollingsworth"},{"@pid":"178/9997","text":"Chad Hollingsworth"},{"@pid":"178/9902","text":"Justin Morgenthau"},{"@pid":"120/0341","text":"Reuben H. Kraft"}]},"title":"Application of neural networks for filtering non-impact transients recorded from biomechanical sensors.","venue":"BHI","pages":"204-207","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/MotiwaleEHHMK16","doi":"10.1109/BHI.2016.7455870","ee":"https://doi.org/10.1109/BHI.2016.7455870","url":"https://dblp.org/rec/conf/bhi/MotiwaleEHHMK16"},
+"url":"URL#3993438"
+},
+{
+"@score":"1",
+"@id":"3993439",
+"info":{"authors":{"author":{"@pid":"97/6511","text":"Zhiping Mu"}},"title":"A novel fast DRR generation method by reassembling previously generated projection blocks.","venue":"BHI","pages":"272-275","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/Mu16","doi":"10.1109/BHI.2016.7455887","ee":"https://doi.org/10.1109/BHI.2016.7455887","url":"https://dblp.org/rec/conf/bhi/Mu16"},
+"url":"URL#3993439"
+},
+{
+"@score":"1",
+"@id":"3993440",
+"info":{"authors":{"author":[{"@pid":"118/7613-6","text":"Philipp Müller 0006"},{"@pid":"178/9929","text":"Marc-Andre Begin"},{"@pid":"89/4644","text":"Thomas Schauer"},{"@pid":"124/0545","text":"Thomas Seel"}]},"title":"Alignment-free, self-calibrating elbow angles measurement using inertial sensors.","venue":"BHI","pages":"583-586","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/MullerBSS16","doi":"10.1109/BHI.2016.7455965","ee":"https://doi.org/10.1109/BHI.2016.7455965","url":"https://dblp.org/rec/conf/bhi/MullerBSS16"},
+"url":"URL#3993440"
+},
+{
+"@score":"1",
+"@id":"3993441",
+"info":{"authors":{"author":[{"@pid":"179/0034","text":"Vishnu Muralidharan"},{"@pid":"178/9903","text":"Yuhang Dong"},{"@pid":"p/WDavidPan","text":"W. David Pan"}]},"title":"A comparison of feature selection methods for machine learning based automatic malarial cell recognition in wholeslide images.","venue":"BHI","pages":"216-219","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/MuralidharanDP16","doi":"10.1109/BHI.2016.7455873","ee":"https://doi.org/10.1109/BHI.2016.7455873","url":"https://dblp.org/rec/conf/bhi/MuralidharanDP16"},
+"url":"URL#3993441"
+},
+{
+"@score":"1",
+"@id":"3993442",
+"info":{"authors":{"author":[{"@pid":"28/43","text":"Tatsuya Nakamura"},{"@pid":"23/11178","text":"Tomoyuki Yokota"},{"@pid":"178/9914","text":"Yuki Terakawa"},{"@pid":"344/0578","text":"Jonathan T. Reeder"},{"@pid":"80/6501","text":"Walter Voit"},{"@pid":"96/1620","text":"Takao Someya"},{"@pid":"127/8133","text":"Masaki Sekino"}]},"title":"Development of flexible and wide-range polymer-based temperature sensor for human bodies.","venue":"BHI","pages":"485-488","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/NakamuraYTRVSS16","doi":"10.1109/BHI.2016.7455940","ee":"https://doi.org/10.1109/BHI.2016.7455940","url":"https://dblp.org/rec/conf/bhi/NakamuraYTRVSS16"},
+"url":"URL#3993442"
+},
+{
+"@score":"1",
+"@id":"3993443",
+"info":{"authors":{"author":[{"@pid":"150/5589","text":"Wasiu Opeyemi Oduola"},{"@pid":"51/875","text":"Xiangfang Li"},{"@pid":"147/2672","text":"Chang Duan"},{"@pid":"48/536","text":"Lijun Qian"},{"@pid":"44/1054","text":"Fen Wu"},{"@pid":"90/3909","text":"Edward R. Dougherty"}]},"title":"Analysis and control of genetic regulatory systems with switched drug inputs.","venue":"BHI","pages":"533-536","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/OduolaLDQWD16","doi":"10.1109/BHI.2016.7455952","ee":"https://doi.org/10.1109/BHI.2016.7455952","url":"https://dblp.org/rec/conf/bhi/OduolaLDQWD16"},
+"url":"URL#3993443"
+},
+{
+"@score":"1",
+"@id":"3993444",
+"info":{"authors":{"author":[{"@pid":"148/9892","text":"Temiloluwa Olubanjo"},{"@pid":"55/1900","text":"Elliot Moore II"},{"@pid":"16/2807","text":"Maysam Ghovanloo"}]},"title":"Detecting food intake acoustic events in noisy recordings using template matching.","venue":"BHI","pages":"388-391","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/OlubanjoMG16","doi":"10.1109/BHI.2016.7455916","ee":"https://doi.org/10.1109/BHI.2016.7455916","url":"https://dblp.org/rec/conf/bhi/OlubanjoMG16"},
+"url":"URL#3993444"
+},
+{
+"@score":"1",
+"@id":"3993445",
+"info":{"authors":{"author":[{"@pid":"119/2474","text":"Sinan Onal"},{"@pid":"24/1518","text":"Xin Chen"},{"@pid":"05/2311","text":"Susana K. Lai-Yuen"},{"@pid":"119/2400","text":"Stuart Hart"}]},"title":"Segmentation of sacral curve on dynamic MRI for diagnosis of pelvic organ prolapse.","venue":"BHI","pages":"90-93","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/OnalCLH16","doi":"10.1109/BHI.2016.7455842","ee":"https://doi.org/10.1109/BHI.2016.7455842","url":"https://dblp.org/rec/conf/bhi/OnalCLH16"},
+"url":"URL#3993445"
+},
+{
+"@score":"1",
+"@id":"3993446",
+"info":{"authors":{"author":[{"@pid":"178/9986","text":"Huijie Pan"},{"@pid":"143/1922","text":"Dogancan Temel"},{"@pid":"83/1655","text":"Ghassan Al-Regib"}]},"title":"HeartBEAT: Heart beat estimation through adaptive tracking.","venue":"BHI","pages":"587-590","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/PanTA16","doi":"10.1109/BHI.2016.7455966","ee":"https://doi.org/10.1109/BHI.2016.7455966","url":"https://dblp.org/rec/conf/bhi/PanTA16"},
+"url":"URL#3993446"
+},
+{
+"@score":"1",
+"@id":"3993447",
+"info":{"authors":{"author":[{"@pid":"08/4683","text":"Simão Paredes"},{"@pid":"165/1274","text":"Diana Mendes"},{"@pid":"21/1757","text":"Teresa Rocha"},{"@pid":"52/5239-1","text":"Paulo Carvalho 0001"},{"@pid":"29/7009","text":"Jorge Henriques"},{"@pid":"42/9716","text":"João Morais"}]},"title":"Strategies for personalized risk assessment for CVD management.","venue":"BHI","pages":"344-347","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ParedesMRCHM16","doi":"10.1109/BHI.2016.7455905","ee":"https://doi.org/10.1109/BHI.2016.7455905","url":"https://dblp.org/rec/conf/bhi/ParedesMRCHM16"},
+"url":"URL#3993447"
+},
+{
+"@score":"1",
+"@id":"3993448",
+"info":{"authors":{"author":[{"@pid":"35/9637","text":"Byung H. Park"},{"@pid":"119/5731","text":"Özgür Özmen"},{"@pid":"53/4699","text":"Gil Weigand"},{"@pid":"66/1246","text":"Mallikarjun Shankar"}]},"title":"High-performance computing framework for predictive simulation of healthcare delivery innovation.","venue":"BHI","pages":"517-520","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ParkOWS16","doi":"10.1109/BHI.2016.7455948","ee":"https://doi.org/10.1109/BHI.2016.7455948","url":"https://dblp.org/rec/conf/bhi/ParkOWS16"},
+"url":"URL#3993448"
+},
+{
+"@score":"1",
+"@id":"3993449",
+"info":{"authors":{"author":[{"@pid":"178/9900","text":"Elham Pashaei"},{"@pid":"96/3491","text":"Mustafa Ozen"},{"@pid":"71/3632","text":"Nizamettin Aydin"}]},"title":"Splice sites prediction of human genome using AdaBoost.","venue":"BHI","pages":"300-303","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/PashaeiOA16","doi":"10.1109/BHI.2016.7455894","ee":"https://doi.org/10.1109/BHI.2016.7455894","url":"https://dblp.org/rec/conf/bhi/PashaeiOA16"},
+"url":"URL#3993449"
+},
+{
+"@score":"1",
+"@id":"3993450",
+"info":{"authors":{"author":[{"@pid":"169/5854","text":"Elnaz Pashaei"},{"@pid":"96/3491","text":"Mustafa Ozen"},{"@pid":"71/3632","text":"Nizamettin Aydin"}]},"title":"Gene selection and classification approach for microarray data based on Random Forest Ranking and BBHA.","venue":"BHI","pages":"308-311","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/PashaeiOA16a","doi":"10.1109/BHI.2016.7455896","ee":"https://doi.org/10.1109/BHI.2016.7455896","url":"https://dblp.org/rec/conf/bhi/PashaeiOA16a"},
+"url":"URL#3993450"
+},
+{
+"@score":"1",
+"@id":"3993451",
+"info":{"authors":{"author":[{"@pid":"178/9909","text":"Theruni Pethiyagoda"},{"@pid":"161/5634","text":"Nikhil Chanani"},{"@pid":"115/5553","text":"Chihwen Cheng"},{"@pid":"93/2701","text":"May D. Wang"}]},"title":"PEPCOR - A risk prediction model for pediatric intensive care units utilizing ventilator days and length of stay.","venue":"BHI","pages":"86-89","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/PethiyagodaCCW16","doi":"10.1109/BHI.2016.7455841","ee":"https://doi.org/10.1109/BHI.2016.7455841","url":"https://dblp.org/rec/conf/bhi/PethiyagodaCCW16"},
+"url":"URL#3993451"
+},
+{
+"@score":"1",
+"@id":"3993452",
+"info":{"authors":{"author":[{"@pid":"67/1773","text":"John H. Phan"},{"@pid":"178/9953","text":"Ryan Hoffman"},{"@pid":"66/5067","text":"Sonal Kothari"},{"@pid":"59/10786","text":"Po-Yen Wu"},{"@pid":"93/2701","text":"May D. Wang"}]},"title":"Integration of multi-modal biomedical data to predict cancer grade and patient survival.","venue":"BHI","pages":"577-580","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/PhanHKWW16","doi":"10.1109/BHI.2016.7455963","ee":"https://doi.org/10.1109/BHI.2016.7455963","url":"https://dblp.org/rec/conf/bhi/PhanHKWW16"},
+"url":"URL#3993452"
+},
+{
+"@score":"1",
+"@id":"3993453",
+"info":{"authors":{"author":[{"@pid":"63/10813","text":"Clyde F. Phelix"},{"@pid":"178/9966","text":"Jason L. Dugan"}]},"title":"Integrating information on genomics, transcriptomics, proteomics, and metabolomics into biosimulations for individualized personalized medicine.","venue":"BHI","pages":"312-315","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/PhelixD16","doi":"10.1109/BHI.2016.7455897","ee":"https://doi.org/10.1109/BHI.2016.7455897","url":"https://dblp.org/rec/conf/bhi/PhelixD16"},
+"url":"URL#3993453"
+},
+{
+"@score":"1",
+"@id":"3993454",
+"info":{"authors":{"author":[{"@pid":"178/9972","text":"Edgar A. Rios Piedra"},{"@pid":"t/RickyKTaira","text":"Ricky K. Taira"},{"@pid":"57/2419","text":"Suzie El-Saden"},{"@pid":"41/10738","text":"Benjamin M. Ellingson"},{"@pid":"92/1850","text":"Alex A. T. Bui"},{"@pid":"22/6109","text":"William Hsu"}]},"title":"Assessing variability in brain tumor segmentation to improve volumetric accuracy and characterization of change.","venue":"BHI","pages":"380-383","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/PiedraTEEBH16","doi":"10.1109/BHI.2016.7455914","ee":"https://doi.org/10.1109/BHI.2016.7455914","url":"https://dblp.org/rec/conf/bhi/PiedraTEEBH16"},
+"url":"URL#3993454"
+},
+{
+"@score":"1",
+"@id":"3993455",
+"info":{"authors":{"author":[{"@pid":"145/6575","text":"Hugo F. Posada-Quintero"},{"@pid":"21/10653","text":"Ki H. Chon"}]},"title":"Frequency-domain electrodermal activity index of sympathetic function.","venue":"BHI","pages":"497-500","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/Posada-Quintero16","doi":"10.1109/BHI.2016.7455943","ee":"https://doi.org/10.1109/BHI.2016.7455943","url":"https://dblp.org/rec/conf/bhi/Posada-Quintero16"},
+"url":"URL#3993455"
+},
+{
+"@score":"1",
+"@id":"3993456",
+"info":{"authors":{"author":[{"@pid":"171/4078","text":"Mamta Puppala"},{"@pid":"96/7622","text":"Tiancheng He"},{"@pid":"51/1449-3","text":"Xiaohui Yu 0003"},{"@pid":"97/3340","text":"Shenyi Chen"},{"@pid":"171/4071","text":"Richard Ogunti"},{"@pid":"51/5211","text":"Stephen T. C. Wong"}]},"title":"Data security and privacy management in healthcare applications and clinical data warehouse environment.","venue":"BHI","pages":"5-8","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/PuppalaHYCOW16","doi":"10.1109/BHI.2016.7455821","ee":"https://doi.org/10.1109/BHI.2016.7455821","url":"https://dblp.org/rec/conf/bhi/PuppalaHYCOW16"},
+"url":"URL#3993456"
+},
+{
+"@score":"1",
+"@id":"3993457",
+"info":{"authors":{"author":[{"@pid":"178/9939","text":"Weijian Qin"},{"@pid":"02/562-3","text":"Qian Zhu 0003"}]},"title":"Network analysis with PubChem BioAssay: Preliminary study on drug abuse.","venue":"BHI","pages":"248-251","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/QinZ16","doi":"10.1109/BHI.2016.7455881","ee":"https://doi.org/10.1109/BHI.2016.7455881","url":"https://dblp.org/rec/conf/bhi/QinZ16"},
+"url":"URL#3993457"
+},
+{
+"@score":"1",
+"@id":"3993458",
+"info":{"authors":{"author":[{"@pid":"178/9945","text":"Inez Raharjo"},{"@pid":"125/5938","text":"Thomas G. Burns"},{"@pid":"141/9578","text":"Janani Venugopalan"},{"@pid":"93/2701","text":"May D. Wang"}]},"title":"Development of user-friendly and interactive data collection system for cerebral palsy.","venue":"BHI","pages":"406-409","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/RaharjoBVW16","doi":"10.1109/BHI.2016.7455920","ee":"https://doi.org/10.1109/BHI.2016.7455920","url":"https://dblp.org/rec/conf/bhi/RaharjoBVW16"},
+"url":"URL#3993458"
+},
+{
+"@score":"1",
+"@id":"3993459",
+"info":{"authors":{"author":[{"@pid":"178/9995","text":"Raziur Rahman"},{"@pid":"07/3419","text":"Ranadip Pal"}]},"title":"Analyzing drug sensitivity prediction based on dose response curve characteristics.","venue":"BHI","pages":"140-143","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/RahmanP16","doi":"10.1109/BHI.2016.7455854","ee":"https://doi.org/10.1109/BHI.2016.7455854","url":"https://dblp.org/rec/conf/bhi/RahmanP16"},
+"url":"URL#3993459"
+},
+{
+"@score":"1",
+"@id":"3993460",
+"info":{"authors":{"author":[{"@pid":"11/478","text":"Fuad Rahman 0001"},{"@pid":"171/8094","text":"Marvin J. Slepian"}]},"title":"Application of big-data in healthcare analytics - Prospects and challenges.","venue":"BHI","pages":"13-16","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/RahmanS16","doi":"10.1109/BHI.2016.7455823","ee":"https://doi.org/10.1109/BHI.2016.7455823","url":"https://dblp.org/rec/conf/bhi/RahmanS16"},
+"url":"URL#3993460"
+},
+{
+"@score":"1",
+"@id":"3993461",
+"info":{"authors":{"author":[{"@pid":"178/9989","text":"Tracy L. Rausch"},{"@pid":"178/9897","text":"Thomas M. Judd"}]},"title":"Using integrated clinical environment data for health technology management.","venue":"BHI","pages":"607-609","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/RauschJ16","doi":"10.1109/BHI.2016.7455971","ee":"https://doi.org/10.1109/BHI.2016.7455971","url":"https://dblp.org/rec/conf/bhi/RauschJ16"},
+"url":"URL#3993461"
+},
+{
+"@score":"1",
+"@id":"3993462",
+"info":{"authors":{"author":[{"@pid":"r/IndrakshiRay","text":"Indrakshi Ray"},{"@pid":"33/3818","text":"Toan C. Ong"},{"@pid":"r/IndrajitRay","text":"Indrajit Ray"},{"@pid":"59/256","text":"Michael G. Kahn"}]},"title":"Applying attribute based access control for privacy preserving health data disclosure.","venue":"BHI","pages":"1-4","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/RayORK16","doi":"10.1109/BHI.2016.7455820","ee":"https://doi.org/10.1109/BHI.2016.7455820","url":"https://dblp.org/rec/conf/bhi/RayORK16"},
+"url":"URL#3993462"
+},
+{
+"@score":"1",
+"@id":"3993463",
+"info":{"authors":{"author":[{"@pid":"68/7167","text":"Natasa Reljin"},{"@pid":"179/0048","text":"Gary Zimmer"},{"@pid":"178/9917","text":"Yelena Malyuta"},{"@pid":"45/10797","text":"Yitzhak Mendelson"},{"@pid":"178/9916","text":"Chad E. Darling"},{"@pid":"21/10653","text":"Ki H. Chon"}]},"title":"Detection of blood loss in trauma patients using time-frequency analysis of photoplethysmographic signal.","venue":"BHI","pages":"118-121","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ReljinZMMDC16","doi":"10.1109/BHI.2016.7455849","ee":"https://doi.org/10.1109/BHI.2016.7455849","url":"https://dblp.org/rec/conf/bhi/ReljinZMMDC16"},
+"url":"URL#3993463"
+},
+{
+"@score":"1",
+"@id":"3993464",
+"info":{"authors":{"author":[{"@pid":"21/1757","text":"Teresa Rocha"},{"@pid":"08/4683","text":"Simão Paredes"},{"@pid":"52/5239-1","text":"Paulo Carvalho 0001"},{"@pid":"29/7009","text":"Jorge Henriques"}]},"title":"Strategies for prediction of cardio-vascular status without explicit modeling.","venue":"BHI","pages":"340-343","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/RochaPCH16","doi":"10.1109/BHI.2016.7455904","ee":"https://doi.org/10.1109/BHI.2016.7455904","url":"https://dblp.org/rec/conf/bhi/RochaPCH16"},
+"url":"URL#3993464"
+},
+{
+"@score":"1",
+"@id":"3993465",
+"info":{"authors":{"author":[{"@pid":"30/9808","text":"Susan Sabra"},{"@pid":"143/5718","text":"Khalid Mahmood 0003"},{"@pid":"162/1147","text":"Mazen Alobaidi"}]},"title":"Semantic-based approach for predicting venous thromboembolism using Kohonen self organized map neural network.","venue":"BHI","pages":"106-109","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SabraMA16","doi":"10.1109/BHI.2016.7455846","ee":"https://doi.org/10.1109/BHI.2016.7455846","url":"https://dblp.org/rec/conf/bhi/SabraMA16"},
+"url":"URL#3993465"
+},
+{
+"@score":"1",
+"@id":"3993466",
+"info":{"authors":{"author":[{"@pid":"178/9949","text":"Sirajul Salekin"},{"@pid":"150/1319","text":"Mehrab Ghanat Bari"},{"@pid":"179/0039","text":"Itay Raphael"},{"@pid":"178/9976","text":"Thomas G. Forsthuber"},{"@pid":"53/6156","text":"Jianqiu (Michelle) Zhang"}]},"title":"Early disease correlated protein detection using early response index (ERI).","venue":"BHI","pages":"569-572","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SalekinBRFZ16","doi":"10.1109/BHI.2016.7455961","ee":"https://doi.org/10.1109/BHI.2016.7455961","url":"https://dblp.org/rec/conf/bhi/SalekinBRFZ16"},
+"url":"URL#3993466"
+},
+{
+"@score":"1",
+"@id":"3993467",
+"info":{"authors":{"author":[{"@pid":"179/0025","text":"Mark Kevin Salloway"},{"@pid":"44/3350","text":"Xiaodong Deng"},{"@pid":"178/9973","text":"Yilin Ning"},{"@pid":"178/9930","text":"Shih Ling Kao"},{"@pid":"21/5521-9","text":"Ying Chen 0009"},{"@pid":"179/0043","text":"G. Owen Schaefer"},{"@pid":"178/9967","text":"Jacqueline Joon-Lin Chin"},{"@pid":"192/7266","text":"E. Shyong Tai"},{"@pid":"23/5411","text":"Chuen Seng Tan"}]},"title":"A de-identification tool for users in medical operations and public health.","venue":"BHI","pages":"529-532","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SallowayDNKCSCT16","doi":"10.1109/BHI.2016.7455951","ee":"https://doi.org/10.1109/BHI.2016.7455951","url":"https://dblp.org/rec/conf/bhi/SallowayDNKCSCT16"},
+"url":"URL#3993467"
+},
+{
+"@score":"1",
+"@id":"3993468",
+"info":{"authors":{"author":[{"@pid":"131/3879","text":"Mohammad Reza Haji Samadi"},{"@pid":"131/3999","text":"Zohreh Zakeri"},{"@pid":"20/6838","text":"Neil Cooke"}]},"title":"VOG-enhanced ICA for removing blink and eye-movement artefacts from EEG.","venue":"BHI","pages":"603-606","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SamadiZC16","doi":"10.1109/BHI.2016.7455970","ee":"https://doi.org/10.1109/BHI.2016.7455970","url":"https://dblp.org/rec/conf/bhi/SamadiZC16"},
+"url":"URL#3993468"
+},
+{
+"@score":"1",
+"@id":"3993469",
+"info":{"authors":{"author":[{"@pid":"158/1116","text":"Aydin Saribudak"},{"@pid":"178/9984","text":"Herman Kucharavy"},{"@pid":"178/9912","text":"Karen Hubbard"},{"@pid":"76/32","text":"M. Ümit Uyar"}]},"title":"Heterogeneity of colorectal cancer cell positions as a cell viability biometrie.","venue":"BHI","pages":"21-24","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SaribudakKHU16","doi":"10.1109/BHI.2016.7455825","ee":"https://doi.org/10.1109/BHI.2016.7455825","url":"https://dblp.org/rec/conf/bhi/SaribudakKHU16"},
+"url":"URL#3993469"
+},
+{
+"@score":"1",
+"@id":"3993470",
+"info":{"authors":{"author":[{"@pid":"158/1116","text":"Aydin Saribudak"},{"@pid":"178/9984","text":"Herman Kucharavy"},{"@pid":"178/9912","text":"Karen Hubbard"},{"@pid":"76/32","text":"M. Ümit Uyar"}]},"title":"Quantification of cell apoptosis for in-vitro colorectal cancer cell cultures based on morphological features.","venue":"BHI","pages":"82-85","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SaribudakKHU16a","doi":"10.1109/BHI.2016.7455840","ee":"https://doi.org/10.1109/BHI.2016.7455840","url":"https://dblp.org/rec/conf/bhi/SaribudakKHU16a"},
+"url":"URL#3993470"
+},
+{
+"@score":"1",
+"@id":"3993471",
+"info":{"authors":{"author":[{"@pid":"153/2974","text":"Saman Sarraf"},{"@pid":"153/3071","text":"Cristina Saverino"},{"@pid":"14/2182","text":"Ali-Mohammad Golestani"}]},"title":"A robust and adaptive decision-making algorithm for detecting brain networks using functional MRI within the spatial and frequency domain.","venue":"BHI","pages":"53-56","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SarrafSG16","doi":"10.1109/BHI.2016.7455833","ee":"https://doi.org/10.1109/BHI.2016.7455833","url":"https://dblp.org/rec/conf/bhi/SarrafSG16"},
+"url":"URL#3993471"
+},
+{
+"@score":"1",
+"@id":"3993472",
+"info":{"authors":{"author":[{"@pid":"174/2213","text":"T. M. Shahriar Sazzad"},{"@pid":"74/9073","text":"Leisa J. Armstrong"},{"@pid":"50/513","text":"Amiya Kumar Tripathy"}]},"title":"An automated approach to detect human ovarian tissues using type P63 counter stained histopathology digitized color images.","venue":"BHI","pages":"25-28","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SazzadAT16","doi":"10.1109/BHI.2016.7455826","ee":"https://doi.org/10.1109/BHI.2016.7455826","url":"https://dblp.org/rec/conf/bhi/SazzadAT16"},
+"url":"URL#3993472"
+},
+{
+"@score":"1",
+"@id":"3993473",
+"info":{"authors":{"author":[{"@pid":"179/0045","text":"Behrouz Shamsaei"},{"@pid":"15/8247","text":"Cuilan Gao"}]},"title":"Comparison of some machine learning and statistical algorithms for classification and prediction of human cancer type.","venue":"BHI","pages":"296-299","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ShamsaeiG16","doi":"10.1109/BHI.2016.7455893","ee":"https://doi.org/10.1109/BHI.2016.7455893","url":"https://dblp.org/rec/conf/bhi/ShamsaeiG16"},
+"url":"URL#3993473"
+},
+{
+"@score":"1",
+"@id":"3993474",
+"info":{"authors":{"author":[{"@pid":"171/9394","text":"Shigenori Shirouzu"},{"@pid":"171/9538","text":"Yumeka Seno"},{"@pid":"171/7965","text":"Ken Tobioka"},{"@pid":"179/0032","text":"Tomoko Yagi"},{"@pid":"179/0023","text":"Toshiharu Takahashi"},{"@pid":"178/9896","text":"Mitsuo Sasaki"},{"@pid":"171/8382","text":"Hisanobu Sugano"}]},"title":"For children&apos;s sleep assessment: Can we trace the change of sleep depth based on ECG data measured at their respective home with a wearable device?","venue":"BHI","pages":"208-211","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ShirouzuSTYTSS16","doi":"10.1109/BHI.2016.7455871","ee":"https://doi.org/10.1109/BHI.2016.7455871","url":"https://dblp.org/rec/conf/bhi/ShirouzuSTYTSS16"},
+"url":"URL#3993474"
+},
+{
+"@score":"1",
+"@id":"3993475",
+"info":{"authors":{"author":[{"@pid":"64/5337","text":"Elliot B. Sloane"},{"@pid":"79/6469","text":"Nilmini Wickramasinghe"},{"@pid":"90/688","text":"Steve Goldberg"}]},"title":"Cloud-based diabetes coaching platform for diabetes management.","venue":"BHI","pages":"610-611","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SloaneWG16","doi":"10.1109/BHI.2016.7455972","ee":"https://doi.org/10.1109/BHI.2016.7455972","url":"https://dblp.org/rec/conf/bhi/SloaneWG16"},
+"url":"URL#3993475"
+},
+{
+"@score":"1",
+"@id":"3993476",
+"info":{"authors":{"author":[{"@pid":"07/496","text":"Minsu Song"},{"@pid":"92/5951-1","text":"Jonghyun Kim 0001"}]},"title":"Simple ambulatory gait monitoring system using a single IMU for various daily-life gait activities.","venue":"BHI","pages":"430-433","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SongK16","doi":"10.1109/BHI.2016.7455926","ee":"https://doi.org/10.1109/BHI.2016.7455926","url":"https://dblp.org/rec/conf/bhi/SongK16"},
+"url":"URL#3993476"
+},
+{
+"@score":"1",
+"@id":"3993477",
+"info":{"authors":{"author":[{"@pid":"14/5979-1","text":"Chen Song 0001"},{"@pid":"158/8262","text":"Aosen Wang"},{"@pid":"179/0005","text":"Kathy Doody"},{"@pid":"178/9955","text":"Michelle Hartley-McAndrew"},{"@pid":"178/9998","text":"Jana Mertz"},{"@pid":"75/2611-4","text":"Feng Lin 0004"},{"@pid":"11/6689","text":"Wenyao Xu"}]},"title":"Analyzing dynamic components of social scene parsing strategy in autism spectrum disorder.","venue":"BHI","pages":"132-135","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SongWDHMLX16","doi":"10.1109/BHI.2016.7455852","ee":"https://doi.org/10.1109/BHI.2016.7455852","url":"https://dblp.org/rec/conf/bhi/SongWDHMLX16"},
+"url":"URL#3993477"
+},
+{
+"@score":"1",
+"@id":"3993478",
+"info":{"authors":{"author":[{"@pid":"86/8116","text":"S. Mohamad R. Soroushmehr"},{"@pid":"174/2256","text":"Abhishek Bafna"},{"@pid":"61/4748","text":"S. Sinha"},{"@pid":"171/9321","text":"Brahmajee K. Nallamothu"},{"@pid":"71/7647","text":"Kevin Ward"},{"@pid":"93/4379","text":"Kayvan Najarian"}]},"title":"Quantitative measurement of vasculature in coronary angiogram videos.","venue":"BHI","pages":"176-179","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SoroushmehrBSNW16","doi":"10.1109/BHI.2016.7455863","ee":"https://doi.org/10.1109/BHI.2016.7455863","url":"https://dblp.org/rec/conf/bhi/SoroushmehrBSNW16"},
+"url":"URL#3993478"
+},
+{
+"@score":"1",
+"@id":"3993479",
+"info":{"authors":{"author":[{"@pid":"151/0372","text":"Gina Sprint"},{"@pid":"c/DianeJCook","text":"Diane J. Cook"},{"@pid":"151/0335","text":"Douglas L. Weeks"}]},"title":"Quantitative assessment of lower limb and cane movement with wearable inertial sensors.","venue":"BHI","pages":"418-421","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SprintCW16","doi":"10.1109/BHI.2016.7455923","ee":"https://doi.org/10.1109/BHI.2016.7455923","url":"https://dblp.org/rec/conf/bhi/SprintCW16"},
+"url":"URL#3993479"
+},
+{
+"@score":"1",
+"@id":"3993480",
+"info":{"authors":{"author":[{"@pid":"88/6707","text":"Pengfei Sun"},{"@pid":"36/2844","text":"Jun Qin"}]},"title":"Auditory fatigue models for prediction of gradually developed noise induced hearing loss.","venue":"BHI","pages":"384-387","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SunQ16","doi":"10.1109/BHI.2016.7455915","ee":"https://doi.org/10.1109/BHI.2016.7455915","url":"https://dblp.org/rec/conf/bhi/SunQ16"},
+"url":"URL#3993480"
+},
+{
+"@score":"1",
+"@id":"3993481",
+"info":{"authors":{"author":[{"@pid":"88/6707","text":"Pengfei Sun"},{"@pid":"36/2844","text":"Jun Qin"}]},"title":"Excitation patterns of two auditory models applied for noise induced hearing loss assessment.","venue":"BHI","pages":"398-401","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/SunQ16a","doi":"10.1109/BHI.2016.7455918","ee":"https://doi.org/10.1109/BHI.2016.7455918","url":"https://dblp.org/rec/conf/bhi/SunQ16a"},
+"url":"URL#3993481"
+},
+{
+"@score":"1",
+"@id":"3993482",
+"info":{"authors":{"author":[{"@pid":"23/5411","text":"Chuen Seng Tan"},{"@pid":"44/3350","text":"Xiaodong Deng"},{"@pid":"192/7266","text":"E. Shyong Tai"},{"@pid":"178/9947","text":"Eric Khoo Yin Hao"},{"@pid":"179/0038","text":"Toh Ee Shiow"},{"@pid":"179/0025","text":"Mark Kevin Salloway"},{"@pid":"178/9920","text":"Koh Thuan Wee"},{"@pid":"179/0037","text":"Thomas Wee"},{"@pid":"179/0010","text":"Wee Hwee Lin"}]},"title":"Predicting high cost patients with type 2 diabetes mellitus using hospital databases in a multi-ethnic Asian population.","venue":"BHI","pages":"240-243","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/TanDSHSSWWL16","doi":"10.1109/BHI.2016.7455879","ee":"https://doi.org/10.1109/BHI.2016.7455879","url":"https://dblp.org/rec/conf/bhi/TanDSHSSWWL16"},
+"url":"URL#3993482"
+},
+{
+"@score":"1",
+"@id":"3993483",
+"info":{"authors":{"author":[{"@pid":"01/7233","text":"Alain B. Tchagang"},{"@pid":"78/1254","text":"François Fauteux"},{"@pid":"99/672","text":"Youlian Pan"}]},"title":"Integration of 3D gene expression patterns and gene regulatory networks for clinical applications in epithelial ovarian cancer.","venue":"BHI","pages":"541-544","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/TchagangFP16","doi":"10.1109/BHI.2016.7455954","ee":"https://doi.org/10.1109/BHI.2016.7455954","url":"https://dblp.org/rec/conf/bhi/TchagangFP16"},
+"url":"URL#3993483"
+},
+{
+"@score":"1",
+"@id":"3993484",
+"info":{"authors":{"author":[{"@pid":"68/844-1","text":"Li Tong 0001"},{"@pid":"49/1457-1","text":"Cheng Yang 0001"},{"@pid":"59/10786","text":"Po-Yen Wu"},{"@pid":"93/2701","text":"May D. Wang"}]},"title":"Evaluating the impact of sequencing error correction for RNA-seq data with ERCC RNA spike-in controls.","venue":"BHI","pages":"74-77","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/TongYWW16","doi":"10.1109/BHI.2016.7455838","ee":"https://doi.org/10.1109/BHI.2016.7455838","url":"https://dblp.org/rec/conf/bhi/TongYWW16"},
+"url":"URL#3993484"
+},
+{
+"@score":"1",
+"@id":"3993485",
+"info":{"authors":{"author":[{"@pid":"178/9996","text":"Albert Al Touma"},{"@pid":"94/5865","text":"Reza Tafreshi"},{"@pid":"65/879","text":"Muzammil Khan"}]},"title":"Detection of cardiovascular abnormalities through 5-lead system algorithm.","venue":"BHI","pages":"260-263","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ToumaTK16","doi":"10.1109/BHI.2016.7455884","ee":"https://doi.org/10.1109/BHI.2016.7455884","url":"https://dblp.org/rec/conf/bhi/ToumaTK16"},
+"url":"URL#3993485"
+},
+{
+"@score":"1",
+"@id":"3993486",
+"info":{"authors":{"author":[{"@pid":"178/9964","text":"Kitija Trektere"},{"@pid":"49/3010","text":"Fergal McCaffery"},{"@pid":"33/8389","text":"Marion Lepmets"}]},"title":"Development of a software process framework to assist organizations developing mobile medical apps.","venue":"BHI","pages":"461-464","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/TrektereML16","doi":"10.1109/BHI.2016.7455934","ee":"https://doi.org/10.1109/BHI.2016.7455934","url":"https://dblp.org/rec/conf/bhi/TrektereML16"},
+"url":"URL#3993486"
+},
+{
+"@score":"1",
+"@id":"3993487",
+"info":{"authors":{"author":[{"@pid":"178/9977","text":"Talia Tron"},{"@pid":"99/6735","text":"Abraham Peled"},{"@pid":"179/0014","text":"Alexander Grinsphoon"},{"@pid":"93/1568","text":"Daphna Weinshall"}]},"title":"Facial expressions and flat affect in schizophrenia, automatic analysis from depth camera data.","venue":"BHI","pages":"220-223","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/TronPGW16","doi":"10.1109/BHI.2016.7455874","ee":"https://doi.org/10.1109/BHI.2016.7455874","url":"https://dblp.org/rec/conf/bhi/TronPGW16"},
+"url":"URL#3993487"
+},
+{
+"@score":"1",
+"@id":"3993488",
+"info":{"authors":{"author":[{"@pid":"179/0041","text":"I. Tunali"},{"@pid":"17/10596","text":"Albert Güvenis"}]},"title":"A fusion method for pulmonary nodule segmentation in chest CT image sets.","venue":"BHI","pages":"180-183","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/TunaliG16","doi":"10.1109/BHI.2016.7455864","ee":"https://doi.org/10.1109/BHI.2016.7455864","url":"https://dblp.org/rec/conf/bhi/TunaliG16"},
+"url":"URL#3993488"
+},
+{
+"@score":"1",
+"@id":"3993489",
+"info":{"authors":{"author":[{"@pid":"173/8065","text":"Oana Ramona Velicu"},{"@pid":"64/3977","text":"Natividad Martínez Madrid"},{"@pid":"s/RalfSeepold","text":"Ralf Seepold"}]},"title":"Experimental sleep phases monitoring.","venue":"BHI","pages":"625-628","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/VelicuMS16","doi":"10.1109/BHI.2016.7455976","ee":"https://doi.org/10.1109/BHI.2016.7455976","url":"https://dblp.org/rec/conf/bhi/VelicuMS16"},
+"url":"URL#3993489"
+},
+{
+"@score":"1",
+"@id":"3993490",
+"info":{"authors":{"author":[{"@pid":"164/6065","text":"P. S. Viswanath"},{"@pid":"177/8805","text":"Tobias Weiser"},{"@pid":"177/8906","text":"Phalgun Chintala"},{"@pid":"116/3144","text":"Subhamoy Mandal"},{"@pid":"129/9390","text":"Rahul Dutta"}]},"title":"Grading of mammalian cumulus oocyte complexes using machine learning for in vitro embryo culture.","venue":"BHI","pages":"172-175","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ViswanathWCMD16","doi":"10.1109/BHI.2016.7455862","ee":"https://doi.org/10.1109/BHI.2016.7455862","url":"https://dblp.org/rec/conf/bhi/ViswanathWCMD16"},
+"url":"URL#3993490"
+},
+{
+"@score":"1",
+"@id":"3993491",
+"info":{"authors":{"author":[{"@pid":"171/8848","text":"Shrenik Vora"},{"@pid":"87/4026","text":"Timothy P. Kurzweg"}]},"title":"Modified logistic regression algorithm for accurate determination of heart beats from noisy passive RFID tag data.","venue":"BHI","pages":"29-32","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/VoraK16","doi":"10.1109/BHI.2016.7455827","ee":"https://doi.org/10.1109/BHI.2016.7455827","url":"https://dblp.org/rec/conf/bhi/VoraK16"},
+"url":"URL#3993491"
+},
+{
+"@score":"1",
+"@id":"3993492",
+"info":{"authors":{"author":[{"@pid":"37/1010","text":"Gary M. Weiss"},{"@pid":"178/9921","text":"Jessica L. Timko"},{"@pid":"178/9979","text":"Catherine M. Gallagher"},{"@pid":"136/1663","text":"Kenichi Yoneda"},{"@pid":"178/9888","text":"Andrew J. Schreiber"}]},"title":"Smartwatch-based activity recognition: A machine learning approach.","venue":"BHI","pages":"426-429","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/WeissTGYS16","doi":"10.1109/BHI.2016.7455925","ee":"https://doi.org/10.1109/BHI.2016.7455925","url":"https://dblp.org/rec/conf/bhi/WeissTGYS16"},
+"url":"URL#3993492"
+},
+{
+"@score":"1",
+"@id":"3993493",
+"info":{"authors":{"author":[{"@pid":"59/10786","text":"Po-Yen Wu"},{"@pid":"93/2701","text":"May D. Wang"}]},"title":"The selection of quantification pipelines for Illumina RNA-seq data using a subsampling approach.","venue":"BHI","pages":"78-81","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/WuW16","doi":"10.1109/BHI.2016.7455839","ee":"https://doi.org/10.1109/BHI.2016.7455839","url":"https://dblp.org/rec/conf/bhi/WuW16"},
+"url":"URL#3993493"
+},
+{
+"@score":"1",
+"@id":"3993494",
+"info":{"authors":{"author":[{"@pid":"69/4104","text":"Sheng Yang"},{"@pid":"151/2449","text":"Yen-chun Yeh"},{"@pid":"179/0027","text":"John J. Ladasky"},{"@pid":"178/9932","text":"Dominik J. Schmidt"}]},"title":"Algorithm to calculate human calorie expenditure based on a predicted heat strain model.","venue":"BHI","pages":"545-548","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/YangYLS16","doi":"10.1109/BHI.2016.7455955","ee":"https://doi.org/10.1109/BHI.2016.7455955","url":"https://dblp.org/rec/conf/bhi/YangYLS16"},
+"url":"URL#3993494"
+},
+{
+"@score":"1",
+"@id":"3993495",
+"info":{"authors":{"author":[{"@pid":"118/7660","text":"Hoe Tung Yew"},{"@pid":"09/7751","text":"Eko Supriyanto"},{"@pid":"22/7751","text":"Muhammad H. Satria"},{"@pid":"133/4262","text":"Yuan Wen Hau"}]},"title":"Adaptive network selection mechanism for telecardiology system in developing countries.","venue":"BHI","pages":"94-97","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/YewSSH16","doi":"10.1109/BHI.2016.7455843","ee":"https://doi.org/10.1109/BHI.2016.7455843","url":"https://dblp.org/rec/conf/bhi/YewSSH16"},
+"url":"URL#3993495"
+},
+{
+"@score":"1",
+"@id":"3993496",
+"info":{"authors":{"author":[{"@pid":"40/3597","text":"Hong-Jun Yoon"},{"@pid":"69/4501","text":"Georgia D. Tourassi"}]},"title":"Investigating the association between sociodemographic factors and lung cancer risk using cyber informatics.","venue":"BHI","pages":"557-560","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/YoonT16","doi":"10.1109/BHI.2016.7455958","ee":"https://doi.org/10.1109/BHI.2016.7455958","url":"https://dblp.org/rec/conf/bhi/YoonT16"},
+"url":"URL#3993496"
+},
+{
+"@score":"1",
+"@id":"3993497",
+"info":{"authors":{"author":[{"@pid":"40/3597","text":"Hong-Jun Yoon"},{"@pid":"88/3319","text":"Songhua Xu"},{"@pid":"69/4501","text":"Georgia D. Tourassi"}]},"title":"Predicting lung cancer incidence from air pollution exposures using shapelet-based time series analysis.","venue":"BHI","pages":"565-568","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/YoonXT16","doi":"10.1109/BHI.2016.7455960","ee":"https://doi.org/10.1109/BHI.2016.7455960","url":"https://dblp.org/rec/conf/bhi/YoonXT16"},
+"url":"URL#3993497"
+},
+{
+"@score":"1",
+"@id":"3993498",
+"info":{"authors":{"author":[{"@pid":"87/7970","text":"Mohammadmahdi R. Yousefi"},{"@pid":"24/9233","text":"Lori A. Dalton"}]},"title":"On the limits of data-driven cancer prognosis prediction.","venue":"BHI","pages":"537-540","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/YousefiD16","doi":"10.1109/BHI.2016.7455953","ee":"https://doi.org/10.1109/BHI.2016.7455953","url":"https://dblp.org/rec/conf/bhi/YousefiD16"},
+"url":"URL#3993498"
+},
+{
+"@score":"1",
+"@id":"3993499",
+"info":{"authors":{"author":[{"@pid":"179/0029","text":"Mubariz Zaffar"},{"@pid":"178/9985","text":"Muhammad Taihami Tariq"},{"@pid":"178/9898","text":"Muhammad Alp Arsalan"},{"@pid":"204/8691","text":"Nauman Khalid Qureshi"},{"@pid":"141/6748","text":"Hammad M. Cheema"}]},"title":"A low-cost, non-invasive sensory device for early diagnosis of diabetic peripheral neuropathy.","venue":"BHI","pages":"196-199","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ZaffarTAQC16","doi":"10.1109/BHI.2016.7455868","ee":"https://doi.org/10.1109/BHI.2016.7455868","url":"https://dblp.org/rec/conf/bhi/ZaffarTAQC16"},
+"url":"URL#3993499"
+},
+{
+"@score":"1",
+"@id":"3993500",
+"info":{"authors":{"author":[{"@pid":"131/3999","text":"Zohreh Zakeri"},{"@pid":"131/3879","text":"Mohammad Reza Haji Samadi"},{"@pid":"20/6838","text":"Neil Cooke"},{"@pid":"46/6113","text":"Peter Jancovic"}]},"title":"Automatic ERP classification in EEG recordings from task-related independent components.","venue":"BHI","pages":"288-291","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ZakeriSCJ16","doi":"10.1109/BHI.2016.7455891","ee":"https://doi.org/10.1109/BHI.2016.7455891","url":"https://dblp.org/rec/conf/bhi/ZakeriSCJ16"},
+"url":"URL#3993500"
+},
+{
+"@score":"1",
+"@id":"3993501",
+"info":{"authors":{"author":[{"@pid":"72/3527","text":"Qiang Zhang"},{"@pid":"151/8768","text":"Xianxiang Chen"},{"@pid":"62/3571-3","text":"Zhen Fang 0003"},{"@pid":"57/1917","text":"Shanhong Xia"}]},"title":"False arrhythmia alarm reduction in the intensive care unit using data fusion and machine learning.","venue":"BHI","pages":"232-235","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ZhangCFX16","doi":"10.1109/BHI.2016.7455877","ee":"https://doi.org/10.1109/BHI.2016.7455877","url":"https://dblp.org/rec/conf/bhi/ZhangCFX16"},
+"url":"URL#3993501"
+},
+{
+"@score":"1",
+"@id":"3993502",
+"info":{"authors":{"author":[{"@pid":"33/9985","text":"He Zhou"},{"@pid":"20/5455","text":"Jiang Hu"},{"@pid":"15/884","text":"Sunil P. Khatri"},{"@pid":"18/2008","text":"Frank Liu 0001"},{"@pid":"s/CliffNSze","text":"Cliff C. N. Sze"},{"@pid":"87/7970","text":"Mohammadmahdi R. Yousefi"}]},"title":"GPU acceleration for Bayesian control of Markovian genetic regulatory networks.","venue":"BHI","pages":"304-307","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ZhouHKLSY16","doi":"10.1109/BHI.2016.7455895","ee":"https://doi.org/10.1109/BHI.2016.7455895","url":"https://dblp.org/rec/conf/bhi/ZhouHKLSY16"},
+"url":"URL#3993502"
+},
+{
+"@score":"1",
+"@id":"3993503",
+"info":{"authors":{"author":[{"@pid":"78/6191-4","text":"Yue Zhou 0004"},{"@pid":"178/9928","text":"Mary E. Jenkins"},{"@pid":"34/1413","text":"Michael D. Naish"},{"@pid":"83/6940","text":"Ana Luisa Trejos"}]},"title":"The measurement and analysis of Parkinsonian hand tremor.","venue":"BHI","pages":"414-417","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ZhouJNT16","doi":"10.1109/BHI.2016.7455922","ee":"https://doi.org/10.1109/BHI.2016.7455922","url":"https://dblp.org/rec/conf/bhi/ZhouJNT16"},
+"url":"URL#3993503"
+},
+{
+"@score":"1",
+"@id":"3993504",
+"info":{"authors":{"author":[{"@pid":"02/10759-2","text":"Yongjin Zhou 0002"},{"@pid":"178/9894","text":"Qianyue Wei"},{"@pid":"41/10505","text":"Xiaojuan Yang"},{"@pid":"178/9974","text":"Jianghuai Xiang"},{"@pid":"178/9937","text":"Zhi-En Xian"},{"@pid":"61/500","text":"Yue Li"},{"@pid":"160/0646","text":"Wanzhang Yang"},{"@pid":"82/9792","text":"Guo Dan"},{"@pid":"51/4406","text":"Yun Xiang"}]},"title":"Quantitative comparison of muscle thickness between young male and female subjects using ultrasonography.","venue":"BHI","pages":"284-287","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ZhouWYXXLYDX16","doi":"10.1109/BHI.2016.7455890","ee":"https://doi.org/10.1109/BHI.2016.7455890","url":"https://dblp.org/rec/conf/bhi/ZhouWYXXLYDX16"},
+"url":"URL#3993504"
+},
+{
+"@score":"1",
+"@id":"3993505",
+"info":{"authors":{"author":[{"@pid":"72/5373","text":"Amir Zjajo"},{"@pid":"62/5653","text":"Rene van Leuken 0001"}]},"title":"A 41 μW real-time adaptive neural spike classifier.","venue":"BHI","pages":"489-492","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ZjajoL16","doi":"10.1109/BHI.2016.7455941","ee":"https://doi.org/10.1109/BHI.2016.7455941","url":"https://dblp.org/rec/conf/bhi/ZjajoL16"},
+"url":"URL#3993505"
+},
+{
+"@score":"1",
+"@id":"3993506",
+"info":{"authors":{"author":[{"@pid":"72/5373","text":"Amir Zjajo"},{"@pid":"62/5653","text":"Rene van Leuken 0001"}]},"title":"A 2.1 μW/channel current-mode integrated neural recording interface.","venue":"BHI","pages":"505-508","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bhi/ZjajoL16a","doi":"10.1109/BHI.2016.7455945","ee":"https://doi.org/10.1109/BHI.2016.7455945","url":"https://dblp.org/rec/conf/bhi/ZjajoL16a"},
+"url":"URL#3993506"
+},
+{
+"@score":"1",
+"@id":"4142374",
+"info":{"title":"2016 IEEE-EMBS International Conference on Biomedical and Health Informatics, BHI 2016, Las Vegas, NV, USA, February 24-27, 2016","venue":"BHI","publisher":"IEEE","year":"2016","type":"Editorship","key":"conf/bhi/2016","ee":"https://ieeexplore.ieee.org/xpl/conhome/7449722/proceeding","url":"https://dblp.org/rec/conf/bhi/2016"},
+"url":"URL#4142374"
+}
+]
+}
+}
+}

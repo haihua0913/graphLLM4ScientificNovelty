@@ -1,0 +1,28 @@
+node1,node2,similarity,distance
+learning joint probability estimates,sensorimotor features,-0.5085,1.737
+learning joint probability estimates,quality of desired behavior,-0.5282,1.7483
+quality of desired behavior,sensorimotor features,0.9797,0.2017
+learning joint probability estimates,relational dependency networks,-0.2248,1.5651
+learning joint probability estimates,statistical models,-0.4434,1.6991
+learning joint probability estimates,procedural task knowledge,-0.5575,1.7649
+relational dependency networks,sensorimotor features,-0.1415,1.511
+sensorimotor features,statistical models,0.9809,0.1954
+procedural task knowledge,sensorimotor features,0.9305,0.3728
+quality of desired behavior,relational dependency networks,-0.0446,1.4454
+quality of desired behavior,statistical models,0.9853,0.1716
+procedural task knowledge,quality of desired behavior,0.9458,0.3291
+relational dependency networks,statistical models,-0.124,1.4994
+procedural task knowledge,relational dependency networks,-0.2455,1.5783
+procedural task knowledge,statistical models,0.9365,0.3563
+example task expert,relational dependency networks,-0.3055,1.6159
+humanoid robot,relational dependency networks,0.0254,1.3961
+example task expert,statistical models,0.9441,0.3343
+humanoid robot,statistical models,0.0735,1.3612
+example task expert,procedural task knowledge,0.9794,0.2031
+humanoid robot,procedural task knowledge,0.0727,1.3619
+example task expert,humanoid robot,0.0351,1.3892
+recommend policy for action,relational dependency networks,-0.0912,1.4773
+recommend policy for action,statistical models,-0.2535,1.5833
+procedural task knowledge,recommend policy for action,-0.016,1.4255
+example task expert,recommend policy for action,-0.1579,1.5218
+humanoid robot,recommend policy for action,0.074,1.3609

@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+density-based clustering,quadratic worst-case time complexity,0.4911,1.0088
+density-based clustering,large datasets,0.1934,1.2701
+density-based clustering,empirical density,-0.4789,1.7198
+large datasets,quadratic worst-case time complexity,0.1827,1.2785
+empirical density,quadratic worst-case time complexity,-0.5537,1.7628
+empirical density,large datasets,-0.1593,1.5227
+quadratic worst-case time complexity,runtime,0.973,0.2324
+quadratic worst-case time complexity,robustness,0.0516,1.3773
+large datasets,runtime,0.0853,1.3526
+large datasets,robustness,-0.1763,1.5338
+empirical density,runtime,-0.545,1.7579
+empirical density,robustness,0.1333,1.3166
+robustness,runtime,0.0438,1.3829
+runtime,statistical consistency guarantees,-0.4147,1.6821
+estimation rates,runtime,0.0892,1.3496
+robustness,statistical consistency guarantees,-0.0884,1.4754
+estimation rates,robustness,0.8376,0.57
+estimation rates,statistical consistency guarantees,-0.1573,1.5214

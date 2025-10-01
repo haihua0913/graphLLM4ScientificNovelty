@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+motion atom,motion phrase,0.8412,0.5636
+motion atom,temporal constraints,0.794,0.6418
+motion phrase,temporal constraints,0.9341,0.3631
+discriminative clustering,motion atom,0.0592,1.3717
+discriminative clustering,motion phrase,-0.0655,1.4598
+discriminative clustering,temporal constraints,-0.0177,1.4266
+discriminative clustering,phrase construction algorithm,-0.0353,1.439
+discriminative clustering,greedy selection method,-0.0093,1.4208
+greedy selection method,phrase construction algorithm,0.748,0.71
+motion atom,phrase construction algorithm,0.1587,1.2972
+greedy selection method,motion atom,0.2049,1.261
+classification performance,motion atom,0.1902,1.2727
+Olympic Sports,motion atom,0.7439,0.7156
+UCF50,motion atom,0.7323,0.7317
+classification performance,phrase construction algorithm,-0.1735,1.532
+Olympic Sports,phrase construction algorithm,-0.0591,1.4554
+UCF50,phrase construction algorithm,0.0168,1.4023
+classification performance,greedy selection method,-0.1501,1.5167
+Olympic Sports,greedy selection method,-0.3192,1.6243
+UCF50,greedy selection method,-0.2924,1.6078
+Olympic Sports,classification performance,0.4291,1.0686
+UCF50,classification performance,0.3641,1.1278
+Olympic Sports,UCF50,0.9563,0.2957

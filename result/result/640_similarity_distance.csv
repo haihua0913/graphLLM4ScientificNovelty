@@ -1,0 +1,36 @@
+node1,node2,similarity,distance
+Hidden Markov Models,discrete latent states,0.0989,1.3425
+Gaussian,Hidden Markov Models,0.0927,1.347
+Hidden Markov Models,discrete observations,-0.0124,1.423
+Gaussian,discrete latent states,0.9691,0.2486
+discrete latent states,discrete observations,0.0621,1.3696
+Gaussian,discrete observations,-0.1047,1.4864
+Hidden Markov Models,learning algorithms,0.1846,1.277
+Hidden Markov Models,spectral methods,-0.1439,1.5126
+discrete latent states,learning algorithms,-0.0336,1.4378
+discrete latent states,spectral methods,-0.0689,1.4621
+Gaussian,learning algorithms,-0.0831,1.4718
+Gaussian,spectral methods,-0.1841,1.5389
+discrete observations,learning algorithms,-0.1557,1.5203
+discrete observations,spectral methods,0.0411,1.3848
+learning algorithms,spectral methods,0.8739,0.5022
+discrete latent states,nonparametric HMM,0.2613,1.2155
+continuous distributions,discrete latent states,-0.1338,1.5058
+Gaussian,nonparametric HMM,0.0884,1.3502
+Gaussian,continuous distributions,-0.0961,1.4806
+discrete observations,nonparametric HMM,0.8919,0.4651
+continuous distributions,discrete observations,-0.298,1.6112
+learning algorithms,nonparametric HMM,-0.0864,1.474
+continuous distributions,learning algorithms,-0.3575,1.6477
+nonparametric HMM,spectral methods,-0.019,1.4276
+continuous distributions,spectral methods,-0.3645,1.652
+continuous distributions,nonparametric HMM,-0.1457,1.5137
+Gaussian,kernel spectral algorithm,-0.283,1.6019
+kernel spectral algorithm,learning algorithms,0.892,0.4647
+kernel spectral algorithm,spectral methods,0.9006,0.4459
+kernel spectral algorithm,nonparametric HMM,-0.2434,1.577
+continuous distributions,kernel spectral algorithm,-0.5464,1.7587
+Gaussian,robot vision data,0.0607,1.3706
+nonparametric HMM,robot vision data,0.8594,0.5304
+continuous distributions,robot vision data,-0.0035,1.4167
+kernel spectral algorithm,robot vision data,-0.5282,1.7483

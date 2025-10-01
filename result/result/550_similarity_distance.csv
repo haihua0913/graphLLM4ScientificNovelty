@@ -1,0 +1,35 @@
+node1,node2,similarity,distance
+image intensity information,pedestrian detection system,-0.0983,1.4821
+motion information,pedestrian detection system,0.6872,0.791
+detection style algorithm,pedestrian detection system,0.9179,0.4052
+pedestrian detection system,video sequence,0.8306,0.582
+image intensity information,motion information,0.5464,0.9525
+detection style algorithm,image intensity information,-0.1239,1.4993
+image intensity information,video sequence,0.0136,1.4046
+detection style algorithm,motion information,0.5278,0.9718
+motion information,video sequence,0.4497,1.0491
+detection style algorithm,video sequence,0.8919,0.465
+AdaBoost,pedestrian detection system,-0.3278,1.6296
+motion and appearance information,pedestrian detection system,-0.2577,1.586
+AdaBoost,image intensity information,0.9363,0.357
+image intensity information,motion and appearance information,0.9568,0.294
+AdaBoost,motion information,0.3196,1.1666
+motion and appearance information,motion information,0.379,1.1144
+AdaBoost,detection style algorithm,-0.358,1.648
+detection style algorithm,motion and appearance information,-0.3016,1.6134
+AdaBoost,video sequence,-0.1773,1.5345
+motion and appearance information,video sequence,-0.0778,1.4682
+AdaBoost,motion and appearance information,0.9689,0.2492
+false positive rate,motion information,-0.1859,1.5401
+Viola and Jones,motion information,-0.0349,1.4387
+AdaBoost,false positive rate,-0.0922,1.478
+AdaBoost,Viola and Jones,-0.0443,1.4452
+false positive rate,motion and appearance information,0.0113,1.4062
+Viola and Jones,motion and appearance information,-0.1104,1.4902
+Viola and Jones,false positive rate,-0.2967,1.6104
+false positive rate,pedestrian detection system,-0.0772,1.4678
+Viola and Jones,pedestrian detection system,0.0475,1.3802
+image motion,pedestrian detection system,0.1558,1.2994
+image motion,motion information,-0.0396,1.4419
+false positive rate,image motion,-0.0719,1.4642
+Viola and Jones,image motion,0.2731,1.2058

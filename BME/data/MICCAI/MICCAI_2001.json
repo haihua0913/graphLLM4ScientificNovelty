@@ -1,0 +1,1586 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/miccai/miccai2001.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"78.38"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"259",
+"@dc":"259",
+"@oc":"259",
+"@id":"48910379",
+"text":":facetid:toc:db/conf/miccai/miccai2001.bht"
+}
+},
+"hits":{
+"@total":"259",
+"@computed":"259",
+"@sent":"259",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"7185657",
+"info":{"authors":{"author":[{"@pid":"25/6179","text":"Burak Acar"},{"@pid":"00/111","text":"Sandy Napel"},{"@pid":"65/6814","text":"David S. Paik"},{"@pid":"24/5307","text":"Salih Burak Göktürk"},{"@pid":"24/2162","text":"Carlo Tomasi"},{"@pid":"27/5161","text":"Christopher F. Beaulieu"}]},"title":"Using Optical Flow Fields for Polyp Detection in Virtual Colonoscopy.","venue":"MICCAI","pages":"637-644","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/AcarNPGTB01","doi":"10.1007/3-540-45468-3_77","ee":"https://doi.org/10.1007/3-540-45468-3_77","url":"https://dblp.org/rec/conf/miccai/AcarNPGTB01"},
+"url":"URL#7185657"
+},
+{
+"@score":"1",
+"@id":"7185658",
+"info":{"authors":{"author":[{"@pid":"82/4815","text":"Moumen T. Ahmed"},{"@pid":"52/2098","text":"Ahmed Eid"},{"@pid":"55/6410","text":"Aly A. Farag"}]},"title":"3D Reconstruction of the Human Jaw: A New Approach and Improvements.","venue":"MICCAI","pages":"1007-1014","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/AhmedEF01","doi":"10.1007/3-540-45468-3_120","ee":"https://doi.org/10.1007/3-540-45468-3_120","url":"https://dblp.org/rec/conf/miccai/AhmedEF01"},
+"url":"URL#7185658"
+},
+{
+"@score":"1",
+"@id":"7185659",
+"info":{"authors":{"author":[{"@pid":"70/1209","text":"Manfred Alker"},{"@pid":"12/6232","text":"Sönke Frantz"},{"@pid":"69/2417","text":"Karl Rohr"},{"@pid":"s/HSiegfriedStiehl","text":"H. Siegfried Stiehl"}]},"title":"Improving the Robustness in Extracting 3D Point Landmarks from 3D Medical Images Using Parametric Deformable Models.","venue":"MICCAI","pages":"582-590","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/AlkerFRS01","doi":"10.1007/3-540-45468-3_70","ee":"https://doi.org/10.1007/3-540-45468-3_70","url":"https://dblp.org/rec/conf/miccai/AlkerFRS01"},
+"url":"URL#7185659"
+},
+{
+"@score":"1",
+"@id":"7185660",
+"info":{"authors":{"author":[{"@pid":"16/6895","text":"Devin V. Amin"},{"@pid":"k/TakeoKanade","text":"Takeo Kanade"},{"@pid":"92/133","text":"Branislav Jaramaz"},{"@pid":"34/997","text":"Anthony M. DiGioia"},{"@pid":"22/3998","text":"Constantinos Nikou"},{"@pid":"61/4726","text":"Richard S. LaBarca"},{"@pid":"23/6327","text":"James E. Moody Jr."}]},"title":"Calibration Method for Determining the Physical Location of the Ultrasound Image Plane.","venue":"MICCAI","pages":"940-947","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/AminKJDNLM01","doi":"10.1007/3-540-45468-3_112","ee":"https://doi.org/10.1007/3-540-45468-3_112","url":"https://dblp.org/rec/conf/miccai/AminKJDNLM01"},
+"url":"URL#7185660"
+},
+{
+"@score":"1",
+"@id":"7185661",
+"info":{"authors":{"author":[{"@pid":"90/2743","text":"Petronella Anbeek"},{"@pid":"10/1411","text":"Koen L. Vincken"},{"@pid":"89/9138","text":"Matthias J. P. van Osch"},{"@pid":"70/5175","text":"Josien P. W. Pluim"},{"@pid":"49/6287","text":"Jeroen van der Grond"},{"@pid":"77/2011","text":"Max A. Viergever"}]},"title":"Two-Step Registration of Subacute to Hyperacute Stroke MRIs.","venue":"MICCAI","pages":"1279-1280","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/AnbeekVOPGV01","doi":"10.1007/3-540-45468-3_193","ee":"https://doi.org/10.1007/3-540-45468-3_193","url":"https://dblp.org/rec/conf/miccai/AnbeekVOPGV01"},
+"url":"URL#7185661"
+},
+{
+"@score":"1",
+"@id":"7185662",
+"info":{"authors":{"author":[{"@pid":"20/1315","text":"Tal Arbel"},{"@pid":"45/5716","text":"Xavier Morandi"},{"@pid":"33/141","text":"Roch M. Comeau"},{"@pid":"c/DLouisCollins","text":"D. Louis Collins"}]},"title":"Automatic Non-linear MRI-Ultrasound Registration for the Correction of Intra-operative Brain Deformations.","venue":"MICCAI","pages":"913-922","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ArbelMCC01","doi":"10.1007/3-540-45468-3_109","ee":"https://doi.org/10.1007/3-540-45468-3_109","url":"https://dblp.org/rec/conf/miccai/ArbelMCC01"},
+"url":"URL#7185662"
+},
+{
+"@score":"1",
+"@id":"7185663",
+"info":{"authors":{"author":[{"@pid":"64/316","text":"Yann Argotti"},{"@pid":"58/6211","text":"Valerie Outters"},{"@pid":"d/LarrySDavis","text":"Larry S. Davis"},{"@pid":"59/1849","text":"Ami Sun"},{"@pid":"41/454","text":"Jannick P. Rolland"}]},"title":"Technologies for Augmented Reality: Calibration for Real-Time Superimposition on Rigid and Simple-Deformable Real Objects.","venue":"MICCAI","pages":"675-682","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ArgottiODSR01","doi":"10.1007/3-540-45468-3_81","ee":"https://doi.org/10.1007/3-540-45468-3_81","url":"https://dblp.org/rec/conf/miccai/ArgottiODSR01"},
+"url":"URL#7185663"
+},
+{
+"@score":"1",
+"@id":"7185664",
+"info":{"authors":{"author":[{"@pid":"04/6739","text":"Brian B. Avants"},{"@pid":"09/3316","text":"Marcelo Siqueira"},{"@pid":"30/6904","text":"James C. Gee"}]},"title":"Computing Match Functions for Curves in R2 and R3 by Refining Polyline Approximations.","venue":"MICCAI","pages":"1178-1179","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/AvantsSG01","doi":"10.1007/3-540-45468-3_152","ee":"https://doi.org/10.1007/3-540-45468-3_152","url":"https://dblp.org/rec/conf/miccai/AvantsSG01"},
+"url":"URL#7185664"
+},
+{
+"@score":"1",
+"@id":"7185665",
+"info":{"authors":{"author":[{"@pid":"a/StephenRAylward","text":"Stephen R. Aylward"},{"@pid":"w/SusanWeeks","text":"Susan Weeks"},{"@pid":"71/524","text":"Elizabeth Bullitt"}]},"title":"Analysis of the Parameter Space of a Metric for Registering 3D Vascular Images.","venue":"MICCAI","pages":"932-939","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/AylwardWB01","doi":"10.1007/3-540-45468-3_111","ee":"https://doi.org/10.1007/3-540-45468-3_111","url":"https://dblp.org/rec/conf/miccai/AylwardWB01"},
+"url":"URL#7185665"
+},
+{
+"@score":"1",
+"@id":"7185666",
+"info":{"authors":{"author":[{"@pid":"36/3550","text":"Fred S. Azar"},{"@pid":"m/DNMetaxas","text":"Dimitris N. Metaxas"},{"@pid":"97/5758","text":"Mitchell D. Schnall"}]},"title":"Methods for Modeling and Predicting Mechanical Deformations of the Breast Under External Perturbations.","venue":"MICCAI","pages":"1267-1270","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/AzarMS01","doi":"10.1007/3-540-45468-3_189","ee":"https://doi.org/10.1007/3-540-45468-3_189","url":"https://dblp.org/rec/conf/miccai/AzarMS01"},
+"url":"URL#7185666"
+},
+{
+"@score":"1",
+"@id":"7185667",
+"info":{"authors":{"author":[{"@pid":"46/1747","text":"Éric Bardinet"},{"@pid":"01/3169","text":"Alan C. F. Colchester"},{"@pid":"44/2190","text":"Alexis Roche"},{"@pid":"91/4711","text":"Yonggen Zhu"},{"@pid":"06/1998","text":"Yang He"},{"@pid":"40/2838","text":"Sébastien Ourselin"},{"@pid":"13/2911","text":"Bill Nailon"},{"@pid":"93/5505-1","text":"S. Ali Hojjat 0001"},{"@pid":"65/1180","text":"James Ironside"},{"@pid":"72/1776","text":"Safa Al-Sarraj"},{"@pid":"a/NicholasAyache","text":"Nicholas Ayache"},{"@pid":"116/1927","text":"Joanna M. Wardlaw"}]},"title":"Registration of Reconstructed Post Mortem Optical Data with MR Scans of the Same Patient.","venue":"MICCAI","pages":"957-965","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BardinetCRZHONHIAAW01","doi":"10.1007/3-540-45468-3_114","ee":"https://doi.org/10.1007/3-540-45468-3_114","url":"https://dblp.org/rec/conf/miccai/BardinetCRZHONHIAAW01"},
+"url":"URL#7185667"
+},
+{
+"@score":"1",
+"@id":"7185668",
+"info":{"authors":{"author":[{"@pid":"87/987","text":"Vincent Barra"},{"@pid":"88/6311","text":"Jean-Jacques Lemaire"},{"@pid":"80/928","text":"Franck Durif"},{"@pid":"11/4174","text":"Jean-Yves Boire"}]},"title":"Segmentation of the Subthalamic Nucleus in MR Images Using Information Fusion - A Preliminary Study for a Computed-Aided Surgery of Parkinson&apos;s Disease.","venue":"MICCAI","pages":"1183-1184","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BarraLDB01","doi":"10.1007/3-540-45468-3_154","ee":"https://doi.org/10.1007/3-540-45468-3_154","url":"https://dblp.org/rec/conf/miccai/BarraLDB01"},
+"url":"URL#7185668"
+},
+{
+"@score":"1",
+"@id":"7185669",
+"info":{"authors":{"author":[{"@pid":"15/1079","text":"Gert Behiels"},{"@pid":"22/832","text":"Frederik Maes"},{"@pid":"14/1511","text":"Dirk Vandermeulen"},{"@pid":"97/5888","text":"Paul Suetens"}]},"title":"Retrospective Correction of the Heel Effect in Hand Radiographs.","venue":"MICCAI","pages":"301-308","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BehielsMVS01","doi":"10.1007/3-540-45468-3_36","ee":"https://doi.org/10.1007/3-540-45468-3_36","url":"https://dblp.org/rec/conf/miccai/BehielsMVS01"},
+"url":"URL#7185669"
+},
+{
+"@score":"1",
+"@id":"7185670",
+"info":{"authors":{"author":[{"@pid":"00/930","text":"Faiza Behloul"},{"@pid":"57/2418","text":"Boudewijn P. F. Lelieveldt"},{"@pid":"39/6145","text":"Rob J. van der Geest"},{"@pid":"06/3467","text":"Johan H. C. Reiber"}]},"title":"A Virtual Exploring Robot for Adaptive Left Ventricle Contour Detection in Cardiac MR Images.","venue":"MICCAI","pages":"1287-1288","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BehloulLGR01","doi":"10.1007/3-540-45468-3_197","ee":"https://doi.org/10.1007/3-540-45468-3_197","url":"https://dblp.org/rec/conf/miccai/BehloulLGR01"},
+"url":"URL#7185670"
+},
+{
+"@score":"1",
+"@id":"7185671",
+"info":{"authors":{"author":[{"@pid":"22/877","text":"Christian P. Behrenbruch"},{"@pid":"13/4533","text":"Timor Kadir"},{"@pid":"b/MichaelBrady","text":"Michael Brady 0001"}]},"title":"Mutual Scale.","venue":"MICCAI","pages":"1356-1357","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BehrenbruchKB01","doi":"10.1007/3-540-45468-3_227","ee":"https://doi.org/10.1007/3-540-45468-3_227","url":"https://dblp.org/rec/conf/miccai/BehrenbruchKB01"},
+"url":"URL#7185671"
+},
+{
+"@score":"1",
+"@id":"7185672",
+"info":{"authors":{"author":[{"@pid":"60/2943","text":"Cornelis M. van Bemmel"},{"@pid":"93/6561","text":"Wiro J. Niessen"},{"@pid":"03/4118","text":"Onno Wink"},{"@pid":"68/2330","text":"Bert Verdonck"},{"@pid":"77/2011","text":"Max A. Viergever"}]},"title":"Blood Pool Agent CE-MRA: Improved Arterial Visualization of the Aortoiliac Vasculature in the Steady-State Using First-Pass Data.","venue":"MICCAI","pages":"699-706","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BemmelNWVV01","doi":"10.1007/3-540-45468-3_84","ee":"https://doi.org/10.1007/3-540-45468-3_84","url":"https://dblp.org/rec/conf/miccai/BemmelNWVV01"},
+"url":"URL#7185672"
+},
+{
+"@score":"1",
+"@id":"7185673",
+"info":{"authors":{"author":[{"@pid":"09/3183","text":"Alim-Louis Benabid"},{"@pid":"49/216","text":"Dominque Hoffmann"},{"@pid":"18/1012","text":"Luc Court"},{"@pid":"74/1187","text":"Vincent Robert"},{"@pid":"26/6354","text":"Sébastien Burtin"},{"@pid":"28/6549","text":"Patrick Pittet"},{"@pid":"01/6601","text":"Jörg Fischer"}]},"title":"The Clinical Use of Multi-modal Resources (2D/3D/Statistics) for Robot Assisted Functional Neurosurgery.","venue":"MICCAI","pages":"1421-1423","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BenabidHCRBPF01","doi":"10.1007/3-540-45468-3_253","ee":"https://doi.org/10.1007/3-540-45468-3_253","url":"https://dblp.org/rec/conf/miccai/BenabidHCRBPF01"},
+"url":"URL#7185673"
+},
+{
+"@score":"1",
+"@id":"7185674",
+"info":{"authors":{"author":[{"@pid":"82/5235","text":"Peter J. Berkelman"},{"@pid":"57/3900","text":"Daniel L. Rothbaum"},{"@pid":"90/1952","text":"Jaydeep Roy"},{"@pid":"38/7684","text":"Samuel Lang"},{"@pid":"34/935","text":"Louis L. Whitcomb"},{"@pid":"12/5814","text":"Gregory D. Hager"},{"@pid":"16/5758","text":"Patrick S. Jensen"},{"@pid":"42/5731","text":"Eugene de Juan"},{"@pid":"71/2446","text":"Russell H. Taylor"},{"@pid":"15/5217","text":"John K. Niparko"}]},"title":"Performance Evaluation of a Cooperative Manipulation Microsurgical Assistant Robot Applied to Stapedotomy.","venue":"MICCAI","pages":"1426-1429","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BerkelmanRRLWHJJTN01","doi":"10.1007/3-540-45468-3_255","ee":"https://doi.org/10.1007/3-540-45468-3_255","url":"https://dblp.org/rec/conf/miccai/BerkelmanRRLWHJJTN01"},
+"url":"URL#7185674"
+},
+{
+"@score":"1",
+"@id":"7185675",
+"info":{"authors":{"author":[{"@pid":"17/142","text":"Rok Bernard"},{"@pid":"54/6647","text":"Bostjan Likar"},{"@pid":"28/6983","text":"Franjo Pernus"}]},"title":"Segmenting Articulated Structures by Hierarchical Statistical Modeling of Shape, Appearance, and Topology.","venue":"MICCAI","pages":"499-506","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BernardLP01","doi":"10.1007/3-540-45468-3_60","ee":"https://doi.org/10.1007/3-540-45468-3_60","url":"https://dblp.org/rec/conf/miccai/BernardLP01"},
+"url":"URL#7185675"
+},
+{
+"@score":"1",
+"@id":"7185676",
+"info":{"authors":{"author":[{"@pid":"58/2703","text":"J. Bestel"},{"@pid":"13/1429","text":"Frédérique Clément"},{"@pid":"22/2018","text":"Michel Sorine"}]},"title":"A Biomechanical Model of Muscle Contraction.","venue":"MICCAI","pages":"1159-1161","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BestelCS01","doi":"10.1007/3-540-45468-3_143","ee":"https://doi.org/10.1007/3-540-45468-3_143","url":"https://dblp.org/rec/conf/miccai/BestelCS01"},
+"url":"URL#7185676"
+},
+{
+"@score":"1",
+"@id":"7185677",
+"info":{"authors":{"author":[{"@pid":"b/MargritBetke","text":"Margrit Betke"},{"@pid":"89/2768","text":"Harrison Hong"},{"@pid":"88/3917","text":"Jane P. Ko"}]},"title":"Automatic 3D Registration of Lung Surfaces in Computed Tomography Scans.","venue":"MICCAI","pages":"725-733","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BetkeHK01","doi":"10.1007/3-540-45468-3_87","ee":"https://doi.org/10.1007/3-540-45468-3_87","url":"https://dblp.org/rec/conf/miccai/BetkeHK01"},
+"url":"URL#7185677"
+},
+{
+"@score":"1",
+"@id":"7185678",
+"info":{"authors":{"author":[{"@pid":"56/1625","text":"Abhir Bhalerao"},{"@pid":"44/4026","text":"Paul E. Summers"}]},"title":"Interactive Visualisation of MRI Vector and Tensor Fields.","venue":"MICCAI","pages":"1401-1403","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BhaleraoS01","doi":"10.1007/3-540-45468-3_245","ee":"https://doi.org/10.1007/3-540-45468-3_245","url":"https://dblp.org/rec/conf/miccai/BhaleraoS01"},
+"url":"URL#7185678"
+},
+{
+"@score":"1",
+"@id":"7185679",
+"info":{"authors":{"author":[{"@pid":"56/1625","text":"Abhir Bhalerao"},{"@pid":"44/5870","text":"Elke Thönnes"},{"@pid":"65/1781","text":"Wilfrid S. Kendall"},{"@pid":"52/5679","text":"Roland Wilson"}]},"title":"Inferring Vascular Structure from 2D and 3D Imagery.","venue":"MICCAI","pages":"820-828","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BhaleraoTKW01","doi":"10.1007/3-540-45468-3_98","ee":"https://doi.org/10.1007/3-540-45468-3_98","url":"https://dblp.org/rec/conf/miccai/BhaleraoTKW01"},
+"url":"URL#7185679"
+},
+{
+"@score":"1",
+"@id":"7185680",
+"info":{"authors":{"author":[{"@pid":"43/2518","text":"Jane M. Blackall"},{"@pid":"14/4005","text":"Andrew P. King"},{"@pid":"49/2675","text":"Graeme P. Penney"},{"@pid":"217/9993","text":"Andreas N. Adam"},{"@pid":"14/2317","text":"David J. Hawkes"}]},"title":"A Statistical Model of Respiratory Motion and Deformation of the Liver.","venue":"MICCAI","pages":"1338-1340","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BlackallKPAH01","doi":"10.1007/3-540-45468-3_219","ee":"https://doi.org/10.1007/3-540-45468-3_219","url":"https://dblp.org/rec/conf/miccai/BlackallKPAH01"},
+"url":"URL#7185680"
+},
+{
+"@score":"1",
+"@id":"7185681",
+"info":{"authors":{"author":[{"@pid":"04/4460","text":"Robert Boesecke"},{"@pid":"61/53","text":"Jakob Brief"},{"@pid":"67/769","text":"Jörg Raczkowsky"},{"@pid":"81/4532","text":"Oliver Schorr"},{"@pid":"50/3278","text":"S. Daueber"},{"@pid":"69/2487","text":"Robert Krempien"},{"@pid":"30/406","text":"Martina Treiber"},{"@pid":"81/1622","text":"Thomas Wetter"},{"@pid":"h/StefanHassfeld","text":"Stefan Haßfeld"}]},"title":"Robot Assistant for Dental Implantology.","venue":"MICCAI","pages":"1302-1303","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BoeseckeBRSDKTWH01","doi":"10.1007/3-540-45468-3_204","ee":"https://doi.org/10.1007/3-540-45468-3_204","url":"https://dblp.org/rec/conf/miccai/BoeseckeBRSDKTWH01"},
+"url":"URL#7185681"
+},
+{
+"@score":"1",
+"@id":"7185682",
+"info":{"authors":{"author":[{"@pid":"74/2090","text":"Luca Bogoni"},{"@pid":"64/6716","text":"Jane C. Asmuth"},{"@pid":"49/6748","text":"David J. Hirvonen"},{"@pid":"97/498","text":"Bojidar D. Madjarov"},{"@pid":"84/4663","text":"Jeffrey W. Berger"}]},"title":"Ophthalmic Slitlamp-Based Computer-Aided Diagnosis: Image Processing Foundations.","venue":"MICCAI","pages":"1395-1397","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BogoniAHMB01","doi":"10.1007/3-540-45468-3_243","ee":"https://doi.org/10.1007/3-540-45468-3_243","url":"https://dblp.org/rec/conf/miccai/BogoniAHMB01"},
+"url":"URL#7185682"
+},
+{
+"@score":"1",
+"@id":"7185683",
+"info":{"authors":{"author":[{"@pid":"00/1954","text":"Sylvain Bouix"},{"@pid":"45/6307","text":"Jens C. Pruessner"},{"@pid":"c/DLouisCollins","text":"D. Louis Collins"},{"@pid":"s/KaleemSiddiqi","text":"Kaleem Siddiqi"}]},"title":"Hippocampal Shape Analysis Using Medial Surfaces.","venue":"MICCAI","pages":"33-40","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BouixPCS01","doi":"10.1007/3-540-45468-3_5","ee":"https://doi.org/10.1007/3-540-45468-3_5","url":"https://dblp.org/rec/conf/miccai/BouixPCS01"},
+"url":"URL#7185683"
+},
+{
+"@score":"1",
+"@id":"7185684",
+"info":{"authors":{"author":[{"@pid":"15/2946","text":"Ernst G. P. Bovenkamp"},{"@pid":"24/2091","text":"Jouke Dijkstra"},{"@pid":"b/JohanGBosch","text":"Johan G. Bosch"},{"@pid":"06/3467","text":"Johan H. C. Reiber"}]},"title":"Collaborative Multi-agent IVUS Image Segmentation.","venue":"MICCAI","pages":"1185-1186","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BovenkampDBR01","doi":"10.1007/3-540-45468-3_155","ee":"https://doi.org/10.1007/3-540-45468-3_155","url":"https://dblp.org/rec/conf/miccai/BovenkampDBR01"},
+"url":"URL#7185684"
+},
+{
+"@score":"1",
+"@id":"7185685",
+"info":{"authors":{"author":[{"@pid":"b/YuriBoykov","text":"Yuri Boykov"},{"@pid":"72/3873","text":"Vivian S. Lee"},{"@pid":"29/2300","text":"Henry Rusinek"},{"@pid":"00/6950","text":"Ravi Bansal"}]},"title":"Segmentation of Dynamic N-D Data Sets via Graph Cuts Using Markov Models.","venue":"MICCAI","pages":"1058-1066","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BoykovLRB01","doi":"10.1007/3-540-45468-3_126","ee":"https://doi.org/10.1007/3-540-45468-3_126","url":"https://dblp.org/rec/conf/miccai/BoykovLRB01"},
+"url":"URL#7185685"
+},
+{
+"@score":"1",
+"@id":"7185686",
+"info":{"authors":{"author":[{"@pid":"39/783","text":"Joel Brown"},{"@pid":"41/668","text":"Kevin Montgomery"},{"@pid":"l/JCLatombe","text":"Jean-Claude Latombe"},{"@pid":"66/4273","text":"Michael Stephanides"}]},"title":"A Microsurgery Simulation System.","venue":"MICCAI","pages":"137-144","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BrownMLS01","doi":"10.1007/3-540-45468-3_17","ee":"https://doi.org/10.1007/3-540-45468-3_17","url":"https://dblp.org/rec/conf/miccai/BrownMLS01"},
+"url":"URL#7185686"
+},
+{
+"@score":"1",
+"@id":"7185687",
+"info":{"authors":{"author":[{"@pid":"32/1949","text":"Cynthia Bruyns"},{"@pid":"24/1945","text":"Steven Senger"},{"@pid":"13/2161","text":"Simon Wildermuth"},{"@pid":"41/668","text":"Kevin Montgomery"},{"@pid":"b/RichardDBoyle","text":"Richard Boyle"}]},"title":"Real-Time Interactions Using Virtual Tools.","venue":"MICCAI","pages":"1349-1351","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BruynsSWMB01","doi":"10.1007/3-540-45468-3_224","ee":"https://doi.org/10.1007/3-540-45468-3_224","url":"https://dblp.org/rec/conf/miccai/BruynsSWMB01"},
+"url":"URL#7185687"
+},
+{
+"@score":"1",
+"@id":"7185688",
+"info":{"authors":{"author":[{"@pid":"32/1949","text":"Cynthia Bruyns"},{"@pid":"13/2161","text":"Simon Wildermuth"},{"@pid":"41/668","text":"Kevin Montgomery"}]},"title":"Simulated Animal Dissection.","venue":"MICCAI","pages":"1345-1346","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BruynsWM01","doi":"10.1007/3-540-45468-3_222","ee":"https://doi.org/10.1007/3-540-45468-3_222","url":"https://dblp.org/rec/conf/miccai/BruynsWM01"},
+"url":"URL#7185688"
+},
+{
+"@score":"1",
+"@id":"7185689",
+"info":{"authors":{"author":[{"@pid":"05/1842","text":"Albert W. Brzeczko"},{"@pid":"58/3728","text":"Randal P. Goldberg"},{"@pid":"71/2446","text":"Russell H. Taylor"},{"@pid":"40/1853","text":"Peter Evans"}]},"title":"Smart Alignment Tool for Knee MosaicPlasty Surgery.","venue":"MICCAI","pages":"599-605","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BrzeczkoGTE01","doi":"10.1007/3-540-45468-3_72","ee":"https://doi.org/10.1007/3-540-45468-3_72","url":"https://dblp.org/rec/conf/miccai/BrzeczkoGTE01"},
+"url":"URL#7185689"
+},
+{
+"@score":"1",
+"@id":"7185690",
+"info":{"authors":{"author":[{"@pid":"90/2928","text":"Stijn De Buck"},{"@pid":"68/6850","text":"Johan Van Cleynenbreugel"},{"@pid":"37/2267","text":"Indra Geys"},{"@pid":"42/1487","text":"Thomas P. Koninckx"},{"@pid":"59/1630","text":"Philippe R. Koninck"},{"@pid":"97/5888","text":"Paul Suetens"}]},"title":"A System to Support Laparoscopic Surgery by Augmented Reality Visualization.","venue":"MICCAI","pages":"691-698","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BuckCGKKS01","doi":"10.1007/3-540-45468-3_83","ee":"https://doi.org/10.1007/3-540-45468-3_83","url":"https://dblp.org/rec/conf/miccai/BuckCGKKS01"},
+"url":"URL#7185690"
+},
+{
+"@score":"1",
+"@id":"7185691",
+"info":{"authors":{"author":[{"@pid":"71/524","text":"Elizabeth Bullitt"},{"@pid":"a/StephenRAylward","text":"Stephen R. Aylward"}]},"title":"Volume Rendering of Segmented Tubular Objects.","venue":"MICCAI","pages":"161-168","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BullittA01","doi":"10.1007/3-540-45468-3_20","ee":"https://doi.org/10.1007/3-540-45468-3_20","url":"https://dblp.org/rec/conf/miccai/BullittA01"},
+"url":"URL#7185691"
+},
+{
+"@score":"1",
+"@id":"7185692",
+"info":{"authors":{"author":[{"@pid":"46/6180","text":"Torsten Butz"},{"@pid":"t/JeanPhilippeThiran","text":"Jean-Philippe Thiran"}]},"title":"Affine Registration with Feature Space Mutual Information.","venue":"MICCAI","pages":"549-556","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ButzT01","doi":"10.1007/3-540-45468-3_66","ee":"https://doi.org/10.1007/3-540-45468-3_66","url":"https://dblp.org/rec/conf/miccai/ButzT01"},
+"url":"URL#7185692"
+},
+{
+"@score":"1",
+"@id":"7185693",
+"info":{"authors":{"author":[{"@pid":"27/5124","text":"Arnaud Cachia"},{"@pid":"59/3314","text":"Jean-François Mangin"},{"@pid":"26/4363","text":"Denis Rivière"},{"@pid":"47/5026","text":"Nathalie Boddaert"},{"@pid":"58/4508","text":"Alexandre Andrade"},{"@pid":"32/3207","text":"Ferath Kherif"},{"@pid":"53/840","text":"P. Sonigo"},{"@pid":"49/1507","text":"Dimitri Papadopoulos-Orfanos"},{"@pid":"67/2762","text":"Monica Zilbovicius"},{"@pid":"54/1587","text":"Jean-Baptiste Poline"},{"@pid":"33/1668","text":"Isabelle Bloch"},{"@pid":"92/6724","text":"Francis Brunelle"},{"@pid":"94/2400","text":"Jean Régis"}]},"title":"A Mean Curvature Based Primal Sketch to Study the Cortical Folding Process from Antenatal to Adult Brain.","venue":"MICCAI","pages":"897-904","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/CachiaMRBAKSPZPBBR01","doi":"10.1007/3-540-45468-3_107","ee":"https://doi.org/10.1007/3-540-45468-3_107","url":"https://dblp.org/rec/conf/miccai/CachiaMRBAKSPZPBBR01"},
+"url":"URL#7185693"
+},
+{
+"@score":"1",
+"@id":"7185694",
+"info":{"authors":{"author":{"@pid":"45/1378","text":"Pascal Cachier"}},"title":"How to Trade Off between Regularization and Image Similarity in Non-rigid Registration?","venue":"MICCAI","pages":"1285-1286","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/Cachier01","doi":"10.1007/3-540-45468-3_196","ee":"https://doi.org/10.1007/3-540-45468-3_196","url":"https://dblp.org/rec/conf/miccai/Cachier01"},
+"url":"URL#7185694"
+},
+{
+"@score":"1",
+"@id":"7185695",
+"info":{"authors":{"author":[{"@pid":"45/1378","text":"Pascal Cachier"},{"@pid":"59/3314","text":"Jean-François Mangin"},{"@pid":"45/2126","text":"Xavier Pennec"},{"@pid":"26/4363","text":"Denis Rivière"},{"@pid":"49/1507","text":"Dimitri Papadopoulos-Orfanos"},{"@pid":"94/2400","text":"Jean Régis"},{"@pid":"a/NicholasAyache","text":"Nicholas Ayache"}]},"title":"Multisubject Non-rigid Registration of Brain MRI Using Intensity and Geometric Features.","venue":"MICCAI","pages":"734-742","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/CachierMPRPRA01","doi":"10.1007/3-540-45468-3_88","ee":"https://doi.org/10.1007/3-540-45468-3_88","url":"https://dblp.org/rec/conf/miccai/CachierMPRPRA01"},
+"url":"URL#7185695"
+},
+{
+"@score":"1",
+"@id":"7185696",
+"info":{"authors":{"author":[{"@pid":"16/6533","text":"Yiyu Cai"},{"@pid":"61/6021","text":"Chee-Kong Chui"},{"@pid":"73/2381","text":"Yaoping Wang"},{"@pid":"55/1137","text":"Zhenlan Wang"},{"@pid":"a/JamesHAnderson","text":"James H. Anderson"}]},"title":"Parametric Eyeball Model for Interactive Simulation of Ophthalmologic Surgery.","venue":"MICCAI","pages":"465-472","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/CaiCWWA01","doi":"10.1007/3-540-45468-3_56","ee":"https://doi.org/10.1007/3-540-45468-3_56","url":"https://dblp.org/rec/conf/miccai/CaiCWWA01"},
+"url":"URL#7185696"
+},
+{
+"@score":"1",
+"@id":"7185697",
+"info":{"authors":{"author":[{"@pid":"19/6420","text":"Andy D. Castellano-Smith"},{"@pid":"47/1409","text":"Thomas Hartkens"},{"@pid":"80/2501","text":"Julia A. Schnabel"},{"@pid":"90/6007","text":"D. Rodney Hose"},{"@pid":"53/1217","text":"Haiying Liu"},{"@pid":"31/6519","text":"Walter A. Hall"},{"@pid":"95/768","text":"Charles L. Truwit"},{"@pid":"14/2317","text":"David J. Hawkes"},{"@pid":"77/5388","text":"Derek L. G. Hill"}]},"title":"Constructing Patient Specific Models for Correcting Intraoperative Brain Deformation.","venue":"MICCAI","pages":"1091-1098","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/Castellano-SmithHSHLHTHH01","doi":"10.1007/3-540-45468-3_130","ee":"https://doi.org/10.1007/3-540-45468-3_130","url":"https://dblp.org/rec/conf/miccai/Castellano-SmithHSHLHTHH01"},
+"url":"URL#7185697"
+},
+{
+"@score":"1",
+"@id":"7185698",
+"info":{"authors":{"author":[{"@pid":"c/JRCebral","text":"Juan R. Cebral"},{"@pid":"76/4600","text":"Rainald Löhner"},{"@pid":"17/6552","text":"Orlando Soto"},{"@pid":"79/2697","text":"Peter L. Choyke"},{"@pid":"14/2613","text":"Peter J. Yim"}]},"title":"Patient-Specific Simulation of Carotid Artery Stenting Using Computational Fluid Dynamics.","venue":"MICCAI","pages":"153-160","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/CebralLSCY01","doi":"10.1007/3-540-45468-3_19","ee":"https://doi.org/10.1007/3-540-45468-3_19","url":"https://dblp.org/rec/conf/miccai/CebralLSCY01"},
+"url":"URL#7185698"
+},
+{
+"@score":"1",
+"@id":"7185699",
+"info":{"authors":{"author":[{"@pid":"33/205","text":"Xuesong Chen"},{"@pid":"61/6021","text":"Chee-Kong Chui"},{"@pid":"68/3655","text":"Swee-Hin Teoh"},{"@pid":"o/SimHengOng","text":"Sim Heng Ong"},{"@pid":"n/WieslawLucjanNowinski","text":"Wieslaw Lucjan Nowinski"}]},"title":"Automatic Modeling of Anatomical Structures for Biomechanical Analysis and Visualization in a Virtual Spine Workstation.","venue":"MICCAI","pages":"1170-1171","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ChenCTON01","doi":"10.1007/3-540-45468-3_148","ee":"https://doi.org/10.1007/3-540-45468-3_148","url":"https://dblp.org/rec/conf/miccai/ChenCTON01"},
+"url":"URL#7185699"
+},
+{
+"@score":"1",
+"@id":"7185700",
+"info":{"authors":{"author":[{"@pid":"155/5744","text":"Gang Cheng"},{"@pid":"24/146","text":"Haisong Liu"},{"@pid":"26/2766","text":"Lydia Liao"},{"@pid":"67/6201","text":"Yan Yu"}]},"title":"Dynamic Brachytherapy of the Prostate Under Active Image Guidance.","venue":"MICCAI","pages":"351-359","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ChengLLY01","doi":"10.1007/3-540-45468-3_42","ee":"https://doi.org/10.1007/3-540-45468-3_42","url":"https://dblp.org/rec/conf/miccai/ChengLLY01"},
+"url":"URL#7185700"
+},
+{
+"@score":"1",
+"@id":"7185701",
+"info":{"authors":{"author":[{"@pid":"41/2306","text":"Reza Arbab Chirani"},{"@pid":"24/5846","text":"Jean-José Jacq"},{"@pid":"00/6463","text":"Christian Roux"},{"@pid":"77/6420","text":"Philippe Meriot"}]},"title":"3-D Reconstruction and Functional Analysis of the Temporomandibular Joint.","venue":"MICCAI","pages":"1265-1266","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ChiraniJRM01","doi":"10.1007/3-540-45468-3_188","ee":"https://doi.org/10.1007/3-540-45468-3_188","url":"https://dblp.org/rec/conf/miccai/ChiraniJRM01"},
+"url":"URL#7185701"
+},
+{
+"@score":"1",
+"@id":"7185702",
+"info":{"authors":{"author":[{"@pid":"68/6850","text":"Johan Van Cleynenbreugel"},{"@pid":"95/6842","text":"Lars Bergmans"},{"@pid":"47/2728","text":"Martine Wevers"},{"@pid":"63/163","text":"Paul Lambrechts"}]},"title":"A Method for µCT Based Assessment of Root Canal Instrumentation in Endodontics Research.","venue":"MICCAI","pages":"1215-1217","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/CleynenbreugelBWL01","doi":"10.1007/3-540-45468-3_168","ee":"https://doi.org/10.1007/3-540-45468-3_168","url":"https://dblp.org/rec/conf/miccai/CleynenbreugelBWL01"},
+"url":"URL#7185702"
+},
+{
+"@score":"1",
+"@id":"7185703",
+"info":{"authors":{"author":[{"@pid":"68/6850","text":"Johan Van Cleynenbreugel"},{"@pid":"91/5866","text":"Filip Schutyser"},{"@pid":"53/2472","text":"Chantal Malevez"},{"@pid":"43/4590","text":"Ellen Dhoore"},{"@pid":"02/2353","text":"Charbel BouSerhal"},{"@pid":"73/170","text":"Reinhilde Jacobs"},{"@pid":"97/5888","text":"Paul Suetens"},{"@pid":"04/3448","text":"Daniel van Steenberghe"}]},"title":"Intra-operative Transfer of Planned Zygomatic Fixtures by Personalized Templates: A Cadaver Validation Study.","venue":"MICCAI","pages":"1147-1148","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/CleynenbreugelSMDBJSS01","doi":"10.1007/3-540-45468-3_138","ee":"https://doi.org/10.1007/3-540-45468-3_138","url":"https://dblp.org/rec/conf/miccai/CleynenbreugelSMDBJSS01"},
+"url":"URL#7185703"
+},
+{
+"@score":"1",
+"@id":"7185704",
+"info":{"authors":{"author":[{"@pid":"59/863","text":"Chris A. Cocosco"},{"@pid":"95/5855","text":"Alan C. Evans"}]},"title":"Java Internet Viewer: A WWW Tool for Remote 3D Medical Image Data Visualization and Comparison.","venue":"MICCAI","pages":"1415-1416","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/CocoscoE01","doi":"10.1007/3-540-45468-3_250","ee":"https://doi.org/10.1007/3-540-45468-3_250","url":"https://dblp.org/rec/conf/miccai/CocoscoE01"},
+"url":"URL#7185704"
+},
+{
+"@score":"1",
+"@id":"7185705",
+"info":{"authors":{"author":[{"@pid":"50/6567","text":"Isabelle Corouge"},{"@pid":"46/2222","text":"Christian Barillot"},{"@pid":"60/4326","text":"Pierre Hellier"},{"@pid":"12/6469","text":"Pierre Toulouse"},{"@pid":"g/BernardGibaud","text":"Bernard Gibaud"}]},"title":"Non-linear Local Registration of Functional Data.","venue":"MICCAI","pages":"948-956","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/CorougeBHTG01","doi":"10.1007/3-540-45468-3_113","ee":"https://doi.org/10.1007/3-540-45468-3_113","url":"https://dblp.org/rec/conf/miccai/CorougeBHTG01"},
+"url":"URL#7185705"
+},
+{
+"@score":"1",
+"@id":"7185706",
+"info":{"authors":{"author":[{"@pid":"85/711","text":"Olivier Cuisenaire"},{"@pid":"58/280","text":"Matthieu Ferrant"},{"@pid":"72/4924","text":"Yves Vandermeeren"},{"@pid":"41/4248","text":"Etienne Olivier"},{"@pid":"m/BenoitMMacq","text":"Benoît Macq"}]},"title":"Registration and Visualization of Transcranial Magnetic Stimulation on MR Images.","venue":"MICCAI","pages":"1409-1411","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/CuisenaireFVOM01","doi":"10.1007/3-540-45468-3_248","ee":"https://doi.org/10.1007/3-540-45468-3_248","url":"https://dblp.org/rec/conf/miccai/CuisenaireFVOM01"},
+"url":"URL#7185706"
+},
+{
+"@score":"1",
+"@id":"7185707",
+"info":{"authors":{"author":[{"@pid":"29/986-2","text":"Daeyoung Kim 0002"},{"@pid":"28/4281","text":"Ryoichi Nakamura"},{"@pid":"05/3952","text":"Etsuko Kobayashi"},{"@pid":"84/733","text":"Ichiro Sakuma"},{"@pid":"77/2914","text":"Takeyoshi Dohi"}]},"title":"Application of Compact Pneumatic Actuators to Laparoscopic Manipulator.","venue":"MICCAI","pages":"1424-1425","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/DaeyoungNKSD01","doi":"10.1007/3-540-45468-3_254","ee":"https://doi.org/10.1007/3-540-45468-3_254","url":"https://dblp.org/rec/conf/miccai/DaeyoungNKSD01"},
+"url":"URL#7185707"
+},
+{
+"@score":"1",
+"@id":"7185708",
+"info":{"authors":{"author":[{"@pid":"80/6149","text":"Rhodri H. Davies"},{"@pid":"22/4959","text":"Timothy F. Cootes"},{"@pid":"57/1383","text":"John C. Waterton"},{"@pid":"37/6755","text":"Christopher J. Taylor 0001"}]},"title":"An Efficient Method for Constructing Optimal Statistical Shape Models.","venue":"MICCAI","pages":"57-65","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/DaviesCWT01","doi":"10.1007/3-540-45468-3_8","ee":"https://doi.org/10.1007/3-540-45468-3_8","url":"https://dblp.org/rec/conf/miccai/DaviesCWT01"},
+"url":"URL#7185708"
+},
+{
+"@score":"1",
+"@id":"7185709",
+"info":{"authors":{"author":[{"@pid":"82/3911","text":"Benoit M. Dawant"},{"@pid":"09/3076","text":"Shiyan Pan"},{"@pid":"96/4282-12","text":"Rui Li 0012"}]},"title":"Robust Segmentation of Medical Images Using Geometric Deformable Models and a Dynamic Speed Function.","venue":"MICCAI","pages":"1040-1047","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/DawantPL01","doi":"10.1007/3-540-45468-3_124","ee":"https://doi.org/10.1007/3-540-45468-3_124","url":"https://dblp.org/rec/conf/miccai/DawantPL01"},
+"url":"URL#7185709"
+},
+{
+"@score":"1",
+"@id":"7185710",
+"info":{"authors":{"author":[{"@pid":"19/4043","text":"David Dean"},{"@pid":"78/933","text":"Pengpeng Zhang"},{"@pid":"13/608","text":"Andrew Metzger"},{"@pid":"65/2674","text":"Claudio H. Sibata"},{"@pid":"29/4110","text":"Robert J. Maciunas"}]},"title":"Medial Axis Seeding of a Guided Evolutionary Simulated Annealing (GESA) Algorithm for Automated Gamma Knife Radiosurgery Treatment Planning.","venue":"MICCAI","pages":"441-448","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/DeanZMSM01","doi":"10.1007/3-540-45468-3_53","ee":"https://doi.org/10.1007/3-540-45468-3_53","url":"https://dblp.org/rec/conf/miccai/DeanZMSM01"},
+"url":"URL#7185710"
+},
+{
+"@score":"1",
+"@id":"7185711",
+"info":{"authors":{"author":[{"@pid":"37/3286","text":"Andreas Degenhard"},{"@pid":"28/2834","text":"Christine Tanner"},{"@pid":"52/1819","text":"Carmel Hayes"},{"@pid":"14/2317","text":"David J. Hawkes"},{"@pid":"65/5752","text":"Martin O. Leach"}]},"title":"Half Fourier Acquisition Applied to Time Series Analysis of Contrast Agent Uptake.","venue":"MICCAI","pages":"872-880","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/DegenhardTHHL01","doi":"10.1007/3-540-45468-3_104","ee":"https://doi.org/10.1007/3-540-45468-3_104","url":"https://dblp.org/rec/conf/miccai/DegenhardTHHL01"},
+"url":"URL#7185711"
+},
+{
+"@score":"1",
+"@id":"7185712",
+"info":{"authors":{"author":[{"@pid":"66/5455","text":"Niels Dekker"},{"@pid":"30/867","text":"Lennert S. Ploeger"},{"@pid":"83/2772","text":"Marcel van Herk"}]},"title":"Evaluation of Cost Functions for Gray Value Matching of 2D Images in Radiotherapy.","venue":"MICCAI","pages":"1354-1357","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/DekkerPH01","doi":"10.1007/3-540-45468-3_226","ee":"https://doi.org/10.1007/3-540-45468-3_226","url":"https://dblp.org/rec/conf/miccai/DekkerPH01"},
+"url":"URL#7185712"
+},
+{
+"@score":"1",
+"@id":"7185713",
+"info":{"authors":{"author":[{"@pid":"09/1753","text":"Catherine Desbleds-Mansard"},{"@pid":"04/633","text":"Alfred Anwander"},{"@pid":"50/9","text":"Linda Chaabane"},{"@pid":"64/6260","text":"Maciej Orkisz"},{"@pid":"89/4698","text":"Bruno Neyran"},{"@pid":"53/5896","text":"Philippe Douek"},{"@pid":"61/5493","text":"Isabelle E. Magnin"}]},"title":"Size Independent Active Contour Model for Blood Vessel Lumen Quantification in High-Resolution Magnetic Resonance Images.","venue":"MICCAI","pages":"854-861","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/Desbleds-MansardACONDM01","doi":"10.1007/3-540-45468-3_102","ee":"https://doi.org/10.1007/3-540-45468-3_102","url":"https://dblp.org/rec/conf/miccai/Desbleds-MansardACONDM01"},
+"url":"URL#7185713"
+},
+{
+"@score":"1",
+"@id":"7185714",
+"info":{"authors":{"author":{"@pid":"48/3581","text":"Sabine Dippel"}},"title":"Displacement Field Estimation from CSPAMM Images without Segmentation of the Myocardium.","venue":"MICCAI","pages":"1226-1227","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/Dippel01","doi":"10.1007/3-540-45468-3_173","ee":"https://doi.org/10.1007/3-540-45468-3_173","url":"https://dblp.org/rec/conf/miccai/Dippel01"},
+"url":"URL#7185714"
+},
+{
+"@score":"1",
+"@id":"7185715",
+"info":{"authors":{"author":[{"@pid":"63/409","text":"Gilles Duchemin"},{"@pid":"68/7040","text":"Etienne Dombre"},{"@pid":"62/3464","text":"François Pierrot"},{"@pid":"42/6533","text":"Philippe Poignet"},{"@pid":"38/2748","text":"Eric Dégoulange"}]},"title":"SCALPP: A Safe Methodology to Robotize Skin Harvesting.","venue":"MICCAI","pages":"309-316","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/DucheminDPPD01","doi":"10.1007/3-540-45468-3_37","ee":"https://doi.org/10.1007/3-540-45468-3_37","url":"https://dblp.org/rec/conf/miccai/DucheminDPPD01"},
+"url":"URL#7185715"
+},
+{
+"@score":"1",
+"@id":"7185716",
+"info":{"authors":{"author":[{"@pid":"75/302","text":"Simon Duchesne"},{"@pid":"c/DLouisCollins","text":"D. Louis Collins"}]},"title":"Analysis of 3D Deformation Fields for Appearance-Based Segmentation.","venue":"MICCAI","pages":"1189-1190","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/DuchesneC01","doi":"10.1007/3-540-45468-3_157","ee":"https://doi.org/10.1007/3-540-45468-3_157","url":"https://dblp.org/rec/conf/miccai/DuchesneC01"},
+"url":"URL#7185716"
+},
+{
+"@score":"1",
+"@id":"7185717",
+"info":{"authors":{"author":[{"@pid":"18/3016","text":"Julien Dutreuil"},{"@pid":"39/6810","text":"François Goulette"},{"@pid":"32/2309","text":"Claude Laurgeau"},{"@pid":"20/2820","text":"Jaime Clavero Zoreda"},{"@pid":"09/406","text":"Stefan Lundgren"}]},"title":"Computer Assisted Dental Implantology: A New Method and a Clinical Validation.","venue":"MICCAI","pages":"384-391","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/DutreuilGLZL01","doi":"10.1007/3-540-45468-3_46","ee":"https://doi.org/10.1007/3-540-45468-3_46","url":"https://dblp.org/rec/conf/miccai/DutreuilGLZL01"},
+"url":"URL#7185717"
+},
+{
+"@score":"1",
+"@id":"7185718",
+"info":{"authors":{"author":[{"@pid":"57/4940","text":"Vidya Elangovan"},{"@pid":"w/RossTWhitaker","text":"Ross T. Whitaker"}]},"title":"From Sinograms to Surfaces: A Direct Approach to the Segmentation of Tomographic Data.","venue":"MICCAI","pages":"213-223","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ElangovanW01","doi":"10.1007/3-540-45468-3_26","ee":"https://doi.org/10.1007/3-540-45468-3_26","url":"https://dblp.org/rec/conf/miccai/ElangovanW01"},
+"url":"URL#7185718"
+},
+{
+"@score":"1",
+"@id":"7185719",
+"info":{"authors":{"author":[{"@pid":"22/6216","text":"Randy E. Ellis"},{"@pid":"31/3342","text":"D. Kerr"},{"@pid":"168/1981","text":"John F. Rudan"},{"@pid":"32/1688","text":"L. Davidson"}]},"title":"Minimally Invasive Excision of Deep Bone Tumors.","venue":"MICCAI","pages":"1154-1156","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/EllisKRD01","doi":"10.1007/3-540-45468-3_141","ee":"https://doi.org/10.1007/3-540-45468-3_141","url":"https://dblp.org/rec/conf/miccai/EllisKRD01"},
+"url":"URL#7185719"
+},
+{
+"@score":"1",
+"@id":"7185720",
+"info":{"authors":{"author":[{"@pid":"12/2662","text":"Dirk Engel"},{"@pid":"67/769","text":"Jörg Raczkowsky"},{"@pid":"62/4312","text":"Heinz Wörn"}]},"title":"A Supervising System for Robot Application in Surgery.","venue":"MICCAI","pages":"1308-1309","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/EngelRW01","doi":"10.1007/3-540-45468-3_207","ee":"https://doi.org/10.1007/3-540-45468-3_207","url":"https://dblp.org/rec/conf/miccai/EngelRW01"},
+"url":"URL#7185720"
+},
+{
+"@score":"1",
+"@id":"7185721",
+"info":{"authors":{"author":[{"@pid":"60/4644","text":"Saskia van Engeland"},{"@pid":"09/93","text":"Nico Karssemeijer"}]},"title":"Matching Breast Lesions in Multiple Mammographic Views.","venue":"MICCAI","pages":"1172-1173","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/EngelandK01","doi":"10.1007/3-540-45468-3_149","ee":"https://doi.org/10.1007/3-540-45468-3_149","url":"https://dblp.org/rec/conf/miccai/EngelandK01"},
+"url":"URL#7185721"
+},
+{
+"@score":"1",
+"@id":"7185722",
+"info":{"authors":{"author":[{"@pid":"58/280","text":"Matthieu Ferrant"},{"@pid":"85/711","text":"Olivier Cuisenaire"},{"@pid":"m/BenoitMMacq","text":"Benoît Macq"},{"@pid":"t/JeanPhilippeThiran","text":"Jean-Philippe Thiran"},{"@pid":"64/6045","text":"Martha Elizabeth Shenton"},{"@pid":"k/RonKikinis","text":"Ron Kikinis"},{"@pid":"68/2602","text":"Simon K. Warfield"}]},"title":"Surface Based Atlas Matching of the Brain Using Deformable Surfaces and Volumetric Finite Elements.","venue":"MICCAI","pages":"1352-1353","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/FerrantCMTSKW01","doi":"10.1007/3-540-45468-3_225","ee":"https://doi.org/10.1007/3-540-45468-3_225","url":"https://dblp.org/rec/conf/miccai/FerrantCMTSKW01"},
+"url":"URL#7185722"
+},
+{
+"@score":"1",
+"@id":"7185723",
+"info":{"authors":{"author":[{"@pid":"90/5571","text":"Gabor Fichtinger"},{"@pid":"10/1887-1","text":"Sheng Xu 0001"},{"@pid":"65/2005","text":"Attila Tanács"},{"@pid":"37/6570","text":"Kieran Murphy"},{"@pid":"99/5515","text":"Lee Myers"},{"@pid":"05/5380","text":"Jeffery Williams"}]},"title":"Approximate Volumetric Reconstruction from Projected Images.","venue":"MICCAI","pages":"1376-1378","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/FichtingerXTMMW01","doi":"10.1007/3-540-45468-3_235","ee":"https://doi.org/10.1007/3-540-45468-3_235","url":"https://dblp.org/rec/conf/miccai/FichtingerXTMMW01"},
+"url":"URL#7185723"
+},
+{
+"@score":"1",
+"@id":"7185724",
+"info":{"authors":{"author":[{"@pid":"23/954","text":"John W. Fisher III"},{"@pid":"63/4387","text":"Eric R. Cosman Jr."},{"@pid":"77/1141","text":"Cindy Wible"},{"@pid":"w/WilliamMWellsIII","text":"William M. Wells III"}]},"title":"Adaptive Entropy Rates for f MRI Time-Series Analysis.","venue":"MICCAI","pages":"905-912","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/FisherCWW01","doi":"10.1007/3-540-45468-3_108","ee":"https://doi.org/10.1007/3-540-45468-3_108","url":"https://dblp.org/rec/conf/miccai/FisherCWW01"},
+"url":"URL#7185724"
+},
+{
+"@score":"1",
+"@id":"7185725",
+"info":{"authors":{"author":{"@pid":"27/3025","text":"Ichiro Fukumoto"}},"title":"Computer Aided Diagnosis for the Alzheimer Type Dementia.","venue":"MICCAI","pages":"1386-1387","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/Fukumoto01","doi":"10.1007/3-540-45468-3_239","ee":"https://doi.org/10.1007/3-540-45468-3_239","url":"https://dblp.org/rec/conf/miccai/Fukumoto01"},
+"url":"URL#7185725"
+},
+{
+"@score":"1",
+"@id":"7185726",
+"info":{"authors":{"author":[{"@pid":"22/1366","text":"Matthias Gebhard"},{"@pid":"69/4935","text":"Julian Mattes"},{"@pid":"63/1724","text":"Roland Eils"}]},"title":"An Active Contour Model for Segmentation Based on Cubic B-splines and Gradient Vector Flow.","venue":"MICCAI","pages":"1373-1375","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GebhardME01","doi":"10.1007/3-540-45468-3_234","ee":"https://doi.org/10.1007/3-540-45468-3_234","url":"https://dblp.org/rec/conf/miccai/GebhardME01"},
+"url":"URL#7185726"
+},
+{
+"@score":"1",
+"@id":"7185727",
+"info":{"authors":{"author":[{"@pid":"50/3582","text":"Jens Geerling"},{"@pid":"36/2592","text":"Tobias Hüfner"},{"@pid":"79/31","text":"R. Raab"},{"@pid":"97/4658","text":"Musa Citak"},{"@pid":"39/2402","text":"Tim Pohlemann"},{"@pid":"01/2579","text":"H. Rosenthal"},{"@pid":"06/625","text":"Christian Krettek"}]},"title":"Resection of Recurrent Carcinomas in the Pelvis - A New Field of Computer Aided Surgery.","venue":"MICCAI","pages":"1245-1247","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GeerlingHRCPRK01","doi":"10.1007/3-540-45468-3_180","ee":"https://doi.org/10.1007/3-540-45468-3_180","url":"https://dblp.org/rec/conf/miccai/GeerlingHRCPRK01"},
+"url":"URL#7185727"
+},
+{
+"@score":"1",
+"@id":"7185728",
+"info":{"authors":{"author":[{"@pid":"42/5224","text":"Olivier Gérard"},{"@pid":"11/2891","text":"Maxim Fradkin"},{"@pid":"50/1206","text":"Antoine Collet Billon"},{"@pid":"73/1613","text":"Miarie Jacob"},{"@pid":"36/6508","text":"Jean-Michel Rouet"},{"@pid":"41/2098","text":"Shérif Makram-Ebeid"}]},"title":"Automatic Analysis of the Left Ventricle in the Time Sequences of 3D Echo-Cardiographic Images.","venue":"MICCAI","pages":"1224-1225","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GerardFBJRM01","doi":"10.1007/3-540-45468-3_172","ee":"https://doi.org/10.1007/3-540-45468-3_172","url":"https://dblp.org/rec/conf/miccai/GerardFBJRM01"},
+"url":"URL#7185728"
+},
+{
+"@score":"1",
+"@id":"7185729",
+"info":{"authors":{"author":[{"@pid":"g/GuidoGerig","text":"Guido Gerig"},{"@pid":"57/4073","text":"Matthieu Jomier"},{"@pid":"04/5386","text":"Miranda Chakos"}]},"title":"Valmet: A New Validation Tool for Assessing and Improving 3D Object Segmentation.","venue":"MICCAI","pages":"516-523","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GerigJC01","doi":"10.1007/3-540-45468-3_62","ee":"https://doi.org/10.1007/3-540-45468-3_62","url":"https://dblp.org/rec/conf/miccai/GerigJC01"},
+"url":"URL#7185729"
+},
+{
+"@score":"1",
+"@id":"7185730",
+"info":{"authors":{"author":[{"@pid":"g/GuidoGerig","text":"Guido Gerig"},{"@pid":"s/MAStyner","text":"Martin Styner"},{"@pid":"64/6045","text":"Martha Elizabeth Shenton"},{"@pid":"35/267","text":"Jeffrey A. Lieberman"}]},"title":"Shape versus Size: Improved Understanding of the Morphology of Brain Structures.","venue":"MICCAI","pages":"24-32","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GerigSSL01","doi":"10.1007/3-540-45468-3_4","ee":"https://doi.org/10.1007/3-540-45468-3_4","url":"https://dblp.org/rec/conf/miccai/GerigSSL01"},
+"url":"URL#7185730"
+},
+{
+"@score":"1",
+"@id":"7185731",
+"info":{"authors":{"author":[{"@pid":"69/6994","text":"Marjolein van der Glas"},{"@pid":"67/3596","text":"Frans Vos"},{"@pid":"v/AMVossepoel","text":"Albert M. Vossepoel"}]},"title":"Assessment of Center of Rotation of the Glenohumeral Joint.","venue":"MICCAI","pages":"1207-1209","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GlasVV01","doi":"10.1007/3-540-45468-3_165","ee":"https://doi.org/10.1007/3-540-45468-3_165","url":"https://dblp.org/rec/conf/miccai/GlasVV01"},
+"url":"URL#7185731"
+},
+{
+"@score":"1",
+"@id":"7185732",
+"info":{"authors":{"author":[{"@pid":"24/5307","text":"Salih Burak Göktürk"},{"@pid":"24/2162","text":"Carlo Tomasi"},{"@pid":"25/6179","text":"Burak Acar"},{"@pid":"65/6814","text":"David S. Paik"},{"@pid":"27/5161","text":"Christopher F. Beaulieu"},{"@pid":"00/111","text":"Sandy Napel"}]},"title":"A Learning Method for Automated Polyp Detection.","venue":"MICCAI","pages":"85-93","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GokturkTAPBN01","doi":"10.1007/3-540-45468-3_11","ee":"https://doi.org/10.1007/3-540-45468-3_11","url":"https://dblp.org/rec/conf/miccai/GokturkTAPBN01"},
+"url":"URL#7185732"
+},
+{
+"@score":"1",
+"@id":"7185733",
+"info":{"authors":{"author":[{"@pid":"58/3728","text":"Randal P. Goldberg"},{"@pid":"25/6090","text":"Dumitru Mazilu"},{"@pid":"71/2446","text":"Russell H. Taylor"},{"@pid":"47/4897","text":"Dan Stoianovici"}]},"title":"A Modular Robotic System for Ultrasound Image Acquisition.","venue":"MICCAI","pages":"1430-1432","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GoldbergDTS01","doi":"10.1007/3-540-45468-3_256","ee":"https://doi.org/10.1007/3-540-45468-3_256","url":"https://dblp.org/rec/conf/miccai/GoldbergDTS01"},
+"url":"URL#7185733"
+},
+{
+"@score":"1",
+"@id":"7185734",
+"info":{"authors":{"author":[{"@pid":"09/1502","text":"M. P. S. F. Gomes"},{"@pid":"20/1166","text":"Adrian R. W. Barrett"},{"@pid":"77/6349","text":"Brian L. Davies"}]},"title":"Computer-Assisted Soft-Tissue Surgery Training and Monitoring.","venue":"MICCAI","pages":"360-367","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GomesBD01","doi":"10.1007/3-540-45468-3_43","ee":"https://doi.org/10.1007/3-540-45468-3_43","url":"https://dblp.org/rec/conf/miccai/GomesBD01"},
+"url":"URL#7185734"
+},
+{
+"@score":"1",
+"@id":"7185735",
+"info":{"authors":{"author":[{"@pid":"93/6970","text":"Adriana Vilchis Gonzales"},{"@pid":"63/3665","text":"Philippe Cinquin"},{"@pid":"24/3681","text":"Jocelyne Troccaz"},{"@pid":"37/6348","text":"Agnès Guerraz"},{"@pid":"37/4184","text":"Bernard Hennion"},{"@pid":"98/1835","text":"Franck Pellissier"},{"@pid":"03/661","text":"Pierre Thorel"},{"@pid":"70/449","text":"Fabien Courreges"},{"@pid":"29/4699","text":"Alain Gourdon"},{"@pid":"85/5033","text":"Gérard Poisson"},{"@pid":"84/4658","text":"Pierre Vieyres"},{"@pid":"38/5458","text":"Pierre Caron"},{"@pid":"08/534","text":"Olivier Mérigeaux"},{"@pid":"90/6187","text":"Loïc Urbain"},{"@pid":"93/1226","text":"Cédric Daimo"},{"@pid":"62/5490","text":"Stéphane Lavallée"},{"@pid":"53/3284","text":"Philippe Arbeille"},{"@pid":"02/6884","text":"Marc Althuser"},{"@pid":"42/614","text":"Jean-Marc Ayoubi"},{"@pid":"73/4183","text":"Bertrand Tondu"},{"@pid":"75/3411","text":"Serge Ippolito"}]},"title":"TER: A System for Robotic Tele-echography.","venue":"MICCAI","pages":"326-334","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GonzalesCTGHPTCGPVCMUDLAAATI01","doi":"10.1007/3-540-45468-3_39","ee":"https://doi.org/10.1007/3-540-45468-3_39","url":"https://dblp.org/rec/conf/miccai/GonzalesCTGHPTCGPVCMUDLAAATI01"},
+"url":"URL#7185735"
+},
+{
+"@score":"1",
+"@id":"7185736",
+"info":{"authors":{"author":[{"@pid":"38/655","text":"Sébastien Granger"},{"@pid":"45/2126","text":"Xavier Pennec"},{"@pid":"44/2190","text":"Alexis Roche"}]},"title":"Rigid Point-Surface Registration Using an EM Variant of ICP for Computer Guided Oral Implantology.","venue":"MICCAI","pages":"752-761","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GrangerPR01","doi":"10.1007/3-540-45468-3_90","ee":"https://doi.org/10.1007/3-540-45468-3_90","url":"https://dblp.org/rec/conf/miccai/GrangerPR01"},
+"url":"URL#7185736"
+},
+{
+"@score":"1",
+"@id":"7185737",
+"info":{"authors":{"author":[{"@pid":"51/382","text":"Hayit Greenspan"},{"@pid":"50/5316","text":"Sharon Peled"},{"@pid":"71/5273","text":"Gal Oz"},{"@pid":"69/1868","text":"Nahum Kiryati"}]},"title":"MRI Inter-slice Reconstruction Using Super-Resolution.","venue":"MICCAI","pages":"1204-1206","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GreenspanPOK01","doi":"10.1007/3-540-45468-3_164","ee":"https://doi.org/10.1007/3-540-45468-3_164","url":"https://dblp.org/rec/conf/miccai/GreenspanPOK01"},
+"url":"URL#7185737"
+},
+{
+"@score":"1",
+"@id":"7185738",
+"info":{"authors":{"author":[{"@pid":"93/955","text":"Pieter De Groeve"},{"@pid":"91/5866","text":"Filip Schutyser"},{"@pid":"68/6850","text":"Johan Van Cleynenbreugel"},{"@pid":"97/5888","text":"Paul Suetens"}]},"title":"Registration of 3D Photographs with Spiral CT Images for Soft Tissue Simulation in Maxillofacial Surgery.","venue":"MICCAI","pages":"991-996","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GroeveSCS01","doi":"10.1007/3-540-45468-3_118","ee":"https://doi.org/10.1007/3-540-45468-3_118","url":"https://dblp.org/rec/conf/miccai/GroeveSCS01"},
+"url":"URL#7185738"
+},
+{
+"@score":"1",
+"@id":"7185739",
+"info":{"authors":{"author":[{"@pid":"95/5762","text":"Christophe Grova"},{"@pid":"90/2492","text":"Arnaud Biraben"},{"@pid":"43/1183","text":"Jean-Marie Scarabin"},{"@pid":"52/4728","text":"Pierre Jannin"},{"@pid":"34/2380","text":"Irène Buvat"},{"@pid":"16/632","text":"Habib Benali"},{"@pid":"g/BernardGibaud","text":"Bernard Gibaud"}]},"title":"A Methodology to Validate MRI/SPECT Registration Methods Using Realistic Simulated SPECT Data.","venue":"MICCAI","pages":"275-282","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GrovaBSJBBG01","doi":"10.1007/3-540-45468-3_33","ee":"https://doi.org/10.1007/3-540-45468-3_33","url":"https://dblp.org/rec/conf/miccai/GrovaBSJBBG01"},
+"url":"URL#7185739"
+},
+{
+"@score":"1",
+"@id":"7185740",
+"info":{"authors":{"author":[{"@pid":"04/3330","text":"Idith Haber"},{"@pid":"k/RonKikinis","text":"Ron Kikinis"},{"@pid":"w/CarlFredrikWestin","text":"Carl-Fredrik Westin"}]},"title":"Phase-Driven Finite Element Model for Spatio-temporal Tracking in Cardiac Tagged MRI.","venue":"MICCAI","pages":"1332-1335","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HaberKW01","doi":"10.1007/3-540-45468-3_217","ee":"https://doi.org/10.1007/3-540-45468-3_217","url":"https://dblp.org/rec/conf/miccai/HaberKW01"},
+"url":"URL#7185740"
+},
+{
+"@score":"1",
+"@id":"7185741",
+"info":{"authors":{"author":[{"@pid":"87/4973","text":"Horst K. Hahn"},{"@pid":"01/2717","text":"Markus G. Lentschig"},{"@pid":"33/3318","text":"Burckhard Terwey"},{"@pid":"78/3206","text":"Heinz-Otto Peitgen"}]},"title":"Clinical MRI Based Volumetry: The Cerebral Ventricles.","venue":"MICCAI","pages":"1291-1292","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HahnLTP01","doi":"10.1007/3-540-45468-3_199","ee":"https://doi.org/10.1007/3-540-45468-3_199","url":"https://dblp.org/rec/conf/miccai/HahnLTP01"},
+"url":"URL#7185741"
+},
+{
+"@score":"1",
+"@id":"7185742",
+"info":{"authors":{"author":[{"@pid":"15/3191","text":"Klaus Hahn"},{"@pid":"26/5655","text":"Sergei Prigarin"},{"@pid":"76/1914","text":"Benno Pütz"}]},"title":"Edge Preserving Regularization and Tracking for Diffusion Tensor Imaging.","venue":"MICCAI","pages":"195-203","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HahnPP01","doi":"10.1007/3-540-45468-3_24","ee":"https://doi.org/10.1007/3-540-45468-3_24","url":"https://dblp.org/rec/conf/miccai/HahnPP01"},
+"url":"URL#7185742"
+},
+{
+"@score":"1",
+"@id":"7185743",
+"info":{"authors":{"author":[{"@pid":"31/2573","text":"Steven Haker"},{"@pid":"t/AllenTannenbaum","text":"Allen R. Tannenbaum"},{"@pid":"k/RonKikinis","text":"Ron Kikinis"}]},"title":"Mass Preserving Mappings and Image Registration.","venue":"MICCAI","pages":"120-127","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HakerTK01","doi":"10.1007/3-540-45468-3_15","ee":"https://doi.org/10.1007/3-540-45468-3_15","url":"https://dblp.org/rec/conf/miccai/HakerTK01"},
+"url":"URL#7185743"
+},
+{
+"@score":"1",
+"@id":"7185744",
+"info":{"authors":{"author":[{"@pid":"h/GhassanHamarneh","text":"Ghassan Hamarneh"},{"@pid":"79/3375","text":"Tim McInerney"},{"@pid":"85/4738","text":"Demetri Terzopoulos"}]},"title":"Deformable Organisms for Automatic Medical Image Analysis.","venue":"MICCAI","pages":"66-76","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HamarnehMT01","doi":"10.1007/3-540-45468-3_9","ee":"https://doi.org/10.1007/3-540-45468-3_9","url":"https://dblp.org/rec/conf/miccai/HamarnehMT01"},
+"url":"URL#7185744"
+},
+{
+"@score":"1",
+"@id":"7185745",
+"info":{"authors":{"author":[{"@pid":"56/4725","text":"Matthias Harders"},{"@pid":"41/1233","text":"Gábor Székely"}]},"title":"A Multi-modal Approach to Segmentation of Tubular Structures.","venue":"MICCAI","pages":"1180-1182","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HardersS01","doi":"10.1007/3-540-45468-3_153","ee":"https://doi.org/10.1007/3-540-45468-3_153","url":"https://dblp.org/rec/conf/miccai/HardersS01"},
+"url":"URL#7185745"
+},
+{
+"@score":"1",
+"@id":"7185746",
+"info":{"authors":{"author":[{"@pid":"h/AlexanderHartov","text":"Alex Hartov"},{"@pid":"92/4156","text":"Hai Sun"},{"@pid":"97/1274","text":"David W. Roberts"},{"@pid":"15/6662","text":"Keith D. Paulsen"}]},"title":"A Simplified Field-of-View Calibration Technique for an Operating Microscope.","venue":"MICCAI","pages":"1240-1242","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HartovSRP01","doi":"10.1007/3-540-45468-3_178","ee":"https://doi.org/10.1007/3-540-45468-3_178","url":"https://dblp.org/rec/conf/miccai/HartovSRP01"},
+"url":"URL#7185746"
+},
+{
+"@score":"1",
+"@id":"7185747",
+"info":{"authors":{"author":[{"@pid":"41/646","text":"Peter Hastreiter"},{"@pid":"e/KlausEngel","text":"Klaus Engel"},{"@pid":"10/2896","text":"Grzegorz Soza"},{"@pid":"04/2005-2","text":"Michael Bauer 0002"},{"@pid":"85/5569-1","text":"Matthias Wolf 0001"},{"@pid":"09/6238","text":"Oliver Ganslandt"},{"@pid":"23/2167","text":"Rudolf Fahlbusch"},{"@pid":"g/GuntherGreiner","text":"Günther Greiner"},{"@pid":"e/ThomasErtl","text":"Thomas Ertl"},{"@pid":"89/4664","text":"Christopher Nimsky"}]},"title":"Remote Analysis for Brain Shift Compensation.","venue":"MICCAI","pages":"1248-1249","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HastreiterESBWGFGEN01","doi":"10.1007/3-540-45468-3_181","ee":"https://doi.org/10.1007/3-540-45468-3_181","url":"https://dblp.org/rec/conf/miccai/HastreiterESBWGFGEN01"},
+"url":"URL#7185747"
+},
+{
+"@score":"1",
+"@id":"7185748",
+"info":{"authors":{"author":[{"@pid":"14/5385","text":"David Hattery"},{"@pid":"40/3126","text":"Victor Chernomordik"},{"@pid":"58/5129","text":"Amir Gandjbakhche"},{"@pid":"l/MurrayHLoew","text":"Murray H. Loew"}]},"title":"Imaging Metabolism with Light: Quantifying Local Fluorescence Lifetime Perturbation in Tissue-like Turbid Media.","venue":"MICCAI","pages":"795-802","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HatteryCGL01","doi":"10.1007/3-540-45468-3_95","ee":"https://doi.org/10.1007/3-540-45468-3_95","url":"https://dblp.org/rec/conf/miccai/HatteryCGL01"},
+"url":"URL#7185748"
+},
+{
+"@score":"1",
+"@id":"7185749",
+"info":{"authors":{"author":[{"@pid":"25/4650","text":"Andreas Hein 0001"},{"@pid":"67/1254-4","text":"Martin Klein 0004"},{"@pid":"l/TimLuth","text":"Tim C. Lüth"},{"@pid":"54/664","text":"Jochen Queck"},{"@pid":"49/6361","text":"Malte Stien"},{"@pid":"26/6146","text":"Olaf Schermeier"},{"@pid":"76/5574","text":"Jürgen Bier"}]},"title":"Integration and Clinical Evaluation of an Interactive Controllable Robotic System for Anaplastology.","venue":"MICCAI","pages":"591-598","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HeinKLQSSB01","doi":"10.1007/3-540-45468-3_71","ee":"https://doi.org/10.1007/3-540-45468-3_71","url":"https://dblp.org/rec/conf/miccai/HeinKLQSSB01"},
+"url":"URL#7185749"
+},
+{
+"@score":"1",
+"@id":"7185750",
+"info":{"authors":{"author":[{"@pid":"60/4326","text":"Pierre Hellier"},{"@pid":"46/2222","text":"Christian Barillot"},{"@pid":"50/6567","text":"Isabelle Corouge"},{"@pid":"g/BernardGibaud","text":"Bernard Gibaud"},{"@pid":"17/2818","text":"Georges Le Goualher"},{"@pid":"c/DLouisCollins","text":"D. Louis Collins"},{"@pid":"95/5855","text":"Alan C. Evans"},{"@pid":"18/500","text":"Grégoire Malandain"},{"@pid":"a/NicholasAyache","text":"Nicholas Ayache"}]},"title":"Retrospective Evaluation of Inter-subject Brain Registration.","venue":"MICCAI","pages":"258-265","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HellierBCGGCEMA01","doi":"10.1007/3-540-45468-3_31","ee":"https://doi.org/10.1007/3-540-45468-3_31","url":"https://dblp.org/rec/conf/miccai/HellierBCGGCEMA01"},
+"url":"URL#7185750"
+},
+{
+"@score":"1",
+"@id":"7185751",
+"info":{"authors":{"author":[{"@pid":"156/3478","text":"Marcel B. van Herk"},{"@pid":"57/965","text":"Jan C. de Munck"},{"@pid":"26/4029","text":"M. T. J. G. Groenewegen"},{"@pid":"08/1017","text":"A. R. Peters"},{"@pid":"92/6060","text":"A. Touw"}]},"title":"The Effect of Organ Motion and Image Artifacts on Monomodal Volume Registration.","venue":"MICCAI","pages":"1281-1282","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HerkMGPT01","doi":"10.1007/3-540-45468-3_194","ee":"https://doi.org/10.1007/3-540-45468-3_194","url":"https://dblp.org/rec/conf/miccai/HerkMGPT01"},
+"url":"URL#7185751"
+},
+{
+"@score":"1",
+"@id":"7185752",
+"info":{"authors":{"author":[{"@pid":"97/6977","text":"Mark Holden"},{"@pid":"80/2501","text":"Julia A. Schnabel"},{"@pid":"77/5388","text":"Derek L. G. Hill"}]},"title":"Quantifying Small Changes in Brain Ventricular Volume Using Non-rigid Registration.","venue":"MICCAI","pages":"49-56","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HoldenSH01","doi":"10.1007/3-540-45468-3_7","ee":"https://doi.org/10.1007/3-540-45468-3_7","url":"https://dblp.org/rec/conf/miccai/HoldenSH01"},
+"url":"URL#7185752"
+},
+{
+"@score":"1",
+"@id":"7185753",
+"info":{"authors":{"author":[{"@pid":"124/1997","text":"David R. Holmes III"},{"@pid":"99/3003","text":"Brian J. Davis"},{"@pid":"33/4042","text":"Richard A. Robb"}]},"title":"Trans-urethral Ultrasound: A New Tool for Diagnostic and Therapeutic Imaging in Prostate Cancer.","venue":"MICCAI","pages":"1243-1244","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HolmesDR01","doi":"10.1007/3-540-45468-3_179","ee":"https://doi.org/10.1007/3-540-45468-3_179","url":"https://dblp.org/rec/conf/miccai/HolmesDR01"},
+"url":"URL#7185753"
+},
+{
+"@score":"1",
+"@id":"7185754",
+"info":{"authors":{"author":[{"@pid":"36/2592","text":"Tobias Hüfner"},{"@pid":"97/4658","text":"Musa Citak"},{"@pid":"43/1446","text":"Ségolène M. Tarte"},{"@pid":"50/3582","text":"Jens Geerling"},{"@pid":"39/2402","text":"Tim Pohlemann"},{"@pid":"01/2579","text":"H. Rosenthal"},{"@pid":"29/32","text":"Lutz-Peter Nolte"},{"@pid":"06/625","text":"Christian Krettek"}]},"title":"Independent Registration and Virtual Controlled Reduction of Pelvic Ring Fractures.","venue":"MICCAI","pages":"1107-1113","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HufnerCTGPRNK01","doi":"10.1007/3-540-45468-3_132","ee":"https://doi.org/10.1007/3-540-45468-3_132","url":"https://dblp.org/rec/conf/miccai/HufnerCTGPRNK01"},
+"url":"URL#7185754"
+},
+{
+"@score":"1",
+"@id":"7185755",
+"info":{"authors":{"author":[{"@pid":"46/1907","text":"Roger Hult"},{"@pid":"b/EwertBengtsson","text":"Ewert Bengtsson"}]},"title":"Grey-Level Morphology Based Segmentation of T1-MRI of the Human Cortex.","venue":"MICCAI","pages":"1371-1372","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HultB01","doi":"10.1007/3-540-45468-3_233","ee":"https://doi.org/10.1007/3-540-45468-3_233","url":"https://dblp.org/rec/conf/miccai/HultB01"},
+"url":"URL#7185755"
+},
+{
+"@score":"1",
+"@id":"7185756",
+"info":{"authors":{"author":[{"@pid":"29/6983","text":"Luis Ibáñez"},{"@pid":"72/2967","text":"Chafiaâ Hamitouche"},{"@pid":"50/4313","text":"Martial Boniou"},{"@pid":"00/6463","text":"Christian Roux"}]},"title":"Morphogenesis-Based Deformable Models Application to 3D Medical Image Segmentation and Analysis.","venue":"MICCAI","pages":"1369-1370","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/IbanezHBR01","doi":"10.1007/3-540-45468-3_232","ee":"https://doi.org/10.1007/3-540-45468-3_232","url":"https://dblp.org/rec/conf/miccai/IbanezHBR01"},
+"url":"URL#7185756"
+},
+{
+"@score":"1",
+"@id":"7185757",
+"info":{"authors":{"author":[{"@pid":"93/4846","text":"Celina Imielinska"},{"@pid":"m/DNMetaxas","text":"Dimitris N. Metaxas"},{"@pid":"67/5193","text":"Jayaram K. Udupa"},{"@pid":"92/1822","text":"Yinpeng Jin"},{"@pid":"19/1766-1","text":"Ting Chen 0001"}]},"title":"Hybrid Segmentation of Anatomical Data.","venue":"MICCAI","pages":"1048-1057","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ImielinskaMUJC01","doi":"10.1007/3-540-45468-3_125","ee":"https://doi.org/10.1007/3-540-45468-3_125","url":"https://dblp.org/rec/conf/miccai/ImielinskaMUJC01"},
+"url":"URL#7185757"
+},
+{
+"@score":"1",
+"@id":"7185758",
+"info":{"authors":{"author":[{"@pid":"24/5846","text":"Jean-José Jacq"},{"@pid":"00/6463","text":"Christian Roux"}]},"title":"A Mesh-Based Shape Analysis Framework.","venue":"MICCAI","pages":"1289-1290","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/JacqR01","doi":"10.1007/3-540-45468-3_198","ee":"https://doi.org/10.1007/3-540-45468-3_198","url":"https://dblp.org/rec/conf/miccai/JacqR01"},
+"url":"URL#7185758"
+},
+{
+"@score":"1",
+"@id":"7185759",
+"info":{"authors":{"author":[{"@pid":"19/8488","text":"David A. Jaffray"},{"@pid":"83/2772","text":"Marcel van Herk"},{"@pid":"96/6087","text":"Joos Lebesque"},{"@pid":"92/999","text":"Alvaro Martinez"}]},"title":"Image Guided Radiotherapy of the Prostate.","venue":"MICCAI","pages":"1075-1080","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/JaffrayHLM01","doi":"10.1007/3-540-45468-3_128","ee":"https://doi.org/10.1007/3-540-45468-3_128","url":"https://dblp.org/rec/conf/miccai/JaffrayHLM01"},
+"url":"URL#7185759"
+},
+{
+"@score":"1",
+"@id":"7185760",
+"info":{"authors":{"author":[{"@pid":"52/4728","text":"Pierre Jannin"},{"@pid":"67/1317","text":"Mélanie Raimbault"},{"@pid":"45/5716","text":"Xavier Morandi"},{"@pid":"g/BernardGibaud","text":"Bernard Gibaud"}]},"title":"Modeling Surgical Procedures for Multimodal Image-Guided Neurosurgery.","venue":"MICCAI","pages":"565-572","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/JanninRMG01","doi":"10.1007/3-540-45468-3_68","ee":"https://doi.org/10.1007/3-540-45468-3_68","url":"https://dblp.org/rec/conf/miccai/JanninRMG01"},
+"url":"URL#7185760"
+},
+{
+"@score":"1",
+"@id":"7185761",
+"info":{"authors":{"author":[{"@pid":"52/4070","text":"Sylvain Jaume"},{"@pid":"58/280","text":"Matthieu Ferrant"},{"@pid":"19/1490","text":"Andreas Schreyer"},{"@pid":"52/5351","text":"Lennox Hoyte"},{"@pid":"m/BenoitMMacq","text":"Benoît Macq"},{"@pid":"82/694","text":"Julia Fielding"},{"@pid":"k/RonKikinis","text":"Ron Kikinis"},{"@pid":"68/2602","text":"Simon K. Warfield"}]},"title":"Multiresolution Signal Processing on Meshes for Automatic Pathological Shape Characterization.","venue":"MICCAI","pages":"1398-1400","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/JaumeFSHMFKW01","doi":"10.1007/3-540-45468-3_244","ee":"https://doi.org/10.1007/3-540-45468-3_244","url":"https://dblp.org/rec/conf/miccai/JaumeFSHMFKW01"},
+"url":"URL#7185761"
+},
+{
+"@score":"1",
+"@id":"7185762",
+"info":{"authors":{"author":{"@pid":"j/MPJolly","text":"Marie-Pierre Jolly"}},"title":"Combining Edge, Region, and Shape Information to Segment the Left Ventricle in Cardiac MR Images.","venue":"MICCAI","pages":"482-490","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/Jolly01","doi":"10.1007/3-540-45468-3_58","ee":"https://doi.org/10.1007/3-540-45468-3_58","url":"https://dblp.org/rec/conf/miccai/Jolly01"},
+"url":"URL#7185762"
+},
+{
+"@score":"1",
+"@id":"7185763",
+"info":{"authors":{"author":[{"@pid":"29/1088","text":"Ioannis A. Kakadiaris"},{"@pid":"51/6444","text":"Amol Pednekar"},{"@pid":"14/6794","text":"G. Zouridakis"},{"@pid":"329/9875","text":"Karolos Grigoriadis"}]},"title":"Estimating the Motion of the LAD: A Simulation-Based Study.","venue":"MICCAI","pages":"1328-1331","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KakadiarisPZG01","doi":"10.1007/3-540-45468-3_216","ee":"https://doi.org/10.1007/3-540-45468-3_216","url":"https://dblp.org/rec/conf/miccai/KakadiarisPZG01"},
+"url":"URL#7185763"
+},
+{
+"@score":"1",
+"@id":"7185764",
+"info":{"authors":{"author":[{"@pid":"14/4940","text":"Klaus Kansy"},{"@pid":"08/6529","text":"Arno Schmitgen"},{"@pid":"37/3028","text":"Martin Bublat"},{"@pid":"77/4033","text":"Gernoth Grunst"},{"@pid":"11/4865","text":"Matthias Jungmann"},{"@pid":"81/2511","text":"Peter Wißkirchen"},{"@pid":"85/2102","text":"Michael Moche"},{"@pid":"93/4668","text":"Gero Strauß"},{"@pid":"79/1778","text":"Christos Trantakis"},{"@pid":"47/3136","text":"Thomas Kahn"}]},"title":"A Multimodal Navigation System for Interventional MRI.","venue":"MICCAI","pages":"1157-1158","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KansySBGJWMSTK01","doi":"10.1007/3-540-45468-3_142","ee":"https://doi.org/10.1007/3-540-45468-3_142","url":"https://dblp.org/rec/conf/miccai/KansySBGJWMSTK01"},
+"url":"URL#7185764"
+},
+{
+"@score":"1",
+"@id":"7185765",
+"info":{"authors":{"author":[{"@pid":"03/1309","text":"Grigorios Karangelis"},{"@pid":"72/3695","text":"Stelios Zimeras"},{"@pid":"53/4796","text":"Evelyn Firle"},{"@pid":"181/2695","text":"Min Wang"},{"@pid":"35/199","text":"Georgios Sakas"}]},"title":"Volume Definition Tools for Medical Imaging Applications.","venue":"MICCAI","pages":"1295-1297","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KarangelisZFWS01","doi":"10.1007/3-540-45468-3_201","ee":"https://doi.org/10.1007/3-540-45468-3_201","url":"https://dblp.org/rec/conf/miccai/KarangelisZFWS01"},
+"url":"URL#7185765"
+},
+{
+"@score":"1",
+"@id":"7185766",
+"info":{"authors":{"author":[{"@pid":"57/1551","text":"Hiroyuki Kataoka"},{"@pid":"00/5961","text":"Toshikatsu Washio"},{"@pid":"10/2460","text":"Michel A. Audette"},{"@pid":"18/5058","text":"Kazuyuki Mizuhara"}]},"title":"A Model for Relations between Needle Deflection, Force, and Thickness on Needle Penetration.","venue":"MICCAI","pages":"966-974","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KataokaWAM01","doi":"10.1007/3-540-45468-3_115","ee":"https://doi.org/10.1007/3-540-45468-3_115","url":"https://dblp.org/rec/conf/miccai/KataokaWAM01"},
+"url":"URL#7185766"
+},
+{
+"@score":"1",
+"@id":"7185767",
+"info":{"authors":{"author":[{"@pid":"152/9397","text":"Martin Kauer"},{"@pid":"280/4731","text":"Vladimir Vuskovic"},{"@pid":"166/3686","text":"Jurg Dual"},{"@pid":"41/1233","text":"Gábor Székely"},{"@pid":"86/47","text":"Michael Bajka"}]},"title":"Inverse Finite Element Characterization of Soft Tissues.","venue":"MICCAI","pages":"128-136","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KauerVDSB01","doi":"10.1007/3-540-45468-3_16","ee":"https://doi.org/10.1007/3-540-45468-3_16","url":"https://dblp.org/rec/conf/miccai/KauerVDSB01"},
+"url":"URL#7185767"
+},
+{
+"@score":"1",
+"@id":"7185768",
+"info":{"authors":{"author":[{"@pid":"76/3118","text":"Yoshiki Kawata"},{"@pid":"00/3762","text":"Noboru Niki"},{"@pid":"46/1306","text":"Hironobu Ohmatsu"},{"@pid":"75/3774","text":"Masahiko Kusumoto"},{"@pid":"25/3869","text":"Ryutaro Kakinuma"},{"@pid":"24/4677","text":"Kensaku Mori"},{"@pid":"68/1750","text":"Hiroyuki Nishiyama"},{"@pid":"17/2908","text":"Kenji Eguchi"},{"@pid":"63/4936","text":"Masahiro Kaneko"},{"@pid":"30/3288","text":"Noriyuki Moriyama"}]},"title":"Analysis of Pulmonary Nodule Evolutions Using a Sequence of Three-Dimensional Thoracic CT Images.","venue":"MICCAI","pages":"103-110","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KawataNOKKMNEKM01","doi":"10.1007/3-540-45468-3_13","ee":"https://doi.org/10.1007/3-540-45468-3_13","url":"https://dblp.org/rec/conf/miccai/KawataNOKKMNEKM01"},
+"url":"URL#7185768"
+},
+{
+"@score":"1",
+"@id":"7185769",
+"info":{"authors":{"author":[{"@pid":"76/3118","text":"Yoshiki Kawata"},{"@pid":"00/3762","text":"Noboru Niki"},{"@pid":"46/1306","text":"Hironobu Ohmatsu"},{"@pid":"75/3774","text":"Masahiko Kusumoto"},{"@pid":"25/3869","text":"Ryutaro Kakinuma"},{"@pid":"24/4677","text":"Kensaku Mori"},{"@pid":"68/1750","text":"Hiroyuki Nishiyama"},{"@pid":"17/2908","text":"Kenji Eguchi"},{"@pid":"63/4936","text":"Masahiro Kaneko"},{"@pid":"30/3288","text":"Noriyuki Moriyama"}]},"title":"Computer-Aided Diagnosis of Pulmonary Nodules Using Three-Dimensional Thoracic CT Images.","venue":"MICCAI","pages":"1393-1394","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KawataNOKKMNEKM01a","doi":"10.1007/3-540-45468-3_242","ee":"https://doi.org/10.1007/3-540-45468-3_242","url":"https://dblp.org/rec/conf/miccai/KawataNOKKMNEKM01a"},
+"url":"URL#7185769"
+},
+{
+"@score":"1",
+"@id":"7185770",
+"info":{"authors":{"author":[{"@pid":"86/5971","text":"Erwin Keeve"},{"@pid":"j/ThomasJansen5","text":"Thomas Jansen 0005"},{"@pid":"22/6053","text":"Zdzislaw Król"},{"@pid":"24/3755","text":"Lutz Ritter"},{"@pid":"249/7819","text":"Bartosz von Rymon Lipinski"},{"@pid":"69/4607","text":"Robert Sader"},{"@pid":"36/3710","text":"Hans-Florian Zeilhofer"},{"@pid":"41/4291","text":"Peter Zerfass"}]},"title":"JULIUS - An Extendable Software Framework for Surgical Planning and Image-Guided Navigation.","venue":"MICCAI","pages":"1336-1337","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KeeveJKRRSZZ01","doi":"10.1007/3-540-45468-3_218","ee":"https://doi.org/10.1007/3-540-45468-3_218","url":"https://dblp.org/rec/conf/miccai/KeeveJKRRSZZ01"},
+"url":"URL#7185770"
+},
+{
+"@score":"1",
+"@id":"7185771",
+"info":{"authors":{"author":[{"@pid":"48/6968","text":"Fridun Kerschbaumer"},{"@pid":"53/6154","text":"Jürgen Wahrburg"},{"@pid":"30/646","text":"Stephan Künzler"}]},"title":"A Mechatronic System for the Implantation of the Acetabular Component in Total Hip Alloarthroplasty.","venue":"MICCAI","pages":"1433-1434","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KerschbaumerWK01","doi":"10.1007/3-540-45468-3_257","ee":"https://doi.org/10.1007/3-540-45468-3_257","url":"https://dblp.org/rec/conf/miccai/KerschbaumerWK01"},
+"url":"URL#7185771"
+},
+{
+"@score":"1",
+"@id":"7185772",
+"info":{"authors":{"author":[{"@pid":"18/4381","text":"William S. Kerwin"},{"@pid":"27/5302","text":"Chao Han"},{"@pid":"50/2141","text":"Baocheng Chu"},{"@pid":"30/1922","text":"Dongxiang Xu"},{"@pid":"26/69-11","text":"Ying Luo 0011"},{"@pid":"78/4381","text":"Jenq-Neng Hwang"},{"@pid":"31/998","text":"Thomas S. Hatsukami"},{"@pid":"00/4572","text":"Chun Yuan"}]},"title":"A Quantitative Vascular Analysis System for Evaluation of Atherosclerotic Lesions by MRI.","venue":"MICCAI","pages":"786-794","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KerwinHCXLHHY01","doi":"10.1007/3-540-45468-3_94","ee":"https://doi.org/10.1007/3-540-45468-3_94","url":"https://dblp.org/rec/conf/miccai/KerwinHCXLHHY01"},
+"url":"URL#7185772"
+},
+{
+"@score":"1",
+"@id":"7185773",
+"info":{"authors":{"author":[{"@pid":"84/4929","text":"Marc Kessler"},{"@pid":"91/5460","text":"Janelle Solock"},{"@pid":"43/4775","text":"Paul Archer"},{"@pid":"54/2100","text":"Charles R. Meyer"}]},"title":"Clinical Use of a Mutual Information-Based Automated Image Registration System for Conformal Radiotherapy Treatment Planning.","venue":"MICCAI","pages":"1255-1257","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KesslerSAM01","doi":"10.1007/3-540-45468-3_184","ee":"https://doi.org/10.1007/3-540-45468-3_184","url":"https://dblp.org/rec/conf/miccai/KesslerSAM01"},
+"url":"URL#7185773"
+},
+{
+"@score":"1",
+"@id":"7185774",
+"info":{"authors":{"author":[{"@pid":"15/2962","text":"Rasool Khadem"},{"@pid":"81/6616","text":"Michael R. Bax"},{"@pid":"58/4921","text":"Jeremy A. Johnson"},{"@pid":"73/4464","text":"Eric P. Wilkinson"},{"@pid":"19/4636","text":"Ramin Shahidi"}]},"title":"Endoscope Calibration and Accuracy Testing for 3D/2D Image Registration.","venue":"MICCAI","pages":"1361-1362","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KhademBJWS01","doi":"10.1007/3-540-45468-3_229","ee":"https://doi.org/10.1007/3-540-45468-3_229","url":"https://dblp.org/rec/conf/miccai/KhademBJWS01"},
+"url":"URL#7185774"
+},
+{
+"@score":"1",
+"@id":"7185775",
+"info":{"authors":{"author":[{"@pid":"46/6697","text":"Tae-Young Kim"},{"@pid":"84/3745","text":"Byeong-Seok Shin"},{"@pid":"15/4884","text":"Yeong-Gil Shin"}]},"title":"Anisotropic Volume Rendering Using Intensity Interpolation.","venue":"MICCAI","pages":"1201-1203","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KimSS01","doi":"10.1007/3-540-45468-3_163","ee":"https://doi.org/10.1007/3-540-45468-3_163","url":"https://dblp.org/rec/conf/miccai/KimSS01"},
+"url":"URL#7185775"
+},
+{
+"@score":"1",
+"@id":"7185776",
+"info":{"authors":{"author":[{"@pid":"91/87","text":"Gabriel Kiss"},{"@pid":"68/6850","text":"Johan Van Cleynenbreugel"},{"@pid":"77/1323","text":"Maarten Thomeer"},{"@pid":"97/5888","text":"Paul Suetens"},{"@pid":"56/4072","text":"Guy Marchal"}]},"title":"Computer Aided Diagnosis for Virtual Colonography.","venue":"MICCAI","pages":"621-628","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KissCTSM01","doi":"10.1007/3-540-45468-3_75","ee":"https://doi.org/10.1007/3-540-45468-3_75","url":"https://dblp.org/rec/conf/miccai/KissCTSM01"},
+"url":"URL#7185776"
+},
+{
+"@score":"1",
+"@id":"7185777",
+"info":{"authors":{"author":[{"@pid":"66/5556","text":"Yasuyo Kita"},{"@pid":"17/1186","text":"Eriko Tohno"},{"@pid":"11/597","text":"Ralph Highnam"},{"@pid":"b/MichaelBrady","text":"Michael Brady 0001"}]},"title":"A CAD System for 3D Locating of Lesions in Mammogram.","venue":"MICCAI","pages":"94-102","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KitaTHB01","doi":"10.1007/3-540-45468-3_12","ee":"https://doi.org/10.1007/3-540-45468-3_12","url":"https://dblp.org/rec/conf/miccai/KitaTHB01"},
+"url":"URL#7185777"
+},
+{
+"@score":"1",
+"@id":"7185778",
+"info":{"authors":{"author":[{"@pid":"53/6346","text":"Helmut Kober"},{"@pid":"09/6238","text":"Oliver Ganslandt"},{"@pid":"89/4664","text":"Christopher Nimsky"},{"@pid":"90/2654","text":"Michael Buchfelder"},{"@pid":"23/2167","text":"Rudolf Fahlbusch"}]},"title":"Reconstruction of Subcortical Brain Activity by Spatially Filtered MEG During Epileptic Seizures.","venue":"MICCAI","pages":"1218-1219","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KoberGNBF01","doi":"10.1007/3-540-45468-3_169","ee":"https://doi.org/10.1007/3-540-45468-3_169","url":"https://dblp.org/rec/conf/miccai/KoberGNBF01"},
+"url":"URL#7185778"
+},
+{
+"@score":"1",
+"@id":"7185779",
+"info":{"authors":{"author":[{"@pid":"43/5032","text":"Dan Koppel"},{"@pid":"13/6125","text":"Yuan-Fang Wang"},{"@pid":"14/2052","text":"Hua Lee"}]},"title":"Automated Image Rectification in Video-Endoscopy.","venue":"MICCAI","pages":"1412-1414","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KoppelWL01","doi":"10.1007/3-540-45468-3_249","ee":"https://doi.org/10.1007/3-540-45468-3_249","url":"https://dblp.org/rec/conf/miccai/KoppelWL01"},
+"url":"URL#7185779"
+},
+{
+"@score":"1",
+"@id":"7185780",
+"info":{"authors":{"author":[{"@pid":"98/5394","text":"Alexandre Krupa"},{"@pid":"26/1276","text":"Michel de Mathelin"},{"@pid":"95/2140","text":"Christophe Doignon"},{"@pid":"10/6312","text":"Jacques Gangloff"},{"@pid":"34/3056","text":"Guillaume Morel"},{"@pid":"99/2655","text":"Luc Soler"},{"@pid":"18/1992","text":"Jacques Marescaux"}]},"title":"Development of Semi-autonomous Control Modes in Laparoscopic Surgery Using Automatic Visual Servoing.","venue":"MICCAI","pages":"1306-1307","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KrupaMDGMSM01","doi":"10.1007/3-540-45468-3_206","ee":"https://doi.org/10.1007/3-540-45468-3_206","url":"https://dblp.org/rec/conf/miccai/KrupaMDGMSM01"},
+"url":"URL#7185780"
+},
+{
+"@score":"1",
+"@id":"7185781",
+"info":{"authors":{"author":[{"@pid":"71/1392","text":"Mitsuru Kubo"},{"@pid":"182/1791","text":"Tokunori Yamamoto"},{"@pid":"76/3118","text":"Yoshiki Kawata"},{"@pid":"00/3762","text":"Noboru Niki"},{"@pid":"17/2908","text":"Kenji Eguchi"},{"@pid":"46/1306","text":"Hironobu Ohmatsu"},{"@pid":"25/3869","text":"Ryutaro Kakinuma"},{"@pid":"63/4936","text":"Masahiro Kaneko"},{"@pid":"75/3774","text":"Masahiko Kusumoto"},{"@pid":"30/3288","text":"Noriyuki Moriyama"},{"@pid":"24/4677","text":"Kensaku Mori"},{"@pid":"68/1750","text":"Hiroyuki Nishiyama"}]},"title":"CAD System for the Assistance of Comparative Reading for Lung Cancer Using Serial Helical CT Images.","venue":"MICCAI","pages":"1388-1390","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KuboYKNEOKKKMMN01","doi":"10.1007/3-540-45468-3_240","ee":"https://doi.org/10.1007/3-540-45468-3_240","url":"https://dblp.org/rec/conf/miccai/KuboYKNEOKKKMMN01"},
+"url":"URL#7185781"
+},
+{
+"@score":"1",
+"@id":"7185782",
+"info":{"authors":{"author":[{"@pid":"98/6790","text":"Markus Kukuk"},{"@pid":"69/5469","text":"Bernhard Geiger"},{"@pid":"m/HeinrichMuller","text":"Heinrich Müller"}]},"title":"TBNA-protocols - Guiding Trans Bronchial Needle Aspirations Without a Computer in the Operating Room.","venue":"MICCAI","pages":"997-1006","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KukukGM01","doi":"10.1007/3-540-45468-3_119","ee":"https://doi.org/10.1007/3-540-45468-3_119","url":"https://dblp.org/rec/conf/miccai/KukukGM01"},
+"url":"URL#7185782"
+},
+{
+"@score":"1",
+"@id":"7185783",
+"info":{"authors":{"author":[{"@pid":"172/1447","text":"Rajesh Kumar 0001"},{"@pid":"48/1743","text":"Aaron C. Barnes"},{"@pid":"12/5814","text":"Gregory D. Hager"},{"@pid":"16/5758","text":"Patrick S. Jensen"},{"@pid":"71/2446","text":"Russell H. Taylor"}]},"title":"Applications of Task-Level Augmentation for Cooperative Fine Manipulation Tasks in Surgery.","venue":"MICCAI","pages":"1417-1418","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KumarBHJT01","doi":"10.1007/3-540-45468-3_251","ee":"https://doi.org/10.1007/3-540-45468-3_251","url":"https://dblp.org/rec/conf/miccai/KumarBHJT01"},
+"url":"URL#7185783"
+},
+{
+"@score":"1",
+"@id":"7185784",
+"info":{"authors":{"author":[{"@pid":"49/5017","text":"Manuela Kunz"},{"@pid":"60/4486","text":"Matthias Strauss"},{"@pid":"97/4079","text":"Frank Langlotz"},{"@pid":"53/6865","text":"Georg Deuretzbacher"},{"@pid":"52/2952","text":"Wolfgang Rüther"},{"@pid":"29/32","text":"Lutz-Peter Nolte"}]},"title":"A Non-CT Based Total Knee Arthroplasty System Featuring Complete Soft-Tissue Balancing.","venue":"MICCAI","pages":"409-415","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KunzSLDRN01","doi":"10.1007/3-540-45468-3_49","ee":"https://doi.org/10.1007/3-540-45468-3_49","url":"https://dblp.org/rec/conf/miccai/KunzSLDRN01"},
+"url":"URL#7185784"
+},
+{
+"@score":"1",
+"@id":"7185785",
+"info":{"authors":{"author":[{"@pid":"10/1182-1","text":"Rasmus Larsen 0001"},{"@pid":"45/744","text":"Hrafnkell Eiriksson"},{"@pid":"55/2288","text":"Mikkel B. Stegmann"}]},"title":"Q-MAF Shape Decomposition.","venue":"MICCAI","pages":"837-844","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LarsenES01","doi":"10.1007/3-540-45468-3_100","ee":"https://doi.org/10.1007/3-540-45468-3_100","url":"https://dblp.org/rec/conf/miccai/LarsenES01"},
+"url":"URL#7185785"
+},
+{
+"@score":"1",
+"@id":"7185786",
+"info":{"authors":{"author":[{"@pid":"17/3134","text":"María J. Ledesma-Carbayo"},{"@pid":"49/4050","text":"Jan Kybic"},{"@pid":"30/3245","text":"Manuel Desco"},{"@pid":"71/198","text":"Andrés Santos"},{"@pid":"u/MichaelUnser","text":"Michael Unser"}]},"title":"Cardiac Motion Analysis from Ultrasound Sequences Using Non-rigid Registration.","venue":"MICCAI","pages":"889-896","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/Ledesma-CarbayoKDSU01","doi":"10.1007/3-540-45468-3_106","ee":"https://doi.org/10.1007/3-540-45468-3_106","url":"https://dblp.org/rec/conf/miccai/Ledesma-CarbayoKDSU01"},
+"url":"URL#7185786"
+},
+{
+"@score":"1",
+"@id":"7185787",
+"info":{"authors":{"author":[{"@pid":"91/1425-1","text":"Sangyoon Lee 0001"},{"@pid":"90/5571","text":"Gabor Fichtinger"},{"@pid":"21/6751","text":"Gregory S. Chirikjian"}]},"title":"Novel Algorithms for Robust Registration of Fiducials in CT and MRI.","venue":"MICCAI","pages":"717-724","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LeeFC01","doi":"10.1007/3-540-45468-3_86","ee":"https://doi.org/10.1007/3-540-45468-3_86","url":"https://dblp.org/rec/conf/miccai/LeeFC01"},
+"url":"URL#7185787"
+},
+{
+"@score":"1",
+"@id":"7185788",
+"info":{"authors":{"author":[{"@pid":"l/KoenraadVanLeemput","text":"Koen Van Leemput"},{"@pid":"22/832","text":"Frederik Maes"},{"@pid":"14/1511","text":"Dirk Vandermeulen"},{"@pid":"97/5888","text":"Paul Suetens"}]},"title":"A Statistical Framework for Partial Volume Segmentation.","venue":"MICCAI","pages":"204-212","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LeemputMVS01","doi":"10.1007/3-540-45468-3_25","ee":"https://doi.org/10.1007/3-540-45468-3_25","url":"https://dblp.org/rec/conf/miccai/LeemputMVS01"},
+"url":"URL#7185788"
+},
+{
+"@score":"1",
+"@id":"7185789",
+"info":{"authors":{"author":[{"@pid":"06/3601","text":"Glen Lehmann"},{"@pid":"60/1441","text":"A. Chiu"},{"@pid":"82/3870","text":"David G. Gobbi"},{"@pid":"48/5627","text":"Yves P. Starreveld"},{"@pid":"44/2260","text":"Douglas Boyd"},{"@pid":"94/5321","text":"Maria Drangova"},{"@pid":"p/TerryMPeters","text":"Terry M. Peters"}]},"title":"Towards Dynamic Planning and Guidance of Minimally Invasive Robotic Cardiac Bypass Surgical Procedures.","venue":"MICCAI","pages":"368-375","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LehmannCGSBDP01","doi":"10.1007/3-540-45468-3_44","ee":"https://doi.org/10.1007/3-540-45468-3_44","url":"https://dblp.org/rec/conf/miccai/LehmannCGSBDP01"},
+"url":"URL#7185789"
+},
+{
+"@score":"1",
+"@id":"7185790",
+"info":{"authors":{"author":[{"@pid":"61/4059","text":"Zirui Li"},{"@pid":"61/6021","text":"Chee-Kong Chui"},{"@pid":"16/6533","text":"Yiyu Cai"},{"@pid":"a/JamesHAnderson","text":"James H. Anderson"},{"@pid":"n/WieslawLucjanNowinski","text":"Wieslaw Lucjan Nowinski"}]},"title":"Interactive Catheter Shape Modeling in Interventional Radiology Simulation.","venue":"MICCAI","pages":"457-464","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LiCCAN01","doi":"10.1007/3-540-45468-3_55","ee":"https://doi.org/10.1007/3-540-45468-3_55","url":"https://dblp.org/rec/conf/miccai/LiCCAN01"},
+"url":"URL#7185790"
+},
+{
+"@score":"1",
+"@id":"7185791",
+"info":{"authors":{"author":[{"@pid":"71/3786","text":"Hongen Liao"},{"@pid":"14/5677","text":"Susumu Nakajima"},{"@pid":"66/972","text":"Makoto Iwahara"},{"@pid":"05/3952","text":"Etsuko Kobayashi"},{"@pid":"84/733","text":"Ichiro Sakuma"},{"@pid":"76/3525","text":"Naoki Yahagi"},{"@pid":"77/2914","text":"Takeyoshi Dohi"}]},"title":"Intra-operative Real-Time 3-D Information Display System Based on Integral Videography.","venue":"MICCAI","pages":"392-400","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LiaoNIKSYD01","doi":"10.1007/3-540-45468-3_47","ee":"https://doi.org/10.1007/3-540-45468-3_47","url":"https://dblp.org/rec/conf/miccai/LiaoNIKSYD01"},
+"url":"URL#7185791"
+},
+{
+"@score":"1",
+"@id":"7185792",
+"info":{"authors":{"author":[{"@pid":"91/2563","text":"Marc Liévin"},{"@pid":"93/7034","text":"Nils Hanssen"},{"@pid":"41/4291","text":"Peter Zerfass"},{"@pid":"86/5971","text":"Erwin Keeve"}]},"title":"3D Markov Random Fields and Region Growing for Interactive Segmentation of MR Data.","venue":"MICCAI","pages":"1191-1192","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LievinHZK01","doi":"10.1007/3-540-45468-3_158","ee":"https://doi.org/10.1007/3-540-45468-3_158","url":"https://dblp.org/rec/conf/miccai/LievinHZK01"},
+"url":"URL#7185792"
+},
+{
+"@score":"1",
+"@id":"7185793",
+"info":{"authors":{"author":[{"@pid":"92/2380","text":"Wei-te Lin"},{"@pid":"33/4042","text":"Richard A. Robb"}]},"title":"A Framework for Patient-Specific Physics-Based Simulation and Interactive Visualization of Cardiac Dynamics.","venue":"MICCAI","pages":"1162-1163","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LinR01","doi":"10.1007/3-540-45468-3_144","ee":"https://doi.org/10.1007/3-540-45468-3_144","url":"https://dblp.org/rec/conf/miccai/LinR01"},
+"url":"URL#7185793"
+},
+{
+"@score":"1",
+"@id":"7185794",
+"info":{"authors":{"author":[{"@pid":"86/5602","text":"Marius George Linguraru"},{"@pid":"b/MichaelBrady","text":"Michael Brady 0001"},{"@pid":"78/637","text":"Margaret Yam"}]},"title":"Filtering hint Images for the Detection of Microcalcifications.","venue":"MICCAI","pages":"629-636","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LinguraruBY01","doi":"10.1007/3-540-45468-3_76","ee":"https://doi.org/10.1007/3-540-45468-3_76","url":"https://dblp.org/rec/conf/miccai/LinguraruBY01"},
+"url":"URL#7185794"
+},
+{
+"@score":"1",
+"@id":"7185795",
+"info":{"authors":{"author":[{"@pid":"369/5184-1","text":"Yanxi Liu 0001"},{"@pid":"d/FrankDellaert","text":"Frank Dellaert"},{"@pid":"35/4958","text":"William E. Rothfus"},{"@pid":"95/2279-1","text":"Andrew W. Moore 0001"},{"@pid":"38/247","text":"Jeff G. Schneider"},{"@pid":"k/TakeoKanade","text":"Takeo Kanade"}]},"title":"Classification-Driven Pathological Neuroimage Retrieval Using Statistical Asymmetry Measures.","venue":"MICCAI","pages":"655-665","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LiuDRMSK01","doi":"10.1007/3-540-45468-3_79","ee":"https://doi.org/10.1007/3-540-45468-3_79","url":"https://dblp.org/rec/conf/miccai/LiuDRMSK01"},
+"url":"URL#7185795"
+},
+{
+"@score":"1",
+"@id":"7185796",
+"info":{"authors":{"author":[{"@pid":"90/4953","text":"Alan Liu"},{"@pid":"81/5704","text":"Christoph Kaufmann"},{"@pid":"98/5583","text":"Daigo Tanaka"}]},"title":"An Architecture for Simulating Needle-Based Surgical Procedures.","venue":"MICCAI","pages":"1137-1144","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LiuKT01","doi":"10.1007/3-540-45468-3_136","ee":"https://doi.org/10.1007/3-540-45468-3_136","url":"https://dblp.org/rec/conf/miccai/LiuKT01"},
+"url":"URL#7185796"
+},
+{
+"@score":"1",
+"@id":"7185797",
+"info":{"authors":{"author":[{"@pid":"19/7010","text":"Steven Lobregt"},{"@pid":"71/6128","text":"Ted Vuurberg"},{"@pid":"40/3260","text":"Joost J. Schillings"}]},"title":"Dental Implant Planning in EasyVision.","venue":"MICCAI","pages":"1261-1262","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LobregtVS01","doi":"10.1007/3-540-45468-3_186","ee":"https://doi.org/10.1007/3-540-45468-3_186","url":"https://dblp.org/rec/conf/miccai/LobregtVS01"},
+"url":"URL#7185797"
+},
+{
+"@score":"1",
+"@id":"7185798",
+"info":{"authors":{"author":[{"@pid":"40/1080","text":"Jyrki Lötjönen"},{"@pid":"39/4724","text":"Timo Mäkelä"}]},"title":"Elastic Matching Using a Deformation Sphere.","venue":"MICCAI","pages":"541-548","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LotjonenM01","doi":"10.1007/3-540-45468-3_65","ee":"https://doi.org/10.1007/3-540-45468-3_65","url":"https://dblp.org/rec/conf/miccai/LotjonenM01"},
+"url":"URL#7185798"
+},
+{
+"@score":"1",
+"@id":"7185799",
+"info":{"authors":{"author":[{"@pid":"17/1702","text":"Karen E. Lunn"},{"@pid":"h/AlexanderHartov","text":"Alex Hartov"},{"@pid":"84/5087","text":"Eric W. Hansen"},{"@pid":"92/4156","text":"Hai Sun"},{"@pid":"97/1274","text":"David W. Roberts"},{"@pid":"15/6662","text":"Keith D. Paulsen"}]},"title":"A Quantitative Comparison of Edges in 3D Intraoperative Ultrasound and Preoperative MR Images of the Brain.","venue":"MICCAI","pages":"1081-1090","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LunnHHSRP01","doi":"10.1007/3-540-45468-3_129","ee":"https://doi.org/10.1007/3-540-45468-3_129","url":"https://dblp.org/rec/conf/miccai/LunnHHSRP01"},
+"url":"URL#7185799"
+},
+{
+"@score":"1",
+"@id":"7185800",
+"info":{"authors":{"author":[{"@pid":"06/890","text":"Hui Luo"},{"@pid":"14/2825","text":"Thomas O&apos;Donnell"}]},"title":"A 3D Statistical Shape Model for the Left Ventricle of the Heart.","venue":"MICCAI","pages":"1300-1301","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LuoO01","doi":"10.1007/3-540-45468-3_203","ee":"https://doi.org/10.1007/3-540-45468-3_203","url":"https://dblp.org/rec/conf/miccai/LuoO01"},
+"url":"URL#7185800"
+},
+{
+"@score":"1",
+"@id":"7185801",
+"info":{"authors":{"author":[{"@pid":"45/4592","text":"M. Lyra"},{"@pid":"76/6208","text":"K. Skouroliakou"},{"@pid":"75/5337","text":"C. Georgosopoulos"},{"@pid":"89/775","text":"C. Stefanides"},{"@pid":"59/4875","text":"J. Jordanou"}]},"title":"Single Photon Emission Computed Tomography and 3 Dimensional Quantitative Evaluation in Renal Scintigraphy.","venue":"MICCAI","pages":"1222-1223","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LyraSGSJ01","doi":"10.1007/3-540-45468-3_171","ee":"https://doi.org/10.1007/3-540-45468-3_171","url":"https://dblp.org/rec/conf/miccai/LyraSGSJ01"},
+"url":"URL#7185801"
+},
+{
+"@score":"1",
+"@id":"7185802",
+"info":{"authors":{"author":[{"@pid":"18/6265","text":"Xin Ma"},{"@pid":"50/4839","text":"Zhong Fan"},{"@pid":"61/6021","text":"Chee-Kong Chui"},{"@pid":"16/6533","text":"Yiyu Cai"},{"@pid":"a/JamesHAnderson","text":"James H. Anderson"},{"@pid":"n/WieslawLucjanNowinski","text":"Wieslaw Lucjan Nowinski"}]},"title":"Digital Angioplasty Balloon Inflation Device for Interventional Cardiovascular Procedures.","venue":"MICCAI","pages":"335-342","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/MaFCCAN01","doi":"10.1007/3-540-45468-3_40","ee":"https://doi.org/10.1007/3-540-45468-3_40","url":"https://dblp.org/rec/conf/miccai/MaFCCAN01"},
+"url":"URL#7185802"
+},
+{
+"@score":"1",
+"@id":"7185803",
+"info":{"authors":{"author":[{"@pid":"39/4724","text":"Timo Mäkelä"},{"@pid":"26/4052","text":"Patrick Clarysse"},{"@pid":"40/1080","text":"Jyrki Lötjönen"},{"@pid":"19/3340","text":"Outi Sipilä"},{"@pid":"75/3129","text":"Kirsi Lauerma"},{"@pid":"88/6611","text":"Helena Hänninen"},{"@pid":"01/4675","text":"Esa-Pekka Pyökkimies"},{"@pid":"75/6530","text":"Jukka Nenonen"},{"@pid":"19/6489","text":"Juhani Knuuti"},{"@pid":"40/758","text":"Toivo Katila"},{"@pid":"61/5493","text":"Isabelle E. Magnin"}]},"title":"A New Method for the Registration of Cardiac PET and MR Images Using Deformable Model Based Segmentation of the Main Thorax Structures.","venue":"MICCAI","pages":"557-564","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/MakelaCLSLHPNKKM01","doi":"10.1007/3-540-45468-3_67","ee":"https://doi.org/10.1007/3-540-45468-3_67","url":"https://dblp.org/rec/conf/miccai/MakelaCLSLHPNKKM01"},
+"url":"URL#7185803"
+},
+{
+"@score":"1",
+"@id":"7185804",
+"info":{"authors":{"author":[{"@pid":"59/3314","text":"Jean-François Mangin"},{"@pid":"45/5918","text":"Cyril Poupon"},{"@pid":"127/5630","text":"Chris A. Clark"},{"@pid":"31/1896","text":"Denis Le Bihan"},{"@pid":"33/1668","text":"Isabelle Bloch"}]},"title":"Eddy-Current Distortion Correction and Robust Tensor Estimation for MR Diffusion Imaging.","venue":"MICCAI","pages":"186-194","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ManginPCBB01","doi":"10.1007/3-540-45468-3_23","ee":"https://doi.org/10.1007/3-540-45468-3_23","url":"https://dblp.org/rec/conf/miccai/ManginPCBB01"},
+"url":"URL#7185804"
+},
+{
+"@score":"1",
+"@id":"7185805",
+"info":{"authors":{"author":[{"@pid":"34/2379","text":"Yoshitaka Masutani"},{"@pid":"52/2844","text":"Fumihiko Kimura"}]},"title":"Modally Controlled Free Form Deformation for Non-rigid Registration in Image-Guided Liver Surgery.","venue":"MICCAI","pages":"1275-1278","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/MasutaniK01","doi":"10.1007/3-540-45468-3_192","ee":"https://doi.org/10.1007/3-540-45468-3_192","url":"https://dblp.org/rec/conf/miccai/MasutaniK01"},
+"url":"URL#7185805"
+},
+{
+"@score":"1",
+"@id":"7185806",
+"info":{"authors":{"author":[{"@pid":"69/4935","text":"Julian Mattes"},{"@pid":"51/4039","text":"Johannes Fieres"},{"@pid":"72/5948","text":"Joël Beaudouin"},{"@pid":"22/1641","text":"Daniel Gerlich"},{"@pid":"74/4229","text":"Jan Ellenberg"},{"@pid":"63/1724","text":"Roland Eils"}]},"title":"New Tools for Visualization and Quantification in Dynamic Processes: Application to the Nuclear Envelope Dynamics During Mitosis.","venue":"MICCAI","pages":"1323-1325","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/MattesFBGEE01","doi":"10.1007/3-540-45468-3_214","ee":"https://doi.org/10.1007/3-540-45468-3_214","url":"https://dblp.org/rec/conf/miccai/MattesFBGEE01"},
+"url":"URL#7185806"
+},
+{
+"@score":"1",
+"@id":"7185807",
+"info":{"authors":{"author":[{"@pid":"36/5019","text":"Giuseppe Megali"},{"@pid":"91/6878","text":"Oliver Tonet"},{"@pid":"74/847","text":"Cesare Stefanini"},{"@pid":"28/643","text":"Mauro Boccadoro"},{"@pid":"14/4387","text":"Vassilios Papaspyropoulos"},{"@pid":"82/4770","text":"Licinio Angelini"},{"@pid":"d/PaoloDario","text":"Paolo Dario"}]},"title":"A Computer-Assisted Robotic Ultrasound-Guided Biopsy System for Video-Assisted Surgery.","venue":"MICCAI","pages":"343-350","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/MegaliTSBPAD01","doi":"10.1007/3-540-45468-3_41","ee":"https://doi.org/10.1007/3-540-45468-3_41","url":"https://dblp.org/rec/conf/miccai/MegaliTSBPAD01"},
+"url":"URL#7185807"
+},
+{
+"@score":"1",
+"@id":"7185808",
+"info":{"authors":{"author":[{"@pid":"76/723","text":"Ullrich Meier"},{"@pid":"m/CarlosMonserratAranda","text":"Carlos Monserrat"},{"@pid":"77/4173","text":"Nils-Christian Parr"},{"@pid":"65/5336","text":"Francisco Javier García"},{"@pid":"62/3850","text":"José Antonio Gil 0001"}]},"title":"Real-Time Simulation of Minimally-Invasive Surgery with Cutting Based on Boundary Element Methods.","venue":"MICCAI","pages":"1263-1264","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/MeierMPGG01","doi":"10.1007/3-540-45468-3_187","ee":"https://doi.org/10.1007/3-540-45468-3_187","url":"https://dblp.org/rec/conf/miccai/MeierMPGG01"},
+"url":"URL#7185808"
+},
+{
+"@score":"1",
+"@id":"7185809",
+"info":{"authors":{"author":[{"@pid":"m/ErikHWMeijering","text":"Erik Meijering"},{"@pid":"93/6561","text":"Wiro J. Niessen"},{"@pid":"w/JoachimWeickert","text":"Joachim Weickert"},{"@pid":"77/2011","text":"Max A. Viergever"}]},"title":"Evaluation of Diffusion Techniques for Improved Vessel Visualization and Quantification in Three-Dimensional Rotational Angiography.","venue":"MICCAI","pages":"177-185","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/MeijeringNWV01","doi":"10.1007/3-540-45468-3_22","ee":"https://doi.org/10.1007/3-540-45468-3_22","url":"https://dblp.org/rec/conf/miccai/MeijeringNWV01"},
+"url":"URL#7185809"
+},
+{
+"@score":"1",
+"@id":"7185810",
+"info":{"authors":{"author":[{"@pid":"13/2815","text":"Shinobu Mizuta"},{"@pid":"73/2864","text":"Ken-ichi Kanda"},{"@pid":"16/5164","text":"Tetsuya Matsuda"}]},"title":"Volume Visualization Using Gradient-Based Distance among Voxels.","venue":"MICCAI","pages":"1197-1198","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/MizutaKM01","doi":"10.1007/3-540-45468-3_161","ee":"https://doi.org/10.1007/3-540-45468-3_161","url":"https://dblp.org/rec/conf/miccai/MizutaKM01"},
+"url":"URL#7185810"
+},
+{
+"@score":"1",
+"@id":"7185811",
+"info":{"authors":{"author":[{"@pid":"47/2701","text":"Daniel Mocanu"},{"@pid":"99/3830","text":"Joachim Kettenbach"},{"@pid":"15/4647","text":"Michael O. Sweeney"},{"@pid":"59/5895","text":"Bruce H. KenKnight"},{"@pid":"k/RonKikinis","text":"Ron Kikinis"},{"@pid":"75/2388","text":"Solomon R. Eisenberg"}]},"title":"Patient-Specific Simulation of Internal Defibrillation.","venue":"MICCAI","pages":"983-990","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/MocanuKSKKE01","doi":"10.1007/3-540-45468-3_117","ee":"https://doi.org/10.1007/3-540-45468-3_117","url":"https://dblp.org/rec/conf/miccai/MocanuKSKKE01"},
+"url":"URL#7185811"
+},
+{
+"@score":"1",
+"@id":"7185812",
+"info":{"authors":{"author":[{"@pid":"24/4677","text":"Kensaku Mori"},{"@pid":"00/2175","text":"Daisuke Deguchi"},{"@pid":"148/1578","text":"Jun-ichi Hasegawa"},{"@pid":"21/3937","text":"Yasuhito Suenaga"},{"@pid":"45/5281","text":"Jun-ichiro Toriwaki"},{"@pid":"68/123","text":"Hirotsugu Takabatake"},{"@pid":"27/4394","text":"Hiroshi Natori"}]},"title":"A Method for Tracking the Camera Motion of Real Endoscope by Epipolar Geometry Analysis and Virtual Endoscopy System.","venue":"MICCAI","pages":"1-8","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/MoriDHSTTN01","doi":"10.1007/3-540-45468-3_1","ee":"https://doi.org/10.1007/3-540-45468-3_1","url":"https://dblp.org/rec/conf/miccai/MoriDHSTTN01"},
+"url":"URL#7185812"
+},
+{
+"@score":"1",
+"@id":"7185813",
+"info":{"authors":{"author":[{"@pid":"98/227","text":"Fabien Mourgues"},{"@pid":"10/2822","text":"Frederic Devernay"},{"@pid":"18/500","text":"Grégoire Malandain"},{"@pid":"49/90","text":"Ève Coste-Manière"}]},"title":"3D+t Modeling of Coronary Artery Tree from Standard Non Simultaneous Angiograms.","venue":"MICCAI","pages":"1320-1322","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/MourguesDMC01","doi":"10.1007/3-540-45468-3_213","ee":"https://doi.org/10.1007/3-540-45468-3_213","url":"https://dblp.org/rec/conf/miccai/MourguesDMC01"},
+"url":"URL#7185813"
+},
+{
+"@score":"1",
+"@id":"7185814",
+"info":{"authors":{"author":[{"@pid":"60/910","text":"Seemantini K. Nadkarni"},{"@pid":"87/5089","text":"Gregory R. Mills"},{"@pid":"69/1563","text":"Derek R. Boughner"},{"@pid":"56/5495","text":"Aaron Fenster"}]},"title":"A Pulsating Coronary Vessel Phantom for Two- and Three-Dimensional Intravascular Ultrasound Studies.","venue":"MICCAI","pages":"1164-1165","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/NadkarniMBF01","doi":"10.1007/3-540-45468-3_145","ee":"https://doi.org/10.1007/3-540-45468-3_145","url":"https://dblp.org/rec/conf/miccai/NadkarniMBF01"},
+"url":"URL#7185814"
+},
+{
+"@score":"1",
+"@id":"7185815",
+"info":{"authors":{"author":[{"@pid":"67/4667","text":"Yoshikazu Nakajima"},{"@pid":"41/3206","text":"Toshihiko Sasama"},{"@pid":"13/1795","text":"Yoshinobu Sato"},{"@pid":"41/5966","text":"Takashi Nishii"},{"@pid":"64/5558","text":"Nobuhiko Sugano"},{"@pid":"59/2003","text":"Takashi Ishikawa"},{"@pid":"20/4535","text":"Kazuo Yonenobu"},{"@pid":"81/6065","text":"Takahiro Ochi"},{"@pid":"10/1692","text":"Shinichi Tamura"}]},"title":"Accuracy Validation of Cone-Beam CT Based Registration.","venue":"MICCAI","pages":"1366-1368","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/NakajimaSSNSIYOT01","doi":"10.1007/3-540-45468-3_231","ee":"https://doi.org/10.1007/3-540-45468-3_231","url":"https://dblp.org/rec/conf/miccai/NakajimaSSNSIYOT01"},
+"url":"URL#7185815"
+},
+{
+"@score":"1",
+"@id":"7185816",
+"info":{"authors":{"author":[{"@pid":"28/4281","text":"Ryoichi Nakamura"},{"@pid":"51/4566","text":"Takeshi Oura"},{"@pid":"05/3952","text":"Etsuko Kobayashi"},{"@pid":"84/733","text":"Ichiro Sakuma"},{"@pid":"77/2914","text":"Takeyoshi Dohi"},{"@pid":"76/3525","text":"Naoki Yahagi"},{"@pid":"57/2206","text":"Takayuki Tsuji"},{"@pid":"52/6674","text":"Mitsuo Shimada"},{"@pid":"21/114","text":"Makoto Hashizume"}]},"title":"Multi-DOF Forceps Manipulator System for Laparoscopic Surgery - Mechanism Miniaturized &amp; Evaluation of New Interface.","venue":"MICCAI","pages":"606-613","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/NakamuraOKSDYTSH01","doi":"10.1007/3-540-45468-3_73","ee":"https://doi.org/10.1007/3-540-45468-3_73","url":"https://dblp.org/rec/conf/miccai/NakamuraOKSDYTSH01"},
+"url":"URL#7185816"
+},
+{
+"@score":"1",
+"@id":"7185817",
+"info":{"authors":{"author":[{"@pid":"68/5771","text":"Casper F. Nielsen"},{"@pid":"69/2578","text":"Peter J. Passmore"}]},"title":"Towards a Robust Path Growing Algorithm for Semi-automatic MRI Segmentation.","venue":"MICCAI","pages":"1382-1383","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/NielsenP01","doi":"10.1007/3-540-45468-3_237","ee":"https://doi.org/10.1007/3-540-45468-3_237","url":"https://dblp.org/rec/conf/miccai/NielsenP01"},
+"url":"URL#7185817"
+},
+{
+"@score":"1",
+"@id":"7185818",
+"info":{"authors":{"author":[{"@pid":"06/4651","text":"Han-Wen Nienhuys"},{"@pid":"s/AFvdStappen","text":"A. Frank van der Stappen"}]},"title":"A Surgery Simulation Supporting Cuts and Finite Element Deformation.","venue":"MICCAI","pages":"145-152","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/NienhuysS01","doi":"10.1007/3-540-45468-3_18","ee":"https://doi.org/10.1007/3-540-45468-3_18","url":"https://dblp.org/rec/conf/miccai/NienhuysS01"},
+"url":"URL#7185818"
+},
+{
+"@score":"1",
+"@id":"7185819",
+"info":{"authors":{"author":[{"@pid":"61/773","text":"Atsushi Nishikawa"},{"@pid":"06/6688","text":"Toshinori Hosoi"},{"@pid":"06/350","text":"Kengo Koara"},{"@pid":"20/5105","text":"Daiji Negoro"},{"@pid":"50/1194","text":"Ayae Hikita"},{"@pid":"16/6840","text":"Shuichi Asano"},{"@pid":"00/2621","text":"Fumio Miyazaki"},{"@pid":"07/4827","text":"Mitsugu Sekimoto"},{"@pid":"13/6533","text":"Yasuhiro Miyake"},{"@pid":"20/289","text":"Masayoshi Yasui"},{"@pid":"28/5753","text":"Morito Monden"}]},"title":"Real-Time Visual Tracking of the Surgeon&apos;s Face for Laparoscopic Surgery.","venue":"MICCAI","pages":"9-16","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/NishikawaHKNHAMSMYM01","doi":"10.1007/3-540-45468-3_2","ee":"https://doi.org/10.1007/3-540-45468-3_2","url":"https://dblp.org/rec/conf/miccai/NishikawaHKNHAMSMYM01"},
+"url":"URL#7185819"
+},
+{
+"@score":"1",
+"@id":"7185820",
+"info":{"authors":{"author":[{"@pid":"06/2924","text":"M. Nobler"},{"@pid":"04/6856","text":"S. Yu"},{"@pid":"54/5010","text":"B. Mensh"},{"@pid":"25/10747","text":"Sarah H. Lisanby"},{"@pid":"15/6364","text":"L. Alkalay"},{"@pid":"76/2680","text":"Ronald L. Van Heertum"},{"@pid":"51/3829","text":"E. Heyer"},{"@pid":"70/2923","text":"Harold A. Sackeim"}]},"title":"PET Studies of the Effects of ECT on Cerebral Physiology.","venue":"MICCAI","pages":"1210-1212","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/NoblerYMLAHHS01","doi":"10.1007/3-540-45468-3_166","ee":"https://doi.org/10.1007/3-540-45468-3_166","url":"https://dblp.org/rec/conf/miccai/NoblerYMLAHHS01"},
+"url":"URL#7185820"
+},
+{
+"@score":"1",
+"@id":"7185821",
+"info":{"authors":{"author":[{"@pid":"90/5355","text":"Lauren O&apos;Donnell"},{"@pid":"w/CarlFredrikWestin","text":"Carl-Fredrik Westin"},{"@pid":"g/WEricLGrimson","text":"W. Eric L. Grimson"},{"@pid":"89/524","text":"Juan Ruiz-Alzola"},{"@pid":"64/6045","text":"Martha Elizabeth Shenton"},{"@pid":"k/RonKikinis","text":"Ron Kikinis"}]},"title":"Phase-Based User-Steered Image Segmentation.","venue":"MICCAI","pages":"1022-1030","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ODonnellWGRSK01","doi":"10.1007/3-540-45468-3_122","ee":"https://doi.org/10.1007/3-540-45468-3_122","url":"https://dblp.org/rec/conf/miccai/ODonnellWGRSK01"},
+"url":"URL#7185821"
+},
+{
+"@score":"1",
+"@id":"7185822",
+"info":{"authors":{"author":[{"@pid":"45/2067","text":"Mark P. Ottensmeyer"},{"@pid":"s/JohnKennethSalisburyJr","text":"John Kenneth Salisbury Jr."}]},"title":"In Vivo Data Acquisition Instrument for Solid Organ Mechanical Property Measurement.","venue":"MICCAI","pages":"975-982","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/OttensmeyerS01","doi":"10.1007/3-540-45468-3_116","ee":"https://doi.org/10.1007/3-540-45468-3_116","url":"https://dblp.org/rec/conf/miccai/OttensmeyerS01"},
+"url":"URL#7185822"
+},
+{
+"@score":"1",
+"@id":"7185823",
+"info":{"authors":{"author":[{"@pid":"40/2838","text":"Sébastien Ourselin"},{"@pid":"46/1747","text":"Éric Bardinet"},{"@pid":"88/3435","text":"Didier Dormont"},{"@pid":"18/500","text":"Grégoire Malandain"},{"@pid":"44/2190","text":"Alexis Roche"},{"@pid":"a/NicholasAyache","text":"Nicholas Ayache"},{"@pid":"44/6323","text":"Dominique Tandé"},{"@pid":"68/586","text":"K. Parain"},{"@pid":"45/2207","text":"Jérôme Yelnik"}]},"title":"Fusion of Histological Sections and MR Images: Towards the Construction of an Atlas of the Human Basal Ganglia.","venue":"MICCAI","pages":"743-751","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/OurselinBDMRATPY01","doi":"10.1007/3-540-45468-3_89","ee":"https://doi.org/10.1007/3-540-45468-3_89","url":"https://dblp.org/rec/conf/miccai/OurselinBDMRATPY01"},
+"url":"URL#7185823"
+},
+{
+"@score":"1",
+"@id":"7185824",
+"info":{"authors":{"author":[{"@pid":"15/683","text":"Chahin Pachai"},{"@pid":"56/6330","text":"Yue Min Zhu"},{"@pid":"16/3911","text":"Charles R. G. Guttmann"},{"@pid":"k/RonKikinis","text":"Ron Kikinis"},{"@pid":"94/2864","text":"Ferenc A. Jolesz"},{"@pid":"45/78","text":"Gérard Gimenez"},{"@pid":"71/2634","text":"Jean-Claude Froment"},{"@pid":"01/3987","text":"Christian Confavreux"},{"@pid":"68/2602","text":"Simon K. Warfield"}]},"title":"Unsupervised and Adaptive Segmentation of Multispectral 3D Magnetic Resonance Images of Human Brain: A Generic Approach.","venue":"MICCAI","pages":"1067-1074","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/PachaiZGKJGFCW01","doi":"10.1007/3-540-45468-3_127","ee":"https://doi.org/10.1007/3-540-45468-3_127","url":"https://dblp.org/rec/conf/miccai/PachaiZGKJGFCW01"},
+"url":"URL#7185824"
+},
+{
+"@score":"1",
+"@id":"7185825",
+"info":{"authors":{"author":[{"@pid":"65/6231","text":"Cristiano Paggetti"},{"@pid":"33/2183","text":"Sandra Martelli"},{"@pid":"42/2918","text":"Laura Nofrini"},{"@pid":"56/5946","text":"Paolo Vendruscolo"}]},"title":"Interface Design and Evaluation for CAS Systems.","venue":"MICCAI","pages":"1099-1106","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/PaggettiMNV01","doi":"10.1007/3-540-45468-3_131","ee":"https://doi.org/10.1007/3-540-45468-3_131","url":"https://dblp.org/rec/conf/miccai/PaggettiMNV01"},
+"url":"URL#7185825"
+},
+{
+"@score":"1",
+"@id":"7185826",
+"info":{"authors":{"author":[{"@pid":"04/5810","text":"Abhilash K. Pandya"},{"@pid":"31/3030","text":"Mohamad Siadat"},{"@pid":"72/56","text":"Lucia Zamorano"},{"@pid":"49/4194","text":"Jainxing Gong"},{"@pid":"40/939","text":"Qinghang Li"},{"@pid":"78/6552","text":"James Maida"},{"@pid":"29/1088","text":"Ioannis A. Kakadiaris"}]},"title":"Tracking Methods for Medical Augmented Reality.","venue":"MICCAI","pages":"1404-1405","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/PandyaSZGLMK01","doi":"10.1007/3-540-45468-3_246","ee":"https://doi.org/10.1007/3-540-45468-3_246","url":"https://dblp.org/rec/conf/miccai/PandyaSZGLMK01"},
+"url":"URL#7185826"
+},
+{
+"@score":"1",
+"@id":"7185827",
+"info":{"authors":{"author":[{"@pid":"15/2692","text":"Shinsuk Park"},{"@pid":"19/426","text":"Robert D. Howe"},{"@pid":"80/558","text":"David F. Torchiana"}]},"title":"Virtual Fixtures for Robotic Cardiac Surgery.","venue":"MICCAI","pages":"1419-1420","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ParkHT01","doi":"10.1007/3-540-45468-3_252","ee":"https://doi.org/10.1007/3-540-45468-3_252","url":"https://dblp.org/rec/conf/miccai/ParkHT01"},
+"url":"URL#7185827"
+},
+{
+"@score":"1",
+"@id":"7185828",
+"info":{"authors":{"author":[{"@pid":"94/3768","text":"Alexandru Patriciu"},{"@pid":"76/6845","text":"Stephen B. Solomon"},{"@pid":"74/1701","text":"Louis R. Kavoussi"},{"@pid":"47/4897","text":"Dan Stoianovici"}]},"title":"Robotic Kidney and Spine Percutaneous Procedures Using a New Laser-Based CT Registration Method.","venue":"MICCAI","pages":"249-257","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/PatriciuSKS01","doi":"10.1007/3-540-45468-3_30","ee":"https://doi.org/10.1007/3-540-45468-3_30","url":"https://dblp.org/rec/conf/miccai/PatriciuSKS01"},
+"url":"URL#7185828"
+},
+{
+"@score":"1",
+"@id":"7185829",
+"info":{"authors":{"author":[{"@pid":"49/2675","text":"Graeme P. Penney"},{"@pid":"09/6217","text":"Philip J. Edwards"},{"@pid":"14/4005","text":"Andrew P. King"},{"@pid":"43/2518","text":"Jane M. Blackall"},{"@pid":"00/2233","text":"Philipp G. Batchelor"},{"@pid":"14/2317","text":"David J. Hawkes"}]},"title":"A Stochastic Iterative Closest Point Algorithm (stochastICP).","venue":"MICCAI","pages":"762-769","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/PenneyEKBBH01","doi":"10.1007/3-540-45468-3_91","ee":"https://doi.org/10.1007/3-540-45468-3_91","url":"https://dblp.org/rec/conf/miccai/PenneyEKBBH01"},
+"url":"URL#7185829"
+},
+{
+"@score":"1",
+"@id":"7185830",
+"info":{"authors":{"author":[{"@pid":"92/41","text":"Stephen M. Pizer"},{"@pid":"15/2650","text":"Sarang C. Joshi"},{"@pid":"20/546","text":"P. Thomas Fletcher"},{"@pid":"s/MAStyner","text":"Martin Styner"},{"@pid":"63/2668","text":"Gregg Tracton"},{"@pid":"33/7018","text":"James Z. Chen"}]},"title":"Segmentation of Single-Figure Objects by Deformable M-reps.","venue":"MICCAI","pages":"862-871","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/PizerJFSTC01","doi":"10.1007/3-540-45468-3_103","ee":"https://doi.org/10.1007/3-540-45468-3_103","url":"https://dblp.org/rec/conf/miccai/PizerJFSTC01"},
+"url":"URL#7185830"
+},
+{
+"@score":"1",
+"@id":"7185831",
+"info":{"authors":{"author":[{"@pid":"35/4963","text":"Maja Pokric"},{"@pid":"85/1035","text":"Neil A. Thacker"},{"@pid":"47/1207","text":"Marietta L. J. Scott"},{"@pid":"92/636","text":"Alan Jackson"}]},"title":"The Importance of Partial Voluming in Multi-dimensional Medical Image Segmentation.","venue":"MICCAI","pages":"1293-1294","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/PokricTSJ01","doi":"10.1007/3-540-45468-3_200","ee":"https://doi.org/10.1007/3-540-45468-3_200","url":"https://dblp.org/rec/conf/miccai/PokricTSJ01"},
+"url":"URL#7185831"
+},
+{
+"@score":"1",
+"@id":"7185832",
+"info":{"authors":{"author":[{"@pid":"80/1492","text":"Sylvain Prima"},{"@pid":"a/NicholasAyache","text":"Nicholas Ayache"},{"@pid":"116/2118","text":"Tom Barrick"},{"@pid":"16/2690","text":"Neil Roberts"}]},"title":"Maximum Likelihood Estimation of the Bias Field in MR Brain Images: Investigating Different Modelings of the Imaging Process.","venue":"MICCAI","pages":"811-819","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/PrimaABR01","doi":"10.1007/3-540-45468-3_97","ee":"https://doi.org/10.1007/3-540-45468-3_97","url":"https://dblp.org/rec/conf/miccai/PrimaABR01"},
+"url":"URL#7185832"
+},
+{
+"@score":"1",
+"@id":"7185833",
+"info":{"authors":{"author":[{"@pid":"36/4690","text":"Sharif M. Qatarneh"},{"@pid":"10/419","text":"Simo Hyödynmaa"},{"@pid":"21/3316","text":"Marilyn E. Noz"},{"@pid":"m/GQMaguireJr","text":"Gerald Q. Maguire Jr."},{"@pid":"15/2857","text":"Elissa L. Kramer"},{"@pid":"41/116","text":"Joakim Crafoord"}]},"title":"A Whole Body Atlas Based Segmentation for Delineation of Organs in Radiation Therapy Planning.","venue":"MICCAI","pages":"1168-1169","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/QatarnehHNMKC01","doi":"10.1007/3-540-45468-3_147","ee":"https://doi.org/10.1007/3-540-45468-3_147","url":"https://dblp.org/rec/conf/miccai/QatarnehHNMKC01"},
+"url":"URL#7185833"
+},
+{
+"@score":"1",
+"@id":"7185834",
+"info":{"authors":{"author":[{"@pid":"68/6858","text":"Joseph M. Reinhardt"},{"@pid":"98/2259","text":"Junfeng Guo"},{"@pid":"89/5992","text":"Li Zhang"},{"@pid":"22/5680","text":"D. Bilgen"},{"@pid":"28/756","text":"Shiying Hu"},{"@pid":"88/5252","text":"R. Uppaluri"},{"@pid":"66/1513","text":"Ryan M. Long"},{"@pid":"55/2900","text":"O. I. Saba"},{"@pid":"64/4177","text":"Geoffrey McLennan"},{"@pid":"19/1003","text":"Milan Sonka"},{"@pid":"04/3596","text":"Eric A. Hoffman"}]},"title":"Integrated System for Objective Assessment of Global and Regional Lung Structure.","venue":"MICCAI","pages":"1384-1385","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ReinhardtGZBHULSMSH01","doi":"10.1007/3-540-45468-3_238","ee":"https://doi.org/10.1007/3-540-45468-3_238","url":"https://dblp.org/rec/conf/miccai/ReinhardtGZBHULSMSH01"},
+"url":"URL#7185834"
+},
+{
+"@score":"1",
+"@id":"7185835",
+"info":{"authors":{"author":[{"@pid":"95/6049","text":"Jan Rexilius"},{"@pid":"68/2602","text":"Simon K. Warfield"},{"@pid":"16/3911","text":"Charles R. G. Guttmann"},{"@pid":"61/6846","text":"X. Wei"},{"@pid":"61/3104","text":"R. Benson"},{"@pid":"41/2495","text":"L. Wolfson"},{"@pid":"64/6045","text":"Martha Elizabeth Shenton"},{"@pid":"79/4807","text":"Heinz Handels"},{"@pid":"k/RonKikinis","text":"Ron Kikinis"}]},"title":"A Novel Nonrigid Registration Algorithm and Applications.","venue":"MICCAI","pages":"923-931","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/RexiliusWGWBWSHK01","doi":"10.1007/3-540-45468-3_110","ee":"https://doi.org/10.1007/3-540-45468-3_110","url":"https://dblp.org/rec/conf/miccai/RexiliusWGWBWSHK01"},
+"url":"URL#7185835"
+},
+{
+"@score":"1",
+"@id":"7185836",
+"info":{"authors":{"author":[{"@pid":"30/850","text":"David Rey"},{"@pid":"22/1410","text":"Jonathan Stoeckel"},{"@pid":"18/500","text":"Grégoire Malandain"},{"@pid":"a/NicholasAyache","text":"Nicholas Ayache"}]},"title":"Using SPM to Detect Evolving MS Lesions.","venue":"MICCAI","pages":"1232-1234","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ReySMA01","doi":"10.1007/3-540-45468-3_175","ee":"https://doi.org/10.1007/3-540-45468-3_175","url":"https://dblp.org/rec/conf/miccai/ReySMA01"},
+"url":"URL#7185836"
+},
+{
+"@score":"1",
+"@id":"7185837",
+"info":{"authors":{"author":[{"@pid":"34/3200","text":"Kawal S. Rhode"},{"@pid":"87/6169","text":"Gareth Ennew"},{"@pid":"13/387","text":"Tryphon Lambrou"},{"@pid":"88/4200","text":"Alexander M. Seifalian"},{"@pid":"14/2317","text":"David J. Hawkes"}]},"title":"In-Vitro Validation of a Novel Model-Based Approach to the Measurement of Arterial Blood Flow Waveforms from Dynamic Digital X-ray Images.","venue":"MICCAI","pages":"291-300","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/RhodeELSH01","doi":"10.1007/3-540-45468-3_35","ee":"https://doi.org/10.1007/3-540-45468-3_35","url":"https://dblp.org/rec/conf/miccai/RhodeELSH01"},
+"url":"URL#7185837"
+},
+{
+"@score":"1",
+"@id":"7185838",
+"info":{"authors":{"author":[{"@pid":"12/1803","text":"Claudia E. Rodríguez-Carranza"},{"@pid":"l/MurrayHLoew","text":"Murray H. Loew"}]},"title":"Automatic Detection of Large Misregistrations of Multimodality Medical Images.","venue":"MICCAI","pages":"1174-1175","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/Rodriguez-CarranzaL01","doi":"10.1007/3-540-45468-3_150","ee":"https://doi.org/10.1007/3-540-45468-3_150","url":"https://dblp.org/rec/conf/miccai/Rodriguez-CarranzaL01"},
+"url":"URL#7185838"
+},
+{
+"@score":"1",
+"@id":"7185839",
+"info":{"authors":{"author":[{"@pid":"01/2655","text":"Miguel A. Rodríguez-Florido"},{"@pid":"06/2358","text":"Karl Krissian"},{"@pid":"89/524","text":"Juan Ruiz-Alzola"},{"@pid":"w/CarlFredrikWestin","text":"Carl-Fredrik Westin"}]},"title":"Comparison of Two Restoration Techniques in the Context of 3D Medical Imaging.","venue":"MICCAI","pages":"1031-1039","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/Rodriguez-FloridoKRW01","doi":"10.1007/3-540-45468-3_123","ee":"https://doi.org/10.1007/3-540-45468-3_123","url":"https://dblp.org/rec/conf/miccai/Rodriguez-FloridoKRW01"},
+"url":"URL#7185839"
+},
+{
+"@score":"1",
+"@id":"7185840",
+"info":{"authors":{"author":[{"@pid":"r/TorstenRohlfing","text":"Torsten Rohlfing"},{"@pid":"m/CalvinRMaurer","text":"Calvin R. Maurer Jr."}]},"title":"Intensity-Based Non-rigid Registration Using Adaptive Multilevel Free-Form Deformation with an Incompressibility Constraint.","venue":"MICCAI","pages":"111-119","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/RohlfingM01","doi":"10.1007/3-540-45468-3_14","ee":"https://doi.org/10.1007/3-540-45468-3_14","url":"https://dblp.org/rec/conf/miccai/RohlfingM01"},
+"url":"URL#7185840"
+},
+{
+"@score":"1",
+"@id":"7185841",
+"info":{"authors":{"author":[{"@pid":"21/135","text":"Ofer Ron"},{"@pid":"66/2699","text":"Leo Joskowicz"},{"@pid":"37/1514","text":"Ariel Simkin"},{"@pid":"88/2698","text":"Charles Milgrom"}]},"title":"Computer-Based Periaxial Rotation Measurement for Aligning Fractured Femur Fragments: Method and Preliminary Results.","venue":"MICCAI","pages":"17-23","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/RonJSM01","doi":"10.1007/3-540-45468-3_3","ee":"https://doi.org/10.1007/3-540-45468-3_3","url":"https://dblp.org/rec/conf/miccai/RonJSM01"},
+"url":"URL#7185841"
+},
+{
+"@score":"1",
+"@id":"7185842",
+"info":{"authors":{"author":[{"@pid":"76/353","text":"Michael Rosenthal"},{"@pid":"36/2946","text":"Andrei State"},{"@pid":"04/6337","text":"Joohi Lee"},{"@pid":"60/219","text":"Gentaro Hirota"},{"@pid":"78/3824","text":"Jeremy Ackerman"},{"@pid":"88/1718","text":"Kurtis Keller"},{"@pid":"58/229","text":"Etta D. Pisano"},{"@pid":"06/2818","text":"Michael R. Jiroutek"},{"@pid":"89/5255","text":"Keith E. Muller"},{"@pid":"f/HenryFuchs","text":"Henry Fuchs"}]},"title":"Augmented Reality Guidance for Needle Biopsies: A Randomized, Controlled Trial in Phantoms.","venue":"MICCAI","pages":"240-248","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/RosenthalSLHAKPJMF01","doi":"10.1007/3-540-45468-3_29","ee":"https://doi.org/10.1007/3-540-45468-3_29","url":"https://dblp.org/rec/conf/miccai/RosenthalSLHAKPJMF01"},
+"url":"URL#7185842"
+},
+{
+"@score":"1",
+"@id":"7185843",
+"info":{"authors":{"author":[{"@pid":"76/353","text":"Michael Rosenthal"},{"@pid":"w/SusanWeeks","text":"Susan Weeks"},{"@pid":"a/StephenRAylward","text":"Stephen R. Aylward"},{"@pid":"71/524","text":"Elizabeth Bullitt"},{"@pid":"f/HenryFuchs","text":"Henry Fuchs"}]},"title":"Intraoperative Tracking of Anatomical Structures Using Fluoroscopy and a Vascular Balloon Catheter.","venue":"MICCAI","pages":"1253-1254","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/RosenthalWABF01","doi":"10.1007/3-540-45468-3_183","ee":"https://doi.org/10.1007/3-540-45468-3_183","url":"https://dblp.org/rec/conf/miccai/RosenthalWABF01"},
+"url":"URL#7185843"
+},
+{
+"@score":"1",
+"@id":"7185844",
+"info":{"authors":{"author":[{"@pid":"69/2478","text":"Daniel Rueckert"},{"@pid":"16/4982","text":"Alejandro F. Frangi"},{"@pid":"80/2501","text":"Julia A. Schnabel"}]},"title":"Automatic Construction of 3D Statistical Deformation Models Using Non-rigid Registration.","venue":"MICCAI","pages":"77-84","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/RueckertFS01","doi":"10.1007/3-540-45468-3_10","ee":"https://doi.org/10.1007/3-540-45468-3_10","url":"https://dblp.org/rec/conf/miccai/RueckertFS01"},
+"url":"URL#7185844"
+},
+{
+"@score":"1",
+"@id":"7185845",
+"info":{"authors":{"author":[{"@pid":"355/4113","text":"Jelle P. Ruurda"},{"@pid":"34/4310","text":"Ivo A. M. J. Broeders"},{"@pid":"355/3943","text":"Rogier K. J. Simmermacher"},{"@pid":"355/4171","text":"Inne H. M. Borel Rinkes"},{"@pid":"355/4043","text":"Theo J. M. V. van Vroonhoven"}]},"title":"Feasibility of Laparoscopic Surgery Assisted by a Robotic Telemanipulation System.","venue":"MICCAI","pages":"1304-1305","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/RuurdaBSRV01","doi":"10.1007/3-540-45468-3_205","ee":"https://doi.org/10.1007/3-540-45468-3_205","url":"https://dblp.org/rec/conf/miccai/RuurdaBSRV01"},
+"url":"URL#7185845"
+},
+{
+"@score":"1",
+"@id":"7185846",
+"info":{"authors":{"author":[{"@pid":"84/1447","text":"David Sarrut"},{"@pid":"64/107","text":"Sébastien Clippe"}]},"title":"Geometrical Transformation Approximation for 2D/3D Intensity-Based Registration of Portal Images and CT Scan.","venue":"MICCAI","pages":"532-540","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SarrutC01","doi":"10.1007/3-540-45468-3_64","ee":"https://doi.org/10.1007/3-540-45468-3_64","url":"https://dblp.org/rec/conf/miccai/SarrutC01"},
+"url":"URL#7185846"
+},
+{
+"@score":"1",
+"@id":"7185847",
+"info":{"authors":{"author":[{"@pid":"13/1795","text":"Yoshinobu Sato"},{"@pid":"59/2647","text":"Masaki Miyamoto"},{"@pid":"96/6355","text":"Masahiko Nakamoto"},{"@pid":"67/4667","text":"Yoshikazu Nakajima"},{"@pid":"52/6674","text":"Mitsuo Shimada"},{"@pid":"21/114","text":"Makoto Hashizume"},{"@pid":"10/1692","text":"Shinichi Tamura"}]},"title":"3D Ultrasound Image Acquisition Using a Magneto-optic Hybrid Sensor for Laparoscopic Surgery.","venue":"MICCAI","pages":"1151-1153","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SatoMNNSHT01","doi":"10.1007/3-540-45468-3_140","ee":"https://doi.org/10.1007/3-540-45468-3_140","url":"https://dblp.org/rec/conf/miccai/SatoMNNSHT01"},
+"url":"URL#7185847"
+},
+{
+"@score":"1",
+"@id":"7185848",
+"info":{"authors":{"author":[{"@pid":"13/1795","text":"Yoshinobu Sato"},{"@pid":"88/5389","text":"Katsuyuki Nakanishi"},{"@pid":"35/847","text":"Hisashi Tanaka"},{"@pid":"41/5966","text":"Takashi Nishii"},{"@pid":"64/5558","text":"Nobuhiko Sugano"},{"@pid":"12/2585","text":"Hironobu Nakamura"},{"@pid":"81/6065","text":"Takahiro Ochi"},{"@pid":"10/1692","text":"Shinichi Tamura"}]},"title":"Limits to the Accuracy of 3D Thickness Measurement in Magnetic Resonance Images.","venue":"MICCAI","pages":"803-810","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SatoNTNSNOT01","doi":"10.1007/3-540-45468-3_96","ee":"https://doi.org/10.1007/3-540-45468-3_96","url":"https://dblp.org/rec/conf/miccai/SatoNTNSNOT01"},
+"url":"URL#7185848"
+},
+{
+"@score":"1",
+"@id":"7185849",
+"info":{"authors":{"author":[{"@pid":"74/4859","text":"Frank Sauer"},{"@pid":"38/8280","text":"Ali Khamene"},{"@pid":"43/136","text":"Benedicte Bascle"},{"@pid":"94/3944","text":"Gregory J. Rubino"}]},"title":"A Head-Mounted Display System for Augmented Reality Image Guidance: Towards Clinical Evaluation for iMRI-guided Neurosurgery.","venue":"MICCAI","pages":"707-716","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SauerKBR01","doi":"10.1007/3-540-45468-3_85","ee":"https://doi.org/10.1007/3-540-45468-3_85","url":"https://dblp.org/rec/conf/miccai/SauerKBR01"},
+"url":"URL#7185849"
+},
+{
+"@score":"1",
+"@id":"7185850",
+"info":{"authors":{"author":[{"@pid":"70/1488","text":"Rachael I. Scahill"},{"@pid":"24/4443","text":"William R. Crum"},{"@pid":"03/3546","text":"Nick C. Fox"}]},"title":"Automated Hippocampal Segmentation by Regional Fluid Registration of Serial MRI: Validation and Application in Alzheimer&apos;s Disease.","venue":"MICCAI","pages":"1298-1299","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ScahillCF01","doi":"10.1007/3-540-45468-3_202","ee":"https://doi.org/10.1007/3-540-45468-3_202","url":"https://dblp.org/rec/conf/miccai/ScahillCF01"},
+"url":"URL#7185850"
+},
+{
+"@score":"1",
+"@id":"7185851",
+"info":{"authors":{"author":[{"@pid":"80/2501","text":"Julia A. Schnabel"},{"@pid":"69/2478","text":"Daniel Rueckert"},{"@pid":"30/6361","text":"Marcel Quist"},{"@pid":"43/2518","text":"Jane M. Blackall"},{"@pid":"19/6420","text":"Andy D. Castellano-Smith"},{"@pid":"47/1409","text":"Thomas Hartkens"},{"@pid":"49/2675","text":"Graeme P. Penney"},{"@pid":"31/6519","text":"Walter A. Hall"},{"@pid":"53/1217","text":"Haiying Liu"},{"@pid":"95/768","text":"Charles L. Truwit"},{"@pid":"24/6291","text":"Frans A. Gerritsen"},{"@pid":"77/5388","text":"Derek L. G. Hill"},{"@pid":"14/2317","text":"David J. Hawkes"}]},"title":"A Generic Framework for Non-rigid Registration Based on Non-uniform Multi-level Free-Form Deformations.","venue":"MICCAI","pages":"573-581","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SchnabelRQBCHPHLTGHH01","doi":"10.1007/3-540-45468-3_69","ee":"https://doi.org/10.1007/3-540-45468-3_69","url":"https://dblp.org/rec/conf/miccai/SchnabelRQBCHPHLTGHH01"},
+"url":"URL#7185851"
+},
+{
+"@score":"1",
+"@id":"7185852",
+"info":{"authors":{"author":[{"@pid":"91/5866","text":"Filip Schutyser"},{"@pid":"68/6850","text":"Johan Van Cleynenbreugel"},{"@pid":"97/5888","text":"Paul Suetens"}]},"title":"Validation Methods for Soft Tissue Prediction in Maxillofacial Planning Environments.","venue":"MICCAI","pages":"1258-1260","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SchutyserCS01","doi":"10.1007/3-540-45468-3_185","ee":"https://doi.org/10.1007/3-540-45468-3_185","url":"https://dblp.org/rec/conf/miccai/SchutyserCS01"},
+"url":"URL#7185852"
+},
+{
+"@score":"1",
+"@id":"7185853",
+"info":{"authors":{"author":[{"@pid":"26/6426","text":"Jean-Marc Schwartz"},{"@pid":"20/2870","text":"Ève Langelier"},{"@pid":"14/6472","text":"Christian Moisan"},{"@pid":"54/6770","text":"Denis Laurendeau"}]},"title":"Non-linear Soft Tissue Deformations for the Simulation of Percutaneous Surgeries.","venue":"MICCAI","pages":"1271-1272","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SchwartzLML01","doi":"10.1007/3-540-45468-3_190","ee":"https://doi.org/10.1007/3-540-45468-3_190","url":"https://dblp.org/rec/conf/miccai/SchwartzLML01"},
+"url":"URL#7185853"
+},
+{
+"@score":"1",
+"@id":"7185854",
+"info":{"authors":{"author":[{"@pid":"58/764","text":"Shaun Selha"},{"@pid":"26/2222","text":"Pierre E. Dupont"},{"@pid":"19/426","text":"Robert D. Howe"},{"@pid":"80/558","text":"David F. Torchiana"}]},"title":"Optimal Port Placement in Robot-Assisted Coronary Artery Bypass Grafting.","venue":"MICCAI","pages":"1435-1436","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SelhaDHT01","doi":"10.1007/3-540-45468-3_258","ee":"https://doi.org/10.1007/3-540-45468-3_258","url":"https://dblp.org/rec/conf/miccai/SelhaDHT01"},
+"url":"URL#7185854"
+},
+{
+"@score":"1",
+"@id":"7185855",
+"info":{"authors":{"author":[{"@pid":"74/4875","text":"D. Serby"},{"@pid":"56/4725","text":"Matthias Harders"},{"@pid":"41/1233","text":"Gábor Székely"}]},"title":"A New Approach to Cutting into Finite Element Models.","venue":"MICCAI","pages":"425-433","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SerbyHS01","doi":"10.1007/3-540-45468-3_51","ee":"https://doi.org/10.1007/3-540-45468-3_51","url":"https://dblp.org/rec/conf/miccai/SerbyHS01"},
+"url":"URL#7185855"
+},
+{
+"@score":"1",
+"@id":"7185856",
+"info":{"authors":{"author":[{"@pid":"92/5704","text":"Maxime Sermesant"},{"@pid":"75/6719","text":"Yves Coudière"},{"@pid":"d/HerveDelingette","text":"Hervé Delingette"},{"@pid":"a/NicholasAyache","text":"Nicholas Ayache"},{"@pid":"44/4259","text":"Jean-Antoine Désidéri"}]},"title":"An Electro-mechanical Model of the Heart for Cardiac Image Analysis.","venue":"MICCAI","pages":"224-231","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SermesantCDAD01","doi":"10.1007/3-540-45468-3_27","ee":"https://doi.org/10.1007/3-540-45468-3_27","url":"https://dblp.org/rec/conf/miccai/SermesantCDAD01"},
+"url":"URL#7185856"
+},
+{
+"@score":"1",
+"@id":"7185857",
+"info":{"authors":{"author":[{"@pid":"14/4383","text":"Dinggang Shen"},{"@pid":"91/721","text":"Zhiqiang Lao"},{"@pid":"39/2893","text":"Jianchao Zeng 0002"},{"@pid":"12/6622","text":"Edward Herskovits"},{"@pid":"90/5571","text":"Gabor Fichtinger"},{"@pid":"d/ChristosDavatzikos","text":"Christos Davatzikos"}]},"title":"A Statistical Atlas of Prostate Cancer for Optimal Biopsy.","venue":"MICCAI","pages":"416-424","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ShenLZHFD01","doi":"10.1007/3-540-45468-3_50","ee":"https://doi.org/10.1007/3-540-45468-3_50","url":"https://dblp.org/rec/conf/miccai/ShenLZHFD01"},
+"url":"URL#7185857"
+},
+{
+"@score":"1",
+"@id":"7185858",
+"info":{"authors":{"author":[{"@pid":"57/861","text":"Xuemin Shi"},{"@pid":"24/3508","text":"Yi Guo"},{"@pid":"43/4664","text":"Shogo Fukushima"},{"@pid":"66/5203","text":"Kenshi Suzuki"},{"@pid":"97/4628","text":"Hisashi Uchiyama"},{"@pid":"27/3025","text":"Ichiro Fukumoto"}]},"title":"A New Diagnostic Method for Alzheimer&apos;s Disease Using Pupillary Light Reflex.","venue":"MICCAI","pages":"1310-1211","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ShiGFSUF01","doi":"10.1007/3-540-45468-3_208","ee":"https://doi.org/10.1007/3-540-45468-3_208","url":"https://dblp.org/rec/conf/miccai/ShiGFSUF01"},
+"url":"URL#7185858"
+},
+{
+"@score":"1",
+"@id":"7185859",
+"info":{"authors":{"author":[{"@pid":"93/4462","text":"Cameron A. Shute"},{"@pid":"80/5965","text":"Antony J. Hodgson"}]},"title":"Repeatability and Accuracy of Ankle Centre Location Estimates Using a Biaxial Joint Model.","venue":"MICCAI","pages":"1166-1167","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ShuteH01","doi":"10.1007/3-540-45468-3_146","ee":"https://doi.org/10.1007/3-540-45468-3_146","url":"https://dblp.org/rec/conf/miccai/ShuteH01"},
+"url":"URL#7185859"
+},
+{
+"@score":"1",
+"@id":"7185860",
+"info":{"authors":{"author":[{"@pid":"23/4618","text":"Charlie Sim"},{"@pid":"95/1200","text":"Ming Yeong Teo"},{"@pid":"30/6552","text":"Wan Sing Ng"},{"@pid":"47/3834","text":"Carl Yap"},{"@pid":"47/2599","text":"Yong-Chong Loh"},{"@pid":"04/4062","text":"Tseng-Tsai Yeo"},{"@pid":"57/1771","text":"Shaoping Bai"},{"@pid":"20/7020","text":"Charles Lo"}]},"title":"Hexapod Intervention Planning for a Robotic Skull-Base Surgery System.","venue":"MICCAI","pages":"1314-1315","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SimTNYLYBL01","doi":"10.1007/3-540-45468-3_210","ee":"https://doi.org/10.1007/3-540-45468-3_210","url":"https://dblp.org/rec/conf/miccai/SimTNYLYBL01"},
+"url":"URL#7185860"
+},
+{
+"@score":"1",
+"@id":"7185861",
+"info":{"authors":{"author":[{"@pid":"01/365","text":"A. W. Simonetti"},{"@pid":"92/6461","text":"Ron Wehrens"},{"@pid":"37/5843","text":"Lutgarde M. C. Buydens"}]},"title":"Segmentation of Chemical Shift Images with Mixture Modeling.","venue":"MICCAI","pages":"1187-1188","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SimonettiWB01","doi":"10.1007/3-540-45468-3_156","ee":"https://doi.org/10.1007/3-540-45468-3_156","url":"https://dblp.org/rec/conf/miccai/SimonettiWB01"},
+"url":"URL#7185861"
+},
+{
+"@score":"1",
+"@id":"7185862",
+"info":{"authors":{"author":[{"@pid":"00/6844","text":"Ariela Sofer"},{"@pid":"39/2893","text":"Jianchao Zeng 0002"},{"@pid":"15/4667","text":"Seong Ki Mun"}]},"title":"Optimization in Prostate Cancer Detection.","venue":"MICCAI","pages":"1114-1121","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SoferZM01","doi":"10.1007/3-540-45468-3_133","ee":"https://doi.org/10.1007/3-540-45468-3_133","url":"https://dblp.org/rec/conf/miccai/SoferZM01"},
+"url":"URL#7185862"
+},
+{
+"@score":"1",
+"@id":"7185863",
+"info":{"authors":{"author":[{"@pid":"37/2970","text":"Eduardo Solanas"},{"@pid":"t/JeanPhilippeThiran","text":"Jean-Philippe Thiran"}]},"title":"Exploiting Voxel Correlation for Automated MRI Bias Field Correction by Conditional Entropy Minimization.","venue":"MICCAI","pages":"1220-1221","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SolanasT01","doi":"10.1007/3-540-45468-3_170","ee":"https://doi.org/10.1007/3-540-45468-3_170","url":"https://dblp.org/rec/conf/miccai/SolanasT01"},
+"url":"URL#7185863"
+},
+{
+"@score":"1",
+"@id":"7185864",
+"info":{"authors":{"author":[{"@pid":"91/3259","text":"Luuk J. Spreeuwers"},{"@pid":"66/4471","text":"Marcel Breeuwer"}]},"title":"Automatic Detection of Myocardial Boundaries in MR Cardio Perfusion Images.","venue":"MICCAI","pages":"1228-1231","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SpreeuwersB01","doi":"10.1007/3-540-45468-3_174","ee":"https://doi.org/10.1007/3-540-45468-3_174","url":"https://dblp.org/rec/conf/miccai/SpreeuwersB01"},
+"url":"URL#7185864"
+},
+{
+"@score":"1",
+"@id":"7185865",
+"info":{"authors":{"author":[{"@pid":"64/3431-5","text":"Siddharth Srivastava 0005"},{"@pid":"l/KoenraadVanLeemput","text":"Koen Van Leemput"},{"@pid":"22/832","text":"Frederik Maes"},{"@pid":"14/1511","text":"Dirk Vandermeulen"},{"@pid":"97/5888","text":"Paul Suetens"}]},"title":"Validation of Nonlinear Spatial Filtering to Improve Tissue Segmentation of MR Brain Images.","venue":"MICCAI","pages":"507-515","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SrivastavaLMVS01","doi":"10.1007/3-540-45468-3_61","ee":"https://doi.org/10.1007/3-540-45468-3_61","url":"https://dblp.org/rec/conf/miccai/SrivastavaLMVS01"},
+"url":"URL#7185865"
+},
+{
+"@score":"1",
+"@id":"7185866",
+"info":{"authors":{"author":[{"@pid":"34/6260","text":"David J. Stahl Jr."},{"@pid":"e/NorbertoFEzquerra","text":"Norberto Ezquerra"}]},"title":"Bag-of-Particles Model for Simulating Tissue, Organs, and Flow.","venue":"MICCAI","pages":"1343-1344","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/StahlE01","doi":"10.1007/3-540-45468-3_221","ee":"https://doi.org/10.1007/3-540-45468-3_221","url":"https://dblp.org/rec/conf/miccai/StahlE01"},
+"url":"URL#7185866"
+},
+{
+"@score":"1",
+"@id":"7185867",
+"info":{"authors":{"author":[{"@pid":"37/2992","text":"Stephen Starkie"},{"@pid":"77/6349","text":"Brian L. Davies"}]},"title":"Advances in Active Constraints and Their Application to Minimally Invasive Surgery.","venue":"MICCAI","pages":"1316-1317","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/StarkieD01","doi":"10.1007/3-540-45468-3_211","ee":"https://doi.org/10.1007/3-540-45468-3_211","url":"https://dblp.org/rec/conf/miccai/StarkieD01"},
+"url":"URL#7185867"
+},
+{
+"@score":"1",
+"@id":"7185868",
+"info":{"authors":{"author":[{"@pid":"11/5813","text":"Benjamin Stein"},{"@pid":"06/7591","text":"Dimitri A. Lisin"},{"@pid":"01/1793","text":"Joseph Horowitz"},{"@pid":"r/EMRiseman","text":"Edward M. Riseman"},{"@pid":"18/1289","text":"Gary Whitten"}]},"title":"Statistical and Deformable Model Approaches to the Segmentation of MR Imagery and Volume Estimation of Stroke Lesions.","venue":"MICCAI","pages":"829-836","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SteinLHRW01","doi":"10.1007/3-540-45468-3_99","ee":"https://doi.org/10.1007/3-540-45468-3_99","url":"https://dblp.org/rec/conf/miccai/SteinLHRW01"},
+"url":"URL#7185868"
+},
+{
+"@score":"1",
+"@id":"7185869",
+"info":{"authors":{"author":[{"@pid":"33/2383","text":"George D. Stetten"},{"@pid":"96/2210","text":"Vikram S. Chib"}]},"title":"Magnified Real-Time Tomographic Reflection.","venue":"MICCAI","pages":"683-690","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/StettenC01","doi":"10.1007/3-540-45468-3_82","ee":"https://doi.org/10.1007/3-540-45468-3_82","url":"https://dblp.org/rec/conf/miccai/StettenC01"},
+"url":"URL#7185869"
+},
+{
+"@score":"1",
+"@id":"7185870",
+"info":{"authors":{"author":[{"@pid":"22/1410","text":"Jonathan Stoeckel"},{"@pid":"18/500","text":"Grégoire Malandain"},{"@pid":"65/3909","text":"Octave Migneco"},{"@pid":"15/2039","text":"Pierre Malick Koulibaly"},{"@pid":"97/736","text":"Philippe Robert"},{"@pid":"a/NicholasAyache","text":"Nicholas Ayache"},{"@pid":"52/6710","text":"Jacques Darcourt"}]},"title":"Classification of SPECT Images of Normal Subjects versus Images of Alzheimer&apos;s Disease Patients.","venue":"MICCAI","pages":"666-674","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/StoeckelMMKRAD01","doi":"10.1007/3-540-45468-3_80","ee":"https://doi.org/10.1007/3-540-45468-3_80","url":"https://dblp.org/rec/conf/miccai/StoeckelMMKRAD01"},
+"url":"URL#7185870"
+},
+{
+"@score":"1",
+"@id":"7185871",
+"info":{"authors":{"author":[{"@pid":"60/3879","text":"Colin Studholme"},{"@pid":"06/5025","text":"Valerie Cardenas"},{"@pid":"14/2047","text":"Norbert Schuff"},{"@pid":"82/1463","text":"Howard J. Rosen"},{"@pid":"23/726","text":"Bruce L. Miller"},{"@pid":"62/2949","text":"Michael Weiner 0001"}]},"title":"Detecting Spatially Consistent Structural Differences in Alzheimer&apos;s and Fronto Temporal Dementia Using Deformation Morphometry.","venue":"MICCAI","pages":"41-48","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/StudholmeCSRMW01","doi":"10.1007/3-540-45468-3_6","ee":"https://doi.org/10.1007/3-540-45468-3_6","url":"https://dblp.org/rec/conf/miccai/StudholmeCSRMW01"},
+"url":"URL#7185871"
+},
+{
+"@score":"1",
+"@id":"7185872",
+"info":{"authors":{"author":[{"@pid":"98/3417","text":"Yi Su"},{"@pid":"39/6743","text":"Armando Manduca"},{"@pid":"34/3897","text":"Clifford R. Jack Jr."},{"@pid":"66/2704","text":"E. Brian Welch"},{"@pid":"33/862","text":"Richard L. Ehman"}]},"title":"Full 3D Rigid Body Automatic Motion Correction of MRI Images.","venue":"MICCAI","pages":"1326-1327","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SuMJWE01","doi":"10.1007/3-540-45468-3_215","ee":"https://doi.org/10.1007/3-540-45468-3_215","url":"https://dblp.org/rec/conf/miccai/SuMJWE01"},
+"url":"URL#7185872"
+},
+{
+"@score":"1",
+"@id":"7185873",
+"info":{"authors":{"author":[{"@pid":"00/3299","text":"S. Suprijanto"},{"@pid":"67/3596","text":"Frans Vos"},{"@pid":"57/6950","text":"M. W. Vogel"},{"@pid":"v/AMVossepoel","text":"Albert M. Vossepoel"},{"@pid":"21/6209","text":"Henri A. Vrooman"}]},"title":"Phase Unwrapping for Magnetic Resonance Thermometry.","venue":"MICCAI","pages":"1237-1239","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SuprijantoVVVV01","doi":"10.1007/3-540-45468-3_177","ee":"https://doi.org/10.1007/3-540-45468-3_177","url":"https://dblp.org/rec/conf/miccai/SuprijantoVVVV01"},
+"url":"URL#7185873"
+},
+{
+"@score":"1",
+"@id":"7185874",
+"info":{"authors":{"author":[{"@pid":"82/5289","text":"Kathleen J. M. Surry"},{"@pid":"p/TerryMPeters","text":"Terry M. Peters"}]},"title":"A PVA-C Brain Phantom Derived from a High Quality 3D MR Data Set.","venue":"MICCAI","pages":"1149-1150","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SurryP01","doi":"10.1007/3-540-45468-3_139","ee":"https://doi.org/10.1007/3-540-45468-3_139","url":"https://dblp.org/rec/conf/miccai/SurryP01"},
+"url":"URL#7185874"
+},
+{
+"@score":"1",
+"@id":"7185875",
+"info":{"authors":{"author":[{"@pid":"82/5289","text":"Kathleen J. M. Surry"},{"@pid":"64/2461","text":"Wendy L. Smith"},{"@pid":"87/5089","text":"Gregory R. Mills"},{"@pid":"75/6376","text":"Dónal B. Downey"},{"@pid":"56/5495","text":"Aaron Fenster"}]},"title":"A Mechanical, Three-Dimensional, Ultrasound-Guided Breast Biopsy Apparatus.","venue":"MICCAI","pages":"232-239","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SurrySMDF01","doi":"10.1007/3-540-45468-3_28","ee":"https://doi.org/10.1007/3-540-45468-3_28","url":"https://dblp.org/rec/conf/miccai/SurrySMDF01"},
+"url":"URL#7185875"
+},
+{
+"@score":"1",
+"@id":"7185876",
+"info":{"authors":{"author":[{"@pid":"45/5860","text":"Naoki Suzuki"},{"@pid":"72/980","text":"Asaki Hattori"},{"@pid":"62/741","text":"Shigeyuki Suzuki"},{"@pid":"89/3449","text":"Max P. Baur"},{"@pid":"14/393","text":"Andreas Hirner"},{"@pid":"92/369","text":"Susumu Kobayashi"},{"@pid":"82/150","text":"Yoji Yamazaki"},{"@pid":"38/463","text":"Yoshitaka Adachi"}]},"title":"Real-Time Surgical Simulation with Haptic Sensation as Collaborated Works between Japan and Germany.","venue":"MICCAI","pages":"1015-1021","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SuzukiHSBHKYA01","doi":"10.1007/3-540-45468-3_121","ee":"https://doi.org/10.1007/3-540-45468-3_121","url":"https://dblp.org/rec/conf/miccai/SuzukiHSBHKYA01"},
+"url":"URL#7185876"
+},
+{
+"@score":"1",
+"@id":"7185877",
+"info":{"authors":{"author":[{"@pid":"41/3946","text":"S. Taivalkoski"},{"@pid":"50/1562","text":"Lasse J. Jyrkinen"},{"@pid":"s/OlliSilven","text":"Olli Silvén"}]},"title":"Automated Identification and B-spline Approximation of a Profiling Coil Centerline from Magnetic Resonance Images.","venue":"MICCAI","pages":"1122-1129","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/TaivalkoskiJS01","doi":"10.1007/3-540-45468-3_134","ee":"https://doi.org/10.1007/3-540-45468-3_134","url":"https://dblp.org/rec/conf/miccai/TaivalkoskiJS01"},
+"url":"URL#7185877"
+},
+{
+"@score":"1",
+"@id":"7185878",
+"info":{"authors":{"author":[{"@pid":"98/5583","text":"Daigo Tanaka"},{"@pid":"90/4953","text":"Alan Liu"},{"@pid":"81/5704","text":"Christoph Kaufmann"}]},"title":"The Evaluation of the Color Blending Function for the Texture Generation from Photographs.","venue":"MICCAI","pages":"1199-1200","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/TanakaLK01","doi":"10.1007/3-540-45468-3_162","ee":"https://doi.org/10.1007/3-540-45468-3_162","url":"https://dblp.org/rec/conf/miccai/TanakaLK01"},
+"url":"URL#7185878"
+},
+{
+"@score":"1",
+"@id":"7185879",
+"info":{"authors":{"author":[{"@pid":"30/5335","text":"Peter M. Tate"},{"@pid":"54/5576","text":"Vladimir Lachine"},{"@pid":"26/5892-2","text":"Liqun Fu 0002"},{"@pid":"97/6231","text":"Haniel Croitoru"},{"@pid":"11/6715","text":"Marwan Sati"}]},"title":"Performance and Robustness of Automatic Fluoroscopic Image Calibration in a New Computer Assisted Surgery System.","venue":"MICCAI","pages":"1130-1136","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/TateLFCS01","doi":"10.1007/3-540-45468-3_135","ee":"https://doi.org/10.1007/3-540-45468-3_135","url":"https://dblp.org/rec/conf/miccai/TateLFCS01"},
+"url":"URL#7185879"
+},
+{
+"@score":"1",
+"@id":"7185880",
+"info":{"authors":{"author":[{"@pid":"15/6664","text":"Matthias Teschner"},{"@pid":"19/1283","text":"Sabine Girod"},{"@pid":"41/668","text":"Kevin Montgomery"}]},"title":"Evaluation of Soft-Tissue Model Parameters.","venue":"MICCAI","pages":"1341-1342","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/TeschnerGM01","doi":"10.1007/3-540-45468-3_220","ee":"https://doi.org/10.1007/3-540-45468-3_220","url":"https://dblp.org/rec/conf/miccai/TeschnerGM01"},
+"url":"URL#7185880"
+},
+{
+"@score":"1",
+"@id":"7185881",
+"info":{"authors":{"author":[{"@pid":"01/3653","text":"Anshul Thakral"},{"@pid":"77/531","text":"Jeffrey Wallace"},{"@pid":"18/4922","text":"Damian Tomlin"},{"@pid":"54/300","text":"Nikesh Seth"},{"@pid":"34/5186","text":"Nitish V. Thakor"}]},"title":"Surgical Motion Adaptive Robotic Technology (S.M.A.R.T): Taking the Motion out of Physiological Motion.","venue":"MICCAI","pages":"317-325","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ThakralWTST01","doi":"10.1007/3-540-45468-3_38","ee":"https://doi.org/10.1007/3-540-45468-3_38","url":"https://dblp.org/rec/conf/miccai/ThakralWTST01"},
+"url":"URL#7185881"
+},
+{
+"@score":"1",
+"@id":"7185882",
+"info":{"authors":{"author":[{"@pid":"45/2483","text":"Laurent Thoraval"},{"@pid":"38/3642","text":"Jean-Paul Armspach"},{"@pid":"38/561","text":"Izzie Namer"}]},"title":"Analysis of Brain Functional MRI Time Series Based on Continuous Wavelet Transform and Stimulation-Response Coupling Distance.","venue":"MICCAI","pages":"881-888","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ThoravalAN01","doi":"10.1007/3-540-45468-3_105","ee":"https://doi.org/10.1007/3-540-45468-3_105","url":"https://dblp.org/rec/conf/miccai/ThoravalAN01"},
+"url":"URL#7185882"
+},
+{
+"@score":"1",
+"@id":"7185883",
+"info":{"authors":{"author":[{"@pid":"41/3631","text":"Samson J. Timoner"},{"@pid":"g/WEricLGrimson","text":"W. Eric L. Grimson"},{"@pid":"k/RonKikinis","text":"Ron Kikinis"},{"@pid":"w/WilliamMWellsIII","text":"William M. Wells III"}]},"title":"Fast Linear Elastic Matching Without Landmarks.","venue":"MICCAI","pages":"1358-1360","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/TimonerGKW01","doi":"10.1007/3-540-45468-3_228","ee":"https://doi.org/10.1007/3-540-45468-3_228","url":"https://dblp.org/rec/conf/miccai/TimonerGKW01"},
+"url":"URL#7185883"
+},
+{
+"@score":"1",
+"@id":"7185884",
+"info":{"authors":{"author":[{"@pid":"18/4922","text":"Damian Tomlin"},{"@pid":"77/531","text":"Jeffrey Wallace"},{"@pid":"e/RalphEtienneCummings","text":"Ralph Etienne-Cummings"},{"@pid":"34/5186","text":"Nitish V. Thakor"}]},"title":"Novel Real-Time Tremor Transduction Technique for Microsurgery.","venue":"MICCAI","pages":"376-383","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/TomlinWET01","doi":"10.1007/3-540-45468-3_45","ee":"https://doi.org/10.1007/3-540-45468-3_45","url":"https://dblp.org/rec/conf/miccai/TomlinWET01"},
+"url":"URL#7185884"
+},
+{
+"@score":"1",
+"@id":"7185885",
+"info":{"authors":{"author":[{"@pid":"04/5148","text":"Graham M. Treece"},{"@pid":"35/2976","text":"Richard W. Prager"},{"@pid":"71/932","text":"Andrew H. Gee"},{"@pid":"06/5841","text":"Laurence H. Berman"}]},"title":"Correction of Probe Pressure Artifacts in Freehand 3D Ultrasound.","venue":"MICCAI","pages":"283-290","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/TreecePGB01","doi":"10.1007/3-540-45468-3_34","ee":"https://doi.org/10.1007/3-540-45468-3_34","url":"https://dblp.org/rec/conf/miccai/TreecePGB01"},
+"url":"URL#7185885"
+},
+{
+"@score":"1",
+"@id":"7185886",
+"info":{"authors":{"author":[{"@pid":"83/6630","text":"Jason Trobaugh"},{"@pid":"19/6781","text":"R. Martin Arthur"}]},"title":"Registration of the Spine Using a Physically-Based Image Model for Ultrasound.","venue":"MICCAI","pages":"1176-1177","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/TrobaughA01","doi":"10.1007/3-540-45468-3_151","ee":"https://doi.org/10.1007/3-540-45468-3_151","url":"https://dblp.org/rec/conf/miccai/TrobaughA01"},
+"url":"URL#7185886"
+},
+{
+"@score":"1",
+"@id":"7185887",
+"info":{"authors":{"author":[{"@pid":"11/4289","text":"Roel Truyen"},{"@pid":"16/1735","text":"Thomas Deschamps"},{"@pid":"c/LaurentDCohen","text":"Laurent D. Cohen"}]},"title":"Clinical Evaluation of an Automatic Path Tracker for Virtual Colonoscopy.","venue":"MICCAI","pages":"169-176","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/TruyenDC01","doi":"10.1007/3-540-45468-3_21","ee":"https://doi.org/10.1007/3-540-45468-3_21","url":"https://dblp.org/rec/conf/miccai/TruyenDC01"},
+"url":"URL#7185887"
+},
+{
+"@score":"1",
+"@id":"7185888",
+"info":{"authors":{"author":[{"@pid":"84/6442","text":"Celia Varela"},{"@pid":"09/93","text":"Nico Karssemeijer"},{"@pid":"58/6070","text":"Pablo G. Tahoces"}]},"title":"Classification of Breast Tumors on Digital Mammograms Using Laws&apos; Texture Features.","venue":"MICCAI","pages":"1391-1392","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/VarelaKT01","doi":"10.1007/3-540-45468-3_241","ee":"https://doi.org/10.1007/3-540-45468-3_241","url":"https://dblp.org/rec/conf/miccai/VarelaKT01"},
+"url":"URL#7185888"
+},
+{
+"@score":"1",
+"@id":"7185889",
+"info":{"authors":{"author":[{"@pid":"93/1847","text":"Baba C. Vemuri"},{"@pid":"90/850","text":"Jundong Liu"}]},"title":"Fast Non-rigid Multimodal Image Registration Using Local Frequency Maps.","venue":"MICCAI","pages":"1363-1365","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/VemuriL01","doi":"10.1007/3-540-45468-3_230","ee":"https://doi.org/10.1007/3-540-45468-3_230","url":"https://dblp.org/rec/conf/miccai/VemuriL01"},
+"url":"URL#7185889"
+},
+{
+"@score":"1",
+"@id":"7185890",
+"info":{"authors":{"author":[{"@pid":"57/6950","text":"M. W. Vogel"},{"@pid":"00/3299","text":"S. Suprijanto"},{"@pid":"67/3596","text":"Frans Vos"},{"@pid":"21/6209","text":"Henri A. Vrooman"},{"@pid":"v/AMVossepoel","text":"Albert M. Vossepoel"},{"@pid":"136/3756","text":"Peter M. T. Pattynama"}]},"title":"Towards Motion-Robust Magnetic Resonance Thermometry.","venue":"MICCAI","pages":"401-408","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/VogelSVVVP01","doi":"10.1007/3-540-45468-3_48","ee":"https://doi.org/10.1007/3-540-45468-3_48","url":"https://dblp.org/rec/conf/miccai/VogelSVVVP01"},
+"url":"URL#7185890"
+},
+{
+"@score":"1",
+"@id":"7185891",
+"info":{"authors":{"author":[{"@pid":"83/2096","text":"David Voirin"},{"@pid":"08/2109","text":"Yohan Payan"},{"@pid":"92/3987","text":"Miriam Amavizca"},{"@pid":"71/1079","text":"Antoine Leroy"},{"@pid":"21/5954","text":"Christian Létoublon"},{"@pid":"24/3681","text":"Jocelyne Troccaz"}]},"title":"Computer-Aided Hepatic Tumour Ablation.","venue":"MICCAI","pages":"1145-1146","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/VoirinPALLT01","doi":"10.1007/3-540-45468-3_137","ee":"https://doi.org/10.1007/3-540-45468-3_137","url":"https://dblp.org/rec/conf/miccai/VoirinPALLT01"},
+"url":"URL#7185891"
+},
+{
+"@score":"1",
+"@id":"7185892",
+"info":{"authors":{"author":[{"@pid":"67/3596","text":"Frans Vos"},{"@pid":"76/6725","text":"Iwo Serlie"},{"@pid":"73/2345","text":"Rogier E. van Gelder"},{"@pid":"68/993","text":"Frits H. Post"},{"@pid":"11/4289","text":"Roel Truyen"},{"@pid":"24/6291","text":"Frans A. Gerritsen"},{"@pid":"46/2544","text":"Jaap Stoker"},{"@pid":"v/AMVossepoel","text":"Albert M. Vossepoel"}]},"title":"A New Visualization Method for Virtual Colonoscopy.","venue":"MICCAI","pages":"645-654","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/VosSGPTGSV01","doi":"10.1007/3-540-45468-3_78","ee":"https://doi.org/10.1007/3-540-45468-3_78","url":"https://dblp.org/rec/conf/miccai/VosSGPTGSV01"},
+"url":"URL#7185892"
+},
+{
+"@score":"1",
+"@id":"7185893",
+"info":{"authors":{"author":[{"@pid":"25/2990","text":"Mark P. Wachowiak"},{"@pid":"e/AdelSaidElmaghraby","text":"Adel Said Elmaghraby"}]},"title":"The Continuous Tabu Search as an Optimizer for 2D-to-3D Biomedical Image Registration.","venue":"MICCAI","pages":"1273-1274","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WachowiakE01","doi":"10.1007/3-540-45468-3_191","ee":"https://doi.org/10.1007/3-540-45468-3_191","url":"https://dblp.org/rec/conf/miccai/WachowiakE01"},
+"url":"URL#7185893"
+},
+{
+"@score":"1",
+"@id":"7185894",
+"info":{"authors":{"author":[{"@pid":"77/531","text":"Jeffrey Wallace"},{"@pid":"43/544","text":"Homayoun Mozaffari-Naeini"},{"@pid":"26/4737","text":"Li Pan"},{"@pid":"34/5186","text":"Nitish V. Thakor"}]},"title":"Fuzzy C-means Clustering Analysis to Monitor Tissue Perfusion with Near Infrared Imaging.","venue":"MICCAI","pages":"1213-1214","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WallaceNPT01","doi":"10.1007/3-540-45468-3_167","ee":"https://doi.org/10.1007/3-540-45468-3_167","url":"https://dblp.org/rec/conf/miccai/WallaceNPT01"},
+"url":"URL#7185894"
+},
+{
+"@score":"1",
+"@id":"7185895",
+"info":{"authors":{"author":[{"@pid":"68/2602","text":"Simon K. Warfield"},{"@pid":"95/6049","text":"Jan Rexilius"},{"@pid":"24/2426","text":"Petra S. Huppi"},{"@pid":"17/2561","text":"Terrie E. Inder"},{"@pid":"l/ErikGLearnedMiller","text":"Erik G. Miller"},{"@pid":"w/WilliamMWellsIII","text":"William M. Wells III"},{"@pid":"05/3525","text":"Gary P. Zientara"},{"@pid":"94/2864","text":"Ferenc A. Jolesz"},{"@pid":"k/RonKikinis","text":"Ron Kikinis"}]},"title":"A Binary Entropy Measure to Assess Nonrigid Registration Algorithms.","venue":"MICCAI","pages":"266-274","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WarfieldRHIMWZJK01","doi":"10.1007/3-540-45468-3_32","ee":"https://doi.org/10.1007/3-540-45468-3_32","url":"https://dblp.org/rec/conf/miccai/WarfieldRHIMWZJK01"},
+"url":"URL#7185895"
+},
+{
+"@score":"1",
+"@id":"7185896",
+"info":{"authors":{"author":[{"@pid":"57/5556","text":"Guo-Qing Wei"},{"@pid":"77/1406","text":"Jian Zhong Qian"},{"@pid":"81/6197","text":"Helmuth Schramm"}]},"title":"A Dual Dynamic Programming Approach to the Detection of Spine Boundaries.","venue":"MICCAI","pages":"524-531","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WeiQS01","doi":"10.1007/3-540-45468-3_63","ee":"https://doi.org/10.1007/3-540-45468-3_63","url":"https://dblp.org/rec/conf/miccai/WeiQS01"},
+"url":"URL#7185896"
+},
+{
+"@score":"1",
+"@id":"7185897",
+"info":{"authors":{"author":[{"@pid":"66/2704","text":"E. Brian Welch"},{"@pid":"39/6743","text":"Armando Manduca"}]},"title":"Motion Correction of MRI from Orthogonal k-Space Phase Difference.","venue":"MICCAI","pages":"1318-1319","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WelchM01","doi":"10.1007/3-540-45468-3_212","ee":"https://doi.org/10.1007/3-540-45468-3_212","url":"https://dblp.org/rec/conf/miccai/WelchM01"},
+"url":"URL#7185897"
+},
+{
+"@score":"1",
+"@id":"7185898",
+"info":{"authors":{"author":[{"@pid":"66/2704","text":"E. Brian Welch"},{"@pid":"39/6743","text":"Armando Manduca"},{"@pid":"71/3808","text":"Roger C. Grimm"},{"@pid":"53/2479","text":"Heidi A. Ward"},{"@pid":"34/3897","text":"Clifford R. Jack Jr."}]},"title":"Spherical Navigator Echoes for Full 3-D Rigid Body Motion Measurement in MRI.","venue":"MICCAI","pages":"1235-1236","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WelchMGWJ01","doi":"10.1007/3-540-45468-3_176","ee":"https://doi.org/10.1007/3-540-45468-3_176","url":"https://dblp.org/rec/conf/miccai/WelchMGWJ01"},
+"url":"URL#7185898"
+},
+{
+"@score":"1",
+"@id":"7185899",
+"info":{"authors":{"author":[{"@pid":"41/2798","text":"Jay B. West"},{"@pid":"15/2962","text":"Rasool Khadem"},{"@pid":"42/2186","text":"Shao Chin"},{"@pid":"19/4636","text":"Ramin Shahidi"}]},"title":"A Maximum Likelihood Approach for 2-D to 3-D Registration.","venue":"MICCAI","pages":"1283-1284","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WestKCS01","doi":"10.1007/3-540-45468-3_195","ee":"https://doi.org/10.1007/3-540-45468-3_195","url":"https://dblp.org/rec/conf/miccai/WestKCS01"},
+"url":"URL#7185899"
+},
+{
+"@score":"1",
+"@id":"7185900",
+"info":{"authors":{"author":[{"@pid":"13/2161","text":"Simon Wildermuth"},{"@pid":"32/1949","text":"Cynthia Bruyns"},{"@pid":"41/668","text":"Kevin Montgomery"},{"@pid":"28/5452","text":"Borut Marincek"}]},"title":"Virtual Polypectomy.","venue":"MICCAI","pages":"1347-1348","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WildermuthBMM01","doi":"10.1007/3-540-45468-3_223","ee":"https://doi.org/10.1007/3-540-45468-3_223","url":"https://dblp.org/rec/conf/miccai/WildermuthBMM01"},
+"url":"URL#7185900"
+},
+{
+"@score":"1",
+"@id":"7185901",
+"info":{"authors":{"author":[{"@pid":"13/1224","text":"Michael H. F. Wilkinson"},{"@pid":"w/MAWestenberg","text":"Michel A. Westenberg"}]},"title":"Shape Preserving Filament Enhancement Filtering.","venue":"MICCAI","pages":"770-777","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WilkinsonW01","doi":"10.1007/3-540-45468-3_92","ee":"https://doi.org/10.1007/3-540-45468-3_92","url":"https://dblp.org/rec/conf/miccai/WilkinsonW01"},
+"url":"URL#7185901"
+},
+{
+"@score":"1",
+"@id":"7185902",
+"info":{"authors":{"author":[{"@pid":"29/1827","text":"Nathan Wilson"},{"@pid":"67/960-3","text":"Kenneth Wang 0003"},{"@pid":"35/2701","text":"Robert W. Dutton"},{"@pid":"78/2097","text":"Charles Taylor"}]},"title":"A Software Framework for Creating Patient Specific Geometric Models from Medical Imaging Data for Simulation Based Medical Planning of Vascular Surgery.","venue":"MICCAI","pages":"449-456","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WilsonWDT01","doi":"10.1007/3-540-45468-3_54","ee":"https://doi.org/10.1007/3-540-45468-3_54","url":"https://dblp.org/rec/conf/miccai/WilsonWDT01"},
+"url":"URL#7185902"
+},
+{
+"@score":"1",
+"@id":"7185903",
+"info":{"authors":{"author":[{"@pid":"03/4118","text":"Onno Wink"},{"@pid":"93/6561","text":"Wiro J. Niessen"},{"@pid":"68/2330","text":"Bert Verdonck"},{"@pid":"77/2011","text":"Max A. Viergever"}]},"title":"Vessel Axis Determination Using Wave Front Propagation Analysis.","venue":"MICCAI","pages":"845-853","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WinkNVV01","doi":"10.1007/3-540-45468-3_101","ee":"https://doi.org/10.1007/3-540-45468-3_101","url":"https://dblp.org/rec/conf/miccai/WinkNVV01"},
+"url":"URL#7185903"
+},
+{
+"@score":"1",
+"@id":"7185904",
+"info":{"authors":{"author":[{"@pid":"62/4312","text":"Heinz Wörn"},{"@pid":"56/6753","text":"Harald Hoppe"}]},"title":"Augmented Reality in the Operating Theatre of the Future.","venue":"MICCAI","pages":"1195-1196","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WornH01","doi":"10.1007/3-540-45468-3_160","ee":"https://doi.org/10.1007/3-540-45468-3_160","url":"https://dblp.org/rec/conf/miccai/WornH01"},
+"url":"URL#7185904"
+},
+{
+"@score":"1",
+"@id":"7185905",
+"info":{"authors":{"author":[{"@pid":"67/7453","text":"James J. Xia"},{"@pid":"96/5540","text":"Jaime Gateno"},{"@pid":"28/4929","text":"John Teichgraeber"},{"@pid":"27/503","text":"Andrew Rosen"}]},"title":"Methodology of Precise Skull Model Creation.","venue":"MICCAI","pages":"434-440","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/XiaGTR01","doi":"10.1007/3-540-45468-3_52","ee":"https://doi.org/10.1007/3-540-45468-3_52","url":"https://dblp.org/rec/conf/miccai/XiaGTR01"},
+"url":"URL#7185905"
+},
+{
+"@score":"1",
+"@id":"7185906",
+"info":{"authors":{"author":[{"@pid":"84/5403","text":"Ziv Yaniv"},{"@pid":"66/2699","text":"Leo Joskowicz"}]},"title":"Long Bone Panoramas from Fluoroscopic X-ray Images.","venue":"MICCAI","pages":"1193-1194","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/YanivJ01","doi":"10.1007/3-540-45468-3_159","ee":"https://doi.org/10.1007/3-540-45468-3_159","url":"https://dblp.org/rec/conf/miccai/YanivJ01"},
+"url":"URL#7185906"
+},
+{
+"@score":"1",
+"@id":"7185907",
+"info":{"authors":{"author":[{"@pid":"99/7036","text":"Xujiong Ye"},{"@pid":"n/JAlisonNoble","text":"J. Alison Noble"},{"@pid":"33/367","text":"Jérôme Declerck"}]},"title":"3D Freehand Echocardiography for Automatic Left Ventricle Reconstruction and Analysis Based on Multiple Acoustic Windows.","venue":"MICCAI","pages":"778-785","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/YeND01","doi":"10.1007/3-540-45468-3_93","ee":"https://doi.org/10.1007/3-540-45468-3_93","url":"https://dblp.org/rec/conf/miccai/YeND01"},
+"url":"URL#7185907"
+},
+{
+"@score":"1",
+"@id":"7185908",
+"info":{"authors":{"author":[{"@pid":"57/351","text":"Terry S. Yoo"},{"@pid":"67/526","text":"Kalpathi R. Subramanian"}]},"title":"Implicit Snakes: Active Constrained Implicit Models.","venue":"MICCAI","pages":"1379-1381","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/YooS01","doi":"10.1007/3-540-45468-3_236","ee":"https://doi.org/10.1007/3-540-45468-3_236","url":"https://dblp.org/rec/conf/miccai/YooS01"},
+"url":"URL#7185908"
+},
+{
+"@score":"1",
+"@id":"7185909",
+"info":{"authors":{"author":[{"@pid":"04/2520","text":"Kiyoshi Yoshinaka"},{"@pid":"22/3657","text":"Ryo Sakamoto"},{"@pid":"94/7025","text":"Ken Ikeuchi"}]},"title":"Reduction of Insertion Resistance by Means of Vibration for Catheters and Endoscopes.","venue":"MICCAI","pages":"1312-1313","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/YoshinakaSI01","doi":"10.1007/3-540-45468-3_209","ee":"https://doi.org/10.1007/3-540-45468-3_209","url":"https://dblp.org/rec/conf/miccai/YoshinakaSI01"},
+"url":"URL#7185909"
+},
+{
+"@score":"1",
+"@id":"7185910",
+"info":{"authors":{"author":[{"@pid":"77/221","text":"Stewart Young"},{"@pid":"51/2127","text":"Vladimir Pekar"},{"@pid":"63/4505","text":"Jürgen Weese"}]},"title":"Vessel Segmentation for Visualization of MRA with Blood Pool Contrast Agent.","venue":"MICCAI","pages":"491-498","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/YoungPW01","doi":"10.1007/3-540-45468-3_59","ee":"https://doi.org/10.1007/3-540-45468-3_59","url":"https://dblp.org/rec/conf/miccai/YoungPW01"},
+"url":"URL#7185910"
+},
+{
+"@score":"1",
+"@id":"7185911",
+"info":{"authors":{"author":[{"@pid":"42/294","text":"Stefan Zachow"},{"@pid":"22/1870","text":"Evgeny Gladilin"},{"@pid":"36/3710","text":"Hans-Florian Zeilhofer"},{"@pid":"69/4607","text":"Robert Sader"}]},"title":"Improved 3D Osteotomy Planning in Cranio-maxillofacial Surgery.","venue":"MICCAI","pages":"473-481","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ZachowGZS01","doi":"10.1007/3-540-45468-3_57","ee":"https://doi.org/10.1007/3-540-45468-3_57","url":"https://dblp.org/rec/conf/miccai/ZachowGZS01"},
+"url":"URL#7185911"
+},
+{
+"@score":"1",
+"@id":"7185912",
+"info":{"authors":{"author":[{"@pid":"39/2893","text":"Jianchao Zeng 0002"},{"@pid":"00/6844","text":"Ariela Sofer"},{"@pid":"15/4667","text":"Seong Ki Mun"}]},"title":"Development of a New Image-Guided Prostate Biopsy System.","venue":"MICCAI","pages":"1250-1252","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ZengSM01","doi":"10.1007/3-540-45468-3_182","ee":"https://doi.org/10.1007/3-540-45468-3_182","url":"https://dblp.org/rec/conf/miccai/ZengSM01"},
+"url":"URL#7185912"
+},
+{
+"@score":"1",
+"@id":"7185913",
+"info":{"authors":{"author":[{"@pid":"77/3067-4","text":"Song Zhang 0004"},{"@pid":"74/20","text":"Çagatay Demiralp"},{"@pid":"03/3359","text":"M. DaSilva"},{"@pid":"42/3096","text":"Daniel F. Keefe"},{"@pid":"87/6639","text":"David H. Laidlaw"},{"@pid":"08/6325","text":"Benjamin D. Greenberg"},{"@pid":"08/1752","text":"Peter J. Basser"},{"@pid":"15/4325","text":"Carlo Pierpaoli"},{"@pid":"15/3492","text":"E. A. Chiocca"},{"@pid":"66/5196","text":"Thomas S. Deisboeck"}]},"title":"Toward Application of Virtual Reality to Visualization of DT-MRI Volumes.","venue":"MICCAI","pages":"1406-1408","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ZhangDDKLGBPCD01","doi":"10.1007/3-540-45468-3_247","ee":"https://doi.org/10.1007/3-540-45468-3_247","url":"https://dblp.org/rec/conf/miccai/ZhangDDKLGBPCD01"},
+"url":"URL#7185913"
+},
+{
+"@score":"1",
+"@id":"7185914",
+"info":{"authors":{"author":[{"@pid":"21/368","text":"Aleksandar Zivanovic"},{"@pid":"77/6349","text":"Brian L. Davies"}]},"title":"The Development of a Haptic Robot to Take Blood Samples from the Forearm.","venue":"MICCAI","pages":"614-620","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ZivanovicD01","doi":"10.1007/3-540-45468-3_74","ee":"https://doi.org/10.1007/3-540-45468-3_74","url":"https://dblp.org/rec/conf/miccai/ZivanovicD01"},
+"url":"URL#7185914"
+},
+{
+"@score":"1",
+"@id":"7199706",
+"info":{"authors":{"author":[{"@pid":"93/6561","text":"Wiro J. Niessen"},{"@pid":"77/2011","text":"Max A. Viergever"}]},"title":"Medical Image Computing and Computer-Assisted Intervention - MICCAI 2001, 4th International Conference, Utrecht, The Netherlands, October 14-17, 2001, Proceedings","venue":["MICCAI","Lecture Notes in Computer Science"],"volume":"2208","publisher":"Springer","year":"2001","type":"Editorship","key":"conf/miccai/2001","doi":"10.1007/3-540-45468-3","ee":"https://doi.org/10.1007/3-540-45468-3","url":"https://dblp.org/rec/conf/miccai/2001"},
+"url":"URL#7199706"
+}
+]
+}
+}
+}

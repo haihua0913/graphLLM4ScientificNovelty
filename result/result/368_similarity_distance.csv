@@ -1,0 +1,34 @@
+node1,node2,similarity,distance
+open-domain end-to-end dialogue systems,toxic languages,0.9689,0.2492
+dialogue datasets,open-domain end-to-end dialogue systems,0.0059,1.41
+dialogue datasets,toxic languages,-0.1359,1.5073
+SafeConv,open-domain end-to-end dialogue systems,0.9412,0.3429
+open-domain end-to-end dialogue systems,utterance-level safety labels,0.8453,0.5563
+open-domain end-to-end dialogue systems,unsafe spans,0.9225,0.3936
+open-domain end-to-end dialogue systems,safe alternative responses,0.9759,0.2196
+conversational safety,open-domain end-to-end dialogue systems,0.0896,1.3493
+SafeConv,toxic languages,0.9579,0.29
+toxic languages,utterance-level safety labels,0.777,0.6679
+toxic languages,unsafe spans,0.9136,0.4157
+safe alternative responses,toxic languages,0.9877,0.1572
+conversational safety,toxic languages,-0.1249,1.4999
+SafeConv,dialogue datasets,-0.0379,1.4407
+dialogue datasets,utterance-level safety labels,0.0808,1.3559
+dialogue datasets,unsafe spans,-0.0455,1.446
+dialogue datasets,safe alternative responses,-0.1556,1.5203
+conversational safety,dialogue datasets,0.4871,1.0129
+SafeConv,utterance-level safety labels,0.7669,0.6828
+SafeConv,unsafe spans,0.8632,0.5231
+SafeConv,safe alternative responses,0.9623,0.2745
+SafeConv,conversational safety,0.0186,1.401
+unsafe spans,utterance-level safety labels,0.7587,0.6947
+safe alternative responses,utterance-level safety labels,0.8216,0.5974
+conversational safety,utterance-level safety labels,0.1263,1.3219
+safe alternative responses,unsafe spans,0.9064,0.4327
+conversational safety,unsafe spans,0.0882,1.3504
+conversational safety,safe alternative responses,-0.0336,1.4377
+SafeConv,detoxifying chatbots,-0.3635,1.6514
+detoxifying chatbots,utterance-level safety labels,0.0103,1.4069
+detoxifying chatbots,unsafe spans,0.0397,1.3859
+detoxifying chatbots,safe alternative responses,-0.2177,1.5606
+conversational safety,detoxifying chatbots,-0.1553,1.52

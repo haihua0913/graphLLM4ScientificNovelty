@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+IRLS,sparsity-enforcing regression,0.1484,1.3051
+IRLS,bilevel resolution,-0.1133,1.4921
+IRLS,Lasso,-0.1564,1.5208
+IRLS,group Lasso,-0.1407,1.5104
+IRLS,trace norm regularizations,-0.0101,1.4213
+IRLS,design matrices,-0.0595,1.4557
+bilevel resolution,sparsity-enforcing regression,0.2044,1.2614
+Lasso,sparsity-enforcing regression,0.8271,0.5881
+group Lasso,sparsity-enforcing regression,-0.4303,1.6914
+sparsity-enforcing regression,trace norm regularizations,0.7463,0.7124
+design matrices,sparsity-enforcing regression,-0.3033,1.6145
+Lasso,bilevel resolution,-0.1687,1.5288
+bilevel resolution,group Lasso,-0.2681,1.5926
+bilevel resolution,trace norm regularizations,0.3221,1.1644
+bilevel resolution,design matrices,-0.2398,1.5747
+Lasso,group Lasso,-0.2805,1.6003
+Lasso,trace norm regularizations,0.606,0.8877
+Lasso,design matrices,-0.2056,1.5528
+group Lasso,trace norm regularizations,-0.0266,1.4329
+design matrices,group Lasso,0.9849,0.1735
+design matrices,trace norm regularizations,0.0531,1.3762
+Lasso,convergence speed,-0.3629,1.651
+Lasso,state of the art solvers,-0.3105,1.6189
+convergence speed,group Lasso,0.0436,1.383
+group Lasso,state of the art solvers,0.0003,1.414
+convergence speed,state of the art solvers,0.1507,1.3033

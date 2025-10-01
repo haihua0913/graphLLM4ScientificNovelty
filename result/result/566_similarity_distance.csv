@@ -1,0 +1,11 @@
+node1,node2,similarity,distance
+co-aligned training images,shape prior,-0.5591,1.7659
+appearance prior,shape prior,-0.3018,1.6136
+appearance prior,co-aligned training images,-0.1914,1.5436
+Eikonal partial differential equation,appearance prior,-0.2063,1.5533
+Eikonal partial differential equation,gray level marginals,-0.1193,1.4962
+Eikonal partial differential equation,discrete Gaussians,0.0002,1.4141
+discrete Gaussians,gray level marginals,-0.0209,1.4289
+Eikonal partial differential equation,Expectation-Maximization,0.8649,0.5198
+Expectation-Maximization,gray level marginals,-0.4672,1.713
+Expectation-Maximization,discrete Gaussians,-0.1024,1.4849

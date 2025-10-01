@@ -1,0 +1,344 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/psb/psb2005.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"84.16"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"52",
+"@dc":"52",
+"@oc":"52",
+"@id":"48916849",
+"text":":facetid:toc:db/conf/psb/psb2005.bht"
+}
+},
+"hits":{
+"@total":"52",
+"@computed":"52",
+"@sent":"52",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"6736144",
+"info":{"authors":{"author":[{"@pid":"47/2081","text":"Russ B. Altman"},{"@pid":"53/20","text":"A. Keith Dunker"},{"@pid":"h/LawrenceHunter","text":"Lawrence Hunter"},{"@pid":"k/TeriEKlein","text":"Teri E. Klein"}]},"title":"Preface.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/AltmanDHK05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/preface.pdf","url":"https://dblp.org/rec/conf/psb/AltmanDHK05"},
+"url":"URL#6736144"
+},
+{
+"@score":"1",
+"@id":"6736145",
+"info":{"authors":{"author":[{"@pid":"76/6503","text":"Thomas S. Anantharaman"},{"@pid":"99/1723","text":"Venkatesh Mysore"},{"@pid":"m/BhubaneswarMishra","text":"Bud Mishra"}]},"title":"Fast and Cheap Genome Wide Haplotype Construction via Optical Mapping.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/AnantharamanMM05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/anantharaman.pdf","url":"https://dblp.org/rec/conf/psb/AnantharamanMM05"},
+"url":"URL#6736145"
+},
+{
+"@score":"1",
+"@id":"6736146",
+"info":{"authors":{"author":[{"@pid":"76/64","text":"Patricia C. Babbitt"},{"@pid":"b/PhilipEBourne","text":"Philip E. Bourne"},{"@pid":"03/1985","text":"Sean D. Mooney"}]},"title":"Introduction to Informatics Approaches in Structural Genomics: Modeling and Representation of Function from Macromolecular STructure.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BabbittBM05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/intro-sg.pdf","url":"https://dblp.org/rec/conf/psb/BabbittBM05"},
+"url":"URL#6736146"
+},
+{
+"@score":"1",
+"@id":"6736147",
+"info":{"authors":{"author":[{"@pid":"35/6382","text":"Liviu Badea"},{"@pid":"51/3724","text":"Doina Tilivea"}]},"title":"Sparse Factorizations of Gene Expression Guided by Binding Data.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BadeaT05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/badea.pdf","url":"https://dblp.org/rec/conf/psb/BadeaT05"},
+"url":"URL#6736147"
+},
+{
+"@score":"1",
+"@id":"6736148",
+"info":{"authors":{"author":[{"@pid":"78/5866","text":"Sean Bechhofer"},{"@pid":"s/RobertStevens","text":"Robert D. Stevens 0001"},{"@pid":"19/6031","text":"Phillip W. Lord"}]},"title":"Ontology Driven Dynamic Linking of Biology Resources.","venue":"Pacific Symposium on Biocomputing","pages":"93-103","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BechhoferSL05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/bechhofer.pdf","url":"https://dblp.org/rec/conf/psb/BechhoferSL05"},
+"url":"URL#6736148"
+},
+{
+"@score":"1",
+"@id":"6736149",
+"info":{"authors":{"author":[{"@pid":"80/54","text":"Allister Bernard"},{"@pid":"64/1983","text":"Alexander J. Hartemink"}]},"title":"Informative Structure Priors: Joint Learning of Dynamic Regulatory Networks from Multiple Types of Data.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BernardH05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/bernard.pdf","url":"https://dblp.org/rec/conf/psb/BernardH05"},
+"url":"URL#6736149"
+},
+{
+"@score":"1",
+"@id":"6736150",
+"info":{"authors":{"author":[{"@pid":"49/2018","text":"Tijl De Bie"},{"@pid":"92/6824","text":"Patrick Monsieurs"},{"@pid":"42/3568","text":"Kristof Engelen"},{"@pid":"66/3559","text":"Bart De Moor"},{"@pid":"11/4380","text":"Nello Cristianini"},{"@pid":"35/3087","text":"Kathleen Marchal"}]},"title":"Discovering Transcriptional Modules from Motif, Chip-Chip and Microarray Data.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BieMEMCM05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/debie.pdf","url":"https://dblp.org/rec/conf/psb/BieMEMCM05"},
+"url":"URL#6736150"
+},
+{
+"@score":"1",
+"@id":"6736151",
+"info":{"authors":{"author":[{"@pid":"29/3051","text":"Olivier Bodenreider"},{"@pid":"63/2674","text":"Marc Aubry"},{"@pid":"10/1039","text":"Anita Burgun"}]},"title":"Non-Lexical Approaches to Identifying Associative Relations in the Gene Ontology.","venue":"Pacific Symposium on Biocomputing","pages":"104-115","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BodenreiderAB05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/bodenreider.pdf","url":"https://dblp.org/rec/conf/psb/BodenreiderAB05"},
+"url":"URL#6736151"
+},
+{
+"@score":"1",
+"@id":"6736152",
+"info":{"authors":{"author":[{"@pid":"29/3051","text":"Olivier Bodenreider"},{"@pid":"29/371","text":"Joyce A. Mitchell"},{"@pid":"50/4639","text":"Alexa T. McCray"}]},"title":"Session Introduction: Biomedical Ontologies.","venue":"Pacific Symposium on Biocomputing","pages":"89-92","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BodenreiderMM05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/intro-ontologies.pdf","url":"https://dblp.org/rec/conf/psb/BodenreiderMM05"},
+"url":"URL#6736152"
+},
+{
+"@score":"1",
+"@id":"6736153",
+"info":{"authors":{"author":[{"@pid":"83/5181","text":"Duncan P. Brown"},{"@pid":"03/3969","text":"Nandini Krishnamurthy"},{"@pid":"57/2225","text":"Joseph M. Dale"},{"@pid":"58/2655","text":"Wayne Christopher"},{"@pid":"12/2226","text":"Kimmen Sjölander"}]},"title":"Subfamily HMMS in Functional Genomics.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BrownKDCS05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/brown.pdf","url":"https://dblp.org/rec/conf/psb/BrownKDCS05"},
+"url":"URL#6736153"
+},
+{
+"@score":"1",
+"@id":"6736154",
+"info":{"authors":{"author":[{"@pid":"94/11037","text":"Michael N. Cantor"},{"@pid":"46/2509","text":"Indra Neil Sarkar"},{"@pid":"29/3051","text":"Olivier Bodenreider"},{"@pid":"45/1590","text":"Yves A. Lussier"}]},"title":"GenesTrace: Phenomic Knowledge Discovery via Structured Terminology.","venue":"Pacific Symposium on Biocomputing","pages":"116-127","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/CantorSBL05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/cantor.pdf","url":"https://dblp.org/rec/conf/psb/CantorSBL05"},
+"url":"URL#6736154"
+},
+{
+"@score":"1",
+"@id":"6736155",
+"info":{"authors":{"author":[{"@pid":"27/2509","text":"Brian Y. Chen"},{"@pid":"66/4938","text":"Viacheslav Fofanov"},{"@pid":"72/5476","text":"David M. Kristensen"},{"@pid":"25/6470","text":"Marek Kimmel"},{"@pid":"38/5190","text":"Olivier Lichtarge"},{"@pid":"k/LydiaEKavraki","text":"Lydia E. Kavraki"}]},"title":"Algorithms for Structural Comparison and Statistical Analysis of 3D Protein Motifs.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ChenFKKLK05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/chen-b.pdf","url":"https://dblp.org/rec/conf/psb/ChenFKKLK05"},
+"url":"URL#6736155"
+},
+{
+"@score":"1",
+"@id":"6736156",
+"info":{"authors":{"author":[{"@pid":"87/1254","text":"Yu Chen"},{"@pid":"09/3493","text":"Dong Xu"}]},"title":"Genome-Scale Protein Function Prediction in Yeast Saccharomyces cerevisiae Through Integrating Multiple Sources of High-Throughput Data.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ChenX05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/chen-yu.pdf","url":"https://dblp.org/rec/conf/psb/ChenX05"},
+"url":"URL#6736156"
+},
+{
+"@score":"1",
+"@id":"6736157",
+"info":{"authors":{"author":[{"@pid":"41/4853","text":"Matthew W. Dimmic"},{"@pid":"05/2391","text":"Shamil R. Sunyaev"},{"@pid":"115/7438","text":"Carlos D. Bustamante"}]},"title":"Session Introduction: Inferring SNP Function Using Evolutionary, Structural and Computational Methods.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/DimmicSB05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/intro-snp.pdf","url":"https://dblp.org/rec/conf/psb/DimmicSB05"},
+"url":"URL#6736157"
+},
+{
+"@score":"1",
+"@id":"6736158",
+"info":{"authors":{"author":[{"@pid":"80/2440","text":"Sorin Draghici"},{"@pid":"57/2196","text":"Purvesh Khatri"},{"@pid":"23/5885","text":"Yanhong Liu"},{"@pid":"79/5094","text":"Kitty J. Chase"},{"@pid":"58/5441","text":"Elizabeth A. Bode"},{"@pid":"35/5608","text":"David A. Kulesh"},{"@pid":"36/5305","text":"Leonard P. Wasieloski"},{"@pid":"19/4611","text":"David A. Norwood"},{"@pid":"04/6654","text":"Jaques Reifman"}]},"title":"Identification of Genomic Signatures for the Design of Assays for the Detection and Monitoring of Anthrax Threats.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/DraghiciKLCBKWNR05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/draghici.pdf","url":"https://dblp.org/rec/conf/psb/DraghiciKLCBKWNR05"},
+"url":"URL#6736158"
+},
+{
+"@score":"1",
+"@id":"6736159",
+"info":{"authors":{"author":[{"@pid":"08/4436","text":"Thomas E. Ferrin"},{"@pid":"93/6107","text":"Conrad C. Huang"},{"@pid":"66/932","text":"Daniel M. Greenblatt"},{"@pid":"49/4783","text":"Doug Stryke"},{"@pid":"23/3988","text":"Kathleen M. Giacomini"},{"@pid":"00/102","text":"John H. Morris"}]},"title":"Enhancing Data Sharing in Collaborative Research Projects with DASH.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/FerrinHGSGM05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/ferrin.pdf","url":"https://dblp.org/rec/conf/psb/FerrinHGSGM05"},
+"url":"URL#6736159"
+},
+{
+"@score":"1",
+"@id":"6736160",
+"info":{"authors":{"author":[{"@pid":"15/1159","text":"Brendan J. Frey"},{"@pid":"m/QuaidMorris","text":"Quaid Morris"},{"@pid":"43/2368","text":"Wen Zhang"},{"@pid":"36/350","text":"Naveed Mohammad"},{"@pid":"20/27","text":"Timothy R. Hughes"}]},"title":"GenRate: A Generative Model That Finds and Scores New Genes and Exons in Genomic Microarray Data.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/FreyMZMH05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/frey.pdf","url":"https://dblp.org/rec/conf/psb/FreyMZMH05"},
+"url":"URL#6736160"
+},
+{
+"@score":"1",
+"@id":"6736161",
+"info":{"authors":{"author":[{"@pid":"24/1038","text":"John H. Gennari"},{"@pid":"48/3406","text":"Adam Silberfein"},{"@pid":"89/394","text":"Jesse C. Wiley"}]},"title":"Integrating Genomic Knowledge Sources Through an Anatomy Ontology.","venue":"Pacific Symposium on Biocomputing","pages":"128-139","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GennariSW05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/gennari.pdf","url":"https://dblp.org/rec/conf/psb/GennariSW05"},
+"url":"URL#6736161"
+},
+{
+"@score":"1",
+"@id":"6736162",
+"info":{"authors":{"author":[{"@pid":"13/1116","text":"Jiang Gui"},{"@pid":"47/4887","text":"Hongzhe Li"}]},"title":"Threshold Gradient Descent Method for Censored Data Regression with Applications in Pharmacogenomics.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GuiL05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/gui.pdf","url":"https://dblp.org/rec/conf/psb/GuiL05"},
+"url":"URL#6736162"
+},
+{
+"@score":"1",
+"@id":"6736163",
+"info":{"authors":{"author":[{"@pid":"64/1983","text":"Alexander J. Hartemink"},{"@pid":"51/3042","text":"Eran Segal"}]},"title":"Session Introduction: Joint Learning from Multiple Types of Genomic Data.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HarteminkS05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/intro-jl.pdf","url":"https://dblp.org/rec/conf/psb/HarteminkS05"},
+"url":"URL#6736163"
+},
+{
+"@score":"1",
+"@id":"6736164",
+"info":{"authors":{"author":[{"@pid":"18/528","text":"Boris Hayete"},{"@pid":"39/1406","text":"Jadwiga R. Bienkowska"}]},"title":"GOTrees: Predicting GO Associations from Protein Domain Composition Using Decision Trees.","venue":"Pacific Symposium on Biocomputing","pages":"140-151","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HayeteB05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/hayete.pdf","url":"https://dblp.org/rec/conf/psb/HayeteB05"},
+"url":"URL#6736164"
+},
+{
+"@score":"1",
+"@id":"6736165",
+"info":{"authors":{"author":[{"@pid":"27/1181","text":"Mark Hoffman"},{"@pid":"23/1859","text":"C. Arnoldi"},{"@pid":"12/138","text":"I. Chuang"}]},"title":"The Clinical Bioinformatics Ontology: A Curated Semantic Network Utilizing RefSeq Information.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HoffmanAC05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/hoffman.pdf","url":"https://dblp.org/rec/conf/psb/HoffmanAC05"},
+"url":"URL#6736165"
+},
+{
+"@score":"1",
+"@id":"6736166",
+"info":{"authors":{"author":[{"@pid":"80/263","text":"Rachel Karchin"},{"@pid":"75/518","text":"Libusha Kelly"},{"@pid":"59/1163","text":"Andrej Sali"}]},"title":"Improving Functional Annotation of Non-Synonomous SNPs with Information Theory.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KarchinKS05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/karchin.pdf","url":"https://dblp.org/rec/conf/psb/KarchinKS05"},
+"url":"URL#6736166"
+},
+{
+"@score":"1",
+"@id":"6736167",
+"info":{"authors":{"author":[{"@pid":"50/3449","text":"Yan Karklin"},{"@pid":"71/4803","text":"Richard F. Meraz"},{"@pid":"63/6735","text":"Stephen R. Holbrook"}]},"title":"Classification of Non-Coding RNA Using Graph Representations of Secondary Structure.","venue":"Pacific Symposium on Biocomputing","pages":"5-16","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KarklinMH05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/karklin.pdf","url":"https://dblp.org/rec/conf/psb/KarklinMH05"},
+"url":"URL#6736167"
+},
+{
+"@score":"1",
+"@id":"6736168",
+"info":{"authors":{"author":[{"@pid":"21/2762","text":"Andrew Leaver-Fay"},{"@pid":"43/4842","text":"Brian Kuhlman"},{"@pid":"s/JackSnoeyink","text":"Jack Snoeyink"}]},"title":"An Adaptive Dynamic Programming Algorithm for the Side Chain Placement Problem.","venue":"Pacific Symposium on Biocomputing","pages":"17-28","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Leaver-FayKS05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/leaver-fay.pdf","url":"https://dblp.org/rec/conf/psb/Leaver-FayKS05"},
+"url":"URL#6736168"
+},
+{
+"@score":"1",
+"@id":"6736169",
+"info":{"authors":{"author":[{"@pid":"40/1491","text":"Xiang Li"},{"@pid":"51/239","text":"Jie Liang"}]},"title":"Computational Design of Combinatorial Peptide Library for Modulating Protein-Protein Interactions.","venue":"Pacific Symposium on Biocomputing","pages":"29-41","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/LiL05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/li.pdf","url":"https://dblp.org/rec/conf/psb/LiL05"},
+"url":"URL#6736169"
+},
+{
+"@score":"1",
+"@id":"6736170",
+"info":{"authors":{"author":[{"@pid":"66/6604","text":"Zhiyong Lu"},{"@pid":"h/LawrenceHunter","text":"Lawrence Hunter"}]},"title":"GO Molecular Function Terms Are Predictive of Subcellular Localization.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/LuH05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/lu.pdf","url":"https://dblp.org/rec/conf/psb/LuH05"},
+"url":"URL#6736170"
+},
+{
+"@score":"1",
+"@id":"6736171",
+"info":{"authors":{"author":[{"@pid":"85/424","text":"Yuko Makita"},{"@pid":"92/6757","text":"Michiel J. L. de Hoon"},{"@pid":"66/6822","text":"Naotake Ogasawara"},{"@pid":"73/2912","text":"Satoru Miyano"},{"@pid":"38/6619","text":"Kenta Nakai"}]},"title":"Bayesian Joint Prediction of Associated Transcription Factors in Bacillus subtilis.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MakitaHOMN05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/makita.pdf","url":"https://dblp.org/rec/conf/psb/MakitaHOMN05"},
+"url":"URL#6736171"
+},
+{
+"@score":"1",
+"@id":"6736172",
+"info":{"authors":{"author":[{"@pid":"43/5462","text":"Byron Marshall"},{"@pid":"72/6282","text":"Hua Su"},{"@pid":"63/6498","text":"Daniel McDonald"},{"@pid":"c/HsinchunChen","text":"Hsinchun Chen"}]},"title":"Linking Ontological Resources Using Aggregatable Substance Identifiers to Organize Extracted Relations.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MarshallSMC05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/marshall.pdf","url":"https://dblp.org/rec/conf/psb/MarshallSMC05"},
+"url":"URL#6736172"
+},
+{
+"@score":"1",
+"@id":"6736173",
+"info":{"authors":{"author":[{"@pid":"n/MinhNgocNguyen2","text":"Minh Ngoc Nguyen 0002"},{"@pid":"91/665","text":"Jagath C. Rajapakse"}]},"title":"Two-Stage Multi-Class Support Vector Machines to Protein Secondary Structure Prediction.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/NguyenR05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/nguyen.pdf","url":"https://dblp.org/rec/conf/psb/NguyenR05"},
+"url":"URL#6736173"
+},
+{
+"@score":"1",
+"@id":"6736174",
+"info":{"authors":{"author":[{"@pid":"42/3890","text":"Philip V. Ogren"},{"@pid":"c/KBretonnelCohen","text":"K. Bretonnel Cohen"},{"@pid":"h/LawrenceHunter","text":"Lawrence Hunter"}]},"title":"Implications of Compositionality in the Gene Ontology for Its Curation and Usage .","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/OgrenCH05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/ogren.pdf","url":"https://dblp.org/rec/conf/psb/OgrenCH05"},
+"url":"URL#6736174"
+},
+{
+"@score":"1",
+"@id":"6736175",
+"info":{"authors":{"author":[{"@pid":"39/5046","text":"Sandra E. Orchard"},{"@pid":"10/2574","text":"Luisa Montecchi-Palazzi"},{"@pid":"71/4115","text":"Henning Hermjakob"},{"@pid":"87/4317","text":"Rolf Apweiler"}]},"title":"The Use of Common Ontologies and Controlled Vocabularies to Enable Data Exchange and Deposition for Complex Proteomic Experiments.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/OrchardMHA05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/orchard.pdf","url":"https://dblp.org/rec/conf/psb/OrchardMHA05"},
+"url":"URL#6736175"
+},
+{
+"@score":"1",
+"@id":"6736176",
+"info":{"authors":{"author":[{"@pid":"15/3865","text":"Jean Peccoud"},{"@pid":"03/2241","text":"Kent Vander Velden"}]},"title":"Parameterization of a Nonlinear Genotype to Phenotype Map Using Molecular Networks.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PeccoudV05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/peccoud.pdf","url":"https://dblp.org/rec/conf/psb/PeccoudV05"},
+"url":"URL#6736176"
+},
+{
+"@score":"1",
+"@id":"6736177",
+"info":{"authors":{"author":[{"@pid":"06/2079","text":"Scott C.-H. Pegg"},{"@pid":"47/4200","text":"Shoshana D. Brown"},{"@pid":"14/1446","text":"Sunil Ojha"},{"@pid":"93/6107","text":"Conrad C. Huang"},{"@pid":"08/4436","text":"Thomas E. Ferrin"},{"@pid":"76/64","text":"Patricia C. Babbitt"}]},"title":"Representing Structure-Function Relationships in Mechanistically Diverse Enzyme Superfamilies.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PeggBOHFB05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/pegg.pdf","url":"https://dblp.org/rec/conf/psb/PeggBOHFB05"},
+"url":"URL#6736177"
+},
+{
+"@score":"1",
+"@id":"6736178",
+"info":{"authors":{"author":[{"@pid":"98/6298","text":"Anthony A. Philippakis"},{"@pid":"39/794","text":"Fangxue Sherry He"},{"@pid":"70/7","text":"Martha L. Bulyk"}]},"title":"ModuleFinder: A Tool for Computational Discovery of Cis Regulatory Modules.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PhilippakisHB05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/philippakis.pdf","url":"https://dblp.org/rec/conf/psb/PhilippakisHB05"},
+"url":"URL#6736178"
+},
+{
+"@score":"1",
+"@id":"6736179",
+"info":{"authors":{"author":[{"@pid":"81/3848","text":"Yanjun Qi"},{"@pid":"32/6501","text":"Judith Klein-Seetharaman"},{"@pid":"66/6963","text":"Ziv Bar-Joseph"}]},"title":"Random Forest Similarity for Protein-Protein Interaction Prediction from Multiple Sources.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/QiKB05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/qi.pdf","url":"https://dblp.org/rec/conf/psb/QiKB05"},
+"url":"URL#6736179"
+},
+{
+"@score":"1",
+"@id":"6736180",
+"info":{"authors":{"author":[{"@pid":"89/548","text":"David M. Reif"},{"@pid":"68/2975","text":"Scott M. Dudek"},{"@pid":"21/5591","text":"Christian M. Shaffer"},{"@pid":"86/4442","text":"Janey Wang"},{"@pid":"07/315","text":"Jason H. Moore"}]},"title":"Exploratory Visual Analysis of Pharmacogenomic Results.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ReifDSWM05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/reif.pdf","url":"https://dblp.org/rec/conf/psb/ReifDSWM05"},
+"url":"URL#6736180"
+},
+{
+"@score":"1",
+"@id":"6736181",
+"info":{"authors":{"author":[{"@pid":"65/714","text":"Marylyn D. Ritchie"},{"@pid":"80/4746","text":"Michelle Whirl Carrillo"},{"@pid":"12/6343","text":"Russell A. Wilke"}]},"title":"Session Introduction: Computational Approaches for Pharmacogenomics.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/RitchieCW05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/intro-pharm.pdf","url":"https://dblp.org/rec/conf/psb/RitchieCW05"},
+"url":"URL#6736181"
+},
+{
+"@score":"1",
+"@id":"6736182",
+"info":{"authors":{"author":[{"@pid":"99/2899","text":"Igor B. Rogozin"},{"@pid":"24/2","text":"B. A. Malyarchuk"},{"@pid":"64/2251","text":"Youri I. Pavlov"},{"@pid":"55/5807","text":"Luciano Milanesi"}]},"title":"From Context-Dependence of Mutations to Molecular Mechanisms of Mutagenesis.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/RogozinMPM05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/rogozin.pdf","url":"https://dblp.org/rec/conf/psb/RogozinMPM05"},
+"url":"URL#6736182"
+},
+{
+"@score":"1",
+"@id":"6736183",
+"info":{"authors":{"author":[{"@pid":"44/1767","text":"Daniel Russel"},{"@pid":"g/LeonidasJGuibas","text":"Leonidas J. Guibas"}]},"title":"Exploring Protein Folding Trajectories Using Geometric Spanners.","venue":"Pacific Symposium on Biocomputing","pages":"42-53","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/RusselG05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/russel.pdf","url":"https://dblp.org/rec/conf/psb/RusselG05"},
+"url":"URL#6736183"
+},
+{
+"@score":"1",
+"@id":"6736184",
+"info":{"authors":{"author":[{"@pid":"21/3400-1","text":"Rohit Singh 0001"},{"@pid":"b/BonnieBerger","text":"Bonnie Berger"}]},"title":"ChainTweak: Sampling from the Neighbourhood of a Protein Conformation.","venue":"Pacific Symposium on Biocomputing","pages":"54-65","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SinghB05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/singh.pdf","url":"https://dblp.org/rec/conf/psb/SinghB05"},
+"url":"URL#6736184"
+},
+{
+"@score":"1",
+"@id":"6736185",
+"info":{"authors":{"author":[{"@pid":"10/4207","text":"E. Sirohi"},{"@pid":"80/11037","text":"Peggy L. Peissig"}]},"title":"Study of Effect of Drug Lexicons on Medication Extraction from Electronic Medical Records.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SirohiP05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/sirohi.pdf","url":"https://dblp.org/rec/conf/psb/SirohiP05"},
+"url":"URL#6736185"
+},
+{
+"@score":"1",
+"@id":"6736186",
+"info":{"authors":{"author":[{"@pid":"58/2734","text":"Irena Spasic"},{"@pid":"47/4142","text":"Sophia Ananiadou"}]},"title":"A Flexible Measure of Contextual Similarity for Biomedical Terms.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SpasicA05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/spasic.pdf","url":"https://dblp.org/rec/conf/psb/SpasicA05"},
+"url":"URL#6736186"
+},
+{
+"@score":"1",
+"@id":"6736187",
+"info":{"authors":{"author":[{"@pid":"54/52","text":"Thomas Tang"},{"@pid":"45/2923","text":"Jinbo Xu"},{"@pid":"l/MingLi1","text":"Ming Li 0001"}]},"title":"Discovering Sequence-Structure Motifs from Protein Segments and Two Applications.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/TangXL05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/tang.pdf","url":"https://dblp.org/rec/conf/psb/TangXL05"},
+"url":"URL#6736187"
+},
+{
+"@score":"1",
+"@id":"6736188",
+"info":{"authors":{"author":[{"@pid":"46/2345","text":"Luis Tari"},{"@pid":"b/ChittaBaral","text":"Chitta Baral"},{"@pid":"23/1074","text":"P. Dasgupta"}]},"title":"Understanding the Global Properties of Functionally-Related Gene Networks Using the Gene Ontology.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/TariBD05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/tari.pdf","url":"https://dblp.org/rec/conf/psb/TariBD05"},
+"url":"URL#6736188"
+},
+{
+"@score":"1",
+"@id":"6736189",
+"info":{"authors":{"author":[{"@pid":"61/2721","text":"Alexander Tropsha"},{"@pid":"e/HerbertEdelsbrunner","text":"Herbert Edelsbrunner"}]},"title":"Session Introduction: Biogeometry: Applications of Computational Geometry to Molecular Structure.","venue":"Pacific Symposium on Biocomputing","pages":"3-4","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/TropshaE05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/intro-biogeometry.pdf","url":"https://dblp.org/rec/conf/psb/TropshaE05"},
+"url":"URL#6736189"
+},
+{
+"@score":"1",
+"@id":"6736190",
+"info":{"authors":{"author":[{"@pid":"28/5745-1","text":"Yusu Wang 0001"},{"@pid":"a/PankajKAgarwal","text":"Pankaj K. Agarwal"},{"@pid":"64/267","text":"P. Brown"},{"@pid":"e/HerbertEdelsbrunner","text":"Herbert Edelsbrunner"},{"@pid":"21/28","text":"Johannes Rudolph"}]},"title":"Coarse and Reliable Geometric Alignment for Protein Docking.","venue":"Pacific Symposium on Biocomputing","pages":"66-77","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WangABER05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/wang.pdf","url":"https://dblp.org/rec/conf/psb/WangABER05"},
+"url":"URL#6736190"
+},
+{
+"@score":"1",
+"@id":"6736191",
+"info":{"authors":{"author":[{"@pid":"99/628","text":"Bobbie-Jo M. Webb-Robertson"},{"@pid":"h/SusanLHavre","text":"Susan L. Havre"},{"@pid":"41/5601","text":"Deborah A. Payne"}]},"title":"A Bayesian Framework for SNP Identification.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Webb-RobertsonHP05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/webb-robertson.pdf","url":"https://dblp.org/rec/conf/psb/Webb-RobertsonHP05"},
+"url":"URL#6736191"
+},
+{
+"@score":"1",
+"@id":"6736192",
+"info":{"authors":{"author":[{"@pid":"262/1686-1","text":"Hui Xiong 0001"},{"@pid":"30/6858","text":"Xiaofeng He"},{"@pid":"d/CHQDing","text":"Chris H. Q. Ding"},{"@pid":"85/3714-2","text":"Ya Zhang 0002"},{"@pid":"k/VipinKumar-1","text":"Vipin Kumar 0001"},{"@pid":"63/6735","text":"Stephen R. Holbrook"}]},"title":"Identification of Functional Modules in Protein Complexes via Hyperclique Pattern Discovery.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/XiongHDZKH05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/xiong.pdf","url":"https://dblp.org/rec/conf/psb/XiongHDZKH05"},
+"url":"URL#6736192"
+},
+{
+"@score":"1",
+"@id":"6736193",
+"info":{"authors":{"author":[{"@pid":"21/5041","text":"Hiroshi Yamakawa"},{"@pid":"85/114","text":"Koji Maruhashi"},{"@pid":"01/5155","text":"Yoshio Nakao"},{"@pid":"285/7412","text":"Mutsuyo Yamaguchi"}]},"title":"Multi-Aspect Gene Relation Analysis.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/YamakawaMN05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/yamakawa.pdf","url":"https://dblp.org/rec/conf/psb/YamakawaMN05"},
+"url":"URL#6736193"
+},
+{
+"@score":"1",
+"@id":"6736194",
+"info":{"authors":{"author":[{"@pid":"81/4401","text":"L. Y. Yampolsky"},{"@pid":"s/ArlinStoltzfus","text":"Arlin Stoltzfus"}]},"title":"Untangling the Effects of Codon Mutation and Amino Acid Exchangeability.","venue":"Pacific Symposium on Biocomputing","year":"2005","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/YampolskyS05","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/yampolsky.pdf","url":"https://dblp.org/rec/conf/psb/YampolskyS05"},
+"url":"URL#6736194"
+},
+{
+"@score":"1",
+"@id":"6755031",
+"info":{"authors":{"author":[{"@pid":"47/2081","text":"Russ B. Altman"},{"@pid":"m/TiffanyMurray","text":"Tiffany A. Jung"},{"@pid":"k/TeriEKlein","text":"Teri E. Klein"},{"@pid":"53/20","text":"A. Keith Dunker"},{"@pid":"h/LawrenceHunter","text":"Lawrence Hunter"}]},"title":"Biocomputing 2005, Proceedings of the Pacific Symposium, Hawaii, USA, 4-8 January 2005","venue":"Pacific Symposium on Biocomputing","publisher":"World Scientific","year":"2005","type":"Editorship","key":"conf/psb/2005","ee":"http://psb.stanford.edu/psb-online/proceedings/psb05/","url":"https://dblp.org/rec/conf/psb/2005"},
+"url":"URL#6755031"
+}
+]
+}
+}
+}

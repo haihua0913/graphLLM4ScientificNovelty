@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+Supervised learning in function spaces,prediction of complex physical systems,0.111,1.3334
+Supervised learning in function spaces,fluid flows,0.095,1.3453
+Supervised learning in function spaces,climate modeling,0.1443,1.3082
+Supervised learning in function spaces,operators,0.005,1.4107
+fluid flows,prediction of complex physical systems,-0.2122,1.5571
+climate modeling,prediction of complex physical systems,0.909,0.4267
+operators,prediction of complex physical systems,-0.3778,1.66
+climate modeling,fluid flows,-0.3154,1.6219
+fluid flows,operators,0.0893,1.3496
+climate modeling,operators,-0.2613,1.5883
+Supervised learning in function spaces,basis elements,0.1503,1.3036
+basis elements,prediction of complex physical systems,0.9667,0.2581
+basis elements,fluid flows,-0.341,1.6377
+basis elements,climate modeling,0.9572,0.2927
+basis elements,operators,-0.2459,1.5785
+low dimensional submanifold,operators,0.187,1.2752
+basis elements,low dimensional submanifold,-0.1108,1.4905
+NOMAD,basis elements,-0.4388,1.6964
+basis elements,nonlinear decoder map,-0.3256,1.6283
+NOMAD,low dimensional submanifold,-0.2042,1.5519
+low dimensional submanifold,nonlinear decoder map,-0.0199,1.4282
+NOMAD,nonlinear decoder map,0.005,1.4107

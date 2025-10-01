@@ -1,0 +1,338 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/icdh/icdh2023.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"76.73"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"51",
+"@dc":"51",
+"@oc":"51",
+"@id":"48896293",
+"text":":facetid:toc:db/conf/icdh/icdh2023.bht"
+}
+},
+"hits":{
+"@total":"51",
+"@computed":"51",
+"@sent":"51",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1104911",
+"info":{"authors":{"author":[{"@pid":"201/5636","text":"Ankita Agarwal"},{"@pid":"03/10058","text":"Tanvi Banerjee"},{"@pid":"198/6322","text":"William L. Romine"},{"@pid":"t/KThirunarayan","text":"Krishnaprasad Thirunarayan"},{"@pid":"169/7444","text":"Lingwei Chen"},{"@pid":"317/6949","text":"Mia Cajita"}]},"title":"Mining Themes in Clinical Notes to Identify Phenotypes and to Predict Length of Stay in Patients admitted with Heart Failure.","venue":"ICDH","pages":"208-216","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/AgarwalBRTCC23","doi":"10.1109/ICDH60066.2023.00038","ee":"https://doi.org/10.1109/ICDH60066.2023.00038","url":"https://dblp.org/rec/conf/icdh/AgarwalBRTCC23"},
+"url":"URL#1104911"
+},
+{
+"@score":"1",
+"@id":"1104912",
+"info":{"authors":{"author":[{"@pid":"12/8029","text":"Carla Agurto"},{"@pid":"79/6762","text":"Guillermo A. Cecchi"},{"@pid":"33/4553","text":"Bo Wen"},{"@pid":"94/5033","text":"Ernest Fraenkel"},{"@pid":"158/4220","text":"James D. Berry"},{"@pid":"290/1673","text":"Indu Navar"},{"@pid":"84/4728","text":"Raquel Norel"}]},"title":"Remote Inference of Cognitive Scores in ALS Patients Using a Picture Description.","venue":"ICDH","pages":"50-56","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/AgurtoCWFBNN23","doi":"10.1109/ICDH60066.2023.00017","ee":"https://doi.org/10.1109/ICDH60066.2023.00017","url":"https://dblp.org/rec/conf/icdh/AgurtoCWFBNN23"},
+"url":"URL#1104912"
+},
+{
+"@score":"1",
+"@id":"1104913",
+"info":{"authors":{"author":[{"@pid":"a/SheikhIqbalAhamed","text":"Sheikh Iqbal Ahamed"},{"@pid":"275/2541","text":"Masud Rabbani"},{"@pid":"28/2658","text":"Richard J. Povinelli"}]},"title":"A Comprehensive Survey on Detection of Non-linear Analysis Techniques for EEG Signal.","venue":"ICDH","pages":"184-194","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/AhamedRP23","doi":"10.1109/ICDH60066.2023.00034","ee":"https://doi.org/10.1109/ICDH60066.2023.00034","url":"https://dblp.org/rec/conf/icdh/AhamedRP23"},
+"url":"URL#1104913"
+},
+{
+"@score":"1",
+"@id":"1104914",
+"info":{"authors":{"author":[{"@pid":"339/7933","text":"Abdulsalam Almadani"},{"@pid":"23/3629","text":"Emmanuel Agu"},{"@pid":"305/9814","text":"Atifa Sarwar"},{"@pid":"355/9156","text":"Monica Ahluwalia"},{"@pid":"339/8101","text":"Jacques Kpodonu"}]},"title":"HCM-Dynamic-Echo: A Framework for Detecting Hypertrophic Cardiomyopathy (HCM) in Echocardiograms.","venue":"ICDH","pages":"217-226","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/AlmadaniASAK23","doi":"10.1109/ICDH60066.2023.00039","ee":"https://doi.org/10.1109/ICDH60066.2023.00039","url":"https://dblp.org/rec/conf/icdh/AlmadaniASAK23"},
+"url":"URL#1104914"
+},
+{
+"@score":"1",
+"@id":"1104915",
+"info":{"authors":{"author":[{"@pid":"212/2613","text":"Sara E. Berger"},{"@pid":"12/8029","text":"Carla Agurto"},{"@pid":"79/6762","text":"Guillermo A. Cecchi"},{"@pid":"136/9231","text":"Elif Eyigöz"},{"@pid":"17/9816","text":"Brad Hershey"},{"@pid":"355/8713","text":"Kristen Lechleiter"},{"@pid":"55/9125","text":"Dat Huynh"},{"@pid":"355/8456","text":"Matt McDonald"},{"@pid":"327/8783","text":"Jeffrey L. Rogers"}]},"title":"The Impact of COVID-19 on Chronic Pain: Multidimensional Clustering Reveals Deep Insights into Spinal Cord Stimulation Patients.","venue":"ICDH","pages":"91-99","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/BergerACEHLHMR23","doi":"10.1109/ICDH60066.2023.00023","ee":"https://doi.org/10.1109/ICDH60066.2023.00023","url":"https://dblp.org/rec/conf/icdh/BergerACEHLHMR23"},
+"url":"URL#1104915"
+},
+{
+"@score":"1",
+"@id":"1104916",
+"info":{"authors":{"author":[{"@pid":"05/8244","text":"Iva Bojic"},{"@pid":"355/7046","text":"Jintana Liu"},{"@pid":"340/2402","text":"Qi Chwen Ong"},{"@pid":"355/7278","text":"Ashwini Lawate"},{"@pid":"355/7723","text":"Malar Palaiyan"},{"@pid":"84/9112","text":"May O. Lwin"},{"@pid":"217/8434","text":"John Arputhan Abisheganaden"},{"@pid":"78/4473","text":"Yin Leng Theng"},{"@pid":"16/2271","text":"Moon-ho Ringo Ho"},{"@pid":"355/9186","text":"Michael Yong Hwa Chia"},{"@pid":"46/9674","text":"Josip Car"}]},"title":"Identifying at-risk university students: A system for longitudinal monitoring of sleep health.","venue":"ICDH","pages":"143-149","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/BojicLOLPLATHCC23","doi":"10.1109/ICDH60066.2023.00029","ee":"https://doi.org/10.1109/ICDH60066.2023.00029","url":"https://dblp.org/rec/conf/icdh/BojicLOLPLATHCC23"},
+"url":"URL#1104916"
+},
+{
+"@score":"1",
+"@id":"1104917",
+"info":{"authors":{"author":[{"@pid":"225/5470","text":"Italo Buleje"},{"@pid":"327/8550","text":"Vince S. Siu"},{"@pid":"263/5337","text":"Kuan Yu Hsieh"},{"@pid":"90/6171","text":"Nigel Hinds"},{"@pid":"58/4426","text":"Bing Dang"},{"@pid":"89/10757","text":"Erhan Bilal"},{"@pid":"355/9075","text":"Thanhnha Nguyen"},{"@pid":"300/3673","text":"Ellen E. Lee"},{"@pid":"313/4844","text":"Colin A. Depp"},{"@pid":"327/8783","text":"Jeffrey L. Rogers"}]},"title":"A Versatile Data Fabric for Advanced IoT-Based Remote Health Monitoring.","venue":"ICDH","pages":"88-90","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/BulejeSHHDBNLDR23","doi":"10.1109/ICDH60066.2023.00021","ee":"https://doi.org/10.1109/ICDH60066.2023.00021","url":"https://dblp.org/rec/conf/icdh/BulejeSHHDBNLDR23"},
+"url":"URL#1104917"
+},
+{
+"@score":"1",
+"@id":"1104918",
+"info":{"authors":{"author":[{"@pid":"09/11046","text":"Imon Chakraborty"},{"@pid":"86/1216","text":"P. Vigneswara Ilavarasan"},{"@pid":"167/1324","text":"K. Nandhini"},{"@pid":"25/5077","text":"Sisira Edirippulige"}]},"title":"What Drives Front-End Innovation in Fem-Tech Startups? Insights from a Quantitative Study.","venue":"ICDH","pages":"240-247","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/ChakrabortyINE23","doi":"10.1109/ICDH60066.2023.00057","ee":"https://doi.org/10.1109/ICDH60066.2023.00057","url":"https://dblp.org/rec/conf/icdh/ChakrabortyINE23"},
+"url":"URL#1104918"
+},
+{
+"@score":"1",
+"@id":"1104919",
+"info":{"authors":{"author":[{"@pid":"141/0902","text":"Nilesh Chakraborty"},{"@pid":"51/8816","text":"Shahrear Iqbal"},{"@pid":"45/1198","text":"Mohammad Zulkernine"}]},"title":"Risk Assessment in Smart Aging Care Systems: An Elderly-Centered Perspective.","venue":"ICDH","pages":"1-12","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/ChakrabortyIZ23","doi":"10.1109/ICDH60066.2023.00012","ee":"https://doi.org/10.1109/ICDH60066.2023.00012","url":"https://dblp.org/rec/conf/icdh/ChakrabortyIZ23"},
+"url":"URL#1104919"
+},
+{
+"@score":"1",
+"@id":"1104920",
+"info":{"authors":{"author":[{"@pid":"34/10195","text":"Yuhao Chen"},{"@pid":"355/7844","text":"Boqun Shu"},{"@pid":"243/3166","text":"Mojtaba Moattari"},{"@pid":"14/4828","text":"Farhana H. Zulkernine"},{"@pid":"346/3040","text":"John A. Queenan"},{"@pid":"47/4760","text":"David Barber"}]},"title":"SPaDe: A Synonym-based Pain-level Detection Tool for Osteoarthritis.","venue":"ICDH","pages":"118-120","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/ChenSMZQB23","doi":"10.1109/ICDH60066.2023.00026","ee":"https://doi.org/10.1109/ICDH60066.2023.00026","url":"https://dblp.org/rec/conf/icdh/ChenSMZQB23"},
+"url":"URL#1104920"
+},
+{
+"@score":"1",
+"@id":"1104921",
+"info":{"authors":{"author":[{"@pid":"134/1184","text":"Jingyuan Chen"},{"@pid":"25/4120","text":"Yuan Yao"},{"@pid":"355/8350","text":"Mie Anderson"},{"@pid":"355/7397","text":"Natalie Hauglund"},{"@pid":"355/9039","text":"Celia Kjaerby"},{"@pid":"355/8167","text":"Verena Untiet"},{"@pid":"182/1261","text":"Maiken Nedergaard"},{"@pid":"25/5545","text":"Jiebo Luo 0001"}]},"title":"sDREAMER: Self-distilled Mixture-of-Modality-Experts Transformer for Automatic Sleep Staging.","venue":"ICDH","pages":"131-142","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/ChenYAHKUNL23","doi":"10.1109/ICDH60066.2023.00028","ee":"https://doi.org/10.1109/ICDH60066.2023.00028","url":"https://dblp.org/rec/conf/icdh/ChenYAHKUNL23"},
+"url":"URL#1104921"
+},
+{
+"@score":"1",
+"@id":"1104922",
+"info":{"authors":{"author":[{"@pid":"253/7243","text":"James R. Clavin"},{"@pid":"161/7948","text":"Karuna P. Joshi"}]},"title":"Policy Integrated Blockchain to Automate HIPAA Part 2 Compliance.","venue":"ICDH","pages":"307-314","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/ClavinJ23","doi":"10.1109/ICDH60066.2023.00052","ee":"https://doi.org/10.1109/ICDH60066.2023.00052","url":"https://dblp.org/rec/conf/icdh/ClavinJ23"},
+"url":"URL#1104922"
+},
+{
+"@score":"1",
+"@id":"1104923",
+"info":{"authors":{"author":[{"@pid":"59/3346","text":"Sara Comai"},{"@pid":"201/7428","text":"Andrea Masciadri"},{"@pid":"355/7859","text":"Fabrice Monasterio"},{"@pid":"355/8793","text":"Fabio Motetta"},{"@pid":"87/3851","text":"Giuseppe Pozzi"},{"@pid":"63/5564","text":"Fabio Salice"}]},"title":"CardiaPPG - A Portable, Low-Cost Photopletismograph for the Evaluation of the Cardiovascular Age.","venue":"ICDH","pages":"227-233","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/ComaiMMMPS23","doi":"10.1109/ICDH60066.2023.00040","ee":"https://doi.org/10.1109/ICDH60066.2023.00040","url":"https://dblp.org/rec/conf/icdh/ComaiMMMPS23"},
+"url":"URL#1104923"
+},
+{
+"@score":"1",
+"@id":"1104924",
+"info":{"authors":{"author":[{"@pid":"197/3848","text":"Florenc Demrozi"},{"@pid":"284/0936","text":"Cristian Turetta"},{"@pid":"84/2047","text":"Graziano Pravadelli"}]},"title":"Fostering Human Activity Recognition Workflows: An Open-Source Baseline Framework.","venue":"ICDH","pages":"75-80","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/DemroziTP23","doi":"10.1109/ICDH60066.2023.00018","ee":"https://doi.org/10.1109/ICDH60066.2023.00018","url":"https://dblp.org/rec/conf/icdh/DemroziTP23"},
+"url":"URL#1104924"
+},
+{
+"@score":"1",
+"@id":"1104925",
+"info":{"authors":{"author":[{"@pid":"306/8164","text":"Peter Domanski"},{"@pid":"307/2494","text":"Aritra Ray"},{"@pid":"15/9350","text":"Farshad Firouzi"},{"@pid":"347/3572","text":"Kyle Lafata"},{"@pid":"c/KrishnenduChakrabarty","text":"Krishnendu Chakrabarty"},{"@pid":"96/5029","text":"Dirk Pflüger"}]},"title":"Blood Glucose Prediction for Type-1 Diabetics using Deep Reinforcement Learning.","venue":"ICDH","pages":"339-347","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/DomanskiRFLCP23","doi":"10.1109/ICDH60066.2023.00042","ee":"https://doi.org/10.1109/ICDH60066.2023.00042","url":"https://dblp.org/rec/conf/icdh/DomanskiRFLCP23"},
+"url":"URL#1104925"
+},
+{
+"@score":"1",
+"@id":"1104926",
+"info":{"authors":{"author":[{"@pid":"355/7311","text":"Elham Estiri"},{"@pid":"98/8362","text":"Hossein Mirinejad"}]},"title":"Precision Dosing in Critical Care: Application of Machine Learning in Fluid Therapy.","venue":"ICDH","pages":"348-352","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/EstiriM23","doi":"10.1109/ICDH60066.2023.00058","ee":"https://doi.org/10.1109/ICDH60066.2023.00058","url":"https://dblp.org/rec/conf/icdh/EstiriM23"},
+"url":"URL#1104926"
+},
+{
+"@score":"1",
+"@id":"1104927",
+"info":{"authors":{"author":[{"@pid":"355/8863","text":"Matteo Falconi"},{"@pid":"86/5594","text":"Pierluigi Plebani"}]},"title":"Adopting Data Mesh principles to Boost Data Sharing for Clinical Trials.","venue":"ICDH","pages":"298-306","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/FalconiP23","doi":"10.1109/ICDH60066.2023.00051","ee":"https://doi.org/10.1109/ICDH60066.2023.00051","url":"https://dblp.org/rec/conf/icdh/FalconiP23"},
+"url":"URL#1104927"
+},
+{
+"@score":"1",
+"@id":"1104928",
+"info":{"authors":{"author":[{"@pid":"220/3486","text":"Shayan Fazeli"},{"@pid":"280/7941","text":"Lionel M. Levine"},{"@pid":"337/4318","text":"Mehrab Beikzadeh"},{"@pid":"52/10075","text":"Baharan Mirzasoleiman"},{"@pid":"272/4153","text":"Bita Zadeh"},{"@pid":"272/4401","text":"Tara Peris"},{"@pid":"s/MajidSarrafzadeh","text":"Majid Sarrafzadeh"}]},"title":"A Self-supervised Framework for Improved Data-Driven Monitoring of Stress via Multi-Modal Passive Sensing.","venue":"ICDH","pages":"177-183","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/FazeliLBMZPS23","doi":"10.1109/ICDH60066.2023.00033","ee":"https://doi.org/10.1109/ICDH60066.2023.00033","url":"https://dblp.org/rec/conf/icdh/FazeliLBMZPS23"},
+"url":"URL#1104928"
+},
+{
+"@score":"1",
+"@id":"1104929",
+"info":{"authors":{"author":[{"@pid":"173/0121","text":"Jiaqi Guo"},{"@pid":"301/8331","text":"Luotao Lin"},{"@pid":"355/9434","text":"Marah M. Aqeel"},{"@pid":"48/885","text":"Saul B. Gelfand"},{"@pid":"95/10762","text":"Heather A. Eicher-Miller"},{"@pid":"88/11012","text":"Anindya Bhadra"},{"@pid":"306/9688","text":"Erin Hennessy"},{"@pid":"355/8597","text":"Elizabeth A. Richards"},{"@pid":"d/EdwardJDelp","text":"Edward J. Delp"}]},"title":"Joint Temporal Patterns By Integrating Diet and Physical Activity.","venue":"ICDH","pages":"13-23","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/GuoLAGEBHRD23","doi":"10.1109/ICDH60066.2023.00011","ee":"https://doi.org/10.1109/ICDH60066.2023.00011","url":"https://dblp.org/rec/conf/icdh/GuoLAGEBHRD23"},
+"url":"URL#1104929"
+},
+{
+"@score":"1",
+"@id":"1104930",
+"info":{"authors":{"author":[{"@pid":"49/4117","text":"Tian Hao"},{"@pid":"40/10331","text":"Yasunori Yamada"},{"@pid":"327/8783","text":"Jeffrey L. Rogers"},{"@pid":"355/7262","text":"Kaoru Shinakwa"},{"@pid":"247/9746","text":"Miyuki Nemoto"},{"@pid":"127/4622","text":"Kiyotaka Nemoto"},{"@pid":"247/9820","text":"Tetsuaki Arai"}]},"title":"An Automated Digital Biomarker of Mobility.","venue":"ICDH","pages":"100-108","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/HaoYRSNNA23","doi":"10.1109/ICDH60066.2023.00022","ee":"https://doi.org/10.1109/ICDH60066.2023.00022","url":"https://dblp.org/rec/conf/icdh/HaoYRSNNA23"},
+"url":"URL#1104930"
+},
+{
+"@score":"1",
+"@id":"1104931",
+"info":{"authors":{"author":[{"@pid":"251/0130","text":"Md Faruque Hossain"},{"@pid":"348/7196","text":"M. A. Karim"}]},"title":"Application of Solar Energy in Building Design to Eliminate Pathogens Naturally.","venue":"ICDH","pages":"288-291","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/HossainK23","doi":"10.1109/ICDH60066.2023.00048","ee":"https://doi.org/10.1109/ICDH60066.2023.00048","url":"https://dblp.org/rec/conf/icdh/HossainK23"},
+"url":"URL#1104931"
+},
+{
+"@score":"1",
+"@id":"1104932",
+"info":{"authors":{"author":[{"@pid":"355/8431","text":"Nora Howard"},{"@pid":"151/0372","text":"Gina Sprint"},{"@pid":"151/0335","text":"Douglas L. Weeks"},{"@pid":"355/7757","text":"Elena Crooks"}]},"title":"A Remotely Accessible Ecological Momentary Assessment and Actigraphy System for ALS Research.","venue":"ICDH","pages":"24-29","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/HowardSWC23","doi":"10.1109/ICDH60066.2023.00013","ee":"https://doi.org/10.1109/ICDH60066.2023.00013","url":"https://dblp.org/rec/conf/icdh/HowardSWC23"},
+"url":"URL#1104932"
+},
+{
+"@score":"1",
+"@id":"1104933",
+"info":{"authors":{"author":[{"@pid":"273/2375","text":"Connor C. J. Hryhoruk"},{"@pid":"29/654","text":"Carson K. Leung"}]},"title":"Mining Sequential Patterns with Timelines from Digital Health Data.","venue":"ICDH","pages":"292-294","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/HryhorukL23","doi":"10.1109/ICDH60066.2023.00049","ee":"https://doi.org/10.1109/ICDH60066.2023.00049","url":"https://dblp.org/rec/conf/icdh/HryhorukL23"},
+"url":"URL#1104933"
+},
+{
+"@score":"1",
+"@id":"1104934",
+"info":{"authors":{"author":[{"@pid":"344/2089","text":"David Hua"},{"@pid":"270/7630","text":"Neysa Petrina"},{"@pid":"231/2429","text":"Noel Young"},{"@pid":"346/1701","text":"Jin-Gun Cho"},{"@pid":"01/7428","text":"Simon K. Poon"}]},"title":"Implementing AI-based Computer-Aided Diagnosis for Radiological Detection of Tuberculosis: A Multi-Stage Health Technology Assessment.","venue":"ICDH","pages":"353-355","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/HuaPYCP23","doi":"10.1109/ICDH60066.2023.00059","ee":"https://doi.org/10.1109/ICDH60066.2023.00059","url":"https://dblp.org/rec/conf/icdh/HuaPYCP23"},
+"url":"URL#1104934"
+},
+{
+"@score":"1",
+"@id":"1104935",
+"info":{"authors":{"author":[{"@pid":"255/5255","text":"Md. Khairul Islam"},{"@pid":"69/9209","text":"Yingzheng Liu"},{"@pid":"330/9183","text":"Andrej Erkelens"},{"@pid":"330/9443","text":"Nick Daniello"},{"@pid":"355/7740","text":"Aparna Marathe"},{"@pid":"298/2384","text":"Judy Fox"}]},"title":"Interpreting County-Level COVID-19 Infections using Transformer and Deep Learning Time Series Models.","venue":"ICDH","pages":"266-277","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/IslamLEDMF23","doi":"10.1109/ICDH60066.2023.00046","ee":"https://doi.org/10.1109/ICDH60066.2023.00046","url":"https://dblp.org/rec/conf/icdh/IslamLEDMF23"},
+"url":"URL#1104935"
+},
+{
+"@score":"1",
+"@id":"1104936",
+"info":{"authors":{"author":[{"@pid":"71/3477","text":"Masatomo Kobayashi"},{"@pid":"40/10331","text":"Yasunori Yamada"},{"@pid":"355/7262","text":"Kaoru Shinakwa"},{"@pid":"247/9746","text":"Miyuki Nemoto"},{"@pid":"116/4307","text":"Miho Ota"},{"@pid":"127/4622","text":"Kiyotaka Nemoto"},{"@pid":"247/9820","text":"Tetsuaki Arai"}]},"title":"Balance Measures Derived from Insole Sensor Differentiate Prodromal Dementia with Lewy Bodies.","venue":"ICDH","pages":"30-38","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/KobayashiYSNONA23","doi":"10.1109/ICDH60066.2023.00014","ee":"https://doi.org/10.1109/ICDH60066.2023.00014","url":"https://dblp.org/rec/conf/icdh/KobayashiYSNONA23"},
+"url":"URL#1104936"
+},
+{
+"@score":"1",
+"@id":"1104937",
+"info":{"authors":{"author":[{"@pid":"141/4293","text":"Amit Kumar"},{"@pid":"280/7062","text":"Souparna Das"},{"@pid":"54/2257","text":"Suman Roy 0001"}]},"title":"Transfer Learning Improves Unsupervised Assignment of ICD codes with Clinical Notes.","venue":"ICDH","pages":"278-287","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/KumarDR23","doi":"10.1109/ICDH60066.2023.00047","ee":"https://doi.org/10.1109/ICDH60066.2023.00047","url":"https://dblp.org/rec/conf/icdh/KumarDR23"},
+"url":"URL#1104937"
+},
+{
+"@score":"1",
+"@id":"1104938",
+"info":{"authors":{"author":[{"@pid":"260/4181","text":"Sandra Kumi"},{"@pid":"345/7490","text":"Maxwell Hilton"},{"@pid":"44/7510","text":"Charles Snow"},{"@pid":"117/5118","text":"Richard K. Lomotey"},{"@pid":"52/4351","text":"Ralph Deters"}]},"title":"SleepSynth: Evaluating the use of Synthetic Data in Health Digital Twins.","venue":"ICDH","pages":"121-130","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/KumiHSLD23","doi":"10.1109/ICDH60066.2023.00027","ee":"https://doi.org/10.1109/ICDH60066.2023.00027","url":"https://dblp.org/rec/conf/icdh/KumiHSLD23"},
+"url":"URL#1104938"
+},
+{
+"@score":"1",
+"@id":"1104939",
+"info":{"authors":{"author":[{"@pid":"128/5278-1","text":"Weijian Li 0001"},{"@pid":"83/4805-15","text":"Wei Zhu 0015"},{"@pid":"169/6112","text":"Earl Ray Dorsey"},{"@pid":"25/5545","text":"Jiebo Luo 0001"}]},"title":"Remote Medication Status Prediction for Individuals with Parkinson&apos;s Disease using Time-series Data from Smartphones.","venue":"ICDH","pages":"57-64","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/LiZDL23","doi":"10.1109/ICDH60066.2023.00016","ee":"https://doi.org/10.1109/ICDH60066.2023.00016","url":"https://dblp.org/rec/conf/icdh/LiZDL23"},
+"url":"URL#1104939"
+},
+{
+"@score":"1",
+"@id":"1104940",
+"info":{"authors":{"author":[{"@pid":"226/4851","text":"Jingyang Lin"},{"@pid":"118/4580","text":"Junyu Chen"},{"@pid":"256/5541","text":"Hanjia Lyu"},{"@pid":"344/2184","text":"Igor Khodak"},{"@pid":"344/2382","text":"Divya Chhabra"},{"@pid":"344/1528","text":"Colby L. Day Richardson"},{"@pid":"344/2156","text":"Irina Prelipcean"},{"@pid":"344/2163","text":"Andrew M. Dylag"},{"@pid":"25/5545","text":"Jiebo Luo 0001"}]},"title":"Predicting Adverse Neonatal Outcomes for Preterm Neonates with Multi-Task Learning.","venue":"ICDH","pages":"263-265","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/LinCLKCRPDL23","doi":"10.1109/ICDH60066.2023.00045","ee":"https://doi.org/10.1109/ICDH60066.2023.00045","url":"https://dblp.org/rec/conf/icdh/LinCLKCRPDL23"},
+"url":"URL#1104940"
+},
+{
+"@score":"1",
+"@id":"1104941",
+"info":{"authors":{"author":[{"@pid":"256/5541","text":"Hanjia Lyu"},{"@pid":"355/8238","text":"Kevin Kapcio"},{"@pid":"355/8733","text":"Kyle Purrman"},{"@pid":"355/8277","text":"Christian Peyre"},{"@pid":"99/5284","text":"Carolyn Jones"},{"@pid":"355/8407","text":"Michal Lada"},{"@pid":"25/5545","text":"Jiebo Luo 0001"}]},"title":"Applying Machine Learning to Predict Esophageal Cancer Recurrence after Esophagectomy.","venue":"ICDH","pages":"258-262","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/LyuKPPJLL23","doi":"10.1109/ICDH60066.2023.00044","ee":"https://doi.org/10.1109/ICDH60066.2023.00044","url":"https://dblp.org/rec/conf/icdh/LyuKPPJLL23"},
+"url":"URL#1104941"
+},
+{
+"@score":"1",
+"@id":"1104942",
+"info":{"authors":{"author":[{"@pid":"355/7332","text":"Nathaniel Mastracci"},{"@pid":"127/9334","text":"Farnaz Derakhshan"},{"@pid":"35/2000","text":"Edward R. Sykes"},{"@pid":"314/0421","text":"Dodo Khan"}]},"title":"Classification of Heart Sounds Using Machine Learning.","venue":"ICDH","pages":"205-207","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/MastracciDSK23","doi":"10.1109/ICDH60066.2023.00037","ee":"https://doi.org/10.1109/ICDH60066.2023.00037","url":"https://dblp.org/rec/conf/icdh/MastracciDSK23"},
+"url":"URL#1104942"
+},
+{
+"@score":"1",
+"@id":"1104943",
+"info":{"authors":{"author":[{"@pid":"355/7190","text":"Mohammad Nazayer"},{"@pid":"168/7483","text":"Samaneh Madanian"},{"@pid":"257/9274","text":"Hamidreza Rasoulipanah"},{"@pid":"140/1489","text":"Dave Parry"}]},"title":"Public Health Emergencies: Health Data and Public Health Surveillance.","venue":"ICDH","pages":"295-297","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/NazayerMRP23","doi":"10.1109/ICDH60066.2023.00050","ee":"https://doi.org/10.1109/ICDH60066.2023.00050","url":"https://dblp.org/rec/conf/icdh/NazayerMRP23"},
+"url":"URL#1104943"
+},
+{
+"@score":"1",
+"@id":"1104944",
+"info":{"authors":{"author":[{"@pid":"44/10320","text":"Rodrigo H. Ordóñez-Hurtado"},{"@pid":"33/4553","text":"Bo Wen"},{"@pid":"355/8496","text":"Nicholas Barra"},{"@pid":"355/7737","text":"Ryan Vimba"},{"@pid":"355/7592","text":"Sergio Cabrero-Barros"},{"@pid":"50/9226","text":"Sergiy Zhuk"},{"@pid":"327/8783","text":"Jeffrey L. Rogers"}]},"title":"Enabling the Evaluation of Driver Physiology Via Vehicle Dynamics.","venue":"ICDH","pages":"195-201","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/OrdonezHurtadoWBVCZR23","doi":"10.1109/ICDH60066.2023.00035","ee":"https://doi.org/10.1109/ICDH60066.2023.00035","url":"https://dblp.org/rec/conf/icdh/OrdonezHurtadoWBVCZR23"},
+"url":"URL#1104944"
+},
+{
+"@score":"1",
+"@id":"1104945",
+"info":{"authors":{"author":[{"@pid":"314/9928","text":"Maxx Richard Rahman"},{"@pid":"06/1346","text":"Mohammed Hussain"},{"@pid":"339/9287","text":"Thomas Piper"},{"@pid":"339/9947","text":"Hans Geyer"},{"@pid":"339/9522","text":"Tristan Equey"},{"@pid":"339/9848","text":"Norbert Baume"},{"@pid":"315/0463","text":"Reid Aikin"},{"@pid":"m/WolfgangMaass2","text":"Wolfgang Maass 0002"}]},"title":"Modelling Metabolism Pathways using Graph Representation Learning for Fraud Detection in Sports.","venue":"ICDH","pages":"158-168","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/RahmanHPGEBAM23","doi":"10.1109/ICDH60066.2023.00031","ee":"https://doi.org/10.1109/ICDH60066.2023.00031","url":"https://dblp.org/rec/conf/icdh/RahmanHPGEBAM23"},
+"url":"URL#1104945"
+},
+{
+"@score":"1",
+"@id":"1104946",
+"info":{"authors":{"author":[{"@pid":"98/8537-4","text":"Javier Rojo 0004"},{"@pid":"69/8215","text":"José García-Alonso"},{"@pid":"48/2489","text":"Juan Hernández 0001"},{"@pid":"m/JuanManuelMurillo","text":"Juan Manuel Murillo"},{"@pid":"h/AHelal","text":"Sumi Helal"}]},"title":"Personal Health Trajectory Traceability using Blockchain Technology.","venue":"ICDH","pages":"322-324","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/RojoGHMH23","doi":"10.1109/ICDH60066.2023.00054","ee":"https://doi.org/10.1109/ICDH60066.2023.00054","url":"https://dblp.org/rec/conf/icdh/RojoGHMH23"},
+"url":"URL#1104946"
+},
+{
+"@score":"1",
+"@id":"1104947",
+"info":{"authors":{"author":[{"@pid":"244/0004","text":"Soumyadeep Roy"},{"@pid":"52/6987","text":"Niloy Ganguly"},{"@pid":"67/3314","text":"Shamik Sural"},{"@pid":"139/5123","text":"Koustav Rudra"}]},"title":"Interpretable Clinical Trial Search using Pubmed Citation Network.","venue":"ICDH","pages":"328-338","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/RoyGSR23","doi":"10.1109/ICDH60066.2023.00056","ee":"https://doi.org/10.1109/ICDH60066.2023.00056","url":"https://dblp.org/rec/conf/icdh/RoyGSR23"},
+"url":"URL#1104947"
+},
+{
+"@score":"1",
+"@id":"1104948",
+"info":{"authors":{"author":[{"@pid":"355/9185","text":"Niranjan Sahi"},{"@pid":"355/8100","text":"Anda Liang"},{"@pid":"355/9153","text":"Wyn Van Devanter"},{"@pid":"80/1907","text":"Konstantinos Oikonomou"},{"@pid":"21/1048-0034","text":"Peng Zhang 0034"}]},"title":"Self-Sovereign Identity in Semi-Permissioned Blockchain Networks Leveraging Ethereum and Hyperledger Fabric.","venue":"ICDH","pages":"315-321","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/SahiLDOZ23","doi":"10.1109/ICDH60066.2023.00053","ee":"https://doi.org/10.1109/ICDH60066.2023.00053","url":"https://dblp.org/rec/conf/icdh/SahiLDOZ23"},
+"url":"URL#1104948"
+},
+{
+"@score":"1",
+"@id":"1104949",
+"info":{"authors":{"author":[{"@pid":"81/2643","text":"Fabian Schmidt"},{"@pid":"355/7479","text":"Karin Hammerfald"},{"@pid":"355/7991","text":"Henrik Haaland Jahren"},{"@pid":"355/8078","text":"Ole André Solbakken"},{"@pid":"320/4883","text":"Amir Hossein Payberah"},{"@pid":"47/1386","text":"Vladimir Vlassov"}]},"title":"Using Machine Learning to Recommend Personalized Modular Treatments for Common Mental Health Disorders.","venue":"ICDH","pages":"150-157","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/SchmidtHJSPV23","doi":"10.1109/ICDH60066.2023.00030","ee":"https://doi.org/10.1109/ICDH60066.2023.00030","url":"https://dblp.org/rec/conf/icdh/SchmidtHJSPV23"},
+"url":"URL#1104949"
+},
+{
+"@score":"1",
+"@id":"1104950",
+"info":{"authors":{"author":[{"@pid":"99/822","text":"Lorenzo Simone"},{"@pid":"341/7709","text":"Mauro Giuseppe Camporeale"},{"@pid":"342/6173","text":"Nunzia Lomonte"},{"@pid":"06/5436","text":"Giovanni Dimauro"},{"@pid":"g/VincenzoGervasi","text":"Vincenzo Gervasi"}]},"title":"An Efficient Deep Learning Approach for Arrhythmia Classification using 3D Temporal SVCG.","venue":"ICDH","pages":"234-239","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/SimoneCLDG23","doi":"10.1109/ICDH60066.2023.00041","ee":"https://doi.org/10.1109/ICDH60066.2023.00041","url":"https://dblp.org/rec/conf/icdh/SimoneCLDG23"},
+"url":"URL#1104950"
+},
+{
+"@score":"1",
+"@id":"1104951",
+"info":{"authors":{"author":[{"@pid":"327/8550","text":"Vince S. Siu"},{"@pid":"263/5337","text":"Kuan Yu Hsieh"},{"@pid":"225/5470","text":"Italo Buleje"},{"@pid":"68/1174","text":"Takashi Itoh"},{"@pid":"49/4117","text":"Tian Hao"},{"@pid":"355/8437","text":"Ben Civjan"},{"@pid":"90/6171","text":"Nigel Hinds"},{"@pid":"58/4426","text":"Bing Dang"},{"@pid":"327/8783","text":"Jeffrey L. Rogers"},{"@pid":"33/4553","text":"Bo Wen"}]},"title":"Health Guardian: Using Multi-modal Data to Understand Individual Health.","venue":"ICDH","pages":"65-74","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/SiuHBIHCHDRW23","doi":"10.1109/ICDH60066.2023.00019","ee":"https://doi.org/10.1109/ICDH60066.2023.00019","url":"https://dblp.org/rec/conf/icdh/SiuHBIHCHDRW23"},
+"url":"URL#1104951"
+},
+{
+"@score":"1",
+"@id":"1104952",
+"info":{"authors":{"author":[{"@pid":"245/7200","text":"Parama Sridevi"},{"@pid":"275/2541","text":"Masud Rabbani"},{"@pid":"a/SheikhIqbalAhamed","text":"Sheikh Iqbal Ahamed"}]},"title":"A Comprehensive Study for Predicting Chronic Kidney Disease, Diabetes, Hypertension, and Anemia by Machine Learning and Feature Engineering Techniques.","venue":"ICDH","pages":"248-257","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/SrideviRA23","doi":"10.1109/ICDH60066.2023.00043","ee":"https://doi.org/10.1109/ICDH60066.2023.00043","url":"https://dblp.org/rec/conf/icdh/SrideviRA23"},
+"url":"URL#1104952"
+},
+{
+"@score":"1",
+"@id":"1104953",
+"info":{"authors":{"author":[{"@pid":"245/7200","text":"Parama Sridevi"},{"@pid":"275/2541","text":"Masud Rabbani"},{"@pid":"355/7131","text":"Sayed Mashroor Mamun"},{"@pid":"326/3093","text":"Mohammad Syam"},{"@pid":"328/2949","text":"Rumi Ahmed Khan"},{"@pid":"a/SheikhIqbalAhamed","text":"Sheikh Iqbal Ahamed"}]},"title":"Towards Developing a Mobile-Based Care (KidneyCare) for Patients with Kidney Diseases Using Ten-second Fingertip Video and PPG with Machine Learning.","venue":"ICDH","pages":"202-204","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/SrideviRMSKA23","doi":"10.1109/ICDH60066.2023.00036","ee":"https://doi.org/10.1109/ICDH60066.2023.00036","url":"https://dblp.org/rec/conf/icdh/SrideviRMSKA23"},
+"url":"URL#1104953"
+},
+{
+"@score":"1",
+"@id":"1104954",
+"info":{"authors":{"author":[{"@pid":"78/11483","text":"Tigran T. Tchrakian"},{"@pid":"175/9307","text":"Mykhaylo Zayats"},{"@pid":"136/5179","text":"Alessandra Pascale"},{"@pid":"55/9125","text":"Dat Huynh"},{"@pid":"209/9027","text":"Pritish Parida"},{"@pid":"355/7835","text":"Carla Agurto Rios"},{"@pid":"50/9226","text":"Sergiy Zhuk"},{"@pid":"327/8783","text":"Jeffrey L. Rogers"}]},"title":"A Recommender for the Management of Chronic Pain in Patients Undergoing Spinal Cord Stimulation.","venue":"ICDH","pages":"109-114","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/TchrakianZPHPRZR23","doi":"10.1109/ICDH60066.2023.00024","ee":"https://doi.org/10.1109/ICDH60066.2023.00024","url":"https://dblp.org/rec/conf/icdh/TchrakianZPHPRZR23"},
+"url":"URL#1104954"
+},
+{
+"@score":"1",
+"@id":"1104955",
+"info":{"authors":{"author":[{"@pid":"223/9114","text":"Tiffany Thang"},{"@pid":"355/8433","text":"Achi Mishra"},{"@pid":"251/4376-8","text":"Siyi Zhang 0008"},{"@pid":"355/8517","text":"Grace Peters"},{"@pid":"355/8576","text":"Christian Henry"},{"@pid":"k/SriHastutiKurniawan","text":"Sri Kurniawan"}]},"title":"Designing a VR Game for the Psychosocial Support of Adolescents with Orofacial Cleft Lip and/or Palate.","venue":"ICDH","pages":"169-176","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/ThangMZPHK23","doi":"10.1109/ICDH60066.2023.00032","ee":"https://doi.org/10.1109/ICDH60066.2023.00032","url":"https://dblp.org/rec/conf/icdh/ThangMZPHK23"},
+"url":"URL#1104955"
+},
+{
+"@score":"1",
+"@id":"1104956",
+"info":{"authors":{"author":[{"@pid":"57/11470","text":"Víctor Valls"},{"@pid":"175/9307","text":"Mykhaylo Zayats"},{"@pid":"136/5179","text":"Alessandra Pascale"}]},"title":"Information Flow in Graph Neural Networks: A Clinical Triage Use Case.","venue":"ICDH","pages":"81-87","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/VallsZP23","doi":"10.1109/ICDH60066.2023.00020","ee":"https://doi.org/10.1109/ICDH60066.2023.00020","url":"https://dblp.org/rec/conf/icdh/VallsZP23"},
+"url":"URL#1104956"
+},
+{
+"@score":"1",
+"@id":"1104957",
+"info":{"authors":{"author":[{"@pid":"355/9132","text":"Helina D. VanBibber"},{"@pid":"355/8115","text":"Andrew J. Moyal"},{"@pid":"333/5302","text":"Benjamin J. Geletka"},{"@pid":"270/3538","text":"Colin K. Drummond"},{"@pid":"355/7232","text":"Soham R. Patel"},{"@pid":"333/7577","text":"Jacob G. Calcei"},{"@pid":"270/3386","text":"James E. Voos"},{"@pid":"270/2948","text":"Dhruv R. Seshadri"}]},"title":"Wearable Technology to Quantify Patient Reported Outcome Measures to Guide Rehabilitation Following Anterior Cruciate Ligament Reconstruction.","venue":"ICDH","pages":"356-358","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/VanBibberMGDPCVS23","doi":"10.1109/ICDH60066.2023.00060","ee":"https://doi.org/10.1109/ICDH60066.2023.00060","url":"https://dblp.org/rec/conf/icdh/VanBibberMGDPCVS23"},
+"url":"URL#1104957"
+},
+{
+"@score":"1",
+"@id":"1104958",
+"info":{"authors":{"author":[{"@pid":"190/5790","text":"Yuandou Wang"},{"@pid":"262/5863","text":"Neel Kanwal"},{"@pid":"53/5130","text":"Kjersti Engan"},{"@pid":"50/320","text":"Chunming Rong"},{"@pid":"81/2506","text":"Zhiming Zhao"}]},"title":"Towards a Privacy-Preserving Distributed Cloud Service for Preprocessing Very Large Medical Images.","venue":"ICDH","pages":"325-327","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/WangKERZ23","doi":"10.1109/ICDH60066.2023.00055","ee":"https://doi.org/10.1109/ICDH60066.2023.00055","url":"https://dblp.org/rec/conf/icdh/WangKERZ23"},
+"url":"URL#1104958"
+},
+{
+"@score":"1",
+"@id":"1104959",
+"info":{"authors":{"author":[{"@pid":"40/10331","text":"Yasunori Yamada"},{"@pid":"355/7262","text":"Kaoru Shinakwa"},{"@pid":"71/3477","text":"Masatomo Kobayashi"},{"@pid":"247/9746","text":"Miyuki Nemoto"},{"@pid":"116/4307","text":"Miho Ota"},{"@pid":"127/4622","text":"Kiyotaka Nemoto"},{"@pid":"247/9820","text":"Tetsuaki Arai"}]},"title":"Smartwatch-derived Acoustic Markers for Deficits in Cognitively Relevant Everyday Functioning.","venue":"ICDH","pages":"39-49","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/YamadaSKNONA23","doi":"10.1109/ICDH60066.2023.00015","ee":"https://doi.org/10.1109/ICDH60066.2023.00015","url":"https://dblp.org/rec/conf/icdh/YamadaSKNONA23"},
+"url":"URL#1104959"
+},
+{
+"@score":"1",
+"@id":"1104960",
+"info":{"authors":{"author":[{"@pid":"355/8632","text":"Aijia Yuan"},{"@pid":"93/2284","text":"Michael Xu"},{"@pid":"147/8584","text":"Hongyi Zhu"},{"@pid":"165/9230","text":"Sagar Samtani"},{"@pid":"355/6985","text":"Edlin Garcia"}]},"title":"Towards Privacy-Preserving Depression Detection: Experiments on Passive Sensor Signal Data.","venue":"ICDH","pages":"115-117","year":"2023","type":"Conference and Workshop Papers","access":"closed","key":"conf/icdh/YuanXZSG23","doi":"10.1109/ICDH60066.2023.00025","ee":"https://doi.org/10.1109/ICDH60066.2023.00025","url":"https://dblp.org/rec/conf/icdh/YuanXZSG23"},
+"url":"URL#1104960"
+},
+{
+"@score":"1",
+"@id":"1211574",
+"info":{"title":"IEEE International Conference on Digital Health, ICDH 2023, Chicago, IL, USA, July 2-8, 2023","venue":"ICDH","publisher":"IEEE","year":"2023","type":"Editorship","key":"conf/icdh/2023","doi":"10.1109/ICDH60066.2023","ee":"https://doi.org/10.1109/ICDH60066.2023","url":"https://dblp.org/rec/conf/icdh/2023"},
+"url":"URL#1211574"
+}
+]
+}
+}
+}

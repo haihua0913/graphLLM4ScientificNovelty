@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+game tree,two-player games,-0.1628,1.525
+forward estimation,game tree,0.2898,1.1918
+game tree,static node evaluation function,0.8078,0.62
+domain knowledge,game tree,0.9006,0.4459
+forward estimation,two-player games,-0.4088,1.6786
+static node evaluation function,two-player games,-0.2603,1.5877
+domain knowledge,two-player games,-0.1819,1.5374
+forward estimation,static node evaluation function,0.622,0.8695
+domain knowledge,forward estimation,0.5878,0.9079
+domain knowledge,static node evaluation function,0.9041,0.4381
+game tree,tradeoff between computational complexity and decision quality,0.9847,0.1747
+forward estimation,tradeoff between computational complexity and decision quality,0.365,1.1269
+static node evaluation function,tradeoff between computational complexity and decision quality,0.8439,0.5587
+domain knowledge,tradeoff between computational complexity and decision quality,0.9249,0.3875
+alpha-beta pruning,forward estimation,0.2999,1.1833
+Othello,forward estimation,-0.0196,1.428
+alpha-beta pruning,static node evaluation function,0.8418,0.5626
+Othello,static node evaluation function,-0.4206,1.6856
+Othello,alpha-beta pruning,-0.273,1.5956
+alpha-beta pruning,domain knowledge,0.9085,0.4277
+alpha-beta pruning,tradeoff between computational complexity and decision quality,0.9625,0.274
+Othello,domain knowledge,-0.1245,1.4997
+Othello,tradeoff between computational complexity and decision quality,-0.2203,1.5623

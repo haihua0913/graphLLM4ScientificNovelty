@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+model counting,propositional formula,-0.1055,1.4869
+model counting,satisfiability,0.126,1.3221
+propositional formula,satisfiability,-0.1647,1.5262
+model counting,streamlining constraints,-0.5242,1.746
+model counting,solution space,-0.2561,1.585
+propositional formula,streamlining constraints,0.6375,0.8514
+propositional formula,solution space,0.98,0.1999
+satisfiability,streamlining constraints,-0.3734,1.6574
+satisfiability,solution space,-0.095,1.4799
+solution space,streamlining constraints,0.6896,0.7879
+model counting,parity constraint,-0.0547,1.4524
+CNF form,model counting,0.9391,0.3491
+parity constraint,satisfiability,-0.4131,1.6812
+CNF form,satisfiability,0.0339,1.39
+parity constraint,streamlining constraints,0.1952,1.2687
+CNF form,streamlining constraints,-0.5853,1.7806
+parity constraint,solution space,-0.1872,1.5409
+CNF form,solution space,-0.2868,1.6042
+CNF form,parity constraint,-0.2726,1.5954
+XOR constraints,model counting,-0.1258,1.5005
+model count,model counting,0.9277,0.3803
+XOR constraints,streamlining constraints,0.1156,1.3299
+model count,streamlining constraints,-0.336,1.6346
+XOR constraints,solution space,-0.4438,1.6993
+model count,solution space,-0.0979,1.4818
+XOR constraints,parity constraint,0.8887,0.4717
+CNF form,XOR constraints,-0.3176,1.6233
+XOR constraints,model count,-0.2845,1.6028
+model count,parity constraint,-0.1471,1.5146
+CNF form,model count,0.9426,0.3387
+XOR constraints,combinatorial problem instances,-0.3968,1.6714
+combinatorial problem instances,model count,0.0658,1.3669

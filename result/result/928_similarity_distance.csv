@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+Chinese characters,stylized characters,0.4299,1.0678
+Style-Aware Variational Auto-Encoder,stylized characters,0.4672,1.0323
+Chinese characters,Style-Aware Variational Auto-Encoder,-0.195,1.546
+Style-Aware Variational Auto-Encoder,content-relevant,0.0968,1.344
+Style-Aware Variational Auto-Encoder,style-relevant,0.231,1.2402
+Style-Aware Variational Auto-Encoder,intercross pair-wise optimization,-0.3695,1.655
+content-relevant,stylized characters,-0.1867,1.5406
+style-relevant,stylized characters,-0.0198,1.4282
+intercross pair-wise optimization,stylized characters,0.1282,1.3204
+Chinese characters,content-relevant,-0.1966,1.547
+Chinese characters,style-relevant,-0.1449,1.5132
+Chinese characters,intercross pair-wise optimization,0.9291,0.3766
+content-relevant,style-relevant,0.9436,0.3358
+content-relevant,intercross pair-wise optimization,-0.0914,1.4774
+intercross pair-wise optimization,style-relevant,-0.0983,1.4821
+Style-Aware Variational Auto-Encoder,few-shot generalization,-0.3404,1.6373
+Chinese characters,few-shot generalization,0.0428,1.3836
+content-relevant,few-shot generalization,0.2791,1.2008
+few-shot generalization,style-relevant,0.2446,1.2291
+few-shot generalization,intercross pair-wise optimization,0.1147,1.3307

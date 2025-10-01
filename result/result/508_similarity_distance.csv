@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+stereo depth sensing system,stereo rectification,-0.5287,1.7486
+monocular depth estimation,stereo depth sensing system,-0.1856,1.5399
+novel view generation,stereo depth sensing system,-0.1013,1.4841
+3D computational photography,stereo depth sensing system,-0.4416,1.698
+smart glasses,stereo depth sensing system,0.7998,0.6328
+monocular depth estimation,stereo rectification,-0.0461,1.4464
+novel view generation,stereo rectification,0.0572,1.3732
+3D computational photography,stereo rectification,0.8966,0.4547
+smart glasses,stereo rectification,-0.1773,1.5345
+monocular depth estimation,novel view generation,-0.4141,1.6817
+3D computational photography,monocular depth estimation,-0.0529,1.4511
+monocular depth estimation,smart glasses,-0.3735,1.6574
+3D computational photography,novel view generation,-0.0743,1.4658
+novel view generation,smart glasses,0.009,1.4078
+3D computational photography,smart glasses,0.023,1.3979
+mobile phone,stereo depth sensing system,0.7509,0.7058
+mobile phone,stereo rectification,-0.091,1.4772
+mobile phone,monocular depth estimation,-0.2481,1.5799
+mobile phone,novel view generation,-0.0762,1.4671
+3D computational photography,mobile phone,0.0838,1.3536
+mobile phone,smart glasses,0.9504,0.315
+calibration,memory and latency constraints,0.0793,1.357
+calibration,smart glasses,0.9405,0.3451
+memory and latency constraints,smart glasses,-0.0429,1.4442

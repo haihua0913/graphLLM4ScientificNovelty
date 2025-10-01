@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+Operator cost partitioning,admissible heuristics,-0.1723,1.5312
+Operator cost partitioning,distributed costs,-0.2538,1.5835
+admissible heuristics,distributed costs,0.6728,0.809
+Operator cost partitioning,general cost partitioning,0.8525,0.5432
+admissible heuristics,general cost partitioning,-0.2293,1.568
+distributed costs,general cost partitioning,-0.347,1.6413
+LP heuristics,distributed costs,-0.1351,1.5067
+distributed costs,operator-counting constraints,0.5285,0.9711
+distributed costs,state equation heuristic,0.0249,1.3965
+atomic projections,distributed costs,0.5928,0.9025
+LP heuristics,operator-counting constraints,0.058,1.3726
+LP heuristics,state equation heuristic,0.9432,0.3371
+LP heuristics,atomic projections,0.1674,1.2905
+LP heuristics,general cost partitioning,0.2766,1.2028
+operator-counting constraints,state equation heuristic,0.0061,1.4099
+atomic projections,operator-counting constraints,-0.0516,1.4502
+general cost partitioning,operator-counting constraints,-0.1129,1.4919
+atomic projections,state equation heuristic,0.29,1.1917
+general cost partitioning,state equation heuristic,0.0206,1.3996
+atomic projections,general cost partitioning,-0.3173,1.6231
+LP heuristics,potential heuristics,0.0173,1.4019
+operator-counting constraints,potential heuristics,0.0217,1.3988
+potential heuristics,state equation heuristic,-0.2373,1.5731
+atomic projections,potential heuristics,-0.4404,1.6973
+general cost partitioning,potential heuristics,0.939,0.3494

@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+meta-learning,task uncertainty,-0.0943,1.4794
+gradient-based meta-learning,meta-learning,-0.2795,1.5997
+hierarchically structured meta-learning,meta-learning,-0.2356,1.572
+gradient-based meta-learning,task uncertainty,0.0281,1.3942
+hierarchically structured meta-learning,task uncertainty,-0.3366,1.635
+gradient-based meta-learning,hierarchically structured meta-learning,0.1573,1.2982
+hierarchical task clustering,meta-learning,-0.1429,1.5119
+hierarchical task clustering,task uncertainty,-0.1103,1.4901
+gradient-based meta-learning,hierarchical task clustering,-0.0726,1.4646
+hierarchical task clustering,hierarchically structured meta-learning,0.9315,0.3701
+knowledge customization,meta-learning,-0.5332,1.7511
+gradient-based meta-learning,knowledge customization,0.246,1.228
+hierarchically structured meta-learning,knowledge customization,0.9424,0.3394
+hierarchical task clustering,knowledge customization,0.851,0.5459
+continual learning,hierarchical task clustering,-0.1771,1.5344
+continual learning,knowledge customization,0.0209,1.3994
+knowledge customization,toy-regression,-0.0509,1.4498
+continual learning,toy-regression,-0.2432,1.5768

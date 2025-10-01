@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+Imperfect information games,zero-sum,-0.2397,1.5746
+Imperfect information games,self-play,-0.383,1.6631
+Imperfect information games,trajectory feedback,0.5031,0.9969
+self-play,zero-sum,-0.312,1.6199
+trajectory feedback,zero-sum,-0.0201,1.4284
+self-play,trajectory feedback,-0.5568,1.7645
+Imperfect information games,lower bound,-0.0736,1.4653
+lower bound,zero-sum,-0.2797,1.5998
+lower bound,self-play,-0.0038,1.4169
+lower bound,trajectory feedback,-0.0906,1.4769
+Balanced FTRL,zero-sum,-0.349,1.6425
+Adaptive FTRL,zero-sum,0.1592,1.2967
+regularization,zero-sum,0.0127,1.4052
+Balanced FTRL,self-play,0.9615,0.2774
+Adaptive FTRL,self-play,-0.0202,1.4284
+regularization,self-play,-0.2743,1.5964
+Balanced FTRL,trajectory feedback,-0.34,1.6371
+Adaptive FTRL,trajectory feedback,-0.2391,1.5742
+regularization,trajectory feedback,0.1647,1.2925
+Balanced FTRL,lower bound,-0.0817,1.4709
+Adaptive FTRL,lower bound,0.8901,0.4688
+lower bound,regularization,-0.1095,1.4896
+Adaptive FTRL,Balanced FTRL,-0.1454,1.5135
+Balanced FTRL,regularization,-0.2797,1.5998
+Adaptive FTRL,regularization,-0.1285,1.5023

@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+Contracting-domain Newton methods,second-order algorithms,0.9385,0.3506
+Contracting-domain Newton methods,composite convex optimization,-0.355,1.6462
+Contracting-domain Newton methods,affine-invariant,0.9285,0.3782
+composite convex optimization,second-order algorithms,-0.4361,1.6948
+affine-invariant,second-order algorithms,0.9804,0.1979
+affine-invariant,composite convex optimization,-0.4957,1.7296
+Contracting-domain Newton methods,trust-region scheme,-0.3614,1.6501
+second-order algorithms,trust-region scheme,-0.3231,1.6267
+composite convex optimization,trust-region scheme,0.4712,1.0284
+affine-invariant,trust-region scheme,-0.287,1.6044
+affine-invariant,global rate of convergence,-0.0492,1.4486
+Lipschitz continuous Hessian,affine-invariant,0.2315,1.2398
+global rate of convergence,trust-region scheme,-0.1147,1.4931
+Lipschitz continuous Hessian,trust-region scheme,-0.3306,1.6313
+Lipschitz continuous Hessian,global rate of convergence,0.9222,0.3944
+global rate of convergence,stochastic extension,-0.0793,1.4692
+Lipschitz continuous Hessian,stochastic extension,-0.0755,1.4666

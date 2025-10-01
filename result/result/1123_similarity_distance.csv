@@ -1,0 +1,40 @@
+node1,node2,similarity,distance
+Embodied AI,ProcTHOR,-0.0415,1.4433
+ProcTHOR,procedural generation,0.1404,1.3112
+Embodied AI,procedural generation,0.9018,0.4432
+ProcTHOR,virtual environments,0.3652,1.1267
+ProcTHOR,navigation,-0.0957,1.4803
+ProcTHOR,interaction,0.9686,0.2507
+ProcTHOR,manipulation tasks,-0.0431,1.4444
+Embodied AI,virtual environments,-0.4669,1.7128
+Embodied AI,navigation,-0.0731,1.465
+Embodied AI,interaction,-0.0818,1.4709
+Embodied AI,manipulation tasks,0.0056,1.4102
+procedural generation,virtual environments,-0.1693,1.5293
+navigation,procedural generation,-0.1258,1.5005
+interaction,procedural generation,0.1574,1.2981
+manipulation tasks,procedural generation,-0.0268,1.433
+navigation,virtual environments,-0.4103,1.6795
+interaction,virtual environments,0.5252,0.9744
+manipulation tasks,virtual environments,-0.0667,1.4606
+interaction,navigation,-0.1517,1.5177
+manipulation tasks,navigation,0.005,1.4106
+interaction,manipulation tasks,-0.1063,1.4874
+ProcTHOR,RGB images,-0.1049,1.4865
+ProcTHOR,state-of-the-art results,-0.0556,1.453
+Embodied AI,RGB images,0.0103,1.4069
+Embodied AI,state-of-the-art results,-0.1082,1.4887
+RGB images,virtual environments,-0.1441,1.5126
+state-of-the-art results,virtual environments,0.0595,1.3715
+RGB images,navigation,-0.4611,1.7095
+navigation,state-of-the-art results,-0.5398,1.7549
+RGB images,interaction,-0.228,1.5672
+interaction,state-of-the-art results,-0.1378,1.5085
+RGB images,manipulation tasks,-0.0914,1.4774
+manipulation tasks,state-of-the-art results,-0.0964,1.4808
+RGB images,state-of-the-art results,0.9692,0.2483
+0-shot results,ProcTHOR,-0.0764,1.4672
+0-shot results,Embodied AI,-0.0113,1.4222
+0-shot results,navigation,-0.3141,1.6212
+0-shot results,RGB images,0.9524,0.3085
+0-shot results,state-of-the-art results,0.9561,0.2962

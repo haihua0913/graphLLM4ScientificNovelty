@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+DPPs,Determinantal point processes,0.972,0.2367
+Determinantal point processes,repulsion,0.9616,0.277
+DPPs,repulsion,0.8928,0.4631
+Determinantal point processes,discrete setting,0.0966,1.3442
+Determinantal point processes,efficient sampling,-0.3774,1.6598
+DPPs,discrete setting,0.2268,1.2436
+DPPs,efficient sampling,-0.332,1.6322
+discrete setting,repulsion,-0.0269,1.4331
+efficient sampling,repulsion,-0.2264,1.5661
+discrete setting,efficient sampling,0.1513,1.3028
+DPPs,continuous spaces,-0.1124,1.4916
+continuous spaces,discrete setting,-0.0895,1.4761
+continuous spaces,efficient sampling,-0.0321,1.4367
+DPPs,Nystrom,-0.3236,1.627
+DPPs,random Fourier feature,-0.3855,1.6646
+DPPs,Gibbs sampling,-0.1742,1.5324
+Nystrom,continuous spaces,-0.2024,1.5507
+continuous spaces,random Fourier feature,-0.0419,1.4435
+Gibbs sampling,continuous spaces,0.9616,0.2772
+Nystrom,random Fourier feature,-0.027,1.4331
+Gibbs sampling,Nystrom,-0.2372,1.573
+Gibbs sampling,random Fourier feature,0.1799,1.2807

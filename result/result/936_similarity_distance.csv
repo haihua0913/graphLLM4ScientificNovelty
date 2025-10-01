@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+clinical notes,goals of care,-0.2606,1.5878
+electronic health records,goals of care,-0.2505,1.5814
+deep neural network,goals of care,-0.2489,1.5804
+clinical notes,electronic health records,0.9627,0.2731
+clinical notes,deep neural network,0.9059,0.4338
+deep neural network,electronic health records,0.9012,0.4446
+clinical notes,manual chart review,0.9028,0.4408
+clinical notes,rule-based regular expressions,0.9497,0.3172
+electronic health records,manual chart review,0.8717,0.5066
+electronic health records,rule-based regular expressions,0.9715,0.2387
+deep neural network,manual chart review,0.993,0.1179
+deep neural network,rule-based regular expressions,0.8298,0.5834
+manual chart review,rule-based regular expressions,0.8063,0.6224
+clinical notes,patient care preferences,-0.1601,1.5233
+F1-score,clinical notes,0.3088,1.1758
+electronic health records,patient care preferences,-0.1185,1.4956
+F1-score,electronic health records,0.342,1.1472
+deep neural network,patient care preferences,-0.2263,1.5661
+F1-score,deep neural network,0.302,1.1816
+manual chart review,patient care preferences,-0.2337,1.5708
+F1-score,manual chart review,0.2803,1.1998
+patient care preferences,rule-based regular expressions,0.0398,1.3858
+F1-score,rule-based regular expressions,0.3637,1.1281
+F1-score,patient care preferences,0.6232,0.8682

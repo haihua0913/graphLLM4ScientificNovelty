@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+Generalized Deformable Spatial Pyramid,dense correspondence,0.0487,1.3793
+Generalized Deformable Spatial Pyramid,appearance variations,-0.0469,1.447
+Generalized Deformable Spatial Pyramid,geometric variations,0.0437,1.383
+appearance variations,dense correspondence,0.9927,0.1211
+dense correspondence,geometric variations,0.998,0.063
+appearance variations,geometric variations,0.9892,0.1467
+Generalized Deformable Spatial Pyramid,spatial smoothness,0.9788,0.2057
+Generalized Deformable Spatial Pyramid,search space,0.107,1.3364
+dense correspondence,spatial smoothness,-0.0122,1.4228
+dense correspondence,search space,-0.0955,1.4802
+appearance variations,spatial smoothness,-0.1106,1.4903
+appearance variations,search space,-0.1286,1.5024
+geometric variations,spatial smoothness,-0.0133,1.4236
+geometric variations,search space,-0.1196,1.4964
+search space,spatial smoothness,0.0611,1.3703
+geometric variations,high-dimensional labels,0.0448,1.3822
+high-dimensional labels,spatial smoothness,0.9098,0.4247
+high-dimensional labels,search space,0.2172,1.2513
+spatial regularization,spatial smoothness,0.9558,0.2973
+perspective transform,spatial smoothness,0.9866,0.1634
+non-rigid deformation,spatial smoothness,0.932,0.3687
+search space,spatial regularization,0.1439,1.3085
+perspective transform,search space,0.0465,1.3809
+non-rigid deformation,search space,0.1571,1.2984
+high-dimensional labels,spatial regularization,0.9199,0.4002
+high-dimensional labels,perspective transform,0.9045,0.437
+high-dimensional labels,non-rigid deformation,0.9271,0.3817
+perspective transform,spatial regularization,0.9786,0.2067
+non-rigid deformation,spatial regularization,0.9844,0.1768
+non-rigid deformation,perspective transform,0.9489,0.3197

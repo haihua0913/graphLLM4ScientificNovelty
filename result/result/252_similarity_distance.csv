@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+semantic structure,temporal relations,0.0072,1.4091
+annotated,temporal relations,0.0964,1.3443
+inter-annotator agreement,temporal relations,-0.2145,1.5585
+annotated,semantic structure,0.0689,1.3646
+inter-annotator agreement,semantic structure,-0.163,1.5251
+annotated,inter-annotator agreement,0.0026,1.4124
+machine learning models,temporal relations,-0.1949,1.5459
+WordNet,temporal relations,0.1228,1.3246
+Google N-gram corpus,temporal relations,-0.1236,1.4991
+F-measure,temporal relations,0.0057,1.4102
+machine learning models,semantic structure,0.1416,1.3103
+WordNet,semantic structure,0.9845,0.1758
+Google N-gram corpus,semantic structure,0.9587,0.2874
+F-measure,semantic structure,0.064,1.3682
+annotated,machine learning models,0.1231,1.3243
+WordNet,annotated,0.1565,1.2988
+Google N-gram corpus,annotated,0.1994,1.2654
+F-measure,annotated,0.1168,1.329
+inter-annotator agreement,machine learning models,0.9276,0.3807
+WordNet,inter-annotator agreement,-0.2296,1.5682
+Google N-gram corpus,inter-annotator agreement,-0.0441,1.445
+F-measure,inter-annotator agreement,-0.0897,1.4763
+WordNet,machine learning models,0.0944,1.3458
+Google N-gram corpus,machine learning models,0.2892,1.1923
+F-measure,machine learning models,-0.1484,1.5155
+Google N-gram corpus,WordNet,0.9498,0.3168
+F-measure,WordNet,0.0146,1.4039
+F-measure,Google N-gram corpus,0.0403,1.3854

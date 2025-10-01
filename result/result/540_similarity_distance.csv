@@ -1,0 +1,39 @@
+node1,node2,similarity,distance
+images,viewpoints,0.8059,0.6231
+images,synthesizing,-0.5762,1.7755
+3D geometry,images,-0.1951,1.546
+images,reconstruction,0.7027,0.7711
+synthesizing,viewpoints,-0.6809,1.8335
+3D geometry,viewpoints,-0.3539,1.6455
+reconstruction,viewpoints,0.6223,0.8692
+3D geometry,synthesizing,-0.3473,1.6415
+reconstruction,synthesizing,-0.3807,1.6617
+3D geometry,reconstruction,-0.1381,1.5087
+depth estimation,images,0.1428,1.3093
+images,regularization,0.2013,1.2639
+depth estimation,viewpoints,-0.3031,1.6144
+regularization,viewpoints,0.3924,1.1023
+depth estimation,synthesizing,0.1125,1.3323
+regularization,synthesizing,-0.0744,1.4659
+3D geometry,depth estimation,0.0476,1.3801
+3D geometry,regularization,-0.281,1.6006
+depth estimation,reconstruction,-0.033,1.4374
+reconstruction,regularization,-0.0451,1.4457
+depth estimation,regularization,-0.1686,1.5288
+images,texture statistics,0.0662,1.3666
+3D geometry,texture statistics,0.1413,1.3105
+reconstruction,texture statistics,-0.1615,1.5242
+depth estimation,texture statistics,0.976,0.2191
+regularization,texture statistics,-0.1064,1.4876
+images,synthetic views,-0.2095,1.5553
+reconstruction,synthetic views,-0.304,1.6149
+depth estimation,synthetic views,-0.1851,1.5396
+regularization,synthetic views,-0.1429,1.5119
+synthetic views,texture statistics,-0.1647,1.5263
+images,steadicam stabilization,-0.5171,1.7419
+texture statistics,viewpoints,-0.3727,1.6569
+synthetic views,viewpoints,-0.3157,1.6222
+steadicam stabilization,viewpoints,-0.0313,1.4362
+reconstruction,steadicam stabilization,-0.3616,1.6502
+steadicam stabilization,texture statistics,-0.4419,1.6982
+steadicam stabilization,synthetic views,0.0574,1.373

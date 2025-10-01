@@ -1,0 +1,11 @@
+node1,node2,similarity,distance
+document image workflow system,handwritten student assessments,0.0595,1.3715
+document image workflow system,university setting,0.3204,1.1659
+handwritten student assessments,university setting,-0.0396,1.442
+image capture module,image processing algorithms,0.9578,0.2905
+image annotation module,image capture module,0.9671,0.2565
+image annotation module,image processing algorithms,0.9401,0.3461
+document similarity,image capture module,0.9689,0.2493
+document similarity,image processing algorithms,0.9696,0.2467
+document similarity,image annotation module,0.9252,0.3867
+computer vision,document similarity,0.8219,0.5969

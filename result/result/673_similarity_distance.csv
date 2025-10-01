@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+attention based model,machine translation,0.1864,1.2756
+attention based model,object detection,-0.2969,1.6106
+attention based model,images,0.1875,1.2748
+attention based model,backpropagation,0.2276,1.2429
+attention based model,variational lower bound,0.3105,1.1743
+machine translation,object detection,-0.2846,1.6029
+images,machine translation,-0.1999,1.5491
+backpropagation,machine translation,-0.0113,1.4222
+machine translation,variational lower bound,-0.021,1.429
+images,object detection,-0.158,1.5218
+backpropagation,object detection,-0.1864,1.5404
+object detection,variational lower bound,-0.4272,1.6895
+backpropagation,images,0.0157,1.4031
+images,variational lower bound,0.9367,0.3559
+backpropagation,variational lower bound,-0.0227,1.4302
+attention based model,gaze,0.8673,0.5152
+attention based model,salient objects,0.1243,1.3234
+gaze,machine translation,0.0161,1.4028
+machine translation,salient objects,-0.2899,1.6062
+gaze,object detection,-0.1047,1.4864
+object detection,salient objects,0.7799,0.6635
+gaze,images,-0.0202,1.4284
+images,salient objects,0.1158,1.3298
+backpropagation,gaze,-0.0887,1.4756
+backpropagation,salient objects,0.093,1.3469
+gaze,variational lower bound,0.0504,1.3781
+salient objects,variational lower bound,-0.1318,1.5045
+gaze,salient objects,0.2422,1.2311
+backpropagation,benchmark datasets,-0.1708,1.5302
+benchmark datasets,variational lower bound,-0.3824,1.6628
+benchmark datasets,gaze,0.13,1.3191
+benchmark datasets,salient objects,-0.2381,1.5736

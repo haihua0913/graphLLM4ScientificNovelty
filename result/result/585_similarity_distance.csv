@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+Mask R-CNN,object instance segmentation,0.1429,1.3093
+Mask R-CNN,object mask,0.3096,1.175
+Mask R-CNN,bounding box recognition,-0.2383,1.5737
+Faster R-CNN,Mask R-CNN,0.9062,0.4331
+object instance segmentation,object mask,0.3019,1.1816
+bounding box recognition,object instance segmentation,0.3737,1.1192
+Faster R-CNN,object instance segmentation,-0.192,1.544
+bounding box recognition,object mask,0.1002,1.3415
+Faster R-CNN,object mask,0.176,1.2837
+Faster R-CNN,bounding box recognition,-0.2827,1.6017
+Mask R-CNN,human poses,0.2632,1.2139
+human poses,object mask,0.512,0.988
+bounding box recognition,human poses,0.379,1.1145
+Faster R-CNN,human poses,-0.0262,1.4326
+COCO suite,Mask R-CNN,0.2857,1.1952
+COCO suite,Faster R-CNN,0.0088,1.4079
+COCO suite,human poses,0.5306,0.969
+Mask R-CNN,single-model entries,0.1472,1.306
+human poses,single-model entries,0.3371,1.1515
+COCO suite,single-model entries,0.345,1.1446
+Mask R-CNN,instance-level recognition,-0.3449,1.6401
+COCO suite,instance-level recognition,-0.1569,1.5211
+instance-level recognition,single-model entries,-0.104,1.4859

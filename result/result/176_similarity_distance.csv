@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+POI retrieval,on-demand ridehailing services,0.2271,1.2433
+POI retrieval,semantic similarity,0.167,1.2907
+on-demand ridehailing services,semantic similarity,0.8683,0.5132
+POI retrieval,Query-POI pair,0.2351,1.2369
+Query-POI pair,on-demand ridehailing services,0.7734,0.6733
+Query-POI pair,semantic similarity,0.9423,0.3398
+POI retrieval,local&global semantic features,-0.12,1.4966
+local&global semantic features,semantic similarity,-0.3054,1.6158
+Query-POI pair,local&global semantic features,-0.3344,1.6336
+POI retrieval,location embeddings,0.0118,1.4058
+POI retrieval,ride-hailing scenarios,0.2827,1.1978
+location embeddings,semantic similarity,0.8419,0.5624
+ride-hailing scenarios,semantic similarity,0.8335,0.577
+Query-POI pair,location embeddings,0.7248,0.7419
+Query-POI pair,ride-hailing scenarios,0.6953,0.7806
+local&global semantic features,location embeddings,0.1249,1.323
+local&global semantic features,ride-hailing scenarios,0.0007,1.4137
+location embeddings,ride-hailing scenarios,0.9013,0.4443
+geographic correlation,semantic similarity,0.017,1.4021
+POI ranking,semantic similarity,0.9575,0.2916
+Query-POI pair,geographic correlation,-0.0475,1.4474
+POI ranking,Query-POI pair,0.8736,0.5028
+geographic correlation,local&global semantic features,0.8586,0.5317
+POI ranking,local&global semantic features,-0.146,1.514
+geographic correlation,location embeddings,0.4923,1.0077
+POI ranking,geographic correlation,0.2129,1.2547
+geographic correlation,ride-hailing scenarios,0.2974,1.1854
+POI ranking,location embeddings,0.9445,0.333
+POI ranking,ride-hailing scenarios,0.9242,0.3894

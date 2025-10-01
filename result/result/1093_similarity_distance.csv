@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+Document intelligence,self-supervised learning,0.9279,0.3797
+Document intelligence,document pretraining,0.8333,0.5774
+document pretraining,self-supervised learning,0.924,0.3899
+UDoc,self-supervised learning,0.8909,0.4672
+UDoc,document pretraining,0.9694,0.2475
+Transformer,document pretraining,-0.3193,1.6244
+document pretraining,multimodal embeddings,0.9919,0.1274
+Transformer,UDoc,-0.4624,1.7102
+UDoc,multimodal embeddings,0.965,0.2648
+Transformer,multimodal embeddings,-0.2566,1.5853
+UDoc,self-supervised losses,0.3552,1.1356
+Transformer,self-supervised losses,-0.3852,1.6645
+multimodal embeddings,self-supervised losses,0.231,1.2402
+UDoc,joint representations,-0.0395,1.4419
+UDoc,downstream tasks,-0.0902,1.4766
+joint representations,self-supervised losses,-0.2965,1.6103
+downstream tasks,self-supervised losses,-0.2926,1.6079
+downstream tasks,joint representations,0.9446,0.3328

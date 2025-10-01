@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+microblogs,similarity scores,0.9207,0.3981
+microblog recommendation,microblogs,-0.125,1.5
+microblogs,topic based approach,-0.1928,1.5445
+WordNet based approach,microblogs,0.0607,1.3706
+microblog recommendation,similarity scores,-0.298,1.6112
+similarity scores,topic based approach,-0.1462,1.514
+WordNet based approach,similarity scores,-0.1629,1.5251
+microblog recommendation,topic based approach,-0.1431,1.512
+WordNet based approach,microblog recommendation,0.944,0.3347
+WordNet based approach,topic based approach,0.0104,1.4068
+microblogs,recommendation effectiveness,0.0733,1.3614
+recommendation effectiveness,similarity scores,-0.1252,1.5002
+microblog recommendation,recommendation effectiveness,0.954,0.3033
+recommendation effectiveness,topic based approach,-0.2214,1.5629
+WordNet based approach,recommendation effectiveness,0.9169,0.4077
+microblogs,precision,0.9871,0.1606
+precision,similarity scores,0.9316,0.37
+precision,topic based approach,-0.1676,1.5281
+WordNet based approach,precision,-0.0402,1.4424
+precision,recommendation effectiveness,-0.0485,1.4481
+Kendall tau distance,topic based approach,-0.341,1.6377
+Kendall tau distance,WordNet based approach,-0.4559,1.7064
+Kendall tau distance,recommendation effectiveness,-0.1623,1.5247
+Kendall tau distance,precision,-0.1213,1.4975

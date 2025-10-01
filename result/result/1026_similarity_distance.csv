@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+graphical model,submodular energy,-0.0777,1.4681
+M-best diverse labelings,submodular energy,0.1718,1.287
+diversity measures,submodular energy,-0.223,1.564
+M-best diverse labelings,graphical model,-0.3891,1.6668
+diversity measures,graphical model,-0.144,1.5126
+M-best diverse labelings,diversity measures,-0.1026,1.485
+nestedness,parametric submodular minimization,-0.1459,1.5139
+global parameter,nestedness,-0.5152,1.7408
+diversity measures,nestedness,0.0367,1.388
+global parameter,parametric submodular minimization,-0.2583,1.5864
+diversity measures,parametric submodular minimization,-0.1415,1.5109
+diversity measures,global parameter,0.0862,1.3519
+monotonic parametric max-flow,nestedness,-0.0893,1.476
+monotonic parametric max-flow,parametric submodular minimization,0.9851,0.1726
+global parameter,monotonic parametric max-flow,-0.2853,1.6033
+M-best diverse labelings,parametric submodular minimization,0.0342,1.3898
+M-best diverse labelings,monotonic parametric max-flow,0.1452,1.3075
+M-best diverse labelings,non-parametric submodular minimization,0.1951,1.2688
+non-parametric submodular minimization,parametric submodular minimization,0.9122,0.4191
+monotonic parametric max-flow,non-parametric submodular minimization,0.9164,0.4089
+diversity measures,monotonic parametric max-flow,-0.1766,1.534
+diversity measures,non-parametric submodular minimization,-0.1213,1.4975

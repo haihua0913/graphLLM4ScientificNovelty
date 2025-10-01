@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+CNN,performance,-0.2779,1.5987
+CNN,feature sequence,-0.4224,1.6867
+feature sequence,performance,0.8568,0.5351
+CNN,multi-sequence models,-0.3006,1.6128
+feature sequence,multi-sequence models,-0.0255,1.4321
+multi-sequence models,performance,-0.2253,1.5654
+feature learning,multi-sequence models,-0.1249,1.4999
+embedding sequences,multi-sequence models,-0.1932,1.5448
+embedding sequences,feature learning,-0.144,1.5126
+Avazu dataset,feature learning,0.7725,0.6745
+feature learning,real commercial dataset,0.0017,1.413
+Avazu dataset,embedding sequences,-0.1785,1.5353
+embedding sequences,real commercial dataset,-0.0217,1.4295
+Avazu dataset,real commercial dataset,0.2071,1.2593

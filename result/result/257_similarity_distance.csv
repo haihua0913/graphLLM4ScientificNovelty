@@ -1,0 +1,42 @@
+node1,node2,similarity,distance
+integer linear program,non-projective dependency parsing,0.9791,0.2046
+non-local output features,non-projective dependency parsing,-0.0157,1.4253
+hard constraints,non-projective dependency parsing,-0.162,1.5245
+non-projective dependency parsing,soft constraints,0.1257,1.3223
+integer linear program,non-local output features,0.1031,1.3393
+hard constraints,integer linear program,-0.1702,1.5298
+integer linear program,soft constraints,0.1641,1.2929
+hard constraints,non-local output features,-0.3409,1.6376
+non-local output features,soft constraints,0.0558,1.3742
+hard constraints,soft constraints,0.805,0.6245
+neighboring arcs,non-projective dependency parsing,-0.1641,1.5258
+non-projective dependency parsing,word valency,-0.2299,1.5684
+nearly-projective parses,non-projective dependency parsing,-0.381,1.6619
+integer linear program,neighboring arcs,-0.2152,1.559
+integer linear program,word valency,-0.229,1.5678
+integer linear program,nearly-projective parses,-0.3037,1.6148
+neighboring arcs,non-local output features,0.1397,1.3118
+non-local output features,word valency,-0.2808,1.6005
+nearly-projective parses,non-local output features,-0.1095,1.4897
+hard constraints,neighboring arcs,-0.2321,1.5698
+hard constraints,word valency,0.9021,0.4424
+hard constraints,nearly-projective parses,-0.1988,1.5484
+neighboring arcs,soft constraints,-0.308,1.6174
+soft constraints,word valency,0.7598,0.6932
+nearly-projective parses,soft constraints,-0.1795,1.5359
+neighboring arcs,word valency,-0.4728,1.7163
+nearly-projective parses,neighboring arcs,0.1099,1.3343
+nearly-projective parses,word valency,-0.2248,1.5652
+max-margin framework,non-local output features,-0.2806,1.6004
+linear programming relaxation,non-local output features,0.1109,1.3335
+hard constraints,max-margin framework,-0.0276,1.4336
+hard constraints,linear programming relaxation,-0.1575,1.5215
+max-margin framework,soft constraints,-0.0281,1.4339
+linear programming relaxation,soft constraints,0.2062,1.26
+max-margin framework,neighboring arcs,-0.1383,1.5088
+linear programming relaxation,neighboring arcs,-0.1693,1.5292
+max-margin framework,word valency,-0.0261,1.4325
+linear programming relaxation,word valency,-0.2117,1.5568
+max-margin framework,nearly-projective parses,0.9528,0.3073
+linear programming relaxation,nearly-projective parses,-0.2137,1.558
+linear programming relaxation,max-margin framework,-0.1211,1.4974

@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+graph parsing,graph-based semantic representations,0.9757,0.2205
+graph parsing,synchronous string-to-graph grammars,-0.4524,1.7043
+graph-based semantic representations,synchronous string-to-graph grammars,-0.3963,1.6711
+graph parsing,s-graph grammars,0.9629,0.2725
+bottom-up,graph parsing,-0.4763,1.7183
+graph parsing,top-down,-0.2534,1.5833
+algorithms,graph parsing,-0.3459,1.6407
+s-graph grammars,synchronous string-to-graph grammars,-0.3571,1.6475
+bottom-up,synchronous string-to-graph grammars,0.5791,0.9175
+synchronous string-to-graph grammars,top-down,0.5182,0.9817
+algorithms,synchronous string-to-graph grammars,0.6016,0.8927
+bottom-up,s-graph grammars,-0.3229,1.6266
+s-graph grammars,top-down,-0.1011,1.484
+algorithms,s-graph grammars,-0.2131,1.5576
+bottom-up,top-down,0.8846,0.4803
+algorithms,bottom-up,0.917,0.4074
+algorithms,top-down,0.981,0.1947
+graph parsing,hyperedge replacement grammars,-0.3395,1.6368
+hyperedge replacement grammars,synchronous string-to-graph grammars,0.7743,0.6719
+hyperedge replacement grammars,s-graph grammars,-0.348,1.642
+bottom-up,hyperedge replacement grammars,0.1301,1.319
+hyperedge replacement grammars,top-down,0.0092,1.4077
+algorithms,hyperedge replacement grammars,0.1349,1.3154

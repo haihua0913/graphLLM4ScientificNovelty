@@ -1,0 +1,39 @@
+node1,node2,similarity,distance
+ControlNet,neural network architecture,0.3002,1.1831
+ControlNet,spatial conditioning,0.0308,1.3923
+ControlNet,text-to-image diffusion models,0.0689,1.3646
+ControlNet,pretrained,-0.5806,1.778
+ControlNet,conditioning controls,-0.5282,1.7482
+ControlNet,image diffusion models,0.1749,1.2846
+neural network architecture,spatial conditioning,-0.0311,1.436
+neural network architecture,text-to-image diffusion models,0.1184,1.3279
+neural network architecture,pretrained,-0.1231,1.4987
+conditioning controls,neural network architecture,-0.1517,1.5177
+image diffusion models,neural network architecture,0.5098,0.9901
+spatial conditioning,text-to-image diffusion models,0.9622,0.275
+pretrained,spatial conditioning,-0.0964,1.4808
+conditioning controls,spatial conditioning,-0.146,1.5139
+image diffusion models,spatial conditioning,-0.2411,1.5755
+pretrained,text-to-image diffusion models,-0.275,1.5969
+conditioning controls,text-to-image diffusion models,-0.3149,1.6217
+image diffusion models,text-to-image diffusion models,-0.2995,1.6122
+conditioning controls,pretrained,0.9791,0.2044
+image diffusion models,pretrained,0.2678,1.2101
+conditioning controls,image diffusion models,0.1984,1.2662
+ControlNet,zero convolutions,0.0481,1.3798
+neural network architecture,zero convolutions,-0.1775,1.5346
+spatial conditioning,zero convolutions,0.9322,0.3683
+text-to-image diffusion models,zero convolutions,0.8297,0.5837
+pretrained,zero convolutions,-0.0058,1.4183
+conditioning controls,zero convolutions,-0.0653,1.4597
+image diffusion models,zero convolutions,-0.158,1.5219
+ControlNet,Stable Diffusion,-0.5064,1.7358
+Stable Diffusion,pretrained,0.8796,0.4906
+Stable Diffusion,zero convolutions,-0.0408,1.4428
+Stable Diffusion,conditioning controls,0.9385,0.3506
+datasets,zero convolutions,-0.0792,1.4692
+conditioning controls,datasets,-0.1736,1.5321
+Stable Diffusion,datasets,-0.2362,1.5724
+ControlNet,datasets,0.3844,1.1096
+Stable Diffusion,image diffusion models,-0.0958,1.4804
+datasets,image diffusion models,0.5068,0.9931

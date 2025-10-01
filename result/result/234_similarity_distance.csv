@@ -1,0 +1,36 @@
+node1,node2,similarity,distance
+entity-grid representation,local coherence,0.2259,1.2443
+entity distribution,entity-grid representation,0.3499,1.1403
+entity distribution,local coherence,0.7859,0.6544
+entity transition sequences,entity-grid representation,0.8142,0.6096
+entity transition sequences,local coherence,-0.0653,1.4597
+entity distribution,entity transition sequences,0.273,1.2058
+coherence assessment,entity-grid representation,0.3069,1.1774
+entity-grid representation,learning task,-0.2871,1.6044
+entity-grid representation,ranking-based generation,0.8032,0.6274
+entity-grid representation,text classification,0.813,0.6115
+coherence assessment,entity distribution,0.8419,0.5623
+entity distribution,learning task,-0.0308,1.4358
+entity distribution,ranking-based generation,0.022,1.3986
+entity distribution,text classification,0.0212,1.3991
+coherence assessment,entity transition sequences,0.0457,1.3815
+entity transition sequences,learning task,-0.4873,1.7247
+entity transition sequences,ranking-based generation,0.5823,0.914
+entity transition sequences,text classification,0.5812,0.9152
+coherence assessment,learning task,-0.22,1.5621
+coherence assessment,ranking-based generation,0.0332,1.3906
+coherence assessment,text classification,0.0535,1.3758
+learning task,ranking-based generation,-0.2391,1.5742
+learning task,text classification,-0.2521,1.5825
+ranking-based generation,text classification,0.946,0.3285
+entity transition sequences,text ordering,0.7872,0.6524
+entity transition sequences,summary coherence evaluation,-0.1108,1.4905
+coherence assessment,text ordering,0.3388,1.15
+coherence assessment,summary coherence evaluation,0.9507,0.3141
+learning task,text ordering,-0.3918,1.6684
+learning task,summary coherence evaluation,-0.214,1.5582
+ranking-based generation,text ordering,0.8054,0.6238
+ranking-based generation,summary coherence evaluation,-0.2624,1.5889
+text classification,text ordering,0.7329,0.731
+summary coherence evaluation,text classification,-0.2256,1.5656
+summary coherence evaluation,text ordering,0.0812,1.3556

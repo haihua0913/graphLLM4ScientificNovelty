@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+fine-tuning,pre-training,-0.0886,1.4755
+NLP tasks,pre-training,0.9147,0.413
+datasets,pre-training,-0.2777,1.5986
+NLP tasks,fine-tuning,-0.1794,1.5359
+datasets,fine-tuning,-0.2244,1.5649
+NLP tasks,datasets,-0.2386,1.5739
+fine-tuning,language models,-0.2665,1.5915
+few-shot performance,fine-tuning,-0.2621,1.5888
+few-shot performance,language models,-0.1648,1.5263
+datasets,language models,-0.162,1.5245
+datasets,few-shot performance,0.2631,1.214
+GPT-3,fine-tuning,0.1663,1.2913
+autoregressive language model,fine-tuning,-0.2856,1.6035
+GPT-3,language models,0.4208,1.0763
+autoregressive language model,language models,-0.3189,1.6241
+GPT-3,few-shot performance,0.6326,0.8572
+autoregressive language model,few-shot performance,0.8486,0.5502
+GPT-3,autoregressive language model,0.3408,1.1482
+fine-tuning,text interaction,-0.2856,1.6035
+language models,text interaction,-0.171,1.5303
+few-shot performance,text interaction,0.1457,1.3071
+GPT-3,text interaction,-0.1345,1.5063
+autoregressive language model,text interaction,-0.2135,1.5579
+GPT-3,datasets,0.0082,1.4084
+autoregressive language model,datasets,-0.1313,1.5042
+datasets,text interaction,0.9818,0.191
+GPT-3,societal impacts,-0.0768,1.4675
+datasets,societal impacts,0.9948,0.102

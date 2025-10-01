@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+Symbol-Refined Tree Substitution Grammars,syntactic parsing,0.7908,0.6468
+Symbol-Refined Tree Substitution Grammars,TSG model,-0.1369,1.5079
+TSG model,syntactic parsing,-0.0533,1.4514
+Symbol-Refined Tree Substitution Grammars,symbol refinement,-0.047,1.4471
+symbol refinement,syntactic parsing,0.0592,1.3717
+TSG model,symbol refinement,-0.1492,1.516
+TSG model,probabilistic SR-TSG,-0.2805,1.6003
+Pitman-Yor Process,TSG model,-0.1535,1.5189
+CFG rules,TSG model,-0.1864,1.5404
+Markov Chain Monte Carlo,TSG model,0.9197,0.4008
+probabilistic SR-TSG,symbol refinement,-0.2408,1.5753
+Pitman-Yor Process,symbol refinement,0.1341,1.316
+CFG rules,symbol refinement,0.089,1.3498
+Markov Chain Monte Carlo,symbol refinement,-0.0112,1.4221
+Pitman-Yor Process,probabilistic SR-TSG,-0.2311,1.5692
+CFG rules,probabilistic SR-TSG,-0.1692,1.5292
+Markov Chain Monte Carlo,probabilistic SR-TSG,-0.4301,1.6912
+CFG rules,Pitman-Yor Process,0.9878,0.1561
+Markov Chain Monte Carlo,Pitman-Yor Process,-0.039,1.4415
+CFG rules,Markov Chain Monte Carlo,-0.0718,1.4641
+TSG model,discriminative reranking parsers,-0.217,1.5602
+discriminative reranking parsers,symbol refinement,-0.0449,1.4456
+discriminative reranking parsers,probabilistic SR-TSG,-0.3947,1.6701
+Pitman-Yor Process,discriminative reranking parsers,0.1197,1.3269
+CFG rules,discriminative reranking parsers,0.1517,1.3026
+Markov Chain Monte Carlo,discriminative reranking parsers,-0.1105,1.4903

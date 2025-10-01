@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+deep convolutional networks,realistic imagery,-0.1005,1.4836
+image synthesis,sketched boundaries,-0.1294,1.503
+image synthesis,sparse color strokes,-0.0868,1.4743
+sketched boundaries,sparse color strokes,0.9894,0.1454
+image synthesis,sketch based image synthesis,-0.145,1.5133
+sketch based image synthesis,sketched boundaries,0.9882,0.1535
+sketch based image synthesis,sparse color strokes,0.992,0.1266
+feed-forward,image synthesis,0.1804,1.2803
+image synthesis,real time,0.1219,1.3252
+feed-forward,sketch based image synthesis,-0.1809,1.5368
+real time,sketch based image synthesis,-0.0971,1.4813
+feed-forward,real time,0.4195,1.0775
+image synthesis,user-guided colorization,0.2578,1.2184
+grayscale images,image synthesis,0.9211,0.3972
+feed-forward,user-guided colorization,0.1257,1.3224
+feed-forward,grayscale images,0.0781,1.3578
+real time,user-guided colorization,0.8125,0.6123
+grayscale images,real time,0.0133,1.4048
+grayscale images,user-guided colorization,0.1606,1.2957

@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+Bottleneck Conditional Density Estimator,deep generative models,-0.0958,1.4804
+Bottleneck Conditional Density Estimator,high-dimensional conditional density estimation,0.1213,1.3256
+Bottleneck Conditional Density Estimator,conditional variational autoencoder,0.4311,1.0667
+deep generative models,high-dimensional conditional density estimation,0.2536,1.2218
+conditional variational autoencoder,deep generative models,0.2172,1.2512
+conditional variational autoencoder,high-dimensional conditional density estimation,0.2374,1.235
+Bottleneck Conditional Density Estimator,hybrid training method,-0.0442,1.4451
+deep generative models,hybrid training method,-0.4388,1.6964
+high-dimensional conditional density estimation,hybrid training method,-0.1032,1.4854
+conditional variational autoencoder,hybrid training method,0.057,1.3733
+MNIST quadrant prediction,hybrid training method,-0.3131,1.6206
+hybrid training method,semi-supervised regime,0.3206,1.1657
+CelebA,hybrid training method,-0.0408,1.4427
+MNIST quadrant prediction,semi-supervised regime,-0.432,1.6923
+CelebA,MNIST quadrant prediction,-0.1988,1.5484
+CelebA,semi-supervised regime,0.194,1.2696

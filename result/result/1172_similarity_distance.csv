@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+distribution shift,source-free domain adaptation,-0.0175,1.4265
+optimization,source-free domain adaptation,-0.1316,1.5044
+distribution shift,optimization,0.0254,1.3961
+distribution shift,variational Bayesian inference,0.004,1.4114
+optimization,variational Bayesian inference,-0.0771,1.4677
+Bayesian neural networks,variational Bayesian inference,0.8327,0.5785
+Bayesian neural networks,parameter sharing strategy,-0.755,1.8735
+Bayesian neural networks,optimization,-0.3756,1.6587
+optimization,parameter sharing strategy,0.0462,1.3811
+Bayesian neural networks,model perturbation,-0.0348,1.4386
+Bayesian neural networks,source models,0.0091,1.4078
+model perturbation,parameter sharing strategy,0.1081,1.3356
+parameter sharing strategy,source models,0.1001,1.3416
+model perturbation,optimization,-0.229,1.5678
+model perturbation,source models,0.9835,0.1814
+optimization,source models,-0.2596,1.5872
+parameter sharing strategy,source-free domain adaptation,0.562,0.9359
+model perturbation,source-free domain adaptation,-0.2591,1.5869
+source models,source-free domain adaptation,-0.2227,1.5638

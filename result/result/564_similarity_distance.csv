@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+disparities,sub-pixel interpolation,-0.0171,1.4262
+disparities,disparity smoothing algorithm,-0.0373,1.4403
+disparities,low-textured regions,0.9728,0.2332
+disparities,gravitational constraint,-0.4142,1.6818
+disparity smoothing algorithm,low-textured regions,0.0826,1.3546
+gravitational constraint,low-textured regions,-0.3907,1.6677
+disparity smoothing algorithm,gravitational constraint,0.0756,1.3597
+3D reconstruction,low-textured regions,-0.2399,1.5747
+3D reconstruction,disparity smoothing algorithm,0.5937,0.9014
+3D reconstruction,gravitational constraint,-0.0874,1.4747
+3D reconstruction,semi-global matching,0.4123,1.0842
+3D reconstruction,Middlebury stereo ground truth data sets,0.5557,0.9427
+Middlebury stereo ground truth data sets,semi-global matching,0.199,1.2657
+3D reconstruction,ImproveSubPix,0.6439,0.8439
+ImproveSubPix,semi-global matching,0.1391,1.3122
+ImproveSubPix,Middlebury stereo ground truth data sets,0.9753,0.2224

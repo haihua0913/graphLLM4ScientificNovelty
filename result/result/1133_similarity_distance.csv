@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+noisy comparisons,ranking,-0.1203,1.4969
+machine learning,ranking,-0.1227,1.4985
+full ranking,ranking,0.0334,1.3904
+Strong Stochastic Transitivity,ranking,-0.1555,1.5202
+machine learning,noisy comparisons,0.4723,1.0273
+full ranking,noisy comparisons,0.3034,1.1803
+Strong Stochastic Transitivity,noisy comparisons,0.8423,0.5617
+full ranking,machine learning,0.8,0.6324
+Strong Stochastic Transitivity,machine learning,0.1383,1.3128
+Strong Stochastic Transitivity,full ranking,-0.1826,1.5379
+Probe-Rank,ranking,-0.1115,1.491
+Probe-Rank,noisy comparisons,0.3742,1.1188
+Probe-Rank,machine learning,0.8369,0.5712
+Probe-Rank,full ranking,0.972,0.2367
+Probe-Rank,Strong Stochastic Transitivity,-0.1317,1.5044
+preference probabilities,ranking,-0.2248,1.5651
+full ranking,preference probabilities,0.0158,1.403
+Probe-Rank,preference probabilities,0.1078,1.3358
+Strong Stochastic Transitivity,preference probabilities,0.9111,0.4217
+numerical experiments,ranking,-0.2456,1.5784
+Probe-Rank,numerical experiments,-0.3051,1.6156
+numerical experiments,preference probabilities,0.8361,0.5726
+Strong Stochastic Transitivity,numerical experiments,0.9704,0.2434

@@ -1,0 +1,14 @@
+node1,node2,similarity,distance
+Visual aesthetic assessment,aesthetic labels,-0.2365,1.5726
+Visual aesthetic assessment,self-supervised feature learning,-0.2027,1.551
+aesthetic labels,self-supervised feature learning,0.1106,1.3337
+image manipulations,self-supervised feature learning,-0.1807,1.5367
+aesthetic labels,image manipulations,-0.0788,1.4689
+pretext tasks,self-supervised feature learning,0.0612,1.3703
+self-supervised feature learning,synthetic instances,-0.122,1.498
+image manipulations,pretext tasks,-0.3457,1.6405
+image manipulations,synthetic instances,-0.3069,1.6167
+pretext tasks,synthetic instances,-0.1212,1.4975
+binary aesthetic classification,image manipulations,-0.0705,1.4632
+binary aesthetic classification,pretext tasks,-0.2485,1.5802
+binary aesthetic classification,synthetic instances,-0.3688,1.6545

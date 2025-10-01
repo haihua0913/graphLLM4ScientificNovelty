@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+last-iterate convergence,optimistic mirror descent,-0.2283,1.5674
+last-iterate convergence,mirror descent,-0.4057,1.6767
+mirror descent,optimistic mirror descent,-0.23,1.5685
+Nash equilibrium,optimistic mirror descent,0.7595,0.6936
+optimistic mirror descent,robust price of anarchy,0.1088,1.3351
+Nash equilibrium,robust price of anarchy,-0.015,1.4247
+Nash equilibrium,mirror descent,-0.5321,1.7505
+mirror descent,robust price of anarchy,0.3931,1.1017
+Nash equilibrium,potential games,0.8612,0.5269
+potential games,robust price of anarchy,-0.1643,1.526
+mirror descent,potential games,-0.5855,1.7808
+Fisher's market model,Nash equilibrium,0.0201,1.3999
+Fisher's market model,robust price of anarchy,-0.3024,1.614
+Fisher's market model,potential games,-0.1867,1.5406
+Fisher's market model,mirror descent,-0.1118,1.4912
+optimistic gradient descent,potential games,0.0325,1.3911
+general-sum continuous games,potential games,0.075,1.3601
+mirror descent,optimistic gradient descent,-0.086,1.4738
+general-sum continuous games,mirror descent,0.0872,1.3512
+general-sum continuous games,optimistic gradient descent,-0.163,1.5251
+Fisher's market model,optimistic gradient descent,-0.056,1.4533
+Fisher's market model,general-sum continuous games,-0.2068,1.5536

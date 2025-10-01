@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+candidate labels,partial label learning,0.9703,0.2436
+ground-truth label,partial label learning,0.0021,1.4127
+candidate labels,ground-truth label,-0.0096,1.421
+partial label learning,unified framework,0.0001,1.4142
+candidate labels,unified framework,0.026,1.3957
+ground-truth label,unified framework,0.2346,1.2372
+biconvex formulation,candidate labels,-0.2062,1.5532
+candidate labels,optimization problem,-0.2163,1.5597
+biconvex formulation,ground-truth label,0.0765,1.3591
+ground-truth label,optimization problem,-0.1677,1.5282
+biconvex formulation,unified framework,0.1232,1.3242
+optimization problem,unified framework,0.5502,0.9485
+biconvex formulation,optimization problem,0.7979,0.6357
+biconvex formulation,experimental results,-0.1639,1.5257
+experimental results,optimization problem,-0.2887,1.6054

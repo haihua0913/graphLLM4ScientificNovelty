@@ -1,0 +1,13 @@
+node1,node2,similarity,distance
+high-quality small graphs,scalable,-0.1613,1.524
+computation efficiency,scalable,0.141,1.3108
+graph sparsity,scalable,-0.4726,1.7161
+discrete diffusion process,scalable,-0.2177,1.5606
+computation efficiency,graph sparsity,-0.2605,1.5877
+computation efficiency,discrete diffusion process,0.4569,1.0422
+discrete diffusion process,graph sparsity,0.1544,1.3004
+computation efficiency,edge predictions,-0.0241,1.4312
+edge predictions,graph sparsity,-0.1538,1.5191
+discrete diffusion process,edge predictions,-0.0762,1.4671
+edge predictions,node degrees,0.0289,1.3936
+generation quality,node degrees,-0.0997,1.4831

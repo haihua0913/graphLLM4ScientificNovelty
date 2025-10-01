@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+experiments,human labelers,-0.7225,1.8561
+human labelers,partially labeled,-0.2233,1.5642
+dataset,human labelers,-0.0247,1.4316
+experiments,partially labeled,0.602,0.8922
+dataset,experiments,0.3187,1.1673
+dataset,partially labeled,0.8852,0.4792
+human labelers,semi-supervised active learning,-0.323,1.6267
+human labelers,linear regression,-0.0289,1.4345
+experiments,semi-supervised active learning,0.2006,1.2645
+experiments,linear regression,0.1443,1.3082
+partially labeled,semi-supervised active learning,0.1058,1.3373
+linear regression,partially labeled,-0.0246,1.4315
+linear regression,semi-supervised active learning,-0.3337,1.6332
+dataset,semi-supervised active learning,0.1539,1.3008
+dataset,linear regression,0.0095,1.4075
+examples,partially labeled,0.8707,0.5084
+learner,partially labeled,0.9546,0.3014
+examples,semi-supervised active learning,0.0467,1.3808
+learner,semi-supervised active learning,0.0522,1.3768
+examples,linear regression,0.2256,1.2445
+learner,linear regression,-0.0493,1.4486
+dataset,examples,0.9197,0.4007
+dataset,learner,0.9568,0.2939
+examples,learner,0.9154,0.4112

@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+distance metric learning,large margin nearest neighbor,-0.1945,1.5456
+Mahalanobis distance,distance metric learning,-0.315,1.6218
+Mahalanobis distance,large margin nearest neighbor,-0.1363,1.5075
+distance metric learning,semidefinite programming,0.014,1.4043
+large margin nearest neighbor,semidefinite programming,-0.1791,1.5357
+metric ball trees,semidefinite programming,0.1016,1.3405
+low dimensional representations,semidefinite programming,0.0248,1.3966
+low dimensional representations,metric ball trees,0.0154,1.4033
+Mahalanobis distance,semidefinite programming,-0.106,1.4873
+Mahalanobis distance,metric ball trees,-0.1217,1.4978
+Mahalanobis distance,low dimensional representations,-0.0558,1.4531
+Mahalanobis distance,locally adaptive distance metrics,0.3924,1.1023
+Mahalanobis distance,error rates,-0.1258,1.5005
+locally adaptive distance metrics,metric ball trees,0.8038,0.6265
+error rates,metric ball trees,-0.2142,1.5583
+locally adaptive distance metrics,low dimensional representations,0.1453,1.3074
+error rates,low dimensional representations,-0.1514,1.5175
+error rates,locally adaptive distance metrics,-0.302,1.6137

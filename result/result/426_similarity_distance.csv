@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+causal relationships,storyline model,0.0693,1.3643
+storyline model,visually grounded,-0.0234,1.4307
+storyline model,weakly labeled data,-0.3577,1.6478
+causal relationships,visually grounded,0.9465,0.3272
+causal relationships,weakly labeled data,-0.3941,1.6698
+visually grounded,weakly labeled data,-0.2334,1.5706
+AND-OR graph,storyline model,-0.0968,1.4811
+AND-OR graph,causal relationships,0.8294,0.5841
+AND-OR graph,visually grounded,0.8583,0.5324
+AND-OR graph,weakly labeled data,0.1437,1.3087
+spatio-temporal constraints,storyline model,-0.1774,1.5345
+AND-OR graph,spatio-temporal constraints,-0.2552,1.5844
+causal relationships,spatio-temporal constraints,-0.0495,1.4488
+spatio-temporal constraints,visually grounded,-0.2634,1.5896
+spatio-temporal constraints,weakly labeled data,-0.2115,1.5566
+Integer Programming,storyline model,-0.0388,1.4414
+AND-OR graph,Integer Programming,-0.0981,1.4819
+Integer Programming,causal relationships,0.1718,1.287
+Integer Programming,spatio-temporal constraints,0.2638,1.2134

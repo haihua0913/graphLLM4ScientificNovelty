@@ -1,0 +1,134 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/vcbm/vcbm2021.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"75.41"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"17",
+"@dc":"17",
+"@oc":"17",
+"@id":"48926946",
+"text":":facetid:toc:db/conf/vcbm/vcbm2021.bht"
+}
+},
+"hits":{
+"@total":"17",
+"@computed":"17",
+"@sent":"17",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2177766",
+"info":{"authors":{"author":[{"@pid":"291/9631","text":"Vikram Apilla"},{"@pid":"177/3334","text":"Benjamin Behrendt"},{"@pid":"120/6338","text":"Kai Lawonn"},{"@pid":"p/BPreim","text":"Bernhard Preim"},{"@pid":"149/0918","text":"Monique Meuschke"}]},"title":"Automatic Animations to Analyze Blood Flow Data.","venue":"VCBM","pages":"101-105","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/ApillaBLPM21","doi":"10.2312/VCBM.20211349","ee":"https://doi.org/10.2312/vcbm.20211349","url":"https://dblp.org/rec/conf/vcbm/ApillaBLPM21"},
+"url":"URL#2177766"
+},
+{
+"@score":"1",
+"@id":"2177767",
+"info":{"authors":{"author":[{"@pid":"177/3334","text":"Benjamin Behrendt"},{"@pid":"303/2092","text":"David Pleuss-Engelhardt"},{"@pid":"26/9856","text":"Matthias Gutberlet"},{"@pid":"p/BPreim","text":"Bernhard Preim"}]},"title":"2.5D Geometric Mapping of Aortic Blood Flow Data for Cohort Visualization.","venue":"VCBM","pages":"91-100","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/BehrendtPGP21","doi":"10.2312/VCBM.20211348","ee":"https://doi.org/10.2312/vcbm.20211348","url":"https://dblp.org/rec/conf/vcbm/BehrendtPGP21"},
+"url":"URL#2177767"
+},
+{
+"@score":"1",
+"@id":"2177768",
+"info":{"authors":{"author":[{"@pid":"200/2098","text":"Humberto S. Garcia Caballero"},{"@pid":"200/2111","text":"Alberto Corvò"},{"@pid":"151/2199","text":"Fokke van Meulen"},{"@pid":"11/3119-2","text":"Pedro Fonseca 0002"},{"@pid":"06/7225","text":"Sebastiaan Overeem"},{"@pid":"22/4877","text":"Jarke J. van Wijk"},{"@pid":"w/MAWestenberg","text":"Michel A. Westenberg"}]},"title":"PerSleep: A Visual Analytics Approach for Performance Assessment of Sleep Staging Models.","venue":"VCBM","pages":"123-133","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/CaballeroCMFOWW21","doi":"10.2312/VCBM.20211352","ee":"https://doi.org/10.2312/vcbm.20211352","url":"https://dblp.org/rec/conf/vcbm/CaballeroCMFOWW21"},
+"url":"URL#2177768"
+},
+{
+"@score":"1",
+"@id":"2177769",
+"info":{"authors":{"author":[{"@pid":"235/2552","text":"Pepe Eulzer"},{"@pid":"139/7127","text":"Kevin Richter"},{"@pid":"149/0918","text":"Monique Meuschke"},{"@pid":"32/8867","text":"Anna Hundertmark"},{"@pid":"120/6338","text":"Kai Lawonn"}]},"title":"Automatic Cutting and Flattening of Carotid Artery Geometries.","venue":"VCBM","pages":"79-89","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/EulzerRMHL21","doi":"10.2312/VCBM.20211347","ee":"https://doi.org/10.2312/vcbm.20211347","url":"https://dblp.org/rec/conf/vcbm/EulzerRMHL21"},
+"url":"URL#2177769"
+},
+{
+"@score":"1",
+"@id":"2177770",
+"info":{"authors":{"author":[{"@pid":"37/7253","text":"Laura A. Garrison"},{"@pid":"149/0918","text":"Monique Meuschke"},{"@pid":"271/4632","text":"Jennifer E. Fairman"},{"@pid":"26/8923","text":"Noeska N. Smit"},{"@pid":"p/BPreim","text":"Bernhard Preim"},{"@pid":"80/3704","text":"Stefan Bruckner"}]},"title":"An Exploration of Practice and Preferences for the Visual Communication of Biomedical Processes.","venue":"VCBM","pages":"1-12","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/GarrisonMFSPB21","doi":"10.2312/VCBM.20211339","ee":"https://doi.org/10.2312/vcbm.20211339","url":"https://dblp.org/rec/conf/vcbm/GarrisonMFSPB21"},
+"url":"URL#2177770"
+},
+{
+"@score":"1",
+"@id":"2177771",
+"info":{"authors":{"author":[{"@pid":"303/2815","text":"Johannes Gruen"},{"@pid":"303/2623","text":"Gemma van der Voort"},{"@pid":"72/1969-1","text":"Thomas Schultz 0001"}]},"title":"Reducing Model Uncertainty in Crossing Fiber Tractography.","venue":"VCBM","pages":"55-64","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/GruenV021","doi":"10.2312/VCBM.20211345","ee":"https://doi.org/10.2312/vcbm.20211345","url":"https://dblp.org/rec/conf/vcbm/GruenV021"},
+"url":"URL#2177771"
+},
+{
+"@score":"1",
+"@id":"2177772",
+"info":{"authors":{"author":[{"@pid":"303/2647","text":"Vetle Hushagen"},{"@pid":"303/2377","text":"Gustav C. Tresselt"},{"@pid":"26/8923","text":"Noeska N. Smit"},{"@pid":"57/4266","text":"Karsten Specht"}]},"title":"The Role of Depth Perception in XR from a Neuroscience Perspective: A Primer and Survey.","venue":"VCBM","pages":"37-54","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/HushagenTSS21","doi":"10.2312/VCBM.20211344","ee":"https://doi.org/10.2312/vcbm.20211344","url":"https://dblp.org/rec/conf/vcbm/HushagenTSS21"},
+"url":"URL#2177772"
+},
+{
+"@score":"1",
+"@id":"2177773",
+"info":{"authors":{"author":[{"@pid":"303/2573","text":"Sanne van der Linden"},{"@pid":"22/4877","text":"Jarke J. van Wijk"},{"@pid":"20/1640","text":"Mathias Funk"}]},"title":"Multiple Scale Visualization of Electronic Health Records to Support Finding Medical Narratives.","venue":"VCBM","pages":"113-122","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/LindenWF21","doi":"10.2312/VCBM.20211351","ee":"https://doi.org/10.2312/vcbm.20211351","url":"https://dblp.org/rec/conf/vcbm/LindenWF21"},
+"url":"URL#2177773"
+},
+{
+"@score":"1",
+"@id":"2177774",
+"info":{"authors":{"author":[{"@pid":"303/2843","text":"Caroline Magg"},{"@pid":"303/2294","text":"Laura Toussaint"},{"@pid":"183/8920","text":"Ludvig P. Muren"},{"@pid":"303/2687","text":"Danny J. Indelicato"},{"@pid":"152/9100","text":"Renata Georgia Raidou"}]},"title":"Visual Assessment of Growth Prediction in Brain Structures after Pediatric Radiotherapy.","venue":"VCBM","pages":"31-35","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MaggTMIR21","doi":"10.2312/VCBM.20211343","ee":"https://doi.org/10.2312/vcbm.20211343","url":"https://dblp.org/rec/conf/vcbm/MaggTMIR21"},
+"url":"URL#2177774"
+},
+{
+"@score":"1",
+"@id":"2177775",
+"info":{"authors":{"author":[{"@pid":"146/6708","text":"Jana Martschinke"},{"@pid":"162/8038","text":"Vanessa Klein"},{"@pid":"181/3213","text":"Philipp Kurth"},{"@pid":"e/KlausEngel","text":"Klaus Engel"},{"@pid":"303/2058","text":"Ingo Ludolph"},{"@pid":"303/2978","text":"Theresa Hauck"},{"@pid":"303/2572","text":"Raymund Horch"},{"@pid":"s/MarcStamminger","text":"Marc Stamminger"}]},"title":"Projection Mapping for In-Situ Surgery Planning by the Example of DIEP Flap Breast Reconstruction.","venue":"VCBM","pages":"145-153","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MartschinkeKKEL21","doi":"10.2312/VCBM.20211354","ee":"https://doi.org/10.2312/vcbm.20211354","url":"https://dblp.org/rec/conf/vcbm/MartschinkeKKEL21"},
+"url":"URL#2177775"
+},
+{
+"@score":"1",
+"@id":"2177776",
+"info":{"authors":{"author":[{"@pid":"303/2473","text":"Kai Ostendorf"},{"@pid":"277/8441","text":"Domenico Mastrodicasa"},{"@pid":"133/5827","text":"Kathrin Bäumler"},{"@pid":"194/4406","text":"Marina Codari"},{"@pid":"303/2899","text":"Valery Turner"},{"@pid":"277/8408","text":"Martin J. Willemink"},{"@pid":"65/3457","text":"Dominik Fleischmann"},{"@pid":"p/BPreim","text":"Bernhard Preim"},{"@pid":"62/11209","text":"Gabriel Mistelbauer"}]},"title":"Shading Style Assessment for Vessel Wall and Lumen Visualization.","venue":"VCBM","pages":"107-111","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/OstendorfMBCTWF21","doi":"10.2312/VCBM.20211350","ee":"https://doi.org/10.2312/vcbm.20211350","url":"https://dblp.org/rec/conf/vcbm/OstendorfMBCTWF21"},
+"url":"URL#2177776"
+},
+{
+"@score":"1",
+"@id":"2177777",
+"info":{"authors":{"author":[{"@pid":"303/2530","text":"Daniel Pahr"},{"@pid":"11/7258","text":"Hsiang-Yun Wu"},{"@pid":"152/9100","text":"Renata Georgia Raidou"}]},"title":"Vologram: An Educational Holographic Sculpture for Volumetric Medical Data Physicalization.","venue":"VCBM","pages":"19-23","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/PahrWR21","doi":"10.2312/VCBM.20211341","ee":"https://doi.org/10.2312/vcbm.20211341","url":"https://dblp.org/rec/conf/vcbm/PahrWR21"},
+"url":"URL#2177777"
+},
+{
+"@score":"1",
+"@id":"2177778",
+"info":{"authors":{"author":[{"@pid":"290/2720","text":"Karina Ruzaeva"},{"@pid":"20/1842","text":"Katharina Nöh"},{"@pid":"73/455","text":"Benjamin Berkels"}]},"title":"Polar Space Based Shape Averaging for Star-shaped Biological Objects.","venue":"VCBM","pages":"13-17","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/RuzaevaNB21","doi":"10.2312/VCBM.20211340","ee":"https://doi.org/10.2312/vcbm.20211340","url":"https://dblp.org/rec/conf/vcbm/RuzaevaNB21"},
+"url":"URL#2177778"
+},
+{
+"@score":"1",
+"@id":"2177779",
+"info":{"authors":{"author":[{"@pid":"254/4494","text":"Samin Sabokrohiyeh"},{"@pid":"254/4534","text":"Kathleen D. Ang"},{"@pid":"s/FaramarzFSamavati","text":"Faramarz Samavati"}]},"title":"Strategies for Generating Multi-Time Frame Localization of Cardiac MRI.","venue":"VCBM","pages":"25-29","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SabokrohiyehAS21","doi":"10.2312/VCBM.20211342","ee":"https://doi.org/10.2312/vcbm.20211342","url":"https://dblp.org/rec/conf/vcbm/SabokrohiyehAS21"},
+"url":"URL#2177779"
+},
+{
+"@score":"1",
+"@id":"2177780",
+"info":{"authors":{"author":[{"@pid":"138/1444","text":"Sherin Sugathan"},{"@pid":"01/4129","text":"Hauke Bartsch"},{"@pid":"237/6480","text":"Frank Riemer"},{"@pid":"05/11381","text":"Renate Grüner"},{"@pid":"120/6338","text":"Kai Lawonn"},{"@pid":"26/8923","text":"Noeska N. Smit"}]},"title":"Interactive Multimodal Imaging Visualization for Multiple Sclerosis Lesion Analysis.","venue":"VCBM","pages":"65-77","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SugathanBRGLS21","doi":"10.2312/VCBM.20211346","ee":"https://doi.org/10.2312/vcbm.20211346","url":"https://dblp.org/rec/conf/vcbm/SugathanBRGLS21"},
+"url":"URL#2177780"
+},
+{
+"@score":"1",
+"@id":"2177781",
+"info":{"authors":{"author":[{"@pid":"303/2755","text":"Joost Wooning"},{"@pid":"303/2919","text":"Mohamed Benmahdjoub"},{"@pid":"95/4260","text":"Theo van Walsum"},{"@pid":"41/5501","text":"Ricardo Marroquim"}]},"title":"AR-Assisted Craniotomy Planning for Tumour Resection.","venue":"VCBM","pages":"135-144","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/WooningBWM21","doi":"10.2312/VCBM.20211353","ee":"https://doi.org/10.2312/vcbm.20211353","url":"https://dblp.org/rec/conf/vcbm/WooningBWM21"},
+"url":"URL#2177781"
+},
+{
+"@score":"1",
+"@id":"2189642",
+"info":{"authors":{"author":[{"@pid":"86/6246","text":"Steffen Oeltze-Jafra"},{"@pid":"26/8923","text":"Noeska N. Smit"},{"@pid":"85/8970","text":"Björn Sommer 0001"},{"@pid":"29/2209","text":"Kay Nieselt"},{"@pid":"72/1969-1","text":"Thomas Schultz 0001"}]},"title":"11th Eurographics Workshop on Visual Computing for Biology and Medicine, VCBM 2021, Paris, France, September 22-24, 2021","venue":"VCBM","publisher":"Eurographics Association","year":"2021","type":"Editorship","key":"conf/vcbm/2021","doi":"10.2312/2633086","ee":"https://diglib.eg.org/handle/10.2312/2633086","url":"https://dblp.org/rec/conf/vcbm/2021"},
+"url":"URL#2189642"
+}
+]
+}
+}
+}

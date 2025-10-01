@@ -1,0 +1,242 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/chil/chil2023.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"77.41"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"35",
+"@dc":"35",
+"@oc":"35",
+"@id":"48878055",
+"text":":facetid:toc:db/conf/chil/chil2023.bht"
+}
+},
+"hits":{
+"@total":"35",
+"@computed":"35",
+"@sent":"35",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1040436",
+"info":{"authors":{"author":[{"@pid":"05/1539-9","text":"Zhi Chen 0009"},{"@pid":"207/8262","text":"Sarah Tan"},{"@pid":"27/2640","text":"Urszula Chajewska"},{"@pid":"62/6936","text":"Cynthia Rudin"},{"@pid":"c/RichCaruana","text":"Rich Caruana"}]},"title":"Missing Values and Imputation in Healthcare Data: Can Interpretable Machine Learning Help?","venue":"CHIL","pages":"86-99","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/0009TCRC23","ee":"https://proceedings.mlr.press/v209/chen23a.html","url":"https://dblp.org/rec/conf/chil/0009TCRC23"},
+"url":"URL#1040436"
+},
+{
+"@score":"1",
+"@id":"1040437",
+"info":{"authors":{"author":[{"@pid":"243/0133","text":"Sarwan Ali"},{"@pid":"303/4745","text":"Babatunde Bello"},{"@pid":"310/1882","text":"Prakash Chourasia"},{"@pid":"310/1791","text":"Ria Thazhe Punathil"},{"@pid":"39/8969","text":"Pin-Yu Chen"},{"@pid":"77/9060","text":"Imdadullah Khan"},{"@pid":"33/387","text":"Murray Patterson"}]},"title":"Counterfactually Guided Policy Transfer in Clinical Settings.","venue":"CHIL","pages":"6-18","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/AliBCPCKP23","ee":"https://proceedings.mlr.press/v209/ali23a.html","url":"https://dblp.org/rec/conf/chil/AliBCPCKP23"},
+"url":"URL#1040437"
+},
+{
+"@score":"1",
+"@id":"1040438",
+"info":{"authors":{"author":[{"@pid":"148/0921","text":"William G. La Cava"},{"@pid":"314/2234","text":"Elle Lett"},{"@pid":"330/2708","text":"Guangya Wan"}]},"title":"Fair admission risk prediction with proportional multicalibration.","venue":"CHIL","pages":"350-378","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/CavaLW23","ee":"https://proceedings.mlr.press/v209/la-cava23a.html","url":"https://dblp.org/rec/conf/chil/CavaLW23"},
+"url":"URL#1040438"
+},
+{
+"@score":"1",
+"@id":"1040439",
+"info":{"authors":{"author":{"@pid":"121/1833","text":"George H. Chen"}},"title":"A General Framework for Visualizing Embedding Spaces of Neural Survival Analysis Models Based on Angular Information.","venue":"CHIL","pages":"440-476","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/Chen23","ee":"https://proceedings.mlr.press/v209/chen23b.html","url":"https://dblp.org/rec/conf/chil/Chen23"},
+"url":"URL#1040439"
+},
+{
+"@score":"1",
+"@id":"1040440",
+"info":{"authors":{"author":[{"@pid":"162/5077","text":"Giovanni Cinà"},{"@pid":"323/5598","text":"Tabea E. Röber"},{"@pid":"228/0344","text":"Rob Goedhart"},{"@pid":"29/1843","text":"S. Ilker Birbil"}]},"title":"Semantic match: Debugging feature attribution methods in XAI for healthcare.","venue":"CHIL","pages":"182-190","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/CinaRGB23","ee":"https://proceedings.mlr.press/v209/cina23a.html","url":"https://dblp.org/rec/conf/chil/CinaRGB23"},
+"url":"URL#1040440"
+},
+{
+"@score":"1",
+"@id":"1040441",
+"info":{"authors":{"author":[{"@pid":"224/6498","text":"Iman Deznabi"},{"@pid":"05/8090","text":"Madalina Fiterau"}]},"title":"MultiWave: Multiresolution Deep Architectures through Wavelet Decomposition for Multivariate Time Series Prediction.","venue":"CHIL","pages":"509-525","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/DeznabiF23","ee":"https://proceedings.mlr.press/v209/deznabi23a.html","url":"https://dblp.org/rec/conf/chil/DeznabiF23"},
+"url":"URL#1040441"
+},
+{
+"@score":"1",
+"@id":"1040442",
+"info":{"authors":{"author":[{"@pid":"333/0682","text":"Hardy Hardy"},{"@pid":"70/10689","text":"Derek Ruths"},{"@pid":"323/2233","text":"Nicholas B. King"}]},"title":"Who Controlled the Evidence? Question Answering for Disclosure Information Extraction.","venue":"CHIL","pages":"340-349","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/HardyRK23","ee":"https://proceedings.mlr.press/v209/hardy23a.html","url":"https://dblp.org/rec/conf/chil/HardyRK23"},
+"url":"URL#1040442"
+},
+{
+"@score":"1",
+"@id":"1040443",
+"info":{"authors":{"author":[{"@pid":"324/2627","text":"Hyeonji Hwang"},{"@pid":"292/7987","text":"Seongjun Yang"},{"@pid":"29/986","text":"Daeyoung Kim"},{"@pid":"239/5208","text":"Radhika Dua"},{"@pid":"299/0230","text":"Jong-Yeup Kim"},{"@pid":"96/2621","text":"Eunho Yang"},{"@pid":"41/3886","text":"Edward Choi"}]},"title":"Towards the Practical Utility of Federated Learning in the Medical Domain.","venue":"CHIL","pages":"163-181","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/HwangYKDKYC23","ee":"https://proceedings.mlr.press/v209/hwang23a.html","url":"https://dblp.org/rec/conf/chil/HwangYKDKYC23"},
+"url":"URL#1040443"
+},
+{
+"@score":"1",
+"@id":"1040444",
+"info":{"authors":{"author":[{"@pid":"317/0852","text":"Vincent Jeanselme"},{"@pid":"235/3752","text":"Chang Ho Yoon"},{"@pid":"37/6417","text":"Brian D. M. Tom"},{"@pid":"284/4833","text":"Jessica K. Barrett"}]},"title":"Neural Fine-Gray: Monotonic neural networks for competing risks.","venue":"CHIL","pages":"379-392","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/JeanselmeYTB23","ee":"https://proceedings.mlr.press/v209/jeanselme23a.html","url":"https://dblp.org/rec/conf/chil/JeanselmeYTB23"},
+"url":"URL#1040444"
+},
+{
+"@score":"1",
+"@id":"1040445",
+"info":{"authors":{"author":[{"@pid":"276/0874","text":"Christina X. Ji"},{"@pid":"140/7324","text":"Ahmed M. Alaa"},{"@pid":"12/673","text":"David A. Sontag"}]},"title":"Large-Scale Study of Temporal Shift in Health Insurance Claims.","venue":"CHIL","pages":"243-278","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/JiAS23","ee":"https://proceedings.mlr.press/v209/ji23a.html","url":"https://dblp.org/rec/conf/chil/JiAS23"},
+"url":"URL#1040445"
+},
+{
+"@score":"1",
+"@id":"1040446",
+"info":{"authors":{"author":[{"@pid":"260/8587","text":"Qixuan Jin"},{"@pid":"354/9903","text":"Jacobien H. F. Oosterhoff"},{"@pid":"354/9671","text":"Yepeng Huang"},{"@pid":"145/6563","text":"Marzyeh Ghassemi"},{"@pid":"354/9509","text":"Gabriel A Brat"}]},"title":"Clinical Relevance Score for Guided Trauma Injury Pattern Discovery with Weakly Supervised β-VAE.","venue":"CHIL","pages":"314-339","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/JinOHGB23","ee":"https://proceedings.mlr.press/v209/jin23a.html","url":"https://dblp.org/rec/conf/chil/JinOHGB23"},
+"url":"URL#1040446"
+},
+{
+"@score":"1",
+"@id":"1040447",
+"info":{"authors":{"author":[{"@pid":"313/9933","text":"Siun Kim"},{"@pid":"313/9426","text":"Jung-Hyun Won"},{"@pid":"354/9447","text":"David Seung U. Lee"},{"@pid":"184/0288","text":"Renqian Luo"},{"@pid":"68/1284-3","text":"Lijun Wu 0003"},{"@pid":"144/7737","text":"Yingce Xia"},{"@pid":"14/6841-1","text":"Tao Qin 0001"},{"@pid":"09/9239","text":"Howard Lee"}]},"title":"Revisiting Machine-Learning based Drug Repurposing: Drug Indications Are Not a Right Prediction Target.","venue":"CHIL","pages":"100-116","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/KimWLLWXQL23","ee":"https://proceedings.mlr.press/v209/kim23a.html","url":"https://dblp.org/rec/conf/chil/KimWLLWXQL23"},
+"url":"URL#1040447"
+},
+{
+"@score":"1",
+"@id":"1040448",
+"info":{"authors":{"author":[{"@pid":"69/2040","text":"Min Jae Lee"},{"@pid":"299/1450","text":"Kyunghoon Hur"},{"@pid":"96/5677","text":"Jiyoun Kim"},{"@pid":"173/5409","text":"Jinsung Yoon"},{"@pid":"41/3886","text":"Edward Choi"}]},"title":"Rediscovery of CNN&apos;s Versatility for Text-based Encoding of Raw Electronic Health Records.","venue":"CHIL","pages":"294-313","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/LeeHKYC23","ee":"https://proceedings.mlr.press/v209/lee23a.html","url":"https://dblp.org/rec/conf/chil/LeeHKYC23"},
+"url":"URL#1040448"
+},
+{
+"@score":"1",
+"@id":"1040449",
+"info":{"authors":{"author":[{"@pid":"l/EricLehman","text":"Eric Lehman"},{"@pid":"222/1626","text":"Evan Hernandez"},{"@pid":"123/2950","text":"Diwakar Mahajan"},{"@pid":"79/7090","text":"Jonas Wulff"},{"@pid":"213/1802","text":"Micah J. Smith"},{"@pid":"300/9253","text":"Zachary Ziegler"},{"@pid":"32/10193","text":"Daniel Nadler"},{"@pid":"11/6043","text":"Peter Szolovits"},{"@pid":"167/1714","text":"Alistair E. W. Johnson"},{"@pid":"228/9348","text":"Emily Alsentzer"}]},"title":"Do We Still Need Clinical Language Models?","venue":"CHIL","pages":"578-597","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/LehmanHMWSZNSJA23","ee":"https://proceedings.mlr.press/v209/eric23a.html","url":"https://dblp.org/rec/conf/chil/LehmanHMWSZNSJA23"},
+"url":"URL#1040449"
+},
+{
+"@score":"1",
+"@id":"1040450",
+"info":{"authors":{"author":[{"@pid":"304/8872","text":"Shuo Shuo Liu"},{"@pid":"00/3361","text":"Lin Lin"}]},"title":"Adaptive Weighted Multi-View Clustering.","venue":"CHIL","pages":"19-36","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/LiuL23","ee":"https://proceedings.mlr.press/v209/liu23a.html","url":"https://dblp.org/rec/conf/chil/LiuL23"},
+"url":"URL#1040450"
+},
+{
+"@score":"1",
+"@id":"1040451",
+"info":{"authors":{"author":[{"@pid":"122/2913","text":"Andre Manoel"},{"@pid":"317/1092","text":"Mirian del Carmen Hipolito Garcia"},{"@pid":"148/4515","text":"Tal Baumel"},{"@pid":"158/5331","text":"Shize Su"},{"@pid":"225/5215-3","text":"Jialei Chen 0003"},{"@pid":"47/1233","text":"Robert Sim"},{"@pid":"334/1845","text":"Dan Miller"},{"@pid":"173/5016","text":"Danny Karmon"},{"@pid":"05/3143","text":"Dimitrios Dimitriadis"}]},"title":"Federated Multilingual Models for Medical Transcript Analysis.","venue":"CHIL","pages":"147-162","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/ManoelGBSCSMKD23","ee":"https://proceedings.mlr.press/v209/manoel23a.html","url":"https://dblp.org/rec/conf/chil/ManoelGBSCSMKD23"},
+"url":"URL#1040451"
+},
+{
+"@score":"1",
+"@id":"1040452",
+"info":{"authors":{"author":[{"@pid":"249/5533","text":"Katie Matton"},{"@pid":"78/3839","text":"Robert Lewis"},{"@pid":"g/JohnVGuttag","text":"John V. Guttag"},{"@pid":"p/RWPicard","text":"Rosalind W. Picard"}]},"title":"Contrastive Learning of Electrodermal Activity Representations for Stress Detection.","venue":"CHIL","pages":"410-426","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/MattonLGP23","ee":"https://proceedings.mlr.press/v209/matton23a.html","url":"https://dblp.org/rec/conf/chil/MattonLGP23"},
+"url":"URL#1040452"
+},
+{
+"@score":"1",
+"@id":"1040453",
+"info":{"authors":{"author":[{"@pid":"274/1060","text":"Mike A. Merrill"},{"@pid":"119/1352","text":"Tim Althoff"}]},"title":"Self-Supervised Pretraining and Transfer Learning Enable Flu and COVID-19 Predictions in Small Mobile Sensing Datasets.","venue":"CHIL","pages":"191-206","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/MerrillA23","ee":"https://proceedings.mlr.press/v209/merrill23a.html","url":"https://dblp.org/rec/conf/chil/MerrillA23"},
+"url":"URL#1040453"
+},
+{
+"@score":"1",
+"@id":"1040454",
+"info":{"authors":{"author":[{"@pid":"274/1060","text":"Mike A. Merrill"},{"@pid":"266/4648","text":"Esteban Safranchik"},{"@pid":"236/6273","text":"Arinbjörn Kolbeinsson"},{"@pid":"309/7178","text":"Piyusha Gade"},{"@pid":"09/6356","text":"Ernesto Ramirez"},{"@pid":"141/2720","text":"Ludwig Schmidt"},{"@pid":"354/9397","text":"Luca Foshchini"},{"@pid":"119/1352","text":"Tim Althoff"}]},"title":"Homekit2020: A Benchmark for Time Series Classification on a Large Mobile Sensing Dataset with Laboratory Tested Ground Truth of Influenza Infections.","venue":"CHIL","pages":"207-228","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/MerrillSKGRSFA23","ee":"https://proceedings.mlr.press/v209/merrill23b.html","url":"https://dblp.org/rec/conf/chil/MerrillSKGRSFA23"},
+"url":"URL#1040454"
+},
+{
+"@score":"1",
+"@id":"1040455",
+"info":{"authors":{"author":[{"@pid":"180/2648","text":"Supriya Nagesh"},{"@pid":"55/693","text":"Nina Mishra"},{"@pid":"87/7447","text":"Yonatan Naamad"},{"@pid":"r/JMRehg","text":"James M. Rehg"},{"@pid":"s/MehulAShah","text":"Mehul A. Shah"},{"@pid":"349/4129","text":"Alexei Wagner"}]},"title":"Explaining a machine learning decision to physicians via counterfactuals.","venue":"CHIL","pages":"556-577","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/NageshMNRSW23","ee":"https://proceedings.mlr.press/v209/nagesh23a.html","url":"https://dblp.org/rec/conf/chil/NageshMNRSW23"},
+"url":"URL#1040455"
+},
+{
+"@score":"1",
+"@id":"1040456",
+"info":{"authors":{"author":[{"@pid":"213/2651","text":"Arvind Pillai"},{"@pid":"243/6457","text":"Subigya Nepal"},{"@pid":"c/AndrewTCampbell","text":"Andrew Campbell 0001"}]},"title":"Rare Life Event Detection via Mobile Sensing Using Multi-Task Learning.","venue":"CHIL","pages":"279-293","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/PillaiN023","ee":"https://proceedings.mlr.press/v209/pillai23a.html","url":"https://dblp.org/rec/conf/chil/PillaiN023"},
+"url":"URL#1040456"
+},
+{
+"@score":"1",
+"@id":"1040457",
+"info":{"authors":{"author":[{"@pid":"274/6559","text":"Harry Rubin-Falcone"},{"@pid":"194/9616","text":"Joyce M. Lee"},{"@pid":"63/10451","text":"Jenna Wiens"}]},"title":"Denoising Autoencoders for Learning from Noisy Patient-Reported Data.","venue":"CHIL","pages":"393-409","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/Rubin-FalconeLW23","ee":"https://proceedings.mlr.press/v209/rubin-falcone23a.html","url":"https://dblp.org/rec/conf/chil/Rubin-FalconeLW23"},
+"url":"URL#1040457"
+},
+{
+"@score":"1",
+"@id":"1040458",
+"info":{"authors":{"author":[{"@pid":"184/7801","text":"Siyi Tang"},{"@pid":"200/8265","text":"Jared A. Dunnmon"},{"@pid":"149/2634","text":"Liangqiong Qu"},{"@pid":"176/4061","text":"Khaled Kamal Saab"},{"@pid":"311/0756","text":"Tina Baykaner"},{"@pid":"238/1178","text":"Christopher Lee-Messer"},{"@pid":"35/5410","text":"Daniel L. Rubin"}]},"title":"Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models.","venue":"CHIL","pages":"50-71","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/TangDQSBLR23","ee":"https://proceedings.mlr.press/v209/tang23a.html","url":"https://dblp.org/rec/conf/chil/TangDQSBLR23"},
+"url":"URL#1040458"
+},
+{
+"@score":"1",
+"@id":"1040459",
+"info":{"authors":{"author":[{"@pid":"264/5313","text":"Mingyue Tang"},{"@pid":"259/6255","text":"Jiechao Gao"},{"@pid":"289/6358","text":"Guimin Dong"},{"@pid":"305/0254","text":"Carl Yang 0001"},{"@pid":"21/10522","text":"Bradford Campbell"},{"@pid":"267/2051","text":"Brendan Bowman"},{"@pid":"354/9818","text":"Jamie Marie Zoellner"},{"@pid":"65/9169","text":"Emaad Abdel-Rahman"},{"@pid":"167/5298","text":"Mehdi Boukhechba"}]},"title":"øurs: Mobile Sensing based Fluid Overload Detection for End Stage Kidney Disease Patients using _Sensor _Relation _Dual _Autoencoder.","venue":"CHIL","pages":"133-146","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/TangGDYCBZAB23","ee":"https://proceedings.mlr.press/v209/tang23b.html","url":"https://dblp.org/rec/conf/chil/TangGDYCBZAB23"},
+"url":"URL#1040459"
+},
+{
+"@score":"1",
+"@id":"1040460",
+"info":{"authors":{"author":[{"@pid":"256/6228","text":"Donna Tjandra"},{"@pid":"63/10451","text":"Jenna Wiens"}]},"title":"Leveraging an Alignment Set in Tackling Instance-Dependent Label Noise.","venue":"CHIL","pages":"477-497","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/TjandraW23","ee":"https://proceedings.mlr.press/v209/tjandra23a.html","url":"https://dblp.org/rec/conf/chil/TjandraW23"},
+"url":"URL#1040460"
+},
+{
+"@score":"1",
+"@id":"1040461",
+"info":{"authors":{"author":[{"@pid":"230/8567","text":"Kailas Vodrahalli"},{"@pid":"354/9496","text":"Gregory D. Lyng"},{"@pid":"278/3760","text":"Brian L. Hill"},{"@pid":"234/6153","text":"Kimmo Kärkkäinen"},{"@pid":"329/3843","text":"Jeffrey Hertzberg"},{"@pid":"72/8399","text":"James Zou 0001"},{"@pid":"h/EranHalperin","text":"Eran Halperin"}]},"title":"Understanding and Predicting the Effect of Environmental Factors on People with Type 2 Diabetes.","venue":"CHIL","pages":"545-555","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/VodrahalliLHKHZ23","ee":"https://proceedings.mlr.press/v209/vodrahalli23a.html","url":"https://dblp.org/rec/conf/chil/VodrahalliLHKHZ23"},
+"url":"URL#1040461"
+},
+{
+"@score":"1",
+"@id":"1040462",
+"info":{"authors":{"author":[{"@pid":"31/10853","text":"Kevin Wu"},{"@pid":"77/5526","text":"Dominik Dahlem"},{"@pid":"354/9636","text":"Christopher Hane"},{"@pid":"h/EranHalperin","text":"Eran Halperin"},{"@pid":"72/8399","text":"James Zou 0001"}]},"title":"Collecting data when missingness is unknown: a method for improving model performance given under-reporting in patient populations.","venue":"CHIL","pages":"229-242","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/WuDHH023","ee":"https://proceedings.mlr.press/v209/wu23b.html","url":"https://dblp.org/rec/conf/chil/WuDHH023"},
+"url":"URL#1040462"
+},
+{
+"@score":"1",
+"@id":"1040463",
+"info":{"authors":{"author":[{"@pid":"09/1661","text":"Yuexin Wu"},{"@pid":"345/2116","text":"I-Chan Huang"},{"@pid":"32/5207-2","text":"Xiaolei Huang 0002"}]},"title":"Token Imbalance Adaptation for Radiology Report Generation.","venue":"CHIL","pages":"72-85","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/WuH023","ee":"https://proceedings.mlr.press/v209/wu23a.html","url":"https://dblp.org/rec/conf/chil/WuH023"},
+"url":"URL#1040463"
+},
+{
+"@score":"1",
+"@id":"1040464",
+"info":{"title":"Preface.","venue":"CHIL","pages":"1-5","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/X23","ee":"https://proceedings.mlr.press/v209/mortazavi23a.html","url":"https://dblp.org/rec/conf/chil/X23"},
+"url":"URL#1040464"
+},
+{
+"@score":"1",
+"@id":"1040465",
+"info":{"authors":{"author":[{"@pid":"85/2168","text":"Li Xu"},{"@pid":"58/2670-49","text":"Bo Liu 0049"},{"@pid":"231/3634","text":"Ameer Hamza Khan"},{"@pid":"47/137","text":"Lu Fan"},{"@pid":"98/2898-3","text":"Xiao-Ming Wu 0003"}]},"title":"Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models.","venue":"CHIL","pages":"117-132","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/XuLKF023","ee":"https://proceedings.mlr.press/v209/xu23a.html","url":"https://dblp.org/rec/conf/chil/XuLKF023"},
+"url":"URL#1040465"
+},
+{
+"@score":"1",
+"@id":"1040466",
+"info":{"authors":{"author":[{"@pid":"33/4854-94","text":"Yi Yang 0094"},{"@pid":"221/7865","text":"Hejie Cui"},{"@pid":"305/0254","text":"Carl Yang 0001"}]},"title":"PTGB: Pre-Train Graph Neural Networks for Brain Network Analysis.","venue":"CHIL","pages":"526-544","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/YangCY23","ee":"https://proceedings.mlr.press/v209/yang23a.html","url":"https://dblp.org/rec/conf/chil/YangCY23"},
+"url":"URL#1040466"
+},
+{
+"@score":"1",
+"@id":"1040467",
+"info":{"authors":{"author":[{"@pid":"142/6221","text":"Toshiya Yoshida"},{"@pid":"354/9562","text":"Trinity Shuxian Fan"},{"@pid":"138/5578","text":"Tyler H. McCormick"},{"@pid":"259/3143","text":"Zhenke Wu"},{"@pid":"220/5745","text":"Zehang Richard Li"}]},"title":"Bayesian Active Questionnaire Design for Cause-of-Death Assignment Using Verbal Autopsies.","venue":"CHIL","pages":"37-49","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/YoshidaFMWL23","ee":"https://proceedings.mlr.press/v209/yoshida23a.html","url":"https://dblp.org/rec/conf/chil/YoshidaFMWL23"},
+"url":"URL#1040467"
+},
+{
+"@score":"1",
+"@id":"1040468",
+"info":{"authors":{"author":[{"@pid":"32/6404","text":"Jessica Zheng"},{"@pid":"214/9819-2","text":"Hanrui Wang 0002"},{"@pid":"208/5324","text":"Anand Chandrasekhar"},{"@pid":"355/0001","text":"Aaron D. Aguirre"},{"@pid":"80/806-3","text":"Song Han 0003"},{"@pid":"87/5503","text":"Hae-Seung Lee"},{"@pid":"80/6069","text":"Charles G. Sodini"}]},"title":"Machine Learning for Arterial Blood Pressure Prediction.","venue":"CHIL","pages":"427-439","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/Zheng0CA0LS23","ee":"https://proceedings.mlr.press/v209/zheng23a.html","url":"https://dblp.org/rec/conf/chil/Zheng0CA0LS23"},
+"url":"URL#1040468"
+},
+{
+"@score":"1",
+"@id":"1040469",
+"info":{"authors":{"author":[{"@pid":"55/11105","text":"Helen Zhou"},{"@pid":"49/8346","text":"Yuwen Chen"},{"@pid":"142/2839","text":"Zachary C. Lipton"}]},"title":"Evaluating Model Performance in Medical Datasets Over Time.","venue":"CHIL","pages":"498-508","year":"2023","type":"Conference and Workshop Papers","access":"open","key":"conf/chil/ZhouCL23","ee":"https://proceedings.mlr.press/v209/zhou23a.html","url":"https://dblp.org/rec/conf/chil/ZhouCL23"},
+"url":"URL#1040469"
+},
+{
+"@score":"1",
+"@id":"1210630",
+"info":{"authors":{"author":[{"@pid":"60/10226","text":"Bobak J. Mortazavi"},{"@pid":"319/1885","text":"Tasmie Sarker"},{"@pid":"154/3831","text":"Andrew Beam"},{"@pid":"144/4961","text":"Joyce C. Ho"}]},"title":"Conference on Health, Inference, and Learning, CHIL 2023, Broad Institute of MIT and Harvard (Merkin Building), 415 Main Street, Cambridge, MA, USA.","venue":["CHIL","Proceedings of Machine Learning Research"],"volume":"209","publisher":"PMLR","year":"2023","type":"Editorship","access":"open","key":"conf/chil/2023","ee":"http://proceedings.mlr.press/v209/","url":"https://dblp.org/rec/conf/chil/2023"},
+"url":"URL#1210630"
+}
+]
+}
+}
+}

@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+3D MR brain images,tumorous tissues,-0.2838,1.6024
+non-parametric Bayesian Gaussian process,tumorous tissues,0.204,1.2617
+semi-supervised mode,tumorous tissues,0.2671,1.2107
+3D MR brain images,non-parametric Bayesian Gaussian process,0.0988,1.3425
+3D MR brain images,semi-supervised mode,0.1479,1.3054
+non-parametric Bayesian Gaussian process,semi-supervised mode,0.536,0.9634
+3D MR brain images,labeled data,-0.1088,1.4892
+3D MR brain images,unlabeled data,-0.2966,1.6103
+labeled data,non-parametric Bayesian Gaussian process,0.9185,0.4037
+non-parametric Bayesian Gaussian process,unlabeled data,0.1273,1.3211
+labeled data,semi-supervised mode,0.6639,0.8199
+semi-supervised mode,unlabeled data,-0.3847,1.6642
+labeled data,unlabeled data,-0.0578,1.4545
+graph regularization,non-parametric Bayesian Gaussian process,-0.2742,1.5964
+Extended Bernoulli Model,non-parametric Bayesian Gaussian process,-0.1932,1.5448
+graph regularization,semi-supervised mode,0.396,1.0991
+Extended Bernoulli Model,semi-supervised mode,0.4576,1.0416
+graph regularization,labeled data,-0.1012,1.4841
+Extended Bernoulli Model,labeled data,-0.1889,1.542
+graph regularization,unlabeled data,-0.3712,1.656
+Extended Bernoulli Model,unlabeled data,-0.2758,1.5973
+Extended Bernoulli Model,graph regularization,0.411,1.0854

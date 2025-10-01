@@ -1,0 +1,476 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/bsn/bsn2016.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"135.78"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"74",
+"@dc":"74",
+"@oc":"74",
+"@id":"48876117",
+"text":":facetid:toc:db/conf/bsn/bsn2016.bht"
+}
+},
+"hits":{
+"@total":"74",
+"@computed":"74",
+"@sent":"74",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"3997141",
+"info":{"authors":{"author":[{"@pid":"183/4964","text":"Xueliang Bao"},{"@pid":"183/4883","text":"Zhengyang Bi"},{"@pid":"14/6633-3","text":"Hai-Peng Wang 0003"},{"@pid":"171/9886","text":"Yu-Xuan Zhou"},{"@pid":"85/10077","text":"Xiao-Ying Lü"},{"@pid":"26/7027","text":"Zhi-Gong Wang"}]},"title":"An alternating controlled functional electrical stimulation strategy based on sample entropy for rehabilitation of lower extremity hemiplegia.","venue":"BSN","pages":"25-30","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/BaoBWZLW16","doi":"10.1109/BSN.2016.7516227","ee":"https://doi.org/10.1109/BSN.2016.7516227","url":"https://dblp.org/rec/conf/bsn/BaoBWZLW16"},
+"url":"URL#3997141"
+},
+{
+"@score":"1",
+"@id":"3997142",
+"info":{"authors":{"author":[{"@pid":"140/2429","text":"Jeroen Bergmann"},{"@pid":"n/JAlisonNoble","text":"J. Alison Noble"},{"@pid":"15/4274-3","text":"Mark Thompson 0003"}]},"title":"Probabilistic sensor network design.","venue":"BSN","pages":"66-70","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/BergmannNT16","doi":"10.1109/BSN.2016.7516234","ee":"https://doi.org/10.1109/BSN.2016.7516234","url":"https://dblp.org/rec/conf/bsn/BergmannNT16"},
+"url":"URL#3997142"
+},
+{
+"@score":"1",
+"@id":"3997143",
+"info":{"authors":{"author":[{"@pid":"168/5386","text":"Melissa Berthelot"},{"@pid":"148/6919","text":"Ching-Mei Chen"},{"@pid":"14/3693","text":"Guang-Zhong Yang"},{"@pid":"l/BennyPLLo","text":"Benny Lo"}]},"title":"Wireless wearable self-calibrated sensor for perfusion assessment of myocutaneous tissue.","venue":"BSN","pages":"171-176","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/BerthelotCYL16","doi":"10.1109/BSN.2016.7516254","ee":"https://doi.org/10.1109/BSN.2016.7516254","url":"https://dblp.org/rec/conf/bsn/BerthelotCYL16"},
+"url":"URL#3997143"
+},
+{
+"@score":"1",
+"@id":"3997144",
+"info":{"authors":{"author":[{"@pid":"183/5010","text":"Praveen Bhat"},{"@pid":"g/AjayKGupta","text":"Ajay Gupta 0001"}]},"title":"A novel approach to detect localized muscle fatigue during isometric exercises.","venue":"BSN","pages":"224-229","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/BhatG16","doi":"10.1109/BSN.2016.7516264","ee":"https://doi.org/10.1109/BSN.2016.7516264","url":"https://dblp.org/rec/conf/bsn/BhatG16"},
+"url":"URL#3997144"
+},
+{
+"@score":"1",
+"@id":"3997145",
+"info":{"authors":{"author":[{"@pid":"183/4778","text":"Olaf Binsch"},{"@pid":"177/5650","text":"Thymen Wabeke"},{"@pid":"183/4865","text":"Pierre Valk"}]},"title":"Comparison of three different physiological wristband sensor systems and their applicability for resilience- and work load monitoring.","venue":"BSN","pages":"272-276","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/BinschWV16","doi":"10.1109/BSN.2016.7516272","ee":"https://doi.org/10.1109/BSN.2016.7516272","url":"https://dblp.org/rec/conf/bsn/BinschWV16"},
+"url":"URL#3997145"
+},
+{
+"@score":"1",
+"@id":"3997146",
+"info":{"authors":{"author":[{"@pid":"96/10171","text":"Laura J. Brattain"},{"@pid":"183/4771","text":"Rogier Landman"},{"@pid":"183/4932","text":"Kerry A. Johnson"},{"@pid":"183/5008","text":"Patrick Chwalek"},{"@pid":"183/4897","text":"Julia Hyman"},{"@pid":"70/8816","text":"Jitendra Sharma"},{"@pid":"123/1908","text":"Charles Jennings"},{"@pid":"51/3170","text":"Robert Desimone"},{"@pid":"183/4665","text":"Guoping Feng"},{"@pid":"67/4478","text":"Thomas F. Quatieri"}]},"title":"A multimodal sensor system for automated marmoset behavioral analysis.","venue":"BSN","pages":"254-259","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/BrattainLJCHSJD16","doi":"10.1109/BSN.2016.7516269","ee":"https://doi.org/10.1109/BSN.2016.7516269","url":"https://dblp.org/rec/conf/bsn/BrattainLJCHSJD16"},
+"url":"URL#3997146"
+},
+{
+"@score":"1",
+"@id":"3997147",
+"info":{"authors":{"author":[{"@pid":"331/1091","text":"Rita Brugarolas"},{"@pid":"154/6506","text":"M. Talha Agcayazi"},{"@pid":"183/0085","text":"Sherrie Yuschak"},{"@pid":"63/1523","text":"David L. Roberts 0001"},{"@pid":"156/1973","text":"Barbara L. Sherman"},{"@pid":"32/5759","text":"Alper Bozkurt"}]},"title":"Towards a wearable system for continuous monitoring of sniffing and panting in dogs.","venue":"BSN","pages":"292-295","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/BrugarolasAYRSB16","doi":"10.1109/BSN.2016.7516276","ee":"https://doi.org/10.1109/BSN.2016.7516276","url":"https://dblp.org/rec/conf/bsn/BrugarolasAYRSB16"},
+"url":"URL#3997147"
+},
+{
+"@score":"1",
+"@id":"3997148",
+"info":{"authors":{"author":[{"@pid":"134/3162","text":"Lars Büthe"},{"@pid":"79/5846","text":"Ulf Blanke"},{"@pid":"183/4931","text":"Haralds Capkevics"},{"@pid":"50/1065","text":"Gerhard Tröster"}]},"title":"A wearable sensing system for timing analysis in tennis.","venue":"BSN","pages":"43-48","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/ButheBCT16","doi":"10.1109/BSN.2016.7516230","ee":"https://doi.org/10.1109/BSN.2016.7516230","url":"https://dblp.org/rec/conf/bsn/ButheBCT16"},
+"url":"URL#3997148"
+},
+{
+"@score":"1",
+"@id":"3997149",
+"info":{"authors":{"author":[{"@pid":"169/7578","text":"Aaron Castillo"},{"@pid":"183/4797","text":"Graciela Cortez"},{"@pid":"50/760","text":"David Diaz"},{"@pid":"183/5011","text":"Rayton Espiritu"},{"@pid":"183/4727","text":"Krystle Ilisastigui"},{"@pid":"183/4667","text":"Bryce O&apos;Bard"},{"@pid":"53/1347","text":"Kiran George"}]},"title":"Hands free mouse.","venue":"BSN","pages":"109-114","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/CastilloCDEIOG16","doi":"10.1109/BSN.2016.7516242","ee":"https://doi.org/10.1109/BSN.2016.7516242","url":"https://dblp.org/rec/conf/bsn/CastilloCDEIOG16"},
+"url":"URL#3997149"
+},
+{
+"@score":"1",
+"@id":"3997150",
+"info":{"authors":{"author":[{"@pid":"09/3666","text":"Lei Chen"},{"@pid":"b/IainBate","text":"Iain Bate"}]},"title":"Identifying usage anomalies for ECG-based sensor nodes.","venue":"BSN","pages":"77-82","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/ChenB16","doi":"10.1109/BSN.2016.7516236","ee":"https://doi.org/10.1109/BSN.2016.7516236","url":"https://dblp.org/rec/conf/bsn/ChenB16"},
+"url":"URL#3997150"
+},
+{
+"@score":"1",
+"@id":"3997151",
+"info":{"authors":{"author":[{"@pid":"183/4733","text":"Hsieh-Ping Chen"},{"@pid":"39/8341","text":"Hsieh-Chung Chen"},{"@pid":"169/6774","text":"Kai-Chun Liu"},{"@pid":"38/5929","text":"Chia-Tai Chan"}]},"title":"Online segmentation with multi-layer SVM for knee osteoarthritis rehabilitation monitoring.","venue":"BSN","pages":"55-60","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/ChenCLC16","doi":"10.1109/BSN.2016.7516232","ee":"https://doi.org/10.1109/BSN.2016.7516232","url":"https://dblp.org/rec/conf/bsn/ChenCLC16"},
+"url":"URL#3997151"
+},
+{
+"@score":"1",
+"@id":"3997152",
+"info":{"authors":{"author":[{"@pid":"133/1219","text":"Mauro Callejas Cuervo"},{"@pid":"80/1668","text":"Juan C. Álvarez"},{"@pid":"29/9129","text":"Diego Álvarez"}]},"title":"Capture and analysis of biomechanical signals with inertial and magnetic sensors as support in physical rehabilitation processes.","venue":"BSN","pages":"119-123","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/CuervoAA16","doi":"10.1109/BSN.2016.7516244","ee":"https://doi.org/10.1109/BSN.2016.7516244","url":"https://dblp.org/rec/conf/bsn/CuervoAA16"},
+"url":"URL#3997152"
+},
+{
+"@score":"1",
+"@id":"3997153",
+"info":{"authors":{"author":[{"@pid":"170/1634","text":"Sriram Raju Dandu"},{"@pid":"180/0789","text":"Matthew Engelhard"},{"@pid":"169/6780","text":"Myla D. Goldman"},{"@pid":"07/3021","text":"John C. Lach"}]},"title":"Determining physiological significance of inertial gait features in multiple sclerosis.","venue":"BSN","pages":"266-271","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/DanduEGL16","doi":"10.1109/BSN.2016.7516271","ee":"https://doi.org/10.1109/BSN.2016.7516271","url":"https://dblp.org/rec/conf/bsn/DanduEGL16"},
+"url":"URL#3997153"
+},
+{
+"@score":"1",
+"@id":"3997154",
+"info":{"authors":{"author":[{"@pid":"183/4934","text":"Yi Steven Ding"},{"@pid":"75/1586","text":"Zeljko Zilic"}]},"title":"ECG compression for mobile sensor platforms.","venue":"BSN","pages":"99-104","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/DingZ16","doi":"10.1109/BSN.2016.7516240","ee":"https://doi.org/10.1109/BSN.2016.7516240","url":"https://dblp.org/rec/conf/bsn/DingZ16"},
+"url":"URL#3997154"
+},
+{
+"@score":"1",
+"@id":"3997155",
+"info":{"authors":{"author":[{"@pid":"42/8025","text":"Arindam Dutta"},{"@pid":"183/4814","text":"Owen Ma"},{"@pid":"129/2176","text":"Matthew P. Buman"},{"@pid":"25/2644","text":"Daniel W. Bliss"}]},"title":"Learning approach for classification of GENEActiv accelerometer data for unique activity identification.","venue":"BSN","pages":"359-364","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/DuttaMBB16","doi":"10.1109/BSN.2016.7516288","ee":"https://doi.org/10.1109/BSN.2016.7516288","url":"https://dblp.org/rec/conf/bsn/DuttaMBB16"},
+"url":"URL#3997155"
+},
+{
+"@score":"1",
+"@id":"3997156",
+"info":{"authors":{"author":[{"@pid":"90/7398","text":"Dawei Fan"},{"@pid":"183/4719","text":"Luis Lopez Ruiz"},{"@pid":"133/9381","text":"Jiaqi Gong"},{"@pid":"07/3021","text":"John C. Lach"}]},"title":"Profiling, modeling, and predicting energy harvesting for self-powered body sensor platforms.","venue":"BSN","pages":"402-407","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/FanRGL16","doi":"10.1109/BSN.2016.7516295","ee":"https://doi.org/10.1109/BSN.2016.7516295","url":"https://dblp.org/rec/conf/bsn/FanRGL16"},
+"url":"URL#3997156"
+},
+{
+"@score":"1",
+"@id":"3997157",
+"info":{"authors":{"author":[{"@pid":"183/5001","text":"Hailing Fu"},{"@pid":"65/8519","text":"Kun Cao"},{"@pid":"183/4882","text":"Ruize Xu"},{"@pid":"183/4812","text":"Mohamed Aziz Bhouri"},{"@pid":"145/0851","text":"Ricardo Martinez-Botas"},{"@pid":"59/4539","text":"Sang-Gook Kim"},{"@pid":"61/5921","text":"Eric M. Yeatman"}]},"title":"Footstep energy harvesting using heel strike-induced airflow for human activity sensing.","venue":"BSN","pages":"124-129","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/FuCXBMKY16","doi":"10.1109/BSN.2016.7516245","ee":"https://doi.org/10.1109/BSN.2016.7516245","url":"https://dblp.org/rec/conf/bsn/FuCXBMKY16"},
+"url":"URL#3997157"
+},
+{
+"@score":"1",
+"@id":"3997158",
+"info":{"authors":{"author":[{"@pid":"145/3471","text":"Ju Gao"},{"@pid":"157/9106","text":"Diyan Teng"},{"@pid":"70/4039","text":"Emre Ertin"}]},"title":"ECG feature detection using randomly compressed samples for stable HRV analysis over low rate links.","venue":"BSN","pages":"165-170","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/GaoTE16","doi":"10.1109/BSN.2016.7516253","ee":"https://doi.org/10.1109/BSN.2016.7516253","url":"https://dblp.org/rec/conf/bsn/GaoTE16"},
+"url":"URL#3997158"
+},
+{
+"@score":"1",
+"@id":"3997159",
+"info":{"authors":{"author":[{"@pid":"183/4788","text":"Jacob L. Griffith"},{"@pid":"183/4801","text":"André A. Wakim"},{"@pid":"183/4828","text":"Peer Moore-Jansen"},{"@pid":"178/0664","text":"Kim Cluff"}]},"title":"Non-invasive biomedical patch sensor to measure intracranial pressure.","venue":"BSN","pages":"211","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/GriffithWMC16","doi":"10.1109/BSN.2016.7516261","ee":"https://doi.org/10.1109/BSN.2016.7516261","url":"https://dblp.org/rec/conf/bsn/GriffithWMC16"},
+"url":"URL#3997159"
+},
+{
+"@score":"1",
+"@id":"3997160",
+"info":{"authors":{"author":[{"@pid":"147/2868","text":"Benjamin H. Groh"},{"@pid":"183/4831","text":"Martin Fleckenstein"},{"@pid":"69/5675","text":"Björn M. Eskofier"}]},"title":"Wearable trick classification in freestyle snowboarding.","venue":"BSN","pages":"89-93","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/GrohFE16","doi":"10.1109/BSN.2016.7516238","ee":"https://doi.org/10.1109/BSN.2016.7516238","url":"https://dblp.org/rec/conf/bsn/GrohFE16"},
+"url":"URL#3997160"
+},
+{
+"@score":"1",
+"@id":"3997161",
+"info":{"authors":{"author":[{"@pid":"28/6300","text":"Rui He"},{"@pid":"68/7869","text":"Zhipei Huang"},{"@pid":"44/8742","text":"Lianying Ji"},{"@pid":"w/JianKangWu","text":"Jian-Kang Wu"},{"@pid":"35/8490","text":"Huihui Li"},{"@pid":"67/2010-1","text":"Zhiqiang Zhang 0001"}]},"title":"Beat-to-beat ambulatory blood pressure estimation based on random forest.","venue":"BSN","pages":"194-198","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/HeHJWLZ16","doi":"10.1109/BSN.2016.7516258","ee":"https://doi.org/10.1109/BSN.2016.7516258","url":"https://dblp.org/rec/conf/bsn/HeHJWLZ16"},
+"url":"URL#3997161"
+},
+{
+"@score":"1",
+"@id":"3997162",
+"info":{"authors":{"author":[{"@pid":"169/6773","text":"Marc Hesse"},{"@pid":"01/2384-2","text":"Michael Adams 0002"},{"@pid":"169/6761","text":"Timm Hormann"},{"@pid":"36/3893-1","text":"Ulrich Rückert 0001"}]},"title":"Towards a comprehensive power consumption model for wireless sensor nodes.","venue":"BSN","pages":"390-395","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/HesseAH016","doi":"10.1109/BSN.2016.7516293","ee":"https://doi.org/10.1109/BSN.2016.7516293","url":"https://dblp.org/rec/conf/bsn/HesseAH016"},
+"url":"URL#3997162"
+},
+{
+"@score":"1",
+"@id":"3997163",
+"info":{"authors":{"author":[{"@pid":"169/6761","text":"Timm Hormann"},{"@pid":"169/6773","text":"Marc Hesse"},{"@pid":"01/2384-2","text":"Michael Adams 0002"},{"@pid":"36/3893-1","text":"Ulrich Rückert 0001"}]},"title":"A software assistant for user-centric calibration of a wireless body sensor.","venue":"BSN","pages":"183-188","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/HormannHA016","doi":"10.1109/BSN.2016.7516256","ee":"https://doi.org/10.1109/BSN.2016.7516256","url":"https://dblp.org/rec/conf/bsn/HormannHA016"},
+"url":"URL#3997163"
+},
+{
+"@score":"1",
+"@id":"3997164",
+"info":{"authors":{"author":[{"@pid":"133/4184","text":"Rachelle L. Horwitz-Martin"},{"@pid":"67/4478","text":"Thomas F. Quatieri"},{"@pid":"03/9239","text":"Elizabeth Godoy"},{"@pid":"68/1665","text":"James R. Williamson"}]},"title":"A vocal modulation model with application to predicting depression severity.","venue":"BSN","pages":"247-253","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/Horwitz-MartinQ16","doi":"10.1109/BSN.2016.7516268","ee":"https://doi.org/10.1109/BSN.2016.7516268","url":"https://dblp.org/rec/conf/bsn/Horwitz-MartinQ16"},
+"url":"URL#3997164"
+},
+{
+"@score":"1",
+"@id":"3997165",
+"info":{"authors":{"author":[{"@pid":"173/6126","text":"Anahita Hosseini"},{"@pid":"183/5002","text":"Chris M. Buonocore"},{"@pid":"183/4913","text":"Sepideh Hashemzadeh"},{"@pid":"183/4924","text":"Hannaneh Hojaiji"},{"@pid":"132/3814","text":"Haik Kalantarian"},{"@pid":"20/10396","text":"Costas Sideris"},{"@pid":"92/1850","text":"Alex A. T. Bui"},{"@pid":"117/9342","text":"Christine E. King"},{"@pid":"s/MajidSarrafzadeh","text":"Majid Sarrafzadeh"}]},"title":"HIPAA compliant wireless sensing smartwatch application for the self-management of pediatric asthma.","venue":"BSN","pages":"49-54","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/HosseiniBHHKSBK16","doi":"10.1109/BSN.2016.7516231","ee":"https://doi.org/10.1109/BSN.2016.7516231","url":"https://dblp.org/rec/conf/bsn/HosseiniBHHKSBK16"},
+"url":"URL#3997165"
+},
+{
+"@score":"1",
+"@id":"3997166",
+"info":{"authors":{"author":[{"@pid":"183/4764","text":"Denis Huen"},{"@pid":"55/6137","text":"Jindong Liu"},{"@pid":"l/BennyPLLo","text":"Benny Lo"}]},"title":"An integrated wearable robot for tremor suppression with context aware sensing.","venue":"BSN","pages":"312-317","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/HuenLL16","doi":"10.1109/BSN.2016.7516280","ee":"https://doi.org/10.1109/BSN.2016.7516280","url":"https://dblp.org/rec/conf/bsn/HuenLL16"},
+"url":"URL#3997166"
+},
+{
+"@score":"1",
+"@id":"3997167",
+"info":{"authors":{"author":[{"@pid":"132/3814","text":"Haik Kalantarian"},{"@pid":"20/10396","text":"Costas Sideris"},{"@pid":"147/9791","text":"Tuan Le"},{"@pid":"117/9342","text":"Christine E. King"},{"@pid":"s/MajidSarrafzadeh","text":"Majid Sarrafzadeh"}]},"title":"A framework for probabilistic segmentation of continuous sensor signals.","venue":"BSN","pages":"19-24","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/KalantarianSLKS16","doi":"10.1109/BSN.2016.7516226","ee":"https://doi.org/10.1109/BSN.2016.7516226","url":"https://dblp.org/rec/conf/bsn/KalantarianSLKS16"},
+"url":"URL#3997167"
+},
+{
+"@score":"1",
+"@id":"3997168",
+"info":{"authors":{"author":[{"@pid":"183/4677","text":"Jamal Ahmad Khan"},{"@pid":"183/4852","text":"Haroon Ali Akbar"},{"@pid":"183/4782","text":"Usama Pervaiz"},{"@pid":"183/4943","text":"Osman Hassan"}]},"title":"A wearable wireless sensor for cardiac monitoring.","venue":"BSN","pages":"61-65","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/KhanAPH16","doi":"10.1109/BSN.2016.7516233","ee":"https://doi.org/10.1109/BSN.2016.7516233","url":"https://dblp.org/rec/conf/bsn/KhanAPH16"},
+"url":"URL#3997168"
+},
+{
+"@score":"1",
+"@id":"3997169",
+"info":{"authors":{"author":[{"@pid":"161/8316","text":"Joachim F. Kreutzer"},{"@pid":"183/4653","text":"Johannes Deist"},{"@pid":"183/4755","text":"Christina M. Hein"},{"@pid":"l/TimLuth","text":"Tim C. Lueth"}]},"title":"Sensor systems for monitoring fluid intake indirectly and directly.","venue":"BSN","pages":"1-6","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/KreutzerDHL16","doi":"10.1109/BSN.2016.7516223","ee":"https://doi.org/10.1109/BSN.2016.7516223","url":"https://dblp.org/rec/conf/bsn/KreutzerDHL16"},
+"url":"URL#3997169"
+},
+{
+"@score":"1",
+"@id":"3997170",
+"info":{"authors":{"author":[{"@pid":"161/8316","text":"Joachim F. Kreutzer"},{"@pid":"183/4869","text":"Jannai Flaschberger"},{"@pid":"183/4755","text":"Christina M. Hein"},{"@pid":"l/TimLuth","text":"Tim C. Lueth"}]},"title":"Capacitive detection of filling levels in a cup.","venue":"BSN","pages":"31-36","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/KreutzerFHL16","doi":"10.1109/BSN.2016.7516228","ee":"https://doi.org/10.1109/BSN.2016.7516228","url":"https://dblp.org/rec/conf/bsn/KreutzerFHL16"},
+"url":"URL#3997170"
+},
+{
+"@score":"1",
+"@id":"3997171",
+"info":{"authors":{"author":[{"@pid":"158/4571","text":"Robert LeMoyne"},{"@pid":"183/4738","text":"Frederic Heerinckx"},{"@pid":"183/4750","text":"Tanya Aranca"},{"@pid":"183/4815","text":"Robert De Jager"},{"@pid":"183/4907","text":"Theresa Zesiewicz"},{"@pid":"64/2203","text":"Harry J. Saal"}]},"title":"Wearable body and wireless inertial sensors for machine learning classification of gait for people with Friedreich&apos;s ataxia.","venue":"BSN","pages":"147-151","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/LeMoyneHAJZS16","doi":"10.1109/BSN.2016.7516249","ee":"https://doi.org/10.1109/BSN.2016.7516249","url":"https://dblp.org/rec/conf/bsn/LeMoyneHAJZS16"},
+"url":"URL#3997171"
+},
+{
+"@score":"1",
+"@id":"3997172",
+"info":{"authors":{"author":[{"@pid":"35/11104","text":"Sunghoon Ivan Lee"},{"@pid":"169/6766","text":"Jean-Francois Daneault"},{"@pid":"183/4662","text":"Luc Weydert"}]},"title":"A novel flexible wearable sensor for estimating joint-angles.","venue":"BSN","pages":"377-382","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/LeeDW16","doi":"10.1109/BSN.2016.7516291","ee":"https://doi.org/10.1109/BSN.2016.7516291","url":"https://dblp.org/rec/conf/bsn/LeeDW16"},
+"url":"URL#3997172"
+},
+{
+"@score":"1",
+"@id":"3997173",
+"info":{"authors":{"author":[{"@pid":"132/6599","text":"Heike Leutheuser"},{"@pid":"169/6814","text":"Stefan Gradl"},{"@pid":"169/6797","text":"Lars Anneken"},{"@pid":"81/313","text":"Martin Arnold"},{"@pid":"169/6752","text":"Nadine Lang"},{"@pid":"19/79","text":"Stephan Achenbach"},{"@pid":"69/5675","text":"Björn M. Eskofier"}]},"title":"Instantaneous P- and T-wave detection: Assessment of three ECG fiducial points detection algorithms.","venue":"BSN","pages":"329-334","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/LeutheuserGAALA16","doi":"10.1109/BSN.2016.7516283","ee":"https://doi.org/10.1109/BSN.2016.7516283","url":"https://dblp.org/rec/conf/bsn/LeutheuserGAALA16"},
+"url":"URL#3997173"
+},
+{
+"@score":"1",
+"@id":"3997174",
+"info":{"authors":{"author":[{"@pid":"82/1763-6","text":"Xian Li 0006"},{"@pid":"401/0916","text":"Huang Hui"},{"@pid":"29/795","text":"Ye Sun"}]},"title":"Investigation of motion artifacts for biopotential measurement in wearable devices.","venue":"BSN","pages":"218-223","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/LiHS16","doi":"10.1109/BSN.2016.7516263","ee":"https://doi.org/10.1109/BSN.2016.7516263","url":"https://dblp.org/rec/conf/bsn/LiHS16"},
+"url":"URL#3997174"
+},
+{
+"@score":"1",
+"@id":"3997175",
+"info":{"authors":{"author":[{"@pid":"79/572-2","text":"Jinyang Li 0002"},{"@pid":"15/2486","text":"Yongpan Liu"},{"@pid":"161/0239","text":"Hehe Li"},{"@pid":"31/9503","text":"Rui Hua"},{"@pid":"x/ChunJasonXue","text":"Chun Jason Xue"},{"@pid":"10/2814","text":"Hyung Gyu Lee"},{"@pid":"94/1128","text":"Huazhong Yang"}]},"title":"Accurate personal ultraviolet dose estimation with multiple wearable sensors.","venue":"BSN","pages":"347-352","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/LiLLHXLY16","doi":"10.1109/BSN.2016.7516286","ee":"https://doi.org/10.1109/BSN.2016.7516286","url":"https://dblp.org/rec/conf/bsn/LiLLHXLY16"},
+"url":"URL#3997175"
+},
+{
+"@score":"1",
+"@id":"3997176",
+"info":{"authors":{"author":[{"@pid":"29/3742","text":"Zhiqiang Liu"},{"@pid":"35/837-16","text":"Bin Liu 0016"},{"@pid":"16/4406","text":"Chang Chen"},{"@pid":"29/4638","text":"Chang Wen Chen"}]},"title":"An energy-efficient and QoS-effective resource allocation scheme in WBANs.","venue":"BSN","pages":"341-346","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/LiuLCC16","doi":"10.1109/BSN.2016.7516285","ee":"https://doi.org/10.1109/BSN.2016.7516285","url":"https://dblp.org/rec/conf/bsn/LiuLCC16"},
+"url":"URL#3997176"
+},
+{
+"@score":"1",
+"@id":"3997177",
+"info":{"authors":{"author":[{"@pid":"10/6178-14","text":"Liang Liu 0014"},{"@pid":"04/563","text":"Sanjay Mehrotra"}]},"title":"Bed angle detection in hospital room using Microsoft Kinect V2.","venue":"BSN","pages":"277-280","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/LiuM16","doi":"10.1109/BSN.2016.7516273","ee":"https://doi.org/10.1109/BSN.2016.7516273","url":"https://dblp.org/rec/conf/bsn/LiuM16"},
+"url":"URL#3997177"
+},
+{
+"@score":"1",
+"@id":"3997178",
+"info":{"authors":{"author":[{"@pid":"169/6808","text":"Lindsay W. Ludlow"},{"@pid":"169/6740","text":"Peter G. Weyand"}]},"title":"Estimating loaded, inclined walking energetics: No functional difference between added and body mass.","venue":"BSN","pages":"306-311","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/LudlowW16","doi":"10.1109/BSN.2016.7516279","ee":"https://doi.org/10.1109/BSN.2016.7516279","url":"https://dblp.org/rec/conf/bsn/LudlowW16"},
+"url":"URL#3997178"
+},
+{
+"@score":"1",
+"@id":"3997179",
+"info":{"authors":{"author":[{"@pid":"169/6725","text":"Markus J. Lüken"},{"@pid":"183/4973","text":"Bernhard Penzlin"},{"@pid":"20/6764","text":"Steffen Leonhardt"},{"@pid":"56/7869","text":"Berno J. E. Misgeld"}]},"title":"Quantification of respiratory sinus arrhythmia using the IPANEMA body sensor network.","venue":"BSN","pages":"83-88","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/LukenPLM16","doi":"10.1109/BSN.2016.7516237","ee":"https://doi.org/10.1109/BSN.2016.7516237","url":"https://dblp.org/rec/conf/bsn/LukenPLM16"},
+"url":"URL#3997179"
+},
+{
+"@score":"1",
+"@id":"3997180",
+"info":{"authors":{"author":[{"@pid":"137/3852","text":"Nick Merrill"},{"@pid":"183/4689","text":"Max T. Curran"},{"@pid":"183/4722","text":"Jong-Kai Yang"},{"@pid":"c/JohnChuang","text":"John Chuang"}]},"title":"Classifying mental gestures with in-ear EEG.","venue":"BSN","pages":"130-135","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/MerrillCYC16","doi":"10.1109/BSN.2016.7516246","ee":"https://doi.org/10.1109/BSN.2016.7516246","url":"https://dblp.org/rec/conf/bsn/MerrillCYC16"},
+"url":"URL#3997180"
+},
+{
+"@score":"1",
+"@id":"3997181",
+"info":{"authors":{"author":[{"@pid":"56/7869","text":"Berno J. E. Misgeld"},{"@pid":"169/6725","text":"Markus J. Lüken"},{"@pid":"20/6764","text":"Steffen Leonhardt"}]},"title":"Identification of isolated biomechanical parameters with a wireless body sensor network.","venue":"BSN","pages":"37-42","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/MisgeldLL16","doi":"10.1109/BSN.2016.7516229","ee":"https://doi.org/10.1109/BSN.2016.7516229","url":"https://dblp.org/rec/conf/bsn/MisgeldLL16"},
+"url":"URL#3997181"
+},
+{
+"@score":"1",
+"@id":"3997182",
+"info":{"authors":{"author":[{"@pid":"181/1334","text":"Babak Moatamed"},{"@pid":"183/4700-1","text":"Arjun 0001"},{"@pid":"171/8869","text":"Farhad Shahmohammadi"},{"@pid":"11/4525","text":"Ramin Ramezani"},{"@pid":"183/4962","text":"Arash Naeim"},{"@pid":"s/MajidSarrafzadeh","text":"Majid Sarrafzadeh"}]},"title":"Low-cost indoor health monitoring system.","venue":"BSN","pages":"159-164","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/MoatamedASRNS16","doi":"10.1109/BSN.2016.7516252","ee":"https://doi.org/10.1109/BSN.2016.7516252","url":"https://dblp.org/rec/conf/bsn/MoatamedASRNS16"},
+"url":"URL#3997182"
+},
+{
+"@score":"1",
+"@id":"3997183",
+"info":{"authors":{"author":[{"@pid":"166/9591","text":"Hossein Mohamadipanah"},{"@pid":"84/214","text":"Chembian Parthiban"},{"@pid":"183/4919","text":"Katherine Law"},{"@pid":"183/4651","text":"Jay Nathwani"},{"@pid":"183/4734","text":"Lakita Maulson"},{"@pid":"183/4832","text":"Shannon DiMarco"},{"@pid":"54/4274","text":"Carla M. Pugh"}]},"title":"Hand smoothness in laparoscopic surgery correlates to psychomotor skills in virtual reality.","venue":"BSN","pages":"242-246","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/MohamadipanahPL16","doi":"10.1109/BSN.2016.7516267","ee":"https://doi.org/10.1109/BSN.2016.7516267","url":"https://dblp.org/rec/conf/bsn/MohamadipanahPL16"},
+"url":"URL#3997183"
+},
+{
+"@score":"1",
+"@id":"3997184",
+"info":{"authors":{"author":{"@pid":"341/4011","text":"Carlos Andrés Mugruza-Vassallo"}},"title":"Different regressors for linear modelling of ElectroEncephaloGraphic recordings in visual and auditory tasks.","venue":"BSN","pages":"260-265","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/Mugruza-Vassallo16","doi":"10.1109/BSN.2016.7516270","ee":"https://doi.org/10.1109/BSN.2016.7516270","url":"https://dblp.org/rec/conf/bsn/Mugruza-Vassallo16"},
+"url":"URL#3997184"
+},
+{
+"@score":"1",
+"@id":"3997185",
+"info":{"authors":{"author":[{"@pid":"64/10726","text":"Ebrahim Nemati"},{"@pid":"48/6464","text":"Young Soo Suh"},{"@pid":"181/1334","text":"Babak Moatamed"},{"@pid":"s/MajidSarrafzadeh","text":"Majid Sarrafzadeh"}]},"title":"Gait velocity estimation for a smartwatch platform using Kalman filter peak recovery.","venue":"BSN","pages":"230-235","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/NematiSMS16","doi":"10.1109/BSN.2016.7516265","ee":"https://doi.org/10.1109/BSN.2016.7516265","url":"https://dblp.org/rec/conf/bsn/NematiSMS16"},
+"url":"URL#3997185"
+},
+{
+"@score":"1",
+"@id":"3997186",
+"info":{"authors":{"author":{"@pid":"56/6068","text":"Andrés Felipe Ruiz Olaya"}},"title":"On the use of wearable sensors to enhance motion intention detection for a contralaterally controlled FES system.","venue":"BSN","pages":"324-328","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/Olaya16","doi":"10.1109/BSN.2016.7516282","ee":"https://doi.org/10.1109/BSN.2016.7516282","url":"https://dblp.org/rec/conf/bsn/Olaya16"},
+"url":"URL#3997186"
+},
+{
+"@score":"1",
+"@id":"3997187",
+"info":{"authors":{"author":[{"@pid":"183/4688","text":"Pragna Paladugu"},{"@pid":"183/4849","text":"Alejandra Hernandez"},{"@pid":"183/4917","text":"Karlie Gross"},{"@pid":"98/3417","text":"Yi Su"},{"@pid":"183/4967","text":"Ahmet Neseli"},{"@pid":"183/4811","text":"Sara Gombatto"},{"@pid":"123/5712","text":"Kee S. Moon"},{"@pid":"49/5913","text":"Yusuf Öztürk"}]},"title":"A sensor cluster to monitor body kinematics.","venue":"BSN","pages":"212-217","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/PaladuguHGSNGMO16","doi":"10.1109/BSN.2016.7516262","ee":"https://doi.org/10.1109/BSN.2016.7516262","url":"https://dblp.org/rec/conf/bsn/PaladuguHGSNGMO16"},
+"url":"URL#3997187"
+},
+{
+"@score":"1",
+"@id":"3997188",
+"info":{"authors":{"author":[{"@pid":"159/7391","text":"Federico Parisi"},{"@pid":"45/5951","text":"Gianluigi Ferrari 0001"},{"@pid":"183/5019","text":"Alessio Baricich"},{"@pid":"183/4708","text":"Marco D&apos;Innocenzo"},{"@pid":"183/4953","text":"Carlo Cisari"},{"@pid":"35/11100","text":"Alessandro Mauro"}]},"title":"Accurate gait analysis in post-stroke patients using a single inertial measurement unit.","venue":"BSN","pages":"335-340","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/ParisiFBDCM16","doi":"10.1109/BSN.2016.7516284","ee":"https://doi.org/10.1109/BSN.2016.7516284","url":"https://dblp.org/rec/conf/bsn/ParisiFBDCM16"},
+"url":"URL#3997188"
+},
+{
+"@score":"1",
+"@id":"3997189",
+"info":{"authors":{"author":[{"@pid":"183/4827","text":"Pragnesh V. Patel"},{"@pid":"183/4721","text":"Jinendar Lalwani Ashok Kumar"},{"@pid":"32/5962","text":"Mahasweta Sarkar"},{"@pid":"55/514","text":"Santosh V. Nagaraj"}]},"title":"Tracking the behavior of UWB transmissions in invasive BCI applications.","venue":"BSN","pages":"205-210","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/PatelKSN16","doi":"10.1109/BSN.2016.7516260","ee":"https://doi.org/10.1109/BSN.2016.7516260","url":"https://dblp.org/rec/conf/bsn/PatelKSN16"},
+"url":"URL#3997189"
+},
+{
+"@score":"1",
+"@id":"3997190",
+"info":{"authors":{"author":[{"@pid":"183/4736","text":"Rutul Patel"},{"@pid":"183/4827","text":"Pragnesh V. Patel"},{"@pid":"183/4724","text":"Jinendar Lalwani"},{"@pid":"32/5962","text":"Mahasweta Sarkar"},{"@pid":"55/514","text":"Santosh V. Nagaraj"}]},"title":"Investigating the feasibility of multiple UWB transmitters in brain computer interface (BCI) applications.","venue":"BSN","pages":"236-241","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/PatelPLSN16","doi":"10.1109/BSN.2016.7516266","ee":"https://doi.org/10.1109/BSN.2016.7516266","url":"https://dblp.org/rec/conf/bsn/PatelPLSN16"},
+"url":"URL#3997190"
+},
+{
+"@score":"1",
+"@id":"3997191",
+"info":{"authors":{"author":[{"@pid":"34/5165","text":"Fei Peng"},{"@pid":"35/8490","text":"Huihui Li"},{"@pid":"133/4513","text":"Kamen Ivanov"},{"@pid":"15/9034","text":"Guoru Zhao"},{"@pid":"89/1615","text":"Fang Zhou"},{"@pid":"167/3674","text":"Wenjing Du"},{"@pid":"w/LeiWang29","text":"Lei Wang 0029"}]},"title":"Quantitative analysis of spine angle range of individuals with low back pain performing dynamic exercises.","venue":"BSN","pages":"136-140","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/PengLIZZD016","doi":"10.1109/BSN.2016.7516247","ee":"https://doi.org/10.1109/BSN.2016.7516247","url":"https://dblp.org/rec/conf/bsn/PengLIZZD016"},
+"url":"URL#3997191"
+},
+{
+"@score":"1",
+"@id":"3997192",
+"info":{"authors":{"author":[{"@pid":"183/4855","text":"Deborah Piette"},{"@pid":"183/4649","text":"Tomas Norton"},{"@pid":"133/6991","text":"Vasileios Exadaktylos"},{"@pid":"27/4474","text":"Daniel Berckmans"}]},"title":"Real-time monitoring of the horse-rider dyad using body sensor network technology.","venue":"BSN","pages":"287-291","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/PietteNEB16","doi":"10.1109/BSN.2016.7516275","ee":"https://doi.org/10.1109/BSN.2016.7516275","url":"https://dblp.org/rec/conf/bsn/PietteNEB16"},
+"url":"URL#3997192"
+},
+{
+"@score":"1",
+"@id":"3997193",
+"info":{"authors":{"author":[{"@pid":"135/4960","text":"Asma Qureshi"},{"@pid":"23/6358","text":"Maïté Brandt-Pearce"},{"@pid":"169/6780","text":"Myla D. Goldman"}]},"title":"Longitudinal estimation of gait time series density in multiple sclerosis subjects using inertial data.","venue":"BSN","pages":"152","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/QureshiBG16","doi":"10.1109/BSN.2016.7516250","ee":"https://doi.org/10.1109/BSN.2016.7516250","url":"https://dblp.org/rec/conf/bsn/QureshiBG16"},
+"url":"URL#3997193"
+},
+{
+"@score":"1",
+"@id":"3997194",
+"info":{"authors":{"author":{"@pid":"29/2581","text":"Ramesh Rajagopalan"}},"title":"Energy efficient routing algorithm for patient monitoring in body sensor networks.","venue":"BSN","pages":"141-146","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/Rajagopalan16","doi":"10.1109/BSN.2016.7516248","ee":"https://doi.org/10.1109/BSN.2016.7516248","url":"https://dblp.org/rec/conf/bsn/Rajagopalan16"},
+"url":"URL#3997194"
+},
+{
+"@score":"1",
+"@id":"3997195",
+"info":{"authors":{"author":[{"@pid":"147/2772","text":"Vignesh Raja Karuppiah Ramachandran"},{"@pid":"h/PaulJMHavinga","text":"Paul J. M. Havinga"},{"@pid":"m/NirvanaMeratnia","text":"Nirvana Meratnia"}]},"title":"HACMAC: A reliable human activity-based medium access control for implantable body sensor networks.","venue":"BSN","pages":"383-389","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/RamachandranHM16","doi":"10.1109/BSN.2016.7516292","ee":"https://doi.org/10.1109/BSN.2016.7516292","url":"https://dblp.org/rec/conf/bsn/RamachandranHM16"},
+"url":"URL#3997195"
+},
+{
+"@score":"1",
+"@id":"3997196",
+"info":{"authors":{"author":[{"@pid":"183/4977","text":"Priyank Rathod"},{"@pid":"53/1347","text":"Kiran George"},{"@pid":"183/4792","text":"Nikhil Shinde"}]},"title":"Bio-signal based emotion detection device.","venue":"BSN","pages":"105-108","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/RathodGS16","doi":"10.1109/BSN.2016.7516241","ee":"https://doi.org/10.1109/BSN.2016.7516241","url":"https://dblp.org/rec/conf/bsn/RathodGS16"},
+"url":"URL#3997196"
+},
+{
+"@score":"1",
+"@id":"3997197",
+"info":{"authors":{"author":[{"@pid":"50/2157","text":"Daniele Ravì"},{"@pid":"59/10077","text":"Charence Wong"},{"@pid":"l/BennyPLLo","text":"Benny Lo"},{"@pid":"14/3693","text":"Guang-Zhong Yang"}]},"title":"Deep learning for human activity recognition: A resource efficient implementation on low-power devices.","venue":"BSN","pages":"71-76","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/RaviWLY16","doi":"10.1109/BSN.2016.7516235","ee":"https://doi.org/10.1109/BSN.2016.7516235","url":"https://dblp.org/rec/conf/bsn/RaviWLY16"},
+"url":"URL#3997197"
+},
+{
+"@score":"1",
+"@id":"3997198",
+"info":{"authors":{"author":[{"@pid":"183/4829","text":"Alex Resendiz"},{"@pid":"183/4821","text":"Dani Odicho"},{"@pid":"159/7381","text":"Victor Gabrielian"},{"@pid":"n/AniNahapetian","text":"Ani Nahapetian"}]},"title":"Edemeter: Wearable and continuous fluid retention monitoring.","venue":"BSN","pages":"153-158","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/ResendizOGN16","doi":"10.1109/BSN.2016.7516251","ee":"https://doi.org/10.1109/BSN.2016.7516251","url":"https://dblp.org/rec/conf/bsn/ResendizOGN16"},
+"url":"URL#3997198"
+},
+{
+"@score":"1",
+"@id":"3997199",
+"info":{"authors":{"author":[{"@pid":"148/6894","text":"Robert Richer"},{"@pid":"147/2868","text":"Benjamin H. Groh"},{"@pid":"145/8859","text":"Peter Blank"},{"@pid":"167/8275","text":"Eva Dorschky"},{"@pid":"183/4833","text":"Christine Martindale"},{"@pid":"160/6917","text":"Jochen Klucken"},{"@pid":"69/5675","text":"Björn M. Eskofier"}]},"title":"Unobtrusive real-time heart rate variability analysis for the detection of orthostatic dysregulation.","venue":"BSN","pages":"189-193","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/RicherGBDMKE16","doi":"10.1109/BSN.2016.7516257","ee":"https://doi.org/10.1109/BSN.2016.7516257","url":"https://dblp.org/rec/conf/bsn/RicherGBDMKE16"},
+"url":"URL#3997199"
+},
+{
+"@score":"1",
+"@id":"3997200",
+"info":{"authors":{"author":[{"@pid":"183/4878","text":"Bruno Miguel Gil Rosa"},{"@pid":"14/3693","text":"Guang-Zhong Yang"}]},"title":"Active implantable sensor powered by ultrasounds with application in the monitoring of physiological parameters for soft tissues.","venue":"BSN","pages":"318-323","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/RosaY16","doi":"10.1109/BSN.2016.7516281","ee":"https://doi.org/10.1109/BSN.2016.7516281","url":"https://dblp.org/rec/conf/bsn/RosaY16"},
+"url":"URL#3997200"
+},
+{
+"@score":"1",
+"@id":"3997201",
+"info":{"authors":{"author":[{"@pid":"76/7016","text":"Kok-Yong Seng"},{"@pid":"21/5521","text":"Ying Chen"},{"@pid":"94/300","text":"Kian Ming Adam Chai"},{"@pid":"12/2633","text":"Ting Wang"},{"@pid":"183/4840","text":"David Chiok Yuen Fun"},{"@pid":"183/4741","text":"Ya Shi Teo"},{"@pid":"183/4906","text":"Pearl Min Sze Tan"},{"@pid":"183/4825","text":"Wee Hon Ang"},{"@pid":"183/4769","text":"Jason Kai Wei Lee"}]},"title":"Tracking body core temperature in military thermal environments: An extended Kalman filter approach.","venue":"BSN","pages":"296-299","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/SengCCWFTTAL16","doi":"10.1109/BSN.2016.7516277","ee":"https://doi.org/10.1109/BSN.2016.7516277","url":"https://dblp.org/rec/conf/bsn/SengCCWFTTAL16"},
+"url":"URL#3997201"
+},
+{
+"@score":"1",
+"@id":"3997202",
+"info":{"authors":{"author":[{"@pid":"183/4792","text":"Nikhil Shinde"},{"@pid":"53/1347","text":"Kiran George"}]},"title":"Brain-controlled driving aid for electric wheelchairs.","venue":"BSN","pages":"115-118","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/ShindeG16","doi":"10.1109/BSN.2016.7516243","ee":"https://doi.org/10.1109/BSN.2016.7516243","url":"https://dblp.org/rec/conf/bsn/ShindeG16"},
+"url":"URL#3997202"
+},
+{
+"@score":"1",
+"@id":"3997203",
+"info":{"authors":{"author":[{"@pid":"58/7359","text":"Mathieu Simonnet"},{"@pid":"136/3614","text":"Bernard Gourvennec"}]},"title":"Heart rate sensors acceptability: Data reliability vs. ease of use.","venue":"BSN","pages":"94-98","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/SimonnetG16","doi":"10.1109/BSN.2016.7516239","ee":"https://doi.org/10.1109/BSN.2016.7516239","url":"https://dblp.org/rec/conf/bsn/SimonnetG16"},
+"url":"URL#3997203"
+},
+{
+"@score":"1",
+"@id":"3997204",
+"info":{"authors":{"author":[{"@pid":"183/5003","text":"Ninoshka K. Singh"},{"@pid":"183/4980","text":"Darnell O. Ricke"}]},"title":"Towards an open data framework for body sensor networks supporting bluetooth low energy.","venue":"BSN","pages":"396-401","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/SinghR16","doi":"10.1109/BSN.2016.7516294","ee":"https://doi.org/10.1109/BSN.2016.7516294","url":"https://dblp.org/rec/conf/bsn/SinghR16"},
+"url":"URL#3997204"
+},
+{
+"@score":"1",
+"@id":"3997205",
+"info":{"authors":{"author":[{"@pid":"183/4720","text":"Nicolo Strozzi"},{"@pid":"159/7391","text":"Federico Parisi"},{"@pid":"45/5951","text":"Gianluigi Ferrari 0001"}]},"title":"On single sensor-based inertial navigation.","venue":"BSN","pages":"300-305","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/StrozziPF16","doi":"10.1109/BSN.2016.7516278","ee":"https://doi.org/10.1109/BSN.2016.7516278","url":"https://dblp.org/rec/conf/bsn/StrozziPF16"},
+"url":"URL#3997205"
+},
+{
+"@score":"1",
+"@id":"3997206",
+"info":{"authors":{"author":[{"@pid":"165/1659","text":"Andreas Tobola"},{"@pid":"132/6599","text":"Heike Leutheuser"},{"@pid":"120/3555","text":"Björn Schmitz"},{"@pid":"26/2494","text":"Christian Hofmann"},{"@pid":"20/10941","text":"Matthias Struck"},{"@pid":"80/6503","text":"Christian Weigand"},{"@pid":"69/5675","text":"Björn M. Eskofier"},{"@pid":"54/3540-1","text":"Georg Fischer 0001"}]},"title":"Battery runtime optimization toolbox for wearable biomedical sensors.","venue":"BSN","pages":"199-204","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/TobolaLSHSWEF16","doi":"10.1109/BSN.2016.7516259","ee":"https://doi.org/10.1109/BSN.2016.7516259","url":"https://dblp.org/rec/conf/bsn/TobolaLSHSWEF16"},
+"url":"URL#3997206"
+},
+{
+"@score":"1",
+"@id":"3997207",
+"info":{"authors":{"author":[{"@pid":"183/4804","text":"Andrew B. Udofa"},{"@pid":"183/4674","text":"Laurence J. Ryan"},{"@pid":"169/6740","text":"Peter G. Weyand"}]},"title":"Impact forces during running: Loaded questions, sensible outcomes.","venue":"BSN","pages":"371-376","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/UdofaRW16","doi":"10.1109/BSN.2016.7516290","ee":"https://doi.org/10.1109/BSN.2016.7516290","url":"https://dblp.org/rec/conf/bsn/UdofaRW16"},
+"url":"URL#3997207"
+},
+{
+"@score":"1",
+"@id":"3997208",
+"info":{"authors":{"author":[{"@pid":"183/4834","text":"Yogeswaran Umasankar"},{"@pid":"335/7122","text":"Ahmed Hasnain Jalal"},{"@pid":"79/8946","text":"Pablo J. González"},{"@pid":"183/4950","text":"Mustahsin Chowdhury"},{"@pid":"183/4983","text":"Alejandro Alfonso"},{"@pid":"83/630","text":"Shekhar Bhansali"}]},"title":"Wearable alcohol monitoring device with auto-calibration ability for high chemical specificity.","venue":"BSN","pages":"353-358","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/UmasankarJGCAB16","doi":"10.1109/BSN.2016.7516287","ee":"https://doi.org/10.1109/BSN.2016.7516287","url":"https://dblp.org/rec/conf/bsn/UmasankarJGCAB16"},
+"url":"URL#3997208"
+},
+{
+"@score":"1",
+"@id":"3997209",
+"info":{"authors":{"author":[{"@pid":"68/1665","text":"James R. Williamson"},{"@pid":"133/4597","text":"Austin R. Hess"},{"@pid":"138/7887","text":"Christopher J. Smalt"},{"@pid":"85/4720","text":"Delsey M. Sherrill"},{"@pid":"67/4478","text":"Thomas F. Quatieri"},{"@pid":"183/5015","text":"Catherine O&apos;Brien"}]},"title":"Using collar-worn sensors to forecast thermal strain in military working dogs.","venue":"BSN","pages":"281-286","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/WilliamsonHSSQO16","doi":"10.1109/BSN.2016.7516274","ee":"https://doi.org/10.1109/BSN.2016.7516274","url":"https://dblp.org/rec/conf/bsn/WilliamsonHSSQO16"},
+"url":"URL#3997209"
+},
+{
+"@score":"1",
+"@id":"3997210",
+"info":{"authors":{"author":[{"@pid":"133/4621","text":"Xiaoxu Wu"},{"@pid":"48/6351","text":"Xiaoyu Xu"},{"@pid":"59/2227-4","text":"Yan Wang 0004"},{"@pid":"99/4794","text":"William J. Kaiser"},{"@pid":"p/GregoryJPottie","text":"Gregory J. Pottie"}]},"title":"A double-layer automatic orientation correction method for human activity recognition.","venue":"BSN","pages":"365-370","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/WuXWKP16","doi":"10.1109/BSN.2016.7516289","ee":"https://doi.org/10.1109/BSN.2016.7516289","url":"https://dblp.org/rec/conf/bsn/WuXWKP16"},
+"url":"URL#3997210"
+},
+{
+"@score":"1",
+"@id":"3997211",
+"info":{"authors":{"author":[{"@pid":"60/2536-27","text":"Rui Zhang 0027"},{"@pid":"183/4974","text":"Severin Bernhart"},{"@pid":"02/4953","text":"Oliver Amft"}]},"title":"Diet eyeglasses: Recognising food chewing using EMG and smart eyeglasses.","venue":"BSN","pages":"7-12","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/ZhangBA16","doi":"10.1109/BSN.2016.7516224","ee":"https://doi.org/10.1109/BSN.2016.7516224","url":"https://dblp.org/rec/conf/bsn/ZhangBA16"},
+"url":"URL#3997211"
+},
+{
+"@score":"1",
+"@id":"3997212",
+"info":{"authors":{"author":[{"@pid":"67/2010-1","text":"Zhiqiang Zhang 0001"},{"@pid":"35/8490","text":"Huihui Li"},{"@pid":"41/6002","text":"Danilo P. Mandic"}]},"title":"Blind source separation and artefact cancellation for single channel bioelectrical signal.","venue":"BSN","pages":"177-182","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/ZhangLM16","doi":"10.1109/BSN.2016.7516255","ee":"https://doi.org/10.1109/BSN.2016.7516255","url":"https://dblp.org/rec/conf/bsn/ZhangLM16"},
+"url":"URL#3997212"
+},
+{
+"@score":"1",
+"@id":"3997213",
+"info":{"authors":{"author":[{"@pid":"02/5194","text":"Yan Zhuang"},{"@pid":"133/9381","text":"Jiaqi Gong"},{"@pid":"183/4725","text":"D. Casey Kerrigan"},{"@pid":"55/7934","text":"Bradford C. Bennett"},{"@pid":"07/3021","text":"John C. Lach"},{"@pid":"09/10332","text":"Shawn D. Russell"}]},"title":"Gait tracker shoe for accurate step-by-step determination of gait parameters.","venue":"BSN","pages":"13-18","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/bsn/ZhuangGKBLR16","doi":"10.1109/BSN.2016.7516225","ee":"https://doi.org/10.1109/BSN.2016.7516225","url":"https://dblp.org/rec/conf/bsn/ZhuangGKBLR16"},
+"url":"URL#3997213"
+},
+{
+"@score":"1",
+"@id":"4142424",
+"info":{"title":"13th IEEE International Conference on Wearable and Implantable Body Sensor Networks, BSN 2016, San Francisco, CA, USA, June 14-17, 2016","venue":"BSN","publisher":"IEEE","year":"2016","type":"Editorship","key":"conf/bsn/2016","ee":"https://ieeexplore.ieee.org/xpl/conhome/7506173/proceeding","url":"https://dblp.org/rec/conf/bsn/2016"},
+"url":"URL#4142424"
+}
+]
+}
+}
+}

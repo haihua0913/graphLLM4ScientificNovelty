@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+anthropometric measurements,pose,0.9467,0.3266
+anthropometric measurements,single image,0.9513,0.3122
+anthropometric measurements,image points,0.0958,1.3448
+pose,single image,0.8899,0.4693
+image points,pose,-0.0395,1.4418
+image points,single image,-0.0418,1.4435
+anthropometric measurements,statistical information,0.9967,0.0812
+anthropometric measurements,segment length estimates,0.0988,1.3425
+pose,statistical information,0.955,0.2999
+pose,segment length estimates,0.2031,1.2625
+single image,statistical information,0.9427,0.3385
+segment length estimates,single image,0.1563,1.299
+image points,statistical information,0.0874,1.351
+image points,segment length estimates,-0.113,1.492
+segment length estimates,statistical information,0.0563,1.3738
+image points,joint limit constraints,0.0696,1.3641
+geometric method,image points,0.0494,1.3789
+joint limit constraints,statistical information,0.9842,0.178
+geometric method,statistical information,0.9855,0.1702
+joint limit constraints,segment length estimates,0.1336,1.3164
+geometric method,segment length estimates,0.1191,1.3273
+geometric method,joint limit constraints,0.9645,0.2663
+anthropometric measurements,joint limit constraints,0.9805,0.1975
+anthropometric measurements,geometric method,0.9913,0.1318
+anthropometric measurements,cost function,0.2186,1.2501
+joint limit constraints,pose,0.9745,0.2256
+geometric method,pose,0.9415,0.342
+cost function,pose,0.2515,1.2235
+cost function,statistical information,0.1858,1.2761
+cost function,segment length estimates,0.7813,0.6613
+cost function,joint limit constraints,0.2371,1.2352
+cost function,geometric method,0.1675,1.2903

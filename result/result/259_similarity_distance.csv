@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+monolingual translation probabilities,retrieval models,0.0698,1.364
+lexical gap problem,monolingual translation probabilities,0.1907,1.2722
+monolingual translation probabilities,parallel monolingual corpora,0.0614,1.3701
+monolingual translation probabilities,question-answer pairs,0.0684,1.365
+lexical gap problem,retrieval models,0.0607,1.3706
+parallel monolingual corpora,retrieval models,-0.1429,1.5119
+question-answer pairs,retrieval models,0.663,0.821
+lexical gap problem,parallel monolingual corpora,0.7623,0.6895
+lexical gap problem,question-answer pairs,0.0837,1.3537
+parallel monolingual corpora,question-answer pairs,0.0799,1.3565
+lexical semantic resources,monolingual translation probabilities,-0.0454,1.4459
+lexical semantic resources,retrieval models,-0.121,1.4973
+lexical gap problem,lexical semantic resources,0.8158,0.607
+lexical semantic resources,parallel monolingual corpora,0.9511,0.3128
+lexical semantic resources,question-answer pairs,-0.0829,1.4717
+monolingual translation models,parallel monolingual corpora,0.0552,1.3747
+monolingual translation models,question-answer pairs,0.9969,0.0784
+lexical semantic resources,monolingual translation models,-0.1016,1.4843
+monolingual translation models,monolingual translation probabilities,0.0594,1.3716
+monolingual translation probabilities,semantic relatedness measures,-0.1594,1.5228
+monolingual translation probabilities,vector-space model,-0.1691,1.5292
+question-answer pairs,semantic relatedness measures,-0.2392,1.5743
+question-answer pairs,vector-space model,-0.1599,1.5231
+lexical semantic resources,semantic relatedness measures,0.1518,1.3025
+lexical semantic resources,vector-space model,-0.0558,1.4532
+monolingual translation models,semantic relatedness measures,-0.2805,1.6003
+monolingual translation models,vector-space model,-0.0939,1.4791
+semantic relatedness measures,vector-space model,-0.6262,1.8035

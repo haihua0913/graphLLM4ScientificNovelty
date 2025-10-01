@@ -1,0 +1,176 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/chil/chil2020.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"102.54"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"24",
+"@dc":"24",
+"@oc":"24",
+"@id":"48878052",
+"text":":facetid:toc:db/conf/chil/chil2020.bht"
+}
+},
+"hits":{
+"@total":"24",
+"@computed":"24",
+"@sent":"24",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2487281",
+"info":{"authors":{"author":[{"@pid":"174/3764","text":"Ardavan Afshar"},{"@pid":"169/1799","text":"Ioakeim Perros"},{"@pid":"78/5322","text":"Haesun Park"},{"@pid":"171/9763","text":"Christopher deFilippi"},{"@pid":"07/1397","text":"Xiaowei Yan"},{"@pid":"82/9250","text":"Walter F. Stewart"},{"@pid":"144/4961","text":"Joyce C. Ho"},{"@pid":"54/4948","text":"Jimeng Sun 0001"}]},"title":"TASTE: temporal and static tensor factorization for phenotyping electronic health records.","venue":"CHIL","pages":"193-203","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/AfsharPPdYSHS20","doi":"10.1145/3368555.3384464","ee":"https://doi.org/10.1145/3368555.3384464","url":"https://dblp.org/rec/conf/chil/AfsharPPdYSHS20"},
+"url":"URL#2487281"
+},
+{
+"@score":"1",
+"@id":"2487282",
+"info":{"authors":{"author":[{"@pid":"218/6496","text":"Paidamoyo Chapfuwa"},{"@pid":"64/9590","text":"Chunyuan Li"},{"@pid":"89/7487-2","text":"Nikhil Mehta 0002"},{"@pid":"23/2168","text":"Lawrence Carin"},{"@pid":"27/3207","text":"Ricardo Henao"}]},"title":"Survival cluster analysis.","venue":"CHIL","pages":"60-68","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/ChapfuwaLMCH20","doi":"10.1145/3368555.3384465","ee":"https://doi.org/10.1145/3368555.3384465","url":"https://dblp.org/rec/conf/chil/ChapfuwaLMCH20"},
+"url":"URL#2487282"
+},
+{
+"@score":"1",
+"@id":"2487283",
+"info":{"authors":{"author":[{"@pid":"185/4346","text":"Michael W. Dusenberry"},{"@pid":"163/2106","text":"Dustin Tran"},{"@pid":"41/3886","text":"Edward Choi"},{"@pid":"242/8882","text":"Jonas Kemp"},{"@pid":"228/8256","text":"Jeremy Nixon"},{"@pid":"185/0768","text":"Ghassen Jerfel"},{"@pid":"32/4403","text":"Katherine A. Heller"},{"@pid":"59/9736","text":"Andrew M. Dai"}]},"title":"Analyzing the role of model uncertainty for electronic health records.","venue":"CHIL","pages":"204-213","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/DusenberryTCKNJ20","doi":"10.1145/3368555.3384457","ee":"https://doi.org/10.1145/3368555.3384457","url":"https://dblp.org/rec/conf/chil/DusenberryTCKNJ20"},
+"url":"URL#2487283"
+},
+{
+"@score":"1",
+"@id":"2487284",
+"info":{"authors":{"author":[{"@pid":"261/2069","text":"Shaun Gupta"},{"@pid":"261/2031","text":"Frederik Dieleman"},{"@pid":"261/1920","text":"Patrick Long"},{"@pid":"121/1811","text":"Orla M. Doyle"},{"@pid":"261/1978","text":"Nadejda Leavitt"}]},"title":"Using SNOMED to automate clinical concept mapping.","venue":"CHIL","pages":"131-138","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/GuptaDLDL20","doi":"10.1145/3368555.3384453","ee":"https://doi.org/10.1145/3368555.3384453","url":"https://dblp.org/rec/conf/chil/GuptaDLDL20"},
+"url":"URL#2487284"
+},
+{
+"@score":"1",
+"@id":"2487285",
+"info":{"authors":{"author":[{"@pid":"119/7671","text":"Michaela Hardt"},{"@pid":"194/0088","text":"Alvin Rajkomar"},{"@pid":"213/8100","text":"Gerardo Flores"},{"@pid":"59/9736","text":"Andrew M. Dai"},{"@pid":"73/8450","text":"Michael D. Howell"},{"@pid":"05/8414","text":"Greg Corrado"},{"@pid":"213/8282","text":"Claire Cui"},{"@pid":"26/4683","text":"Moritz Hardt"}]},"title":"Explaining an increase in predicted risk for clinical alerts.","venue":"CHIL","pages":"80-89","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/HardtRFDHCCH20","doi":"10.1145/3368555.3384460","ee":"https://doi.org/10.1145/3368555.3384460","url":"https://dblp.org/rec/conf/chil/HardtRFDHCCH20"},
+"url":"URL#2487285"
+},
+{
+"@score":"1",
+"@id":"2487286",
+"info":{"authors":{"author":[{"@pid":"261/1981","text":"Thomas Hooven"},{"@pid":"261/1916","text":"Yun Chao Lin"},{"@pid":"s/AnsafSalleb","text":"Ansaf Salleb-Aouissi"}]},"title":"Multiple instance learning for predicting necrotizing enterocolitis in premature infants using microbiome data.","venue":"CHIL","pages":"99-109","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/HoovenLS20","doi":"10.1145/3368555.3384466","ee":"https://doi.org/10.1145/3368555.3384466","url":"https://dblp.org/rec/conf/chil/HoovenLS20"},
+"url":"URL#2487286"
+},
+{
+"@score":"1",
+"@id":"2487287",
+"info":{"authors":{"author":[{"@pid":"243/5725","text":"Joseph D. Janizek"},{"@pid":"211/6839","text":"Gabriel G. Erion"},{"@pid":"241/6141","text":"Alex J. DeGrave"},{"@pid":"17/1784","text":"Su-In Lee"}]},"title":"An adversarial approach for the robust classification of pneumonia from chest radiographs.","venue":"CHIL","pages":"69-79","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/JanizekEDL20","doi":"10.1145/3368555.3384458","ee":"https://doi.org/10.1145/3368555.3384458","url":"https://dblp.org/rec/conf/chil/JanizekEDL20"},
+"url":"URL#2487287"
+},
+{
+"@score":"1",
+"@id":"2487288",
+"info":{"authors":{"author":[{"@pid":"167/1714","text":"Alistair E. W. Johnson"},{"@pid":"216/5498","text":"Lucas Bulgarelli"},{"@pid":"204/5503","text":"Tom J. Pollard"}]},"title":"Deidentification of free-text medical records using pre-trained bidirectional transformers.","venue":"CHIL","pages":"214-221","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/JohnsonBP20","doi":"10.1145/3368555.3384455","ee":"https://doi.org/10.1145/3368555.3384455","url":"https://dblp.org/rec/conf/chil/JohnsonBP20"},
+"url":"URL#2487288"
+},
+{
+"@score":"1",
+"@id":"2487289",
+"info":{"authors":{"author":[{"@pid":"207/9903","text":"Min Hun Lee"},{"@pid":"50/842","text":"Daniel P. Siewiorek"},{"@pid":"68/3947","text":"Asim Smailagic"},{"@pid":"53/5306","text":"Alexandre Bernardino"},{"@pid":"85/867","text":"Sergi Bermúdez i Badia"}]},"title":"Interactive hybrid approach to combine machine and human intelligence for personalized rehabilitation assessment.","venue":"CHIL","pages":"160-169","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/LeeSSBB20","doi":"10.1145/3368555.3384452","ee":"https://doi.org/10.1145/3368555.3384452","url":"https://dblp.org/rec/conf/chil/LeeSSBB20"},
+"url":"URL#2487289"
+},
+{
+"@score":"1",
+"@id":"2487290",
+"info":{"authors":{"author":[{"@pid":"242/5145","text":"Eric Wonhee Lee"},{"@pid":"00/8247","text":"Byron C. Wallace"},{"@pid":"261/2040","text":"Karla I. Galaviz"},{"@pid":"144/4961","text":"Joyce C. Ho"}]},"title":"MMiDaS-AE: multi-modal missing data aware stacked autoencoder for biomedical abstract screening.","venue":"CHIL","pages":"139-150","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/LeeWGH20","doi":"10.1145/3368555.3384463","ee":"https://doi.org/10.1145/3368555.3384463","url":"https://dblp.org/rec/conf/chil/LeeWGH20"},
+"url":"URL#2487290"
+},
+{
+"@score":"1",
+"@id":"2487291",
+"info":{"authors":{"author":[{"@pid":"191/0537","text":"Kathleen M. Lewis"},{"@pid":"133/2647","text":"Natalia S. Rost"},{"@pid":"g/JohnVGuttag","text":"John V. Guttag"},{"@pid":"27/4108","text":"Adrian V. Dalca"}]},"title":"Fast learning-based registration of sparse 3D clinical images.","venue":"CHIL","pages":"90-98","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/LewisRGD20","doi":"10.1145/3368555.3384462","ee":"https://doi.org/10.1145/3368555.3384462","url":"https://dblp.org/rec/conf/chil/LewisRGD20"},
+"url":"URL#2487291"
+},
+{
+"@score":"1",
+"@id":"2487292",
+"info":{"authors":{"author":[{"@pid":"227/2735","text":"Vishwali Mhasawade"},{"@pid":"126/3462","text":"Nabeel Abdur Rehman"},{"@pid":"130/0470","text":"Rumi Chunara"}]},"title":"Population-aware hierarchical bayesian domain adaptation via multi-component invariant learning.","venue":"CHIL","pages":"182-192","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/MhasawadeRC20","doi":"10.1145/3368555.3384451","ee":"https://doi.org/10.1145/3368555.3384451","url":"https://dblp.org/rec/conf/chil/MhasawadeRC20"},
+"url":"URL#2487292"
+},
+{
+"@score":"1",
+"@id":"2487293",
+"info":{"authors":{"author":[{"@pid":"149/2771","text":"Chirag Nagpal"},{"@pid":"59/8761","text":"Dennis Wei"},{"@pid":"97/10151","text":"Bhanukiran Vinzamuri"},{"@pid":"130/3746","text":"Monica Shekhar"},{"@pid":"212/2613","text":"Sara E. Berger"},{"@pid":"136/5374","text":"Subhro Das"},{"@pid":"02/3069","text":"Kush R. Varshney"}]},"title":"Interpretable subgroup discovery in treatment effect estimation with application to opioid prescribing guidelines.","venue":"CHIL","pages":"19-29","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/NagpalWVSBDV20","doi":"10.1145/3368555.3384456","ee":"https://doi.org/10.1145/3368555.3384456","url":"https://dblp.org/rec/conf/chil/NagpalWVSBDV20"},
+"url":"URL#2487293"
+},
+{
+"@score":"1",
+"@id":"2487294",
+"info":{"authors":{"author":[{"@pid":"180/6859","text":"Luke Oakden-Rayner"},{"@pid":"200/8265","text":"Jared Dunnmon"},{"@pid":"53/3609","text":"Gustavo Carneiro 0001"},{"@pid":"r/ChristopherRe","text":"Christopher Ré"}]},"title":"Hidden stratification causes clinically meaningful failures in machine learning for medical imaging.","venue":"CHIL","pages":"151-159","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/Oakden-RaynerDC20","doi":"10.1145/3368555.3384468","ee":"https://doi.org/10.1145/3368555.3384468","url":"https://dblp.org/rec/conf/chil/Oakden-RaynerDC20"},
+"url":"URL#2487294"
+},
+{
+"@score":"1",
+"@id":"2487295",
+"info":{"authors":{"author":[{"@pid":"31/10085","text":"Yubin Park"},{"@pid":"144/4961","text":"Joyce C. Ho"}]},"title":"CaliForest: calibrated random forest for health data.","venue":"CHIL","pages":"40-50","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/ParkH20","doi":"10.1145/3368555.3384461","ee":"https://doi.org/10.1145/3368555.3384461","url":"https://dblp.org/rec/conf/chil/ParkH20"},
+"url":"URL#2487295"
+},
+{
+"@score":"1",
+"@id":"2487296",
+"info":{"authors":{"author":[{"@pid":"159/2122","text":"Niranjani Prasad"},{"@pid":"53/328","text":"Barbara E. Engelhardt"},{"@pid":"64/7056","text":"Finale Doshi-Velez"}]},"title":"Defining admissible rewards for high-confidence policy evaluation in batch reinforcement learning.","venue":"CHIL","pages":"1-9","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/PrasadED20","doi":"10.1145/3368555.3384450","ee":"https://doi.org/10.1145/3368555.3384450","url":"https://dblp.org/rec/conf/chil/PrasadED20"},
+"url":"URL#2487296"
+},
+{
+"@score":"1",
+"@id":"2487297",
+"info":{"authors":{"author":[{"@pid":"259/3164","text":"Neal G. Ravindra"},{"@pid":"249/5322","text":"Arijit Sehanobish"},{"@pid":"259/3005","text":"Jenna L. Pappalardo"},{"@pid":"147/7051","text":"David A. Hafler"},{"@pid":"136/9930","text":"David van Dijk"}]},"title":"Disease state prediction from single-cell data using graph attention networks.","venue":"CHIL","pages":"121-130","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/RavindraSPHD20","doi":"10.1145/3368555.3384449","ee":"https://doi.org/10.1145/3368555.3384449","url":"https://dblp.org/rec/conf/chil/RavindraSPHD20"},
+"url":"URL#2487297"
+},
+{
+"@score":"1",
+"@id":"2487298",
+"info":{"authors":{"author":[{"@pid":"151/9322","text":"Sanja Scepanovic"},{"@pid":"142/0197","text":"Enrique Martin-Lopez"},{"@pid":"04/1995","text":"Daniele Quercia"},{"@pid":"136/5236","text":"Khan Baykaner"}]},"title":"Extracting medical entities from social media.","venue":"CHIL","pages":"170-181","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/ScepanovicMQB20","doi":"10.1145/3368555.3384467","ee":"https://doi.org/10.1145/3368555.3384467","url":"https://dblp.org/rec/conf/chil/ScepanovicMQB20"},
+"url":"URL#2487298"
+},
+{
+"@score":"1",
+"@id":"2487299",
+"info":{"authors":{"author":[{"@pid":"244/2228","text":"Shirly Wang"},{"@pid":"218/6984","text":"Matthew B. A. McDermott"},{"@pid":"220/0874","text":"Geeticka Chauhan"},{"@pid":"145/6563","text":"Marzyeh Ghassemi"},{"@pid":"117/8186","text":"Michael C. Hughes"},{"@pid":"148/5539","text":"Tristan Naumann"}]},"title":"MIMIC-Extract: a data extraction, preprocessing, and representation pipeline for MIMIC-III.","venue":"CHIL","pages":"222-235","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/WangMCGHN20","doi":"10.1145/3368555.3384469","ee":"https://doi.org/10.1145/3368555.3384469","url":"https://dblp.org/rec/conf/chil/WangMCGHN20"},
+"url":"URL#2487299"
+},
+{
+"@score":"1",
+"@id":"2487300",
+"info":{"authors":{"author":[{"@pid":"260/6599","text":"Zidi Xiu"},{"@pid":"170/6702","text":"Chenyang Tao"},{"@pid":"27/3207","text":"Ricardo Henao"}]},"title":"Variational learning of individual survival distributions.","venue":"CHIL","pages":"10-18","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/XiuTUHU20","doi":"10.1145/3368555.3384454","ee":"https://doi.org/10.1145/3368555.3384454","url":"https://dblp.org/rec/conf/chil/XiuTUHU20"},
+"url":"URL#2487300"
+},
+{
+"@score":"1",
+"@id":"2487301",
+"info":{"authors":{"author":[{"@pid":"139/7990","text":"Ruru Zhang"},{"@pid":"256/7881","text":"Jiawen He"},{"@pid":"255/8207","text":"Shenda Shi"},{"@pid":"43/10222","text":"Haihong E"},{"@pid":"58/6143","text":"Zhonghong Ou"},{"@pid":"95/4440","text":"Meina Song"}]},"title":"BMM-Net: automatic segmentation of edema in optical coherence tomography based on boundary detection and multi-scale network.","venue":"CHIL","pages":"51-59","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/ZhangHSEOS20","doi":"10.1145/3368555.3384447","ee":"https://doi.org/10.1145/3368555.3384447","url":"https://dblp.org/rec/conf/chil/ZhangHSEOS20"},
+"url":"URL#2487301"
+},
+{
+"@score":"1",
+"@id":"2487302",
+"info":{"authors":{"author":[{"@pid":"10/4661-58","text":"Wei Zhang 0058"},{"@pid":"183/0951","text":"Zhaobin Kuang"},{"@pid":"80/11037","text":"Peggy L. Peissig"},{"@pid":"p/DavidPage","text":"David Page"}]},"title":"Adverse drug reaction discovery from electronic health records with deep neural networks.","venue":"CHIL","pages":"30-39","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/ZhangKPP20","doi":"10.1145/3368555.3384459","ee":"https://doi.org/10.1145/3368555.3384459","url":"https://dblp.org/rec/conf/chil/ZhangKPP20"},
+"url":"URL#2487302"
+},
+{
+"@score":"1",
+"@id":"2487303",
+"info":{"authors":{"author":[{"@pid":"95/4452-3","text":"Haoran Zhang 0003"},{"@pid":"243/3022","text":"Amy X. Lu"},{"@pid":"59/10254","text":"Mohamed Abdalla"},{"@pid":"218/6984","text":"Matthew B. A. McDermott"},{"@pid":"145/6563","text":"Marzyeh Ghassemi"}]},"title":"Hurtful words: quantifying biases in clinical contextual word embeddings.","venue":"CHIL","pages":"110-120","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chil/ZhangLAMG20","doi":"10.1145/3368555.3384448","ee":"https://doi.org/10.1145/3368555.3384448","url":"https://dblp.org/rec/conf/chil/ZhangLAMG20"},
+"url":"URL#2487303"
+},
+{
+"@score":"1",
+"@id":"2633930",
+"info":{"authors":{"author":{"@pid":"145/6563","text":"Marzyeh Ghassemi"}},"title":"ACM CHIL &apos;20: ACM Conference on Health, Inference, and Learning, Toronto, Ontario, Canada, April 2-4, 2020 [delayed].","venue":"CHIL","publisher":"ACM","year":"2020","type":"Editorship","key":"conf/chil/2020","doi":"10.1145/3368555","ee":"https://doi.org/10.1145/3368555","url":"https://dblp.org/rec/conf/chil/2020"},
+"url":"URL#2633930"
+}
+]
+}
+}
+}

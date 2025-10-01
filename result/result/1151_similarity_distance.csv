@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+Globally Normalized Autoregressive Transducer,label bias,0.8699,0.5102
+Globally Normalized Autoregressive Transducer,streaming speech recognition,0.2574,1.2187
+Globally Normalized Autoregressive Transducer,tractable exact computation,0.894,0.4604
+Globally Normalized Autoregressive Transducer,sequence-level normalization,-0.3158,1.6222
+label bias,streaming speech recognition,-0.1305,1.5037
+label bias,tractable exact computation,0.9887,0.1501
+label bias,sequence-level normalization,-0.2333,1.5706
+streaming speech recognition,tractable exact computation,-0.0574,1.4543
+sequence-level normalization,streaming speech recognition,-0.1782,1.5351
+sequence-level normalization,tractable exact computation,-0.2424,1.5763
+Globally Normalized Autoregressive Transducer,word error rate,-0.1156,1.4937
+Globally Normalized Autoregressive Transducer,Librispeech dataset,0.2207,1.2485
+label bias,word error rate,-0.1374,1.5082
+Librispeech dataset,label bias,-0.1673,1.5279
+streaming speech recognition,word error rate,-0.1449,1.5132
+Librispeech dataset,streaming speech recognition,0.9914,0.1313
+tractable exact computation,word error rate,-0.2352,1.5717
+Librispeech dataset,tractable exact computation,-0.1092,1.4895
+sequence-level normalization,word error rate,-0.1275,1.5016
+Librispeech dataset,sequence-level normalization,-0.1239,1.4992
+Librispeech dataset,word error rate,-0.0541,1.4519
+neural speech recognition models,tractable exact computation,-0.0104,1.4216
+neural speech recognition models,sequence-level normalization,-0.2728,1.5955
+neural speech recognition models,word error rate,-0.4014,1.6742
+Librispeech dataset,neural speech recognition models,0.4175,1.0793

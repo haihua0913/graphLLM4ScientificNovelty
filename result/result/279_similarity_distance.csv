@@ -1,0 +1,37 @@
+node1,node2,similarity,distance
+phrase alignment,unsupervised model,-0.1449,1.5132
+extraction,unsupervised model,0.0927,1.347
+non-parametric Bayesian,unsupervised model,0.8817,0.4865
+inversion transduction grammars,unsupervised model,-0.2391,1.5742
+extraction,phrase alignment,0.1368,1.314
+non-parametric Bayesian,phrase alignment,-0.0052,1.4179
+inversion transduction grammars,phrase alignment,-0.073,1.4649
+extraction,non-parametric Bayesian,0.1632,1.2937
+extraction,inversion transduction grammars,-0.0958,1.4804
+inversion transduction grammars,non-parametric Bayesian,-0.5452,1.758
+probabilistic model,unsupervised model,-0.1225,1.4983
+phrase table,unsupervised model,-0.2039,1.5517
+machine translation,unsupervised model,0.8608,0.5277
+unaligned sentence pairs,unsupervised model,-0.0782,1.4685
+phrase alignment,probabilistic model,0.9963,0.0858
+phrase alignment,phrase table,0.997,0.0771
+machine translation,phrase alignment,-0.1444,1.5129
+phrase alignment,unaligned sentence pairs,0.3513,1.139
+extraction,probabilistic model,0.0651,1.3674
+extraction,phrase table,0.0956,1.3449
+extraction,machine translation,-0.2786,1.5991
+extraction,unaligned sentence pairs,0.9259,0.3849
+non-parametric Bayesian,probabilistic model,0.0193,1.4005
+non-parametric Bayesian,phrase table,-0.048,1.4478
+machine translation,non-parametric Bayesian,0.8344,0.5755
+non-parametric Bayesian,unaligned sentence pairs,0.0168,1.4023
+inversion transduction grammars,probabilistic model,-0.1058,1.4872
+inversion transduction grammars,phrase table,-0.0752,1.4664
+inversion transduction grammars,machine translation,-0.2342,1.5711
+inversion transduction grammars,unaligned sentence pairs,0.1051,1.3378
+phrase table,probabilistic model,0.995,0.0996
+machine translation,probabilistic model,-0.0994,1.4829
+probabilistic model,unaligned sentence pairs,0.2772,1.2023
+machine translation,phrase table,-0.1718,1.5309
+phrase table,unaligned sentence pairs,0.3192,1.1668
+machine translation,unaligned sentence pairs,-0.3818,1.6624

@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+Electronic Health Records,prediction of disease progression,0.3089,1.1757
+Electronic Health Records,clustering,0.1928,1.2706
+clustering,prediction of disease progression,0.869,0.5119
+patient trajectories,prediction of disease progression,0.863,0.5235
+clustering,patient trajectories,0.902,0.4428
+clinical interpretability,clustering,0.853,0.5422
+clinical interpretability,patient trajectories,0.8595,0.53
+patient trajectories,supervised deep learning model,0.3176,1.1683
+clinical interpretability,supervised deep learning model,0.5641,0.9337
+class imbalance,clinical interpretability,-0.1729,1.5316
+clinical interpretability,cluster collapse,-0.3347,1.6338
+clinical interpretability,feature-time attention mechanism,0.1088,1.3351
+clinical interpretability,phenotype importance,-0.0803,1.4699
+class imbalance,supervised deep learning model,0.6085,0.8849
+cluster collapse,supervised deep learning model,-0.3691,1.6548
+feature-time attention mechanism,supervised deep learning model,0.3946,1.1003
+phenotype importance,supervised deep learning model,0.5841,0.912
+class imbalance,cluster collapse,-0.0848,1.4729
+class imbalance,feature-time attention mechanism,0.5404,0.9588
+class imbalance,phenotype importance,0.9225,0.3936
+cluster collapse,feature-time attention mechanism,0.2792,1.2007
+cluster collapse,phenotype importance,0.1755,1.2841
+feature-time attention mechanism,phenotype importance,0.739,0.7224

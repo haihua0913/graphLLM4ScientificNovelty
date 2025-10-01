@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+Anytime algorithms,contract algorithms,-0.1252,1.5001
+Anytime algorithms,interruptible algorithms,-0.1088,1.4892
+contract algorithms,interruptible algorithms,0.9996,0.0267
+contract algorithms,run-time schedule,-0.1077,1.4884
+acceleration ratio,contract algorithms,-0.0794,1.4693
+interruptible algorithms,run-time schedule,-0.1225,1.4984
+acceleration ratio,interruptible algorithms,-0.079,1.469
+acceleration ratio,run-time schedule,0.3647,1.1272
+run-time schedule,single processor,0.8685,0.5128
+acceleration ratio,single processor,0.5082,0.9918
+multiple processors,run-time schedule,0.6828,0.7964
+acceleration ratio,multiple processors,0.6708,0.8114
+multiple processors,single processor,0.6646,0.8191
+multiple processors,parallel processors,0.0187,1.401
+multiple processors,real-time systems,-0.4674,1.7131
+parallel processors,real-time systems,0.0915,1.348

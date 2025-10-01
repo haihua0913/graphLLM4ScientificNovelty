@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+decoding algorithm,statistical machine translation,0.9557,0.2978
+decoder,decoding algorithm,0.8867,0.4761
+decoding algorithm,translation,-0.1253,1.5002
+decoder,statistical machine translation,0.9194,0.4014
+statistical machine translation,translation,-0.1864,1.5404
+decoder,translation,-0.0101,1.4213
+decoding algorithm,stack-based decoding algorithm,0.8644,0.5208
+decoding algorithm,greedy decoder,0.9052,0.4355
+decoding algorithm,optimal decoder,0.8711,0.5077
+decoding algorithm,integer-programming optimization,0.1571,1.2984
+decoder,stack-based decoding algorithm,0.8798,0.4904
+decoder,greedy decoder,0.9599,0.2831
+decoder,optimal decoder,0.9749,0.2239
+decoder,integer-programming optimization,0.2712,1.2073
+stack-based decoding algorithm,translation,-0.1947,1.5458
+greedy decoder,translation,-0.0468,1.4469
+optimal decoder,translation,0.0217,1.3988
+integer-programming optimization,translation,-0.3212,1.6256
+greedy decoder,stack-based decoding algorithm,0.8528,0.5426
+optimal decoder,stack-based decoding algorithm,0.8059,0.6231
+integer-programming optimization,stack-based decoding algorithm,0.1986,1.266
+greedy decoder,optimal decoder,0.9808,0.1961
+greedy decoder,integer-programming optimization,0.4369,1.0613
+integer-programming optimization,optimal decoder,0.3722,1.1205

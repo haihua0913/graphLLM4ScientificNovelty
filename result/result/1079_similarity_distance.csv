@@ -1,0 +1,28 @@
+node1,node2,similarity,distance
+Neural ODEs,infinite-depth paradigm,0.0359,1.3886
+Neural ODEs,dynamical system-inspired,0.9664,0.2593
+Neural ODEs,computational scalability,-0.0675,1.4612
+Neural ODEs,deep learning primitives,0.3163,1.1693
+Neural ODEs,time-to-prediction,0.1781,1.2821
+dynamical system-inspired,infinite-depth paradigm,0.1215,1.3255
+computational scalability,infinite-depth paradigm,-0.1664,1.5274
+deep learning primitives,infinite-depth paradigm,0.9231,0.3921
+infinite-depth paradigm,time-to-prediction,0.9208,0.398
+computational scalability,dynamical system-inspired,-0.2061,1.5531
+deep learning primitives,dynamical system-inspired,0.3429,1.1464
+dynamical system-inspired,time-to-prediction,0.2897,1.1919
+computational scalability,deep learning primitives,0.0673,1.3658
+computational scalability,time-to-prediction,-0.1478,1.5151
+deep learning primitives,time-to-prediction,0.8973,0.4532
+Neural ODEs,hypersolvers,-0.166,1.5271
+hypersolvers,infinite-depth paradigm,-0.3397,1.6369
+dynamical system-inspired,hypersolvers,-0.2759,1.5974
+computational scalability,hypersolvers,0.9572,0.2926
+deep learning primitives,hypersolvers,-0.1532,1.5187
+hypersolvers,time-to-prediction,-0.2903,1.6064
+Neural ODEs,continuous-depth models,-0.1972,1.5474
+continuous-depth models,hypersolvers,0.9691,0.2486
+continuous-depth models,time-to-prediction,-0.3061,1.6162
+Neural ODEs,pareto efficiency,-0.2898,1.6061
+hypersolvers,pareto efficiency,0.9479,0.3227
+continuous-depth models,pareto efficiency,0.9885,0.1518

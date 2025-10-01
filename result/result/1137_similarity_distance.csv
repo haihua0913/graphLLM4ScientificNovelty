@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+Multi-agent Reinforcement Learning,messages,-0.0535,1.4515
+Multi-agent Reinforcement Learning,coordination,0.021,1.3993
+coordination,messages,0.9193,0.4018
+message aggregation,messages,0.9107,0.4226
+messages,representation learning,-0.1089,1.4892
+coordination,message aggregation,0.9212,0.3971
+coordination,representation learning,-0.1819,1.5374
+message aggregation,representation learning,-0.2881,1.6051
+communication,messages,0.3069,1.1774
+communication,coordination,0.2225,1.247
+communication,message aggregation,0.0838,1.3537
+communication,representation learning,0.8614,0.5264
+messages,self-supervised,-0.0096,1.421
+messages,permutation invariant message encoder,-0.0989,1.4825
+coordination,self-supervised,-0.1679,1.5283
+coordination,permutation invariant message encoder,0.0583,1.3724
+message aggregation,self-supervised,0.0121,1.4056
+message aggregation,permutation invariant message encoder,0.0488,1.3792
+representation learning,self-supervised,0.0009,1.4136
+permutation invariant message encoder,representation learning,-0.0574,1.4542
+permutation invariant message encoder,self-supervised,-0.2081,1.5544
+communication,self-supervised,-0.0112,1.4221
+communication,permutation invariant message encoder,0.08,1.3564
+MARL tasks,messages,-0.2416,1.5758
+MARL tasks,self-supervised,-0.4738,1.7169
+MARL tasks,permutation invariant message encoder,0.8627,0.524

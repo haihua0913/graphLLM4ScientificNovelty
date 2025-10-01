@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+LUPI paradigm,perturbations,-0.2515,1.5821
+LUPI paradigm,privileged information,-0.1646,1.5262
+perturbations,privileged information,0.5663,0.9313
+LUPI paradigm,learned model,0.5798,0.9167
+learned model,perturbations,0.0639,1.3683
+LUPI paradigm,regularization function,-0.061,1.4567
+perturbations,regularization function,0.8081,0.6195
+learned model,regularization function,0.1903,1.2726
+perturbations,quadratic programming,-0.0505,1.4495
+off-the-shelf solvers,perturbations,-0.1407,1.5104
+quadratic programming,regularization function,-0.0033,1.4165
+off-the-shelf solvers,regularization function,0.0365,1.3881
+off-the-shelf solvers,quadratic programming,-0.2737,1.596
+learned model,quadratic programming,-0.8235,1.9097
+learned model,off-the-shelf solvers,0.6356,0.8537
+real-world datasets,regularization function,0.0408,1.3851
+quadratic programming,real-world datasets,-0.1103,1.4902
+off-the-shelf solvers,real-world datasets,0.0626,1.3692

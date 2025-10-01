@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+3D appearance,3D gesture recognition,-0.2148,1.5587
+3D gesture recognition,object-centered approach,0.0619,1.3697
+3D gesture recognition,coarse stereo matching,-0.2365,1.5726
+3D appearance,object-centered approach,0.0258,1.3958
+3D appearance,coarse stereo matching,-0.0244,1.4313
+coarse stereo matching,object-centered approach,-0.2685,1.5928
+3D appearance,unsupervised learning,0.7966,0.6378
+3D appearance,feature-volumes,-0.0476,1.4475
+object-centered approach,unsupervised learning,0.5305,0.969
+feature-volumes,object-centered approach,-0.0023,1.4158
+coarse stereo matching,unsupervised learning,-0.2335,1.5706
+coarse stereo matching,feature-volumes,-0.3936,1.6695
+feature-volumes,unsupervised learning,-0.0842,1.4725
+image sequence,unsupervised learning,-0.0675,1.4612
+feature-volumes,image sequence,0.8671,0.5155
+forward HMMs,unsupervised learning,-0.0462,1.4465
+neural networks,unsupervised learning,-0.3452,1.6403
+feature-volumes,forward HMMs,-0.5166,1.7416
+feature-volumes,neural networks,0.0989,1.3425
+forward HMMs,image sequence,-0.1465,1.5142
+image sequence,neural networks,-0.2907,1.6067
+forward HMMs,neural networks,-0.5006,1.7324

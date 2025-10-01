@@ -1,0 +1,194 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/mlmi/mlmi2007.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"101.22"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"27",
+"@dc":"27",
+"@oc":"27",
+"@id":"48911308",
+"text":":facetid:toc:db/conf/mlmi/mlmi2007.bht"
+}
+},
+"hits":{
+"@total":"27",
+"@computed":"27",
+"@sent":"27",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"6222409",
+"info":{"authors":{"author":[{"@pid":"57/175","text":"Andrei Popescu-Belis"},{"@pid":"33/3792","text":"Steve Renals"},{"@pid":"12/6705","text":"Hervé Bourlard"}]},"title":"Machine Learning for Multimodal Interaction , 4th International Workshop, MLMI 2007, Brno, Czech Republic, June 28-30, 2007, Revised Selected Papers","venue":["MLMI","Lecture Notes in Computer Science"],"volume":"4892","publisher":"Springer","year":"2008","type":"Editorship","key":"conf/mlmi/2007","doi":"10.1007/978-3-540-78155-4","ee":"https://doi.org/10.1007/978-3-540-78155-4","url":"https://dblp.org/rec/conf/mlmi/2007"},
+"url":"URL#6222409"
+},
+{
+"@score":"1",
+"@id":"6384311",
+"info":{"authors":{"author":[{"@pid":"33/841","text":"Guillermo Aradilla"},{"@pid":"12/6705","text":"Hervé Bourlard"}]},"title":"Posterior-Based Features and Distances in Template Matching for Speech Recognition.","venue":"MLMI","pages":"204-214","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/AradillaB07","doi":"10.1007/978-3-540-78155-4_18","ee":"https://doi.org/10.1007/978-3-540-78155-4_18","url":"https://dblp.org/rec/conf/mlmi/AradillaB07"},
+"url":"URL#6384311"
+},
+{
+"@score":"1",
+"@id":"6384312",
+"info":{"authors":{"author":[{"@pid":"72/6338","text":"Sébastien Cuendet"},{"@pid":"h/DilekZHakkaniTur","text":"Dilek Hakkani-Tür"},{"@pid":"53/2688","text":"Elizabeth Shriberg"}]},"title":"Automatic Labeling Inconsistencies Detection and Correction for Sentence Unit Segmentation in Conversational Speech.","venue":"MLMI","pages":"144-155","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/CuendetHS07","doi":"10.1007/978-3-540-78155-4_13","ee":"https://doi.org/10.1007/978-3-540-78155-4_13","url":"https://dblp.org/rec/conf/mlmi/CuendetHS07"},
+"url":"URL#6384312"
+},
+{
+"@score":"1",
+"@id":"6384313",
+"info":{"authors":{"author":[{"@pid":"81/745","text":"Jan Curín"},{"@pid":"12/4735","text":"Pascal Fleury"},{"@pid":"79/6986","text":"Jan Kleindienst"},{"@pid":"96/2757","text":"Robert Kessl"}]},"title":"Meeting State Recognition from Visual and Aural Labels.","venue":"MLMI","pages":"24-35","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/CurinFKK07","doi":"10.1007/978-3-540-78155-4_3","ee":"https://doi.org/10.1007/978-3-540-78155-4_3","url":"https://dblp.org/rec/conf/mlmi/CurinFKK07"},
+"url":"URL#6384313"
+},
+{
+"@score":"1",
+"@id":"6384314",
+"info":{"authors":{"author":[{"@pid":"37/5069","text":"John Dines"},{"@pid":"76/3728","text":"Mathew Magimai-Doss"}]},"title":"A Study of Phoneme and Grapheme Based Context-Dependent ASR Systems.","venue":"MLMI","pages":"215-226","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/DinesM07","doi":"10.1007/978-3-540-78155-4_19","ee":"https://doi.org/10.1007/978-3-540-78155-4_19","url":"https://dblp.org/rec/conf/mlmi/DinesM07"},
+"url":"URL#6384314"
+},
+{
+"@score":"1",
+"@id":"6384315",
+"info":{"authors":{"author":[{"@pid":"57/4728","text":"Damien Douxchamps"},{"@pid":"42/87","text":"Nick Campbell 0001"}]},"title":"Robust Real Time Face Tracking for the Analysis of Human Behaviour.","venue":"MLMI","pages":"1-10","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/DouxchampsC07","doi":"10.1007/978-3-540-78155-4_1","ee":"https://doi.org/10.1007/978-3-540-78155-4_1","url":"https://dblp.org/rec/conf/mlmi/DouxchampsC07"},
+"url":"URL#6384315"
+},
+{
+"@score":"1",
+"@id":"6384316",
+"info":{"authors":{"author":[{"@pid":"79/6273","text":"Carl Henrik Ek"},{"@pid":"t/PhilipHSTorr","text":"Philip H. S. Torr"},{"@pid":"l/NeilDLawrence","text":"Neil D. Lawrence"}]},"title":"Gaussian Process Latent Variable Models for Human Pose Estimation.","venue":"MLMI","pages":"132-143","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/EkTL07","doi":"10.1007/978-3-540-78155-4_12","ee":"https://doi.org/10.1007/978-3-540-78155-4_12","url":"https://dblp.org/rec/conf/mlmi/EkTL07"},
+"url":"URL#6384316"
+},
+{
+"@score":"1",
+"@id":"6384317",
+"info":{"authors":{"author":[{"@pid":"26/1396","text":"Hazim Kemal Ekenel"},{"@pid":"23/6655","text":"Mika Fischer"},{"@pid":"31/4699","text":"Rainer Stiefelhagen"}]},"title":"Face Recognition in Smart Rooms.","venue":"MLMI","pages":"120-131","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/EkenelFS07","doi":"10.1007/978-3-540-78155-4_11","ee":"https://doi.org/10.1007/978-3-540-78155-4_11","url":"https://dblp.org/rec/conf/mlmi/EkenelFS07"},
+"url":"URL#6384317"
+},
+{
+"@score":"1",
+"@id":"6384318",
+"info":{"authors":{"author":[{"@pid":"17/7022","text":"Joe Frankel"},{"@pid":"43/415","text":"Özgür Çetin"},{"@pid":"95/5514","text":"Nelson Morgan"}]},"title":"Transfer Learning for Tandem ASR Feature Extraction.","venue":"MLMI","pages":"227-236","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/FrankelCM07","doi":"10.1007/978-3-540-78155-4_20","ee":"https://doi.org/10.1007/978-3-540-78155-4_20","url":"https://dblp.org/rec/conf/mlmi/FrankelCM07"},
+"url":"URL#6384318"
+},
+{
+"@score":"1",
+"@id":"6384319",
+"info":{"authors":{"author":[{"@pid":"43/3405","text":"Ivan Himawan"},{"@pid":"99/6777","text":"Iain McCowan"},{"@pid":"67/2912","text":"Mike Lincoln"}]},"title":"Microphone Array Beamforming Approach to Blind Speech Separation.","venue":"MLMI","pages":"295-305","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/HimawanML07","doi":"10.1007/978-3-540-78155-4_26","ee":"https://doi.org/10.1007/978-3-540-78155-4_26","url":"https://dblp.org/rec/conf/mlmi/HimawanML07"},
+"url":"URL#6384319"
+},
+{
+"@score":"1",
+"@id":"6384320",
+"info":{"authors":{"author":[{"@pid":"82/7823","text":"Pei-Yun Hsueh"},{"@pid":"m/JohannaDMoore","text":"Johanna D. Moore"}]},"title":"Automatic Decision Detection in Meeting Speech.","venue":"MLMI","pages":"168-179","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/HsuehM07","doi":"10.1007/978-3-540-78155-4_15","ee":"https://doi.org/10.1007/978-3-540-78155-4_15","url":"https://dblp.org/rec/conf/mlmi/HsuehM07"},
+"url":"URL#6384320"
+},
+{
+"@score":"1",
+"@id":"6384321",
+"info":{"authors":{"author":[{"@pid":"05/4919","text":"Songfang Huang"},{"@pid":"33/3792","text":"Steve Renals"}]},"title":"Using Prosodic Features in Language Models for Meetings.","venue":"MLMI","pages":"192-203","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/HuangR07","doi":"10.1007/978-3-540-78155-4_17","ee":"https://doi.org/10.1007/978-3-540-78155-4_17","url":"https://dblp.org/rec/conf/mlmi/HuangR07"},
+"url":"URL#6384321"
+},
+{
+"@score":"1",
+"@id":"6384322",
+"info":{"authors":{"author":[{"@pid":"98/3662","text":"Zdenek Krnoul"},{"@pid":"56/647","text":"Jakub Kanis"},{"@pid":"47/1317","text":"Milos Zelezný"},{"@pid":"47/337","text":"Ludek Müller"}]},"title":"Czech Text-to-Sign Speech Synthesizer.","venue":"MLMI","pages":"180-191","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/KrnoulKZM07","doi":"10.1007/978-3-540-78155-4_16","ee":"https://doi.org/10.1007/978-3-540-78155-4_16","url":"https://dblp.org/rec/conf/mlmi/KrnoulKZM07"},
+"url":"URL#6384322"
+},
+{
+"@score":"1",
+"@id":"6384323",
+"info":{"authors":{"author":[{"@pid":"04/4239","text":"Denis Lalanne"},{"@pid":"80/4955","text":"Florian Evéquoz"},{"@pid":"25/1744","text":"Maurizio Rigamonti"},{"@pid":"75/2615","text":"Bruno Dumas"},{"@pid":"18/2679","text":"Rolf Ingold"}]},"title":"An Ego-Centric and Tangible Approach to Meeting Indexing and Browsing.","venue":"MLMI","pages":"84-95","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/LalanneERDI07","doi":"10.1007/978-3-540-78155-4_8","ee":"https://doi.org/10.1007/978-3-540-78155-4_8","url":"https://dblp.org/rec/conf/mlmi/LalanneERDI07"},
+"url":"URL#6384323"
+},
+{
+"@score":"1",
+"@id":"6384324",
+"info":{"authors":{"author":[{"@pid":"98/2383","text":"Kornel Laskowski"},{"@pid":"s/TanjaSchultz","text":"Tanja Schultz"}]},"title":"Modeling Vocal Interaction for Segmentation in Meeting Recognition.","venue":"MLMI","pages":"259-270","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/LaskowskiS07","doi":"10.1007/978-3-540-78155-4_23","ee":"https://doi.org/10.1007/978-3-540-78155-4_23","url":"https://dblp.org/rec/conf/mlmi/LaskowskiS07"},
+"url":"URL#6384324"
+},
+{
+"@score":"1",
+"@id":"6384325",
+"info":{"authors":{"author":[{"@pid":"24/2425","text":"David Little 0001"},{"@pid":"63/6995","text":"David Raffensperger"},{"@pid":"19/212","text":"Bryan Pardo"}]},"title":"User Specific Training of a Music Search Engine.","venue":"MLMI","pages":"72-83","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/LittleRP07","doi":"10.1007/978-3-540-78155-4_7","ee":"https://doi.org/10.1007/978-3-540-78155-4_7","url":"https://dblp.org/rec/conf/mlmi/LittleRP07"},
+"url":"URL#6384325"
+},
+{
+"@score":"1",
+"@id":"6384326",
+"info":{"authors":{"author":[{"@pid":"51/4255","text":"John W. McDonough"},{"@pid":"34/233","text":"Ken&apos;ichi Kumatani"},{"@pid":"22/1449","text":"Tobias Gehrig"},{"@pid":"98/3999","text":"Emilian Stoimenov"},{"@pid":"16/5572","text":"Uwe Mayer"},{"@pid":"74/3581","text":"Stefan Schacht"},{"@pid":"84/6910","text":"Matthias Wölfel"},{"@pid":"00/1846","text":"Dietrich Klakow"}]},"title":"To Separate Speech.","venue":"MLMI","pages":"283-294","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/McDonoughKGSMSWK07","doi":"10.1007/978-3-540-78155-4_25","ee":"https://doi.org/10.1007/978-3-540-78155-4_25","url":"https://dblp.org/rec/conf/mlmi/McDonoughKGSMSWK07"},
+"url":"URL#6384326"
+},
+{
+"@score":"1",
+"@id":"6384327",
+"info":{"authors":{"author":[{"@pid":"31/739","text":"Louis-Philippe Morency"},{"@pid":"d/TrevorDarrell","text":"Trevor Darrell"}]},"title":"Conditional Sequence Model for Context-Based Recognition of Gaze Aversion.","venue":"MLMI","pages":"11-23","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/MorencyD07","doi":"10.1007/978-3-540-78155-4_2","ee":"https://doi.org/10.1007/978-3-540-78155-4_2","url":"https://dblp.org/rec/conf/mlmi/MorencyD07"},
+"url":"URL#6384327"
+},
+{
+"@score":"1",
+"@id":"6384328",
+"info":{"authors":{"author":[{"@pid":"15/3204","text":"Petr Motlícek"},{"@pid":"23/4298","text":"Sriram Ganapathy"},{"@pid":"70/158","text":"Hynek Hermansky"},{"@pid":"96/349","text":"Harinath Garudadri"}]},"title":"Frequency Domain Linear Prediction for QMF Sub-bands and Applications to Audio Coding.","venue":"MLMI","pages":"248-258","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/MotlicekGHG07","doi":"10.1007/978-3-540-78155-4_22","ee":"https://doi.org/10.1007/978-3-540-78155-4_22","url":"https://dblp.org/rec/conf/mlmi/MotlicekGHG07"},
+"url":"URL#6384328"
+},
+{
+"@score":"1",
+"@id":"6384329",
+"info":{"authors":{"author":[{"@pid":"69/4961","text":"Gabriel Murray"},{"@pid":"33/3792","text":"Steve Renals"}]},"title":"Term-Weighting for Summarization of Multi-party Spoken Dialogues.","venue":"MLMI","pages":"156-167","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/MurrayR07","doi":"10.1007/978-3-540-78155-4_14","ee":"https://doi.org/10.1007/978-3-540-78155-4_14","url":"https://dblp.org/rec/conf/mlmi/MurrayR07"},
+"url":"URL#6384329"
+},
+{
+"@score":"1",
+"@id":"6384330",
+"info":{"authors":{"author":[{"@pid":"57/175","text":"Andrei Popescu-Belis"},{"@pid":"07/5011","text":"Philippe Baudrion"},{"@pid":"26/284","text":"Mike Flynn"},{"@pid":"45/1810","text":"Pierre Wellner"}]},"title":"Towards an Objective Test for Meeting Browsers: The BET4TQB Pilot Experiment.","venue":"MLMI","pages":"108-119","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/Popescu-BelisBFW07","doi":"10.1007/978-3-540-78155-4_10","ee":"https://doi.org/10.1007/978-3-540-78155-4_10","url":"https://dblp.org/rec/conf/mlmi/Popescu-BelisBFW07"},
+"url":"URL#6384330"
+},
+{
+"@score":"1",
+"@id":"6384331",
+"info":{"authors":{"author":[{"@pid":"06/3180","text":"Matthew Purver"},{"@pid":"21/1000","text":"John Niekrasz"},{"@pid":"15/5571","text":"Patrick Ehlen"}]},"title":"Automatic Annotation of Dialogue Structure from Simple User Interaction.","venue":"MLMI","pages":"48-59","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/PurverNE07","doi":"10.1007/978-3-540-78155-4_5","ee":"https://doi.org/10.1007/978-3-540-78155-4_5","url":"https://dblp.org/rec/conf/mlmi/PurverNE07"},
+"url":"URL#6384331"
+},
+{
+"@score":"1",
+"@id":"6384332",
+"info":{"authors":{"author":[{"@pid":"88/2754","text":"Kate Saenko"},{"@pid":"d/TrevorDarrell","text":"Trevor Darrell"}]},"title":"Object Category Recognition Using Probabilistic Fusion of Speech and Image Classifiers.","venue":"MLMI","pages":"36-47","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/SaenkoD07","doi":"10.1007/978-3-540-78155-4_4","ee":"https://doi.org/10.1007/978-3-540-78155-4_4","url":"https://dblp.org/rec/conf/mlmi/SaenkoD07"},
+"url":"URL#6384332"
+},
+{
+"@score":"1",
+"@id":"6384333",
+"info":{"authors":{"author":[{"@pid":"34/6815","text":"Igor Szöke"},{"@pid":"69/4887","text":"Michal Fapso"},{"@pid":"20/3371","text":"Martin Karafiát"},{"@pid":"76/686","text":"Lukás Burget"},{"@pid":"47/5385","text":"Frantisek Grézl"},{"@pid":"93/3985","text":"Petr Schwarz"},{"@pid":"69/3731","text":"Ondrej Glembek"},{"@pid":"34/3580","text":"Pavel Matejka"},{"@pid":"70/3471","text":"Jirí Kopecký"},{"@pid":"93/2509","text":"Jan Cernocký"}]},"title":"Spoken Term Detection System Based on Combination of LVCSR and Phonetic Search.","venue":"MLMI","pages":"237-247","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/SzokeFKBGSGMKC07","doi":"10.1007/978-3-540-78155-4_21","ee":"https://doi.org/10.1007/978-3-540-78155-4_21","url":"https://dblp.org/rec/conf/mlmi/SzokeFKBGSGMKC07"},
+"url":"URL#6384333"
+},
+{
+"@score":"1",
+"@id":"6384334",
+"info":{"authors":{"author":[{"@pid":"91/941","text":"Ronnie Taib"},{"@pid":"23/1968","text":"Natalie Ruiz"}]},"title":"Integrating Semantics into Multimodal Interaction Patterns.","venue":"MLMI","pages":"96-107","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/TaibR07","doi":"10.1007/978-3-540-78155-4_9","ee":"https://doi.org/10.1007/978-3-540-78155-4_9","url":"https://dblp.org/rec/conf/mlmi/TaibR07"},
+"url":"URL#6384334"
+},
+{
+"@score":"1",
+"@id":"6384335",
+"info":{"authors":{"author":[{"@pid":"39/3758","text":"Enrique Vidal 0001"},{"@pid":"84/771","text":"Luis Rodríguez"},{"@pid":"c/FCasacuberta","text":"Francisco Casacuberta"},{"@pid":"15/1403","text":"Ismael García-Varea"}]},"title":"Interactive Pattern Recognition.","venue":"MLMI","pages":"60-71","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/VidalRCG07","doi":"10.1007/978-3-540-78155-4_6","ee":"https://doi.org/10.1007/978-3-540-78155-4_6","url":"https://dblp.org/rec/conf/mlmi/VidalRCG07"},
+"url":"URL#6384335"
+},
+{
+"@score":"1",
+"@id":"6384336",
+"info":{"authors":{"author":[{"@pid":"48/796","text":"Stuart N. Wrigley"},{"@pid":"b/GuyJBrown","text":"Guy J. Brown"}]},"title":"Binaural Speech Separation Using Recurrent Timing Neural Networks for Joint F0-Localisation Estimation.","venue":"MLMI","pages":"271-282","year":"2007","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/WrigleyB07","doi":"10.1007/978-3-540-78155-4_24","ee":"https://doi.org/10.1007/978-3-540-78155-4_24","url":"https://dblp.org/rec/conf/mlmi/WrigleyB07"},
+"url":"URL#6384336"
+}
+]
+}
+}
+}

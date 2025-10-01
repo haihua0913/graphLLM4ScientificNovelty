@@ -1,0 +1,302 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/recomb/recomb2001.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"74.11"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"45",
+"@dc":"45",
+"@oc":"45",
+"@id":"48917526",
+"text":":facetid:toc:db/conf/recomb/recomb2001.bht"
+}
+},
+"hits":{
+"@total":"45",
+"@computed":"45",
+"@sent":"45",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"7189759",
+"info":{"authors":{"author":{"@pid":"73/1116","text":"Mark Adams"}},"title":"The sequence of the human genome (abstract only).","venue":"RECOMB","pages":"1","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Adams01","doi":"10.1145/369133.369143","ee":"https://doi.org/10.1145/369133.369143","url":"https://dblp.org/rec/conf/recomb/Adams01"},
+"url":"URL#7189759"
+},
+{
+"@score":"1",
+"@id":"7189760",
+"info":{"authors":{"author":[{"@pid":"a/AbdullahNArslan","text":"Abdullah N. Arslan"},{"@pid":"e/OEgecioglu","text":"Ömer Egecioglu"},{"@pid":"p/PAPevzner","text":"Pavel A. Pevzner"}]},"title":"A new approach to sequence comparison: normalized sequence alignment.","venue":"RECOMB","pages":"2-11","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ArslanEP01","doi":"10.1145/369133.369146","ee":"https://doi.org/10.1145/369133.369146","url":"https://dblp.org/rec/conf/recomb/ArslanEP01"},
+"url":"URL#7189760"
+},
+{
+"@score":"1",
+"@id":"7189761",
+"info":{"authors":{"author":[{"@pid":"64/4220","text":"Yoseph Barash"},{"@pid":"86/249","text":"Nir Friedman"}]},"title":"Context-specific Bayesian clustering for gene expression data.","venue":"RECOMB","pages":"12-21","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BarashF01","doi":"10.1145/369133.369150","ee":"https://doi.org/10.1145/369133.369150","url":"https://dblp.org/rec/conf/recomb/BarashF01"},
+"url":"URL#7189761"
+},
+{
+"@score":"1",
+"@id":"7189762",
+"info":{"authors":{"author":[{"@pid":"b/RichardBeigel","text":"Richard Beigel"},{"@pid":"a/NAlon","text":"Noga Alon"},{"@pid":"k/SimonKasif","text":"Simon Kasif"},{"@pid":"03/88","text":"Mehmet Serkan Apaydin"},{"@pid":"f/LanceFortnow","text":"Lance Fortnow"}]},"title":"An optimal procedure for gap closing in whole genome shotgun sequencing.","venue":"RECOMB","pages":"22-30","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BeigelAKAF01","doi":"10.1145/369133.369152","ee":"https://doi.org/10.1145/369133.369152","url":"https://dblp.org/rec/conf/recomb/BeigelAKAF01"},
+"url":"URL#7189762"
+},
+{
+"@score":"1",
+"@id":"7189763",
+"info":{"authors":{"author":[{"@pid":"82/3119","text":"Amir Ben-Dor"},{"@pid":"86/249","text":"Nir Friedman"},{"@pid":"16/7018","text":"Zohar Yakhini"}]},"title":"Class discovery in gene expression data.","venue":"RECOMB","pages":"31-38","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Ben-DorFY01","doi":"10.1145/369133.369167","ee":"https://doi.org/10.1145/369133.369167","url":"https://dblp.org/rec/conf/recomb/Ben-DorFY01"},
+"url":"URL#7189763"
+},
+{
+"@score":"1",
+"@id":"7189764",
+"info":{"authors":{"author":[{"@pid":"62/2678","text":"Yonatan Bilu"},{"@pid":"13/1697","text":"Michal Linial"}]},"title":"On the predictive power of sequence similarity in yeast.","venue":"RECOMB","pages":"39-48","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BiluL01","doi":"10.1145/369133.369168","ee":"https://doi.org/10.1145/369133.369168","url":"https://dblp.org/rec/conf/recomb/BiluL01"},
+"url":"URL#7189764"
+},
+{
+"@score":"1",
+"@id":"7189765",
+"info":{"authors":{"author":{"@pid":"b/MathieuBlanchette","text":"Mathieu Blanchette"}},"title":"Algorithms for phylogenetic footprinting.","venue":"RECOMB","pages":"49-58","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Blanchette01","doi":"10.1145/369133.369170","ee":"https://doi.org/10.1145/369133.369170","url":"https://dblp.org/rec/conf/recomb/Blanchette01"},
+"url":"URL#7189765"
+},
+{
+"@score":"1",
+"@id":"7189766",
+"info":{"authors":{"author":[{"@pid":"23/180","text":"Phil Bradley"},{"@pid":"c/LenoreCowen","text":"Lenore Cowen"},{"@pid":"65/1722","text":"Matthew Menke"},{"@pid":"49/4325","text":"Jonathan King"},{"@pid":"b/BonnieBerger","text":"Bonnie Berger"}]},"title":"Predicting the beta-helix fold from protein sequence data.","venue":"RECOMB","pages":"59-67","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BradleyCMKB01","doi":"10.1145/369133.369171","ee":"https://doi.org/10.1145/369133.369171","url":"https://dblp.org/rec/conf/recomb/BradleyCMKB01"},
+"url":"URL#7189766"
+},
+{
+"@score":"1",
+"@id":"7189767",
+"info":{"authors":{"author":{"@pid":"75/3199","text":"Roger Brent"}},"title":"Information processing by cells and biologists (abstract only).","venue":"RECOMB","pages":"68","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Brent01","doi":"10.1145/369133.369175","ee":"https://doi.org/10.1145/369133.369175","url":"https://dblp.org/rec/conf/recomb/Brent01"},
+"url":"URL#7189767"
+},
+{
+"@score":"1",
+"@id":"7189768",
+"info":{"authors":{"author":[{"@pid":"b/JeremyBuhler","text":"Jeremy Buhler"},{"@pid":"t/MartinTompa","text":"Martin Tompa"}]},"title":"Finding motifs using random projections.","venue":"RECOMB","pages":"69-76","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BuhlerT01","doi":"10.1145/369133.369172","ee":"https://doi.org/10.1145/369133.369172","url":"https://dblp.org/rec/conf/recomb/BuhlerT01"},
+"url":"URL#7189768"
+},
+{
+"@score":"1",
+"@id":"7189769",
+"info":{"authors":{"author":{"@pid":"89/5235","text":"Ralf Bundschuh"}},"title":"Rapid significance estimation in local sequence alignment with gaps.","venue":"RECOMB","pages":"77-85","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Bundschuh01","doi":"10.1145/369133.369173","ee":"https://doi.org/10.1145/369133.369173","url":"https://dblp.org/rec/conf/recomb/Bundschuh01"},
+"url":"URL#7189769"
+},
+{
+"@score":"1",
+"@id":"7189770",
+"info":{"authors":{"author":[{"@pid":"06/5267","text":"Harmen J. Bussemaker"},{"@pid":"17/5705","text":"Hao Li"},{"@pid":"87/1003","text":"Eric D. Siggia"}]},"title":"Regulatory element detection using correlation with expression (abstract only).","venue":"RECOMB","pages":"86","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BussemakerLS01","doi":"10.1145/369133.369174","ee":"https://doi.org/10.1145/369133.369174","url":"https://dblp.org/rec/conf/recomb/BussemakerLS01"},
+"url":"URL#7189770"
+},
+{
+"@score":"1",
+"@id":"7189771",
+"info":{"authors":{"author":{"@pid":"19/1766","text":"Ting Chen"}},"title":"Gene-finding via tandem mass spectrometry.","venue":"RECOMB","pages":"87-94","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Chen01","doi":"10.1145/369133.369176","ee":"https://doi.org/10.1145/369133.369176","url":"https://dblp.org/rec/conf/recomb/Chen01"},
+"url":"URL#7189771"
+},
+{
+"@score":"1",
+"@id":"7189772",
+"info":{"authors":{"author":[{"@pid":"19/1766","text":"Ting Chen"},{"@pid":"34/1784","text":"Jacob D. Jaffe"},{"@pid":"77/5352","text":"George M. Church"}]},"title":"Algorithms for identifying protein cross-links via tandem mass spectrometry.","venue":"RECOMB","pages":"95-102","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ChenJC01","doi":"10.1145/369133.369177","ee":"https://doi.org/10.1145/369133.369177","url":"https://dblp.org/rec/conf/recomb/ChenJC01"},
+"url":"URL#7189772"
+},
+{
+"@score":"1",
+"@id":"7189773",
+"info":{"authors":{"author":{"@pid":"77/5352","text":"George M. Church"}},"title":"Hunger for new technologies, metrics, and spatiotemporal models in functional genomic (abstract only).","venue":"RECOMB","pages":"103","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Church01","doi":"10.1145/369133.369179","ee":"https://doi.org/10.1145/369133.369179","url":"https://dblp.org/rec/conf/recomb/Church01"},
+"url":"URL#7189773"
+},
+{
+"@score":"1",
+"@id":"7189774",
+"info":{"authors":{"author":{"@pid":"81/859","text":"Miklós Csürös"}},"title":"Fast recovery of evolutionary trees with thousands of nodes.","venue":"RECOMB","pages":"104-113","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Csuros01","doi":"10.1145/369133.369178","ee":"https://doi.org/10.1145/369133.369178","url":"https://dblp.org/rec/conf/recomb/Csuros01"},
+"url":"URL#7189774"
+},
+{
+"@score":"1",
+"@id":"7189775",
+"info":{"authors":{"author":[{"@pid":"e/AlonEfrat","text":"Alon Efrat"},{"@pid":"14/5761-2","text":"Frank Hoffmann 0002"},{"@pid":"k/KlausKriegel","text":"Klaus Kriegel"},{"@pid":"19/261","text":"Christof Schultz"},{"@pid":"44/3065","text":"Carola Wenk"}]},"title":"Geometric algorithms for the analysis of 2D-electrophoresis gels.","venue":"RECOMB","pages":"114-123","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/EfratHKSW01","doi":"10.1145/369133.369181","ee":"https://doi.org/10.1145/369133.369181","url":"https://dblp.org/rec/conf/recomb/EfratHKSW01"},
+"url":"URL#7189775"
+},
+{
+"@score":"1",
+"@id":"7189776",
+"info":{"authors":{"author":[{"@pid":"f/VladimirFilkov","text":"Vladimir Filkov"},{"@pid":"s/StevenSkiena","text":"Steven Skiena"},{"@pid":"93/2225","text":"Jizu Zhi"}]},"title":"Analysis techniques for microarray time-series data.","venue":"RECOMB","pages":"124-131","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/FilkovSZ01","doi":"10.1145/369133.369183","ee":"https://doi.org/10.1145/369133.369183","url":"https://dblp.org/rec/conf/recomb/FilkovSZ01"},
+"url":"URL#7189776"
+},
+{
+"@score":"1",
+"@id":"7189777",
+"info":{"authors":{"author":[{"@pid":"86/249","text":"Nir Friedman"},{"@pid":"03/2026","text":"Matan Ninio"},{"@pid":"43/6414","text":"Itsik Pe&apos;er"},{"@pid":"70/3084","text":"Tal Pupko"}]},"title":"A structural EM algorithm for phylogenetic inference.","venue":"RECOMB","pages":"132-140","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/FriedmanNPP01","doi":"10.1145/369133.369182","ee":"https://doi.org/10.1145/369133.369182","url":"https://dblp.org/rec/conf/recomb/FriedmanNPP01"},
+"url":"URL#7189777"
+},
+{
+"@score":"1",
+"@id":"7189778",
+"info":{"authors":{"author":[{"@pid":"f/AlanMFrieze","text":"Alan M. Frieze"},{"@pid":"15/3605","text":"Bjarni V. Halldórsson"}]},"title":"Optimal sequencing by hybridization in rounds.","venue":"RECOMB","pages":"141-148","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/FriezeH01","doi":"10.1145/369133.369187","ee":"https://doi.org/10.1145/369133.369187","url":"https://dblp.org/rec/conf/recomb/FriezeH01"},
+"url":"URL#7189778"
+},
+{
+"@score":"1",
+"@id":"7189779",
+"info":{"authors":{"author":[{"@pid":"h/MichaelTHallett","text":"Michael T. Hallett"},{"@pid":"86/3552","text":"Jens Lagergren"}]},"title":"Efficient algorithms for lateral gene transfer problems.","venue":"RECOMB","pages":"149-156","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/HallettL01","doi":"10.1145/369133.369188","ee":"https://doi.org/10.1145/369133.369188","url":"https://dblp.org/rec/conf/recomb/HallettL01"},
+"url":"URL#7189779"
+},
+{
+"@score":"1",
+"@id":"7189780",
+"info":{"authors":{"author":[{"@pid":"03/1116","text":"Daniel H. Huson"},{"@pid":"10/884","text":"Knut Reinert"},{"@pid":"m/EugeneWMyers","text":"Eugene W. Myers"}]},"title":"The greedy path-merging algorithm for sequence assembly.","venue":"RECOMB","pages":"157-163","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/HusonRM01","doi":"10.1145/369133.369190","ee":"https://doi.org/10.1145/369133.369190","url":"https://dblp.org/rec/conf/recomb/HusonRM01"},
+"url":"URL#7189780"
+},
+{
+"@score":"1",
+"@id":"7189781",
+"info":{"authors":{"author":[{"@pid":"k/JDKececioglu","text":"John D. Kececioglu"},{"@pid":"43/3001","text":"Jun Ju"}]},"title":"Separtating repeats in DNA sequence assembly.","venue":"RECOMB","pages":"176-183","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KececiogluJ01","doi":"10.1145/369133.369192","ee":"https://doi.org/10.1145/369133.369192","url":"https://dblp.org/rec/conf/recomb/KececiogluJ01"},
+"url":"URL#7189781"
+},
+{
+"@score":"1",
+"@id":"7189782",
+"info":{"authors":{"author":[{"@pid":"63/2396","text":"Oliver Kohlbacher"},{"@pid":"96/4741","text":"Andreas Burchardt"},{"@pid":"92/2891","text":"Andreas Moll"},{"@pid":"39/2195","text":"Andreas Hildebrandt 0001"},{"@pid":"66/5443","text":"Peter Bayer"},{"@pid":"l/HPLenhof","text":"Hans-Peter Lenhof"}]},"title":"A NMR-spectra-based scoring function for protein docking.","venue":"RECOMB","pages":"184-192","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KohlbacherBMHBL01","doi":"10.1145/369133.369194","ee":"https://doi.org/10.1145/369133.369194","url":"https://dblp.org/rec/conf/recomb/KohlbacherBMHBL01"},
+"url":"URL#7189782"
+},
+{
+"@score":"1",
+"@id":"7189783",
+"info":{"authors":{"author":[{"@pid":"36/5719","text":"Giuseppe Lancia"},{"@pid":"52/6067","text":"Robert D. Carr"},{"@pid":"19/1406","text":"Brian Walenz"},{"@pid":"59/460","text":"Sorin Istrail"}]},"title":"101 optimal PDB structure alignments: a branch-and-cut algorithm for the maximum contact map overlap problem.","venue":"RECOMB","pages":"193-202","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/LanciaCWI01","doi":"10.1145/369133.369199","ee":"https://doi.org/10.1145/369133.369199","url":"https://dblp.org/rec/conf/recomb/LanciaCWI01"},
+"url":"URL#7189783"
+},
+{
+"@score":"1",
+"@id":"7189784",
+"info":{"authors":{"author":{"@pid":"03/3560","text":"B. Franz Lang"}},"title":"Comparative analysis of organelle genomes, a biologist&apos;s view of computational challenges (abstract only).","venue":"RECOMB","pages":"203","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Lang01","doi":"10.1145/369133.369201","ee":"https://doi.org/10.1145/369133.369201","url":"https://dblp.org/rec/conf/recomb/Lang01"},
+"url":"URL#7189784"
+},
+{
+"@score":"1",
+"@id":"7189785",
+"info":{"authors":{"author":[{"@pid":"19/1837","text":"Christopher James Langmead"},{"@pid":"d/BRDonald","text":"Bruce Randall Donald"}]},"title":"Extracting structural information using time-frequency analysis of protein NMR data.","venue":"RECOMB","pages":"164-175","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/LangmeadD01","doi":"10.1145/369133.369191","ee":"https://doi.org/10.1145/369133.369191","url":"https://dblp.org/rec/conf/recomb/LangmeadD01"},
+"url":"URL#7189785"
+},
+{
+"@score":"1",
+"@id":"7189786",
+"info":{"authors":{"author":{"@pid":"21/2139","text":"Wentian Li"}},"title":"DNA segmentation as a model selection process.","venue":"RECOMB","pages":"204-210","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Li01","doi":"10.1145/369133.369202","ee":"https://doi.org/10.1145/369133.369202","url":"https://dblp.org/rec/conf/recomb/Li01"},
+"url":"URL#7189786"
+},
+{
+"@score":"1",
+"@id":"7189787",
+"info":{"authors":{"author":[{"@pid":"l/GuohuiLin","text":"Guohui Lin"},{"@pid":"70/6176-2","text":"Bin Ma 0002"},{"@pid":"89/4269","text":"Kaizhong Zhang"}]},"title":"Edit distance between two RNA structures.","venue":"RECOMB","pages":"211-220","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/LinMZ01","doi":"10.1145/369133.369214","ee":"https://doi.org/10.1145/369133.369214","url":"https://dblp.org/rec/conf/recomb/LinMZ01"},
+"url":"URL#7189787"
+},
+{
+"@score":"1",
+"@id":"7189788",
+"info":{"authors":{"author":{"@pid":"55/1586","text":"Klaus Lindpaintner"}},"title":"Genetics and genemoics: impact on drug discovery and development.","venue":"RECOMB","pages":"221-222","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Lindpaintner01","doi":"10.1145/369133.369216","ee":"https://doi.org/10.1145/369133.369216","url":"https://dblp.org/rec/conf/recomb/Lindpaintner01"},
+"url":"URL#7189788"
+},
+{
+"@score":"1",
+"@id":"7189789",
+"info":{"authors":{"author":{"@pid":"39/953","text":"Yvonne C. Martin"}},"title":"The role of computational chemistry in translating genomic information into bioactive small molecules (abstract only).","venue":"RECOMB","pages":"223","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Martin01","doi":"10.1145/369133.369217","ee":"https://doi.org/10.1145/369133.369217","url":"https://dblp.org/rec/conf/recomb/Martin01"},
+"url":"URL#7189789"
+},
+{
+"@score":"1",
+"@id":"7189790",
+"info":{"authors":{"author":{"@pid":"m/EugeneWMyers","text":"Gene Myers"}},"title":"Comparing sequence scaffolds.","venue":"RECOMB","pages":"224-230","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Myers01","doi":"10.1145/369133.369218","ee":"https://doi.org/10.1145/369133.369218","url":"https://dblp.org/rec/conf/recomb/Myers01"},
+"url":"URL#7189790"
+},
+{
+"@score":"1",
+"@id":"7189791",
+"info":{"authors":{"author":[{"@pid":"n/GonzaloNavarro","text":"Gonzalo Navarro 0001"},{"@pid":"98/2963","text":"Mathieu Raffinot"}]},"title":"Fast and simple character classes and bounded gaps pattern matching, with application to protein searching.","venue":"RECOMB","pages":"231-240","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/NavarroR01","doi":"10.1145/369133.369220","ee":"https://doi.org/10.1145/369133.369220","url":"https://dblp.org/rec/conf/recomb/NavarroR01"},
+"url":"URL#7189791"
+},
+{
+"@score":"1",
+"@id":"7189792",
+"info":{"authors":{"author":[{"@pid":"52/2663","text":"Lior Pachter"},{"@pid":"16/1219","text":"Marina Alexandersson"},{"@pid":"76/1610","text":"Simon Cawley"}]},"title":"Applications of generalized pair hidden Markov models to alignment and gene finding problems.","venue":"RECOMB","pages":"241-248","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/PachterAC01","doi":"10.1145/369133.369227","ee":"https://doi.org/10.1145/369133.369227","url":"https://dblp.org/rec/conf/recomb/PachterAC01"},
+"url":"URL#7189792"
+},
+{
+"@score":"1",
+"@id":"7189793",
+"info":{"authors":{"author":[{"@pid":"20/5638","text":"Paul Pavlidis"},{"@pid":"29/6977","text":"Jason Weston"},{"@pid":"15/969","text":"Jinsong Cai"},{"@pid":"08/978","text":"William Noble Grundy"}]},"title":"Gene functional classification from heterogeneous data.","venue":"RECOMB","pages":"249-255","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/PavlidisWCG01","doi":"10.1145/369133.369228","ee":"https://doi.org/10.1145/369133.369228","url":"https://dblp.org/rec/conf/recomb/PavlidisWCG01"},
+"url":"URL#7189793"
+},
+{
+"@score":"1",
+"@id":"7189794",
+"info":{"authors":{"author":[{"@pid":"p/PAPevzner","text":"Pavel A. Pevzner"},{"@pid":"90/3951","text":"Haixu Tang"},{"@pid":"w/MichaelSWaterman","text":"Michael S. Waterman"}]},"title":"A new approach to fragment assembly in DNA sequencing.","venue":"RECOMB","pages":"256-267","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/PevznerTW01","doi":"10.1145/369133.369230","ee":"https://doi.org/10.1145/369133.369230","url":"https://dblp.org/rec/conf/recomb/PevznerTW01"},
+"url":"URL#7189794"
+},
+{
+"@score":"1",
+"@id":"7189795",
+"info":{"authors":{"author":{"@pid":"67/5106","text":"Mark Ptashne"}},"title":"Imposing specificity by regulated localization (abstract only).","venue":"RECOMB","pages":"268","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Ptashne01","doi":"10.1145/369133.369231","ee":"https://doi.org/10.1145/369133.369231","url":"https://dblp.org/rec/conf/recomb/Ptashne01"},
+"url":"URL#7189795"
+},
+{
+"@score":"1",
+"@id":"7189796",
+"info":{"authors":{"author":[{"@pid":"66/6913","text":"Ron Shamir"},{"@pid":"04/5238","text":"Dekel Tsur"}]},"title":"Large scale sequencing by hybridization.","venue":"RECOMB","pages":"269-277","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ShamirT01","doi":"10.1145/369133.369233","ee":"https://doi.org/10.1145/369133.369233","url":"https://dblp.org/rec/conf/recomb/ShamirT01"},
+"url":"URL#7189796"
+},
+{
+"@score":"1",
+"@id":"7189797",
+"info":{"authors":{"author":{"@pid":"s/PASharp","text":"Phillip A. Sharp"}},"title":"RNA biology and the genome (abstract only).","venue":"RECOMB","pages":"278","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Sharp01","doi":"10.1145/369133.369235","ee":"https://doi.org/10.1145/369133.369235","url":"https://dblp.org/rec/conf/recomb/Sharp01"},
+"url":"URL#7189797"
+},
+{
+"@score":"1",
+"@id":"7189798",
+"info":{"authors":{"author":[{"@pid":"73/6093-1","text":"Mona Singh 0001"},{"@pid":"65/5377","text":"Peter S. Kim"}]},"title":"Towards predicting coiled-coil protein interactions.","venue":"RECOMB","pages":"279-286","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SinghK01","doi":"10.1145/369133.369238","ee":"https://doi.org/10.1145/369133.369238","url":"https://dblp.org/rec/conf/recomb/SinghK01"},
+"url":"URL#7189798"
+},
+{
+"@score":"1",
+"@id":"7189799",
+"info":{"authors":{"author":[{"@pid":"59/4427","text":"Guang Song"},{"@pid":"a/NMAmato","text":"Nancy M. Amato"}]},"title":"Using motion planning to study protein folding pathways.","venue":"RECOMB","pages":"287-296","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SongA01","doi":"10.1145/369133.369239","ee":"https://doi.org/10.1145/369133.369239","url":"https://dblp.org/rec/conf/recomb/SongA01"},
+"url":"URL#7189799"
+},
+{
+"@score":"1",
+"@id":"7189800",
+"info":{"authors":{"author":[{"@pid":"59/5262","text":"Mengxiang Tang"},{"@pid":"w/MichaelSWaterman","text":"Michael S. Waterman"},{"@pid":"79/6720","text":"Shibu Yooseph"}]},"title":"Zinc finger gene clusters and tandem gene duplication.","venue":"RECOMB","pages":"297-304","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/TangWY01","doi":"10.1145/369133.369241","ee":"https://doi.org/10.1145/369133.369241","url":"https://dblp.org/rec/conf/recomb/TangWY01"},
+"url":"URL#7189800"
+},
+{
+"@score":"1",
+"@id":"7189801",
+"info":{"authors":{"author":[{"@pid":"24/5099","text":"Gert Thijs"},{"@pid":"35/3087","text":"Kathleen Marchal"},{"@pid":"33/4251","text":"Magali Lescot"},{"@pid":"70/5545","text":"Stephane Rombauts"},{"@pid":"66/3559","text":"Bart De Moor"},{"@pid":"71/350","text":"Pierre Rouzé"},{"@pid":"52/5372","text":"Yves Moreau"}]},"title":"A Gibbs sampling method to detect over-represented motifs in the upstream regions of co-expressed genes.","venue":"RECOMB","pages":"305-312","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ThijsMLRMRM01","doi":"10.1145/369133.369253","ee":"https://doi.org/10.1145/369133.369253","url":"https://dblp.org/rec/conf/recomb/ThijsMLRMRM01"},
+"url":"URL#7189801"
+},
+{
+"@score":"1",
+"@id":"7189802",
+"info":{"authors":{"author":{"@pid":"88/5302","text":"Matthias Wilm"}},"title":"Creating the backbone for the virtual cell: cell mapping projects on the run (abstract only).","venue":"RECOMB","pages":"313","year":"2001","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Wilm01","doi":"10.1145/369133.374565","ee":"https://doi.org/10.1145/369133.374565","url":"https://dblp.org/rec/conf/recomb/Wilm01"},
+"url":"URL#7189802"
+},
+{
+"@score":"1",
+"@id":"7199813",
+"info":{"authors":{"author":{"@pid":"l/TLengauer","text":"Thomas Lengauer"}},"title":"Proceedings of the Fifth Annual International Conference on Computational Biology, RECOMB 2001, Montréal, Québec, Canada, April 22-25, 2001","venue":"RECOMB","publisher":"ACM","year":"2001","type":"Editorship","key":"conf/recomb/2001","doi":"10.1145/369133","ee":"https://doi.org/10.1145/369133","url":"https://dblp.org/rec/conf/recomb/2001"},
+"url":"URL#7199813"
+}
+]
+}
+}
+}

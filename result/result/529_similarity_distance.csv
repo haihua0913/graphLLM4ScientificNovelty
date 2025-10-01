@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+affine transformation,matching of images,0.8737,0.5026
+affine transformation,feature points,-0.2119,1.5569
+affine transformation,normalization of images,0.8508,0.5463
+feature points,matching of images,0.1159,1.3297
+matching of images,normalization of images,0.9729,0.233
+feature points,normalization of images,0.1874,1.2748
+affine transformation,computational cost,-0.1099,1.4899
+computational cost,matching of images,0.2001,1.2648
+computational cost,feature points,0.9247,0.388
+computational cost,normalization of images,0.2842,1.1965
+affine transformation,global optimization,-0.1893,1.5423
+FFT,affine transformation,0.9402,0.3458
+computational cost,global optimization,0.9659,0.2613
+FFT,computational cost,-0.2104,1.5559
+FFT,global optimization,-0.2907,1.6067
+affine transformation,local optimum,0.0025,1.4124
+global optimization,local optimum,0.9597,0.284
+FFT,local optimum,-0.0779,1.4682
+local optimum,reconstruction problems,0.9524,0.3087
+computer vision,local optimum,0.1123,1.3324
+computer vision,reconstruction problems,0.0421,1.3841
+feature points,reconstruction problems,0.9719,0.2371
+computer vision,feature points,-0.1168,1.4945

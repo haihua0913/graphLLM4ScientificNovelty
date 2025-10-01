@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+convergence,mixing coefficients,-0.0466,1.4468
+convergence,overlap,0.0359,1.3886
+mixing coefficients,overlap,-0.0795,1.4694
+convergence,deterministic anti-annealing,-0.0764,1.4673
+convergence,unbalanced mixing coefficients,-0.2251,1.5653
+deterministic anti-annealing,mixing coefficients,-0.323,1.6266
+mixing coefficients,unbalanced mixing coefficients,0.8586,0.5318
+deterministic anti-annealing,overlap,-0.3165,1.6226
+overlap,unbalanced mixing coefficients,-0.2415,1.5758
+deterministic anti-annealing,unbalanced mixing coefficients,0.1428,1.3093
+EM algorithm,convergence,0.117,1.3289
+EM algorithm,mixing coefficients,-0.1813,1.5371
+EM algorithm,overlap,0.9698,0.2459
+EM algorithm,deterministic anti-annealing,-0.3969,1.6715
+EM algorithm,unbalanced mixing coefficients,-0.3728,1.657
+Dirichlet process mixture model,EM algorithm,0.061,1.3704
+EM algorithm,variational Bayesian approach,-0.0409,1.4429
+Dirichlet process mixture model,convergence,-0.1513,1.5175
+convergence,variational Bayesian approach,-0.1128,1.4918
+Dirichlet process mixture model,mixing coefficients,-0.0169,1.4261
+mixing coefficients,variational Bayesian approach,0.1373,1.3136
+Dirichlet process mixture model,deterministic anti-annealing,-0.1603,1.5233
+deterministic anti-annealing,variational Bayesian approach,-0.0974,1.4815
+Dirichlet process mixture model,unbalanced mixing coefficients,-0.0856,1.4735
+unbalanced mixing coefficients,variational Bayesian approach,0.1241,1.3236
+Dirichlet process mixture model,variational Bayesian approach,0.9495,0.3177

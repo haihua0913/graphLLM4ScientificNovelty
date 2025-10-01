@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Visual detection,face detection,0.0895,1.3495
+Visual detection,person tracking,0.9509,0.3132
+face detection,person tracking,0.0982,1.343
+Adaboost algorithm,face detection,-0.0111,1.422
+face detection,mean shift tracking,0.0048,1.4108
+face detection,three-dimensional head estimate,-0.1442,1.5128
+Adaboost algorithm,person tracking,-0.0123,1.4229
+mean shift tracking,person tracking,0.8409,0.5641
+person tracking,three-dimensional head estimate,-0.0237,1.4308
+Adaboost algorithm,mean shift tracking,0.2215,1.2478
+Adaboost algorithm,three-dimensional head estimate,-0.2017,1.5503
+mean shift tracking,three-dimensional head estimate,0.2743,1.2048
+face detection,smart room,-0.0798,1.4695
+CHIL European Union integrated project,face detection,-0.0298,1.4351
+Adaboost algorithm,smart room,-0.0933,1.4787
+Adaboost algorithm,CHIL European Union integrated project,-0.0626,1.4578
+mean shift tracking,smart room,0.268,1.2099
+CHIL European Union integrated project,mean shift tracking,-0.1698,1.5296
+smart room,three-dimensional head estimate,0.9517,0.3107
+CHIL European Union integrated project,three-dimensional head estimate,-0.1818,1.5374
+CHIL European Union integrated project,smart room,-0.1941,1.5454

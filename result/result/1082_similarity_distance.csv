@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+online Linear Quadratic Regulator,predictions,-0.1656,1.5268
+adversarial disturbances,predictions,0.9595,0.2847
+optimal policy,predictions,-0.1816,1.5372
+minimum cost,predictions,-0.1799,1.5362
+dynamic regret,predictions,0.0018,1.413
+adversarial disturbances,online Linear Quadratic Regulator,-0.2875,1.6047
+online Linear Quadratic Regulator,optimal policy,0.2388,1.2339
+minimum cost,online Linear Quadratic Regulator,0.1124,1.3324
+dynamic regret,online Linear Quadratic Regulator,0.0104,1.4069
+adversarial disturbances,optimal policy,-0.2875,1.6047
+adversarial disturbances,minimum cost,-0.2836,1.6022
+adversarial disturbances,dynamic regret,0.1015,1.3405
+minimum cost,optimal policy,0.7766,0.6684
+dynamic regret,optimal policy,0.3452,1.1444
+dynamic regret,minimum cost,-0.154,1.5192
+greedy MPC,predictions,-0.0979,1.4818
+greedy MPC,online Linear Quadratic Regulator,-0.1997,1.549
+adversarial disturbances,greedy MPC,-0.1939,1.5452
+greedy MPC,optimal policy,-0.2047,1.5522
+greedy MPC,minimum cost,-0.2599,1.5874
+dynamic regret,greedy MPC,0.0104,1.4068

@@ -1,0 +1,46 @@
+node1,node2,similarity,distance
+PCA,outliers,0.9974,0.0722
+PCA,computer vision,-0.1171,1.4947
+PCA,noise,-0.2737,1.596
+PCA,occlusion,-0.071,1.4636
+computer vision,outliers,-0.1194,1.4962
+noise,outliers,-0.2621,1.5888
+occlusion,outliers,-0.0723,1.4644
+computer vision,noise,-0.4187,1.6845
+computer vision,occlusion,-0.2223,1.5636
+noise,occlusion,0.1674,1.2904
+PCA,robust,-0.2274,1.5668
+outliers,robust,-0.2456,1.5784
+computer vision,robust,0.0321,1.3913
+noise,robust,-0.2084,1.5546
+occlusion,robust,0.867,0.5157
+PCA,RPCA,-0.0644,1.4591
+M-estimation,PCA,-0.1595,1.5229
+PCA,high dimensional data,-0.0405,1.4425
+PCA,images,-0.0497,1.4489
+RPCA,outliers,-0.076,1.467
+M-estimation,outliers,-0.1749,1.5329
+high dimensional data,outliers,-0.0268,1.4331
+images,outliers,-0.0446,1.4454
+RPCA,robust,0.9355,0.3591
+M-estimation,robust,0.9051,0.4358
+high dimensional data,robust,-0.0958,1.4804
+images,robust,-0.1221,1.4981
+RPCA,computer vision,-0.0623,1.4576
+M-estimation,computer vision,0.0144,1.404
+computer vision,high dimensional data,-0.2765,1.5978
+computer vision,images,-0.3257,1.6283
+RPCA,noise,-0.0319,1.4366
+M-estimation,noise,0.0321,1.3914
+high dimensional data,noise,-0.1936,1.5451
+images,noise,-0.0521,1.4506
+RPCA,occlusion,0.9319,0.3691
+M-estimation,occlusion,0.8974,0.4529
+high dimensional data,occlusion,-0.0999,1.4832
+images,occlusion,-0.0927,1.4783
+M-estimation,RPCA,0.9737,0.2295
+RPCA,high dimensional data,-0.0781,1.4684
+RPCA,images,-0.069,1.4622
+M-estimation,high dimensional data,-0.0017,1.4154
+M-estimation,images,0.0347,1.3895
+high dimensional data,images,0.9764,0.2174

@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+domain adaptation,latent domains,0.0113,1.4062
+latent domains,visual datasets,-0.0855,1.4735
+latent domains,manifolds,0.7413,0.7193
+latent domains,subspaces,0.692,0.7849
+manifolds,visual datasets,-0.1251,1.5001
+subspaces,visual datasets,0.052,1.377
+manifolds,subspaces,0.5136,0.9863
+latent domains,local linear invariant subspace,-0.1194,1.4963
+local linear invariant subspace,visual datasets,0.9896,0.1439
+local linear invariant subspace,manifolds,-0.1431,1.512
+local linear invariant subspace,subspaces,-0.0135,1.4237
+manifolds,squared-loss mutual information,-0.0757,1.4667
+clustering model,manifolds,0.0112,1.4063
+domain assignment,manifolds,0.2253,1.2448
+squared-loss mutual information,subspaces,-0.0888,1.4757
+clustering model,subspaces,0.2008,1.2642
+domain assignment,subspaces,0.8199,0.6001
+local linear invariant subspace,squared-loss mutual information,0.9687,0.2503
+clustering model,local linear invariant subspace,0.9647,0.2657
+domain assignment,local linear invariant subspace,-0.0435,1.4447
+clustering model,squared-loss mutual information,0.9261,0.3844
+domain assignment,squared-loss mutual information,-0.2197,1.5618
+clustering model,domain assignment,0.1244,1.3234

@@ -1,0 +1,272 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/psb/psb2014.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"79.03"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"40",
+"@dc":"40",
+"@oc":"40",
+"@id":"48916858",
+"text":":facetid:toc:db/conf/psb/psb2014.bht"
+}
+},
+"hits":{
+"@total":"40",
+"@computed":"40",
+"@sent":"40",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4716567",
+"info":{"authors":{"author":[{"@pid":"31/8064","text":"Derek Aguiar"},{"@pid":"25/5296","text":"Wendy S. W. Wong"},{"@pid":"59/460","text":"Sorin Istrail"}]},"title":"Tumor Haplotype Assembly Algorithms for Cancer Genomics.","venue":"Pacific Symposium on Biocomputing","pages":"3-14","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/AguiarWI14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/aguiar.pdf","url":"https://dblp.org/rec/conf/psb/AguiarWI14"},
+"url":"URL#4716567"
+},
+{
+"@score":"1",
+"@id":"4716568",
+"info":{"authors":{"author":{"@pid":"35/6382","text":"Liviu Badea"}},"title":"Extracting Significant Sample-Specific Cancer Mutations Using Their Protein Interactions.","venue":"Pacific Symposium on Biocomputing","pages":"15-26","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Badea14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/badea.pdf","url":"https://dblp.org/rec/conf/psb/Badea14"},
+"url":"URL#4716568"
+},
+{
+"@score":"1",
+"@id":"4716569",
+"info":{"authors":{"author":[{"@pid":"199/4398","text":"Aurora S. Blucher"},{"@pid":"33/6554","text":"Shannon K. McWeeney"}]},"title":"Challenges in Secondary Analysis of High Throughput Screening Data.","venue":"Pacific Symposium on Biocomputing","pages":"114-124","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BlucherM14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/blucher.pdf","url":"https://dblp.org/rec/conf/psb/BlucherM14"},
+"url":"URL#4716569"
+},
+{
+"@score":"1",
+"@id":"4716570",
+"info":{"authors":{"author":[{"@pid":"184/7142","text":"Douglas Brubaker"},{"@pid":"199/4445","text":"Analisa Difeo"},{"@pid":"155/2202","text":"Yanwen Chen"},{"@pid":"199/4337","text":"Taylor Pearl"},{"@pid":"199/4235","text":"Kaide Zhai"},{"@pid":"74/1308","text":"Gürkan Bebek"},{"@pid":"66/8064","text":"Mark R. Chance"},{"@pid":"123/8538","text":"Jill S. Barnholtz-Sloan"}]},"title":"Drug Intervention Response Predictions with Paradigm (DIRPP) Identifies Drug Resistant Cancer Cell Lines and Pathway Mechanisms of Resistance.","venue":"Pacific Symposium on Biocomputing","pages":"125-135","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BrubakerDCPZBCB14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/brubaker.pdf","url":"https://dblp.org/rec/conf/psb/BrubakerDCPZBCB14"},
+"url":"URL#4716570"
+},
+{
+"@score":"1",
+"@id":"4716571",
+"info":{"authors":{"author":[{"@pid":"83/546","text":"Søren Brunak"},{"@pid":"32/5165","text":"Francisco M. de la Vega"},{"@pid":"33/3796","text":"Gunnar Rätsch"},{"@pid":"78/4108","text":"Joshua M. Stuart"}]},"title":"Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"1-2","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BrunakVRS14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/intro-cp.pdf","url":"https://dblp.org/rec/conf/psb/BrunakVRS14"},
+"url":"URL#4716571"
+},
+{
+"@score":"1",
+"@id":"4716572",
+"info":{"authors":{"author":[{"@pid":"12/1338","text":"Chao Cheng"},{"@pid":"07/315","text":"Jason H. Moore"},{"@pid":"69/5821","text":"Casey S. Greene"}]},"title":"Applications of Bioinformatics to Non-Coding RNAs in the Era of Next-Generation Sequencing.","venue":"Pacific Symposium on Biocomputing","pages":"412-416","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ChengMG14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/wkshp-noncodingrnas.pdf","url":"https://dblp.org/rec/conf/psb/ChengMG14"},
+"url":"URL#4716572"
+},
+{
+"@score":"1",
+"@id":"4716573",
+"info":{"authors":{"author":[{"@pid":"11/3833","text":"Wyatt T. Clark"},{"@pid":"93/308","text":"Predrag Radivojac"}]},"title":"Vector Quantization Kernels for the Classification of Protein Sequences and Structures.","venue":"Pacific Symposium on Biocomputing","pages":"316-327","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ClarkR14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/clark.pdf","url":"https://dblp.org/rec/conf/psb/ClarkR14"},
+"url":"URL#4716573"
+},
+{
+"@score":"1",
+"@id":"4716574",
+"info":{"authors":{"author":[{"@pid":"46/9780","text":"Roxana Daneshjou"},{"@pid":"15/6108","text":"Zachary Zappala"},{"@pid":"117/4189","text":"Kimberly R. Kukurba"},{"@pid":"199/4333","text":"Sean M. Boyle"},{"@pid":"199/4454","text":"Kelly E. Ormond"},{"@pid":"k/TeriEKlein","text":"Teri E. Klein"},{"@pid":"50/5034","text":"Michael Snyder 0001"},{"@pid":"115/7438","text":"Carlos D. Bustamante"},{"@pid":"47/2081","text":"Russ B. Altman"},{"@pid":"m/StephenMontgomery","text":"Stephen B. Montgomery"}]},"title":"PATH-SCAN: A Reporting Tool for Identifying Clinically Actionable Variants.","venue":"Pacific Symposium on Biocomputing","pages":"229-240","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/DaneshjouZKBOKS14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/daneshjou.pdf","url":"https://dblp.org/rec/conf/psb/DaneshjouZKBOKS14"},
+"url":"URL#4716574"
+},
+{
+"@score":"1",
+"@id":"4716575",
+"info":{"authors":{"author":[{"@pid":"65/5385","text":"Christian Darabos"},{"@pid":"199/4438","text":"Samantha H. Harmon"},{"@pid":"07/315","text":"Jason H. Moore"}]},"title":"Using the Bipartite Human Phenotype Network to Reveal Pleiotropy and Epistasis Beyond the Gene.","venue":"Pacific Symposium on Biocomputing","pages":"188-199","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/DarabosHM14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/darabos.pdf","url":"https://dblp.org/rec/conf/psb/DarabosHM14"},
+"url":"URL#4716575"
+},
+{
+"@score":"1",
+"@id":"4716576",
+"info":{"authors":{"author":[{"@pid":"123/5927","text":"Christopher S. Funk"},{"@pid":"h/LawrenceHunter","text":"Lawrence E. Hunter"},{"@pid":"c/KBretonnelCohen","text":"K. Bretonnel Cohen"}]},"title":"Combining Heterogenous Data for Prediction of Disease Related and Pharmacogenes.","venue":"Pacific Symposium on Biocomputing","pages":"328-339","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/FunkHC14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/funk.pdf","url":"https://dblp.org/rec/conf/psb/FunkHC14"},
+"url":"URL#4716576"
+},
+{
+"@score":"1",
+"@id":"4716577",
+"info":{"authors":{"author":[{"@pid":"94/10045","text":"Anthony Gitter"},{"@pid":"61/3700","text":"Alfredo Braunstein"},{"@pid":"12/2143","text":"Andrea Pagnani"},{"@pid":"55/2142","text":"Carlo Baldassi"},{"@pid":"b/ChristianBorgs","text":"Christian Borgs"},{"@pid":"c/JenniferTChayes","text":"Jennifer T. Chayes"},{"@pid":"01/2463","text":"Riccardo Zecchina"},{"@pid":"94/5033","text":"Ernest Fraenkel"}]},"title":"Sharing Information to Reconstruct Patient-Specific Pathways in Heterogeneous Diseases.","venue":"Pacific Symposium on Biocomputing","pages":"39-50","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GitterBPBBCZF14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/gitter.pdf","url":"https://dblp.org/rec/conf/psb/GitterBPBBCZF14"},
+"url":"URL#4716577"
+},
+{
+"@score":"1",
+"@id":"4716578",
+"info":{"authors":{"author":[{"@pid":"219/1529","text":"Graciela Gonzalez 0001"},{"@pid":"c/KBretonnelCohen","text":"Kevin Bretonnel Cohen"},{"@pid":"26/5019","text":"Robert Leaman"},{"@pid":"69/5821","text":"Casey S. Greene"},{"@pid":"s/NHShah","text":"Nigam Shah"},{"@pid":"07/3726","text":"Maricel G. Kann"},{"@pid":"03/5454","text":"Jieping Ye"}]},"title":"Session introduction.","venue":"Pacific Symposium on Biocomputing","pages":"312-315","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GonzalezCLGSKY14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/intro-text.pdf","url":"https://dblp.org/rec/conf/psb/GonzalezCLGSKY14"},
+"url":"URL#4716578"
+},
+{
+"@score":"1",
+"@id":"4716579",
+"info":{"authors":{"author":{"@pid":"90/8252","text":"Henry Han"}},"title":"A Novel Profile Biomarker Diagnosis for Mass Spectral Proteomics.","venue":"Pacific Symposium on Biocomputing","pages":"340-351","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Han14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/han.pdf","url":"https://dblp.org/rec/conf/psb/Han14"},
+"url":"URL#4716579"
+},
+{
+"@score":"1",
+"@id":"4716580",
+"info":{"authors":{"author":[{"@pid":"67/6924","text":"Hao Hu"},{"@pid":"199/4355","text":"Chad D. Huff"}]},"title":"Detecting Statistical Interaction Between Somatic Mutational Events and Germline Variation from Next-Generation Sequence Data.","venue":"Pacific Symposium on Biocomputing","pages":"51-62","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HuH14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/hu.pdf","url":"https://dblp.org/rec/conf/psb/HuH14"},
+"url":"URL#4716580"
+},
+{
+"@score":"1",
+"@id":"4716581",
+"info":{"authors":{"author":[{"@pid":"41/6036","text":"In Sock Jang"},{"@pid":"157/8116","text":"Elias Chaibub Neto"},{"@pid":"74/1278","text":"Justin Guinney"},{"@pid":"42/6365","text":"Stephen H. Friend"},{"@pid":"28/1656","text":"Adam A. Margolin"}]},"title":"Systematic Assessment of Analytical Methods for Drug Sensitivity Prediction from Cancer Cell Line Data.","venue":"Pacific Symposium on Biocomputing","pages":"63-74","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/JangNGFM14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/jang.pdf","url":"https://dblp.org/rec/conf/psb/JangNGFM14"},
+"url":"URL#4716581"
+},
+{
+"@score":"1",
+"@id":"4716582",
+"info":{"authors":{"author":[{"@pid":"l/JenniferListgarten","text":"Jennifer Listgarten"},{"@pid":"38/466","text":"Oliver Stegle"},{"@pid":"m/QuaidMorris","text":"Quaid Morris"},{"@pid":"57/3260","text":"Steven E. Brenner"},{"@pid":"60/11010","text":"Leopold Parts"}]},"title":"Session introduction.","venue":"Pacific Symposium on Biocomputing","pages":"247-249","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ListgartenSMBP14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/intro-pm.pdf","url":"https://dblp.org/rec/conf/psb/ListgartenSMBP14"},
+"url":"URL#4716582"
+},
+{
+"@score":"1",
+"@id":"4716583",
+"info":{"authors":{"author":[{"@pid":"134/5672-1","text":"Yashu Liu 0001"},{"@pid":"41/11145","text":"Zhi Nie"},{"@pid":"73/1353","text":"Jiayu Zhou"},{"@pid":"73/10787","text":"Michael Farnum"},{"@pid":"40/2286","text":"Vaibhav A. Narayan"},{"@pid":"122/8916","text":"Gayle M. Wittenberg"},{"@pid":"03/5454","text":"Jieping Ye"}]},"title":"Sparse Generalized Functional Linear Model for Predicting Remission Status of Depression Patients.","venue":"Pacific Symposium on Biocomputing","pages":"364-375","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/LiuNZFNWY14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/liu.pdf","url":"https://dblp.org/rec/conf/psb/LiuNZFNWY14"},
+"url":"URL#4716583"
+},
+{
+"@score":"1",
+"@id":"4716584",
+"info":{"authors":{"author":[{"@pid":"199/4417","text":"Jennifer Malinowski"},{"@pid":"144/7963","text":"Eric Farber-Eger"},{"@pid":"63/8090","text":"Dana C. Crawford"}]},"title":"Development of a Data-Mining Algorithm to Identify Ages at Reproductive Milestones in Electronic Medical Records.","venue":"Pacific Symposium on Biocomputing","pages":"376-387","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MalinowskiFC14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/malinowski.pdf","url":"https://dblp.org/rec/conf/psb/MalinowskiFC14"},
+"url":"URL#4716584"
+},
+{
+"@score":"1",
+"@id":"4716585",
+"info":{"authors":{"author":[{"@pid":"199/4258","text":"Alicia R. Martin"},{"@pid":"199/4436","text":"Gerard Tse"},{"@pid":"115/7438","text":"Carlos D. Bustamante"},{"@pid":"90/6542","text":"Eimear E. Kenny"}]},"title":"Imputation-based Assessment of Next Generation Rare Exome Variant Arrays.","venue":"Pacific Symposium on Biocomputing","pages":"262-272","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MartinTBK14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/martin.pdf","url":"https://dblp.org/rec/conf/psb/MartinTBK14"},
+"url":"URL#4716585"
+},
+{
+"@score":"1",
+"@id":"4716586",
+"info":{"authors":{"author":[{"@pid":"199/4248","text":"Oleg Mayba"},{"@pid":"64/4463","text":"Florian Gnad"},{"@pid":"129/6034","text":"Michael Peyton"},{"@pid":"21/3626-90","text":"Fan Zhang 0090"},{"@pid":"23/6915","text":"Kimberly Walter"},{"@pid":"74/5694-6","text":"Pan Du 0006"},{"@pid":"138/5784","text":"Melanie A. Huntley"},{"@pid":"199/4226","text":"Zhaoshi Jiang"},{"@pid":"62/1684","text":"Jinfeng Liu"},{"@pid":"53/5174","text":"Peter M. Haverty"},{"@pid":"53/1674","text":"Robert Gentleman"},{"@pid":"76/1684","text":"Ruiqiang Li"},{"@pid":"46/210","text":"John D. Minna"},{"@pid":"80/4744","text":"Yingrui Li"},{"@pid":"51/7112","text":"David S. Shames"},{"@pid":"63/5136","text":"Zemin Zhang"}]},"title":"Integrative Analysis of Two Cell Lines Derived from a Non-Small-Lung Cancer Patient - A Panomics Approach.","venue":"Pacific Symposium on Biocomputing","pages":"75-86","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MaybaGPZWDHJLHG14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/mayba.pdf","url":"https://dblp.org/rec/conf/psb/MaybaGPZWDHJLHG14"},
+"url":"URL#4716586"
+},
+{
+"@score":"1",
+"@id":"4716587",
+"info":{"authors":{"author":[{"@pid":"29/7048","text":"Martin Renqiang Min"},{"@pid":"47/8064","text":"Salim A. Chowdhury"},{"@pid":"81/3848","text":"Yanjun Qi"},{"@pid":"79/119","text":"Alex Stewart"},{"@pid":"132/9251","text":"Rachel Ostroff"}]},"title":"An Integrated Approach To Blood-Based Cancer Diagnosis And Biomarker Discovery.","venue":"Pacific Symposium on Biocomputing","pages":"87-98","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MinCQSO14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/min.pdf","url":"https://dblp.org/rec/conf/psb/MinCQSO14"},
+"url":"URL#4716587"
+},
+{
+"@score":"1",
+"@id":"4716588",
+"info":{"authors":{"author":[{"@pid":"31/4175","text":"Alexander A. Morgan"},{"@pid":"199/4425","text":"Matthew D. Li"},{"@pid":"199/4373","text":"Achal S. Achrol"},{"@pid":"57/2196","text":"Purvesh Khatri"},{"@pid":"199/4395","text":"Samuel H. Cheshier"}]},"title":"Multiplex Meta-Analysis of Medulloblastoma Expression Studies with External Controls.","venue":"Pacific Symposium on Biocomputing","pages":"99-109","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MorganLAKC14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/morgan.pdf","url":"https://dblp.org/rec/conf/psb/MorganLAKC14"},
+"url":"URL#4716588"
+},
+{
+"@score":"1",
+"@id":"4716589",
+"info":{"authors":{"author":[{"@pid":"157/8116","text":"Elias Chaibub Neto"},{"@pid":"41/6036","text":"In Sock Jang"},{"@pid":"42/6365","text":"Stephen H. Friend"},{"@pid":"28/1656","text":"Adam A. Margolin"}]},"title":"The Stream Algorithm: Computationally Efficient Ridge-Regression via Bayesian Model Averaging, and Applications to Pharmacogenomic Prediction of Cancer Cell Line Sensitivity.","venue":"Pacific Symposium on Biocomputing","pages":"27-38","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/NetoJFM14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/chaibubneto.pdf","url":"https://dblp.org/rec/conf/psb/NetoJFM14"},
+"url":"URL#4716589"
+},
+{
+"@score":"1",
+"@id":"4716590",
+"info":{"authors":{"author":[{"@pid":"164/6644","text":"Clara Ng"},{"@pid":"164/6637","text":"Ruth Hauptman"},{"@pid":"155/3852","text":"Yinliang Zhang"},{"@pid":"b/PhilipEBourne","text":"Philip E. Bourne"},{"@pid":"70/1741-6","text":"Lei Xie 0006"}]},"title":"Anti-Infectious Drug Repurposing Using an Integrated Chemical Genomics and Structural Systems Biology Approach.","venue":"Pacific Symposium on Biocomputing","pages":"136-147","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/NgHZBX14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/ng.pdf","url":"https://dblp.org/rec/conf/psb/NgHZBX14"},
+"url":"URL#4716590"
+},
+{
+"@score":"1",
+"@id":"4716591",
+"info":{"authors":{"author":[{"@pid":"85/9737","text":"Matthew Oetjens"},{"@pid":"36/2507","text":"William S. Bush"},{"@pid":"199/4348","text":"Kelly A. Birdwell"},{"@pid":"154/7779","text":"Holli H. Dilks"},{"@pid":"51/9737","text":"Erica A. Bowton"},{"@pid":"41/7339","text":"Joshua C. Denny"},{"@pid":"12/6343","text":"Russell A. Wilke"},{"@pid":"47/5181","text":"Dan M. Roden"},{"@pid":"63/8090","text":"Dana C. Crawford"}]},"title":"Utilization of an EMR-Biorepository to Identify the Genetic Predictors of Calcineurin-Inhibitor Toxicity in Heart Transplant Recipients.","venue":"Pacific Symposium on Biocomputing","pages":"253-264","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/OetjensBBDBDWRC14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/oetjens.pdf","url":"https://dblp.org/rec/conf/psb/OetjensBBDBDWRC14"},
+"url":"URL#4716591"
+},
+{
+"@score":"1",
+"@id":"4716592",
+"info":{"authors":{"author":[{"@pid":"80/8411","text":"Ankur P. Parikh"},{"@pid":"95/6985-23","text":"Wei Wu 0023"},{"@pid":"36/3855","text":"Eric P. Xing"}]},"title":"Robust Reverse Engineering of Dynamic Gene Networks Under Sample Size Heterogeneity.","venue":"Pacific Symposium on Biocomputing","pages":"265-276","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ParikhWX14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/parikh.pdf","url":"https://dblp.org/rec/conf/psb/ParikhWX14"},
+"url":"URL#4716592"
+},
+{
+"@score":"1",
+"@id":"4716593",
+"info":{"authors":{"author":[{"@pid":"62/8509","text":"Kristine A. Pattin"},{"@pid":"164/0292","text":"Anna C. Greene"},{"@pid":"47/2081","text":"Russ B. Altman"},{"@pid":"h/LawrenceHunter","text":"Lawrence E. Hunter"},{"@pid":"68/2171","text":"David A. Ross"},{"@pid":"f/JamesAFoster","text":"James A. Foster"},{"@pid":"07/315","text":"Jason H. Moore"}]},"title":"Building the Next Generation of Quantitative Biologists.","venue":"Pacific Symposium on Biocomputing","pages":"417-421","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PattinGAHRFM14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/wkshp-nextgen.pdf","url":"https://dblp.org/rec/conf/psb/PattinGAHRFM14"},
+"url":"URL#4716593"
+},
+{
+"@score":"1",
+"@id":"4716594",
+"info":{"authors":{"author":[{"@pid":"92/8304","text":"Anil Patwardhan"},{"@pid":"66/1657","text":"Michael Clark"},{"@pid":"46/5104-4","text":"Alex Morgan 0004"},{"@pid":"69/6383","text":"Stephen A. Chervitz"},{"@pid":"199/4449","text":"Mark Pratt"},{"@pid":"39/7929","text":"Gábor T. Bartha"},{"@pid":"199/4426","text":"Gemma Chandratillake"},{"@pid":"199/4308","text":"Sarah Garcia"},{"@pid":"199/4409","text":"Nan Leng"},{"@pid":"27/5891","text":"Richard Chen"}]},"title":"Variant Priorization and Analysis Incorporating Problematic Regions of the Genome.","venue":"Pacific Symposium on Biocomputing","pages":"277-287","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PatwardhanCMCPB14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/patwardhan.pdf","url":"https://dblp.org/rec/conf/psb/PatwardhanCMCPB14"},
+"url":"URL#4716594"
+},
+{
+"@score":"1",
+"@id":"4716595",
+"info":{"authors":{"author":[{"@pid":"24/276","text":"Sarah A. Pendergrass"},{"@pid":"190/9931","text":"Santhosh Girirajan"},{"@pid":"97/7818","text":"Scott B. Selleck"}]},"title":"Uncovering the Etiology of Autism Spectrum Disorders: Genomics, Bioinformatics, Environment, Data Collection and Exploration, and Future Possibilities.","venue":"Pacific Symposium on Biocomputing","pages":"422-426","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PendergrassGS14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/wkshp-autism.pdf","url":"https://dblp.org/rec/conf/psb/PendergrassGS14"},
+"url":"URL#4716595"
+},
+{
+"@score":"1",
+"@id":"4716596",
+"info":{"authors":{"author":[{"@pid":"54/1195","text":"Alessandro Perina"},{"@pid":"22/8008","text":"Pietro Lovato"},{"@pid":"20/1944","text":"Nebojsa Jojic"}]},"title":"Bags of Words Models of Epitope Sets: HIV Viral Load Regression with Counting Grids.","venue":"Pacific Symposium on Biocomputing","pages":"288-300","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PerinaLJ14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/perina.pdf","url":"https://dblp.org/rec/conf/psb/PerinaLJ14"},
+"url":"URL#4716596"
+},
+{
+"@score":"1",
+"@id":"4716597",
+"info":{"authors":{"author":[{"@pid":"155/2347","text":"Vivek M. Philip"},{"@pid":"70/8047","text":"Anna L. Tyler"},{"@pid":"39/5794","text":"Gregory W. Carter"}]},"title":"Dissection of Complex Gene Expression Using the Combined Analysis of Pleiotropy and Epistasis.","venue":"Pacific Symposium on Biocomputing","pages":"200-211","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PhilipTC14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/philip.pdf","url":"https://dblp.org/rec/conf/psb/PhilipTC14"},
+"url":"URL#4716597"
+},
+{
+"@score":"1",
+"@id":"4716598",
+"info":{"authors":{"author":[{"@pid":"26/4266","text":"K. E. Ravikumar"},{"@pid":"82/7222","text":"Kavishwar B. Wagholikar"},{"@pid":"92/2407","text":"Hongfang Liu"}]},"title":"Towards Pathway Curation Through Literature Mining - A Case Study Using PharmGKB.","venue":"Pacific Symposium on Biocomputing","pages":"352-363","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/RavikumarWL14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/ravikumarke.pdf","url":"https://dblp.org/rec/conf/psb/RavikumarWL14"},
+"url":"URL#4716598"
+},
+{
+"@score":"1",
+"@id":"4716599",
+"info":{"authors":{"author":[{"@pid":"79/3967","text":"S. Joshua Swamidass"},{"@pid":"66/6604","text":"Zhiyong Lu"},{"@pid":"46/3910","text":"Pankaj Agarwal"},{"@pid":"96/1665","text":"Atul J. Butte"}]},"title":"Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"110-113","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SwamidassLAB14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/intro-cdr.pdf","url":"https://dblp.org/rec/conf/psb/SwamidassLAB14"},
+"url":"URL#4716599"
+},
+{
+"@score":"1",
+"@id":"4716600",
+"info":{"authors":{"author":[{"@pid":"70/8047","text":"Anna L. Tyler"},{"@pid":"63/8090","text":"Dana C. Crawford"},{"@pid":"24/276","text":"Sarah A. Pendergrass"}]},"title":"Session introduction.","venue":"Pacific Symposium on Biocomputing","pages":"183-187","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/TylerCP14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/intro-pleiotropy.pdf","url":"https://dblp.org/rec/conf/psb/TylerCP14"},
+"url":"URL#4716600"
+},
+{
+"@score":"1",
+"@id":"4716601",
+"info":{"authors":{"author":[{"@pid":"50/1441","text":"Shankar Vembu"},{"@pid":"m/QuaidMorris","text":"Quaid Morris"}]},"title":"An Efficient Algorithm to Integrate Network and Attribute Data for Gene Function Prediction.","venue":"Pacific Symposium on Biocomputing","pages":"388-399","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/VembuM14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/vembu.pdf","url":"https://dblp.org/rec/conf/psb/VembuM14"},
+"url":"URL#4716601"
+},
+{
+"@score":"1",
+"@id":"4716602",
+"info":{"authors":{"author":[{"@pid":"27/6377","text":"Emmanuel R. Yera"},{"@pid":"08/10821","text":"Ann E. Cleves"},{"@pid":"95/5841","text":"Ajay N. Jain"}]},"title":"Prediction of Off-Target Drug Effects Through Data Fusion.","venue":"Pacific Symposium on Biocomputing","pages":"160-171","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/YeraCJ14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/yera.pdf","url":"https://dblp.org/rec/conf/psb/YeraCJ14"},
+"url":"URL#4716602"
+},
+{
+"@score":"1",
+"@id":"4716603",
+"info":{"authors":{"author":[{"@pid":"34/8938","text":"Shandian Zhe"},{"@pid":"68/1538","text":"Zenglin Xu"},{"@pid":"57/2210","text":"Yuan Qi 0001"},{"@pid":"50/2599","text":"Peng Yu"}]},"title":"Joint Association Discovery and Diagnosis of Alzheimer&apos;s Disease by Supervised Heterogeneous Multiview Learning.","venue":"Pacific Symposium on Biocomputing","pages":"300-311","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ZheXQY14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/zhe.pdf","url":"https://dblp.org/rec/conf/psb/ZheXQY14"},
+"url":"URL#4716603"
+},
+{
+"@score":"1",
+"@id":"4716604",
+"info":{"authors":{"author":[{"@pid":"02/562-3","text":"Qian Zhu 0003"},{"@pid":"03/4748","text":"Cui Tao"},{"@pid":"132/3554","text":"Feichen Shen"},{"@pid":"13/5552","text":"Christopher G. Chute"}]},"title":"Exploring the Pharmacogenomics Knowledge Base (PharmGKB) for Repositioning Breast Cancer Drugs by Leveraging Web Ontology Language (OWL) and Cheminformatics Approaches.","venue":"Pacific Symposium on Biocomputing","pages":"172-182","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ZhuTSC14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/zhu.pdf","url":"https://dblp.org/rec/conf/psb/ZhuTSC14"},
+"url":"URL#4716604"
+},
+{
+"@score":"1",
+"@id":"4716605",
+"info":{"authors":{"author":[{"@pid":"53/11277","text":"Marinka Zitnik"},{"@pid":"z/BlazZupan","text":"Blaz Zupan"}]},"title":"Matrix Factorization-Based Data Fusion for Gene Function Prediction in Baker&apos;s Yeast and Slime Mold.","venue":"Pacific Symposium on Biocomputing","pages":"400-411","year":"2014","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ZitnikZ14","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/zitnik.pdf","url":"https://dblp.org/rec/conf/psb/ZitnikZ14"},
+"url":"URL#4716605"
+},
+{
+"@score":"1",
+"@id":"4749819",
+"info":{"authors":{"author":[{"@pid":"47/2081","text":"Russ B. Altman"},{"@pid":"53/20","text":"A. Keith Dunker"},{"@pid":"h/LawrenceHunter","text":"Lawrence Hunter"},{"@pid":"k/TeriEKlein","text":"Teri E. Klein"},{"@pid":"65/714","text":"Marylyn D. Ritchie"}]},"title":"Biocomputing 2014: Proceedings of the Pacific Symposium, Kohala Coast, Hawaii, USA, January 3-7, 2014","venue":"Pacific Symposium on Biocomputing","year":"2014","type":"Editorship","key":"conf/psb/2014","ee":"http://psb.stanford.edu/psb-online/proceedings/psb14/","url":"https://dblp.org/rec/conf/psb/2014"},
+"url":"URL#4749819"
+}
+]
+}
+}
+}

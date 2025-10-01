@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+global convergence,zero loss,-0.0632,1.4582
+initialization strategies,zero loss,-0.2777,1.5986
+global convergence,initialization strategies,-0.1689,1.529
+global convergence,lazy-training,-0.1219,1.4979
+initialization strategies,lazy-training,-0.3509,1.6437
+initialization strategies,network width,-0.4354,1.6943
+initialization strategies,shallow neural networks,-0.2164,1.5598
+lazy-training,network width,0.2169,1.2515
+network width,shallow neural networks,0.2435,1.2301
+lazy-training,shallow neural networks,-0.1886,1.5418
+Polyak-Lojasiewicz condition,initialization strategies,-0.0772,1.4678
+initialization strategies,random matrix theory,0.0111,1.4063
+Polyak-Lojasiewicz condition,network width,-0.1766,1.534
+network width,random matrix theory,-0.1733,1.5319
+Polyak-Lojasiewicz condition,lazy-training,-0.2954,1.6096
+lazy-training,random matrix theory,-0.3163,1.6225
+Polyak-Lojasiewicz condition,shallow neural networks,-0.0831,1.4718
+random matrix theory,shallow neural networks,0.0395,1.386
+Polyak-Lojasiewicz condition,random matrix theory,0.0271,1.3949

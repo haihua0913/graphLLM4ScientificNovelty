@@ -1,0 +1,37 @@
+node1,node2,similarity,distance
+candidate detections,classification score,0.0255,1.3961
+Iou-Aware Classification Score,classification score,0.9209,0.3977
+Iou-Aware Classification Score,candidate detections,0.0516,1.3773
+Varifocal Loss,classification score,0.1008,1.341
+classification score,star-shaped bounding box,-0.0332,1.4375
+bounding box refinement,classification score,-0.0699,1.4628
+Varifocal Loss,candidate detections,0.7462,0.7125
+candidate detections,star-shaped bounding box,0.9313,0.3707
+bounding box refinement,candidate detections,0.9714,0.2392
+Iou-Aware Classification Score,Varifocal Loss,-0.0226,1.4301
+Iou-Aware Classification Score,star-shaped bounding box,-0.1026,1.485
+Iou-Aware Classification Score,bounding box refinement,-0.1102,1.4901
+Varifocal Loss,star-shaped bounding box,0.8596,0.53
+Varifocal Loss,bounding box refinement,0.7391,0.7224
+bounding box refinement,star-shaped bounding box,0.9589,0.2867
+FCOS+ATSS,candidate detections,-0.2526,1.5828
+IoU-aware dense object detector,candidate detections,-0.1226,1.4984
+VFNet,candidate detections,0.0521,1.3769
+FCOS+ATSS,Varifocal Loss,-0.6485,1.8158
+IoU-aware dense object detector,Varifocal Loss,0.1342,1.3159
+VFNet,Varifocal Loss,-0.3438,1.6394
+FCOS+ATSS,star-shaped bounding box,-0.5113,1.7386
+IoU-aware dense object detector,star-shaped bounding box,0.0563,1.3738
+VFNet,star-shaped bounding box,-0.2089,1.5549
+FCOS+ATSS,bounding box refinement,-0.3488,1.6425
+IoU-aware dense object detector,bounding box refinement,-0.1419,1.5112
+VFNet,bounding box refinement,-0.0171,1.4262
+FCOS+ATSS,IoU-aware dense object detector,-0.1554,1.5201
+FCOS+ATSS,VFNet,0.8602,0.5287
+IoU-aware dense object detector,VFNet,-0.1331,1.5054
+MS COCO,Varifocal Loss,0.1726,1.2864
+MS COCO,star-shaped bounding box,-0.0293,1.4348
+MS COCO,bounding box refinement,-0.0636,1.4585
+FCOS+ATSS,MS COCO,-0.0179,1.4268
+IoU-aware dense object detector,MS COCO,-0.2671,1.5919
+MS COCO,VFNet,0.0256,1.396

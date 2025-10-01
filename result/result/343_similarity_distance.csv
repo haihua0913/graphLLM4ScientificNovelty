@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+static datasets,supervised learning,0.0986,1.3427
+crowdsourced data,static datasets,-0.1308,1.5038
+crowdsourced data,supervised learning,-0.2759,1.5974
+crowdsourced data,real-world use cases,-0.0867,1.4742
+real-world use cases,static datasets,0.72,0.7483
+real-world use cases,supervised learning,0.1549,1.3001
+crowdsourced data,machine learning systems,0.1045,1.3383
+machine learning systems,real-world use cases,-0.308,1.6174
+crowdsourced data,role-playing game,-0.2593,1.587
+crowdsourced data,human players,0.142,1.31
+crowdsourced data,learning agents,-0.0723,1.4644
+crowdsourced data,open-domain fantasy world,-0.1427,1.5118
+real-world use cases,role-playing game,-0.1594,1.5228
+human players,real-world use cases,0.3157,1.1698
+learning agents,real-world use cases,0.4488,1.05
+open-domain fantasy world,real-world use cases,-0.1733,1.5319
+machine learning systems,role-playing game,-0.3816,1.6623
+human players,machine learning systems,0.0028,1.4122
+learning agents,machine learning systems,0.0316,1.3917
+machine learning systems,open-domain fantasy world,-0.1186,1.4957
+human players,role-playing game,-0.2295,1.5681
+learning agents,role-playing game,-0.1573,1.5214
+open-domain fantasy world,role-playing game,0.8875,0.4744
+human players,learning agents,0.9587,0.2873
+human players,open-domain fantasy world,-0.409,1.6787
+learning agents,open-domain fantasy world,-0.3151,1.6218

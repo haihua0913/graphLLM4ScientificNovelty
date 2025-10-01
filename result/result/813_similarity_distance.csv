@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+Transformer-based detection,segmentation methods,0.9273,0.3813
+Transformer-based detection,detection queries,-0.1515,1.5176
+Transformer-based detection,convex combinations,0.9788,0.2061
+detection queries,segmentation methods,0.1454,1.3074
+convex combinations,segmentation methods,0.9154,0.4112
+convex combinations,detection queries,-0.1217,1.4978
+Transformer-based detection,dynamic coefficients,-0.0577,1.4545
+Transformer-based detection,high-level semantics,0.9723,0.2353
+dynamic coefficients,segmentation methods,0.2426,1.2308
+high-level semantics,segmentation methods,0.9341,0.363
+detection queries,dynamic coefficients,0.9923,0.1238
+detection queries,high-level semantics,-0.1364,1.5076
+convex combinations,dynamic coefficients,-0.0285,1.4342
+convex combinations,high-level semantics,0.9743,0.2269
+dynamic coefficients,high-level semantics,-0.0321,1.4367
+convex combinations,modulated queries,0.9629,0.2723
+convex combinations,object locations,0.9901,0.1408
+dynamic coefficients,modulated queries,-0.0254,1.432
+dynamic coefficients,object locations,0.0026,1.4123
+high-level semantics,modulated queries,0.9742,0.2271
+high-level semantics,object locations,0.9887,0.1503
+modulated queries,object locations,0.9845,0.1759
+DETR-based models,dynamic coefficients,0.0684,1.365
+DETR-based models,high-level semantics,0.9606,0.2806
+DETR-based models,modulated queries,0.9638,0.2691
+DETR-based models,object locations,0.9772,0.2137

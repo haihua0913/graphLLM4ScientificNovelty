@@ -1,0 +1,14 @@
+node1,node2,similarity,distance
+maximum-likelihood-estimation,model-misspecification,0.9783,0.2083
+generative model,maximum-likelihood-estimation,0.9763,0.2179
+generative model,model-misspecification,0.9406,0.3446
+maximum-likelihood-estimation,stochastic policy,-0.0197,1.4281
+model-misspecification,stochastic policy,-0.0719,1.4642
+generative model,stochastic policy,0.1411,1.3106
+model-misspecification,recurrent neural network,-0.0733,1.4651
+generative model,recurrent neural network,-0.1876,1.5412
+recurrent neural network,stochastic policy,0.0838,1.3537
+inverse reinforcement learning,stochastic policy,-0.0119,1.4226
+inverse reinforcement learning,recurrent neural network,0.0028,1.4122
+policy gradient algorithm,recurrent neural network,-0.4153,1.6824
+inverse reinforcement learning,policy gradient algorithm,0.0767,1.3589

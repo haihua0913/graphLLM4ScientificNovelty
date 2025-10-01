@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+multi-task method,personalized attribute annotations,-0.0501,1.4492
+attribute preference learning,multi-task method,0.0373,1.3876
+multi-level task parameter decomposition,multi-task method,0.2656,1.2119
+multi-task method,popular opinion,0.0354,1.389
+multi-task method,personalized choices,0.1465,1.3065
+attribute preference learning,personalized attribute annotations,0.8491,0.5493
+multi-level task parameter decomposition,personalized attribute annotations,0.1839,1.2775
+personalized attribute annotations,popular opinion,-0.1121,1.4914
+personalized attribute annotations,personalized choices,0.8293,0.5843
+attribute preference learning,multi-level task parameter decomposition,-0.1027,1.485
+attribute preference learning,popular opinion,-0.5301,1.7494
+attribute preference learning,personalized choices,0.9555,0.2982
+multi-level task parameter decomposition,popular opinion,0.5034,0.9966
+multi-level task parameter decomposition,personalized choices,0.1285,1.3203
+personalized choices,popular opinion,-0.4768,1.7186
+attribute preference learning,loss function,-0.0522,1.4506
+loss function,multi-level task parameter decomposition,0.9705,0.243
+loss function,popular opinion,0.4617,1.0376
+loss function,personalized choices,0.1838,1.2776
+loss function,non-convex subproblem,0.4548,1.0442
+generalization bound,non-convex subproblem,0.6412,0.8471

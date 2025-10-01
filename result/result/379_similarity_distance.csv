@@ -1,0 +1,13 @@
+node1,node2,similarity,distance
+ancestral sampling,probabilistic models,0.0097,1.4073
+probabilistic models,top-k sampling,-0.0803,1.4699
+ancestral sampling,top-k sampling,-0.175,1.533
+probabilistic models,sampling adapters,-0.2121,1.557
+ancestral sampling,sampling adapters,0.0974,1.3436
+sampling adapters,top-k sampling,-0.3643,1.6518
+precision,sampling adapters,0.0175,1.4018
+distribution quality,sampling adapters,0.0168,1.4023
+distribution quality,precision,-0.1596,1.5229
+Mauve,sampling adapters,0.1299,1.3192
+Mauve,precision,-0.1537,1.519
+Mauve,distribution quality,-0.0411,1.443

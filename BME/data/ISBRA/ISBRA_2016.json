@@ -1,0 +1,182 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/isbra/isbra2016.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"78.28"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"25",
+"@dc":"25",
+"@oc":"25",
+"@id":"48904327",
+"text":":facetid:toc:db/conf/isbra/isbra2016.bht"
+}
+},
+"hits":{
+"@total":"25",
+"@computed":"25",
+"@sent":"25",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4079130",
+"info":{"authors":{"author":[{"@pid":"117/9492","text":"Sergey Aganezov Jr."},{"@pid":"22/222","text":"Max A. Alekseyev"}]},"title":"Multi-genome Scaffold Co-assembly Based on the Analysis of Gene Orders and Genomic Repeats.","venue":"ISBRA","pages":"237-249","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/AganezovA16","doi":"10.1007/978-3-319-38782-6_20","ee":"https://doi.org/10.1007/978-3-319-38782-6_20","url":"https://dblp.org/rec/conf/isbra/AganezovA16"},
+"url":"URL#4079130"
+},
+{
+"@score":"1",
+"@id":"4079131",
+"info":{"authors":{"author":[{"@pid":"141/1770","text":"Ivan V. Anishchenko"},{"@pid":"174/8606","text":"Varsha D. Badal"},{"@pid":"180/3914","text":"Taras Dauzhenka"},{"@pid":"177/8635","text":"Madhurima Das"},{"@pid":"t/AlexanderVTuzikov","text":"Alexander V. Tuzikov"},{"@pid":"67/5229","text":"Petras J. Kundrotas"},{"@pid":"69/5914","text":"Ilya A. Vakser"}]},"title":"Genome-Wide Structural Modeling of Protein-Protein Interactions.","venue":"ISBRA","pages":"95-105","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/AnishchenkoBDDT16","doi":"10.1007/978-3-319-38782-6_8","ee":"https://doi.org/10.1007/978-3-319-38782-6_8","url":"https://dblp.org/rec/conf/isbra/AnishchenkoBDDT16"},
+"url":"URL#4079131"
+},
+{
+"@score":"1",
+"@id":"4079132",
+"info":{"authors":{"author":[{"@pid":"80/4509","text":"Paola Bonizzoni"},{"@pid":"03/5602","text":"Gianluca Della Vedova"},{"@pid":"85/5143","text":"Yuri Pirola"},{"@pid":"146/0686","text":"Marco Previtali"},{"@pid":"79/436","text":"Raffaella Rizzi"}]},"title":"FSG: Fast String Graph Construction for De Novo Assembly of Reads Data.","venue":"ISBRA","pages":"27-39","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/BonizzoniVPPR16","doi":"10.1007/978-3-319-38782-6_3","ee":"https://doi.org/10.1007/978-3-319-38782-6_3","url":"https://dblp.org/rec/conf/isbra/BonizzoniVPPR16"},
+"url":"URL#4079132"
+},
+{
+"@score":"1",
+"@id":"4079133",
+"info":{"authors":{"author":[{"@pid":"180/3884","text":"V. P. Egorova"},{"@pid":"263/6903","text":"Halina V. Grushevskaya"},{"@pid":"180/3893","text":"N. G. Krylova"},{"@pid":"180/3907","text":"I. V. Lipnevich"},{"@pid":"180/3899","text":"T. I. Orekhovskaja"},{"@pid":"263/7247","text":"Boris G. Shulitski"},{"@pid":"180/3913","text":"V. I. Krot"}]},"title":"High-Performance Sensing of DNA Hybridization on Surface of Self-organized MWCNT-Arrays Decorated by Organometallic Complexes.","venue":"ISBRA","pages":"52-66","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/EgorovaGKLOSK16","doi":"10.1007/978-3-319-38782-6_5","ee":"https://doi.org/10.1007/978-3-319-38782-6_5","url":"https://dblp.org/rec/conf/isbra/EgorovaGKLOSK16"},
+"url":"URL#4079133"
+},
+{
+"@score":"1",
+"@id":"4079134",
+"info":{"authors":{"author":[{"@pid":"160/1294","text":"Ryan Eshleman"},{"@pid":"74/5590","text":"Rahul Singh"}]},"title":"Progression Reconstruction from Unsynchronized Biological Data using Cluster Spanning Trees.","venue":"ISBRA","pages":"136-147","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/EshlemanS16","doi":"10.1007/978-3-319-38782-6_12","ee":"https://doi.org/10.1007/978-3-319-38782-6_12","url":"https://dblp.org/rec/conf/isbra/EshlemanS16"},
+"url":"URL#4079134"
+},
+{
+"@score":"1",
+"@id":"4079135",
+"info":{"authors":{"author":[{"@pid":"121/1180","text":"Emily Flynn"},{"@pid":"s/IleanaStreinu","text":"Ileana Streinu"}]},"title":"Consistent Visualization of Multiple Rigid Domain Decompositions of Proteins.","venue":"ISBRA","pages":"151-162","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/FlynnS16","doi":"10.1007/978-3-319-38782-6_13","ee":"https://doi.org/10.1007/978-3-319-38782-6_13","url":"https://dblp.org/rec/conf/isbra/FlynnS16"},
+"url":"URL#4079135"
+},
+{
+"@score":"1",
+"@id":"4079136",
+"info":{"authors":{"author":[{"@pid":"83/2038-1","text":"Pawel Górecki 0001"},{"@pid":"147/2099","text":"Jaroslaw Paszek"},{"@pid":"60/3283-2","text":"Agnieszka Mykowiecka 0002"}]},"title":"Mean Values of Gene Duplication and Loss Cost Functions.","venue":"ISBRA","pages":"189-199","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/GoreckiPM16","doi":"10.1007/978-3-319-38782-6_16","ee":"https://doi.org/10.1007/978-3-319-38782-6_16","url":"https://dblp.org/rec/conf/isbra/GoreckiPM16"},
+"url":"URL#4079136"
+},
+{
+"@score":"1",
+"@id":"4079137",
+"info":{"authors":{"author":{"@pid":"33/2647","text":"Bonnie Kirkpatrick"}},"title":"Haplotype Inference for Pedigrees with Few Recombinations.","venue":"ISBRA","pages":"269-283","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/Kirkpatrick16","doi":"10.1007/978-3-319-38782-6_23","ee":"https://doi.org/10.1007/978-3-319-38782-6_23","url":"https://dblp.org/rec/conf/isbra/Kirkpatrick16"},
+"url":"URL#4079137"
+},
+{
+"@score":"1",
+"@id":"4079138",
+"info":{"authors":{"author":[{"@pid":"155/8039","text":"Marc Legeay"},{"@pid":"30/23","text":"Béatrice Duval"},{"@pid":"58/2878","text":"Jean-Pierre Renou"}]},"title":"Differential Functional Analysis and Change Motifs in Gene Networks to Explore the Role of Anti-sense Transcription.","venue":"ISBRA","pages":"117-126","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/LegeayDR16","doi":"10.1007/978-3-319-38782-6_10","ee":"https://doi.org/10.1007/978-3-319-38782-6_10","url":"https://dblp.org/rec/conf/isbra/LegeayDR16"},
+"url":"URL#4079138"
+},
+{
+"@score":"1",
+"@id":"4079139",
+"info":{"authors":{"author":[{"@pid":"243/3662","text":"Letu Qingge"},{"@pid":"81/792","text":"Xiaowen Liu"},{"@pid":"30/289","text":"Farong Zhong"},{"@pid":"z/BinhaiZhu","text":"Binhai Zhu"}]},"title":"Filling a Protein Scaffold with a Reference.","venue":"ISBRA","pages":"175-186","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/LetuLZZ16","doi":"10.1007/978-3-319-38782-6_15","ee":"https://doi.org/10.1007/978-3-319-38782-6_15","url":"https://dblp.org/rec/conf/isbra/LetuLZZ16"},
+"url":"URL#4079139"
+},
+{
+"@score":"1",
+"@id":"4079140",
+"info":{"authors":{"author":[{"@pid":"82/0-7","text":"Min Li 0007"},{"@pid":"160/6801","text":"Xiaopei Chen"},{"@pid":"06/10121","text":"Peng Ni"},{"@pid":"75/2669-1","text":"Jianxin Wang 0001"},{"@pid":"46/7028-1","text":"Yi Pan 0001"}]},"title":"Identifying Essential Proteins by Purifying Protein Interaction Networks.","venue":"ISBRA","pages":"106-116","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/LiCNWP16","doi":"10.1007/978-3-319-38782-6_9","ee":"https://doi.org/10.1007/978-3-319-38782-6_9","url":"https://dblp.org/rec/conf/isbra/LiCNWP16"},
+"url":"URL#4079140"
+},
+{
+"@score":"1",
+"@id":"4079141",
+"info":{"authors":{"author":[{"@pid":"120/7654","text":"Menglu Li"},{"@pid":"180/3896","text":"Angel C. Y. Mak"},{"@pid":"180/3911","text":"Ernest T. Lam"},{"@pid":"180/3886","text":"Pui-Yan Kwok"},{"@pid":"79/5620","text":"Ming Xiao"},{"@pid":"86/2270","text":"Kevin Y. Yip"},{"@pid":"74/9077","text":"Ting-Fung Chan"},{"@pid":"y/SiuMingYiu","text":"Siu-Ming Yiu"}]},"title":"Towards a More Accurate Error Model for BioNano Optical Maps.","venue":"ISBRA","pages":"67-79","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/LiMLKXYCY16","doi":"10.1007/978-3-319-38782-6_6","ee":"https://doi.org/10.1007/978-3-319-38782-6_6","url":"https://dblp.org/rec/conf/isbra/LiMLKXYCY16"},
+"url":"URL#4079141"
+},
+{
+"@score":"1",
+"@id":"4079142",
+"info":{"authors":{"author":[{"@pid":"149/0888","text":"Thiago Lipinski-Paes"},{"@pid":"180/3908","text":"Michele dos Santos da Silva Tanus"},{"@pid":"180/3910","text":"José Fernando Ruggiero Bachega"},{"@pid":"79/2511","text":"Osmar Norberto de Souza"}]},"title":"A Multiagent Ab Initio Protein Structure Prediction Tool for Novices and Experts.","venue":"ISBRA","pages":"163-174","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/Lipinski-PaesTB16","doi":"10.1007/978-3-319-38782-6_14","ee":"https://doi.org/10.1007/978-3-319-38782-6_14","url":"https://dblp.org/rec/conf/isbra/Lipinski-PaesTB16"},
+"url":"URL#4079142"
+},
+{
+"@score":"1",
+"@id":"4079143",
+"info":{"authors":{"author":[{"@pid":"152/8645","text":"Nina Luhmann"},{"@pid":"42/2338","text":"Annelyse Thévenin"},{"@pid":"42/1216","text":"Aïda Ouangraoua"},{"@pid":"90/7214","text":"Roland Wittler"},{"@pid":"52/3751","text":"Cédric Chauve"}]},"title":"The SCJ Small Parsimony Problem for Weighted Gene Adjacencies.","venue":"ISBRA","pages":"200-210","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/LuhmannTOWC16","doi":"10.1007/978-3-319-38782-6_17","ee":"https://doi.org/10.1007/978-3-319-38782-6_17","url":"https://dblp.org/rec/conf/isbra/LuhmannTOWC16"},
+"url":"URL#4079143"
+},
+{
+"@score":"1",
+"@id":"4079144",
+"info":{"authors":{"author":[{"@pid":"99/8436","text":"Serghei Mangul"},{"@pid":"180/3900","text":"Harry (Taegyun) Yang"},{"@pid":"09/6555","text":"Farhad Hormozdiari"},{"@pid":"180/3906","text":"Elizabeth Tseng"},{"@pid":"z/AZelikovsky","text":"Alex Zelikovsky"},{"@pid":"e/EEskin","text":"Eleazar Eskin"}]},"title":"HapIso: An Accurate Method for the Haplotype-Specific Isoforms Reconstruction from Long Single-Molecule Reads.","venue":"ISBRA","pages":"80-92","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/MangulYHTZE16","doi":"10.1007/978-3-319-38782-6_7","ee":"https://doi.org/10.1007/978-3-319-38782-6_7","url":"https://dblp.org/rec/conf/isbra/MangulYHTZE16"},
+"url":"URL#4079144"
+},
+{
+"@score":"1",
+"@id":"4079145",
+"info":{"authors":{"author":{"@pid":"02/10107","text":"Michal Marczyk"}},"title":"Improved Detection of 2D Gel Electrophoresis Spots by Using Gaussian Mixture Model.","venue":"ISBRA","pages":"284-294","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/Marczyk16","doi":"10.1007/978-3-319-38782-6_24","ee":"https://doi.org/10.1007/978-3-319-38782-6_24","url":"https://dblp.org/rec/conf/isbra/Marczyk16"},
+"url":"URL#4079145"
+},
+{
+"@score":"1",
+"@id":"4079146",
+"info":{"authors":{"author":[{"@pid":"180/3876","text":"Alexey Markin"},{"@pid":"96/3333","text":"Oliver Eulenstein"}]},"title":"Path-Difference Median Trees.","venue":"ISBRA","pages":"211-223","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/MarkinE16","doi":"10.1007/978-3-319-38782-6_18","ee":"https://doi.org/10.1007/978-3-319-38782-6_18","url":"https://dblp.org/rec/conf/isbra/MarkinE16"},
+"url":"URL#4079146"
+},
+{
+"@score":"1",
+"@id":"4079147",
+"info":{"authors":{"author":[{"@pid":"180/3883","text":"Takuya Moriyama"},{"@pid":"85/7969","text":"Yuichi Shiraishi"},{"@pid":"156/9669","text":"Kenichi Chiba"},{"@pid":"92/7043","text":"Rui Yamaguchi"},{"@pid":"91/5869","text":"Seiya Imoto"},{"@pid":"73/2912","text":"Satoru Miyano"}]},"title":"OVarCall: Bayesian Mutation Calling Method Utilizing Overlapping Paired-End Reads.","venue":"ISBRA","pages":"40-51","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/MoriyamaSCYIM16","doi":"10.1007/978-3-319-38782-6_4","ee":"https://doi.org/10.1007/978-3-319-38782-6_4","url":"https://dblp.org/rec/conf/isbra/MoriyamaSCYIM16"},
+"url":"URL#4079147"
+},
+{
+"@score":"1",
+"@id":"4079148",
+"info":{"authors":{"author":[{"@pid":"16/5560-4","text":"Wei Peng 0004"},{"@pid":"53/9999","text":"Wei Lan"},{"@pid":"81/9596-1","text":"Zeng Yu 0001"},{"@pid":"75/2669-1","text":"Jianxin Wang 0001"},{"@pid":"46/7028-1","text":"Yi Pan 0001"}]},"title":"Predicting MicroRNA-Disease Associations by Random Walking on Multiple Networks.","venue":"ISBRA","pages":"127-135","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/PengLYWP16","doi":"10.1007/978-3-319-38782-6_11","ee":"https://doi.org/10.1007/978-3-319-38782-6_11","url":"https://dblp.org/rec/conf/isbra/PengLYWP16"},
+"url":"URL#4079148"
+},
+{
+"@score":"1",
+"@id":"4079149",
+"info":{"authors":{"author":[{"@pid":"180/3917","text":"Roman Sergeev"},{"@pid":"180/3903","text":"Ivan Kavaliou"},{"@pid":"47/4531","text":"Andrei E. Gabrielian"},{"@pid":"175/2054","text":"Alex Rosenthal"},{"@pid":"t/AlexanderVTuzikov","text":"Alexander Tuzikov"}]},"title":"Methods for Genome-Wide Analysis of MDR and XDR Tuberculosis from Belarus.","venue":"ISBRA","pages":"258-268","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/SergeevKGRT16","doi":"10.1007/978-3-319-38782-6_22","ee":"https://doi.org/10.1007/978-3-319-38782-6_22","url":"https://dblp.org/rec/conf/isbra/SergeevKGRT16"},
+"url":"URL#4079149"
+},
+{
+"@score":"1",
+"@id":"4079150",
+"info":{"authors":{"author":[{"@pid":"99/7237","text":"Sharma V. Thankachan"},{"@pid":"118/5415","text":"Sriram P. Chockalingam"},{"@pid":"a/SAluru","text":"Srinivas Aluru"}]},"title":"An Efficient Algorithm for Finding All Pairs k-Mismatch Maximal Common Substrings.","venue":"ISBRA","pages":"3-14","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/ThankachanCA16","doi":"10.1007/978-3-319-38782-6_1","ee":"https://doi.org/10.1007/978-3-319-38782-6_1","url":"https://dblp.org/rec/conf/isbra/ThankachanCA16"},
+"url":"URL#4079150"
+},
+{
+"@score":"1",
+"@id":"4079151",
+"info":{"authors":{"author":[{"@pid":"49/3800-4","text":"Lu Wang 0004"},{"@pid":"15/6233","text":"Dongxiao Zhu"},{"@pid":"87/660-52","text":"Yan Li 0052"},{"@pid":"22/2379-1","text":"Ming Dong 0001"}]},"title":"Poisson-Markov Mixture Model and Parallel Algorithm for Binning Massive and Heterogenous DNA Sequencing Reads.","venue":"ISBRA","pages":"15-26","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/WangZLD16","doi":"10.1007/978-3-319-38782-6_2","ee":"https://doi.org/10.1007/978-3-319-38782-6_2","url":"https://dblp.org/rec/conf/isbra/WangZLD16"},
+"url":"URL#4079151"
+},
+{
+"@score":"1",
+"@id":"4079152",
+"info":{"authors":{"author":[{"@pid":"89/10527","text":"Min Ye"},{"@pid":"180/3912","text":"Gabriela C. Racz"},{"@pid":"180/3880","text":"Qijia Jiang"},{"@pid":"47/3693-2","text":"Xiuwei Zhang 0002"},{"@pid":"18/242","text":"Bernard M. E. Moret"}]},"title":"NEMo: An Evolutionary Model with Modularity for PPI Networks.","venue":"ISBRA","pages":"224-236","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/YeRJZM16","doi":"10.1007/978-3-319-38782-6_19","ee":"https://doi.org/10.1007/978-3-319-38782-6_19","url":"https://dblp.org/rec/conf/isbra/YeRJZM16"},
+"url":"URL#4079152"
+},
+{
+"@score":"1",
+"@id":"4079153",
+"info":{"authors":{"author":[{"@pid":"180/3882","text":"Andrey V. Zaika"},{"@pid":"180/3920","text":"Iakov I. Davydov"},{"@pid":"11/6691","text":"Mikhail S. Gelfand"}]},"title":"Selectoscope: A Modern Web-App for Positive Selection Analysis of Genomic Data.","venue":"ISBRA","pages":"253-257","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/ZaikaDG16","doi":"10.1007/978-3-319-38782-6_21","ee":"https://doi.org/10.1007/978-3-319-38782-6_21","url":"https://dblp.org/rec/conf/isbra/ZaikaDG16"},
+"url":"URL#4079153"
+},
+{
+"@score":"1",
+"@id":"4143640",
+"info":{"authors":{"author":[{"@pid":"12/2832","text":"Anu G. Bourgeois"},{"@pid":"95/3105","text":"Pavel Skums"},{"@pid":"08/386","text":"Xiang Wan"},{"@pid":"z/AZelikovsky","text":"Alex Zelikovsky"}]},"title":"Bioinformatics Research and Applications - 12th International Symposium, ISBRA 2016, Minsk, Belarus, June 5-8, 2016, Proceedings","venue":["ISBRA","Lecture Notes in Computer Science"],"volume":"9683","publisher":"Springer","year":"2016","type":"Editorship","key":"conf/isbra/2016","doi":"10.1007/978-3-319-38782-6","ee":"https://doi.org/10.1007/978-3-319-38782-6","url":"https://dblp.org/rec/conf/isbra/2016"},
+"url":"URL#4143640"
+}
+]
+}
+}
+}

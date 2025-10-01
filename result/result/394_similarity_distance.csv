@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+3D articulated human bodies,tracking,-0.0416,1.4433
+stereo images,tracking,0.057,1.3734
+projection-based method,tracking,0.909,0.4267
+3D articulated human bodies,stereo images,-0.0684,1.4618
+3D articulated human bodies,projection-based method,-0.1138,1.4925
+projection-based method,stereo images,-0.0843,1.4726
+articulated motion space,tracking,0.0263,1.3955
+3D articulated human bodies,articulated motion space,0.9507,0.3139
+articulated motion space,stereo images,-0.1879,1.5413
+articulated motion space,projection-based method,-0.0066,1.4188
+linear space,projection-based method,0.5763,0.9206
+body pose,projection-based method,0.4443,1.0542
+articulated motion space,linear space,0.3012,1.1822
+articulated motion space,body pose,0.54,0.9591
+body pose,linear space,0.8875,0.4743
+articulated motion space,joint angle bounds,-0.1747,1.5327
+articulated motion space,maximum speed,0.199,1.2657
+body pose,joint angle bounds,0.0757,1.3596
+body pose,maximum speed,-0.4369,1.6952
+joint angle bounds,maximum speed,-0.4187,1.6844
+body pose,tracking,0.2819,1.1984
+joint angle bounds,tracking,0.1666,1.2911
+maximum speed,tracking,-0.0116,1.4224

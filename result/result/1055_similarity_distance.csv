@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+design matrix,linear regression,-0.0264,1.4327
+unbiased estimate,volume sampling,0.6073,0.8863
+determinantal rejection sampling,volume sampling,-0.194,1.5453
+determinantal point processes,volume sampling,-0.0883,1.4753
+determinantal rejection sampling,unbiased estimate,-0.2463,1.5788
+determinantal point processes,unbiased estimate,-0.0361,1.4395
+determinantal point processes,determinantal rejection sampling,0.0024,1.4125
+rescaled volume sampling,volume sampling,-0.2526,1.5828
+tail bounds,volume sampling,-0.3177,1.6234
+combinatorics,volume sampling,0.5648,0.9329
+determinantal rejection sampling,rescaled volume sampling,0.022,1.3986
+determinantal rejection sampling,tail bounds,-0.0594,1.4556
+combinatorics,determinantal rejection sampling,-0.1426,1.5117
+determinantal point processes,rescaled volume sampling,-0.1635,1.5255
+determinantal point processes,tail bounds,-0.2302,1.5686
+combinatorics,determinantal point processes,-0.3828,1.663
+rescaled volume sampling,tail bounds,-0.5156,1.741
+combinatorics,rescaled volume sampling,-0.1111,1.4907
+combinatorics,tail bounds,-0.1531,1.5186

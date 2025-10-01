@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+motion,stereo,0.1291,1.3198
+3D reconstruction,motion,-0.3751,1.6584
+3D reconstruction,stereo,-0.446,1.7006
+3D reconstruction,uncertainty,-0.4222,1.6865
+3D position,3D reconstruction,0.029,1.3936
+3D reconstruction,vantage points,-0.4584,1.7078
+3D position,uncertainty,0.1944,1.2693
+uncertainty,vantage points,0.3005,1.1828
+3D position,vantage points,-0.0438,1.4449
+uncertainty,viewpoint change,0.4372,1.061
+3D position,viewpoint change,0.4617,1.0376
+vantage points,viewpoint change,0.5682,0.9293
+estimation accuracy,uncertainty,0.9291,0.3765
+3D position,estimation accuracy,0.0102,1.407
+estimation accuracy,vantage points,0.3415,1.1476
+estimation accuracy,viewpoint change,0.2537,1.2217

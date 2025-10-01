@@ -1,0 +1,35 @@
+node1,node2,similarity,distance
+GCCF,Graph-Constrained Coalition Formation,0.1994,1.2654
+COP-GCCF,Graph-Constrained Coalition Formation,0.2081,1.2585
+COP,Graph-Constrained Coalition Formation,-0.1338,1.5058
+COP-GCCF,GCCF,0.9777,0.2113
+COP,GCCF,0.9203,0.3992
+COP,COP-GCCF,0.9213,0.3968
+GPU implementation,Graph-Constrained Coalition Formation,-0.0755,1.4666
+Bucket Elimination,Graph-Constrained Coalition Formation,0.0039,1.4115
+Graph-Constrained Coalition Formation,high constraint tightness,0.1763,1.2835
+GCCF,GPU implementation,0.2719,1.2068
+Bucket Elimination,GCCF,0.9566,0.2947
+GCCF,high constraint tightness,0.4108,1.0856
+COP-GCCF,GPU implementation,0.1189,1.3275
+Bucket Elimination,COP-GCCF,0.9778,0.2109
+COP-GCCF,high constraint tightness,0.2765,1.2029
+COP,GPU implementation,0.1624,1.2943
+Bucket Elimination,COP,0.9722,0.2359
+COP,high constraint tightness,0.1808,1.28
+Bucket Elimination,GPU implementation,0.1086,1.3352
+GPU implementation,high constraint tightness,0.9004,0.4463
+Bucket Elimination,high constraint tightness,0.2168,1.2515
+GCCF,Twitter social graph,0.0567,1.3735
+DyCE,GCCF,0.9913,0.1318
+COP-GCCF,Twitter social graph,-0.0453,1.4459
+COP-GCCF,DyCE,0.9897,0.1433
+COP,Twitter social graph,0.0688,1.3647
+COP,DyCE,0.9435,0.3362
+GPU implementation,Twitter social graph,0.075,1.3601
+DyCE,GPU implementation,0.2077,1.2588
+Bucket Elimination,Twitter social graph,-0.0139,1.424
+Bucket Elimination,DyCE,0.9785,0.2075
+Twitter social graph,high constraint tightness,0.0988,1.3425
+DyCE,high constraint tightness,0.3321,1.1558
+DyCE,Twitter social graph,-0.0041,1.4171

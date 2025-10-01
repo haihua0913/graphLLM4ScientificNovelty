@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+Language models,pretrained,-0.2242,1.5648
+Language models,media biases,0.4235,1.0738
+Language models,fairness,-0.2586,1.5866
+media biases,pretrained,0.0174,1.4019
+fairness,pretrained,0.949,0.3193
+fairness,media biases,0.0372,1.3876
+hate speech,media biases,-0.1608,1.5237
+media biases,misinformation detection,-0.0373,1.4403
+fairness,hate speech,-0.0348,1.4386
+fairness,misinformation detection,-0.2753,1.5971
+hate speech,misinformation detection,-0.2689,1.5931
+pretrained,social biases,0.9419,0.341
+hate speech,pretrained,0.0848,1.353
+misinformation detection,pretrained,-0.269,1.5931
+media biases,social biases,0.1253,1.3226
+fairness,social biases,0.9604,0.2813
+hate speech,social biases,-0.1321,1.5047
+misinformation detection,social biases,-0.0707,1.4633
+NLP research,pretrained,-0.3104,1.6189
+NLP research,media biases,0.9266,0.3831
+NLP research,social biases,-0.2033,1.5513
+NLP research,fairness,-0.2913,1.6071
+NLP research,hate speech,-0.0521,1.4506
+NLP research,misinformation detection,0.1197,1.3269

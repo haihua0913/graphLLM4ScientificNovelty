@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+large-scale optimization,spectral partitioning,0.8829,0.4839
+spectral partitioning,structure from motion,-0.1488,1.5158
+partitioning methods,spectral partitioning,0.5355,0.9639
+large-scale optimization,structure from motion,-0.1697,1.5295
+large-scale optimization,partitioning methods,0.5548,0.9436
+partitioning methods,structure from motion,0.2316,1.2397
+eigenvector,spectral partitioning,0.0592,1.3717
+reprojection error,spectral partitioning,0.0059,1.41
+eigenvector,large-scale optimization,0.2526,1.2226
+large-scale optimization,reprojection error,-0.1,1.4833
+eigenvector,structure from motion,-0.0383,1.4411
+reprojection error,structure from motion,-0.2102,1.5558
+eigenvector,partitioning methods,0.3226,1.164
+partitioning methods,reprojection error,-0.0228,1.4302
+eigenvector,reprojection error,-0.1278,1.5018
+eigenvalues,structure from motion,-0.1493,1.5161
+eigenvalues,partitioning methods,0.5661,0.9315
+eigenvalues,eigenvector,0.0614,1.3701
+eigenvalues,reprojection error,-0.0812,1.4705
+clustering,eigenvector,0.2832,1.1973
+clustering,reprojection error,-0.2642,1.5901
+clustering,eigenvalues,-0.1909,1.5433
+clustering,structure from motion,-0.0083,1.4201
+matrix partitioning algorithms,structure from motion,-0.1566,1.5209
+eigenvalues,matrix partitioning algorithms,-0.2322,1.5698
+clustering,matrix partitioning algorithms,-0.2247,1.565

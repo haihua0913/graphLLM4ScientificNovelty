@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+low-dimensional vector representations,network embedding,-0.0547,1.4524
+network embedding,storage and computation costs,-0.5628,1.7679
+low-dimensional vector representations,storage and computation costs,-0.0833,1.472
+discrete network embedding,network embedding,-0.5841,1.7799
+discrete network embedding,low-dimensional vector representations,-0.2277,1.567
+discrete network embedding,storage and computation costs,0.9453,0.3308
+binary codes,network embedding,-0.1287,1.5025
+binary codes,discrete network embedding,-0.3169,1.6229
+binary codes,storage and computation costs,-0.2342,1.5711
+Hamming similarity,network embedding,-0.0153,1.425
+Hamming similarity,discrete network embedding,-0.3498,1.643
+Hamming similarity,binary codes,0.9434,0.3363
+binary codes,discrete multi-class classifier,0.0025,1.4125
+binary codes,classification,-0.1899,1.5426
+Hamming similarity,discrete multi-class classifier,-0.2471,1.5793
+Hamming similarity,classification,-0.0988,1.4824
+classification,discrete multi-class classifier,-0.2383,1.5737
+discrete multi-class classifier,network embedding,-0.136,1.5073
+classification,network embedding,-0.1268,1.5012
+compactness,network embedding,-0.2929,1.608
+Hamming similarity,compactness,-0.2,1.5492
+compactness,discrete multi-class classifier,-0.1621,1.5246
+classification,compactness,0.0102,1.407

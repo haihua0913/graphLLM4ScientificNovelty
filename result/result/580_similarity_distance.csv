@@ -1,0 +1,38 @@
+node1,node2,similarity,distance
+Deep Neural Decision Forests,classification trees,-0.1621,1.5246
+Deep Neural Decision Forests,representation learning,0.8986,0.4504
+Deep Neural Decision Forests,deep convolutional networks,0.3792,1.1143
+Deep Neural Decision Forests,end-to-end manner,0.0864,1.3518
+Deep Neural Decision Forests,stochastic and differentiable decision tree,0.1265,1.3218
+classification trees,representation learning,-0.0574,1.4542
+classification trees,deep convolutional networks,-0.094,1.4792
+classification trees,end-to-end manner,0.9141,0.4144
+classification trees,stochastic and differentiable decision tree,-0.1455,1.5136
+deep convolutional networks,representation learning,0.2603,1.2163
+end-to-end manner,representation learning,0.1749,1.2846
+representation learning,stochastic and differentiable decision tree,-0.1764,1.5339
+deep convolutional networks,end-to-end manner,0.0255,1.3961
+deep convolutional networks,stochastic and differentiable decision tree,0.0477,1.3801
+end-to-end manner,stochastic and differentiable decision tree,-0.0549,1.4525
+Deep Neural Decision Forests,decision forest,-0.0502,1.4493
+Deep Neural Decision Forests,split and leaf node parameters,-0.16,1.5232
+classification trees,decision forest,0.8554,0.5378
+classification trees,split and leaf node parameters,-0.2801,1.6
+decision forest,representation learning,0.1936,1.2699
+representation learning,split and leaf node parameters,-0.0982,1.482
+decision forest,deep convolutional networks,0.1171,1.3289
+deep convolutional networks,split and leaf node parameters,0.1171,1.3288
+decision forest,end-to-end manner,0.8232,0.5947
+end-to-end manner,split and leaf node parameters,-0.1218,1.4979
+decision forest,stochastic and differentiable decision tree,-0.3969,1.6715
+split and leaf node parameters,stochastic and differentiable decision tree,-0.2641,1.59
+decision forest,split and leaf node parameters,-0.2742,1.5964
+MNIST,representation learning,-0.047,1.447
+ImageNet,representation learning,0.4488,1.05
+MNIST,stochastic and differentiable decision tree,-0.1873,1.541
+ImageNet,stochastic and differentiable decision tree,-0.226,1.5659
+MNIST,decision forest,-0.0493,1.4487
+ImageNet,decision forest,0.0544,1.3752
+MNIST,split and leaf node parameters,-0.2263,1.5661
+ImageNet,split and leaf node parameters,-0.1889,1.542
+ImageNet,MNIST,0.8315,0.5804

@@ -1,0 +1,32 @@
+node1,node2,similarity,distance
+NomBank,within-sentence arguments,0.1548,1.3002
+NomBank,extra-sentential arguments,0.0626,1.3693
+NomBank,semantic processing,-0.0734,1.4652
+NLP applications,NomBank,0.0032,1.4119
+NomBank,recovery,-0.1627,1.5249
+extra-sentential arguments,within-sentence arguments,0.0004,1.4139
+semantic processing,within-sentence arguments,-0.1296,1.5031
+NLP applications,within-sentence arguments,-0.12,1.4967
+recovery,within-sentence arguments,0.0693,1.3644
+extra-sentential arguments,semantic processing,0.9334,0.3649
+NLP applications,extra-sentential arguments,0.9034,0.4397
+extra-sentential arguments,recovery,0.9202,0.3995
+NLP applications,semantic processing,0.9691,0.2485
+recovery,semantic processing,0.8872,0.475
+NLP applications,recovery,0.8661,0.5176
+NomBank,implicit arguments,0.0382,1.3869
+NomBank,nominal predicates,-0.0233,1.4306
+implicit arguments,within-sentence arguments,-0.0234,1.4307
+nominal predicates,within-sentence arguments,-0.0535,1.4516
+extra-sentential arguments,implicit arguments,0.9668,0.2578
+extra-sentential arguments,nominal predicates,0.1416,1.3103
+implicit arguments,semantic processing,0.9674,0.2554
+NLP applications,implicit arguments,0.9657,0.262
+implicit arguments,nominal predicates,0.1109,1.3335
+implicit arguments,recovery,0.9284,0.3783
+nominal predicates,semantic processing,0.0162,1.4027
+NLP applications,nominal predicates,-0.1123,1.4915
+nominal predicates,recovery,0.1951,1.2687
+NomBank,supervised classification model,-0.0138,1.424
+implicit arguments,supervised classification model,-0.2488,1.5804
+nominal predicates,supervised classification model,-0.1392,1.5095

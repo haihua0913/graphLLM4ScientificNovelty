@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+arc consistency,path consistency,-0.2887,1.6054
+arc consistency,k-consistency,0.8142,0.6097
+arc consistency,j)-consistency,0.0719,1.3624
+k-consistency,path consistency,-0.0474,1.4473
+j)-consistency,path consistency,-0.2178,1.5606
+j)-consistency,k-consistency,-0.0634,1.4584
+arc consistency,path inverse consistency,0.0083,1.4083
+arc consistency,k-inverse consistency,0.003,1.4121
+arc consistency,neighborhood inverse consistency,0.9871,0.1603
+arc consistency,generic framework,0.8036,0.6267
+path consistency,path inverse consistency,-0.3437,1.6394
+k-inverse consistency,path consistency,-0.3492,1.6427
+neighborhood inverse consistency,path consistency,-0.2255,1.5655
+generic framework,path consistency,-0.0267,1.433
+k-consistency,path inverse consistency,-0.0574,1.4542
+k-consistency,k-inverse consistency,-0.1891,1.5421
+k-consistency,neighborhood inverse consistency,0.8312,0.581
+generic framework,k-consistency,0.9937,0.1124
+j)-consistency,path inverse consistency,0.9236,0.3908
+j)-consistency,k-inverse consistency,0.952,0.31
+j)-consistency,neighborhood inverse consistency,0.0703,1.3636
+generic framework,j)-consistency,0.0071,1.4092
+k-inverse consistency,path inverse consistency,0.9015,0.4438
+neighborhood inverse consistency,path inverse consistency,-0.0334,1.4376
+generic framework,path inverse consistency,-0.0004,1.4145
+k-inverse consistency,neighborhood inverse consistency,-0.0261,1.4325
+generic framework,k-inverse consistency,-0.1316,1.5044
+generic framework,neighborhood inverse consistency,0.8263,0.5893
+AC7 algorithm,arc consistency,0.1053,1.3377
+AC7 algorithm,generic framework,0.2533,1.222

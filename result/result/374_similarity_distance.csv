@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+content moderation,rule-based heuristic,-0.3142,1.6212
+content moderation,deep learning,-0.1005,1.4835
+deep learning,rule-based heuristic,0.1207,1.3261
+deep learning,transparency,-0.1672,1.5278
+deep learning,explainability,-0.2081,1.5544
+explainability,transparency,-0.2154,1.5591
+content moderation,transparency,-0.316,1.6223
+content moderation,explainability,0.9663,0.2595
+content moderation,exemplar-based contrastive learning,-0.0173,1.4264
+deep learning,exemplar-based contrastive learning,-0.0025,1.416
+exemplar-based contrastive learning,transparency,-0.3797,1.6612
+exemplar-based contrastive learning,explainability,-0.1142,1.4928
+content moderation,rule embedding,-0.4638,1.711
+deep learning,rule embedding,-0.1504,1.5168
+exemplar-based contrastive learning,rule embedding,-0.16,1.5231
+deep learning,hate speech classification,-0.266,1.5912
+deep learning,rule-grounding,-0.059,1.4553
+hate speech classification,rule embedding,0.8623,0.5247
+rule embedding,rule-grounding,0.4681,1.0314
+hate speech classification,rule-grounding,0.6565,0.8289

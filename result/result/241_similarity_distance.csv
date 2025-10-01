@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Textual Entailment Recognition,semantic inference,0.0828,1.3544
+Textual Entailment Recognition,natural language processing,-0.2265,1.5662
+natural language processing,semantic inference,0.9171,0.4072
+Textual Entailment Recognition,lexical semantic similarity,0.88,0.4899
+Textual Entailment Recognition,named entities,0.9783,0.2082
+Textual Entailment Recognition,machine learning,-0.2717,1.5948
+lexical semantic similarity,semantic inference,0.1513,1.3029
+named entities,semantic inference,0.1085,1.3353
+machine learning,semantic inference,0.8539,0.5405
+lexical semantic similarity,natural language processing,-0.0911,1.4772
+named entities,natural language processing,-0.2232,1.5641
+machine learning,natural language processing,0.9513,0.3122
+lexical semantic similarity,named entities,0.855,0.5385
+lexical semantic similarity,machine learning,-0.1616,1.5242
+machine learning,named entities,-0.2343,1.5712
+accuracy,lexical semantic similarity,0.6196,0.8723
+accuracy,named entities,0.5063,0.9937
+accuracy,machine learning,0.0481,1.3798
+accuracy,baseline dummy system,0.4051,1.0908
+Average Precision,accuracy,0.0297,1.3931
+Average Precision,baseline dummy system,0.0178,1.4016

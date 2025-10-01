@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+images,viewpoints,-0.1146,1.493
+images,synthesizing,-0.1379,1.5086
+synthesizing,viewpoints,0.814,0.6099
+depth estimation,images,-0.1539,1.5191
+images,regularization,-0.1555,1.5202
+depth estimation,viewpoints,-0.0427,1.4441
+regularization,viewpoints,0.9776,0.2115
+depth estimation,synthesizing,0.1586,1.2972
+regularization,synthesizing,0.8415,0.563
+depth estimation,regularization,0.0637,1.3685
+images,texture statistics,-0.1943,1.5455
+depth estimation,texture statistics,0.8769,0.4962
+regularization,texture statistics,0.169,1.2892
+image-based prior,images,-0.6382,1.8101
+images,synthetic views,0.057,1.3734
+depth estimation,image-based prior,0.0377,1.3873
+depth estimation,synthetic views,-0.0007,1.4147
+image-based prior,regularization,0.1635,1.2935
+regularization,synthetic views,-0.0859,1.4737
+image-based prior,texture statistics,-0.0965,1.4809
+synthetic views,texture statistics,-0.0824,1.4713
+image-based prior,synthetic views,0.4942,1.0058
+texture statistics,viewpoints,0.0021,1.4127
+image-based prior,viewpoints,0.2082,1.2584
+synthetic views,viewpoints,-0.1022,1.4847

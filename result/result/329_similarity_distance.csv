@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+monolingual dependency parser,treebanks,-0.178,1.5349
+concatenating training sets,treebanks,-0.0711,1.4636
+fine-tuning,treebanks,-0.0944,1.4795
+concatenating training sets,monolingual dependency parser,-0.4321,1.6924
+fine-tuning,monolingual dependency parser,-0.3543,1.6458
+concatenating training sets,fine-tuning,-0.533,1.751
+treebank embeddings,treebanks,-0.1115,1.491
+monolingual dependency parser,treebank embeddings,0.2318,1.2395
+concatenating training sets,treebank embeddings,-0.0803,1.4699
+fine-tuning,treebank embeddings,-0.3498,1.643
+improvements,treebanks,-0.2125,1.5573
+gains,treebanks,-0.1965,1.547
+concatenating training sets,improvements,-0.5689,1.7714
+concatenating training sets,gains,-0.5577,1.7651
+fine-tuning,improvements,0.8642,0.5212
+fine-tuning,gains,0.9351,0.3602
+improvements,treebank embeddings,0.1031,1.3393
+gains,treebank embeddings,-0.1537,1.519
+gains,improvements,0.8859,0.4777
+conceptual simplicity,treebanks,-0.1006,1.4836
+flexibility,treebanks,-0.1636,1.5255
+conceptual simplicity,fine-tuning,0.9361,0.3574
+fine-tuning,flexibility,0.938,0.3522
+conceptual simplicity,treebank embeddings,-0.1195,1.4964
+flexibility,treebank embeddings,-0.1178,1.4952
+conceptual simplicity,improvements,0.9373,0.3542
+flexibility,improvements,0.9525,0.3084
+conceptual simplicity,gains,0.9112,0.4214
+flexibility,gains,0.8999,0.4474
+conceptual simplicity,flexibility,0.9891,0.1477

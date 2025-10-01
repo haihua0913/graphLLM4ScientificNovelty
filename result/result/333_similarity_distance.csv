@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+conversational goals,open-domain chat agents,-0.0874,1.4747
+conversational goals,target subject,-0.0986,1.4823
+open-domain chat agents,target subject,-0.3751,1.6583
+coarse-grained keywords,target subject,-0.1159,1.494
+system responses,target subject,-0.1568,1.521
+coarse-grained keywords,system responses,0.9788,0.2059
+coarse-grained keywords,conversation transition,0.9823,0.1883
+coarse-grained keywords,supervised learning,-0.4878,1.725
+conversation transition,system responses,0.9563,0.2956
+supervised learning,system responses,-0.4414,1.6979
+conversation transition,supervised learning,-0.4697,1.7144
+coarse-grained keywords,keyword-augmented conversation dataset,0.9642,0.2677
+keyword-augmented conversation dataset,system responses,0.925,0.3873
+conversation transition,keyword-augmented conversation dataset,0.9423,0.3396
+keyword-augmented conversation dataset,supervised learning,-0.6475,1.8152

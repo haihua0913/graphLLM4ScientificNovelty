@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+adversarial framework,sequential prediction,-0.1198,1.4965
+adversarial framework,random-order model,-0.1677,1.5282
+adversarial framework,online linear regression,0.0264,1.3954
+adversarial framework,online gradient descent,-0.5652,1.7693
+adversarial framework,well-conditioned-data,-0.3093,1.6182
+online linear regression,random-order model,0.887,0.4755
+online gradient descent,random-order model,-0.2941,1.6088
+random-order model,well-conditioned-data,-0.3341,1.6334
+online gradient descent,online linear regression,-0.1846,1.5392
+online linear regression,well-conditioned-data,-0.1602,1.5233
+online gradient descent,well-conditioned-data,0.8808,0.4883
+poly-logarithmic regret,random-order model,-0.157,1.5212
+online linear regression,poly-logarithmic regret,-0.2238,1.5645
+online gradient descent,poly-logarithmic regret,0.8762,0.4977
+poly-logarithmic regret,well-conditioned-data,0.7915,0.6458
+random-order model,sublinear regret,-0.0398,1.4421
+online linear regression,sublinear regret,-0.0427,1.4441
+online gradient descent,sublinear regret,0.8873,0.4748
+sublinear regret,well-conditioned-data,0.8499,0.5479
+poly-logarithmic regret,sublinear regret,0.9042,0.4376

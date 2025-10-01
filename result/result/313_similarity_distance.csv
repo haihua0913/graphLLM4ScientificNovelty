@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+joint extraction,tagging scheme,-0.0635,1.4584
+end-to-end models,tagging scheme,-0.2767,1.5979
+entities,tagging scheme,-0.0568,1.4539
+relations,tagging scheme,-0.0575,1.4543
+information extraction,tagging scheme,-0.0693,1.4624
+end-to-end models,joint extraction,0.9485,0.321
+entities,joint extraction,-0.1542,1.5193
+joint extraction,relations,-0.1615,1.5241
+information extraction,joint extraction,-0.4349,1.6941
+end-to-end models,entities,-0.0319,1.4366
+end-to-end models,relations,-0.0415,1.4432
+end-to-end models,information extraction,-0.3002,1.6126
+entities,relations,0.9943,0.107
+entities,information extraction,-0.28,1.6
+information extraction,relations,-0.2463,1.5788
+distant supervision method,tagging scheme,0.8925,0.4637
+public dataset,tagging scheme,0.0829,1.3543
+distant supervision method,joint extraction,-0.0006,1.4146
+joint extraction,public dataset,-0.1269,1.5013
+distant supervision method,end-to-end models,-0.2402,1.5749
+end-to-end models,public dataset,-0.1992,1.5487
+distant supervision method,entities,-0.1092,1.4894
+entities,public dataset,-0.1088,1.4892
+distant supervision method,relations,-0.1399,1.5099
+public dataset,relations,-0.1863,1.5403
+distant supervision method,information extraction,-0.2749,1.5968
+information extraction,public dataset,-0.3709,1.6559
+distant supervision method,public dataset,0.4445,1.054

@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+irregular shapes,stable grasps,-0.2812,1.6007
+learning technique,stable grasps,-0.1039,1.4859
+cluttered scene,stable grasps,-0.0316,1.4364
+cluttered scene,learning technique,-0.0718,1.4641
+Gaussian Process,stable grasps,-0.1331,1.5054
+entropy-search method,stable grasps,-0.0673,1.461
+computational burden,stable grasps,-0.2069,1.5536
+Gaussian Process,learning technique,-0.4773,1.7189
+entropy-search method,learning technique,-0.1174,1.495
+computational burden,learning technique,0.9235,0.3911
+Gaussian Process,cluttered scene,0.0948,1.3455
+cluttered scene,entropy-search method,0.9494,0.318
+cluttered scene,computational burden,-0.0441,1.445
+Gaussian Process,entropy-search method,0.277,1.2025
+Gaussian Process,computational burden,-0.5942,1.7856
+computational burden,entropy-search method,-0.0898,1.4764
+Gaussian Process,autonomous robot,0.55,0.9486
+autonomous robot,entropy-search method,-0.0398,1.4421
+autonomous robot,rock debris,0.042,1.3842
+autonomous robot,computational burden,-0.0546,1.4523
+Gaussian Process,rock debris,-0.3332,1.6329
+entropy-search method,rock debris,0.1619,1.2947
+computational burden,rock debris,0.9201,0.3998

@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+multiscale approach,recovery of nonrigid motion,0.9522,0.3091
+multiscale approach,registered intensity and range images,-0.2547,1.5841
+finite element (FEM) model,multiscale approach,-0.1313,1.5042
+recovery of nonrigid motion,registered intensity and range images,-0.0626,1.4578
+finite element (FEM) model,recovery of nonrigid motion,-0.1234,1.4989
+finite element (FEM) model,registered intensity and range images,-0.1714,1.5306
+multiscale approach,multiscale iterative algorithm,-0.1197,1.4965
+multiscale approach,undirected Hausdorff distance,0.065,1.3675
+multiscale iterative algorithm,recovery of nonrigid motion,-0.1447,1.5131
+recovery of nonrigid motion,undirected Hausdorff distance,0.0405,1.3853
+multiscale iterative algorithm,registered intensity and range images,-0.2526,1.5828
+registered intensity and range images,undirected Hausdorff distance,-0.4305,1.6914
+finite element (FEM) model,multiscale iterative algorithm,0.892,0.4647
+finite element (FEM) model,undirected Hausdorff distance,0.9372,0.3543
+multiscale iterative algorithm,undirected Hausdorff distance,0.8469,0.5534
+man-made elastic materials,multiscale iterative algorithm,-0.2473,1.5794
+human skin motion,multiscale iterative algorithm,-0.1176,1.4951
+man-made elastic materials,undirected Hausdorff distance,-0.2151,1.5589
+human skin motion,undirected Hausdorff distance,0.0839,1.3536
+human skin motion,man-made elastic materials,-0.1638,1.5257
+conventional approach,man-made elastic materials,-0.2729,1.5955
+conventional approach,human skin motion,0.8733,0.5035

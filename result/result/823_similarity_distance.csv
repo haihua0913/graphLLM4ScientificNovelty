@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+domain model,planning domains,0.8882,0.4728
+domain model,logic-based concept,0.8862,0.4771
+domain model,verified models,0.269,1.2091
+domain model,operations,0.0616,1.37
+logic-based concept,planning domains,0.9728,0.2331
+planning domains,verified models,-0.0412,1.443
+operations,planning domains,-0.214,1.5582
+logic-based concept,verified models,0.1443,1.3082
+logic-based concept,operations,-0.0144,1.4243
+operations,verified models,0.9736,0.2296
+deductive component,domain model,0.8931,0.4624
+deductive component,planning domains,0.9767,0.216
+deductive component,logic-based concept,0.9442,0.3342
+deductive component,verified models,-0.051,1.4498
+deductive component,operations,-0.2239,1.5645
+consistency,domain model,0.1855,1.2763
+domain model,safety,0.986,0.167
+consistency,logic-based concept,0.1009,1.341
+logic-based concept,safety,0.8303,0.5827
+consistency,deductive component,-0.104,1.4859
+deductive component,safety,0.8354,0.5738
+consistency,safety,0.2996,1.1835
+consistency,operations,0.9773,0.2131
+operations,safety,0.1799,1.2807
+deductive component,safety-critical planning domain,0.8707,0.5085
+consistency,safety-critical planning domain,-0.1118,1.4912
+safety,safety-critical planning domain,0.7116,0.7595
+operations,safety-critical planning domain,-0.2068,1.5536

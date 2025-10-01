@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+multiclass learning,shared characteristics,0.7568,0.6974
+multiclass learning,predictors,0.6673,0.8157
+convex optimization,multiclass learning,0.118,1.3282
+multiclass learning,trace-norm regularization,0.7653,0.6851
+gradient-based optimization,multiclass learning,0.256,1.2199
+linear case,multiclass learning,0.044,1.3827
+kernelized setting,multiclass learning,0.3124,1.1727
+predictors,shared characteristics,0.9482,0.3217
+convex optimization,shared characteristics,0.0219,1.3986
+shared characteristics,trace-norm regularization,0.9604,0.2815
+gradient-based optimization,shared characteristics,0.3052,1.1788
+linear case,shared characteristics,-0.123,1.4987
+kernelized setting,shared characteristics,0.1165,1.3293
+convex optimization,predictors,0.0893,1.3496
+predictors,trace-norm regularization,0.9193,0.4017
+gradient-based optimization,predictors,0.171,1.2876
+linear case,predictors,-0.1455,1.5136
+kernelized setting,predictors,0.0939,1.3462
+convex optimization,trace-norm regularization,-0.1859,1.5401
+convex optimization,gradient-based optimization,-0.1494,1.5162
+convex optimization,linear case,-0.3161,1.6224
+convex optimization,kernelized setting,-0.1139,1.4926
+gradient-based optimization,trace-norm regularization,0.2365,1.2357
+linear case,trace-norm regularization,0.0034,1.4118
+kernelized setting,trace-norm regularization,0.1906,1.2723
+gradient-based optimization,linear case,-0.1961,1.5467
+gradient-based optimization,kernelized setting,-0.0086,1.4203
+kernelized setting,linear case,0.9287,0.3776

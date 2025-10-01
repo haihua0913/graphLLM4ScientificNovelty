@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+fraud detection,online payment services,-0.0688,1.462
+account compromise,high-risk behaviors,-0.2934,1.6084
+account compromise,fraud detection,-0.1412,1.5108
+account risk prediction,fraud detection,-0.0137,1.4239
+ex-ante fraud detection,fraud detection,-0.057,1.454
+fraud detection,high-risk behaviors,-0.1043,1.4861
+account compromise,account risk prediction,0.102,1.3402
+account compromise,ex-ante fraud detection,-0.093,1.4785
+account risk prediction,ex-ante fraud detection,0.9727,0.2337
+account risk prediction,high-risk behaviors,0.0185,1.4011
+ex-ante fraud detection,high-risk behaviors,0.1039,1.3387
+real-time anti-fraud system,real-world B2C transaction dataset,0.9316,0.3698
+false alarm rate,real-world B2C transaction dataset,0.0338,1.3901
+false alarm rate,real-time anti-fraud system,-0.0214,1.4293

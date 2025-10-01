@@ -1,0 +1,140 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/vcbm/vcbm2012.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"85.19"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"18",
+"@dc":"18",
+"@oc":"18",
+"@id":"48926938",
+"text":":facetid:toc:db/conf/vcbm/vcbm2012.bht"
+}
+},
+"hits":{
+"@total":"18",
+"@computed":"18",
+"@sent":"18",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5290438",
+"info":{"authors":{"author":[{"@pid":"120/6354","text":"Anne Berres"},{"@pid":"11/2843","text":"Mathias Goldau"},{"@pid":"46/480","text":"Marc Tittgemeyer"},{"@pid":"s/GerikScheuermann","text":"Gerik Scheuermann"},{"@pid":"h/HansHagen","text":"Hans Hagen"}]},"title":"Tractography in Context: Multimodal Visualization of Probabilistic Tractograms in Anatomical Context.","venue":"VCBM","pages":"9-16","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/BerresGTSH12","doi":"10.2312/VCBM/VCBM12/009-016","ee":"https://doi.org/10.2312/VCBM/VCBM12/009-016","url":"https://dblp.org/rec/conf/vcbm/BerresGTSH12"},
+"url":"URL#5290438"
+},
+{
+"@score":"1",
+"@id":"5290439",
+"info":{"authors":{"author":[{"@pid":"84/3574","text":"Vincent J. Dercksen"},{"@pid":"120/6334","text":"Robert Egger"},{"@pid":"49/283","text":"Hans-Christian Hege"},{"@pid":"74/7980","text":"Marcel Oberländer"}]},"title":"Synaptic Connectivity in Anatomically Realistic Neural Networks: Modeling and Visual Analysis.","venue":"VCBM","pages":"17-24","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/DercksenEHO12","doi":"10.2312/VCBM/VCBM12/017-024","ee":"https://doi.org/10.2312/VCBM/VCBM12/017-024","url":"https://dblp.org/rec/conf/vcbm/DercksenEHO12"},
+"url":"URL#5290439"
+},
+{
+"@score":"1",
+"@id":"5290440",
+"info":{"authors":{"author":[{"@pid":"82/5090","text":"Stefan Diepenbrock"},{"@pid":"92/5590","text":"Timo Ropinski"}]},"title":"From Imprecise User Input to Precise Vessel Segmentations.","venue":"VCBM","pages":"65-72","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/DiepenbrockR12","doi":"10.2312/VCBM/VCBM12/065-072","ee":"https://doi.org/10.2312/VCBM/VCBM12/065-072","url":"https://dblp.org/rec/conf/vcbm/DiepenbrockR12"},
+"url":"URL#5290440"
+},
+{
+"@score":"1",
+"@id":"5290441",
+"info":{"authors":{"author":[{"@pid":"28/9396","text":"Andre F. van Dixhoorn"},{"@pid":"96/5431","text":"Julien Milles"},{"@pid":"78/11380","text":"Baldur van Lew"},{"@pid":"24/5761","text":"Charl P. Botha"}]},"title":"BrainCove: A Tool for Voxel-wise fMRI Brain Connectivity Visualization.","venue":"VCBM","pages":"99-106","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/DixhoornMLB12","doi":"10.2312/VCBM/VCBM12/099-106","ee":"https://doi.org/10.2312/VCBM/VCBM12/099-106","url":"https://dblp.org/rec/conf/vcbm/DixhoornMLB12"},
+"url":"URL#5290441"
+},
+{
+"@score":"1",
+"@id":"5290442",
+"info":{"authors":{"author":[{"@pid":"76/3945","text":"Martin Falk"},{"@pid":"74/7527","text":"Michael Krone"},{"@pid":"e/ThomasErtl","text":"Thomas Ertl"}]},"title":"Atomistic Visualization of Mesoscopic Whole-Cell Simulations.","venue":"VCBM","pages":"123-130","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/FalkKE12","doi":"10.2312/VCBM/VCBM12/123-130","ee":"https://doi.org/10.2312/VCBM/VCBM12/123-130","url":"https://dblp.org/rec/conf/vcbm/FalkKE12"},
+"url":"URL#5290442"
+},
+{
+"@score":"1",
+"@id":"5290443",
+"info":{"authors":{"author":[{"@pid":"79/7923","text":"Frank Heckel"},{"@pid":"52/9775","text":"Stefan Braunewell"},{"@pid":"10/2896","text":"Grzegorz Soza"},{"@pid":"93/3872","text":"Christian Tietjen"},{"@pid":"87/4973","text":"Horst K. Hahn"}]},"title":"Sketch-based Image-independent Editing of 3D Tumor Segmentations using Variational Interpolation.","venue":"VCBM","pages":"73-80","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/HeckelBSTH12","doi":"10.2312/VCBM/VCBM12/073-080","ee":"https://doi.org/10.2312/VCBM/VCBM12/073-080","url":"https://dblp.org/rec/conf/vcbm/HeckelBSTH12"},
+"url":"URL#5290443"
+},
+{
+"@score":"1",
+"@id":"5290444",
+"info":{"authors":{"author":[{"@pid":"56/2692-1","text":"Matthias Keil 0001"},{"@pid":"10/8348","text":"Cristina Oyarzun Laura"},{"@pid":"25/8351","text":"Klaus Drechsler"},{"@pid":"02/3256","text":"Stefan Wesarg"}]},"title":"Combining B-Mode and Color Flow Vessel Segmentation for Registration of Hepatic CT and Ultrasound Volumes.","venue":"VCBM","pages":"57-64","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/KeilLDW12","doi":"10.2312/VCBM/VCBM12/057-064","ee":"https://doi.org/10.2312/VCBM/VCBM12/057-064","url":"https://dblp.org/rec/conf/vcbm/KeilLDW12"},
+"url":"URL#5290444"
+},
+{
+"@score":"1",
+"@id":"5290445",
+"info":{"authors":{"author":[{"@pid":"37/10150","text":"Yuen C. Law"},{"@pid":"33/3078","text":"Thomas Knott"},{"@pid":"06/1510-1","text":"Bernd Hentschel 0001"},{"@pid":"k/TorstenKuhlen","text":"Torsten W. Kuhlen"}]},"title":"Geometrical-Acoustics-based Ultrasound Image Simulation.","venue":"VCBM","pages":"25-32","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/LawKHK12","doi":"10.2312/VCBM/VCBM12/025-032","ee":"https://doi.org/10.2312/VCBM/VCBM12/025-032","url":"https://dblp.org/rec/conf/vcbm/LawKHK12"},
+"url":"URL#5290445"
+},
+{
+"@score":"1",
+"@id":"5290446",
+"info":{"authors":{"author":[{"@pid":"120/6358","text":"Katja Mogalle"},{"@pid":"93/3872","text":"Christian Tietjen"},{"@pid":"10/2896","text":"Grzegorz Soza"},{"@pid":"p/BPreim","text":"Bernhard Preim"}]},"title":"Constrained Labeling of 2D Slice Data for Reading Images in Radiology.","venue":"VCBM","pages":"131-138","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MogalleTSP12","doi":"10.2312/VCBM/VCBM12/131-138","ee":"https://doi.org/10.2312/VCBM/VCBM12/131-138","url":"https://dblp.org/rec/conf/vcbm/MogalleTSP12"},
+"url":"URL#5290446"
+},
+{
+"@score":"1",
+"@id":"5290447",
+"info":{"authors":{"author":[{"@pid":"47/6661","text":"Tobias Mönch"},{"@pid":"65/2798","text":"Christoph Kubisch"},{"@pid":"120/6338","text":"Kai Lawonn"},{"@pid":"w/RudigerWestermann","text":"Rüdiger Westermann"},{"@pid":"p/BPreim","text":"Bernhard Preim"}]},"title":"Visually Guided Mesh Smoothing for Medical Applications.","venue":"VCBM","pages":"91-98","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MonchKLWP12","doi":"10.2312/VCBM/VCBM12/091-098","ee":"https://doi.org/10.2312/VCBM/VCBM12/091-098","url":"https://dblp.org/rec/conf/vcbm/MonchKLWP12"},
+"url":"URL#5290447"
+},
+{
+"@score":"1",
+"@id":"5290448",
+"info":{"authors":{"author":[{"@pid":"87/9395","text":"Tan Khoa Nguyen"},{"@pid":"72/7119-2","text":"Alexander Bock 0002"},{"@pid":"44/4430","text":"Anders Ynnerman"},{"@pid":"92/5590","text":"Timo Ropinski"}]},"title":"Deriving and Visualizing Uncertainty in Kinetic PET Modeling.","venue":"VCBM","pages":"107-114","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/NguyenBYR12","doi":"10.2312/VCBM/VCBM12/107-114","ee":"https://doi.org/10.2312/VCBM/VCBM12/107-114","url":"https://dblp.org/rec/conf/vcbm/NguyenBYR12"},
+"url":"URL#5290448"
+},
+{
+"@score":"1",
+"@id":"5290449",
+"info":{"authors":{"author":[{"@pid":"86/6246","text":"Steffen Oeltze"},{"@pid":"120/6344","text":"Paul Klemm"},{"@pid":"33/679","text":"Reyk Hillert"},{"@pid":"p/BPreim","text":"Bernhard Preim"},{"@pid":"43/81","text":"Walter Schubert"}]},"title":"Visualization and Exploration of 3D Toponome Data.","venue":"VCBM","pages":"115-122","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/OeltzeKHPS12","doi":"10.2312/VCBM/VCBM12/115-122","ee":"https://doi.org/10.2312/VCBM/VCBM12/115-122","url":"https://dblp.org/rec/conf/vcbm/OeltzeKHPS12"},
+"url":"URL#5290449"
+},
+{
+"@score":"1",
+"@id":"5290450",
+"info":{"authors":{"author":[{"@pid":"71/9663","text":"Diana Röttger"},{"@pid":"63/3515","text":"Dorit Merhof"},{"@pid":"26/4817-2","text":"Stefan Müller 0002"}]},"title":"The BundleExplorer: A Focus and Context Rendering Framework for Complex Fiber Distributions.","venue":"VCBM","pages":"1-8","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/RottgerMM12","doi":"10.2312/VCBM/VCBM12/001-008","ee":"https://doi.org/10.2312/VCBM/VCBM12/001-008","url":"https://dblp.org/rec/conf/vcbm/RottgerMM12"},
+"url":"URL#5290450"
+},
+{
+"@score":"1",
+"@id":"5290451",
+"info":{"authors":{"author":[{"@pid":"16/7527","text":"Veronika Soltészová"},{"@pid":"120/6349","text":"Linn Emilie Sævil Helljesen"},{"@pid":"25/4025","text":"Wolfgang Wein"},{"@pid":"38/9396","text":"Odd Helge Gilja"},{"@pid":"21/4861","text":"Ivan Viola"}]},"title":"Lowest-Variance Streamlines for Filtering of 3D Ultrasound.","venue":"VCBM","pages":"41-48","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SolteszovaHWGV12","doi":"10.2312/VCBM/VCBM12/041-048","ee":"https://doi.org/10.2312/VCBM/VCBM12/041-048","url":"https://dblp.org/rec/conf/vcbm/SolteszovaHWGV12"},
+"url":"URL#5290451"
+},
+{
+"@score":"1",
+"@id":"5290452",
+"info":{"authors":{"author":[{"@pid":"50/9221","text":"Daniel Tenbrinck"},{"@pid":"24/1280","text":"Alex Sawatzky"},{"@pid":"j/XiaoyiJiang","text":"Xiaoyi Jiang 0001"},{"@pid":"61/2323","text":"Martin Burger 0001"},{"@pid":"120/6345","text":"Wladimir Haffner"},{"@pid":"09/7682","text":"Patrick Willems"},{"@pid":"120/6346","text":"Matthias Paul"},{"@pid":"20/9962","text":"Jörg Stypmann"}]},"title":"Impact of Physical Noise Modeling on Image Segmentation in Echocardiography.","venue":"VCBM","pages":"33-40","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/TenbrinckSJBHWPS12","doi":"10.2312/VCBM/VCBM12/033-040","ee":"https://doi.org/10.2312/VCBM/VCBM12/033-040","url":"https://dblp.org/rec/conf/vcbm/TenbrinckSJBHWPS12"},
+"url":"URL#5290452"
+},
+{
+"@score":"1",
+"@id":"5290453",
+"info":{"authors":{"author":[{"@pid":"57/7921","text":"Florian Weiler"},{"@pid":"80/6990","text":"Christian Rieder"},{"@pid":"120/6342","text":"Carlos A. David"},{"@pid":"120/6343","text":"Christoph Wald"},{"@pid":"87/4973","text":"Horst K. Hahn"}]},"title":"On the Value of Multi-Volume Visualization for Preoperative Planning of Cerebral AVM Surgery.","venue":"VCBM","pages":"49-56","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/WeilerRDWH12","doi":"10.2312/VCBM/VCBM12/049-056","ee":"https://doi.org/10.2312/VCBM/VCBM12/049-056","url":"https://dblp.org/rec/conf/vcbm/WeilerRDWH12"},
+"url":"URL#5290453"
+},
+{
+"@score":"1",
+"@id":"5290454",
+"info":{"authors":{"author":[{"@pid":"20/3894-5","text":"Jun Wu 0005"},{"@pid":"88/5021","text":"Kai Bürger"},{"@pid":"w/RudigerWestermann","text":"Rüdiger Westermann"},{"@pid":"05/3742","text":"Christian Dick"}]},"title":"Interactive Residual Stress Modeling for Soft Tissue Simulation.","venue":"VCBM","pages":"81-89","year":"2012","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/WuBWD12","doi":"10.2312/VCBM/VCBM12/081-089","ee":"https://doi.org/10.2312/VCBM/VCBM12/081-089","url":"https://dblp.org/rec/conf/vcbm/WuBWD12"},
+"url":"URL#5290454"
+},
+{
+"@score":"1",
+"@id":"5304642",
+"info":{"authors":{"author":[{"@pid":"92/5590","text":"Timo Ropinski"},{"@pid":"44/4430","text":"Anders Ynnerman"},{"@pid":"24/5761","text":"Charl P. Botha"},{"@pid":"r/JBTMRoerdink","text":"Jos B. T. M. Roerdink"}]},"title":"Proceedings of the Eurographics Workshop on Visual Computing for Biomedicine, VCBM 2012, Norrköping, Sweden, 2012.","venue":"VCBM","publisher":"Eurographics Association","year":"2012","type":"Editorship","key":"conf/vcbm/2012","doi":"10.2312/464","ee":"https://diglib.eg.org/handle/10.2312/464","url":"https://dblp.org/rec/conf/vcbm/2012"},
+"url":"URL#5304642"
+}
+]
+}
+}
+}

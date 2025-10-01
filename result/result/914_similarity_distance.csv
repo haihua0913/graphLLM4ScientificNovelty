@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+Stochastic Gradient Descent,stochastic methods,0.5322,0.9673
+SVRG,stochastic methods,0.3791,1.1144
+SAGA,stochastic methods,-0.3062,1.6163
+Uniform Probability,stochastic methods,0.6375,0.8515
+Importance Probability,stochastic methods,0.5785,0.9181
+convergence rate,stochastic methods,0.2427,1.2307
+SVRG,Stochastic Gradient Descent,-0.0661,1.4602
+SAGA,Stochastic Gradient Descent,-0.1145,1.493
+Stochastic Gradient Descent,Uniform Probability,0.9527,0.3077
+Importance Probability,Stochastic Gradient Descent,0.8857,0.4782
+Stochastic Gradient Descent,convergence rate,-0.1649,1.5264
+SAGA,SVRG,-0.4235,1.6873
+SVRG,Uniform Probability,-0.0563,1.4535
+Importance Probability,SVRG,0.0501,1.3783
+SVRG,convergence rate,0.8261,0.5898
+SAGA,Uniform Probability,-0.0537,1.4517
+Importance Probability,SAGA,-0.1886,1.5418
+SAGA,convergence rate,-0.1634,1.5254
+Importance Probability,Uniform Probability,0.9167,0.4082
+Uniform Probability,convergence rate,-0.0668,1.4607
+Importance Probability,convergence rate,0.0199,1.4001
+Adaptive Probability,SVRG,-0.2617,1.5885
+SVRG,sampling scheme,-0.6304,1.8058
+Adaptive Probability,SAGA,0.0263,1.3955
+SAGA,sampling scheme,0.0731,1.3615
+Adaptive Probability,Uniform Probability,0.9516,0.311
+Uniform Probability,sampling scheme,0.2755,1.2038
+Adaptive Probability,Importance Probability,0.8729,0.5041
+Importance Probability,sampling scheme,0.1616,1.2949
+Adaptive Probability,convergence rate,-0.2875,1.6047
+Adaptive Probability,sampling scheme,0.377,1.1162
+convergence rate,sampling scheme,-0.3473,1.6415

@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+deep neural networks,vanishing or exploding gradient,-0.113,1.492
+recurrent neural networks,vanishing or exploding gradient,-0.1271,1.5014
+deep neural networks,recurrent neural networks,-0.1503,1.5168
+vanishing or exploding gradient,weight matrices,0.1782,1.282
+deep neural networks,weight matrices,-0.0358,1.4393
+recurrent neural networks,weight matrices,-0.0885,1.4754
+backpropagation,vanishing or exploding gradient,0.7244,0.7424
+backpropagation,weight matrices,-0.1469,1.5146
+optimization convergence,weight matrices,-0.2502,1.5813
+gradient stability,weight matrices,0.0993,1.3421
+backpropagation,optimization convergence,-0.1235,1.499
+backpropagation,gradient stability,0.8058,0.6232
+gradient stability,optimization convergence,-0.4415,1.698
+backpropagation,matrix norms,-0.034,1.4381
+matrix norms,optimization convergence,-0.2333,1.5705
+gradient stability,matrix norms,0.1038,1.3388

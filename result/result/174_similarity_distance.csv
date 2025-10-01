@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+sentiment classification,word influence,-0.14,1.5099
+neural network,sentiment classification,0.9988,0.0496
+sentiment classification,sentiment neural network,0.1565,1.2989
+neural network,word influence,-0.1529,1.5185
+sentiment neural network,word influence,-0.0222,1.4298
+neural network,sentiment neural network,0.1732,1.286
+LSTM,neural network,-0.0418,1.4434
+LSTM,sentiment neural network,-0.1496,1.5163
+IMDB,LSTM,0.1488,1.3047
+LSTM,sentiment classification,-0.0463,1.4466
+attention,sentiment classification,-0.2106,1.556
+IMDB,sentiment classification,-0.1776,1.5347
+LSTM,attention,0.9561,0.2963
+IMDB,attention,0.1935,1.2701

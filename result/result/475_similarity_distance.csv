@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+surface normals,visual tasks,0.1635,1.2934
+estimating the depth,visual tasks,-0.1267,1.5011
+estimating the depth,surface normals,-0.1707,1.5302
+transfer learning,visual tasks,-0.1764,1.5339
+supervision,visual tasks,0.9959,0.0905
+surface normals,transfer learning,-0.2522,1.5826
+supervision,surface normals,0.1047,1.3381
+estimating the depth,transfer learning,-0.2145,1.5585
+estimating the depth,supervision,-0.0965,1.4809
+supervision,transfer learning,-0.1371,1.5081
+computational approach,visual tasks,-0.0986,1.4823
+computational approach,transfer learning,-0.3209,1.6254
+computational approach,supervision,-0.0705,1.4632
+latent space,visual tasks,-0.2497,1.5809
+latent space,transfer learning,-0.3584,1.6483
+latent space,supervision,-0.297,1.6106
+computational approach,latent space,-0.3191,1.6242
+task transfer learning,visual tasks,0.6104,0.8828
+taxonomic map,visual tasks,-0.158,1.5218
+task transfer learning,transfer learning,-0.5158,1.7411
+taxonomic map,transfer learning,-0.4099,1.6792
+computational approach,task transfer learning,0.4735,1.0261
+computational approach,taxonomic map,0.9696,0.2467
+latent space,task transfer learning,-0.3,1.6124
+latent space,taxonomic map,-0.1608,1.5237
+task transfer learning,taxonomic map,0.3836,1.1103
+labeled data,transfer learning,-0.0223,1.4299
+labeled data,task transfer learning,0.2073,1.2592
+labeled data,taxonomic map,-0.1827,1.538
+labeled data,supervision,-0.0774,1.4679

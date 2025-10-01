@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+cross-covariance functions,multiple-output Gaussian processes,0.8177,0.6038
+multiple-output Gaussian processes,spectral mixture kernel,-0.354,1.6456
+multiple-output Gaussian processes,phase shift,0.7692,0.6794
+cross-covariance functions,spectral mixture kernel,-0.6121,1.7956
+cross-covariance functions,phase shift,0.499,1.001
+phase shift,spectral mixture kernel,-0.107,1.4879
+complex-valued cross-spectral densities,cross-covariance functions,0.9486,0.3205
+Cramer's Theorem,cross-covariance functions,0.9664,0.2592
+Bochner's Theorem,cross-covariance functions,0.972,0.2366
+cross-covariance functions,multivariate covariance functions,0.9919,0.1273
+complex-valued cross-spectral densities,spectral mixture kernel,-0.5016,1.733
+Cramer's Theorem,spectral mixture kernel,-0.5966,1.787
+Bochner's Theorem,spectral mixture kernel,-0.5321,1.7505
+multivariate covariance functions,spectral mixture kernel,-0.5518,1.7617
+complex-valued cross-spectral densities,phase shift,0.4961,1.0039
+Cramer's Theorem,phase shift,0.6564,0.8289
+Bochner's Theorem,phase shift,0.6062,0.8874
+multivariate covariance functions,phase shift,0.4805,1.0193
+Cramer's Theorem,complex-valued cross-spectral densities,0.9047,0.4366
+Bochner's Theorem,complex-valued cross-spectral densities,0.9173,0.4068
+complex-valued cross-spectral densities,multivariate covariance functions,0.9544,0.3018
+Bochner's Theorem,Cramer's Theorem,0.9705,0.2428
+Cramer's Theorem,multivariate covariance functions,0.9551,0.2996
+Bochner's Theorem,multivariate covariance functions,0.9804,0.1981
+delays among channels,spectral mixture kernel,0.0588,1.372
+delays among channels,phase shift,0.9761,0.2184
+complex-valued cross-spectral densities,delays among channels,0.3247,1.1622
+Cramer's Theorem,delays among channels,0.497,1.003
+Bochner's Theorem,delays among channels,0.4314,1.0664
+delays among channels,multivariate covariance functions,0.2971,1.1856

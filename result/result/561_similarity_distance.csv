@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+cascaded object detectors,false-positive rate,-0.1147,1.4931
+cascaded object detectors,classification complexity,-0.2118,1.5568
+classification complexity,false-positive rate,0.8835,0.4828
+cascaded object detectors,cost-sensitive learning,0.9195,0.4013
+cost-sensitive learning,false-positive rate,0.0767,1.3589
+classification complexity,cost-sensitive learning,0.0744,1.3606
+asymmetric boosting,false-positive rate,-0.4067,1.6773
+asymmetric boosting,classification complexity,-0.2068,1.5535
+asymmetric boosting,cost-sensitive learning,-0.0863,1.474
+boosting iterations,false-positive rate,-0.2555,1.5846
+cascaded detectors,false-positive rate,0.1094,1.3346
+boosting iterations,cost-sensitive learning,0.1487,1.3049
+cascaded detectors,cost-sensitive learning,0.9029,0.4407
+asymmetric boosting,boosting iterations,-0.3275,1.6294
+asymmetric boosting,cascaded detectors,-0.0834,1.472
+boosting iterations,cascaded detectors,-0.1878,1.5413
+asymmetric boosting,computation,-0.0825,1.4714
+boosting iterations,computation,0.5914,0.904
+cascaded detectors,computation,0.5748,0.9222

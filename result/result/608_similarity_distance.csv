@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+Vision Transformers,continual learning,-0.1163,1.4942
+Vision Transformers,prompt-based continual learning,0.9312,0.371
+Vision Transformers,rehearsal-free,0.7401,0.7209
+continual learning,prompt-based continual learning,-0.1576,1.5216
+continual learning,rehearsal-free,0.0604,1.3708
+prompt-based continual learning,rehearsal-free,0.6128,0.88
+Vision Transformers,prompt pool,0.7821,0.6601
+continual learning,prompt pool,-0.0293,1.4348
+prompt pool,prompt-based continual learning,0.7014,0.7727
+prompt pool,rehearsal-free,0.8844,0.4809
+continual learning,domain scalability problem,-0.269,1.5931
+domain scalability problem,prompt-based continual learning,-0.2704,1.594
+domain scalability problem,rehearsal-free,-0.0175,1.4266
+domain scalability problem,prompt pool,-0.2838,1.6024
+adaptive prompt generator,prompt pool,0.8718,0.5063
+instance-specific,prompt pool,0.8448,0.5571
+model plasticity,prompt pool,0.269,1.2091
+prompt pool,reduced forgetting,0.8143,0.6094
+adaptive prompt generator,instance-specific,0.8026,0.6284
+adaptive prompt generator,model plasticity,0.3153,1.1702
+adaptive prompt generator,reduced forgetting,0.9817,0.1911
+instance-specific,model plasticity,0.5558,0.9426
+instance-specific,reduced forgetting,0.8132,0.6112
+model plasticity,reduced forgetting,0.4404,1.0579

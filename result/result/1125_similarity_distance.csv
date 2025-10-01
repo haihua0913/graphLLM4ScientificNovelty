@@ -1,0 +1,43 @@
+node1,node2,similarity,distance
+end-to-end deep neural network,recall performance,0.866,0.5178
+Neural Corpus Indexer,end-to-end deep neural network,-0.0546,1.4523
+Neural Corpus Indexer,recall performance,-0.0266,1.4329
+Neural Corpus Indexer,prefix-aware weight-adaptive decoder,-0.1566,1.5209
+Neural Corpus Indexer,query generation,0.8851,0.4795
+Neural Corpus Indexer,semantic document identifiers,0.7876,0.6517
+Neural Corpus Indexer,consistency-based regularization,-0.2364,1.5725
+end-to-end deep neural network,prefix-aware weight-adaptive decoder,-0.1625,1.5248
+end-to-end deep neural network,query generation,-0.2163,1.5597
+end-to-end deep neural network,semantic document identifiers,-0.2853,1.6033
+consistency-based regularization,end-to-end deep neural network,-0.0748,1.4661
+prefix-aware weight-adaptive decoder,recall performance,0.0259,1.3958
+query generation,recall performance,-0.1757,1.5334
+recall performance,semantic document identifiers,-0.0884,1.4754
+consistency-based regularization,recall performance,0.0598,1.3713
+prefix-aware weight-adaptive decoder,query generation,-0.0223,1.4299
+prefix-aware weight-adaptive decoder,semantic document identifiers,0.3569,1.1341
+consistency-based regularization,prefix-aware weight-adaptive decoder,0.9704,0.2431
+query generation,semantic document identifiers,0.8875,0.4744
+consistency-based regularization,query generation,-0.1717,1.5308
+consistency-based regularization,semantic document identifiers,0.1915,1.2716
+Neural Corpus Indexer,Recall@1,0.5192,0.9806
+NQ320k dataset,Neural Corpus Indexer,0.0323,1.3912
+Neural Corpus Indexer,R-Precision,0.5859,0.9101
+Recall@1,recall performance,-0.2821,1.6013
+NQ320k dataset,recall performance,0.3495,1.1406
+R-Precision,recall performance,-0.0593,1.4556
+Recall@1,prefix-aware weight-adaptive decoder,-0.4123,1.6807
+NQ320k dataset,prefix-aware weight-adaptive decoder,-0.0893,1.476
+R-Precision,prefix-aware weight-adaptive decoder,-0.563,1.768
+Recall@1,query generation,0.2453,1.2286
+NQ320k dataset,query generation,-0.1571,1.5213
+R-Precision,query generation,0.2439,1.2297
+Recall@1,semantic document identifiers,0.036,1.3886
+NQ320k dataset,semantic document identifiers,0.0631,1.3689
+R-Precision,semantic document identifiers,0.026,1.3957
+Recall@1,consistency-based regularization,-0.2932,1.6082
+NQ320k dataset,consistency-based regularization,-0.153,1.5186
+R-Precision,consistency-based regularization,-0.4538,1.7052
+NQ320k dataset,Recall@1,-0.2736,1.596
+R-Precision,Recall@1,0.9421,0.3404
+NQ320k dataset,R-Precision,-0.066,1.4601

@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+discrete state spaces,random walks,0.4127,1.0838
+Markov chain Monte Carlo,random walks,0.079,1.3572
+random walks,self-repellent random walk,-0.0004,1.4145
+random walks,target probability distribution,0.7735,0.673
+Markov chain Monte Carlo,discrete state spaces,0.107,1.3364
+discrete state spaces,self-repellent random walk,0.1711,1.2875
+discrete state spaces,target probability distribution,0.5634,0.9345
+Markov chain Monte Carlo,self-repellent random walk,-0.1165,1.4943
+Markov chain Monte Carlo,target probability distribution,0.1385,1.3126
+self-repellent random walk,target probability distribution,0.3695,1.123
+central limit theorem,self-repellent random walk,-0.1237,1.4991
+central limit theorem,target probability distribution,-0.0896,1.4762
+central limit theorem,sampling variance,0.4795,1.0203
+central limit theorem,stochastic optimization,-0.1219,1.4979
+central limit theorem,distributed stochastic optimization,-0.1748,1.5328
+distributed stochastic optimization,stochastic optimization,-0.2368,1.5727
+sampling variance,stochastic optimization,-0.0444,1.4452
+distributed stochastic optimization,sampling variance,-0.4398,1.6969

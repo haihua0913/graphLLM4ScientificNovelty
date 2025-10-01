@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+morphemes,prefix,0.0766,1.359
+morphemes,stem,-0.1586,1.5222
+morphemes,suffix,0.7697,0.6787
+morphemes,unsupervised algorithm,0.9495,0.3179
+prefix,stem,0.9485,0.321
+prefix,suffix,0.1745,1.2849
+prefix,unsupervised algorithm,0.1902,1.2726
+stem,suffix,-0.0979,1.4818
+stem,unsupervised algorithm,-0.0646,1.4592
+suffix,unsupervised algorithm,0.7761,0.6691
+morphemes,trigram language model,0.0588,1.372
+prefix,trigram language model,0.9812,0.1941
+stem,trigram language model,0.96,0.2828
+suffix,trigram language model,0.0995,1.342
+trigram language model,unsupervised algorithm,0.1226,1.3247
+manually segmented corpus,unsupervised algorithm,0.721,0.747
+manually segmented corpus,trigram language model,-0.1819,1.5375
+unsegmented corpus,unsupervised algorithm,0.962,0.2757
+segmentation accuracy,unsupervised algorithm,0.9339,0.3635
+trigram language model,unsegmented corpus,-0.0155,1.4251
+segmentation accuracy,trigram language model,-0.1606,1.5236
+manually segmented corpus,unsegmented corpus,0.8553,0.5379
+manually segmented corpus,segmentation accuracy,0.7426,0.7175
+segmentation accuracy,unsegmented corpus,0.9235,0.3913

@@ -1,0 +1,35 @@
+node1,node2,similarity,distance
+differentiable simulators,reinforcement learning,-0.1457,1.5138
+differentiable simulators,first-order gradients,0.0317,1.3916
+differentiable simulators,physical systems,-0.0135,1.4238
+first-order gradients,reinforcement learning,-0.2182,1.5609
+physical systems,reinforcement learning,-0.0929,1.4785
+first-order gradients,physical systems,-0.0029,1.4163
+bias,differentiable simulators,-0.5558,1.764
+differentiable simulators,variance,0.1887,1.2738
+differentiable simulators,stiffness,0.8386,0.5681
+differentiable simulators,discontinuities,0.0499,1.3785
+bias,reinforcement learning,0.028,1.3943
+reinforcement learning,variance,-0.4223,1.6866
+reinforcement learning,stiffness,-0.2103,1.5558
+discontinuities,reinforcement learning,0.0738,1.361
+bias,first-order gradients,-0.1392,1.5094
+first-order gradients,variance,-0.0091,1.4206
+first-order gradients,stiffness,-0.1703,1.5299
+discontinuities,first-order gradients,-0.1202,1.4968
+bias,physical systems,-0.3355,1.6343
+physical systems,variance,0.1585,1.2973
+physical systems,stiffness,-0.2498,1.581
+discontinuities,physical systems,-0.062,1.4574
+bias,variance,0.2043,1.2615
+bias,stiffness,-0.1068,1.4878
+bias,discontinuities,0.0742,1.3608
+stiffness,variance,0.2449,1.2289
+discontinuities,variance,0.0635,1.3686
+discontinuities,stiffness,-0.1498,1.5164
+differentiable simulators,zero-order methods,0.0168,1.4023
+physical systems,zero-order methods,0.9403,0.3456
+bias,zero-order methods,-0.2955,1.6097
+variance,zero-order methods,0.3206,1.1657
+stiffness,zero-order methods,-0.1833,1.5384
+discontinuities,zero-order methods,0.0411,1.3849

@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+influence estimation,scalability,0.0306,1.3924
+continuous-time diffusion networks,influence estimation,-0.1625,1.5248
+influence estimation,randomized algorithm,-0.0388,1.4414
+continuous-time diffusion networks,randomized algorithm,-0.3852,1.6644
+continuous-time diffusion networks,scalability,-0.3367,1.635
+randomized algorithm,scalability,0.2004,1.2646
+accuracy,influence estimation,0.0509,1.3777
+accuracy,continuous-time diffusion networks,-0.4823,1.7218
+accuracy,randomized algorithm,0.0659,1.3668
+accuracy,scalability,0.9515,0.3114
+greedy influence maximization,influence estimation,0.9888,0.1495
+influence estimation,optimal value,0.9962,0.0869
+continuous-time diffusion networks,greedy influence maximization,-0.1768,1.5342
+continuous-time diffusion networks,optimal value,-0.137,1.508
+greedy influence maximization,randomized algorithm,-0.0265,1.4328
+optimal value,randomized algorithm,-0.0373,1.4404
+accuracy,greedy influence maximization,0.0163,1.4026
+greedy influence maximization,optimal value,0.9852,0.1723
+accuracy,optimal value,0.07,1.3638
+greedy influence maximization,real-world data,-0.0122,1.4228
+greedy influence maximization,state-of-the-arts,-0.3768,1.6594
+accuracy,real-world data,-0.4552,1.706
+accuracy,state-of-the-arts,-0.5562,1.7642
+optimal value,real-world data,0.0214,1.399
+real-world data,state-of-the-arts,0.8253,0.5911
+optimal value,state-of-the-arts,-0.3373,1.6354

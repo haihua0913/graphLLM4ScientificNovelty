@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+computations,synthetic datasets,0.151,1.3031
+accumulated trajectory error,gradient-matching methods,0.0479,1.3799
+gradient-matching methods,synthetic datasets,0.1462,1.3067
+accumulated trajectory error,synthetic datasets,-0.271,1.5944
+flat trajectory,gradient-matching methods,-0.0856,1.4735
+accumulated trajectory error,flat trajectory,0.9532,0.306
+gradient-matching methods,regularization,-0.1012,1.484
+flat trajectory,regularization,-0.214,1.5582
+accumulated trajectory error,regularization,-0.3612,1.65
+ImageNet dataset,gradient-matching methods,0.2002,1.2647
+ImageNet dataset,flat trajectory,0.0291,1.3935
+ImageNet dataset,accumulated trajectory error,-0.1437,1.5124
+ImageNet dataset,regularization,-0.1608,1.5236
+gradient-matching methods,neural architecture search,0.0185,1.4011
+flat trajectory,neural architecture search,-0.0441,1.4451
+ImageNet dataset,neural architecture search,0.9491,0.319
+neural architecture search,regularization,0.0439,1.3828

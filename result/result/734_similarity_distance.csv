@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+model-based posterior sampling,reinforcement learning,0.0079,1.4086
+regret bound,reinforcement learning,0.9796,0.2022
+model-based posterior sampling,regret bound,0.1073,1.3362
+Bayesian linear regression,reinforcement learning,-0.1557,1.5203
+Bayesian linear regression,model-based posterior sampling,0.3903,1.1042
+Bayesian linear regression,regret bound,-0.062,1.4574
+feature embedding,regret bound,0.1545,1.3004
+Bayesian linear regression,feature embedding,0.4517,1.0472
+MPC-PSRL,model-based posterior sampling,0.6651,0.8185
+model predictive control,model-based posterior sampling,0.3962,1.0989
+feature embedding,model-based posterior sampling,0.9849,0.1738
+MPC-PSRL,regret bound,0.007,1.4092
+model predictive control,regret bound,0.0211,1.3992
+MPC-PSRL,model predictive control,0.0871,1.3512
+MPC-PSRL,feature embedding,0.635,0.8545
+feature embedding,model predictive control,0.3645,1.1274
+model-based posterior sampling,neural networks,-0.1695,1.5294
+neural networks,regret bound,-0.0755,1.4666
+Bayesian linear regression,MPC-PSRL,-0.0233,1.4306
+Bayesian linear regression,model predictive control,-0.1888,1.5419
+Bayesian linear regression,neural networks,-0.1472,1.5147
+MPC-PSRL,neural networks,-0.1302,1.5035
+model predictive control,neural networks,-0.0938,1.4791
+feature embedding,neural networks,-0.1657,1.5269
+model-based posterior sampling,sample efficiency,0.4945,1.0055
+Bayesian linear regression,sample efficiency,-0.1491,1.5159
+MPC-PSRL,sample efficiency,0.1917,1.2714
+model predictive control,sample efficiency,0.9902,0.1399
+neural networks,sample efficiency,-0.079,1.469

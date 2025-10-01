@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+Aspect based sentiment analysis,aspect-category sentiment analysis,0.0041,1.4113
+Aspect based sentiment analysis,aspect-term sentiment analysis,-0.0185,1.4272
+Aspect based sentiment analysis,sentiment polarities,-0.2111,1.5563
+aspect-category sentiment analysis,aspect-term sentiment analysis,-0.5254,1.7466
+aspect-category sentiment analysis,sentiment polarities,0.8892,0.4707
+aspect-term sentiment analysis,sentiment polarities,-0.2845,1.6028
+Aspect based sentiment analysis,attention mechanisms,0.0876,1.3508
+aspect-category sentiment analysis,attention mechanisms,-0.3821,1.6626
+aspect-term sentiment analysis,attention mechanisms,0.886,0.4776
+attention mechanisms,sentiment polarities,-0.2135,1.5579
+aspect-category sentiment analysis,convolutional neural networks,-0.4818,1.7215
+aspect-category sentiment analysis,gating mechanisms,0.0192,1.4006
+aspect-term sentiment analysis,convolutional neural networks,0.4671,1.0324
+aspect-term sentiment analysis,gating mechanisms,-0.2267,1.5663
+convolutional neural networks,gating mechanisms,-0.4607,1.7092
+attention mechanisms,convolutional neural networks,0.6524,0.8338
+attention mechanisms,gating mechanisms,-0.299,1.6118
+Gated Tanh-ReLU Units,convolutional neural networks,0.5408,0.9584
+Gated Tanh-ReLU Units,gating mechanisms,-0.1763,1.5338
+Gated Tanh-ReLU Units,attention mechanisms,0.941,0.3434
+Gated Tanh-ReLU Units,LSTM layers,-0.2559,1.5848
+LSTM layers,SemEval datasets,-0.2097,1.5554

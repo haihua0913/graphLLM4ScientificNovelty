@@ -1,0 +1,296 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/aime/aime2020.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"77.31"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"44",
+"@dc":"44",
+"@oc":"44",
+"@id":"48871924",
+"text":":facetid:toc:db/conf/aime/aime2020.bht"
+}
+},
+"hits":{
+"@total":"44",
+"@computed":"44",
+"@sent":"44",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2469254",
+"info":{"authors":{"author":[{"@pid":"130/5619","text":"Mahdi Abdollahi"},{"@pid":"79/86","text":"Xiaoying Gao"},{"@pid":"74/8046-1","text":"Yi Mei 0001"},{"@pid":"117/3884","text":"Shameek Ghosh"},{"@pid":"247/9049-1","text":"Jinyan Li 0001"}]},"title":"Ontology-Guided Data Augmentation for Medical Document Classification.","venue":"AIME","pages":"78-88","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/AbdollahiG0GL20","doi":"10.1007/978-3-030-59137-3_8","ee":"https://doi.org/10.1007/978-3-030-59137-3_8","url":"https://dblp.org/rec/conf/aime/AbdollahiG0GL20"},
+"url":"URL#2469254"
+},
+{
+"@score":"1",
+"@id":"2469255",
+"info":{"authors":{"author":[{"@pid":"22/7687","text":"Shazia Afzal"},{"@pid":"120/8497","text":"Tejas Indulal Dhamecha"},{"@pid":"10/4670","text":"Paul Gagnon"},{"@pid":"246/1814","text":"Akash Nayak"},{"@pid":"160/9724","text":"Ayush Shah"},{"@pid":"268/9049","text":"Jan Carlstedt-Duke"},{"@pid":"245/9569","text":"Smriti Pathak"},{"@pid":"200/0310","text":"Sneha Mondal"},{"@pid":"235/6989","text":"Akshay Gugnani"},{"@pid":"89/7333","text":"Nabil Zary"},{"@pid":"45/4556","text":"Malolan Chetlur"}]},"title":"AI Medical School Tutor: Modelling and Implementation.","venue":"AIME","pages":"133-145","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/AfzalDGNSCPMGZC20","doi":"10.1007/978-3-030-59137-3_13","ee":"https://doi.org/10.1007/978-3-030-59137-3_13","url":"https://dblp.org/rec/conf/aime/AfzalDGNSCPMGZC20"},
+"url":"URL#2469255"
+},
+{
+"@score":"1",
+"@id":"2469256",
+"info":{"authors":{"author":[{"@pid":"185/2670","text":"Mohammed Ali Al-Garadi"},{"@pid":"274/9928","text":"Yuan-Chi Yang"},{"@pid":"274/9941","text":"Sahithi Lakamana"},{"@pid":"88/6731","text":"Jie Lin"},{"@pid":"274/9962","text":"Sabrina Li"},{"@pid":"274/9963","text":"Angel Xie"},{"@pid":"275/0003","text":"Whitney Hogg-Bremer"},{"@pid":"274/9909","text":"Mylin Torres"},{"@pid":"66/8467","text":"Imon Banerjee"},{"@pid":"43/10772","text":"Abeed Sarker"}]},"title":"Automatic Breast Cancer Cohort Detection from Social Media for Studying Factors Affecting Patient-Centered Outcomes.","venue":"AIME","pages":"100-110","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Al-GaradiYLLLXH20","doi":"10.1007/978-3-030-59137-3_10","ee":"https://doi.org/10.1007/978-3-030-59137-3_10","url":"https://dblp.org/rec/conf/aime/Al-GaradiYLLLXH20"},
+"url":"URL#2469256"
+},
+{
+"@score":"1",
+"@id":"2469257",
+"info":{"authors":{"author":[{"@pid":"194/2589","text":"Morteza Babaie"},{"@pid":"264/9772","text":"Hany Kashani"},{"@pid":"207/8074","text":"Meghana Dinesh Kumar"},{"@pid":"70/966","text":"Hamid R. Tizhoosh"}]},"title":"A New Local Radon Descriptor for Content-Based Image Search.","venue":"AIME","pages":"463-472","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/BabaieKKT20","doi":"10.1007/978-3-030-59137-3_41","ee":"https://doi.org/10.1007/978-3-030-59137-3_41","url":"https://dblp.org/rec/conf/aime/BabaieKKT20"},
+"url":"URL#2469257"
+},
+{
+"@score":"1",
+"@id":"2469258",
+"info":{"authors":{"author":[{"@pid":"186/8488","text":"Pavel Blinov"},{"@pid":"223/4008","text":"Manvel Avetisian"},{"@pid":"250/3871","text":"Vladimir Kokh"},{"@pid":"250/3872","text":"Dmitry Umerenkov"},{"@pid":"t/AlexanderTuzhilin","text":"Alexander Tuzhilin"}]},"title":"Predicting Clinical Diagnosis from Patients Electronic Health Records Using BERT-Based Neural Networks.","venue":"AIME","pages":"111-121","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/BlinovAKUT20","doi":"10.1007/978-3-030-59137-3_11","ee":"https://doi.org/10.1007/978-3-030-59137-3_11","url":"https://dblp.org/rec/conf/aime/BlinovAKUT20"},
+"url":"URL#2469258"
+},
+{
+"@score":"1",
+"@id":"2469259",
+"info":{"authors":{"author":[{"@pid":"252/3049","text":"Anusha Bompelli"},{"@pid":"252/2051","text":"Greg M. Silverman"},{"@pid":"239/1533","text":"Raymond L. Finzel"},{"@pid":"234/3695","text":"Jake Vasilakes"},{"@pid":"158/4143","text":"Benjamin Knoll"},{"@pid":"55/1703","text":"Serguei Pakhomov"},{"@pid":"60/2536-28","text":"Rui Zhang 0028"}]},"title":"Comparing NLP Systems to Extract Entities of Eligibility Criteria in Dietary Supplements Clinical Trials Using NLP-ADAPT.","venue":"AIME","pages":"67-77","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/BompelliSFVKP020","doi":"10.1007/978-3-030-59137-3_7","ee":"https://doi.org/10.1007/978-3-030-59137-3_7","url":"https://dblp.org/rec/conf/aime/BompelliSFVKP020"},
+"url":"URL#2469259"
+},
+{
+"@score":"1",
+"@id":"2469260",
+"info":{"authors":{"author":[{"@pid":"184/6065","text":"Pietro Bosoni"},{"@pid":"274/9979","text":"Marco Meccariello"},{"@pid":"218/4368","text":"Valeria Calcaterra"},{"@pid":"57/1813","text":"Cristiana Larizza"},{"@pid":"49/4014","text":"Lucia Sacchi"},{"@pid":"27/3072","text":"Riccardo Bellazzi"}]},"title":"Deep Learning Applied to Blood Glucose Prediction from Flash Glucose Monitoring and Fitbit Data.","venue":"AIME","pages":"59-63","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/BosoniMCLSB20","doi":"10.1007/978-3-030-59137-3_6","ee":"https://doi.org/10.1007/978-3-030-59137-3_6","url":"https://dblp.org/rec/conf/aime/BosoniMCLSB20"},
+"url":"URL#2469260"
+},
+{
+"@score":"1",
+"@id":"2469261",
+"info":{"authors":{"author":[{"@pid":"179/6511","text":"Konstantinos Bougiatiotis"},{"@pid":"06/8385","text":"Fotis Aisopos"},{"@pid":"204/7237","text":"Anastasios Nentidis"},{"@pid":"32/6354","text":"Anastasia Krithara"},{"@pid":"55/2039","text":"Georgios Paliouras"}]},"title":"Drug-Drug Interaction Prediction on a Biomedical Literature Knowledge Graph.","venue":"AIME","pages":"122-132","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/BougiatiotisANK20","doi":"10.1007/978-3-030-59137-3_12","ee":"https://doi.org/10.1007/978-3-030-59137-3_12","url":"https://dblp.org/rec/conf/aime/BougiatiotisANK20"},
+"url":"URL#2469261"
+},
+{
+"@score":"1",
+"@id":"2469262",
+"info":{"authors":{"author":[{"@pid":"27/7687-2","text":"Matthew Casey 0002"},{"@pid":"91/4684","text":"Nianjun Zhou"}]},"title":"Analysis of Viability of TCGA and GTEx Gene Expression for Gleason Grade Identification.","venue":"AIME","pages":"475-485","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/CaseyZ20","doi":"10.1007/978-3-030-59137-3_42","ee":"https://doi.org/10.1007/978-3-030-59137-3_42","url":"https://dblp.org/rec/conf/aime/CaseyZ20"},
+"url":"URL#2469262"
+},
+{
+"@score":"1",
+"@id":"2469263",
+"info":{"authors":{"author":[{"@pid":"250/1496","text":"Saloni Dash"},{"@pid":"250/1493","text":"Andrew Yale"},{"@pid":"31/6176","text":"Isabelle Guyon"},{"@pid":"24/4209","text":"Kristin P. Bennett"}]},"title":"Medical Time-Series Data Generation Using Generative Adversarial Networks.","venue":"AIME","pages":"382-391","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/DashYGB20","doi":"10.1007/978-3-030-59137-3_34","ee":"https://doi.org/10.1007/978-3-030-59137-3_34","url":"https://dblp.org/rec/conf/aime/DashYGB20"},
+"url":"URL#2469263"
+},
+{
+"@score":"1",
+"@id":"2469264",
+"info":{"authors":{"author":[{"@pid":"274/9993","text":"Ofir Dvir"},{"@pid":"274/9919","text":"Paul Wolfson"},{"@pid":"51/7425","text":"Laurence B. Lovat"},{"@pid":"34/678","text":"Robert Moskovitch"}]},"title":"Falls Prediction in Care Homes Using Mobile App Data Collection.","venue":"AIME","pages":"403-413","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/DvirWLM20","doi":"10.1007/978-3-030-59137-3_36","ee":"https://doi.org/10.1007/978-3-030-59137-3_36","url":"https://dblp.org/rec/conf/aime/DvirWLM20"},
+"url":"URL#2469264"
+},
+{
+"@score":"1",
+"@id":"2469265",
+"info":{"authors":{"author":[{"@pid":"183/6973","text":"Hossein Estiri"},{"@pid":"177/8177","text":"Sebastien Vasey"},{"@pid":"68/7183","text":"Shawn N. Murphy"}]},"title":"Transitive Sequential Pattern Mining for Discrete Clinical Data.","venue":"AIME","pages":"414-424","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/EstiriVM20","doi":"10.1007/978-3-030-59137-3_37","ee":"https://doi.org/10.1007/978-3-030-59137-3_37","url":"https://dblp.org/rec/conf/aime/EstiriVM20"},
+"url":"URL#2469265"
+},
+{
+"@score":"1",
+"@id":"2469266",
+"info":{"authors":{"author":[{"@pid":"168/7495","text":"Paolo Fraccaro"},{"@pid":"150/7412","text":"Xenophon Evangelopoulos"},{"@pid":"274/9930","text":"Blair Edwards"}]},"title":"Development and Preliminary Evaluation of a Method for Passive, Privacy-Aware Home Care Monitoring Based on 2D LiDAR Data.","venue":"AIME","pages":"160-169","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/FraccaroEE20","doi":"10.1007/978-3-030-59137-3_15","ee":"https://doi.org/10.1007/978-3-030-59137-3_15","url":"https://dblp.org/rec/conf/aime/FraccaroEE20"},
+"url":"URL#2469266"
+},
+{
+"@score":"1",
+"@id":"2469267",
+"info":{"authors":{"author":[{"@pid":"149/9704","text":"Nick Lik San Fung"},{"@pid":"s/MartenvanSinderen","text":"Marten J. van Sinderen"},{"@pid":"39/4651","text":"Valerie M. Jones"},{"@pid":"56/2997","text":"Hermie J. Hermens"}]},"title":"A Verified, Executable Formalism for Resilient and Pervasive Guideline-Based Decision Support for Patients.","venue":"AIME","pages":"427-439","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/FungSJH20","doi":"10.1007/978-3-030-59137-3_38","ee":"https://doi.org/10.1007/978-3-030-59137-3_38","url":"https://dblp.org/rec/conf/aime/FungSJH20"},
+"url":"URL#2469267"
+},
+{
+"@score":"1",
+"@id":"2469268",
+"info":{"authors":{"author":[{"@pid":"274/9922","text":"Nevo Itzhak"},{"@pid":"205/7014","text":"Aditya Nagori"},{"@pid":"274/9994","text":"Edo Lior"},{"@pid":"274/9978","text":"Maya Schvetz"},{"@pid":"205/7179","text":"Rakesh Lodha"},{"@pid":"205/6969","text":"Tavpritesh Sethi"},{"@pid":"34/678","text":"Robert Moskovitch"}]},"title":"Acute Hypertensive Episodes Prediction.","venue":"AIME","pages":"392-402","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ItzhakNLSLSM20","doi":"10.1007/978-3-030-59137-3_35","ee":"https://doi.org/10.1007/978-3-030-59137-3_35","url":"https://dblp.org/rec/conf/aime/ItzhakNLSLSM20"},
+"url":"URL#2469268"
+},
+{
+"@score":"1",
+"@id":"2469269",
+"info":{"authors":{"author":[{"@pid":"16/10884","text":"Fattaneh Jabbari"},{"@pid":"274/9997","text":"Liza C. Villaruz"},{"@pid":"58/3311","text":"Mike Davis"},{"@pid":"96/2706","text":"Gregory F. Cooper"}]},"title":"Lung Cancer Survival Prediction Using Instance-Specific Bayesian Networks.","venue":"AIME","pages":"149-159","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/JabbariVDC20","doi":"10.1007/978-3-030-59137-3_14","ee":"https://doi.org/10.1007/978-3-030-59137-3_14","url":"https://dblp.org/rec/conf/aime/JabbariVDC20"},
+"url":"URL#2469269"
+},
+{
+"@score":"1",
+"@id":"2469270",
+"info":{"authors":{"author":[{"@pid":"192/3852","text":"Jing Ke"},{"@pid":"76/9743-3","text":"Yiqing Shen 0003"},{"@pid":"24/3508-1","text":"Yi Guo 0001"},{"@pid":"274/9971","text":"Jason D. Wright"},{"@pid":"23/8030","text":"Naifeng Jing"},{"@pid":"88/6436","text":"Xiaoyao Liang"}]},"title":"A High-Throughput Tumor Location System with Deep Learning for Colorectal Cancer Histopathology Image.","venue":"AIME","pages":"260-269","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Ke0GWJL20","doi":"10.1007/978-3-030-59137-3_24","ee":"https://doi.org/10.1007/978-3-030-59137-3_24","url":"https://dblp.org/rec/conf/aime/Ke0GWJL20"},
+"url":"URL#2469270"
+},
+{
+"@score":"1",
+"@id":"2469271",
+"info":{"authors":{"author":[{"@pid":"121/6017-1","text":"Jeongmin Lee 0001"},{"@pid":"54/4898","text":"Milos Hauskrecht"}]},"title":"Multi-scale Temporal Memory for Clinical Event Time-Series Prediction.","venue":"AIME","pages":"313-324","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/LeeH20","doi":"10.1007/978-3-030-59137-3_28","ee":"https://doi.org/10.1007/978-3-030-59137-3_28","url":"https://dblp.org/rec/conf/aime/LeeH20"},
+"url":"URL#2469271"
+},
+{
+"@score":"1",
+"@id":"2469272",
+"info":{"authors":{"author":[{"@pid":"238/1693","text":"Linhong Li"},{"@pid":"270/2119","text":"Ren Zuo"},{"@pid":"232/3147","text":"Amanda Coston"},{"@pid":"117/4916","text":"Jeremy C. Weiss"},{"@pid":"121/1833","text":"George H. Chen"}]},"title":"Neural Topic Models with Survival Supervision: Jointly Predicting Time-to-Event Outcomes and Learning How Clinical Features Relate.","venue":"AIME","pages":"371-381","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/LiZCWC20","doi":"10.1007/978-3-030-59137-3_33","ee":"https://doi.org/10.1007/978-3-030-59137-3_33","url":"https://dblp.org/rec/conf/aime/LiZCWC20"},
+"url":"URL#2469272"
+},
+{
+"@score":"1",
+"@id":"2469273",
+"info":{"authors":{"author":[{"@pid":"213/7957","text":"Tom Mahler"},{"@pid":"98/40","text":"Erez Shalom"},{"@pid":"38/4086","text":"Yuval Elovici"},{"@pid":"73/5503","text":"Yuval Shahar"}]},"title":"A Dual-Layer Architecture for the Protection of Medical Devices from Anomalous Instructions.","venue":"AIME","pages":"273-286","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/MahlerSES20","doi":"10.1007/978-3-030-59137-3_25","ee":"https://doi.org/10.1007/978-3-030-59137-3_25","url":"https://dblp.org/rec/conf/aime/MahlerSES20"},
+"url":"URL#2469273"
+},
+{
+"@score":"1",
+"@id":"2469274",
+"info":{"authors":{"author":[{"@pid":"15/8537","text":"Yves Mercadier"},{"@pid":"80/5250","text":"Jérôme Azé"},{"@pid":"26/2289","text":"Sandra Bringay"}]},"title":"Divide to Better Classify.","venue":"AIME","pages":"89-99","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/MercadierAB20","doi":"10.1007/978-3-030-59137-3_9","ee":"https://doi.org/10.1007/978-3-030-59137-3_9","url":"https://dblp.org/rec/conf/aime/MercadierAB20"},
+"url":"URL#2469274"
+},
+{
+"@score":"1",
+"@id":"2469275",
+"info":{"authors":{"author":[{"@pid":"274/9970","text":"Pavel Novitski"},{"@pid":"274/9906","text":"Cheli Melzer Cohen"},{"@pid":"274/9931","text":"Avraham Karasik"},{"@pid":"24/7312","text":"Varda Shalev"},{"@pid":"275/0008","text":"Gabriel Hodik"},{"@pid":"34/678","text":"Robert Moskovitch"}]},"title":"All-Cause Mortality Prediction in T2D Patients.","venue":"AIME","pages":"3-13","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/NovitskiCKSHM20","doi":"10.1007/978-3-030-59137-3_1","ee":"https://doi.org/10.1007/978-3-030-59137-3_1","url":"https://dblp.org/rec/conf/aime/NovitskiCKSHM20"},
+"url":"URL#2469275"
+},
+{
+"@score":"1",
+"@id":"2469276",
+"info":{"authors":{"author":[{"@pid":"243/1895","text":"Jaber Rad"},{"@pid":"72/10873","text":"Calvino Cheng"},{"@pid":"274/9991","text":"Jason G. Quinn"},{"@pid":"28/1138","text":"Samina Abidi"},{"@pid":"275/0024","text":"Robert Liwski"},{"@pid":"53/914","text":"Syed Sibte Raza Abidi"}]},"title":"An AI-Driven Predictive Modelling Framework to Analyze and Visualize Blood Product Transactional Data for Reducing Blood Products&apos; Discards.","venue":"AIME","pages":"192-202","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/RadCQALA20","doi":"10.1007/978-3-030-59137-3_18","ee":"https://doi.org/10.1007/978-3-030-59137-3_18","url":"https://dblp.org/rec/conf/aime/RadCQALA20"},
+"url":"URL#2469276"
+},
+{
+"@score":"1",
+"@id":"2469277",
+"info":{"authors":{"author":[{"@pid":"210/8007","text":"Sina Rashidian"},{"@pid":"69/3405-1","text":"Fusheng Wang 0001"},{"@pid":"14/109","text":"Richard A. Moffitt"},{"@pid":"153/0676","text":"Victor Garcia"},{"@pid":"274/9937","text":"Anurag Dutt"},{"@pid":"01/1611","text":"Wei Chang"},{"@pid":"275/0020","text":"Vishwam Pandya"},{"@pid":"60/6716","text":"Janos G. Hajagos"},{"@pid":"186/4832","text":"Mary M. Saltz"},{"@pid":"s/JoelHSaltz","text":"Joel H. Saltz"}]},"title":"SMOOTH-GAN: Towards Sharp and Smooth Synthetic EHR Data Generation.","venue":"AIME","pages":"37-48","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Rashidian0MGDCP20","doi":"10.1007/978-3-030-59137-3_4","ee":"https://doi.org/10.1007/978-3-030-59137-3_4","url":"https://dblp.org/rec/conf/aime/Rashidian0MGDCP20"},
+"url":"URL#2469277"
+},
+{
+"@score":"1",
+"@id":"2469278",
+"info":{"authors":{"author":[{"@pid":"268/3707","text":"Omar El Rifai"},{"@pid":"268/3780","text":"Maelle Biotteau"},{"@pid":"268/3811","text":"Xavier de Boissezon"},{"@pid":"119/9061","text":"Imen Megdiche"},{"@pid":"23/1370","text":"Franck Ravat"},{"@pid":"t/OlivierTeste","text":"Olivier Teste"}]},"title":"Blockchain-Based Federated Learning in Medicine.","venue":"AIME","pages":"214-224","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/RifaiBBMRT20","doi":"10.1007/978-3-030-59137-3_20","ee":"https://doi.org/10.1007/978-3-030-59137-3_20","url":"https://dblp.org/rec/conf/aime/RifaiBBMRT20"},
+"url":"URL#2469278"
+},
+{
+"@score":"1",
+"@id":"2469279",
+"info":{"authors":{"author":[{"@pid":"51/8415","text":"Tomer Sagi"},{"@pid":"275/0011","text":"Emil Riis Hansen"},{"@pid":"h/KatjaHose","text":"Katja Hose"},{"@pid":"274/9933","text":"Gregory Y. H. Lip"},{"@pid":"129/3801","text":"Torben Bjerregaard Larsen"},{"@pid":"274/9977","text":"Flemming Skjøth"}]},"title":"Towards Assigning Diagnosis Codes Using Medication History.","venue":"AIME","pages":"203-213","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SagiHHLLS20","doi":"10.1007/978-3-030-59137-3_19","ee":"https://doi.org/10.1007/978-3-030-59137-3_19","url":"https://dblp.org/rec/conf/aime/SagiHHLLS20"},
+"url":"URL#2469279"
+},
+{
+"@score":"1",
+"@id":"2469280",
+"info":{"authors":{"author":[{"@pid":"173/3027","text":"Miriam Seoane Santos"},{"@pid":"66/6482","text":"Pedro H. Abreu"},{"@pid":"77/4305","text":"Szymon Wilk"},{"@pid":"255/8033","text":"João A. M. Santos"}]},"title":"Assessing the Impact of Distance Functions on K-Nearest Neighbours Imputation of Biomedical Datasets.","venue":"AIME","pages":"486-496","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SantosAWS20","doi":"10.1007/978-3-030-59137-3_43","ee":"https://doi.org/10.1007/978-3-030-59137-3_43","url":"https://dblp.org/rec/conf/aime/SantosAWS20"},
+"url":"URL#2469280"
+},
+{
+"@score":"1",
+"@id":"2469281",
+"info":{"authors":{"author":[{"@pid":"168/0095","text":"Ariane Morassi Sasso"},{"@pid":"78/10927","text":"Suparno Datta"},{"@pid":"274/9955","text":"Michael Jeitler"},{"@pid":"275/0000","text":"Nico Steckhan"},{"@pid":"274/9918","text":"Christian S. Kessler"},{"@pid":"274/9992","text":"Andreas Michalsen"},{"@pid":"63/152","text":"Bert Arnrich"},{"@pid":"95/821","text":"Erwin P. Böttinger"}]},"title":"HYPE: Predicting Blood Pressure from Photoplethysmograms in a Hypertensive Population.","venue":"AIME","pages":"325-335","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SassoDJSKMAB20","doi":"10.1007/978-3-030-59137-3_29","ee":"https://doi.org/10.1007/978-3-030-59137-3_29","url":"https://dblp.org/rec/conf/aime/SassoDJSKMAB20"},
+"url":"URL#2469281"
+},
+{
+"@score":"1",
+"@id":"2469282",
+"info":{"authors":{"author":[{"@pid":"184/9211","text":"Gabriel Schamberg"},{"@pid":"157/1652","text":"Marcus A. Badgeley"},{"@pid":"89/4386","text":"Emery N. Brown"}]},"title":"Controlling Level of Unconsciousness by Titrating Propofol with Deep Reinforcement Learning.","venue":"AIME","pages":"26-36","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SchambergBB20","doi":"10.1007/978-3-030-59137-3_3","ee":"https://doi.org/10.1007/978-3-030-59137-3_3","url":"https://dblp.org/rec/conf/aime/SchambergBB20"},
+"url":"URL#2469282"
+},
+{
+"@score":"1",
+"@id":"2469283",
+"info":{"authors":{"author":[{"@pid":"124/2435","text":"Aditya Sriram"},{"@pid":"150/8624","text":"Shivam Kalra"},{"@pid":"194/2589","text":"Morteza Babaie"},{"@pid":"207/7662","text":"Brady Kieffer"},{"@pid":"272/4233","text":"Waddah Al Drobi"},{"@pid":"37/5203","text":"Shahryar Rahnamayan"},{"@pid":"264/9772","text":"Hany Kashani"},{"@pid":"70/966","text":"Hamid R. Tizhoosh"}]},"title":"Forming Local Intersections of Projections for Classifying and Searching Histopathology Images.","venue":"AIME","pages":"227-237","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SriramKBKDRKT20","doi":"10.1007/978-3-030-59137-3_21","ee":"https://doi.org/10.1007/978-3-030-59137-3_21","url":"https://dblp.org/rec/conf/aime/SriramKBKDRKT20"},
+"url":"URL#2469283"
+},
+{
+"@score":"1",
+"@id":"2469284",
+"info":{"authors":{"author":[{"@pid":"274/9910","text":"Peter Svenson"},{"@pid":"143/7333","text":"Giannis Haralabopoulos"},{"@pid":"239/5152","text":"Mercedes Torres Torres"}]},"title":"Sepsis Deterioration Prediction Using Channelled Long Short-Term Memory Networks.","venue":"AIME","pages":"359-370","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/SvensonHT20","doi":"10.1007/978-3-030-59137-3_32","ee":"https://doi.org/10.1007/978-3-030-59137-3_32","url":"https://dblp.org/rec/conf/aime/SvensonHT20"},
+"url":"URL#2469284"
+},
+{
+"@score":"1",
+"@id":"2469285",
+"info":{"authors":{"author":[{"@pid":"130/6455","text":"Antonio Sze-To"},{"@pid":"70/966","text":"Hamid R. Tizhoosh"}]},"title":"Searching for Pneumothorax in Half a Million Chest X-Ray Images.","venue":"AIME","pages":"453-462","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Sze-ToT20","doi":"10.1007/978-3-030-59137-3_40","ee":"https://doi.org/10.1007/978-3-030-59137-3_40","url":"https://dblp.org/rec/conf/aime/Sze-ToT20"},
+"url":"URL#2469285"
+},
+{
+"@score":"1",
+"@id":"2469286",
+"info":{"authors":{"author":[{"@pid":"239/0768","text":"Roshan Tourani"},{"@pid":"163/6851","text":"Dennis H. Murphree"},{"@pid":"01/2082","text":"Ying Zhu"},{"@pid":"274/9954","text":"Adam Sheka"},{"@pid":"18/4279","text":"Genevieve B. Melton"},{"@pid":"134/2424","text":"Daryl J. Kor"},{"@pid":"39/4973","text":"György J. Simon"}]},"title":"Consensus Modeling: A Transfer Learning Approach for Small Health Systems.","venue":"AIME","pages":"181-191","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/TouraniMZSMKS20","doi":"10.1007/978-3-030-59137-3_17","ee":"https://doi.org/10.1007/978-3-030-59137-3_17","url":"https://dblp.org/rec/conf/aime/TouraniMZSMKS20"},
+"url":"URL#2469286"
+},
+{
+"@score":"1",
+"@id":"2469287",
+"info":{"authors":{"author":[{"@pid":"64/10412","text":"Theodoros Tsiligkaridis"},{"@pid":"151/3251","text":"Jennifer Sloboda"}]},"title":"A Multi-task LSTM Framework for Improved Early Sepsis Prediction.","venue":"AIME","pages":"49-58","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/TsiligkaridisS20","doi":"10.1007/978-3-030-59137-3_5","ee":"https://doi.org/10.1007/978-3-030-59137-3_5","url":"https://dblp.org/rec/conf/aime/TsiligkaridisS20"},
+"url":"URL#2469287"
+},
+{
+"@score":"1",
+"@id":"2469288",
+"info":{"authors":{"author":[{"@pid":"15/3718","text":"Olgierd Unold"},{"@pid":"241/6374","text":"Mateusz Gabor"},{"@pid":"34/163","text":"Witold Dyrka"}]},"title":"Unsupervised Grammar Induction for Revealing the Internal Structure of Protein Sequence Motifs.","venue":"AIME","pages":"299-309","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/UnoldGD20","doi":"10.1007/978-3-030-59137-3_27","ee":"https://doi.org/10.1007/978-3-030-59137-3_27","url":"https://dblp.org/rec/conf/aime/UnoldGD20"},
+"url":"URL#2469288"
+},
+{
+"@score":"1",
+"@id":"2469289",
+"info":{"authors":{"author":[{"@pid":"161/2728","text":"Anita Valmarska"},{"@pid":"79/8431","text":"Dragana Miljkovic"},{"@pid":"l/NadaLavrac","text":"Nada Lavrac"},{"@pid":"27/3905","text":"Marko Robnik-Sikonja"}]},"title":"Multi-view Clustering with mvReliefF for Parkinson&apos;s Disease Patients Subgroup Detection.","venue":"AIME","pages":"287-298","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ValmarskaMLR20","doi":"10.1007/978-3-030-59137-3_26","ee":"https://doi.org/10.1007/978-3-030-59137-3_26","url":"https://dblp.org/rec/conf/aime/ValmarskaMLR20"},
+"url":"URL#2469289"
+},
+{
+"@score":"1",
+"@id":"2469290",
+"info":{"authors":{"author":[{"@pid":"267/5619","text":"Ostap Viniavskyi"},{"@pid":"256/9872","text":"Mariia Dobko"},{"@pid":"256/9925","text":"Oles Dobosevych"}]},"title":"Weakly-Supervised Segmentation for Disease Localization in Chest X-Ray Images.","venue":"AIME","pages":"249-259","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ViniavskyiDD20","doi":"10.1007/978-3-030-59137-3_23","ee":"https://doi.org/10.1007/978-3-030-59137-3_23","url":"https://dblp.org/rec/conf/aime/ViniavskyiDD20"},
+"url":"URL#2469290"
+},
+{
+"@score":"1",
+"@id":"2469291",
+"info":{"authors":{"author":[{"@pid":"233/5628","text":"Tingyi Wanyan"},{"@pid":"208/6526","text":"Martin Kang"},{"@pid":"157/1652","text":"Marcus A. Badgeley"},{"@pid":"199/4919","text":"Kipp W. Johnson"},{"@pid":"233/3915","text":"Jessica K. De Freitas"},{"@pid":"261/3670","text":"Fayzan F. Chaudhry"},{"@pid":"274/9964","text":"Akhil Vaid"},{"@pid":"00/6640","text":"Shan Zhao"},{"@pid":"67/5504","text":"Riccardo Miotto"},{"@pid":"161/1895","text":"Girish N. Nadkarni"},{"@pid":"52/3194-1","text":"Fei Wang 0001"},{"@pid":"212/8498","text":"Justin F. Rousseau"},{"@pid":"79/8436","text":"Ariful Azad"},{"@pid":"38/6013-1","text":"Ying Ding 0001"},{"@pid":"164/0304","text":"Benjamin S. Glicksberg"}]},"title":"Heterogeneous Graph Embeddings of Electronic Health Records Improve Critical Care Disease Predictions.","venue":"AIME","pages":"14-25","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/WanyanKBJFCVZMN20","doi":"10.1007/978-3-030-59137-3_2","ee":"https://doi.org/10.1007/978-3-030-59137-3_2","url":"https://dblp.org/rec/conf/aime/WanyanKBJFCVZMN20"},
+"url":"URL#2469291"
+},
+{
+"@score":"1",
+"@id":"2469292",
+"info":{"authors":{"author":[{"@pid":"234/9076","text":"Jerry W. Wei"},{"@pid":"198/0422","text":"Arief A. Suriawinata"},{"@pid":"96/5609-2","text":"Xiaoying Liu 0002"},{"@pid":"15/6678","text":"Bing Ren"},{"@pid":"263/7729","text":"Mustafa Nasir-Moin"},{"@pid":"221/6339","text":"Naofumi Tomita"},{"@pid":"02/11220","text":"Jason Wei"},{"@pid":"41/7507","text":"Saeed Hassanpour"}]},"title":"Difficulty Translation in Histopathology Images.","venue":"AIME","pages":"238-248","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/WeiSLRNTWH20","doi":"10.1007/978-3-030-59137-3_22","ee":"https://doi.org/10.1007/978-3-030-59137-3_22","url":"https://dblp.org/rec/conf/aime/WeiSLRNTWH20"},
+"url":"URL#2469292"
+},
+{
+"@score":"1",
+"@id":"2469293",
+"info":{"authors":{"author":[{"@pid":"94/2734","text":"William Van Woensel"},{"@pid":"28/1138","text":"Samina Abidi"},{"@pid":"36/1676","text":"Borna Jafarpour"},{"@pid":"53/914","text":"Syed Sibte Raza Abidi"}]},"title":"A CIG Integration Framework to Provide Decision Support for Comorbid Conditions Using Transaction-Based Semantics and Temporal Planning.","venue":"AIME","pages":"440-450","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/WoenselAJA20","doi":"10.1007/978-3-030-59137-3_39","ee":"https://doi.org/10.1007/978-3-030-59137-3_39","url":"https://dblp.org/rec/conf/aime/WoenselAJA20"},
+"url":"URL#2469293"
+},
+{
+"@score":"1",
+"@id":"2469294",
+"info":{"authors":{"author":[{"@pid":"178/6867","text":"Tianran Zhang"},{"@pid":"173/2608","text":"Muhao Chen 0001"},{"@pid":"92/1850","text":"Alex A. T. Bui"}]},"title":"Diagnostic Prediction with Sequence-of-sets Representation Learning for Clinical Events.","venue":"AIME","pages":"348-358","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ZhangCB20","doi":"10.1007/978-3-030-59137-3_31","ee":"https://doi.org/10.1007/978-3-030-59137-3_31","url":"https://dblp.org/rec/conf/aime/ZhangCB20"},
+"url":"URL#2469294"
+},
+{
+"@score":"1",
+"@id":"2469295",
+"info":{"authors":{"author":[{"@pid":"55/11105","text":"Helen Zhou"},{"@pid":"66/332-1","text":"Cheng Cheng 0001"},{"@pid":"142/2839","text":"Zachary C. Lipton"},{"@pid":"121/1833","text":"George H. Chen"},{"@pid":"117/4916","text":"Jeremy C. Weiss"}]},"title":"Mortality Risk Score for Critically Ill Patients with Viral or Unspecified Pneumonia: Assisting Clinicians with COVID-19 ECMO Planning.","venue":"AIME","pages":"336-347","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/Zhou0LCW20","doi":"10.1007/978-3-030-59137-3_30","ee":"https://doi.org/10.1007/978-3-030-59137-3_30","url":"https://dblp.org/rec/conf/aime/Zhou0LCW20"},
+"url":"URL#2469295"
+},
+{
+"@score":"1",
+"@id":"2469296",
+"info":{"authors":{"author":[{"@pid":"01/2082","text":"Ying Zhu"},{"@pid":"239/0768","text":"Roshan Tourani"},{"@pid":"274/9954","text":"Adam Sheka"},{"@pid":"212/1744","text":"Elizabeth C. Wick"},{"@pid":"18/4279","text":"Genevieve B. Melton"},{"@pid":"39/4973","text":"György J. Simon"}]},"title":"Innovative Method to Build Robust Prediction Models When Gold-Standard Outcomes Are Scarce.","venue":"AIME","pages":"170-180","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/aime/ZhuTSWMS20","doi":"10.1007/978-3-030-59137-3_16","ee":"https://doi.org/10.1007/978-3-030-59137-3_16","url":"https://dblp.org/rec/conf/aime/ZhuTSWMS20"},
+"url":"URL#2469296"
+},
+{
+"@score":"1",
+"@id":"2633660",
+"info":{"authors":{"author":[{"@pid":"80/3650","text":"Martin Michalowski"},{"@pid":"34/678","text":"Robert Moskovitch"}]},"title":"Artificial Intelligence in Medicine - 18th International Conference on Artificial Intelligence in Medicine, AIME 2020, Minneapolis, MN, USA, August 25-28, 2020, Proceedings","venue":["AIME","Lecture Notes in Computer Science"],"volume":"12299","publisher":"Springer","year":"2020","type":"Editorship","key":"conf/aime/2020","doi":"10.1007/978-3-030-59137-3","ee":"https://doi.org/10.1007/978-3-030-59137-3","url":"https://dblp.org/rec/conf/aime/2020"},
+"url":"URL#2633660"
+}
+]
+}
+}
+}

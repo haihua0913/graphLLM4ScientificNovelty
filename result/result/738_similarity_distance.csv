@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+generalization,mixup for graph data,-0.1058,1.4871
+mixup for graph data,robustness,-0.1018,1.4845
+generalization,robustness,-0.0931,1.4786
+Euclidean space,generalization,-0.029,1.4346
+Euclidean space,robustness,-0.0463,1.4466
+graph classification,graphon,-0.0674,1.4611
+Euclidean space,graph classification,-0.0042,1.4172
+Euclidean space,graphon,-0.3177,1.6234
+generalization,graphon,-0.2295,1.5681
+GNNs,generalization,0.1162,1.3295
+graphon,robustness,-0.0916,1.4776
+GNNs,robustness,0.9051,0.4357
+GNNs,graphon,-0.1896,1.5424
+Euclidean space,GNNs,0.0248,1.3966

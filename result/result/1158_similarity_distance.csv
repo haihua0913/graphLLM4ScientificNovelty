@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+Continual learning,class incremental learning,-0.2775,1.5984
+Continual learning,task incremental learning,-0.2775,1.5984
+Continual learning,TIL,-0.2822,1.6014
+CIL,Continual learning,-0.2416,1.5758
+class incremental learning,task incremental learning,1.0,0.0
+TIL,class incremental learning,0.9996,0.0285
+CIL,class incremental learning,0.9496,0.3175
+TIL,task incremental learning,0.9996,0.0285
+CIL,task incremental learning,0.9496,0.3175
+CIL,TIL,0.9506,0.3143
+Continual learning,catastrophic forgetting,-0.2602,1.5876
+catastrophic forgetting,class incremental learning,0.9825,0.1873
+catastrophic forgetting,task incremental learning,0.9825,0.1873
+TIL,catastrophic forgetting,0.985,0.1731
+CIL,catastrophic forgetting,0.9183,0.4042
+Task-id Prediction,Within-task Prediction,0.9068,0.4317
+CIL,Within-task Prediction,-0.2304,1.5687
+CIL,Task-id Prediction,-0.0772,1.4678
+OOD detection,Within-task Prediction,-0.1433,1.5122
+OOD detection,Task-id Prediction,-0.0831,1.4718
+CIL,OOD detection,0.0729,1.3617
+OOD detection,TIL,0.0293,1.3933

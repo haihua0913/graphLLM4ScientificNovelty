@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+algorithm,disambiguating,0.99,0.1416
+algorithm,restaurant reviews,-0.1002,1.4834
+Chinese,algorithm,0.0659,1.3668
+disambiguating,restaurant reviews,-0.1187,1.4958
+Chinese,disambiguating,0.0786,1.3575
+Chinese,restaurant reviews,-0.2862,1.6039
+algorithm,linguistic features,0.0448,1.3822
+disambiguating,linguistic features,0.0474,1.3803
+linguistic features,restaurant reviews,-0.3512,1.6439
+Chinese,linguistic features,0.0547,1.375
+document-level features,linguistic features,0.979,0.2049
+linguistic features,referentiality,0.0636,1.3685
+document-level features,referentiality,0.0632,1.3688
+linguistic features,online reviews,-0.063,1.4581
+document-level features,online reviews,-0.0621,1.4575
+online reviews,referentiality,-0.1213,1.4975

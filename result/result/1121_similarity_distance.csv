@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+Imagen,text-to-image diffusion model,-0.0036,1.4168
+Imagen,photorealism,0.6202,0.8716
+Imagen,language understanding,-0.0264,1.4327
+Imagen,large transformer language models,-0.0647,1.4592
+Imagen,diffusion models,-0.0108,1.4218
+photorealism,text-to-image diffusion model,-0.1151,1.4934
+language understanding,text-to-image diffusion model,0.8425,0.5613
+large transformer language models,text-to-image diffusion model,0.5734,0.9236
+diffusion models,text-to-image diffusion model,0.0864,1.3517
+language understanding,photorealism,-0.3613,1.65
+large transformer language models,photorealism,0.0937,1.3464
+diffusion models,photorealism,-0.0962,1.4807
+language understanding,large transformer language models,0.478,1.0218
+diffusion models,language understanding,-0.2868,1.6042
+diffusion models,large transformer language models,-0.194,1.5453
+Imagen,image-text alignment,0.1676,1.2903
+image-text alignment,large transformer language models,-0.2951,1.6094
+diffusion models,image-text alignment,0.8957,0.4568
+FID score,Imagen,0.4832,1.0167
+COCO dataset,Imagen,-0.5106,1.7382
+COCO dataset,FID score,-0.0718,1.4641
+FID score,image-text alignment,-0.0971,1.4813
+COCO dataset,image-text alignment,-0.1332,1.5055
+DrawBench,Imagen,0.5877,0.9081
+DrawBench,FID score,0.7661,0.684
+COCO dataset,DrawBench,-0.1262,1.5008
+DrawBench,image-text alignment,0.0567,1.3735
+FID score,diffusion models,-0.0199,1.4282
+COCO dataset,diffusion models,-0.1921,1.5441
+DrawBench,diffusion models,0.0882,1.3504

@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+multi-label classification,one-vs-rest method,-0.0094,1.4208
+multi-label classification,training inconsistency,-0.0387,1.4413
+one-vs-rest method,training inconsistency,0.9635,0.2702
+Class Balanced K-Nearest Neighbor,multi-label classification,-0.2055,1.5528
+Class Balanced K-Nearest Neighbor,one-vs-rest method,0.8844,0.4808
+Class Balanced K-Nearest Neighbor,training inconsistency,0.9514,0.3117
+Class Balanced Linear Discriminant Analysis,multi-label classification,-0.2673,1.592
+high-dimensional,multi-label classification,-0.1663,1.5273
+Class Balanced Linear Discriminant Analysis,training inconsistency,-0.1493,1.5161
+high-dimensional,training inconsistency,0.9342,0.3629
+Class Balanced K-Nearest Neighbor,Class Balanced Linear Discriminant Analysis,0.0308,1.3923
+Class Balanced K-Nearest Neighbor,high-dimensional,0.9853,0.1712
+Class Balanced Linear Discriminant Analysis,high-dimensional,0.0732,1.3614
+multi-label classification,multi-label data sets,-0.0429,1.4442
+Class Balanced K-Nearest Neighbor,multi-label data sets,0.0583,1.3723
+Class Balanced Linear Discriminant Analysis,multi-label data sets,-0.0854,1.4734
+high-dimensional,multi-label data sets,0.133,1.3168

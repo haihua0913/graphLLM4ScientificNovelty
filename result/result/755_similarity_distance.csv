@@ -1,0 +1,14 @@
+node1,node2,similarity,distance
+local differential privacy,mean estimation,-0.202,1.5505
+PrivUnit,local randomizers,0.0278,1.3944
+PrivUnit,symmetrization,0.9259,0.385
+PrivUnit,linear program,-0.3937,1.6695
+local randomizers,symmetrization,-0.0489,1.4483
+linear program,local randomizers,0.1637,1.2933
+linear program,symmetrization,-0.1477,1.5151
+Gaussian distribution,PrivUnit,-0.3433,1.6391
+Gaussian distribution,local randomizers,-0.0403,1.4424
+Gaussian distribution,symmetrization,-0.1503,1.5167
+Gaussian distribution,linear program,0.378,1.1154
+PrivUnit,optimal error,0.093,1.3469
+Gaussian distribution,optimal error,0.0337,1.3902

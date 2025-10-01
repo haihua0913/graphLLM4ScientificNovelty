@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+computer-assisted translation,machine translation,-0.3366,1.635
+human feedback,machine translation,-0.299,1.6118
+data similarity,machine translation,-0.2288,1.5677
+computer-assisted translation,human feedback,-0.1305,1.5036
+computer-assisted translation,data similarity,-0.073,1.4649
+data similarity,human feedback,0.9375,0.3534
+machine translation,multitask learning,-0.1093,1.4895
+computer-assisted translation,multitask learning,-0.0917,1.4776
+human feedback,multitask learning,-0.0944,1.4795
+data similarity,multitask learning,-0.2598,1.5873
+multitask learning,regression task,0.3516,1.1388
+HTER prediction,multitask learning,0.0561,1.374
+human feedback,regression task,-0.0142,1.4242
+HTER prediction,human feedback,-0.1315,1.5044
+data similarity,regression task,0.0643,1.368
+HTER prediction,data similarity,-0.3278,1.6296
+HTER prediction,regression task,-0.1876,1.5411
+QE component,multitask learning,-0.1905,1.543
+QE component,regression task,0.0268,1.3951
+HTER prediction,QE component,-0.1184,1.4956

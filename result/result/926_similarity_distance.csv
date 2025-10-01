@@ -1,0 +1,34 @@
+node1,node2,similarity,distance
+graph similarity,k-core decomposition,0.6338,0.8558
+graph similarity,nested subgraphs,0.0621,1.3696
+k-core decomposition,nested subgraphs,0.6976,0.7776
+graph kernels,graph similarity,0.1205,1.3262
+graph similarity,graphlet kernel,0.9366,0.3562
+graph similarity,shortest-path kernel,0.9502,0.3157
+Weisfeiler-Lehman subtree kernel,graph similarity,0.9559,0.297
+graph similarity,pyramid match graph kernel,0.9538,0.304
+graph kernels,k-core decomposition,0.1742,1.2851
+graphlet kernel,k-core decomposition,0.4987,1.0013
+k-core decomposition,shortest-path kernel,0.5403,0.9588
+Weisfeiler-Lehman subtree kernel,k-core decomposition,0.495,1.005
+k-core decomposition,pyramid match graph kernel,0.5518,0.9467
+graph kernels,nested subgraphs,-0.088,1.4751
+graphlet kernel,nested subgraphs,0.0328,1.3908
+nested subgraphs,shortest-path kernel,0.1045,1.3383
+Weisfeiler-Lehman subtree kernel,nested subgraphs,0.0001,1.4142
+nested subgraphs,pyramid match graph kernel,-0.0042,1.4172
+graph kernels,graphlet kernel,-0.0522,1.4506
+graph kernels,shortest-path kernel,-0.0295,1.4349
+Weisfeiler-Lehman subtree kernel,graph kernels,0.0351,1.3892
+graph kernels,pyramid match graph kernel,0.0397,1.3858
+graphlet kernel,shortest-path kernel,0.9686,0.2507
+Weisfeiler-Lehman subtree kernel,graphlet kernel,0.9576,0.2913
+graphlet kernel,pyramid match graph kernel,0.8766,0.4968
+Weisfeiler-Lehman subtree kernel,shortest-path kernel,0.9532,0.3058
+pyramid match graph kernel,shortest-path kernel,0.9044,0.4372
+Weisfeiler-Lehman subtree kernel,pyramid match graph kernel,0.9157,0.4106
+graph classification,graph kernels,0.0886,1.3501
+graph classification,graphlet kernel,0.9542,0.3025
+graph classification,shortest-path kernel,0.9647,0.2657
+Weisfeiler-Lehman subtree kernel,graph classification,0.985,0.1733
+graph classification,pyramid match graph kernel,0.9341,0.363

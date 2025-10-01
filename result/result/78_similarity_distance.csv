@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+clustering accuracy,modality-private information,0.1809,1.2799
+clustering accuracy,correlation mining,-0.3818,1.6624
+correlation mining,modality-private information,-0.5201,1.7436
+deep correlated information bottleneck,modality-private information,-0.0009,1.4148
+correlation mining,deep correlated information bottleneck,-0.1023,1.4848
+deep correlated information bottleneck,shared representation,0.9681,0.2527
+modality-private information,shared representation,0.1222,1.325
+correlation mining,shared representation,-0.0976,1.4816
+deep correlated information bottleneck,feature distributions,0.1332,1.3167
+feature distributions,modality-private information,0.4123,1.0842
+feature distributions,shared representation,0.0526,1.3765
+modality-private information,mutual information measurement,0.9976,0.0686
+modality-private information,variational optimization,-0.1016,1.4843
+mutual information measurement,shared representation,0.1288,1.32
+shared representation,variational optimization,-0.0539,1.4518
+feature distributions,mutual information measurement,0.4691,1.0305
+feature distributions,variational optimization,0.4461,1.0525
+mutual information measurement,variational optimization,-0.0693,1.4624

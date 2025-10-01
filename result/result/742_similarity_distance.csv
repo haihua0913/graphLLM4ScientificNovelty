@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Stackelberg prediction game,least squares loss,0.8793,0.4914
+Stackelberg prediction game,bi-level optimization,0.9867,0.1633
+Stackelberg prediction game,semidefinite programming,0.9397,0.3473
+Stackelberg prediction game,second order cone programming,0.9352,0.3599
+bi-level optimization,least squares loss,0.9268,0.3827
+least squares loss,semidefinite programming,0.9613,0.2781
+least squares loss,second order cone programming,0.9269,0.3825
+bi-level optimization,semidefinite programming,0.9677,0.2542
+bi-level optimization,second order cone programming,0.9392,0.3486
+second order cone programming,semidefinite programming,0.9745,0.2257
+large-scale datasets,least squares loss,-0.0488,1.4483
+bi-level optimization,large-scale datasets,-0.1573,1.5214
+large-scale datasets,semidefinite programming,-0.0908,1.477
+large-scale datasets,second order cone programming,-0.2061,1.5531
+large-scale datasets,spherically constrained least squares,-0.1503,1.5167
+floating-point operations,spherically constrained least squares,-0.109,1.4893
+Krylov subspace method,spherically constrained least squares,0.8626,0.5242
+Riemannian trust region method,spherically constrained least squares,0.8649,0.5199
+Krylov subspace method,Riemannian trust region method,0.8934,0.4618
+Krylov subspace method,floating-point operations,-0.152,1.5179
+Riemannian trust region method,floating-point operations,-0.2186,1.5612

@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+HMM,multi-language named-entity recognition,-0.4907,1.7267
+Japanese,multi-language named-entity recognition,0.1162,1.3295
+Chinese,multi-language named-entity recognition,-0.0133,1.4236
+Korean,multi-language named-entity recognition,0.0122,1.4055
+English,multi-language named-entity recognition,-0.0432,1.4445
+HMM,Japanese,0.0024,1.4125
+Chinese,HMM,0.0002,1.4141
+HMM,Korean,-0.102,1.4846
+English,HMM,-0.2448,1.5778
+Chinese,Japanese,0.9656,0.2622
+Japanese,Korean,0.9683,0.2516
+English,Japanese,0.0776,1.3583
+Chinese,Korean,0.9626,0.2736
+Chinese,English,0.0194,1.4005
+English,Korean,0.1817,1.2793
+multi-language named-entity recognition,training data,0.1579,1.2977
+HMM,training data,0.2295,1.2414
+Japanese,training data,0.1046,1.3382
+Chinese,training data,0.0205,1.3996
+Korean,training data,-0.0841,1.4725
+English,training data,-0.1596,1.5229
+Japanese,statistical language model,0.0881,1.3505
+Chinese,statistical language model,-0.0388,1.4414
+Korean,statistical language model,-0.0256,1.4322
+English,statistical language model,-0.1153,1.4935
+statistical language model,training data,-0.0223,1.4299
+Japanese,bilingual named-entity dictionary,0.0564,1.3737
+English,bilingual named-entity dictionary,-0.0263,1.4327
+bilingual named-entity dictionary,training data,-0.1663,1.5273
+bilingual named-entity dictionary,statistical language model,0.9222,0.3945

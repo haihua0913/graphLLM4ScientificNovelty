@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+Non-Maximum Suppression,object detection,-0.3311,1.6316
+IoU,Learning-to-Rank,-0.1708,1.5302
+Learning-to-Rank,ranking score,0.132,1.3176
+IoU,ranking score,-0.2943,1.6089
+Learning-to-Rank,lightweight network,0.2244,1.2455
+IoU,lightweight network,-0.1572,1.5213
+lightweight network,ranking score,-0.1576,1.5216
+IoU,ranking loss,-0.2968,1.6105
+IoU,ground-truth,-0.3888,1.6666
+ranking loss,ranking score,0.9544,0.3019
+ground-truth,ranking score,0.9342,0.3627
+lightweight network,ranking loss,-0.0942,1.4793
+ground-truth,lightweight network,-0.1945,1.5456
+ground-truth,ranking loss,0.8687,0.5124
+end-to-end,state-of-the-art accuracy,0.132,1.3176

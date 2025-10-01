@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+cluttered scenes,object class models,-0.0504,1.4494
+object class models,scale invariant,-0.04,1.4422
+flexible constellations of parts,object class models,0.7953,0.6398
+cluttered scenes,scale invariant,0.1288,1.32
+cluttered scenes,flexible constellations of parts,0.1401,1.3114
+flexible constellations of parts,scale invariant,0.3944,1.1006
+object class models,probabilistic representation,-0.2362,1.5724
+cluttered scenes,probabilistic representation,-0.2329,1.5703
+probabilistic representation,scale invariant,-0.6275,1.8042
+flexible constellations of parts,probabilistic representation,-0.4385,1.6962
+feature detector,flexible constellations of parts,0.0776,1.3583
+feature detector,probabilistic representation,-0.1594,1.5228
+expectation-maximization,feature detector,-0.3101,1.6187
+feature detector,maximum-likelihood,-0.4819,1.7216
+expectation-maximization,maximum-likelihood,0.9357,0.3585
+Bayesian,expectation-maximization,0.9822,0.1884
+Bayesian,maximum-likelihood,0.9785,0.2073
+Bayesian,flexible objects,-0.278,1.5988

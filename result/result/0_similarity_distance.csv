@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+ASSERT,theory refinement techniques,0.0956,1.3449
+ASSERT,machine learning,0.1685,1.2896
+ASSERT,student models,0.9281,0.3793
+ASSERT,intelligent tutoring systems,0.2046,1.2612
+machine learning,theory refinement techniques,-0.159,1.5225
+student models,theory refinement techniques,0.1535,1.3012
+intelligent tutoring systems,theory refinement techniques,0.9744,0.2263
+machine learning,student models,-0.0903,1.4767
+intelligent tutoring systems,machine learning,0.0254,1.3962
+intelligent tutoring systems,student models,0.2029,1.2626
+ASSERT,C ++ programming,0.2172,1.2512
+C ++ programming,theory refinement techniques,0.8794,0.491
+C ++ programming,machine learning,0.1664,1.2912
+C ++ programming,student models,0.1728,1.2863
+C ++ programming,intelligent tutoring systems,0.9442,0.3342
+individualized feedback,student models,0.3897,1.1048
+student models,students' subsequent performance,-0.2714,1.5946
+C ++ programming,individualized feedback,0.6901,0.7873
+C ++ programming,students' subsequent performance,0.7383,0.7235
+individualized feedback,students' subsequent performance,0.2569,1.2191

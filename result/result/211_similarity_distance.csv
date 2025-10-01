@@ -1,0 +1,28 @@
+node1,node2,similarity,distance
+direct speech translation,waveforms,0.4415,1.0569
+Inductive Learning,direct speech translation,0.6539,0.832
+direct speech translation,short conversation,0.8636,0.5223
+direct speech translation,speech recognition,0.862,0.5253
+direct speech translation,speech synthesis,0.9805,0.1973
+Inductive Learning,waveforms,-0.1396,1.5097
+short conversation,waveforms,0.2084,1.2582
+speech recognition,waveforms,0.1432,1.3091
+speech synthesis,waveforms,0.3072,1.1771
+Inductive Learning,short conversation,0.9129,0.4175
+Inductive Learning,speech recognition,0.8473,0.5525
+Inductive Learning,speech synthesis,0.7844,0.6566
+short conversation,speech recognition,0.9118,0.4199
+short conversation,speech synthesis,0.9309,0.3717
+speech recognition,speech synthesis,0.9288,0.3772
+acoustic characteristics,direct speech translation,0.461,1.0383
+acoustic characteristics,waveforms,0.9834,0.1822
+Inductive Learning,acoustic characteristics,-0.1518,1.5178
+acoustic characteristics,short conversation,0.1899,1.2728
+acoustic characteristics,speech recognition,0.1474,1.3058
+acoustic characteristics,speech synthesis,0.3228,1.1638
+speech recognition,translation rules,0.9406,0.3446
+Japanese,speech recognition,0.3174,1.1684
+English,speech recognition,-0.4157,1.6827
+Japanese,translation rules,0.0012,1.4134
+English,translation rules,-0.1832,1.5383
+English,Japanese,-0.724,1.8569

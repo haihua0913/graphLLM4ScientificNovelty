@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+2D optical flow,tensor factorization,0.5285,0.9711
+2D optical flow,noisy affine transform,0.4615,1.0378
+2D optical flow,structured matrix decompositions,0.9081,0.4288
+noisy affine transform,tensor factorization,-0.2905,1.6066
+structured matrix decompositions,tensor factorization,0.7164,0.7532
+noisy affine transform,structured matrix decompositions,0.1188,1.3276
+2D optical flow,image noise,0.1498,1.304
+image noise,tensor factorization,-0.5415,1.7559
+image noise,noisy affine transform,0.9254,0.3864
+image noise,structured matrix decompositions,-0.1924,1.5443
+noisy affine transform,rank constraints,0.8498,0.548
+noisy affine transform,norm constraints,0.8144,0.6093
+noisy affine transform,subspace optical flow,0.66,0.8246
+rank constraints,structured matrix decompositions,-0.3648,1.6522
+norm constraints,structured matrix decompositions,0.313,1.1722
+structured matrix decompositions,subspace optical flow,0.7087,0.7632
+image noise,rank constraints,0.9058,0.434
+image noise,norm constraints,0.6543,0.8316
+image noise,subspace optical flow,0.4113,1.085
+norm constraints,rank constraints,0.5915,0.9038
+rank constraints,subspace optical flow,0.191,1.272
+norm constraints,subspace optical flow,0.7896,0.6487

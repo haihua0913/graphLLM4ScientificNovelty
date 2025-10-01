@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+Fast Directional Chamfer Matching,GPU implementation,0.4696,1.0299
+GPU implementation,templates with variable size,-0.4139,1.6816
+Fast Directional Chamfer Matching,templates with variable size,-0.596,1.7866
+shape based matching algorithm,templates with variable size,0.8398,0.5661
+highly optimized CPU version,templates with variable size,0.8899,0.4693
+multi-threading,templates with variable size,-0.0776,1.4681
+SSE2,templates with variable size,-0.1555,1.5202
+highly optimized CPU version,shape based matching algorithm,0.8906,0.4678
+multi-threading,shape based matching algorithm,-0.1765,1.5339
+SSE2,shape based matching algorithm,-0.1851,1.5395
+highly optimized CPU version,multi-threading,-0.0909,1.4771
+SSE2,highly optimized CPU version,-0.1735,1.532
+SSE2,multi-threading,0.8931,0.4624
+hybrid CPU-GPU version,shape based matching algorithm,0.9351,0.3602
+highly optimized CPU version,hybrid CPU-GPU version,0.9372,0.3543
+hybrid CPU-GPU version,multi-threading,-0.0649,1.4594
+SSE2,hybrid CPU-GPU version,-0.156,1.5205

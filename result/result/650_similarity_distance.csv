@@ -1,0 +1,44 @@
+node1,node2,similarity,distance
+Bayesian posterior distribution,mini-batch,0.4384,1.0598
+Bayesian posterior distribution,Langevin equation,0.4894,1.0106
+Bayesian posterior distribution,stochastic gradients,0.0163,1.4027
+Bayesian posterior distribution,SGLD,-0.4,1.6733
+Bayesian posterior distribution,mixing rate,0.5251,0.9746
+Langevin equation,mini-batch,0.9942,0.1077
+mini-batch,stochastic gradients,-0.0906,1.4769
+SGLD,mini-batch,-0.1957,1.5464
+mini-batch,mixing rate,0.8406,0.5646
+Langevin equation,stochastic gradients,-0.0834,1.472
+Langevin equation,SGLD,-0.2205,1.5623
+Langevin equation,mixing rate,0.8712,0.5075
+SGLD,stochastic gradients,-0.2408,1.5753
+mixing rate,stochastic gradients,0.0323,1.3912
+SGLD,mixing rate,-0.2911,1.6069
+Bayesian Central Limit Theorem,Bayesian posterior distribution,0.5866,0.9093
+Bayesian posterior distribution,normal approximation,0.0899,1.3491
+Bayesian posterior distribution,pre-conditioner matrix,0.0032,1.412
+Bayesian Central Limit Theorem,mini-batch,0.092,1.3476
+mini-batch,normal approximation,-0.1163,1.4942
+mini-batch,pre-conditioner matrix,-0.1212,1.4974
+Bayesian Central Limit Theorem,Langevin equation,0.083,1.3543
+Langevin equation,normal approximation,-0.132,1.5046
+Langevin equation,pre-conditioner matrix,-0.1439,1.5125
+Bayesian Central Limit Theorem,stochastic gradients,0.0101,1.4071
+normal approximation,stochastic gradients,-0.179,1.5356
+pre-conditioner matrix,stochastic gradients,-0.1702,1.5298
+Bayesian Central Limit Theorem,SGLD,-0.273,1.5956
+SGLD,normal approximation,-0.1058,1.4872
+SGLD,pre-conditioner matrix,-0.1041,1.486
+Bayesian Central Limit Theorem,mixing rate,-0.1022,1.4847
+mixing rate,normal approximation,-0.3147,1.6215
+mixing rate,pre-conditioner matrix,-0.3357,1.6344
+Bayesian Central Limit Theorem,normal approximation,-0.0247,1.4316
+Bayesian Central Limit Theorem,pre-conditioner matrix,-0.0729,1.4648
+normal approximation,pre-conditioner matrix,0.9946,0.1035
+Fisher scoring,Langevin equation,-0.2622,1.5888
+Fisher scoring,stochastic gradients,-0.2084,1.5546
+Fisher scoring,SGLD,-0.0419,1.4436
+Fisher scoring,mixing rate,-0.5006,1.7324
+Bayesian Central Limit Theorem,Fisher scoring,0.1122,1.3325
+Fisher scoring,normal approximation,0.9678,0.2538
+Fisher scoring,pre-conditioner matrix,0.9603,0.2818

@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+K options,social objective,-0.2832,1.602
+K options,minimax regret,-0.8418,1.9193
+K options,robust slate,0.1254,1.3226
+K options,preference uncertainty,-0.1199,1.4966
+minimax regret,social objective,0.2205,1.2486
+robust slate,social objective,-0.1509,1.5172
+preference uncertainty,social objective,0.9728,0.2332
+minimax regret,robust slate,-0.5424,1.7564
+minimax regret,preference uncertainty,0.0415,1.3846
+preference uncertainty,robust slate,-0.0856,1.4735
+complexity,minimax regret,-0.671,1.8281
+exact and greedy robust optimization algorithms,minimax regret,-0.1694,1.5293
+complexity,robust slate,-0.1079,1.4885
+exact and greedy robust optimization algorithms,robust slate,0.1708,1.2878
+complexity,preference uncertainty,-0.1644,1.5261
+exact and greedy robust optimization algorithms,preference uncertainty,-0.0509,1.4498
+complexity,exact and greedy robust optimization algorithms,0.0513,1.3775
+minimax regret,preference elicitation heuristics,0.2674,1.2105
+preference elicitation heuristics,robust slate,-0.4646,1.7115
+preference elicitation heuristics,preference uncertainty,0.8991,0.4492
+complexity,preference elicitation heuristics,-0.1063,1.4875
+exact and greedy robust optimization algorithms,preference elicitation heuristics,0.0036,1.4117

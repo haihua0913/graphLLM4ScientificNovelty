@@ -1,0 +1,13 @@
+node1,node2,similarity,distance
+Automated animal censuses,aerial imagery,0.6139,0.8788
+Automated animal censuses,deep learning,0.0457,1.3815
+aerial imagery,deep learning,0.0789,1.3573
+aerial imagery,self-supervised pretraining,-0.2203,1.5623
+deep learning,self-supervised pretraining,-0.2139,1.5581
+aerial imagery,contrastive learning,-0.1076,1.4884
+contrastive learning,self-supervised pretraining,-0.1911,1.5434
+geometric augmentations,self-supervised pretraining,0.8696,0.5106
+ImageNet,self-supervised pretraining,0.1972,1.2671
+contrastive learning,geometric augmentations,0.0423,1.3839
+ImageNet,contrastive learning,-0.1009,1.4839
+ImageNet,geometric augmentations,0.0259,1.3958

@@ -1,0 +1,12 @@
+node1,node2,similarity,distance
+deep-net models,long-range dependencies,-0.1696,1.5295
+deep-net models,fine-grained classification,-0.0713,1.4637
+fine-grained classification,long-range dependencies,0.9721,0.2361
+fine-grained classification,singer identification,-0.1062,1.4874
+correlations,fine-grained classification,-0.1717,1.5308
+correlations,singer identification,0.0374,1.3875
+depth-wise convolution,singer identification,-0.0633,1.4583
+correlations,depth-wise convolution,-0.3802,1.6615
+deep-net models,depth-wise convolution,0.0142,1.4041
+artist20 dataset,deep-net models,-0.0514,1.4501
+artist20 dataset,depth-wise convolution,-0.3815,1.6622

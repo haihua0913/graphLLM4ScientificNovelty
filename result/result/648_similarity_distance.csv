@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+natural language sentences,recursive structure,-0.4961,1.7298
+max-margin structure prediction,recursive structure,0.8864,0.4767
+recursive neural networks,recursive structure,-0.2179,1.5607
+max-margin structure prediction,recursive neural networks,-0.2417,1.5759
+max-margin structure prediction,natural language sentences,-0.3369,1.6352
+natural language sentences,recursive neural networks,0.2201,1.2489
+recursive structure,syntactic parser,-0.0981,1.482
+recursive structure,semantic scene segmentation,0.2366,1.2357
+max-margin structure prediction,syntactic parser,0.0085,1.4082
+max-margin structure prediction,semantic scene segmentation,0.4474,1.0512
+recursive neural networks,syntactic parser,0.0239,1.3972
+recursive neural networks,semantic scene segmentation,0.3987,1.0966
+natural language sentences,syntactic parser,0.8966,0.4548
+semantic scene segmentation,syntactic parser,0.4666,1.0329
+natural language sentences,semantic scene segmentation,0.3702,1.1223
+Stanford background dataset,max-margin structure prediction,0.9565,0.2949
+Stanford background dataset,recursive neural networks,-0.1257,1.5005
+Stanford background dataset,syntactic parser,-0.1509,1.5172
+Stanford background dataset,natural language sentences,-0.453,1.7047
+Stanford background dataset,semantic scene segmentation,0.4637,1.0357
+scene classification,syntactic parser,0.7342,0.7291
+natural language sentences,scene classification,0.8036,0.6268
+scene classification,semantic scene segmentation,0.2066,1.2597
+Stanford background dataset,scene classification,-0.3782,1.6603

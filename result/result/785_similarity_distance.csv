@@ -1,0 +1,42 @@
+node1,node2,similarity,distance
+D-Adaptation,learning rate,0.0917,1.3478
+D-Adaptation,optimal rate of convergence,-0.0376,1.4406
+D-Adaptation,convex Lipschitz functions,-0.1068,1.4878
+D-Adaptation,hyper-parameter free,-0.3422,1.6384
+learning rate,optimal rate of convergence,-0.3588,1.6485
+convex Lipschitz functions,learning rate,-0.336,1.6346
+hyper-parameter free,learning rate,-0.2068,1.5536
+convex Lipschitz functions,optimal rate of convergence,0.2501,1.2246
+hyper-parameter free,optimal rate of convergence,-0.1316,1.5044
+convex Lipschitz functions,hyper-parameter free,-0.2169,1.56
+D-Adaptation,SGD,-0.0435,1.4447
+Adam,D-Adaptation,0.167,1.2907
+D-Adaptation,machine learning problems,-0.3605,1.6496
+D-Adaptation,large-scale vision,0.3107,1.1741
+SGD,learning rate,-0.243,1.5767
+Adam,learning rate,-0.2851,1.6032
+learning rate,machine learning problems,-0.3003,1.6127
+large-scale vision,learning rate,-0.2232,1.5641
+SGD,optimal rate of convergence,-0.1075,1.4883
+Adam,optimal rate of convergence,-0.1352,1.5068
+machine learning problems,optimal rate of convergence,-0.4023,1.6747
+large-scale vision,optimal rate of convergence,0.1074,1.3361
+SGD,convex Lipschitz functions,-0.1301,1.5034
+Adam,convex Lipschitz functions,0.2209,1.2483
+convex Lipschitz functions,machine learning problems,-0.0621,1.4575
+convex Lipschitz functions,large-scale vision,0.8604,0.5283
+SGD,hyper-parameter free,0.263,1.2141
+Adam,hyper-parameter free,0.4213,1.0758
+hyper-parameter free,machine learning problems,0.0727,1.3618
+hyper-parameter free,large-scale vision,-0.2231,1.5641
+Adam,SGD,0.7968,0.6376
+SGD,machine learning problems,-0.0261,1.4325
+SGD,large-scale vision,-0.1037,1.4858
+Adam,machine learning problems,-0.1139,1.4926
+Adam,large-scale vision,0.3617,1.1299
+large-scale vision,machine learning problems,-0.1337,1.5058
+hyper-parameter free,open-source implementation,-0.066,1.4602
+SGD,open-source implementation,-0.2333,1.5705
+Adam,open-source implementation,0.2493,1.2253
+machine learning problems,open-source implementation,0.0633,1.3687
+large-scale vision,open-source implementation,0.8874,0.4745

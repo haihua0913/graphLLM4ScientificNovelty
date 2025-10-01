@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+out-of-domain visio-linguistic pretraining,spurious correlations,0.9955,0.0951
+generalization ability,out-of-domain visio-linguistic pretraining,-0.2358,1.5721
+generalization ability,spurious correlations,-0.258,1.5862
+dataset biases,out-of-domain visio-linguistic pretraining,0.9814,0.1928
+dataset biases,spurious correlations,0.9923,0.124
+dataset biases,generalization ability,-0.3508,1.6436
+Deconfounded Visio-Linguistic Bert,spurious correlations,0.9918,0.1281
+intervention-based learning,spurious correlations,0.9937,0.1125
+Deconfounded Visio-Linguistic Bert,dataset biases,0.9974,0.0721
+dataset biases,intervention-based learning,0.9999,0.0141
+Deconfounded Visio-Linguistic Bert,intervention-based learning,0.9973,0.0734
+Deconfounded Visio-Linguistic Bert,generalization ability,-0.3271,1.6292
+generalization ability,intervention-based learning,-0.3437,1.6393
+backdoor adjustment,dataset biases,0.9999,0.0134
+Deconfounded Visio-Linguistic Bert,backdoor adjustment,0.9973,0.0732
+backdoor adjustment,intervention-based learning,0.9997,0.0258
+backdoor adjustment,generalization ability,-0.359,1.6487

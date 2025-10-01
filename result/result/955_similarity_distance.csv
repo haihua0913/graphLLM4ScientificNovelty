@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+TripletBoost,classification,0.0286,1.3938
+classification,weak classifiers,0.0487,1.3794
+classification,strong classifier,-0.2191,1.5615
+TripletBoost,weak classifiers,0.1624,1.2943
+TripletBoost,strong classifier,-0.0606,1.4564
+strong classifier,weak classifiers,-0.1234,1.499
+classification,metric space,0.068,1.3653
+classification,large scale problems,-0.1202,1.4968
+TripletBoost,metric space,0.0997,1.3419
+TripletBoost,large scale problems,0.9403,0.3456
+metric space,weak classifiers,0.0902,1.3489
+large scale problems,weak classifiers,0.0285,1.3939
+metric space,strong classifier,-0.0808,1.4703
+large scale problems,strong classifier,-0.2282,1.5673
+large scale problems,metric space,-0.0555,1.4529

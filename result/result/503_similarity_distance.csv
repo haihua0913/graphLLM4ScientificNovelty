@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+open-vocabulary object detectors,vision-language models,-0.0217,1.4295
+semantic concepts,vision-language models,0.8913,0.4662
+region embeddings,vision-language models,-0.0951,1.4799
+open-vocabulary object detectors,semantic concepts,-0.1117,1.4911
+open-vocabulary object detectors,region embeddings,0.9531,0.3063
+region embeddings,semantic concepts,-0.2218,1.5632
+compositional structure,vision-language models,-0.1351,1.5067
+compositional structure,open-vocabulary object detectors,-0.2572,1.5857
+compositional structure,semantic concepts,-0.1445,1.5129
+compositional structure,region embeddings,-0.2408,1.5753
+COCO,Faster R-CNN,-0.1345,1.5063
+Faster R-CNN,LVIS,-0.0996,1.483
+COCO,LVIS,0.9965,0.0837
+Faster R-CNN,https://github.com/wusize/ovdet,-0.1995,1.5489
+COCO,https://github.com/wusize/ovdet,-0.0418,1.4434
+LVIS,https://github.com/wusize/ovdet,-0.0623,1.4576

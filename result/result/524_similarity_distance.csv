@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+linear algorithm,synthesizing new views,-0.275,1.5969
+3D reconstruction,linear algorithm,0.0672,1.3659
+linear algorithm,projection,0.7912,0.6462
+intersection lines,linear algorithm,0.7456,0.7133
+3D reconstruction,synthesizing new views,-0.2031,1.5512
+projection,synthesizing new views,-0.0478,1.4476
+intersection lines,synthesizing new views,0.0413,1.3847
+3D reconstruction,projection,0.1944,1.2693
+3D reconstruction,intersection lines,0.0724,1.362
+intersection lines,projection,0.9751,0.2234
+homography,textured planes,-0.2557,1.5848
+generalized eigenvectors,textured planes,-0.1969,1.5472
+eigenvalues,textured planes,-0.332,1.6322
+generalized eigenvectors,homography,0.9784,0.2077
+eigenvalues,homography,-0.1219,1.4979
+eigenvalues,generalized eigenvectors,-0.0643,1.459

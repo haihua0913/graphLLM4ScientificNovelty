@@ -1,0 +1,34 @@
+node1,node2,similarity,distance
+deformable surfaces,real-time method,0.9415,0.342
+deformable surfaces,pose knowledge,-0.1861,1.5402
+deformable surfaces,wide baseline point matches,0.0145,1.4039
+pose knowledge,real-time method,-0.345,1.6401
+real-time method,wide baseline point matches,-0.2296,1.5682
+pose knowledge,wide baseline point matches,0.1811,1.2798
+deformable surfaces,precise mapping,0.9733,0.2313
+precise mapping,real-time method,0.9625,0.2737
+pose knowledge,precise mapping,-0.1454,1.5135
+precise mapping,wide baseline point matches,-0.1117,1.4911
+robust to large deformations,wide baseline point matches,0.9483,0.3215
+lighting changes,wide baseline point matches,-0.1277,1.5018
+motion blur,wide baseline point matches,-0.0308,1.4358
+occlusions,wide baseline point matches,-0.1101,1.49
+precise mapping,robust to large deformations,0.0117,1.4059
+lighting changes,robust to large deformations,0.0039,1.4114
+motion blur,robust to large deformations,0.0521,1.3769
+occlusions,robust to large deformations,0.0104,1.4069
+lighting changes,precise mapping,0.9784,0.2078
+motion blur,precise mapping,0.9368,0.3556
+occlusions,precise mapping,0.9555,0.2985
+lighting changes,motion blur,0.9302,0.3735
+lighting changes,occlusions,0.9642,0.2675
+motion blur,occlusions,0.9447,0.3327
+deformable surfaces,robust to large deformations,0.1693,1.2889
+deformable surfaces,lighting changes,0.9599,0.2834
+deformable surfaces,motion blur,0.936,0.3577
+deformable surfaces,occlusions,0.9681,0.2527
+deformable surfaces,robust estimator,-0.1526,1.5183
+robust estimator,robust to large deformations,-0.3333,1.633
+lighting changes,robust estimator,-0.1404,1.5102
+motion blur,robust estimator,-0.2369,1.5728
+occlusions,robust estimator,-0.1072,1.4881

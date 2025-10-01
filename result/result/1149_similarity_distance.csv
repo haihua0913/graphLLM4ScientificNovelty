@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+differentially private machine learner,privacy guarantee,0.1562,1.2991
+differentially private machine learner,poisoning attacks,0.2564,1.2195
+differentially private machine learner,membership inference,0.3812,1.1125
+differentially private machine learner,privacy loss,-0.0326,1.4371
+poisoning attacks,privacy guarantee,-0.2698,1.5936
+membership inference,privacy guarantee,-0.0386,1.4412
+privacy guarantee,privacy loss,-0.2752,1.597
+membership inference,poisoning attacks,0.0036,1.4116
+poisoning attacks,privacy loss,-0.1201,1.4967
+membership inference,privacy loss,-0.2084,1.5546
+differentially private machine learner,privacy search,-0.0275,1.4335
+differentially private machine learner,influence-based poisoning attacks,0.2675,1.2104
+privacy guarantee,privacy search,-0.5725,1.7734
+influence-based poisoning attacks,privacy guarantee,0.3394,1.1494
+poisoning attacks,privacy search,0.2121,1.2553
+influence-based poisoning attacks,poisoning attacks,-0.1308,1.5039
+membership inference,privacy search,-0.2407,1.5752
+influence-based poisoning attacks,membership inference,0.7587,0.6947
+privacy loss,privacy search,-0.1403,1.5102
+influence-based poisoning attacks,privacy loss,-0.3317,1.632
+influence-based poisoning attacks,privacy search,-0.0868,1.4743
+implementation errors,poisoning attacks,0.8156,0.6072
+implementation errors,privacy search,0.2041,1.2617
+implementation errors,influence-based poisoning attacks,-0.142,1.5113

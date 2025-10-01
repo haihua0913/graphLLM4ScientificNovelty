@@ -1,0 +1,35 @@
+node1,node2,similarity,distance
+design space,diffusion-based generative models,0.4919,1.0081
+diffusion-based generative models,training processes,0.661,0.8234
+diffusion-based generative models,preconditioning,0.6444,0.8433
+diffusion-based generative models,score networks,0.3093,1.1753
+design space,training processes,0.9617,0.2766
+design space,preconditioning,0.87,0.5098
+design space,score networks,-0.1547,1.5196
+preconditioning,training processes,0.9331,0.3657
+score networks,training processes,-0.0506,1.4495
+preconditioning,score networks,-0.1293,1.5028
+FID,diffusion-based generative models,-0.3291,1.6304
+CIFAR-10,diffusion-based generative models,-0.3274,1.6294
+diffusion-based generative models,state-of-the-art,0.4246,1.0728
+FID,design space,-0.0504,1.4494
+CIFAR-10,design space,-0.0376,1.4405
+design space,state-of-the-art,0.0591,1.3718
+FID,training processes,0.02,1.4
+CIFAR-10,training processes,0.0285,1.3939
+state-of-the-art,training processes,0.1814,1.2795
+FID,preconditioning,0.1702,1.2882
+CIFAR-10,preconditioning,0.1952,1.2687
+preconditioning,state-of-the-art,0.1184,1.3278
+FID,score networks,-0.2296,1.5682
+CIFAR-10,score networks,-0.2809,1.6006
+score networks,state-of-the-art,-0.3652,1.6524
+CIFAR-10,FID,0.997,0.0781
+FID,state-of-the-art,-0.0395,1.4419
+CIFAR-10,state-of-the-art,-0.0234,1.4307
+ImageNet-64,training processes,0.2168,1.2516
+ImageNet-64,preconditioning,0.3555,1.1354
+ImageNet-64,score networks,-0.1587,1.5223
+FID,ImageNet-64,0.8859,0.4777
+CIFAR-10,ImageNet-64,0.8799,0.4902
+ImageNet-64,state-of-the-art,0.1404,1.3112

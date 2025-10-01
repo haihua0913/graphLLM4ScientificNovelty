@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+central model,linear contextual bandits,-0.2401,1.5749
+linear contextual bandits,local model,-0.0272,1.4333
+central model,local model,0.9556,0.2981
+central model,shuffle model,0.045,1.382
+local model,shuffle model,0.171,1.2877
+linear contextual bandits,shuffle model,-0.2589,1.5868
+linear contextual bandits,privacy amplification,-0.2938,1.6086
+central model,privacy amplification,-0.0741,1.4657
+local model,privacy amplification,-0.1689,1.529
+privacy amplification,shuffle model,-0.0743,1.4658
+linear contextual bandits,regret guarantees,-0.275,1.5969
+local model,regret guarantees,-0.1025,1.4849
+privacy amplification,regret guarantees,-0.075,1.4663
+local model,synthetic data,-0.0426,1.444
+privacy amplification,synthetic data,0.8886,0.472
+regret guarantees,synthetic data,0.2401,1.2328
+central model,regret guarantees,-0.1595,1.5228
+central model,unique users,-0.0577,1.4545
+central model,synthetic data,-0.0518,1.4504
+local model,unique users,-0.1896,1.5425
+regret guarantees,unique users,-0.1369,1.5079
+synthetic data,unique users,0.8135,0.6107

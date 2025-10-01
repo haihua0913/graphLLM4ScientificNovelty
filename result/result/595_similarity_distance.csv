@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+Swin Transformer,general-purpose backbone,-0.4118,1.6804
+Swin Transformer,computer vision,0.8772,0.4955
+computer vision,general-purpose backbone,-0.2431,1.5768
+Swin Transformer,hierarchical Transformer,-0.1242,1.4995
+general-purpose backbone,hierarchical Transformer,-0.2085,1.5547
+computer vision,hierarchical Transformer,-0.1753,1.5332
+hierarchical Transformer,self-attention,0.9651,0.2642
+hierarchical Transformer,linear computational complexity,0.9778,0.2108
+linear computational complexity,self-attention,0.9613,0.2783
+Swin Transformer,self-attention,-0.1606,1.5235
+Swin Transformer,linear computational complexity,-0.257,1.5855
+Swin Transformer,image classification,-0.2541,1.5837
+Swin Transformer,object detection,-0.4093,1.6789
+Swin Transformer,semantic segmentation,-0.3024,1.614
+image classification,self-attention,0.9554,0.2988
+object detection,self-attention,-0.1371,1.508
+self-attention,semantic segmentation,0.8258,0.5902
+image classification,linear computational complexity,0.9348,0.3611
+linear computational complexity,object detection,-0.2388,1.574
+linear computational complexity,semantic segmentation,0.8475,0.5523
+image classification,object detection,-0.1829,1.5381
+image classification,semantic segmentation,0.8971,0.4538
+object detection,semantic segmentation,-0.0862,1.4739

@@ -1,0 +1,416 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/cbms/cbms2002.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"78.39"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"64",
+"@dc":"64",
+"@oc":"64",
+"@id":"48877034",
+"text":":facetid:toc:db/conf/cbms/cbms2002.bht"
+}
+},
+"hits":{
+"@total":"64",
+"@computed":"64",
+"@sent":"64",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"7061633",
+"info":{"authors":{"author":{"@pid":"53/914","text":"Syed Sibte Raza Abidi"}},"title":"A Case Base Reasoning Framework to Author Personalized Health Maintenance Information.","venue":"CBMS","pages":"219-224","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Abidi02","doi":"10.1109/CBMS.2002.1011380","ee":"https://doi.org/10.1109/CBMS.2002.1011380","url":"https://dblp.org/rec/conf/cbms/Abidi02"},
+"url":"URL#7061633"
+},
+{
+"@score":"1",
+"@id":"7061634",
+"info":{"authors":{"author":[{"@pid":"53/914","text":"Syed Sibte Raza Abidi"},{"@pid":"37/916","text":"Kok Meng Hoe"}]},"title":"Symbolic Exposition of Medical Data-Sets: A Data Mining Workbench to Inductively Derive Data-Defining Symbolic Rules.","venue":"CBMS","pages":"123-128","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AbidiH02","doi":"10.1109/CBMS.2002.1011365","ee":"https://doi.org/10.1109/CBMS.2002.1011365","url":"https://dblp.org/rec/conf/cbms/AbidiH02"},
+"url":"URL#7061634"
+},
+{
+"@score":"1",
+"@id":"7061635",
+"info":{"authors":{"author":[{"@pid":"15/1543","text":"Stein Aerts"},{"@pid":"04/859","text":"Peter Antal"},{"@pid":"86/2235","text":"Dirk Timmerman"},{"@pid":"66/3559","text":"Bart De Moor"},{"@pid":"52/5372","text":"Yves Moreau"}]},"title":"Web-based Data Collection for Uterine Adnexal Tumors: A Case Study.","venue":"CBMS","pages":"282-287","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AertsATMM02","doi":"10.1109/CBMS.2002.1011390","ee":"https://doi.org/10.1109/CBMS.2002.1011390","url":"https://dblp.org/rec/conf/cbms/AertsATMM02"},
+"url":"URL#7061635"
+},
+{
+"@score":"1",
+"@id":"7061636",
+"info":{"authors":{"author":[{"@pid":"04/859","text":"Peter Antal"},{"@pid":"86/2235","text":"Dirk Timmerman"},{"@pid":"71/6242-3","text":"Tamás Mészáros 0003"},{"@pid":"23/143","text":"Tadeusz P. Dobrowiecki"}]},"title":"Domain Knowledge Based Information Retrieval Language: An Application Of Annotated Bayesian Network In Ovarian Cancer Domain.","venue":"CBMS","pages":"213-218","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AntalTMD02","doi":"10.1109/CBMS.2002.1011379","ee":"https://doi.org/10.1109/CBMS.2002.1011379","url":"https://dblp.org/rec/conf/cbms/AntalTMD02"},
+"url":"URL#7061636"
+},
+{
+"@score":"1",
+"@id":"7061637",
+"info":{"authors":{"author":[{"@pid":"75/2156","text":"Myrian R. B. Araujo"},{"@pid":"t/CaetanoTrainaJr","text":"Caetano Traina Jr."},{"@pid":"t/AgmaJMTraina","text":"Agma J. M. Traina"},{"@pid":"83/7651","text":"Josiane Maria Bueno"},{"@pid":"86/470","text":"Humberto Luiz Razente"}]},"title":"Extending Relational atabases to Support Content-based Retrieval of Medical Images.","venue":"CBMS","pages":"303-308","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AraujoTTBR02","doi":"10.1109/CBMS.2002.1011393","ee":"https://doi.org/10.1109/CBMS.2002.1011393","url":"https://dblp.org/rec/conf/cbms/AraujoTTBR02"},
+"url":"URL#7061637"
+},
+{
+"@score":"1",
+"@id":"7061638",
+"info":{"authors":{"author":[{"@pid":"224/5973","text":"Solomon Atnafu"},{"@pid":"c/RichardChbeir","text":"Richard Chbeir"},{"@pid":"29/857","text":"Lionel Brunie"}]},"title":"Content-Based and Metadata Retrieval in Medical Image Database.","venue":"CBMS","pages":"327-","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AtnafuCB02","doi":"10.1109/CBMS.2002.1011398","ee":"https://doi.org/10.1109/CBMS.2002.1011398","url":"https://dblp.org/rec/conf/cbms/AtnafuCB02"},
+"url":"URL#7061638"
+},
+{
+"@score":"1",
+"@id":"7061639",
+"info":{"authors":{"author":[{"@pid":"86/1676","text":"Matjaz Bevk"},{"@pid":"42/3099","text":"Igor Kononenko 0001"}]},"title":"A Statistical Approach to Texture Description of Medical Images: A Preliminary Study.","venue":"CBMS","pages":"239-240","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BevkK02","doi":"10.1109/CBMS.2002.1011383","ee":"https://doi.org/10.1109/CBMS.2002.1011383","url":"https://dblp.org/rec/conf/cbms/BevkK02"},
+"url":"URL#7061639"
+},
+{
+"@score":"1",
+"@id":"7061640",
+"info":{"authors":{"author":[{"@pid":"b/HerculanodeBiasi","text":"Herculano de Biasi"},{"@pid":"w/AldovonWangenheim","text":"Aldo von Wangenheim"},{"@pid":"25/6398","text":"Pierre Galvagni Silveira"},{"@pid":"42/2611","text":"Eros Comunello"}]},"title":"3D Reconstruction of Abdominal Aortic Aneurysms.","venue":"CBMS","pages":"245-250","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BiasiWSC02","doi":"10.1109/CBMS.2002.1011384","ee":"https://doi.org/10.1109/CBMS.2002.1011384","url":"https://dblp.org/rec/conf/cbms/BiasiWSC02"},
+"url":"URL#7061640"
+},
+{
+"@score":"1",
+"@id":"7061641",
+"info":{"authors":{"author":[{"@pid":"41/2169","text":"Bostjan Brumen"},{"@pid":"w/TWelzer","text":"Tatjana Welzer"},{"@pid":"02/576","text":"Marjan Druzovec"},{"@pid":"70/2860","text":"Izidor Golob"},{"@pid":"77/5221","text":"Hannu Jaakkola"}]},"title":"Protecting Medical Data for Analyses.","venue":"CBMS","pages":"102-","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BrumenWDGJ02","doi":"10.1109/CBMS.2002.1011362","ee":"https://doi.org/10.1109/CBMS.2002.1011362","url":"https://dblp.org/rec/conf/cbms/BrumenWDGJ02"},
+"url":"URL#7061641"
+},
+{
+"@score":"1",
+"@id":"7061642",
+"info":{"authors":{"author":[{"@pid":"83/7651","text":"Josiane Maria Bueno"},{"@pid":"42/255","text":"Fabio Jun Takada Chino"},{"@pid":"t/AgmaJMTraina","text":"Agma J. M. Traina"},{"@pid":"t/CaetanoTrainaJr","text":"Caetano Traina Jr."},{"@pid":"57/2326","text":"Paulo M. Azevedo-Marques"}]},"title":"How to Add Content-based Image Retrieval Capability in a PACS.","venue":"CBMS","pages":"321-326","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BuenoCTTA02","doi":"10.1109/CBMS.2002.1011397","ee":"https://doi.org/10.1109/CBMS.2002.1011397","url":"https://dblp.org/rec/conf/cbms/BuenoCTTA02"},
+"url":"URL#7061642"
+},
+{
+"@score":"1",
+"@id":"7061643",
+"info":{"authors":{"author":[{"@pid":"00/3388","text":"Gianfranco Cellarosi"},{"@pid":"61/3451","text":"Stefano Lodi"},{"@pid":"s/ClaudioSartori","text":"Claudio Sartori 0001"}]},"title":"Detecting Outbreaks by Time Series Analysis.","venue":"CBMS","pages":"159-164","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/CellarosiLS02","doi":"10.1109/CBMS.2002.1011371","ee":"https://doi.org/10.1109/CBMS.2002.1011371","url":"https://dblp.org/rec/conf/cbms/CellarosiLS02"},
+"url":"URL#7061643"
+},
+{
+"@score":"1",
+"@id":"7061644",
+"info":{"authors":{"author":[{"@pid":"21/6353","text":"Boris Cigale"},{"@pid":"57/5867","text":"Matjaz Divjak"},{"@pid":"99/575","text":"Damjan Zazula"}]},"title":"Application of Simulated Annealing to Biosignal Classification and Segmentation.","venue":"CBMS","pages":"165-","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/CigaleDZ02","doi":"10.1109/CBMS.2002.1011372","ee":"https://doi.org/10.1109/CBMS.2002.1011372","url":"https://dblp.org/rec/conf/cbms/CigaleDZ02"},
+"url":"URL#7061644"
+},
+{
+"@score":"1",
+"@id":"7061645",
+"info":{"authors":{"author":[{"@pid":"17/4062","text":"Carlos Dafonte"},{"@pid":"96/2020","text":"Ángel Gómez"},{"@pid":"99/492","text":"Bernardino Arcay Varela"},{"@pid":"64/2452","text":"Alfonso Castro Martínez"},{"@pid":"73/4712","text":"Javier Pereira 0001"}]},"title":"3D Visualization Module in a Telemedicine Project.","venue":"CBMS","pages":"193-198","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/DafonteGVCP02","doi":"10.1109/CBMS.2002.1011376","ee":"https://doi.org/10.1109/CBMS.2002.1011376","url":"https://dblp.org/rec/conf/cbms/DafonteGVCP02"},
+"url":"URL#7061645"
+},
+{
+"@score":"1",
+"@id":"7061646",
+"info":{"authors":{"author":[{"@pid":"68/6012","text":"Zümray Dokur"},{"@pid":"19/6400","text":"Mehmet Nadir Kurnaz"},{"@pid":"39/4840","text":"Tamer Ölmez"}]},"title":"Segmentation of Ultrasound Images by Using Quantizer Neural Network.","venue":"CBMS","pages":"257-261","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/DokurKO02","doi":"10.1109/CBMS.2002.1011386","ee":"https://doi.org/10.1109/CBMS.2002.1011386","url":"https://dblp.org/rec/conf/cbms/DokurKO02"},
+"url":"URL#7061646"
+},
+{
+"@score":"1",
+"@id":"7061647",
+"info":{"authors":{"author":[{"@pid":"75/1107","text":"Kudakwashe Dube"},{"@pid":"75/1956-4","text":"Bing Wu 0004"},{"@pid":"g/JaneGrimson","text":"Jane Grimson"}]},"title":"Framework and Architecture for the Management of Event-Condition-Action (ECA) Rule-Based Clinical Protocols.","venue":"CBMS","pages":"288-294","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/DubeWG02","doi":"10.1109/CBMS.2002.1011391","ee":"https://doi.org/10.1109/CBMS.2002.1011391","url":"https://dblp.org/rec/conf/cbms/DubeWG02"},
+"url":"URL#7061647"
+},
+{
+"@score":"1",
+"@id":"7061648",
+"info":{"authors":{"author":[{"@pid":"e/JEder","text":"Johann Eder"},{"@pid":"80/3897","text":"Christian Koncilia"}]},"title":"Incorporating ICD-9 and ICD-10 Data in a Warehouse.","venue":"CBMS","pages":"91-96","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/EderK02","doi":"10.1109/CBMS.2002.1011360","ee":"https://doi.org/10.1109/CBMS.2002.1011360","url":"https://dblp.org/rec/conf/cbms/EderK02"},
+"url":"URL#7061648"
+},
+{
+"@score":"1",
+"@id":"7061649",
+"info":{"authors":{"author":[{"@pid":"72/6131","text":"José Ignacio Estévez Damas"},{"@pid":"25/2412","text":"Silvia Alayón"},{"@pid":"03/1896","text":"Lorenzo Moreno Ruiz"},{"@pid":"35/5267","text":"Rosa María Aguilar"},{"@pid":"88/3940","text":"José F. Sigut"}]},"title":"Cytological Breast Fine Needle Aspirate Images Analysis with a Genetic Fuzzy Finite State Machine.","venue":"CBMS","pages":"21-","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/EstevezAMAS02","doi":"10.1109/CBMS.2002.1011349","ee":"https://doi.org/10.1109/CBMS.2002.1011349","url":"https://dblp.org/rec/conf/cbms/EstevezAMAS02"},
+"url":"URL#7061649"
+},
+{
+"@score":"1",
+"@id":"7061650",
+"info":{"authors":{"author":[{"@pid":"16/1348","text":"Lars Frank"},{"@pid":"93/5356","text":"Arindam Mukherjee"}]},"title":"Distributed Electronic Patient Encounter With High Performance and Availability.","venue":"CBMS","pages":"373-376","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/FrankM02","doi":"10.1109/CBMS.2002.1011409","ee":"https://doi.org/10.1109/CBMS.2002.1011409","url":"https://dblp.org/rec/conf/cbms/FrankM02"},
+"url":"URL#7061650"
+},
+{
+"@score":"1",
+"@id":"7061651",
+"info":{"authors":{"author":[{"@pid":"55/2502","text":"C. N. Gorga"},{"@pid":"16/4836","text":"J. N. Marchaukoski"},{"@pid":"21/3766","text":"Marcos Sfair Sunyé"},{"@pid":"26/3892","text":"Olga Regina Pereira Bellon"},{"@pid":"69/2301","text":"Luciano Silva"},{"@pid":"32/919","text":"Mônica N. L. Cat"}]},"title":"A Health Care Information System for Neonatology Support.","venue":"CBMS","pages":"29-34","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GorgaMSBSC02","doi":"10.1109/CBMS.2002.1011350","ee":"https://doi.org/10.1109/CBMS.2002.1011350","url":"https://dblp.org/rec/conf/cbms/GorgaMSBSC02"},
+"url":"URL#7061651"
+},
+{
+"@score":"1",
+"@id":"7061652",
+"info":{"authors":{"author":{"@pid":"49/3701","text":"Michael A. Grasso"}},"title":"Structured Speech Input for Clinical Data Collection.","venue":"CBMS","pages":"199-204","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Grasso02","doi":"10.1109/CBMS.2002.1011377","ee":"https://doi.org/10.1109/CBMS.2002.1011377","url":"https://dblp.org/rec/conf/cbms/Grasso02"},
+"url":"URL#7061652"
+},
+{
+"@score":"1",
+"@id":"7061653",
+"info":{"authors":{"author":{"@pid":"06/2141","text":"Ciril Groselj"}},"title":"Data Mining Problems in Medicine.","venue":"CBMS","pages":"377-","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Groselj02","doi":"10.1109/CBMS.2002.1011410","ee":"https://doi.org/10.1109/CBMS.2002.1011410","url":"https://dblp.org/rec/conf/cbms/Groselj02"},
+"url":"URL#7061653"
+},
+{
+"@score":"1",
+"@id":"7061654",
+"info":{"authors":{"author":[{"@pid":"42/4244","text":"Zafar Iqbal Hashmi"},{"@pid":"53/914","text":"Syed Sibte Raza Abidi"},{"@pid":"58/5397","text":"Yu-N Cheah"}]},"title":"An Intelligent Agent-based Knowledge Broker for Enterprise-wide Healthcare Knowledge Procurement.","venue":"CBMS","pages":"173-178","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/HashmiAC02","doi":"10.1109/CBMS.2002.1011373","ee":"https://doi.org/10.1109/CBMS.2002.1011373","url":"https://dblp.org/rec/conf/cbms/HashmiAC02"},
+"url":"URL#7061654"
+},
+{
+"@score":"1",
+"@id":"7061655",
+"info":{"authors":{"author":[{"@pid":"76/165","text":"Gergely Héja"},{"@pid":"95/5704","text":"György Surján"}]},"title":"Semi-Automatic Classification of Clinical Diagnoses with Hybrid Approach.","venue":"CBMS","pages":"347-352","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/HejaS02","doi":"10.1109/CBMS.2002.1011403","ee":"https://doi.org/10.1109/CBMS.2002.1011403","url":"https://dblp.org/rec/conf/cbms/HejaS02"},
+"url":"URL#7061655"
+},
+{
+"@score":"1",
+"@id":"7061656",
+"info":{"authors":{"author":[{"@pid":"84/5825","text":"Ralf Hofestädt"},{"@pid":"45/3052","text":"Thoralf Töpel"}]},"title":"Case-based Support of Information Retrieval and Analysis of Molecular Data.","venue":"CBMS","pages":"129-133","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/HofestadtT02","doi":"10.1109/CBMS.2002.1011366","ee":"https://doi.org/10.1109/CBMS.2002.1011366","url":"https://dblp.org/rec/conf/cbms/HofestadtT02"},
+"url":"URL#7061656"
+},
+{
+"@score":"1",
+"@id":"7061657",
+"info":{"authors":{"author":[{"@pid":"15/3298","text":"Nawaz Khan"},{"@pid":"01/5831","text":"A. G. Stockman"},{"@pid":"20/1156","text":"Shahedur Rahman"}]},"title":"A Cooperative Environment for Genetic Variance Analysis Using Component Database for Database Integration.","venue":"CBMS","pages":"365-368","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KhanSR02","doi":"10.1109/CBMS.2002.1011407","ee":"https://doi.org/10.1109/CBMS.2002.1011407","url":"https://dblp.org/rec/conf/cbms/KhanSR02"},
+"url":"URL#7061657"
+},
+{
+"@score":"1",
+"@id":"7061658",
+"info":{"authors":{"author":[{"@pid":"33/3665","text":"Jirí Kléma"},{"@pid":"05/659","text":"Jirí Kubalík"},{"@pid":"51/2535","text":"Jiri Palous"}]},"title":"Optimized Model Tuning in Medical Systems.","venue":"CBMS","pages":"59-64","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KlemaKP02","doi":"10.1109/CBMS.2002.1011355","ee":"https://doi.org/10.1109/CBMS.2002.1011355","url":"https://dblp.org/rec/conf/cbms/KlemaKP02"},
+"url":"URL#7061658"
+},
+{
+"@score":"1",
+"@id":"7061659",
+"info":{"authors":{"author":{"@pid":"92/4456","text":"Ljudmila Kolenc"}},"title":"Influence of Information and Communication Technology on Education of Nurses.","venue":"CBMS","pages":"47-","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Kolenc02","doi":"10.1109/CBMS.2002.1011353","ee":"https://doi.org/10.1109/CBMS.2002.1011353","url":"https://dblp.org/rec/conf/cbms/Kolenc02"},
+"url":"URL#7061659"
+},
+{
+"@score":"1",
+"@id":"7061660",
+"info":{"authors":{"author":[{"@pid":"75/5932","text":"Dean Korosec"},{"@pid":"39/3386","text":"Ales Holobar"},{"@pid":"57/5867","text":"Matjaz Divjak"},{"@pid":"99/575","text":"Damjan Zazula"}]},"title":"Dynamic VRML for Simulated Training in Medicine.","venue":"CBMS","pages":"205-","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KorosecHDZ02","doi":"10.1109/CBMS.2002.1011378","ee":"https://doi.org/10.1109/CBMS.2002.1011378","url":"https://dblp.org/rec/conf/cbms/KorosecHDZ02"},
+"url":"URL#7061660"
+},
+{
+"@score":"1",
+"@id":"7061661",
+"info":{"authors":{"author":[{"@pid":"54/7014","text":"Dirk Krechel"},{"@pid":"b/RalphBergmann","text":"Ralph Bergmann"},{"@pid":"m/KerstinMaximini","text":"Kerstin Maximini"},{"@pid":"w/AldovonWangenheim","text":"Aldo von Wangenheim"}]},"title":"A Framework for Radiological Assistant Systems.","venue":"CBMS","pages":"179-184","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KrechelBMW02","doi":"10.1109/CBMS.2002.1011374","ee":"https://doi.org/10.1109/CBMS.2002.1011374","url":"https://dblp.org/rec/conf/cbms/KrechelBMW02"},
+"url":"URL#7061661"
+},
+{
+"@score":"1",
+"@id":"7061662",
+"info":{"authors":{"author":[{"@pid":"88/5577","text":"Matjaz Kukar"},{"@pid":"06/2141","text":"Ciril Groselj"}]},"title":"Reliable Diagnostics for Coronary Artery Disease.","venue":"CBMS","pages":"7-12","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KukarG02","doi":"10.1109/CBMS.2002.1011347","ee":"https://doi.org/10.1109/CBMS.2002.1011347","url":"https://dblp.org/rec/conf/cbms/KukarG02"},
+"url":"URL#7061662"
+},
+{
+"@score":"1",
+"@id":"7061663",
+"info":{"authors":{"author":[{"@pid":"19/6400","text":"Mehmet Nadir Kurnaz"},{"@pid":"39/4840","text":"Tamer Ölmez"}]},"title":"Determination of Features for Heart Sounds by Using Wavelet Transforms.","venue":"CBMS","pages":"155-158","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KurnazO02","doi":"10.1109/CBMS.2002.1011370","ee":"https://doi.org/10.1109/CBMS.2002.1011370","url":"https://dblp.org/rec/conf/cbms/KurnazO02"},
+"url":"URL#7061663"
+},
+{
+"@score":"1",
+"@id":"7061664",
+"info":{"authors":{"author":[{"@pid":"l/EvelinaLamma","text":"Evelina Lamma"},{"@pid":"32/798","text":"G. Modestino"},{"@pid":"26/4485","text":"Fabrizio Riguzzi"},{"@pid":"36/1528","text":"Sergio Storari"},{"@pid":"m/PMello","text":"Paola Mello"},{"@pid":"76/6764","text":"Anna Nanetti"}]},"title":"An Intelligent Medical System for Mocrobiological Data Validation and Nosocomial Infection Surveillance.","venue":"CBMS","pages":"13-20","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LammaMRSMN02","doi":"10.1109/CBMS.2002.1011348","ee":"https://doi.org/10.1109/CBMS.2002.1011348","url":"https://dblp.org/rec/conf/cbms/LammaMRSMN02"},
+"url":"URL#7061664"
+},
+{
+"@score":"1",
+"@id":"7061665",
+"info":{"authors":{"author":[{"@pid":"93/10951","text":"Reeva M. Lederman"},{"@pid":"03/2709","text":"Christina Parkes"}]},"title":"Exploring Errors in a Medication Process : An Analysis of Information Delivery.","venue":"CBMS","pages":"79-84","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LedermanP02","doi":"10.1109/CBMS.2002.1011358","ee":"https://doi.org/10.1109/CBMS.2002.1011358","url":"https://dblp.org/rec/conf/cbms/LedermanP02"},
+"url":"URL#7061665"
+},
+{
+"@score":"1",
+"@id":"7061666",
+"info":{"authors":{"author":[{"@pid":"16/5937","text":"Mitja Lenic"},{"@pid":"96/2660","text":"Peter Kokol"},{"@pid":"81/3672","text":"Ryuichi Yamamoto"}]},"title":"IFSIMS -Internet Frame ork Service for Intelligent Medical Systems.","venue":"CBMS","pages":"295-","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LenicKY02","doi":"10.1109/CBMS.2002.1011392","ee":"https://doi.org/10.1109/CBMS.2002.1011392","url":"https://dblp.org/rec/conf/cbms/LenicKY02"},
+"url":"URL#7061666"
+},
+{
+"@score":"1",
+"@id":"7061667",
+"info":{"authors":{"author":[{"@pid":"20/5486","text":"Lenka Lhotská"},{"@pid":"55/5865","text":"Tomás Vlcek"}]},"title":"Efficiency Enhancement of Rule-Based Expert Systems.","venue":"CBMS","pages":"53-58","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LhotskaV02","doi":"10.1109/CBMS.2002.1011354","ee":"https://doi.org/10.1109/CBMS.2002.1011354","url":"https://dblp.org/rec/conf/cbms/LhotskaV02"},
+"url":"URL#7061667"
+},
+{
+"@score":"1",
+"@id":"7061668",
+"info":{"authors":{"author":[{"@pid":"45/3144","text":"Lisheng Xu"},{"@pid":"58/1397","text":"Kuanquan Zhang"},{"@pid":"z/DavidZhang","text":"David Zhang 0001"},{"@pid":"50/810","text":"Shi Cheng"}]},"title":"Adaptive Baseline Wander Removal in the Pulse Waveform.","venue":"CBMS","pages":"143-148","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LishengZZC02","doi":"10.1109/CBMS.2002.1011368","ee":"https://doi.org/10.1109/CBMS.2002.1011368","url":"https://dblp.org/rec/conf/cbms/LishengZZC02"},
+"url":"URL#7061668"
+},
+{
+"@score":"1",
+"@id":"7061669",
+"info":{"authors":{"author":[{"@pid":"49/1732","text":"Gou Masuda"},{"@pid":"59/1201","text":"Norihiro Sakamoto"},{"@pid":"81/3672","text":"Ryuichi Yamamoto"}]},"title":"A Framework for Dynamic Evidence Based Medicine using Data Mining.","venue":"CBMS","pages":"117-122","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MasudaSY02","doi":"10.1109/CBMS.2002.1011364","ee":"https://doi.org/10.1109/CBMS.2002.1011364","url":"https://dblp.org/rec/conf/cbms/MasudaSY02"},
+"url":"URL#7061669"
+},
+{
+"@score":"1",
+"@id":"7061670",
+"info":{"authors":{"author":[{"@pid":"58/4020","text":"Tsutomu Matsumoto"},{"@pid":"60/2902","text":"Yuki Ueda"},{"@pid":"37/7007","text":"Shigeyasu Kawaji"}]},"title":"A Software System for Giving Clues of Medical Diagnosis to Clinician.","venue":"CBMS","pages":"65-70","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MatsumotoUK02","doi":"10.1109/CBMS.2002.1011356","ee":"https://doi.org/10.1109/CBMS.2002.1011356","url":"https://dblp.org/rec/conf/cbms/MatsumotoUK02"},
+"url":"URL#7061670"
+},
+{
+"@score":"1",
+"@id":"7061671",
+"info":{"authors":{"author":[{"@pid":"05/4801","text":"Maryvonne Miquel"},{"@pid":"46/604","text":"Anne Tchounikine"}]},"title":"Software Components Integration in Medical Data Warehouses: a Proposal.","venue":"CBMS","pages":"361-364","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MiquelT02","doi":"10.1109/CBMS.2002.1011406","ee":"https://doi.org/10.1109/CBMS.2002.1011406","url":"https://dblp.org/rec/conf/cbms/MiquelT02"},
+"url":"URL#7061671"
+},
+{
+"@score":"1",
+"@id":"7061672",
+"info":{"authors":{"author":{"@pid":"98/5220","text":"Nikolaos E. Myridis"}},"title":"On the Adaptive Perception of Medical Image.Mutual Audio-visual Images. Towards a Multimedia Virtual Groping.","venue":"CBMS","pages":"369-372","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Myridis02","doi":"10.1109/CBMS.2002.1011408","ee":"https://doi.org/10.1109/CBMS.2002.1011408","url":"https://dblp.org/rec/conf/cbms/Myridis02"},
+"url":"URL#7061672"
+},
+{
+"@score":"1",
+"@id":"7061673",
+"info":{"authors":{"author":[{"@pid":"23/3347","text":"Lucien Ngalamou"},{"@pid":"92/943","text":"Harold Campbell"}]},"title":"Diabetic Information Appliance.","venue":"CBMS","pages":"3-6","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/NgalamouC02","doi":"10.1109/CBMS.2002.1011346","ee":"https://doi.org/10.1109/CBMS.2002.1011346","url":"https://dblp.org/rec/conf/cbms/NgalamouC02"},
+"url":"URL#7061673"
+},
+{
+"@score":"1",
+"@id":"7061674",
+"info":{"authors":{"author":[{"@pid":"23/3347","text":"Lucien Ngalamou"},{"@pid":"91/2406","text":"David Rose"}]},"title":"Fertility Information Appliance.","venue":"CBMS","pages":"335-338","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/NgalamouR02","doi":"10.1109/CBMS.2002.1011400","ee":"https://doi.org/10.1109/CBMS.2002.1011400","url":"https://dblp.org/rec/conf/cbms/NgalamouR02"},
+"url":"URL#7061674"
+},
+{
+"@score":"1",
+"@id":"7061675",
+"info":{"authors":{"author":[{"@pid":"81/4752","text":"Christodulos Pappas"},{"@pid":"52/250","text":"Eva Coscia"},{"@pid":"d/GDodero","text":"Gabriella Dodero"},{"@pid":"g/VittoriaGianuzzi","text":"Vittoria Gianuzzi"},{"@pid":"59/6647","text":"Mark Earney"}]},"title":"A Mobile E-Health System Based on Workflow Automation Tools.","venue":"CBMS","pages":"271-276","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PappasCDGE02","doi":"10.1109/CBMS.2002.1011388","ee":"https://doi.org/10.1109/CBMS.2002.1011388","url":"https://dblp.org/rec/conf/cbms/PappasCDGE02"},
+"url":"URL#7061675"
+},
+{
+"@score":"1",
+"@id":"7061676",
+"info":{"authors":{"author":[{"@pid":"73/4712","text":"Javier Pereira 0001"},{"@pid":"64/2452","text":"Alfonso Castro Martínez"},{"@pid":"70/3163","text":"Dismer Ronda"},{"@pid":"99/492","text":"Bernardino Arcay Varela"},{"@pid":"48/6925","text":"Alejandro Pazos"}]},"title":"Development of a System for Access to and Exploitation of Medical Images.","venue":"CBMS","pages":"309-314","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PereiraMRVP02","doi":"10.1109/CBMS.2002.1011395","ee":"https://doi.org/10.1109/CBMS.2002.1011395","url":"https://dblp.org/rec/conf/cbms/PereiraMRVP02"},
+"url":"URL#7061676"
+},
+{
+"@score":"1",
+"@id":"7061677",
+"info":{"authors":{"author":{"@pid":"66/344","text":"Margaret G. E. Peterson"}},"title":"Privacy versus Safety: Who is Safe?.","venue":"CBMS","pages":"85-90","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Peterson02","doi":"10.1109/CBMS.2002.1011359","ee":"https://doi.org/10.1109/CBMS.2002.1011359","url":"https://dblp.org/rec/conf/cbms/Peterson02"},
+"url":"URL#7061677"
+},
+{
+"@score":"1",
+"@id":"7061678",
+"info":{"authors":{"author":[{"@pid":"59/5578","text":"Eric Plévin"},{"@pid":"99/575","text":"Damjan Zazula"}]},"title":"Decomposition of Surface EMG Signals Using Non-Linear LMS Optimisation of Higher-Order Cumulants.","venue":"CBMS","pages":"149-154","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PlevinZ02","doi":"10.1109/CBMS.2002.1011369","ee":"https://doi.org/10.1109/CBMS.2002.1011369","url":"https://dblp.org/rec/conf/cbms/PlevinZ02"},
+"url":"URL#7061678"
+},
+{
+"@score":"1",
+"@id":"7061679",
+"info":{"authors":{"author":[{"@pid":"97/3274","text":"Vili Podgorelec"},{"@pid":"88/6597","text":"Marjan Hericko"},{"@pid":"96/2589","text":"Matjaz B. Juric"},{"@pid":"74/2367","text":"Ivan Rozman"}]},"title":"Testing Reliability of Medical Software.","venue":"CBMS","pages":"185-","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PodgorelecHJR02","doi":"10.1109/CBMS.2002.1011375","ee":"https://doi.org/10.1109/CBMS.2002.1011375","url":"https://dblp.org/rec/conf/cbms/PodgorelecHJR02"},
+"url":"URL#7061679"
+},
+{
+"@score":"1",
+"@id":"7061680",
+"info":{"authors":{"author":[{"@pid":"97/3274","text":"Vili Podgorelec"},{"@pid":"96/2660","text":"Peter Kokol"},{"@pid":"13/6432","text":"Milojka Molan Stiglic"}]},"title":"Searching for ew Patterns in Cardiovascular Data.","venue":"CBMS","pages":"111-116","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PodgorelecKS02","doi":"10.1109/CBMS.2002.1011363","ee":"https://doi.org/10.1109/CBMS.2002.1011363","url":"https://dblp.org/rec/conf/cbms/PodgorelecKS02"},
+"url":"URL#7061680"
+},
+{
+"@score":"1",
+"@id":"7061681",
+"info":{"authors":{"author":[{"@pid":"00/5788","text":"Bozidar Potocnik"},{"@pid":"21/6353","text":"Boris Cigale"},{"@pid":"99/575","text":"Damjan Zazula"}]},"title":"The XUltra project - Automated Analysis of Ovarian Ultrasound Images.","venue":"CBMS","pages":"262-","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PotocnikCZ02","doi":"10.1109/CBMS.2002.1011387","ee":"https://doi.org/10.1109/CBMS.2002.1011387","url":"https://dblp.org/rec/conf/cbms/PotocnikCZ02"},
+"url":"URL#7061681"
+},
+{
+"@score":"1",
+"@id":"7061682",
+"info":{"authors":{"author":[{"@pid":"62/2596","text":"Gorazd Pretnar"},{"@pid":"77/2299","text":"Franz Steindl"}]},"title":"Time Dependent Cell Growth in Biomedical Research with General Cell Screening System.","venue":"CBMS","pages":"41-46","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PretnarS02","doi":"10.1109/CBMS.2002.1011352","ee":"https://doi.org/10.1109/CBMS.2002.1011352","url":"https://dblp.org/rec/conf/cbms/PretnarS02"},
+"url":"URL#7061682"
+},
+{
+"@score":"1",
+"@id":"7061683",
+"info":{"authors":{"author":[{"@pid":"75/1604-1","text":"David Riaño 0001"},{"@pid":"45/6251","text":"Susana Prado"}]},"title":"The Study of Medical Costs with Intelligent Information Systems.","venue":"CBMS","pages":"343-346","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RianoP02","doi":"10.1109/CBMS.2002.1011402","ee":"https://doi.org/10.1109/CBMS.2002.1011402","url":"https://dblp.org/rec/conf/cbms/RianoP02"},
+"url":"URL#7061683"
+},
+{
+"@score":"1",
+"@id":"7061684",
+"info":{"authors":{"author":[{"@pid":"75/1604-1","text":"David Riaño 0001"},{"@pid":"45/6251","text":"Susana Prado"},{"@pid":"66/2605","text":"Antonio Pascual"},{"@pid":"27/4213","text":"Silvestre Martín"}]},"title":"A Multi-Agent System Model to Support Palliative Care Units.","venue":"CBMS","pages":"35-40","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RianoPPM02","doi":"10.1109/CBMS.2002.1011351","ee":"https://doi.org/10.1109/CBMS.2002.1011351","url":"https://dblp.org/rec/conf/cbms/RianoPPM02"},
+"url":"URL#7061684"
+},
+{
+"@score":"1",
+"@id":"7061685",
+"info":{"authors":{"author":[{"@pid":"r/LeonardoRibeiro","text":"Leonardo Ribeiro 0001"},{"@pid":"90/2741","text":"Paulo Roberto Dellani"},{"@pid":"w/AldovonWangenheim","text":"Aldo von Wangenheim"},{"@pid":"m/MichaelMRichter","text":"Michael M. Richter"},{"@pid":"m/KerstinMaximini","text":"Kerstin Maximini"},{"@pid":"42/2611","text":"Eros Comunello"}]},"title":"CyclopsDistMedDB. - A Transparent Gateway for Distributed Medical Data Access in DICOM Format.","venue":"CBMS","pages":"315-320","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RibeiroDWRMC02","doi":"10.1109/CBMS.2002.1011396","ee":"https://doi.org/10.1109/CBMS.2002.1011396","url":"https://dblp.org/rec/conf/cbms/RibeiroDWRMC02"},
+"url":"URL#7061685"
+},
+{
+"@score":"1",
+"@id":"7061686",
+"info":{"authors":{"author":[{"@pid":"43/2","text":"Néstor J. Rodríguez"},{"@pid":"25/4479","text":"Daniel Z. Sands"}]},"title":"A Study of Physicians Interaction with Text-Based and Graphical-Based Electronic Patient Record Systems.","venue":"CBMS","pages":"357-360","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RodriguezS02","doi":"10.1109/CBMS.2002.1011405","ee":"https://doi.org/10.1109/CBMS.2002.1011405","url":"https://dblp.org/rec/conf/cbms/RodriguezS02"},
+"url":"URL#7061686"
+},
+{
+"@score":"1",
+"@id":"7061687",
+"info":{"authors":{"author":[{"@pid":"07/2713","text":"Dragan Z. Saletic"},{"@pid":"81/4198","text":"Dusan M. Velasevic"}]},"title":"Improvements in the Fuzzy Model of Determining the Severity of Respiratory Failure.","venue":"CBMS","pages":"353-356","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SaleticV02","doi":"10.1109/CBMS.2002.1011404","ee":"https://doi.org/10.1109/CBMS.2002.1011404","url":"https://dblp.org/rec/conf/cbms/SaleticV02"},
+"url":"URL#7061687"
+},
+{
+"@score":"1",
+"@id":"7061688",
+"info":{"authors":{"author":[{"@pid":"65/99","text":"Michael A. Shifrin"},{"@pid":"57/5083","text":"Elena E. Kalinina"},{"@pid":"62/4737","text":"Eugene D. Kalinin"}]},"title":"MEDSET -- an Integrated Technology for Modelling, Engineering, Deployment, Support and Evolution of Information Systems.","venue":"CBMS","pages":"277-281","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ShifrinKK02","doi":"10.1109/CBMS.2002.1011389","ee":"https://doi.org/10.1109/CBMS.2002.1011389","url":"https://dblp.org/rec/conf/cbms/ShifrinKK02"},
+"url":"URL#7061688"
+},
+{
+"@score":"1",
+"@id":"7061689",
+"info":{"authors":{"author":{"@pid":"91/5579","text":"Iryna Skrypnyk"}},"title":"Comparison of Feature Selection Strategies for Hearing Impairments Diagnostics.","venue":"CBMS","pages":"231-","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Skrypnyk02","doi":"10.1109/CBMS.2002.1011382","ee":"https://doi.org/10.1109/CBMS.2002.1011382","url":"https://dblp.org/rec/conf/cbms/Skrypnyk02"},
+"url":"URL#7061689"
+},
+{
+"@score":"1",
+"@id":"7061690",
+"info":{"authors":{"author":[{"@pid":"78/4697","text":"Matej Sprogar"},{"@pid":"96/2660","text":"Peter Kokol"},{"@pid":"25/2412","text":"Silvia Alayón"}]},"title":"Autonomous Evolutionary Algorithm in Medical Data Analysis.","venue":"CBMS","pages":"71-","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SprogarKA02","doi":"10.1109/CBMS.2002.1011357","ee":"https://doi.org/10.1109/CBMS.2002.1011357","url":"https://dblp.org/rec/conf/cbms/SprogarKA02"},
+"url":"URL#7061690"
+},
+{
+"@score":"1",
+"@id":"7061691",
+"info":{"authors":{"author":[{"@pid":"89/4236","text":"Alexey Tsymbal"},{"@pid":"83/2969","text":"Seppo Puuronen"}]},"title":"Ensemble Feature election with the Simple Bayesian Classification in Medical Diagnostics.","venue":"CBMS","pages":"225-230","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/TsymbalP02","doi":"10.1109/CBMS.2002.1011381","ee":"https://doi.org/10.1109/CBMS.2002.1011381","url":"https://dblp.org/rec/conf/cbms/TsymbalP02"},
+"url":"URL#7061691"
+},
+{
+"@score":"1",
+"@id":"7061692",
+"info":{"authors":{"author":[{"@pid":"w/AldovonWangenheim","text":"Aldo von Wangenheim"},{"@pid":"43/3435","text":"Rafael Charnovscki"},{"@pid":"19/1807","text":"Ronie C. F. Cardoso"},{"@pid":"44/6886","text":"Luiz Felipe de Souza Nobre"},{"@pid":"13/4958","text":"Daniel Chaves"},{"@pid":"42/2611","text":"Eros Comunello"}]},"title":"CyclopsStrokeQuantifier - Ischaemic Stroke Detection System Using Dynamic CT.","venue":"CBMS","pages":"251-256","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/WangenheimCCNCC02","doi":"10.1109/CBMS.2002.1011385","ee":"https://doi.org/10.1109/CBMS.2002.1011385","url":"https://dblp.org/rec/conf/cbms/WangenheimCCNCC02"},
+"url":"URL#7061692"
+},
+{
+"@score":"1",
+"@id":"7061693",
+"info":{"authors":{"author":[{"@pid":"w/TWelzer","text":"Tatjana Welzer"},{"@pid":"41/2169","text":"Bostjan Brumen"},{"@pid":"70/2860","text":"Izidor Golob"},{"@pid":"02/576","text":"Marjan Druzovec"}]},"title":"Medical Diagnostic and Data Quality.","venue":"CBMS","pages":"97-101","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/WelzerBGD02","doi":"10.1109/CBMS.2002.1011361","ee":"https://doi.org/10.1109/CBMS.2002.1011361","url":"https://dblp.org/rec/conf/cbms/WelzerBGD02"},
+"url":"URL#7061693"
+},
+{
+"@score":"1",
+"@id":"7061694",
+"info":{"authors":{"author":[{"@pid":"81/2770","text":"Syed Zahid Hassan Zaidi"},{"@pid":"53/914","text":"Syed Sibte Raza Abidi"},{"@pid":"41/3678","text":"Selvakumar Manickam"}]},"title":"Distributed Data Mining From Heterogeneous Healthcare Data Repositories: Towards an Intelligent Agent-Based Framework.","venue":"CBMS","pages":"339-342","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ZaidiAM02","doi":"10.1109/CBMS.2002.1011401","ee":"https://doi.org/10.1109/CBMS.2002.1011401","url":"https://dblp.org/rec/conf/cbms/ZaidiAM02"},
+"url":"URL#7061694"
+},
+{
+"@score":"1",
+"@id":"7061695",
+"info":{"authors":{"author":[{"@pid":"78/4716","text":"Milan Zorman"},{"@pid":"49/1732","text":"Gou Masuda"},{"@pid":"96/2660","text":"Peter Kokol"},{"@pid":"81/3672","text":"Ryuichi Yamamoto"},{"@pid":"75/2387","text":"Bruno Stiglic"}]},"title":"Mining Diabetes Database With Decision Trees and Association Rules.","venue":"CBMS","pages":"134-","year":"2002","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ZormanMKYS02","doi":"10.1109/CBMS.2002.1011367","ee":"https://doi.org/10.1109/CBMS.2002.1011367","url":"https://dblp.org/rec/conf/cbms/ZormanMKYS02"},
+"url":"URL#7061695"
+},
+{
+"@score":"1",
+"@id":"7111734",
+"info":{"title":"15th IEEE Symposium on Computer-Based Medical Systems (CBMS 2002), 4-7 June 2002, Maribor, Slovenia","venue":"CBMS","publisher":"IEEE Computer Society","year":"2002","type":"Editorship","key":"conf/cbms/2002","ee":"https://ieeexplore.ieee.org/xpl/conhome/7905/proceeding","url":"https://dblp.org/rec/conf/cbms/2002"},
+"url":"URL#7111734"
+}
+]
+}
+}
+}

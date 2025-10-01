@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+adaptive object detection,adversarial feature adaptation,0.871,0.508
+adaptive object detection,transferability,0.0642,1.368
+adaptive object detection,discriminability,0.3575,1.1336
+adversarial feature adaptation,transferability,0.0576,1.3729
+adversarial feature adaptation,discriminability,0.3147,1.1707
+discriminability,transferability,-0.2411,1.5755
+Hierarchical Transferability Calibration Network,transferability,-0.0919,1.4778
+Hierarchical Transferability Calibration Network,discriminability,-0.1689,1.529
+Context-aware Instance-Level Alignment,transferability,-0.3364,1.6349
+local feature masks,transferability,-0.2193,1.5616
+discriminative pattern alignment,transferability,0.206,1.2601
+Context-aware Instance-Level Alignment,discriminability,0.027,1.395
+discriminability,local feature masks,-0.2528,1.5829
+discriminability,discriminative pattern alignment,0.1528,1.3017
+Context-aware Instance-Level Alignment,Hierarchical Transferability Calibration Network,0.8365,0.5718
+Hierarchical Transferability Calibration Network,local feature masks,-0.2877,1.6048
+Hierarchical Transferability Calibration Network,discriminative pattern alignment,0.8065,0.6221
+Context-aware Instance-Level Alignment,local feature masks,-0.2174,1.5604
+Context-aware Instance-Level Alignment,discriminative pattern alignment,0.7478,0.7103
+discriminative pattern alignment,local feature masks,-0.2567,1.5854

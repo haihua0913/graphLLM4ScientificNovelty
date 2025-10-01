@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+Granger causality,event sequences,0.1476,1.3057
+Granger causality,event interdependency,-0.0001,1.4143
+Granger causality,model explainability,-0.2231,1.564
+event interdependency,event sequences,0.0065,1.4096
+event sequences,model explainability,-0.0332,1.4375
+event interdependency,model explainability,-0.3053,1.6157
+Granger causality,neural point process,-0.2743,1.5964
+event sequences,neural point process,-0.1757,1.5334
+event interdependency,neural point process,-0.1558,1.5204
+attribution method,neural point process,0.9635,0.2704
+model explainability,neural point process,-0.318,1.6236
+Granger causality,attribution method,-0.2558,1.5848
+attribution method,event sequences,-0.0578,1.4545
+attribution method,event interdependency,-0.1894,1.5423
+attribution method,model explainability,-0.1808,1.5367
+inter-type Granger causality,neural point process,-0.0978,1.4818
+Granger causality,inter-type Granger causality,0.9516,0.3111
+event interdependency,inter-type Granger causality,-0.0154,1.4251
+attribution method,inter-type Granger causality,-0.0506,1.4496

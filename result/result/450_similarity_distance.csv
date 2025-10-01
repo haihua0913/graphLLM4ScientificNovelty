@@ -1,0 +1,32 @@
+node1,node2,similarity,distance
+motion cues,shape recovery,-0.1537,1.519
+motion cues,unknown BRDF,0.0934,1.3466
+shape recovery,unknown BRDF,-0.0314,1.4362
+camera motion,shape recovery,-0.1614,1.5241
+differential stereo relation,shape recovery,-0.2503,1.5813
+isotropic BRDF,shape recovery,-0.078,1.4684
+camera motion,unknown BRDF,0.1337,1.3163
+differential stereo relation,unknown BRDF,-0.0289,1.4345
+isotropic BRDF,unknown BRDF,0.8831,0.4836
+camera motion,differential stereo relation,0.0961,1.3445
+camera motion,isotropic BRDF,0.0536,1.3758
+differential stereo relation,isotropic BRDF,-0.3864,1.6652
+camera motion,orthographic projection,-0.0323,1.4369
+differential stereo relation,orthographic projection,-0.284,1.6025
+isotropic BRDF,orthographic projection,0.0245,1.3968
+camera motion,perspective case,0.0198,1.4001
+camera motion,differential motions,-0.0811,1.4705
+differential stereo relation,perspective case,-0.14,1.51
+differential motions,differential stereo relation,0.9715,0.2388
+orthographic projection,perspective case,-0.1132,1.4921
+differential motions,orthographic projection,-0.2018,1.5504
+isotropic BRDF,perspective case,-0.0946,1.4796
+differential motions,perspective case,-0.2389,1.5741
+differential motions,isotropic BRDF,-0.4298,1.691
+orthographic projection,shape recovery,-0.0481,1.4478
+perspective case,shape recovery,-0.4469,1.7011
+differential motions,shape recovery,-0.225,1.5653
+reconstruction methods,shape recovery,0.9309,0.3716
+perspective case,reconstruction methods,-0.4,1.6733
+isotropic BRDF,reconstruction methods,0.1562,1.2991
+differential motions,reconstruction methods,-0.202,1.5505

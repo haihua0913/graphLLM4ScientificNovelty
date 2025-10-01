@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+Euclidean commute time distance,shortest path,0.9207,0.3983
+shortest path,weighted graph,0.9592,0.2857
+k-nearest neighbor,shortest path,0.9361,0.3575
+nonconvex-shaped clusters,shortest path,0.3456,1.144
+Euclidean commute time distance,weighted graph,0.9782,0.209
+Euclidean commute time distance,k-nearest neighbor,0.9864,0.165
+Euclidean commute time distance,nonconvex-shaped clusters,0.2753,1.2039
+k-nearest neighbor,weighted graph,0.9805,0.1973
+nonconvex-shaped clusters,weighted graph,0.3541,1.1366
+k-nearest neighbor,nonconvex-shaped clusters,0.3055,1.1786
+link-based dissimilarity measure,shortest path,0.8658,0.5181
+minimax paths,shortest path,0.9283,0.3786
+Euclidean commute time distance,link-based dissimilarity measure,0.9826,0.1867
+Euclidean commute time distance,minimax paths,0.974,0.2282
+link-based dissimilarity measure,weighted graph,0.9578,0.2906
+minimax paths,weighted graph,0.9563,0.2957
+k-nearest neighbor,link-based dissimilarity measure,0.9618,0.2766
+k-nearest neighbor,minimax paths,0.977,0.2146
+link-based dissimilarity measure,nonconvex-shaped clusters,0.2099,1.257
+link-based dissimilarity measure,minimax paths,0.9406,0.3447
+minimax paths,nonconvex-shaped clusters,0.2281,1.2425
+Lp norm,shortest path,0.9167,0.4081
+Euclidean commute time distance,Lp norm,0.8608,0.5276
+Lp norm,link-based dissimilarity measure,0.8417,0.5626
+Lp norm,minimax paths,0.7875,0.6519
+greedy algorithm,shortest path,0.3765,1.1167
+Euclidean commute time distance,greedy algorithm,0.2718,1.2068
+Lp norm,greedy algorithm,0.4606,1.0386

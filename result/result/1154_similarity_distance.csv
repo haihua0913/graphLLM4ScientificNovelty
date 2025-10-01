@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+Boolean Matrix Factorization,Boolean data,0.0887,1.35
+Boolean Matrix Factorization,NP-hard combinatorial optimization,0.0243,1.3969
+Boolean Matrix Factorization,interpretable,0.9566,0.2947
+Boolean data,NP-hard combinatorial optimization,0.0963,1.3444
+Boolean data,interpretable,0.0928,1.347
+NP-hard combinatorial optimization,interpretable,0.1785,1.2818
+Boolean Matrix Factorization,elastic-binary regularizer,0.068,1.3653
+Boolean Matrix Factorization,proximal gradient algorithm,-0.0953,1.4801
+Boolean data,elastic-binary regularizer,0.8427,0.5609
+Boolean data,proximal gradient algorithm,0.5537,0.9448
+NP-hard combinatorial optimization,elastic-binary regularizer,0.3235,1.1632
+NP-hard combinatorial optimization,proximal gradient algorithm,0.7245,0.7423
+elastic-binary regularizer,proximal gradient algorithm,0.7823,0.6599
+elastic-binary regularizer,interpretable,0.1707,1.2879
+interpretable,proximal gradient algorithm,-0.0054,1.418
+NP-hard combinatorial optimization,synthetic data,0.3493,1.1408
+elastic-binary regularizer,synthetic data,0.1923,1.271
+proximal gradient algorithm,synthetic data,0.0315,1.3918
+interpretable,synthetic data,0.1299,1.3192
+elastic-binary regularizer,real-world data,0.3914,1.1032
+elastic-binary regularizer,medical domain,0.6258,0.8651
+proximal gradient algorithm,real-world data,0.3207,1.1656
+medical domain,proximal gradient algorithm,0.4713,1.0283
+real-world data,synthetic data,-0.0782,1.4685
+medical domain,synthetic data,0.2071,1.2593
+medical domain,real-world data,0.0868,1.3515
+interpretable,real-world data,-0.1405,1.5103
+interpretable,medical domain,0.849,0.5496

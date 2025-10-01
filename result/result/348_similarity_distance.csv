@@ -1,0 +1,37 @@
+node1,node2,similarity,distance
+BERT,unsupervised sub-word tokenization,-0.1881,1.5415
+BERT,byte-pair encoding,0.8473,0.5527
+BERT,morphologically rich languages,-0.1749,1.5329
+byte-pair encoding,unsupervised sub-word tokenization,0.0739,1.3609
+morphologically rich languages,unsupervised sub-word tokenization,-0.092,1.4778
+byte-pair encoding,morphologically rich languages,-0.1419,1.5112
+BERT,morphological analyzer,-0.2085,1.5547
+BERT,morphological compositionality,-0.3394,1.6367
+morphological analyzer,unsupervised sub-word tokenization,-0.2263,1.5661
+morphological compositionality,unsupervised sub-word tokenization,-0.2857,1.6036
+byte-pair encoding,morphological analyzer,-0.1981,1.5479
+byte-pair encoding,morphological compositionality,-0.5724,1.7734
+morphological analyzer,morphologically rich languages,-0.1645,1.5261
+morphological compositionality,morphologically rich languages,0.4025,1.0932
+morphological analyzer,morphological compositionality,0.4642,1.0351
+BERT,two-tier BERT architecture,-0.5255,1.7467
+two-tier BERT architecture,unsupervised sub-word tokenization,0.6953,0.7807
+byte-pair encoding,two-tier BERT architecture,-0.4017,1.6743
+morphologically rich languages,two-tier BERT architecture,-0.1577,1.5217
+morphological analyzer,two-tier BERT architecture,0.2855,1.1954
+morphological compositionality,two-tier BERT architecture,0.2684,1.2096
+BERT,Kinyarwanda,-0.0149,1.4247
+BERT,KinyaBERT,0.0645,1.3679
+Kinyarwanda,morphological analyzer,-0.1369,1.5079
+KinyaBERT,morphological analyzer,0.1919,1.2713
+Kinyarwanda,two-tier BERT architecture,-0.0318,1.4365
+KinyaBERT,two-tier BERT architecture,0.0723,1.3621
+Kinyarwanda,morphological compositionality,0.0441,1.3827
+KinyaBERT,morphological compositionality,-0.0879,1.475
+KinyaBERT,Kinyarwanda,0.0131,1.4049
+BERT,named entity recognition task,-0.0697,1.4626
+morphological analyzer,named entity recognition task,-0.1037,1.4857
+named entity recognition task,two-tier BERT architecture,-0.3411,1.6378
+morphological compositionality,named entity recognition task,-0.0527,1.451
+Kinyarwanda,named entity recognition task,-0.0837,1.4722
+KinyaBERT,named entity recognition task,0.7339,0.7295

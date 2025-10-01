@@ -1,0 +1,37 @@
+node1,node2,similarity,distance
+HEX programs,nonmonotonic logic programs,-0.1817,1.5374
+HEX programs,higher-order atoms,-0.2413,1.5756
+HEX programs,external atoms,-0.0857,1.4736
+HEX programs,answer-set semantics,-0.0384,1.4411
+HEX programs,meta-reasoning,-0.1617,1.5243
+higher-order atoms,nonmonotonic logic programs,0.8068,0.6216
+external atoms,nonmonotonic logic programs,0.6652,0.8182
+answer-set semantics,nonmonotonic logic programs,0.9346,0.3616
+meta-reasoning,nonmonotonic logic programs,0.985,0.173
+external atoms,higher-order atoms,0.9471,0.3254
+answer-set semantics,higher-order atoms,0.8768,0.4964
+higher-order atoms,meta-reasoning,0.8516,0.5447
+answer-set semantics,external atoms,0.7608,0.6917
+external atoms,meta-reasoning,0.7146,0.7555
+answer-set semantics,meta-reasoning,0.9669,0.2571
+HEX programs,external sources,-0.2058,1.553
+Answer-Set Programming,HEX programs,-0.3333,1.633
+HEX programs,Semantic Web,-0.1721,1.5311
+external sources,nonmonotonic logic programs,0.0116,1.406
+Answer-Set Programming,nonmonotonic logic programs,0.6671,0.816
+Semantic Web,nonmonotonic logic programs,0.9396,0.3477
+external sources,higher-order atoms,0.5514,0.9472
+Answer-Set Programming,higher-order atoms,0.6105,0.8826
+Semantic Web,higher-order atoms,0.6557,0.8299
+external atoms,external sources,0.6936,0.7828
+Answer-Set Programming,external atoms,0.4289,1.0687
+Semantic Web,external atoms,0.4634,1.036
+answer-set semantics,external sources,0.1284,1.3203
+Answer-Set Programming,answer-set semantics,0.7775,0.6671
+Semantic Web,answer-set semantics,0.9038,0.4387
+external sources,meta-reasoning,0.0735,1.3612
+Answer-Set Programming,meta-reasoning,0.7233,0.7439
+Semantic Web,meta-reasoning,0.9391,0.349
+Answer-Set Programming,external sources,-0.0521,1.4506
+Semantic Web,external sources,-0.2321,1.5698
+Answer-Set Programming,Semantic Web,0.8124,0.6125

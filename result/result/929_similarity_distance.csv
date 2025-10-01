@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+goal distance,optimal planning,0.2202,1.2488
+optimal planning,satisficing planning,-0.1803,1.5364
+dominance techniques,optimal planning,-0.0508,1.4497
+dominance techniques,satisficing planning,0.441,1.0574
+goal distance,satisficing planning,0.0153,1.4034
+dominance techniques,goal distance,0.8612,0.5268
+dominance relations,satisficing planning,-0.0915,1.4775
+satisficing planning,serializable sub-goals,-0.2808,1.6005
+dominance relations,dominance techniques,0.8195,0.6009
+dominance techniques,serializable sub-goals,-0.2295,1.5681
+dominance relations,serializable sub-goals,0.0024,1.4125
+dominance relations,optimal planning,0.1374,1.3134
+optimal planning,serializable sub-goals,0.9828,0.1856
+action selection,optimal planning,0.0255,1.3961
+enforced hill-climbing search,optimal planning,0.9758,0.22
+action selection,dominance relations,0.9693,0.2476
+dominance relations,enforced hill-climbing search,0.0677,1.3655
+action selection,serializable sub-goals,-0.09,1.4765
+enforced hill-climbing search,serializable sub-goals,0.9627,0.2733
+action selection,enforced hill-climbing search,-0.0636,1.4585

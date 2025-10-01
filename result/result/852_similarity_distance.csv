@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+Unsupervised Information Extraction,probability,-0.2751,1.5969
+Unsupervised Information Extraction,extraction,-0.1246,1.4997
+extraction,probability,0.0434,1.3832
+Unsupervised Information Extraction,massive corpora,-0.2624,1.589
+massive corpora,probability,-0.2471,1.5793
+extraction,massive corpora,-0.1566,1.5209
+probability,redundancy,0.0513,1.3774
+extraction,redundancy,0.8512,0.5455
+massive corpora,redundancy,-0.3785,1.6604
+probability,sample size,-0.0836,1.4721
+corroboration,probability,-0.4134,1.6813
+extraction,sample size,0.0699,1.3639
+corroboration,extraction,-0.6935,1.8404
+massive corpora,sample size,-0.1731,1.5317
+corroboration,massive corpora,-0.1146,1.493
+redundancy,sample size,-0.1143,1.4928
+corroboration,redundancy,-0.7019,1.845
+corroboration,sample size,0.3969,1.0982
+Pointwise Mutual Information,probability,-0.4123,1.6807
+Pointwise Mutual Information,extraction,-0.1629,1.5251
+Pointwise Mutual Information,redundancy,-0.2168,1.56
+Pointwise Mutual Information,sample size,0.0792,1.357
+Pointwise Mutual Information,corroboration,0.598,0.8967
+Support Vector Machines,probability,-0.1556,1.5203
+Support Vector Machines,extraction,-0.3026,1.6141
+Support Vector Machines,redundancy,-0.3618,1.6504
+Support Vector Machines,sample size,0.8496,0.5485
+Support Vector Machines,corroboration,0.4965,1.0035
+Pointwise Mutual Information,Support Vector Machines,-0.1509,1.5172

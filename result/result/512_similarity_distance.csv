@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+apparent motion field,image sequence,0.008,1.4085
+apparent motion field,global parameterized flow models,0.0169,1.4022
+apparent motion field,local dense optic flow estimators,0.8249,0.5918
+global parameterized flow models,image sequence,-0.1778,1.5348
+image sequence,local dense optic flow estimators,-0.3599,1.6492
+global parameterized flow models,local dense optic flow estimators,-0.1198,1.4965
+adaptive multigrid minimization,apparent motion field,0.9521,0.3094
+adaptive multigrid minimization,image sequence,-0.019,1.4276
+adaptive multigrid minimization,global parameterized flow models,0.0126,1.4053
+adaptive multigrid minimization,local dense optic flow estimators,0.7792,0.6646
+accelerated convergence,global parameterized flow models,0.2224,1.2471
+adaptive partitions,global parameterized flow models,0.0113,1.4062
+accelerated convergence,local dense optic flow estimators,-0.2282,1.5673
+adaptive partitions,local dense optic flow estimators,0.1529,1.3016
+accelerated convergence,adaptive multigrid minimization,-0.096,1.4805
+adaptive multigrid minimization,adaptive partitions,0.1985,1.2661
+accelerated convergence,adaptive partitions,0.8502,0.5473
+Meteosat sequences,accelerated convergence,-0.2524,1.5826
+Meteosat sequences,adaptive partitions,-0.2826,1.6017

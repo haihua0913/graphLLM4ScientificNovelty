@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+real image distributions,synthetic images,-0.0886,1.4755
+Simulated+Unsupervised (S+U) learning,synthetic images,-0.055,1.4526
+Simulated+Unsupervised (S+U) learning,real image distributions,-0.0022,1.4158
+adversarial network,synthetic images,0.0822,1.3548
+synthetic images,synthetic images as inputs,0.9548,0.3006
+adversarial network,real image distributions,-0.082,1.471
+real image distributions,synthetic images as inputs,0.0161,1.4028
+Simulated+Unsupervised (S+U) learning,adversarial network,-0.0091,1.4207
+Simulated+Unsupervised (S+U) learning,synthetic images as inputs,-0.1248,1.4998
+adversarial network,synthetic images as inputs,0.1467,1.3064
+self-regularization term,synthetic images,-0.2141,1.5583
+local adversarial loss,synthetic images,-0.1108,1.4905
+discriminator,synthetic images,-0.1833,1.5384
+Simulated+Unsupervised (S+U) learning,self-regularization term,0.9551,0.2996
+Simulated+Unsupervised (S+U) learning,local adversarial loss,0.2806,1.1995
+Simulated+Unsupervised (S+U) learning,discriminator,0.1991,1.2656
+adversarial network,self-regularization term,-0.2092,1.5551
+adversarial network,local adversarial loss,0.8247,0.5922
+adversarial network,discriminator,0.8067,0.6218
+self-regularization term,synthetic images as inputs,-0.2539,1.5836
+local adversarial loss,synthetic images as inputs,-0.0234,1.4306
+discriminator,synthetic images as inputs,-0.0448,1.4455
+local adversarial loss,self-regularization term,0.1302,1.3189
+discriminator,self-regularization term,0.1242,1.3235
+discriminator,local adversarial loss,0.853,0.5422
+MPIIGaze dataset,synthetic images,0.9881,0.1542

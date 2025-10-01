@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+latent task representations,negative transfer,-0.2107,1.5561
+block-diagonal Latent Task Assignment Matrix,negative transfer,-0.2403,1.575
+block-diagonal Latent Task Assignment Matrix,latent task representations,0.931,0.3715
+inter-group knowledge transfer,negative transfer,0.6342,0.8554
+inter-group knowledge transfer,latent task representations,0.5118,0.9882
+block-diagonal Latent Task Assignment Matrix,inter-group knowledge transfer,0.496,1.0039
+negative transfer,spectral condition,-0.0108,1.4218
+inter-group knowledge transfer,spectral condition,0.6314,0.8586
+relaxation scheme,spectral condition,0.9243,0.3891
+negative transfer,relaxation scheme,-0.1518,1.5178
+alternating optimization method,negative transfer,0.0643,1.368
+negative transfer,optimal transport problem,-0.0095,1.4209
+alternating optimization method,spectral condition,-0.0838,1.4723
+optimal transport problem,spectral condition,-0.2872,1.6045
+alternating optimization method,relaxation scheme,-0.061,1.4567
+optimal transport problem,relaxation scheme,-0.2116,1.5567
+alternating optimization method,optimal transport problem,0.9487,0.3202

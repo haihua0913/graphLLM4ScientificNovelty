@@ -1,0 +1,40 @@
+node1,node2,similarity,distance
+CheckList,behavioral testing,-0.3805,1.6616
+CheckList,NLP models,-0.281,1.6006
+NLP models,behavioral testing,0.0898,1.3492
+CheckList,general linguistic capabilities,-0.2701,1.5938
+CheckList,test cases,-0.2069,1.5536
+CheckList,software tool,-0.5888,1.7826
+CheckList,test ideation,-0.0716,1.464
+behavioral testing,general linguistic capabilities,0.0372,1.3876
+behavioral testing,test cases,0.9519,0.3103
+behavioral testing,software tool,0.913,0.4172
+behavioral testing,test ideation,0.9395,0.348
+NLP models,general linguistic capabilities,-0.3725,1.6568
+NLP models,test cases,0.0331,1.3906
+NLP models,software tool,0.0088,1.408
+NLP models,test ideation,0.0075,1.4089
+general linguistic capabilities,test cases,-0.1488,1.5158
+general linguistic capabilities,software tool,0.0467,1.3808
+general linguistic capabilities,test ideation,-0.1464,1.5142
+software tool,test cases,0.8395,0.5666
+test cases,test ideation,0.9816,0.192
+software tool,test ideation,0.7929,0.6435
+CheckList,user study,-0.2869,1.6043
+CheckList,sentiment analysis,-0.1949,1.5459
+CheckList,bugs,0.9163,0.4091
+general linguistic capabilities,user study,-0.2755,1.5972
+general linguistic capabilities,sentiment analysis,0.9784,0.2078
+bugs,general linguistic capabilities,-0.3976,1.6719
+test cases,user study,-0.0908,1.477
+sentiment analysis,test cases,-0.2473,1.5794
+bugs,test cases,0.0354,1.3889
+sentiment analysis,user study,-0.3069,1.6167
+bugs,user study,-0.3955,1.6706
+software tool,user study,-0.128,1.502
+test ideation,user study,-0.1242,1.4995
+bugs,sentiment analysis,-0.3438,1.6394
+sentiment analysis,software tool,-0.0717,1.4641
+sentiment analysis,test ideation,-0.2373,1.5731
+bugs,software tool,-0.3546,1.646
+bugs,test ideation,0.1518,1.3025

@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+fully convolutional neural network,text detection,-0.2183,1.561
+false positives,text detection,-0.2215,1.563
+text detection,word instances,-0.172,1.531
+false positives,fully convolutional neural network,0.0556,1.3744
+fully convolutional neural network,word instances,0.0625,1.3693
+false positives,word instances,0.9917,0.1286
+arbitrary orientations,text detection,-0.0029,1.4163
+curved text lines,text detection,-0.083,1.4718
+arbitrary orientations,fully convolutional neural network,-0.0397,1.442
+curved text lines,fully convolutional neural network,0.0831,1.3542
+arbitrary orientations,false positives,-0.2089,1.555
+curved text lines,false positives,-0.064,1.4588
+arbitrary orientations,word instances,-0.155,1.5198
+curved text lines,word instances,-0.0018,1.4155
+arbitrary orientations,curved text lines,0.9746,0.2252
+state-of-the-art performance,text detection,-0.0551,1.4526
+benchmark datasets,text detection,-0.0068,1.419
+fully convolutional neural network,state-of-the-art performance,-0.1203,1.4969
+benchmark datasets,fully convolutional neural network,-0.0411,1.443
+false positives,state-of-the-art performance,-0.2406,1.5752
+benchmark datasets,false positives,-0.194,1.5453
+state-of-the-art performance,word instances,-0.1857,1.5399
+benchmark datasets,word instances,-0.1399,1.5099
+arbitrary orientations,state-of-the-art performance,-0.2057,1.5529
+arbitrary orientations,benchmark datasets,0.9999,0.016
+curved text lines,state-of-the-art performance,-0.1787,1.5354
+benchmark datasets,curved text lines,0.9764,0.2173
+benchmark datasets,state-of-the-art performance,-0.2099,1.5556

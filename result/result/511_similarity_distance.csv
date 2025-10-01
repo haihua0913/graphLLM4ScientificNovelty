@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+3D structure,camera projection matrices,-0.4434,1.6991
+3D structure,uncalibrated image sequence,-0.2256,1.5656
+3D structure,correspondences,0.1093,1.3347
+camera projection matrices,uncalibrated image sequence,-0.0117,1.4225
+camera projection matrices,correspondences,-0.0431,1.4444
+correspondences,uncalibrated image sequence,-0.1624,1.5247
+3D structure,geometric constraints,-0.17,1.5297
+3D structure,scene rigidity,-0.0101,1.4214
+camera projection matrices,geometric constraints,0.2708,1.2077
+camera projection matrices,scene rigidity,-0.1949,1.5459
+geometric constraints,uncalibrated image sequence,-0.271,1.5944
+scene rigidity,uncalibrated image sequence,-0.0975,1.4815
+correspondences,geometric constraints,-0.4153,1.6824
+correspondences,scene rigidity,0.957,0.2931
+geometric constraints,scene rigidity,-0.5051,1.735
+correspondences,degenerate,0.8412,0.5635
+degenerate,geometric constraints,-0.1027,1.4851
+degenerate,scene rigidity,0.8079,0.6198
+degenerate,motion degeneracy,0.7577,0.6961
+degenerate,structure degeneracy,0.8321,0.5794
+motion degeneracy,structure degeneracy,0.8665,0.5167
+correspondences,motion degeneracy,0.9407,0.3445
+correspondences,structure degeneracy,0.8626,0.5242
+correspondences,multiple motion models,-0.3433,1.6391
+motion degeneracy,multiple motion models,-0.3669,1.6534
+multiple motion models,structure degeneracy,-0.3272,1.6292

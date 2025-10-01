@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+hierarchical structure,video summarization,-0.1003,1.4834
+hierarchical structure,shot segmentation,-0.2029,1.5511
+shot segmentation,video summarization,-0.1621,1.5245
+structure-adaptive,video summarization,-0.1889,1.542
+HSA-RNN,video summarization,-0.2757,1.5973
+shot segmentation,structure-adaptive,-0.2095,1.5553
+HSA-RNN,shot segmentation,-0.2693,1.5933
+hierarchical structure,structure-adaptive,0.7686,0.6803
+HSA-RNN,hierarchical structure,0.9586,0.2876
+HSA-RNN,structure-adaptive,0.6947,0.7815
+experimental results,video summarization,0.0642,1.3681
+experimental results,shot segmentation,-0.0139,1.424
+experimental results,hierarchical structure,-0.1911,1.5434
+experimental results,structure-adaptive,0.0717,1.3626
+HSA-RNN,experimental results,-0.3092,1.6181

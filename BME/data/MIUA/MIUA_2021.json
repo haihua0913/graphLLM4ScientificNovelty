@@ -1,0 +1,278 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/miua/miua2021.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"131.34"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"41",
+"@dc":"41",
+"@oc":"41",
+"@id":"48911149",
+"text":":facetid:toc:db/conf/miua/miua2021.bht"
+}
+},
+"hits":{
+"@total":"41",
+"@computed":"41",
+"@sent":"41",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2145685",
+"info":{"authors":{"author":[{"@pid":"36/1341-3","text":"Liping Wang 0003"},{"@pid":"44/3875","text":"Yuanjie Zheng"},{"@pid":"131/0622","text":"Andrik Rampun"},{"@pid":"04/3732","text":"Reyer Zwiggelaar"}]},"title":"Prostate Cancer Detection Using Image-Based Features in Dynamic Contrast Enhanced MRI.","venue":"MIUA","pages":"43-55","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/0003ZRZ21","doi":"10.1007/978-3-030-80432-9_4","ee":"https://doi.org/10.1007/978-3-030-80432-9_4","url":"https://dblp.org/rec/conf/miua/0003ZRZ21"},
+"url":"URL#2145685"
+},
+{
+"@score":"1",
+"@id":"2145686",
+"info":{"authors":{"author":[{"@pid":"58/1386","text":"Mohammed Ahmed"},{"@pid":"166/4805","text":"Alaa AlZoubi"},{"@pid":"81/4468","text":"Hongbo Du"}]},"title":"Improving Generalization of ENAS-Based CNN Models for Breast Lesion Classification from Ultrasound Images.","venue":"MIUA","pages":"438-453","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/AhmedAD21","doi":"10.1007/978-3-030-80432-9_33","ee":"https://doi.org/10.1007/978-3-030-80432-9_33","url":"https://dblp.org/rec/conf/miua/AhmedAD21"},
+"url":"URL#2145686"
+},
+{
+"@score":"1",
+"@id":"2145687",
+"info":{"authors":{"author":[{"@pid":"187/2847","text":"Zobair Arya"},{"@pid":"10/1333","text":"Ged Ridgway"},{"@pid":"296/5406","text":"Arun Jandor"},{"@pid":"41/5618","text":"Paul Aljabar"}]},"title":"Deep Learning-Based Landmark Localisation in the Liver for Couinaud Segmentation.","venue":"MIUA","pages":"227-237","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/AryaRJA21","doi":"10.1007/978-3-030-80432-9_18","ee":"https://doi.org/10.1007/978-3-030-80432-9_18","url":"https://dblp.org/rec/conf/miua/AryaRJA21"},
+"url":"URL#2145687"
+},
+{
+"@score":"1",
+"@id":"2145688",
+"info":{"authors":{"author":[{"@pid":"274/1794","text":"Alexandre Triay Bagur"},{"@pid":"41/5618","text":"Paul Aljabar"},{"@pid":"187/2847","text":"Zobair Arya"},{"@pid":"99/11387","text":"John McGonigle"},{"@pid":"b/MichaelBrady","text":"Michael Brady 0001"},{"@pid":"274/1832","text":"Daniel Bulte"}]},"title":"Slice-to-Volume Registration Enables Automated Pancreas MRI Quantification in UK Biobank.","venue":"MIUA","pages":"210-223","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/BagurAAMBB21","doi":"10.1007/978-3-030-80432-9_17","ee":"https://doi.org/10.1007/978-3-030-80432-9_17","url":"https://dblp.org/rec/conf/miua/BagurAAMBB21"},
+"url":"URL#2145688"
+},
+{
+"@score":"1",
+"@id":"2145689",
+"info":{"authors":{"author":[{"@pid":"133/0751","text":"Abhirup Banerjee"},{"@pid":"68/5719","text":"Ernesto Zacur"},{"@pid":"226/3125","text":"Robin P. Choudhury"},{"@pid":"g/VicenteGrau","text":"Vicente Grau"}]},"title":"Optimised Misalignment Correction from Cine MR Slices Using Statistical Shape Model.","venue":"MIUA","pages":"201-209","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/BanerjeeZCG21","doi":"10.1007/978-3-030-80432-9_16","ee":"https://doi.org/10.1007/978-3-030-80432-9_16","url":"https://dblp.org/rec/conf/miua/BanerjeeZCG21"},
+"url":"URL#2145689"
+},
+{
+"@score":"1",
+"@id":"2145690",
+"info":{"authors":{"author":[{"@pid":"281/6638","text":"Niamh Belton"},{"@pid":"296/5234","text":"Ivan Welaratne"},{"@pid":"257/5248","text":"Adil Dahlan"},{"@pid":"296/5090","text":"Ronan T. Hearne"},{"@pid":"241/6221","text":"Misgina Tsighe Hagos"},{"@pid":"94/6962","text":"Aonghus Lawlor"},{"@pid":"38/10368","text":"Kathleen M. Curran"}]},"title":"Optimising Knee Injury Detection with Spatial Attention and Validating Localisation Ability.","venue":"MIUA","pages":"71-86","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/BeltonWDHHLC21","doi":"10.1007/978-3-030-80432-9_6","ee":"https://doi.org/10.1007/978-3-030-80432-9_6","url":"https://dblp.org/rec/conf/miua/BeltonWDHHLC21"},
+"url":"URL#2145690"
+},
+{
+"@score":"1",
+"@id":"2145691",
+"info":{"authors":{"author":[{"@pid":"152/8628","text":"José Bernal"},{"@pid":"188/2852","text":"William Xu"},{"@pid":"152/3983","text":"Maria del C. Valdés Hernández"},{"@pid":"23/2687","text":"Javier Escudero"},{"@pid":"274/1861","text":"Angela C. C. Jochems"},{"@pid":"274/1815","text":"Una Clancy"},{"@pid":"205/6057","text":"Fergus N. Doubal"},{"@pid":"274/1834","text":"Michael S. Stringer"},{"@pid":"174/6462","text":"Michael J. Thrippleton"},{"@pid":"257/1964","text":"Rhian M. Touyz"},{"@pid":"116/1927","text":"Joanna M. Wardlaw"}]},"title":"Selective Motion Artefact Reduction via Radiomics and k-space Reconstruction for Improving Perivascular Space Quantification in Brain Magnetic Resonance Imaging.","venue":"MIUA","pages":"151-164","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/BernalXHEJCDSTT21","doi":"10.1007/978-3-030-80432-9_12","ee":"https://doi.org/10.1007/978-3-030-80432-9_12","url":"https://dblp.org/rec/conf/miua/BernalXHEJCDSTT21"},
+"url":"URL#2145691"
+},
+{
+"@score":"1",
+"@id":"2145692",
+"info":{"authors":{"author":[{"@pid":"250/6118","text":"Joshua Bridge"},{"@pid":"163/0144","text":"Simon P. Harding"},{"@pid":"15/952","text":"Yalin Zheng"}]},"title":"End-to-End Deep Learning Vector Autoregressive Prognostic Models to Predict Disease Progression with Uneven Time Intervals.","venue":"MIUA","pages":"517-531","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/BridgeHZ21","doi":"10.1007/978-3-030-80432-9_38","ee":"https://doi.org/10.1007/978-3-030-80432-9_38","url":"https://dblp.org/rec/conf/miua/BridgeHZ21"},
+"url":"URL#2145692"
+},
+{
+"@score":"1",
+"@id":"2145693",
+"info":{"authors":{"author":[{"@pid":"279/6733","text":"Seoin Chai"},{"@pid":"69/2478","text":"Daniel Rueckert"},{"@pid":"134/3560","text":"Ahmed E. Fetit"}]},"title":"Reducing Textural Bias Improves Robustness of Deep Segmentation Models.","venue":"MIUA","pages":"294-304","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/ChaiRF21","doi":"10.1007/978-3-030-80432-9_23","ee":"https://doi.org/10.1007/978-3-030-80432-9_23","url":"https://dblp.org/rec/conf/miua/ChaiRF21"},
+"url":"URL#2145693"
+},
+{
+"@score":"1",
+"@id":"2145694",
+"info":{"authors":{"author":[{"@pid":"272/1225","text":"Tamal Chowdhury"},{"@pid":"296/5113","text":"Angad R. S. Bajwa"},{"@pid":"147/9917","text":"Tapabrata Chakraborti"},{"@pid":"11/377","text":"Jens Rittscher"},{"@pid":"p/UmapadaPal","text":"Umapada Pal 0001"}]},"title":"Exploring the Correlation Between Deep Learned and Clinical Features in Melanoma Detection.","venue":"MIUA","pages":"3-17","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/ChowdhuryBCR021","doi":"10.1007/978-3-030-80432-9_1","ee":"https://doi.org/10.1007/978-3-030-80432-9_1","url":"https://dblp.org/rec/conf/miua/ChowdhuryBCR021"},
+"url":"URL#2145694"
+},
+{
+"@score":"1",
+"@id":"2145695",
+"info":{"authors":{"author":[{"@pid":"296/5696","text":"Meysam Dadgar"},{"@pid":"296/5108","text":"Szymon Parzych"},{"@pid":"296/5138","text":"Faranak Tayefi Ardebili"}]},"title":"A Simulation Study to Estimate Optimum LOR Angular Acceptance for the Image Reconstruction with the Total-Body J-PET.","venue":"MIUA","pages":"189-200","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/DadgarPA21","doi":"10.1007/978-3-030-80432-9_15","ee":"https://doi.org/10.1007/978-3-030-80432-9_15","url":"https://dblp.org/rec/conf/miua/DadgarPA21"},
+"url":"URL#2145695"
+},
+{
+"@score":"1",
+"@id":"2145696",
+"info":{"authors":{"author":[{"@pid":"289/5777","text":"Jun-En Ding"},{"@pid":"14/9465","text":"Chi-Hsiang Chu"},{"@pid":"18/8020","text":"Mong-Na Lo Huang"},{"@pid":"163/7878","text":"Chien-Ching Hsu"}]},"title":"Dopamine Transporter SPECT Image Classification for Neurodegenerative Parkinsonism via Diffusion Maps and Machine Learning Classifiers.","venue":"MIUA","pages":"377-393","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/DingCHH21","doi":"10.1007/978-3-030-80432-9_29","ee":"https://doi.org/10.1007/978-3-030-80432-9_29","url":"https://dblp.org/rec/conf/miua/DingCHH21"},
+"url":"URL#2145696"
+},
+{
+"@score":"1",
+"@id":"2145697",
+"info":{"authors":{"author":[{"@pid":"296/5012","text":"Ali Eskandari"},{"@pid":"81/4468","text":"Hongbo Du"},{"@pid":"166/4805","text":"Alaa AlZoubi"}]},"title":"Towards Linking CNN Decisions with Cancer Signs for Breast Lesion Classification from Ultrasound Images.","venue":"MIUA","pages":"423-437","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/EskandariDA21","doi":"10.1007/978-3-030-80432-9_32","ee":"https://doi.org/10.1007/978-3-030-80432-9_32","url":"https://dblp.org/rec/conf/miua/EskandariDA21"},
+"url":"URL#2145697"
+},
+{
+"@score":"1",
+"@id":"2145698",
+"info":{"authors":{"author":[{"@pid":"282/0380","text":"Manish Gawali"},{"@pid":"124/3522","text":"C. S. Arvind"},{"@pid":"282/1262","text":"Shriya Suryavanshi"},{"@pid":"281/9807","text":"Harshit Madaan"},{"@pid":"263/4111","text":"Ashrika Gaikwad"},{"@pid":"35/4669","text":"K. N. Bhanu Prakash"},{"@pid":"261/2734","text":"Viraj Kulkarni"},{"@pid":"119/9692","text":"Aniruddha Pant"}]},"title":"Comparison of Privacy-Preserving Distributed Deep Learning Methods in Healthcare.","venue":"MIUA","pages":"457-471","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/GawaliASMGPKP21","doi":"10.1007/978-3-030-80432-9_34","ee":"https://doi.org/10.1007/978-3-030-80432-9_34","url":"https://dblp.org/rec/conf/miua/GawaliASMGPKP21"},
+"url":"URL#2145698"
+},
+{
+"@score":"1",
+"@id":"2145699",
+"info":{"authors":{"author":[{"@pid":"296/5432","text":"Declan Grant"},{"@pid":"44/8930","text":"Bartlomiej W. Papiez"},{"@pid":"296/5567","text":"Guy Parsons"},{"@pid":"00/1628","text":"Lionel Tarassenko"},{"@pid":"128/4129","text":"Adam Mahdi"}]},"title":"Deep Learning Classification of Cardiomegaly Using Combined Imaging and Non-imaging ICU Data.","venue":"MIUA","pages":"547-558","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/GrantPPTM21","doi":"10.1007/978-3-030-80432-9_40","ee":"https://doi.org/10.1007/978-3-030-80432-9_40","url":"https://dblp.org/rec/conf/miua/GrantPPTM21"},
+"url":"URL#2145699"
+},
+{
+"@score":"1",
+"@id":"2145700",
+"info":{"authors":{"author":[{"@pid":"250/3529","text":"Evan Hann"},{"@pid":"295/4775","text":"Ricardo A. Gonzales"},{"@pid":"193/9427","text":"Iulia A. Popescu"},{"@pid":"72/3527-9","text":"Qiang Zhang 0009"},{"@pid":"250/3449","text":"Vanessa M. Ferreira"},{"@pid":"165/5702","text":"Stefan K. Piechnik"}]},"title":"Ensemble of Deep Convolutional Neural Networks with Monte Carlo Dropout Sampling for Automated Image Segmentation Quality Control and Robust Deep Learning Using Small Datasets.","venue":"MIUA","pages":"280-293","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/HannGPZFP21","doi":"10.1007/978-3-030-80432-9_22","ee":"https://doi.org/10.1007/978-3-030-80432-9_22","url":"https://dblp.org/rec/conf/miua/HannGPZFP21"},
+"url":"URL#2145700"
+},
+{
+"@score":"1",
+"@id":"2145701",
+"info":{"authors":{"author":[{"@pid":"267/6618","text":"Songlin Hou"},{"@pid":"47/3240","text":"Clifford Lindsay"},{"@pid":"23/3629","text":"Emmanuel Agu"},{"@pid":"37/11278","text":"Peder C. Pedersen"},{"@pid":"63/5476","text":"Bengisu Tulu"},{"@pid":"08/4940","text":"Diane M. Strong"}]},"title":"HDR-Like Image Generation to Mitigate Adverse Wound Illumination Using Deep Bi-directional Retinex and Exposure Fusion.","venue":"MIUA","pages":"307-321","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/HouLAPTS21","doi":"10.1007/978-3-030-80432-9_24","ee":"https://doi.org/10.1007/978-3-030-80432-9_24","url":"https://dblp.org/rec/conf/miua/HouLAPTS21"},
+"url":"URL#2145701"
+},
+{
+"@score":"1",
+"@id":"2145702",
+"info":{"authors":{"author":[{"@pid":"296/5479","text":"Farnaz Khun Jush"},{"@pid":"170/1694","text":"Peter Michael Dueppenbecker"},{"@pid":"131/7133","text":"Andreas Maier 0001"}]},"title":"Data-Driven Speed-of-Sound Reconstruction for Medical Ultrasound: Impacts of Training Data Format and Imperfections on Convergence.","venue":"MIUA","pages":"140-150","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/JushDM21","doi":"10.1007/978-3-030-80432-9_11","ee":"https://doi.org/10.1007/978-3-030-80432-9_11","url":"https://dblp.org/rec/conf/miua/JushDM21"},
+"url":"URL#2145702"
+},
+{
+"@score":"1",
+"@id":"2145703",
+"info":{"authors":{"author":[{"@pid":"296/4973","text":"Suhita Karmakar"},{"@pid":"253/9915","text":"Dipayan Dewan"},{"@pid":"205/0970","text":"Lidia Ghosh"},{"@pid":"253/9849","text":"Abir Chowdhury"},{"@pid":"75/6387","text":"Amit Konar"},{"@pid":"53/4055","text":"Atulya K. Nagar"}]},"title":"Brain-Connectivity Analysis to Differentiate Phasmophobic and Non-phasmophobic: An EEG Study.","venue":"MIUA","pages":"108-122","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/KarmakarDGCKN21","doi":"10.1007/978-3-030-80432-9_9","ee":"https://doi.org/10.1007/978-3-030-80432-9_9","url":"https://dblp.org/rec/conf/miua/KarmakarDGCKN21"},
+"url":"URL#2145703"
+},
+{
+"@score":"1",
+"@id":"2145704",
+"info":{"authors":{"author":[{"@pid":"296/5603","text":"Robert B. Labs"},{"@pid":"144/5001","text":"Massoud Zolgharni"},{"@pid":"11/9116","text":"Jonathan P. Loo"}]},"title":"Echocardiographic Image Quality Assessment Using Deep Neural Networks.","venue":"MIUA","pages":"488-502","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/LabsZL21","doi":"10.1007/978-3-030-80432-9_36","ee":"https://doi.org/10.1007/978-3-030-80432-9_36","url":"https://dblp.org/rec/conf/miua/LabsZL21"},
+"url":"URL#2145704"
+},
+{
+"@score":"1",
+"@id":"2145705",
+"info":{"authors":{"author":[{"@pid":"14/10102-5","text":"Ruizhe Li 0005"},{"@pid":"125/4420","text":"Matteo Bastiani"},{"@pid":"16/5624","text":"Dorothee Auer"},{"@pid":"01/2903-2","text":"Christian Wagner 0002"},{"@pid":"24/1518-3","text":"Xin Chen 0003"}]},"title":"Image Augmentation Using a Task Guided Generative Adversarial Network for Age Estimation on Brain MRI.","venue":"MIUA","pages":"350-360","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/LiBAWC21","doi":"10.1007/978-3-030-80432-9_27","ee":"https://doi.org/10.1007/978-3-030-80432-9_27","url":"https://dblp.org/rec/conf/miua/LiBAWC21"},
+"url":"URL#2145705"
+},
+{
+"@score":"1",
+"@id":"2145706",
+"info":{"authors":{"author":[{"@pid":"214/2305","text":"Jian Han Lim"},{"@pid":"296/5328","text":"Chun Shui Tan"},{"@pid":"51/655","text":"Chee Seng Chan"},{"@pid":"144/9496","text":"Roshan Alex Welikala"},{"@pid":"71/5524","text":"Paolo Remagnino"},{"@pid":"271/6808","text":"Senthilmani Rajendran"},{"@pid":"271/6758","text":"Thomas George Kallarakkal"},{"@pid":"271/6393","text":"Rosnah Binti Zain"},{"@pid":"271/6119","text":"Ruwan Duminda Jayasinghe"},{"@pid":"271/6268","text":"Jyotsna Rimal"},{"@pid":"271/6147","text":"Alexander Ross Kerr"},{"@pid":"271/6257","text":"Rahmi Amtha"},{"@pid":"271/6092","text":"Karthikeya Patil"},{"@pid":"271/6215","text":"Wanninayake Mudiyanselage Tilakaratne"},{"@pid":"87/25","text":"John Gibson"},{"@pid":"271/6209","text":"Sok Ching Cheong"},{"@pid":"63/646","text":"Sarah Ann Barman"}]},"title":"D&apos;OraCa: Deep Learning-Based Classification of Oral Lesions with Mouth Landmark Guidance for Early Detection of Oral Cancer.","venue":"MIUA","pages":"408-422","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/LimTCWRRKZJRKAP21","doi":"10.1007/978-3-030-80432-9_31","ee":"https://doi.org/10.1007/978-3-030-80432-9_31","url":"https://dblp.org/rec/conf/miua/LimTCWRRKZJRKAP21"},
+"url":"URL#2145706"
+},
+{
+"@score":"1",
+"@id":"2145707",
+"info":{"authors":{"author":[{"@pid":"296/5316","text":"Thiago V. M. Lima"},{"@pid":"230/1981","text":"Silvan Melchior"},{"@pid":"296/5535","text":"Ismail Özden"},{"@pid":"296/5609","text":"Egbert Nitzsche"},{"@pid":"194/8417","text":"Jörg Binder"},{"@pid":"296/5509","text":"Gerd Lutters"}]},"title":"MAFIA-CT: MAchine Learning Tool for Image Quality Assessment in Computed Tomography.","venue":"MIUA","pages":"472-487","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/LimaMONBL21","doi":"10.1007/978-3-030-80432-9_35","ee":"https://doi.org/10.1007/978-3-030-80432-9_35","url":"https://dblp.org/rec/conf/miua/LimaMONBL21"},
+"url":"URL#2145707"
+},
+{
+"@score":"1",
+"@id":"2145708",
+"info":{"authors":{"author":[{"@pid":"296/4919","text":"Miguel Martínez-Albaladejo"},{"@pid":"12/6954","text":"Josep Sulé-Suso"},{"@pid":"253/2917","text":"David Lines"},{"@pid":"296/5148","text":"James Bisson"},{"@pid":"296/5600","text":"Simon Jassal"},{"@pid":"15/10557","text":"Craig Edwards"}]},"title":"Virtual Imaging for Patient Information on Radiotherapy Planning and Delivery for Prostate Cancer.","venue":"MIUA","pages":"125-139","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/Martinez-Albaladejo21","doi":"10.1007/978-3-030-80432-9_10","ee":"https://doi.org/10.1007/978-3-030-80432-9_10","url":"https://dblp.org/rec/conf/miua/Martinez-Albaladejo21"},
+"url":"URL#2145708"
+},
+{
+"@score":"1",
+"@id":"2145709",
+"info":{"authors":{"author":[{"@pid":"195/8919","text":"Zhe Min"},{"@pid":"294/6290","text":"Fernando J. Bianco"},{"@pid":"213/7762","text":"Qianye Yang"},{"@pid":"217/5071","text":"Rachael Rodell"},{"@pid":"35/3988","text":"Wen Yan"},{"@pid":"63/4928","text":"Dean C. Barratt"},{"@pid":"45/5086","text":"Yipeng Hu"}]},"title":"Controlling False Positive/Negative Rates for Deep-Learning-Based Prostate Cancer Detection on Multiparametric MR Images.","venue":"MIUA","pages":"56-70","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/MinBYRYBH21","doi":"10.1007/978-3-030-80432-9_5","ee":"https://doi.org/10.1007/978-3-030-80432-9_5","url":"https://dblp.org/rec/conf/miua/MinBYRYBH21"},
+"url":"URL#2145709"
+},
+{
+"@score":"1",
+"@id":"2145710",
+"info":{"authors":{"author":[{"@pid":"62/9489","text":"Lindsay Munroe"},{"@pid":"296/5655","text":"Gina Sajith"},{"@pid":"296/5182","text":"Ei Lin"},{"@pid":"296/5274","text":"Surjava Bhattacharya"},{"@pid":"128/1888","text":"Kuberan Pushparajah"},{"@pid":"26/9223","text":"John M. Simpson"},{"@pid":"80/2501","text":"Julia A. Schnabel"},{"@pid":"176/1015","text":"Gavin Wheeler"},{"@pid":"81/6516-2","text":"Alberto Gómez 0002"},{"@pid":"153/3895","text":"Shujie Deng"}]},"title":"Automatic Re-orientation of 3D Echocardiographic Images in Virtual Reality Using Deep Learning.","venue":"MIUA","pages":"177-188","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/MunroeSLBPSSWGD21","doi":"10.1007/978-3-030-80432-9_14","ee":"https://doi.org/10.1007/978-3-030-80432-9_14","url":"https://dblp.org/rec/conf/miua/MunroeSLBPSSWGD21"},
+"url":"URL#2145710"
+},
+{
+"@score":"1",
+"@id":"2145711",
+"info":{"authors":{"author":[{"@pid":"296/5299","text":"Jarred Orfao"},{"@pid":"136/6676","text":"Dustin van der Haar"}]},"title":"A Comparison of Computer Vision Methods for the Combined Detection of Glaucoma, Diabetic Retinopathy and Cataracts.","venue":"MIUA","pages":"30-42","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/OrfaoH21","doi":"10.1007/978-3-030-80432-9_3","ee":"https://doi.org/10.1007/978-3-030-80432-9_3","url":"https://dblp.org/rec/conf/miua/OrfaoH21"},
+"url":"URL#2145711"
+},
+{
+"@score":"1",
+"@id":"2145712",
+"info":{"authors":{"author":[{"@pid":"257/1915","text":"James Owler"},{"@pid":"274/1794","text":"Alexandre Triay Bagur"},{"@pid":"296/4999","text":"Scott Marriage"},{"@pid":"187/2847","text":"Zobair Arya"},{"@pid":"41/5618","text":"Paul Aljabar"},{"@pid":"99/11387","text":"John McGonigle"},{"@pid":"b/MichaelBrady","text":"Michael Brady 0001"},{"@pid":"274/1832","text":"Daniel Bulte"}]},"title":"Pancreas Volumetry in UK Biobank: Comparison of Models and Inference at Scale.","venue":"MIUA","pages":"265-279","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/OwlerBMAAMBB21","doi":"10.1007/978-3-030-80432-9_21","ee":"https://doi.org/10.1007/978-3-030-80432-9_21","url":"https://dblp.org/rec/conf/miua/OwlerBMAAMBB21"},
+"url":"URL#2145712"
+},
+{
+"@score":"1",
+"@id":"2145713",
+"info":{"authors":{"author":[{"@pid":"150/7556","text":"Pankaj Pandey"},{"@pid":"00/4508","text":"Krishna Prasad Miyapuram"}]},"title":"BRAIN2DEPTH: Lightweight CNN Model for Classification of Cognitive States from EEG Recordings.","venue":"MIUA","pages":"394-407","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/PandeyM21","doi":"10.1007/978-3-030-80432-9_30","ee":"https://doi.org/10.1007/978-3-030-80432-9_30","url":"https://dblp.org/rec/conf/miua/PandeyM21"},
+"url":"URL#2145713"
+},
+{
+"@score":"1",
+"@id":"2145714",
+"info":{"authors":{"author":[{"@pid":"117/9484","text":"Roushanak Rahmat"},{"@pid":"187/9623","text":"David Harris-Birtill"},{"@pid":"296/5575","text":"David Finn"},{"@pid":"07/6095","text":"Yang Feng"},{"@pid":"208/2630","text":"Dean Montgomery"},{"@pid":"13/2911","text":"William H. Nailon"},{"@pid":"39/3200","text":"Stephen McLaughlin 0001"}]},"title":"Radiomics-Led Monitoring of Non-small Cell Lung Cancer Patients During Radiotherapy.","venue":"MIUA","pages":"532-546","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/RahmatHFFMN021","doi":"10.1007/978-3-030-80432-9_39","ee":"https://doi.org/10.1007/978-3-030-80432-9_39","url":"https://dblp.org/rec/conf/miua/RahmatHFFMN021"},
+"url":"URL#2145714"
+},
+{
+"@score":"1",
+"@id":"2145715",
+"info":{"authors":{"author":[{"@pid":"296/5007","text":"Darwon Rashid"},{"@pid":"296/5157","text":"Sophie Cai"},{"@pid":"206/7281","text":"Ylenia Giarratano"},{"@pid":"135/8247","text":"Calum D. Gray"},{"@pid":"296/5768","text":"Charlene Hamid"},{"@pid":"296/5362","text":"Dilraj S. Grewal"},{"@pid":"205/6126","text":"Tom J. MacGillivray"},{"@pid":"296/5492","text":"Sharon Fekrat"},{"@pid":"296/5041","text":"Cason B. Robbins"},{"@pid":"296/5548","text":"Srinath Soundararajan"},{"@pid":"296/4892","text":"Justin P. Ma"},{"@pid":"83/3964","text":"Miguel O. Bernabeu"}]},"title":"Reproducibility of Retinal Vascular Phenotypes Obtained with Optical Coherence Tomography Angiography: Importance of Vessel Segmentation.","venue":"MIUA","pages":"238-249","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/RashidCGGHGMFRS21","doi":"10.1007/978-3-030-80432-9_19","ee":"https://doi.org/10.1007/978-3-030-80432-9_19","url":"https://dblp.org/rec/conf/miua/RashidCGGHGMFRS21"},
+"url":"URL#2145715"
+},
+{
+"@score":"1",
+"@id":"2145716",
+"info":{"authors":{"author":[{"@pid":"296/5516","text":"Elizaveta Savochkina"},{"@pid":"266/7001","text":"Lok Hin Lee"},{"@pid":"237/9787","text":"Lior Drukker"},{"@pid":"39/9774","text":"Aris T. Papageorghiou"},{"@pid":"n/JAlisonNoble","text":"J. Alison Noble"}]},"title":"First Trimester Gaze Pattern Estimation Using Stochastic Augmentation Policy Search for Single Frame Saliency Prediction.","venue":"MIUA","pages":"361-374","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/SavochkinaLDPN21","doi":"10.1007/978-3-030-80432-9_28","ee":"https://doi.org/10.1007/978-3-030-80432-9_28","url":"https://dblp.org/rec/conf/miua/SavochkinaLDPN21"},
+"url":"URL#2145716"
+},
+{
+"@score":"1",
+"@id":"2145717",
+"info":{"authors":{"author":[{"@pid":"230/5262","text":"Marjola Thanaj"},{"@pid":"205/6040","text":"Nicolas Basty"},{"@pid":"97/4626","text":"Yi Liu"},{"@pid":"266/7195","text":"Madeleine Cule"},{"@pid":"296/4924","text":"Elena P. Sorokin"},{"@pid":"208/6849","text":"E. Louise Thomas"},{"@pid":"51/10727","text":"Jimmy D. Bell"},{"@pid":"61/2772","text":"Brandon J. Whitcher"}]},"title":"Mass Univariate Regression Analysis for Three-Dimensional Liver Image-Derived Phenotypes.","venue":"MIUA","pages":"165-176","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/ThanajBLCSTBW21","doi":"10.1007/978-3-030-80432-9_13","ee":"https://doi.org/10.1007/978-3-030-80432-9_13","url":"https://dblp.org/rec/conf/miua/ThanajBLCSTBW21"},
+"url":"URL#2145717"
+},
+{
+"@score":"1",
+"@id":"2145718",
+"info":{"authors":{"author":[{"@pid":"253/4037","text":"Ann-Katrin Thebille"},{"@pid":"293/9280","text":"Esther Dietrich"},{"@pid":"65/4757","text":"Martin Klaus"},{"@pid":"293/9352","text":"Lukas Gernhold"},{"@pid":"293/8755","text":"Maximilian Lennartz"},{"@pid":"293/8866","text":"Christoph Kuppe"},{"@pid":"293/8718","text":"Rafael Kramann"},{"@pid":"293/8434","text":"Tobias B. Huber"},{"@pid":"235/2643","text":"Guido Sauter"},{"@pid":"293/8916","text":"Victor G. Puelles"},{"@pid":"196/6179","text":"Marina Zimmermann"},{"@pid":"164/6709","text":"Stefan Bonn"}]},"title":"Deep Learning-Based Bias Transfer for Overcoming Laboratory Differences of Microscopic Images.","venue":"MIUA","pages":"322-336","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/ThebilleDKGLKKH21","doi":"10.1007/978-3-030-80432-9_25","ee":"https://doi.org/10.1007/978-3-030-80432-9_25","url":"https://dblp.org/rec/conf/miua/ThebilleDKGLKKH21"},
+"url":"URL#2145718"
+},
+{
+"@score":"1",
+"@id":"2145719",
+"info":{"authors":{"author":[{"@pid":"263/8860","text":"Shihfan Jack Tu"},{"@pid":"196/9453","text":"Jules Morel"},{"@pid":"149/5751","text":"Minsi Chen"},{"@pid":"165/7827","text":"Stephen J. Mellon"}]},"title":"Fast Automatic Bone Surface Segmentation in Ultrasound Images Without Machine Learning.","venue":"MIUA","pages":"250-264","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/TuMCM21","doi":"10.1007/978-3-030-80432-9_20","ee":"https://doi.org/10.1007/978-3-030-80432-9_20","url":"https://dblp.org/rec/conf/miua/TuMCM21"},
+"url":"URL#2145719"
+},
+{
+"@score":"1",
+"@id":"2145720",
+"info":{"authors":{"author":[{"@pid":"250/8407","text":"Eva Valterova"},{"@pid":"235/2635","text":"Franziska G. Rauscher"},{"@pid":"52/3429","text":"Radim Kolár"}]},"title":"Robust Automatic Montaging of Adaptive Optics Flood Illumination Retinal Images.","venue":"MIUA","pages":"503-513","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/ValterovaRK21","doi":"10.1007/978-3-030-80432-9_37","ee":"https://doi.org/10.1007/978-3-030-80432-9_37","url":"https://dblp.org/rec/conf/miua/ValterovaRK21"},
+"url":"URL#2145720"
+},
+{
+"@score":"1",
+"@id":"2145721",
+"info":{"authors":{"author":[{"@pid":"296/5340","text":"Dewmini Hasara Wickremasinghe"},{"@pid":"296/5727","text":"Natallia Khenkina"},{"@pid":"254/8337","text":"Pier-Giorgio Masci"},{"@pid":"14/4005","text":"Andrew P. King"},{"@pid":"181/7032","text":"Esther Puyol-Antón"}]},"title":"Automatic Detection of Extra-Cardiac Findings in Cardiovascular Magnetic Resonance.","venue":"MIUA","pages":"98-107","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/WickremasingheK21","doi":"10.1007/978-3-030-80432-9_8","ee":"https://doi.org/10.1007/978-3-030-80432-9_8","url":"https://dblp.org/rec/conf/miua/WickremasingheK21"},
+"url":"URL#2145721"
+},
+{
+"@score":"1",
+"@id":"2145722",
+"info":{"authors":{"author":[{"@pid":"173/0868-1","text":"Ziang Xu 0001"},{"@pid":"14/11430","text":"Sharib Ali"},{"@pid":"253/0105-1","text":"Soumya Gupta 0001"},{"@pid":"174/0553","text":"Numan Celik"},{"@pid":"11/377","text":"Jens Rittscher"}]},"title":"Improved Artifact Detection in Endoscopy Imaging Through Profile Pruning.","venue":"MIUA","pages":"87-97","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/XuA0CR21","doi":"10.1007/978-3-030-80432-9_7","ee":"https://doi.org/10.1007/978-3-030-80432-9_7","url":"https://dblp.org/rec/conf/miua/XuA0CR21"},
+"url":"URL#2145722"
+},
+{
+"@score":"1",
+"@id":"2145723",
+"info":{"authors":{"author":[{"@pid":"296/4886","text":"Zixin Yang"},{"@pid":"369/2784","text":"Richard A. Simon"},{"@pid":"62/8367","text":"Yangming Li"},{"@pid":"69/1358","text":"Cristian A. Linte"}]},"title":"Dense Depth Estimation from Stereo Endoscopy Videos Using Unsupervised Optical Flow Methods.","venue":"MIUA","pages":"337-349","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/YangSLL21","doi":"10.1007/978-3-030-80432-9_26","ee":"https://doi.org/10.1007/978-3-030-80432-9_26","url":"https://dblp.org/rec/conf/miua/YangSLL21"},
+"url":"URL#2145723"
+},
+{
+"@score":"1",
+"@id":"2145724",
+"info":{"authors":{"author":[{"@pid":"16/4505","text":"Yu Yang"},{"@pid":"42/2820","text":"Zijian Zhao"},{"@pid":"09/4091","text":"Pan Shi"},{"@pid":"266/3689","text":"Sanyuan Hu"}]},"title":"An Efficient One-Stage Detector for Real-Time Surgical Tools Detection in Robot-Assisted Surgery.","venue":"MIUA","pages":"18-29","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/miua/YangZSH21","doi":"10.1007/978-3-030-80432-9_2","ee":"https://doi.org/10.1007/978-3-030-80432-9_2","url":"https://dblp.org/rec/conf/miua/YangZSH21"},
+"url":"URL#2145724"
+},
+{
+"@score":"1",
+"@id":"2188985",
+"info":{"authors":{"author":[{"@pid":"44/8930","text":"Bartlomiej W. Papiez"},{"@pid":"72/10265","text":"Mohammad Yaqub"},{"@pid":"150/6622","text":"Jianbo Jiao"},{"@pid":"141/8805","text":"Ana I. L. Namburete"},{"@pid":"n/JAlisonNoble","text":"J. Alison Noble"}]},"title":"Medical Image Understanding and Analysis - 25th Annual Conference, MIUA 2021, Oxford, United Kingdom, July 12-14, 2021, Proceedings","venue":["MIUA","Lecture Notes in Computer Science"],"volume":"12722","publisher":"Springer","year":"2021","type":"Editorship","key":"conf/miua/2021","doi":"10.1007/978-3-030-80432-9","ee":"https://doi.org/10.1007/978-3-030-80432-9","url":"https://dblp.org/rec/conf/miua/2021"},
+"url":"URL#2188985"
+}
+]
+}
+}
+}

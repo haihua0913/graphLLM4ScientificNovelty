@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+contrastive learning,pairwise sigmoid loss,-0.2224,1.5636
+batch size,pairwise sigmoid loss,-0.1336,1.5057
+batch size,contrastive learning,-0.1673,1.5279
+TPUv4 chips,contrastive learning,-0.1898,1.5426
+CLIP model,contrastive learning,-0.3068,1.6166
+LiT model,contrastive learning,-0.229,1.5678
+ImageNet zero-shot accuracy,contrastive learning,-0.3329,1.6327
+TPUv4 chips,batch size,-0.5158,1.7412
+CLIP model,batch size,-0.0847,1.4729
+LiT model,batch size,-0.2412,1.5755
+ImageNet zero-shot accuracy,batch size,-0.0703,1.4631
+CLIP model,TPUv4 chips,-0.0828,1.4716
+LiT model,TPUv4 chips,-0.0377,1.4406
+ImageNet zero-shot accuracy,TPUv4 chips,-0.2269,1.5665
+CLIP model,LiT model,0.9393,0.3484
+CLIP model,ImageNet zero-shot accuracy,0.9513,0.312
+ImageNet zero-shot accuracy,LiT model,0.9437,0.3355
+batch size,examples vs pairs,0.0512,1.3775
+batch size,negative to positive ratio,0.9676,0.2547
+TPUv4 chips,examples vs pairs,0.3023,1.1813
+TPUv4 chips,negative to positive ratio,-0.5627,1.7679
+CLIP model,examples vs pairs,-0.0619,1.4573
+CLIP model,negative to positive ratio,-0.1075,1.4883
+LiT model,examples vs pairs,0.0497,1.3787
+LiT model,negative to positive ratio,-0.274,1.5963
+ImageNet zero-shot accuracy,examples vs pairs,-0.1542,1.5194
+ImageNet zero-shot accuracy,negative to positive ratio,-0.0645,1.4591
+examples vs pairs,negative to positive ratio,0.0195,1.4003

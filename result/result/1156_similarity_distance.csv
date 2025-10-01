@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+OOD detection,adversarial examples,0.1519,1.3024
+CIFAR-10,PGD attack,-0.2432,1.5768
+CIFAR-10,OOD detection,0.9541,0.303
+OOD detection,adversarial training,-0.1778,1.5348
+OOD detection,generative OOD detection,-0.1771,1.5343
+OOD detection,OpenGAN,0.5957,0.8992
+adversarial training,generative OOD detection,0.338,1.1507
+OpenGAN,adversarial training,-0.4053,1.6765
+OpenGAN,generative OOD detection,-0.0856,1.4735
+OOD detection,robust features,-0.2381,1.5736
+adversarial training,robust features,0.1121,1.3326
+generative OOD detection,robust features,0.6148,0.8778
+OpenGAN,robust features,-0.2466,1.579
+CIFAR-10,generative OOD detection,-0.2727,1.5955
+CIFAR-10,OpenGAN,0.5003,0.9997
+CIFAR-10,robust features,-0.2831,1.6019

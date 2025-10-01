@@ -1,0 +1,326 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/recomb/recomb1997.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"70.98"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"49",
+"@dc":"49",
+"@oc":"49",
+"@id":"48917522",
+"text":":facetid:toc:db/conf/recomb/recomb1997.bht"
+}
+},
+"hits":{
+"@total":"49",
+"@computed":"49",
+"@sent":"49",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"7469712",
+"info":{"authors":{"author":[{"@pid":"64/5354","text":"Richa Agarwala"},{"@pid":"b/SerafimBatzoglou","text":"Serafim Batzoglou"},{"@pid":"81/6475","text":"Vlado Dancík"},{"@pid":"32/2324","text":"Scott E. Decatur"},{"@pid":"f/MartinFarachColton","text":"Martin Farach"},{"@pid":"59/496","text":"Sridhar Hannenhalli"},{"@pid":"m/SMuthukrishnan","text":"S. Muthukrishnan 0001"},{"@pid":"s/StevenSkiena","text":"Steven Skiena"}]},"title":"Local rules for protein folding on a triangular lattice and generalized hydrophobicity in the HP model.","venue":"RECOMB","pages":"1-2","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/AgarwalaBDDFHMS97","doi":"10.1145/267521.267522","ee":"https://doi.org/10.1145/267521.267522","url":"https://dblp.org/rec/conf/recomb/AgarwalaBDDFHMS97"},
+"url":"URL#7469712"
+},
+{
+"@score":"1",
+"@id":"7469713",
+"info":{"authors":{"author":[{"@pid":"57/1469","text":"Tatsuya Akutsu"},{"@pid":"73/2912","text":"Satoru Miyano"}]},"title":"On the approximation of protein threading.","venue":"RECOMB","pages":"3-8","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/AkutsuM97","doi":"10.1145/267521.267523","ee":"https://doi.org/10.1145/267521.267523","url":"https://dblp.org/rec/conf/recomb/AkutsuM97"},
+"url":"URL#7469713"
+},
+{
+"@score":"1",
+"@id":"7469714",
+"info":{"authors":{"author":[{"@pid":"11/1738","text":"Eric L. Anson"},{"@pid":"m/EugeneWMyers","text":"Eugene W. Myers"}]},"title":"ReAligner: a program for refining DNA sequence multi-alignments.","venue":"RECOMB","pages":"9-16","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/AnsonM97","doi":"10.1145/267521.267524","ee":"https://doi.org/10.1145/267521.267524","url":"https://dblp.org/rec/conf/recomb/AnsonM97"},
+"url":"URL#7469714"
+},
+{
+"@score":"1",
+"@id":"7469715",
+"info":{"authors":{"author":[{"@pid":"82/3119","text":"Amir Ben-Dor"},{"@pid":"74/3460","text":"Benny Chor"}]},"title":"On constructing radiation hybrid maps (extended abstract).","venue":"RECOMB","pages":"17-26","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Ben-DorC97","doi":"10.1145/267521.267525","ee":"https://doi.org/10.1145/267521.267525","url":"https://dblp.org/rec/conf/recomb/Ben-DorC97"},
+"url":"URL#7469715"
+},
+{
+"@score":"1",
+"@id":"7469716",
+"info":{"authors":{"author":{"@pid":"b/GaryBenson","text":"Gary Benson"}},"title":"Sequence alignment with tandem duplication.","venue":"RECOMB","pages":"27-36","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Benson97","doi":"10.1145/267521.267526","ee":"https://doi.org/10.1145/267521.267526","url":"https://dblp.org/rec/conf/recomb/Benson97"},
+"url":"URL#7469716"
+},
+{
+"@score":"1",
+"@id":"7469717",
+"info":{"authors":{"author":[{"@pid":"b/BonnieBerger","text":"Bonnie Berger"},{"@pid":"73/6093-1","text":"Mona Singh 0001"}]},"title":"An iterative method for improved protein structural motif recognition.","venue":"RECOMB","pages":"37-46","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BergerS97","doi":"10.1145/267521.267527","ee":"https://doi.org/10.1145/267521.267527","url":"https://dblp.org/rec/conf/recomb/BergerS97"},
+"url":"URL#7469717"
+},
+{
+"@score":"1",
+"@id":"7469718",
+"info":{"authors":{"author":{"@pid":"17/6906","text":"Erich Bornberg-Bauer"}},"title":"Chain growth algorithms for HP-type lattice proteins.","venue":"RECOMB","pages":"47-55","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Bornberg-Bauer97","doi":"10.1145/267521.267528","ee":"https://doi.org/10.1145/267521.267528","url":"https://dblp.org/rec/conf/recomb/Bornberg-Bauer97"},
+"url":"URL#7469718"
+},
+{
+"@score":"1",
+"@id":"7469719",
+"info":{"authors":{"author":[{"@pid":"28/2386","text":"J. Richard Bradley"},{"@pid":"s/StevenSkiena","text":"Steven Skiena"}]},"title":"Fabricating arrays of strings.","venue":"RECOMB","pages":"57-66","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BradleyS97","doi":"10.1145/267521.267529","ee":"https://doi.org/10.1145/267521.267529","url":"https://dblp.org/rec/conf/recomb/BradleyS97"},
+"url":"URL#7469719"
+},
+{
+"@score":"1",
+"@id":"7469720",
+"info":{"authors":{"author":[{"@pid":"28/5663","text":"Weiping Cai"},{"@pid":"c/AnneCondon","text":"Anne Condon"},{"@pid":"92/6695","text":"Robert M. Corn"},{"@pid":"03/3915","text":"Elton Glaser"},{"@pid":"89/4904","text":"Zhengdong Fei"},{"@pid":"13/6226","text":"Tony Frutos"},{"@pid":"35/6453","text":"Zhen Guo"},{"@pid":"36/283","text":"Max G. Lagally"},{"@pid":"64/2594","text":"Qinghua Liu"},{"@pid":"86/6941","text":"Lloyd M. Smith"},{"@pid":"36/3984","text":"Andrew Thiel"}]},"title":"The power of surface-based DNA computation (extended abstract).","venue":"RECOMB","pages":"67-74","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/CaiCCGFFGLLST97","doi":"10.1145/267521.267530","ee":"https://doi.org/10.1145/267521.267530","url":"https://dblp.org/rec/conf/recomb/CaiCCGFFGLLST97"},
+"url":"URL#7469720"
+},
+{
+"@score":"1",
+"@id":"7469721",
+"info":{"authors":{"author":{"@pid":"c/AlbertoCaprara","text":"Alberto Caprara"}},"title":"Sorting by reversals is difficult.","venue":"RECOMB","pages":"75-83","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Caprara97","doi":"10.1145/267521.267531","ee":"https://doi.org/10.1145/267521.267531","url":"https://dblp.org/rec/conf/recomb/Caprara97"},
+"url":"URL#7469721"
+},
+{
+"@score":"1",
+"@id":"7469722",
+"info":{"authors":{"author":[{"@pid":"28/5721","text":"Thomas Christof"},{"@pid":"j/MichaelJunger","text":"Michael Jünger"},{"@pid":"k/JDKececioglu","text":"John D. Kececioglu"},{"@pid":"m/PetraMutzel","text":"Petra Mutzel"},{"@pid":"92/260","text":"Gerhard Reinelt"}]},"title":"A branch-and-cut approach to physical mapping with end-probes.","venue":"RECOMB","pages":"84-92","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ChristofJKMR97","doi":"10.1145/267521.267532","ee":"https://doi.org/10.1145/267521.267532","url":"https://dblp.org/rec/conf/recomb/ChristofJKMR97"},
+"url":"URL#7469722"
+},
+{
+"@score":"1",
+"@id":"7469723",
+"info":{"authors":{"author":{"@pid":"34/6517","text":"Gary A. Churchill"}},"title":"Monte Carlo sequence alignment.","venue":"RECOMB","pages":"93-97","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Churchill97","doi":"10.1145/267521.267534","ee":"https://doi.org/10.1145/267521.267534","url":"https://dblp.org/rec/conf/recomb/Churchill97"},
+"url":"URL#7469723"
+},
+{
+"@score":"1",
+"@id":"7469724",
+"info":{"authors":{"author":[{"@pid":"75/2494","text":"Jaime Cohen"},{"@pid":"f/MartinFarachColton","text":"Martin Farach"}]},"title":"Numerical taxonomy on data (abstract): experimental results.","venue":"RECOMB","pages":"98","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/CohenF97","doi":"10.1145/267521.267535","ee":"https://doi.org/10.1145/267521.267535","url":"https://dblp.org/rec/conf/recomb/CohenF97"},
+"url":"URL#7469724"
+},
+{
+"@score":"1",
+"@id":"7469725",
+"info":{"authors":{"author":[{"@pid":"12/1709","text":"Bhaskar DasGupta"},{"@pid":"j/TaoJiang-1","text":"Tao Jiang 0001"},{"@pid":"86/5425","text":"Sampath Kannan"},{"@pid":"l/MingLi1","text":"Ming Li 0001"},{"@pid":"44/2879","text":"Z. Sweedyk"}]},"title":"On the complexity and approximation of syntenic distance.","venue":"RECOMB","pages":"99-108","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/DasGuptaJKLS97","doi":"10.1145/267521.267536","ee":"https://doi.org/10.1145/267521.267536","url":"https://dblp.org/rec/conf/recomb/DasGuptaJKLS97"},
+"url":"URL#7469725"
+},
+{
+"@score":"1",
+"@id":"7469726",
+"info":{"authors":{"author":[{"@pid":"34/5550","text":"Ken A. Dill"},{"@pid":"34/4006","text":"Andrew T. Phillips"},{"@pid":"88/2205","text":"J. Ben Rosen"}]},"title":"Protein structure prediction and potential energy landscape analysis using continuous global minimization.","venue":"RECOMB","pages":"109-117","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/DillPR97","doi":"10.1145/267521.267537","ee":"https://doi.org/10.1145/267521.267537","url":"https://dblp.org/rec/conf/recomb/DillPR97"},
+"url":"URL#7469726"
+},
+{
+"@score":"1",
+"@id":"7469727",
+"info":{"authors":{"author":[{"@pid":"31/2809","text":"Daniel P. Fasulo"},{"@pid":"j/TaoJiang-1","text":"Tao Jiang 0001"},{"@pid":"k/RichardMKarp","text":"Richard M. Karp"},{"@pid":"68/6243","text":"Reuben J. Settergren"},{"@pid":"80/4674","text":"Edward C. Thayer"}]},"title":"An algorithmic approach to multiple complete digest mapping.","venue":"RECOMB","pages":"118-127","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/FasuloJKST97","doi":"10.1145/267521.267538","ee":"https://doi.org/10.1145/267521.267538","url":"https://dblp.org/rec/conf/recomb/FasuloJKST97"},
+"url":"URL#7469727"
+},
+{
+"@score":"1",
+"@id":"7469728",
+"info":{"authors":{"author":{"@pid":"01/687","text":"William E. Hart"}},"title":"On the computational complexity of sequence design problems.","venue":"RECOMB","pages":"128-136","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Hart97","doi":"10.1145/267521.267539","ee":"https://doi.org/10.1145/267521.267539","url":"https://dblp.org/rec/conf/recomb/Hart97"},
+"url":"URL#7469728"
+},
+{
+"@score":"1",
+"@id":"7469729",
+"info":{"authors":{"author":[{"@pid":"01/687","text":"William E. Hart"},{"@pid":"59/460","text":"Sorin Istrail"}]},"title":"Lattice and off-lattice side chain models of protein folding (extended abstract): linear time structure prediction better than 86% of optimal.","venue":"RECOMB","pages":"137-146","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/HartI97","doi":"10.1145/267521.267540","ee":"https://doi.org/10.1145/267521.267540","url":"https://dblp.org/rec/conf/recomb/HartI97"},
+"url":"URL#7469729"
+},
+{
+"@score":"1",
+"@id":"7469730",
+"info":{"authors":{"author":{"@pid":"44/1043","text":"S. C. Heath"}},"title":"The application of Markov chain Monte Carlo methods to radiation hybrid mapping.","venue":"RECOMB","pages":"147-150","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Heath97","doi":"10.1145/267521.267541","ee":"https://doi.org/10.1145/267521.267541","url":"https://dblp.org/rec/conf/recomb/Heath97"},
+"url":"URL#7469730"
+},
+{
+"@score":"1",
+"@id":"7469731",
+"info":{"authors":{"author":[{"@pid":"78/5210","text":"Mudita Jain"},{"@pid":"m/EugeneWMyers","text":"Eugene W. Myers"}]},"title":"Algorithms for computing and integrating physical maps using unique probes.","venue":"RECOMB","pages":"151-161","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/JainM97","doi":"10.1145/267521.267542","ee":"https://doi.org/10.1145/267521.267542","url":"https://dblp.org/rec/conf/recomb/JainM97"},
+"url":"URL#7469731"
+},
+{
+"@score":"1",
+"@id":"7469732",
+"info":{"authors":{"author":[{"@pid":"j/TaoJiang-1","text":"Tao Jiang 0001"},{"@pid":"k/RichardMKarp","text":"Richard M. Karp"}]},"title":"Mapping clones with a given ordering or interleaving (abstract).","venue":"RECOMB","pages":"162","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/JiangK97","doi":"10.1145/267521.267543","ee":"https://doi.org/10.1145/267521.267543","url":"https://dblp.org/rec/conf/recomb/JiangK97"},
+"url":"URL#7469732"
+},
+{
+"@score":"1",
+"@id":"7469733",
+"info":{"authors":{"author":[{"@pid":"48/3950","text":"Haim Kaplan"},{"@pid":"66/6913","text":"Ron Shamir"},{"@pid":"t/RobertEndreTarjan","text":"Robert Endre Tarjan"}]},"title":"Faster and simpler algorithm for sorting signed permutations by reversals.","venue":"RECOMB","pages":"163","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KaplanST97","doi":"10.1145/267521.267544","ee":"https://doi.org/10.1145/267521.267544","url":"https://dblp.org/rec/conf/recomb/KaplanST97"},
+"url":"URL#7469733"
+},
+{
+"@score":"1",
+"@id":"7469734",
+"info":{"authors":{"author":{"@pid":"80/5488","text":"Samuel Karlin"}},"title":"Assessing inhomogeneities in bacterial long genomic sequences.","venue":"RECOMB","pages":"164-171","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Karlin97","doi":"10.1145/267521.267545","ee":"https://doi.org/10.1145/267521.267545","url":"https://dblp.org/rec/conf/recomb/Karlin97"},
+"url":"URL#7469734"
+},
+{
+"@score":"1",
+"@id":"7469735",
+"info":{"authors":{"author":{"@pid":"05/6040","text":"Johnathan King"}},"title":"Problems in understanding the structure and assembly of viruses (abstract).","venue":"RECOMB","pages":"173","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/King97","doi":"10.1145/267521.270046","ee":"https://doi.org/10.1145/267521.270046","url":"https://dblp.org/rec/conf/recomb/King97"},
+"url":"URL#7469735"
+},
+{
+"@score":"1",
+"@id":"7469736",
+"info":{"authors":{"author":[{"@pid":"79/3664","text":"George A. Komatsoulis"},{"@pid":"w/MichaelSWaterman","text":"Michael S. Waterman"}]},"title":"Chimeric alignment by dynamic programming: algorithm and biological uses.","venue":"RECOMB","pages":"174-180","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KomatsoulisW97","doi":"10.1145/267521.267546","ee":"https://doi.org/10.1145/267521.267546","url":"https://dblp.org/rec/conf/recomb/KomatsoulisW97"},
+"url":"URL#7469736"
+},
+{
+"@score":"1",
+"@id":"7469737",
+"info":{"authors":{"author":{"@pid":"l/HPLenhof","text":"Hans-Peter Lenhof"}},"title":"New contact measures for the protein docking problem.","venue":"RECOMB","pages":"182-191","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Lenhof97","doi":"10.1145/267521.267547","ee":"https://doi.org/10.1145/267521.267547","url":"https://dblp.org/rec/conf/recomb/Lenhof97"},
+"url":"URL#7469737"
+},
+{
+"@score":"1",
+"@id":"7469738",
+"info":{"authors":{"author":[{"@pid":"11/5614","text":"Shili Lin"},{"@pid":"30/2771","text":"Terence P. Speed"}]},"title":"An algorithm for haplotype analysis.","venue":"RECOMB","pages":"192-200","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/LinS97","doi":"10.1145/267521.267548","ee":"https://doi.org/10.1145/267521.267548","url":"https://dblp.org/rec/conf/recomb/LinS97"},
+"url":"URL#7469738"
+},
+{
+"@score":"1",
+"@id":"7469739",
+"info":{"authors":{"author":{"@pid":"64/1413","text":"Robert J. Lipshutz"}},"title":"DNA probe arrays - accessing the genome (abstract).","venue":"RECOMB","pages":"201","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Lipshutz97","doi":"10.1145/267521.270044","ee":"https://doi.org/10.1145/267521.270044","url":"https://dblp.org/rec/conf/recomb/Lipshutz97"},
+"url":"URL#7469739"
+},
+{
+"@score":"1",
+"@id":"7469740",
+"info":{"authors":{"author":{"@pid":"59/2081","text":"Hiroshi Mamitsuka"}},"title":"Supervised learning of hidden Markov models for sequence discrimination.","venue":"RECOMB","pages":"202-208","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Mamitsuka97","doi":"10.1145/267521.267551","ee":"https://doi.org/10.1145/267521.267551","url":"https://dblp.org/rec/conf/recomb/Mamitsuka97"},
+"url":"URL#7469740"
+},
+{
+"@score":"1",
+"@id":"7469741",
+"info":{"authors":{"author":[{"@pid":"m/SMuthukrishnan","text":"S. Muthukrishnan 0001"},{"@pid":"61/5722","text":"Laxmi Parida"}]},"title":"Towards constructing physical maps by optical mapping (extended abstract): an effective, simple, combinatorial approach.","venue":"RECOMB","pages":"209-219","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/MuthukrishnanP97","doi":"10.1145/267521.267552","ee":"https://doi.org/10.1145/267521.267552","url":"https://dblp.org/rec/conf/recomb/MuthukrishnanP97"},
+"url":"URL#7469741"
+},
+{
+"@score":"1",
+"@id":"7469742",
+"info":{"authors":{"author":[{"@pid":"m/EugeneWMyers","text":"Gene Myers"},{"@pid":"74/5994","text":"Sanford Selznick"},{"@pid":"81/5458","text":"Zheng Zhang 0004"},{"@pid":"m/WebbMiller","text":"Webb Miller"}]},"title":"Progressive multiple alignment with constraints.","venue":"RECOMB","pages":"220-225","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/MyersSZM97","doi":"10.1145/267521.267758","ee":"https://doi.org/10.1145/267521.267758","url":"https://dblp.org/rec/conf/recomb/MyersSZM97"},
+"url":"URL#7469742"
+},
+{
+"@score":"1",
+"@id":"7469743",
+"info":{"authors":{"author":[{"@pid":"o/MitsunoriOgihara","text":"Mitsunori Ogihara"},{"@pid":"08/4244","text":"Animesh Ray"}]},"title":"Simulating Boolean circuits on a DNA computer.","venue":"RECOMB","pages":"226-231","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/OgiharaR97","doi":"10.1145/267521.267759","ee":"https://doi.org/10.1145/267521.267759","url":"https://dblp.org/rec/conf/recomb/OgiharaR97"},
+"url":"URL#7469743"
+},
+{
+"@score":"1",
+"@id":"7469744",
+"info":{"authors":{"author":[{"@pid":"49/5651","text":"Martin G. Reese"},{"@pid":"62/6491","text":"Frank H. Eeckman"},{"@pid":"k/DavidKulp","text":"David Kulp"},{"@pid":"h/DavidHaussler","text":"David Haussler"}]},"title":"Improved splice site detection in Genie.","venue":"RECOMB","pages":"232-240","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ReeseEKH97","doi":"10.1145/267521.267766","ee":"https://doi.org/10.1145/267521.267766","url":"https://dblp.org/rec/conf/recomb/ReeseEKH97"},
+"url":"URL#7469744"
+},
+{
+"@score":"1",
+"@id":"7469745",
+"info":{"authors":{"author":[{"@pid":"10/884","text":"Knut Reinert"},{"@pid":"l/HPLenhof","text":"Hans-Peter Lenhof"},{"@pid":"m/PetraMutzel","text":"Petra Mutzel"},{"@pid":"m/KurtMehlhorn","text":"Kurt Mehlhorn"},{"@pid":"k/JDKececioglu","text":"John D. Kececioglu"}]},"title":"A branch-and-cut algorithm for multiple sequence alignment.","venue":"RECOMB","pages":"241-250","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ReinertLMMK97","doi":"10.1145/267521.267845","ee":"https://doi.org/10.1145/267521.267845","url":"https://dblp.org/rec/conf/recomb/ReinertLMMK97"},
+"url":"URL#7469745"
+},
+{
+"@score":"1",
+"@id":"7469746",
+"info":{"authors":{"author":{"@pid":"76/1661","text":"Richard J. Roberts"}},"title":"Hunting for new restriction enzymes in GenBank (abstract).","venue":"RECOMB","pages":"251","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Roberts97","doi":"10.1145/267521.267882","ee":"https://doi.org/10.1145/267521.267882","url":"https://dblp.org/rec/conf/recomb/Roberts97"},
+"url":"URL#7469746"
+},
+{
+"@score":"1",
+"@id":"7469747",
+"info":{"authors":{"author":[{"@pid":"66/977","text":"David Sankoff"},{"@pid":"04/5505","text":"Vincent Ferretti"},{"@pid":"57/3216","text":"Joseph H. Nadeau"}]},"title":"Conserved segment identification.","venue":"RECOMB","pages":"252-256","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SankoffFN97","doi":"10.1145/267521.267883","ee":"https://doi.org/10.1145/267521.267883","url":"https://dblp.org/rec/conf/recomb/SankoffFN97"},
+"url":"URL#7469747"
+},
+{
+"@score":"1",
+"@id":"7469748",
+"info":{"authors":{"author":[{"@pid":"63/3509","text":"Benno Schwikowski"},{"@pid":"36/6567","text":"Martin Vingron"}]},"title":"The deferred path heuristic for the generalized tree alignment problem.","venue":"RECOMB","pages":"257-266","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SchwikowskiV97","doi":"10.1145/267521.267884","ee":"https://doi.org/10.1145/267521.267884","url":"https://dblp.org/rec/conf/recomb/SchwikowskiV97"},
+"url":"URL#7469748"
+},
+{
+"@score":"1",
+"@id":"7469749",
+"info":{"authors":{"author":[{"@pid":"s/TetsuoShibuya","text":"Tetsuo Shibuya"},{"@pid":"09/1655","text":"Hiroshi Imai"}]},"title":"New flexible approaches for multiple sequence alignment.","venue":"RECOMB","pages":"267-276","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ShibuyaI97","doi":"10.1145/267521.267885","ee":"https://doi.org/10.1145/267521.267885","url":"https://dblp.org/rec/conf/recomb/ShibuyaI97"},
+"url":"URL#7469749"
+},
+{
+"@score":"1",
+"@id":"7469750",
+"info":{"authors":{"author":[{"@pid":"89/5831","text":"Donna K. Slonim"},{"@pid":"62/284","text":"Leonid Kruglyak"},{"@pid":"s/LincolnStein","text":"Lincoln Stein"},{"@pid":"39/3633","text":"Eric S. Lander"}]},"title":"Building human genome maps with radiation hybrids.","venue":"RECOMB","pages":"277-286","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SlonimKSL97","doi":"10.1145/267521.267886","ee":"https://doi.org/10.1145/267521.267886","url":"https://dblp.org/rec/conf/recomb/SlonimKSL97"},
+"url":"URL#7469750"
+},
+{
+"@score":"1",
+"@id":"7469751",
+"info":{"authors":{"author":[{"@pid":"81/6039","text":"Temple F. Smith"},{"@pid":"77/6499","text":"Loredana Lo Conte"},{"@pid":"39/1406","text":"Jadwiga R. Bienkowska"},{"@pid":"98/5763","text":"Robert G. Rogers"},{"@pid":"05/6793","text":"Chrysanthe Gaitatzes"},{"@pid":"l/RHLathrop","text":"Richard H. Lathrop"}]},"title":"The threading approach to the inverse protein folding problem.","venue":"RECOMB","pages":"287-292","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SmithCBRGL97","doi":"10.1145/267521.267887","ee":"https://doi.org/10.1145/267521.267887","url":"https://dblp.org/rec/conf/recomb/SmithCBRGL97"},
+"url":"URL#7469751"
+},
+{
+"@score":"1",
+"@id":"7469752",
+"info":{"authors":{"author":{"@pid":"30/2771","text":"Terence P. Speed"}},"title":"Variations on a theme of Lander and Waterman (abstract).","venue":"RECOMB","pages":"293","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/Speed97","doi":"10.1145/267521.270042","ee":"https://doi.org/10.1145/267521.270042","url":"https://dblp.org/rec/conf/recomb/Speed97"},
+"url":"URL#7469752"
+},
+{
+"@score":"1",
+"@id":"7469753",
+"info":{"authors":{"author":[{"@pid":"56/1386","text":"Fengzhu Sun"},{"@pid":"b/GaryBenson","text":"Gary Benson"},{"@pid":"54/5273","text":"Norman Arnheim"},{"@pid":"w/MichaelSWaterman","text":"Michael S. Waterman"}]},"title":"Pooling strategies for establishing physical genome maps using FISH.","venue":"RECOMB","pages":"294-299","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SunBAW97","doi":"10.1145/267521.267888","ee":"https://doi.org/10.1145/267521.267888","url":"https://dblp.org/rec/conf/recomb/SunBAW97"},
+"url":"URL#7469753"
+},
+{
+"@score":"1",
+"@id":"7469754",
+"info":{"authors":{"author":[{"@pid":"19/1635","text":"Sing-Hoi Sze"},{"@pid":"p/PAPevzner","text":"Pavel A. Pevzner"}]},"title":"Las Vegas algorithms for gene recognition: suboptimal and error-tolerant spliced alignment.","venue":"RECOMB","pages":"300-309","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SzeP97","doi":"10.1145/267521.267889","ee":"https://doi.org/10.1145/267521.267889","url":"https://dblp.org/rec/conf/recomb/SzeP97"},
+"url":"URL#7469754"
+},
+{
+"@score":"1",
+"@id":"7469755",
+"info":{"authors":{"author":[{"@pid":"40/4750-1","text":"Lusheng Wang 0001"},{"@pid":"j/TaoJiang-1","text":"Tao Jiang 0001"},{"@pid":"g/DanGusfield","text":"Dan Gusfield"}]},"title":"A more efficient approximation scheme for tree alignment.","venue":"RECOMB","pages":"310-319","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/WangJG97","doi":"10.1145/267521.267890","ee":"https://doi.org/10.1145/267521.267890","url":"https://dblp.org/rec/conf/recomb/WangJG97"},
+"url":"URL#7469755"
+},
+{
+"@score":"1",
+"@id":"7469756",
+"info":{"authors":{"author":[{"@pid":"w/DavidBruceWilson","text":"David Bruce Wilson"},{"@pid":"92/2024","text":"David S. Greenberg"},{"@pid":"18/1807","text":"Cynthia A. Phillips"}]},"title":"Beyond islands (extended abstract): runs in clone-probe matrices.","venue":"RECOMB","pages":"320-329","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/WilsonGP97","doi":"10.1145/267521.267891","ee":"https://doi.org/10.1145/267521.267891","url":"https://dblp.org/rec/conf/recomb/WilsonGP97"},
+"url":"URL#7469756"
+},
+{
+"@score":"1",
+"@id":"7469757",
+"info":{"authors":{"author":[{"@pid":"x/YingXu","text":"Ying Xu 0001"},{"@pid":"26/2676","text":"Edward C. Uberbacher"}]},"title":"Reference-based gene model prediction on DNA contigs (extended abstract).","venue":"RECOMB","pages":"330-336","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/XuU97","doi":"10.1145/267521.267892","ee":"https://doi.org/10.1145/267521.267892","url":"https://dblp.org/rec/conf/recomb/XuU97"},
+"url":"URL#7469757"
+},
+{
+"@score":"1",
+"@id":"7469758",
+"info":{"authors":{"author":[{"@pid":"81/5458","text":"Zheng Zhang 0004"},{"@pid":"78/2331","text":"William R. Pearson"},{"@pid":"m/WebbMiller","text":"Webb Miller"}]},"title":"Aligning a DNA sequence with a protein sequence.","venue":"RECOMB","pages":"337-343","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ZhangPM97","doi":"10.1145/267521.267893","ee":"https://doi.org/10.1145/267521.267893","url":"https://dblp.org/rec/conf/recomb/ZhangPM97"},
+"url":"URL#7469758"
+},
+{
+"@score":"1",
+"@id":"7469759",
+"info":{"authors":{"author":[{"@pid":"z/RalfZimmer","text":"Ralf Zimmer"},{"@pid":"l/TLengauer","text":"Thomas Lengauer"}]},"title":"Fast and numerically stable parametric alignment of biosequences.","venue":"RECOMB","pages":"344-353","year":"1997","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ZimmerL97","doi":"10.1145/267521.267894","ee":"https://doi.org/10.1145/267521.267894","url":"https://dblp.org/rec/conf/recomb/ZimmerL97"},
+"url":"URL#7469759"
+},
+{
+"@score":"1",
+"@id":"7475240",
+"info":{"authors":{"author":{"@pid":"w/MichaelSWaterman","text":"Michael S. Waterman"}},"title":"Proceedings of the First Annual International Conference on Research in Computational Molecular Biology, RECOMB 1997, Santa Fe, NM, USA, January 20-23, 1997","venue":"RECOMB","publisher":"ACM","year":"1997","type":"Editorship","key":"conf/recomb/1997","doi":"10.1145/267521","ee":"https://doi.org/10.1145/267521","url":"https://dblp.org/rec/conf/recomb/1997"},
+"url":"URL#7475240"
+}
+]
+}
+}
+}

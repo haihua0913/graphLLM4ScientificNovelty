@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+negative consequences,real-world problems,0.2317,1.2396
+model-based agent,real-world problems,-0.0368,1.44
+accurate model,real-world problems,-0.1535,1.5189
+model-based agent,negative consequences,0.1872,1.275
+accurate model,negative consequences,0.5453,0.9536
+accurate model,model-based agent,0.3778,1.1155
+model-based agent,unsafe trajectories,-0.2485,1.5802
+accurate model,unsafe trajectories,-0.058,1.4547
+competitive rewards,model-based agent,-0.1102,1.4901
+model-based agent,safety violations,-0.3599,1.6492
+accurate model,competitive rewards,0.259,1.2174
+accurate model,safety violations,0.2678,1.2101
+competitive rewards,unsafe trajectories,-0.436,1.6947
+safety violations,unsafe trajectories,0.8506,0.5466
+competitive rewards,safety violations,-0.1546,1.5196

@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+Pareto-optimal,multiple objectives,-0.2279,1.5671
+Pareto Active Learning,Pareto-optimal,-0.0054,1.418
+Pareto-optimal,design space,-0.1048,1.4865
+Pareto Active Learning,design space,-0.1146,1.493
+Gaussian process,Pareto-optimal,0.8168,0.6053
+Pareto-optimal,noisy evaluation,0.6579,0.8272
+Pareto-optimal,prediction accuracy,-0.0424,1.4439
+Gaussian process,Pareto Active Learning,0.0469,1.3807
+Pareto Active Learning,noisy evaluation,-0.019,1.4276
+Pareto Active Learning,prediction accuracy,-0.2786,1.5991
+Gaussian process,design space,-0.2711,1.5944
+design space,noisy evaluation,-0.0813,1.4705
+design space,prediction accuracy,-0.2106,1.556
+Gaussian process,noisy evaluation,0.2424,1.2309
+Gaussian process,prediction accuracy,0.1685,1.2896
+noisy evaluation,prediction accuracy,-0.0867,1.4743
+Pareto-optimal,theoretical bounds,-0.2913,1.607
+Pareto Active Learning,theoretical bounds,-0.4237,1.6874
+design space,theoretical bounds,-0.1557,1.5203
+Gaussian process,theoretical bounds,-0.3299,1.6309
+noisy evaluation,theoretical bounds,-0.0699,1.4628
+prediction accuracy,theoretical bounds,-0.1506,1.5169
+multi-objective optimization,theoretical bounds,-0.1313,1.5042

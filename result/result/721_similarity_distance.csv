@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+ADMM,Plug-and-play,0.9852,0.1723
+Plug-and-play,proximal algorithms,-0.0444,1.4452
+Plug-and-play,denoiser priors,-0.1953,1.5461
+Plug-and-play,deep learning-based denoisers,-0.2059,1.553
+ADMM,proximal algorithms,-0.0482,1.4479
+ADMM,denoiser priors,-0.3324,1.6324
+ADMM,deep learning-based denoisers,-0.2887,1.6054
+denoiser priors,proximal algorithms,-0.1586,1.5222
+deep learning-based denoisers,proximal algorithms,-0.0773,1.4678
+deep learning-based denoisers,denoiser priors,0.7411,0.7196
+proximal algorithm,tuning-free,-0.1651,1.5265
+deep reinforcement learning,tuning-free,-0.3079,1.6174
+deep reinforcement learning,proximal algorithm,-0.0186,1.4273
+Compressed Sensing MRI,phase retrieval,-0.3921,1.6686

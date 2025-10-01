@@ -1,0 +1,278 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/mlmi/mlmi2005.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"78.31"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"41",
+"@dc":"41",
+"@oc":"41",
+"@id":"48911306",
+"text":":facetid:toc:db/conf/mlmi/mlmi2005.bht"
+}
+},
+"hits":{
+"@total":"41",
+"@computed":"41",
+"@sent":"41",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"6595281",
+"info":{"authors":{"author":[{"@pid":"33/3792","text":"Steve Renals"},{"@pid":"b/SamyBengio","text":"Samy Bengio"}]},"title":"Machine Learning for Multimodal Interaction, Second International Workshop, MLMI 2005, Edinburgh, UK, July 11-13, 2005, Revised Selected Papers","venue":["MLMI","Lecture Notes in Computer Science"],"volume":"3869","publisher":"Springer","year":"2006","type":"Editorship","key":"conf/mlmi/2005","doi":"10.1007/11677482","ee":"https://doi.org/10.1007/11677482","url":"https://dblp.org/rec/conf/mlmi/2005"},
+"url":"URL#6595281"
+},
+{
+"@score":"1",
+"@id":"6729605",
+"info":{"authors":{"author":[{"@pid":"47/11162","text":"Marc A. Al-Hames"},{"@pid":"18/5626","text":"Alfred Dielmann"},{"@pid":"55/1328","text":"Daniel Gatica-Perez"},{"@pid":"45/414","text":"Stephan Reiter"},{"@pid":"33/3792","text":"Steve Renals"},{"@pid":"78/2835","text":"Gerhard Rigoll"},{"@pid":"68/3245-1","text":"Dong Zhang 0001"}]},"title":"Multimodal Integration for Meeting Group Action Segmentation and Recognition.","venue":"MLMI","pages":"52-63","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/Al-HamesDGRRRZ05","doi":"10.1007/11677482_5","ee":"https://doi.org/10.1007/11677482_5","url":"https://dblp.org/rec/conf/mlmi/Al-HamesDGRRRZ05"},
+"url":"URL#6729605"
+},
+{
+"@score":"1",
+"@id":"6729606",
+"info":{"authors":{"author":[{"@pid":"26/9278","text":"Xavier Anguera"},{"@pid":"34/968","text":"Chuck Wooters"},{"@pid":"15/1225","text":"Barbara Peskin"},{"@pid":"31/3895","text":"Mateu Aguiló"}]},"title":"Robust Speaker Segmentation for Meetings: The ICSI-SRI Spring 2005 Diarization System.","venue":"MLMI","pages":"402-414","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/AngueraWPA05","doi":"10.1007/11677482_34","ee":"https://doi.org/10.1007/11677482_34","url":"https://dblp.org/rec/conf/mlmi/AngueraWPA05"},
+"url":"URL#6729606"
+},
+{
+"@score":"1",
+"@id":"6729607",
+"info":{"authors":{"author":[{"@pid":"59/214","text":"Trung H. Bui"},{"@pid":"84/2347","text":"Job Zwiers"},{"@pid":"08/4657","text":"Anton Nijholt"},{"@pid":"18/181","text":"Mannes Poel"}]},"title":"Generic Dialogue Modeling for Multi-application Dialogue Systems.","venue":"MLMI","pages":"174-186","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/BuiZNP05","doi":"10.1007/11677482_15","ee":"https://doi.org/10.1007/11677482_15","url":"https://dblp.org/rec/conf/mlmi/BuiZNP05"},
+"url":"URL#6729607"
+},
+{
+"@score":"1",
+"@id":"6729608",
+"info":{"authors":{"author":[{"@pid":"43/950","text":"Cristian Canton-Ferrer"},{"@pid":"35/6496","text":"Josep R. Casas"},{"@pid":"00/5029","text":"A. Murat Tekalp"},{"@pid":"51/5117","text":"Montse Pardàs"}]},"title":"Projective Kalman Filter: Multiocular Tracking of 3D Locations Towards Scene Understanding.","venue":"MLMI","pages":"250-261","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/Canton-FerrerCTP05","doi":"10.1007/11677482_22","ee":"https://doi.org/10.1007/11677482_22","url":"https://dblp.org/rec/conf/mlmi/Canton-FerrerCTP05"},
+"url":"URL#6729608"
+},
+{
+"@score":"1",
+"@id":"6729609",
+"info":{"authors":{"author":[{"@pid":"67/5342","text":"Jean Carletta"},{"@pid":"51/1471","text":"Simone Ashby"},{"@pid":"55/1131","text":"Sebastien Bourban"},{"@pid":"26/284","text":"Mike Flynn"},{"@pid":"50/6913","text":"Maël Guillemot"},{"@pid":"46/1798","text":"Thomas Hain"},{"@pid":"81/2726","text":"Jaroslav Kadlec"},{"@pid":"21/5124","text":"Vasilis Karaiskos"},{"@pid":"k/WesselKraaij","text":"Wessel Kraaij"},{"@pid":"67/3151","text":"Melissa Kronenthal"},{"@pid":"37/6801","text":"Guillaume Lathoud"},{"@pid":"67/2912","text":"Mike Lincoln"},{"@pid":"55/980","text":"Agnes Lisowska"},{"@pid":"99/6777","text":"Iain McCowan"},{"@pid":"89/1590","text":"Wilfried M. Post"},{"@pid":"47/2498","text":"Dennis Reidsma"},{"@pid":"45/1810","text":"Pierre Wellner"}]},"title":"The AMI Meeting Corpus: A Pre-announcement.","venue":"MLMI","pages":"28-39","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/CarlettaABFGHKKKKLLLMPRW05","doi":"10.1007/11677482_3","ee":"https://doi.org/10.1007/11677482_3","url":"https://dblp.org/rec/conf/mlmi/CarlettaABFGHKKKKLLLMPRW05"},
+"url":"URL#6729609"
+},
+{
+"@score":"1",
+"@id":"6729610",
+"info":{"authors":{"author":[{"@pid":"c/LeiChen0004","text":"Lei Chen 0004"},{"@pid":"71/4340","text":"R. Rose"},{"@pid":"28/1673","text":"Ying Qiao"},{"@pid":"97/5066","text":"Irene Kimbara"},{"@pid":"53/6289","text":"Fey Parrill"},{"@pid":"37/6018","text":"Haleema Welji"},{"@pid":"11/5694","text":"Tony X. Han"},{"@pid":"78/1902","text":"Jilin Tu"},{"@pid":"10/3565","text":"Zhongqiang Huang"},{"@pid":"h/MPHarper","text":"Mary P. Harper"},{"@pid":"61/3950","text":"Francis K. H. Quek"},{"@pid":"42/2711","text":"Yingen Xiong"},{"@pid":"74/307","text":"David McNeill"},{"@pid":"82/5630","text":"Ronald Tuttle"},{"@pid":"h/ThomasSHuang","text":"Thomas S. Huang"}]},"title":"VACE Multimodal Meeting Corpus.","venue":"MLMI","pages":"40-51","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/ChenRQKPWHTHHQXMTH05","doi":"10.1007/11677482_4","ee":"https://doi.org/10.1007/11677482_4","url":"https://dblp.org/rec/conf/mlmi/ChenRQKPWHTHHQXMTH05"},
+"url":"URL#6729610"
+},
+{
+"@score":"1",
+"@id":"6729611",
+"info":{"authors":{"author":[{"@pid":"48/752","text":"Stephen M. Chu"},{"@pid":"35/1466","text":"Etienne Marcheret"},{"@pid":"78/2516","text":"Gerasimos Potamianos"}]},"title":"Automatic Speech Recognition and Speech Activity Detection in the CHIL Smart Room.","venue":"MLMI","pages":"332-343","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/ChuMP05","doi":"10.1007/11677482_29","ee":"https://doi.org/10.1007/11677482_29","url":"https://dblp.org/rec/conf/mlmi/ChuMP05"},
+"url":"URL#6729611"
+},
+{
+"@score":"1",
+"@id":"6729612",
+"info":{"authors":{"author":{"@pid":"80/3168","text":"Arlo Faria"}},"title":"Accent Classification for Speech Recognition.","venue":"MLMI","pages":"285-293","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/Faria05","doi":"10.1007/11677482_25","ee":"https://doi.org/10.1007/11677482_25","url":"https://dblp.org/rec/conf/mlmi/Faria05"},
+"url":"URL#6729612"
+},
+{
+"@score":"1",
+"@id":"6729613",
+"info":{"authors":{"author":[{"@pid":"66/4308","text":"Jonathan G. Fiscus"},{"@pid":"93/2458","text":"Nicolas Radde"},{"@pid":"91/4647","text":"John S. Garofolo"},{"@pid":"82/9294","text":"Audrey N. Le"},{"@pid":"57/2771","text":"Jerome Ajot"},{"@pid":"13/1137","text":"Christophe Laprun"}]},"title":"The Rich Transcription 2005 Spring Meeting Recognition Evaluation.","venue":"MLMI","pages":"369-389","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/FiscusRGLAL05","doi":"10.1007/11677482_32","ee":"https://doi.org/10.1007/11677482_32","url":"https://dblp.org/rec/conf/mlmi/FiscusRGLAL05"},
+"url":"URL#6729613"
+},
+{
+"@score":"1",
+"@id":"6729614",
+"info":{"authors":{"author":[{"@pid":"74/4268","text":"Alejandra García-Rojas"},{"@pid":"34/6853","text":"Mario Gutiérrez"},{"@pid":"t/DanielThalmann","text":"Daniel Thalmann"},{"@pid":"20/2034","text":"Frédéric Vexo"}]},"title":"Multimodal Authoring Tool for Populating a Database of Emotional Reactive Animations.","venue":"MLMI","pages":"206-217","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/Garcia-RojasGTV05","doi":"10.1007/11677482_18","ee":"https://doi.org/10.1007/11677482_18","url":"https://dblp.org/rec/conf/mlmi/Garcia-RojasGTV05"},
+"url":"URL#6729614"
+},
+{
+"@score":"1",
+"@id":"6729615",
+"info":{"authors":{"author":[{"@pid":"11/708","text":"Meghan Lammie Glenn"},{"@pid":"65/1644","text":"Stephanie M. Strassel"}]},"title":"Linguistic Resources for Meeting Speech Recognition.","venue":"MLMI","pages":"390-401","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/GlennS05","doi":"10.1007/11677482_33","ee":"https://doi.org/10.1007/11677482_33","url":"https://dblp.org/rec/conf/mlmi/GlennS05"},
+"url":"URL#6729615"
+},
+{
+"@score":"1",
+"@id":"6729616",
+"info":{"authors":{"author":[{"@pid":"46/1798","text":"Thomas Hain"},{"@pid":"76/686","text":"Lukás Burget"},{"@pid":"37/5069","text":"John Dines"},{"@pid":"79/5273","text":"Giulia Garau"},{"@pid":"20/3371","text":"Martin Karafiát"},{"@pid":"67/2912","text":"Mike Lincoln"},{"@pid":"99/6777","text":"Iain McCowan"},{"@pid":"87/5133","text":"Darren Moore"},{"@pid":"30/2154","text":"Vincent Wan"},{"@pid":"75/3664","text":"Roeland Ordelman"},{"@pid":"33/3792","text":"Steve Renals"}]},"title":"The 2005 AMI System for the Transcription of Speech in Meetings.","venue":"MLMI","pages":"450-462","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/HainBDGKLMMWOR05","doi":"10.1007/11677482_38","ee":"https://doi.org/10.1007/11677482_38","url":"https://dblp.org/rec/conf/mlmi/HainBDGKLMMWOR05"},
+"url":"URL#6729616"
+},
+{
+"@score":"1",
+"@id":"6729617",
+"info":{"authors":{"author":[{"@pid":"46/1798","text":"Thomas Hain"},{"@pid":"76/686","text":"Lukás Burget"},{"@pid":"37/5069","text":"John Dines"},{"@pid":"99/6777","text":"Iain McCowan"},{"@pid":"79/5273","text":"Giulia Garau"},{"@pid":"20/3371","text":"Martin Karafiát"},{"@pid":"67/2912","text":"Mike Lincoln"},{"@pid":"87/5133","text":"Darren Moore"},{"@pid":"30/2154","text":"Vincent Wan"},{"@pid":"75/3664","text":"Roeland Ordelman"},{"@pid":"33/3792","text":"Steve Renals"}]},"title":"The Development of the AMI System for the Transcription of Speech in Meetings.","venue":"MLMI","pages":"344-356","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/HainBDMGKLMWOR05","doi":"10.1007/11677482_30","ee":"https://doi.org/10.1007/11677482_30","url":"https://dblp.org/rec/conf/mlmi/HainBDMGKLMWOR05"},
+"url":"URL#6729617"
+},
+{
+"@score":"1",
+"@id":"6729618",
+"info":{"authors":{"author":[{"@pid":"10/3565","text":"Zhongqiang Huang"},{"@pid":"h/MPHarper","text":"Mary P. Harper"}]},"title":"Speech Activity Detection on Multichannels of Meeting Recordings.","venue":"MLMI","pages":"415-427","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/HuangH05","doi":"10.1007/11677482_35","ee":"https://doi.org/10.1007/11677482_35","url":"https://dblp.org/rec/conf/mlmi/HuangH05"},
+"url":"URL#6729618"
+},
+{
+"@score":"1",
+"@id":"6729619",
+"info":{"authors":{"author":[{"@pid":"25/692","text":"Xiao Huang"},{"@pid":"o/SharonLOviatt","text":"Sharon L. Oviatt"}]},"title":"Toward Adaptive Information Fusion in Multimodal Systems.","venue":"MLMI","pages":"15-27","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/HuangO05","doi":"10.1007/11677482_2","ee":"https://doi.org/10.1007/11677482_2","url":"https://dblp.org/rec/conf/mlmi/HuangO05"},
+"url":"URL#6729619"
+},
+{
+"@score":"1",
+"@id":"6729620",
+"info":{"authors":{"author":[{"@pid":"43/6064","text":"Dan Istrate"},{"@pid":"42/2411","text":"Corinne Fredouille"},{"@pid":"34/3789","text":"Sylvain Meignier"},{"@pid":"67/3881","text":"Laurent Besacier"},{"@pid":"72/3130","text":"Jean-François Bonastre"}]},"title":"NIST RT&apos;05S Evaluation: Pre-processing Techniques and Speaker Diarization on Multiple Microphone Meetings.","venue":"MLMI","pages":"428-439","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/IstrateFMBB05","doi":"10.1007/11677482_36","ee":"https://doi.org/10.1007/11677482_36","url":"https://dblp.org/rec/conf/mlmi/IstrateFMBB05"},
+"url":"URL#6729620"
+},
+{
+"@score":"1",
+"@id":"6729621",
+"info":{"authors":{"author":[{"@pid":"51/2774","text":"Hamed Ketabdar"},{"@pid":"12/6705","text":"Hervé Bourlard"},{"@pid":"b/SamyBengio","text":"Samy Bengio"}]},"title":"Hierarchical Multi-stream Posterior Based Speech Recognition System.","venue":"MLMI","pages":"294-306","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/KetabdarBB05","doi":"10.1007/11677482_26","ee":"https://doi.org/10.1007/11677482_26","url":"https://dblp.org/rec/conf/mlmi/KetabdarBB05"},
+"url":"URL#6729621"
+},
+{
+"@score":"1",
+"@id":"6729622",
+"info":{"authors":{"author":[{"@pid":"54/16","text":"Olga A. Kulyk"},{"@pid":"26/4513","text":"Jimmy Wang"},{"@pid":"12/1158","text":"Jacques M. B. Terken"}]},"title":"Real-Time Feedback on Nonverbal Behaviour to Enhance Social Dynamics in Small Group Meetings.","venue":"MLMI","pages":"150-161","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/KulykWT05","doi":"10.1007/11677482_13","ee":"https://doi.org/10.1007/11677482_13","url":"https://dblp.org/rec/conf/mlmi/KulykWT05"},
+"url":"URL#6729622"
+},
+{
+"@score":"1",
+"@id":"6729623",
+"info":{"authors":{"author":[{"@pid":"68/543","text":"José Luis Landabaso"},{"@pid":"51/5117","text":"Montse Pardàs"}]},"title":"Foreground Regions Extraction and Characterization Towards Real-Time Object Tracking.","venue":"MLMI","pages":"241-249","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/LandabasoP05","doi":"10.1007/11677482_21","ee":"https://doi.org/10.1007/11677482_21","url":"https://dblp.org/rec/conf/mlmi/LandabasoP05"},
+"url":"URL#6729623"
+},
+{
+"@score":"1",
+"@id":"6729624",
+"info":{"authors":{"author":{"@pid":"57/3801","text":"David A. van Leeuwen"}},"title":"The TNO Speaker Diarization System for NIST RT05s Meeting Data.","venue":"MLMI","pages":"440-449","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/Leeuwen05","doi":"10.1007/11677482_37","ee":"https://doi.org/10.1007/11677482_37","url":"https://dblp.org/rec/conf/mlmi/Leeuwen05"},
+"url":"URL#6729624"
+},
+{
+"@score":"1",
+"@id":"6729625",
+"info":{"authors":{"author":{"@pid":"74/307","text":"David McNeill"}},"title":"Gesture, Gaze, and Ground.","venue":"MLMI","pages":"1-14","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/McNeill05","doi":"10.1007/11677482_1","ee":"https://doi.org/10.1007/11677482_1","url":"https://dblp.org/rec/conf/mlmi/McNeill05"},
+"url":"URL#6729625"
+},
+{
+"@score":"1",
+"@id":"6729626",
+"info":{"authors":{"author":[{"@pid":"26/1652","text":"Florian Metze"},{"@pid":"45/5603","text":"Petra Gieselmann"},{"@pid":"00/397","text":"Hartwig Holzapfel"},{"@pid":"72/5810","text":"Tobias Kluge"},{"@pid":"62/6580","text":"Ivica Rogina"},{"@pid":"08/2456","text":"Alex Waibel"},{"@pid":"84/6910","text":"Matthias Wölfel"},{"@pid":"50/3289","text":"James L. Crowley"},{"@pid":"63/2087","text":"Patrick Reignier"},{"@pid":"16/306","text":"Dominique Vaufreydaz"},{"@pid":"53/859","text":"François Bérard"},{"@pid":"07/5702","text":"Bérangère Cohen"},{"@pid":"85/6508","text":"Joëlle Coutaz"},{"@pid":"67/4701","text":"Sylvie Rouillard"},{"@pid":"39/2207","text":"Victoria Arranz"},{"@pid":"59/4187","text":"Manuel Bertrán"},{"@pid":"61/3864","text":"Horacio Rodríguez"}]},"title":"The &quot;FAME&quot; Interactive Space.","venue":"MLMI","pages":"126-137","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/MetzeGHKRWWCRVBCCRABR05","doi":"10.1007/11677482_11","ee":"https://doi.org/10.1007/11677482_11","url":"https://dblp.org/rec/conf/mlmi/MetzeGHKRWWCRVBCCRABR05"},
+"url":"URL#6729626"
+},
+{
+"@score":"1",
+"@id":"6729627",
+"info":{"authors":{"author":[{"@pid":"21/1000","text":"John Niekrasz"},{"@pid":"06/3180","text":"Matthew Purver"}]},"title":"A Multimodal Discourse Ontology for Meeting Understanding.","venue":"MLMI","pages":"162-173","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/NiekraszP05","doi":"10.1007/11677482_14","ee":"https://doi.org/10.1007/11677482_14","url":"https://dblp.org/rec/conf/mlmi/NiekraszP05"},
+"url":"URL#6729627"
+},
+{
+"@score":"1",
+"@id":"6729628",
+"info":{"authors":{"author":[{"@pid":"06/3413","text":"Maurizio Omologo"},{"@pid":"83/4887","text":"Piergiorgio Svaizer"},{"@pid":"77/6379","text":"Alessio Brutti"},{"@pid":"90/5222","text":"Luca Cristoforetti"}]},"title":"Speaker Localization in CHIL Lectures: Evaluation Criteria and Results.","venue":"MLMI","pages":"476-487","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/OmologoSBC05","doi":"10.1007/11677482_40","ee":"https://doi.org/10.1007/11677482_40","url":"https://dblp.org/rec/conf/mlmi/OmologoSBC05"},
+"url":"URL#6729628"
+},
+{
+"@score":"1",
+"@id":"6729629",
+"info":{"authors":{"author":[{"@pid":"06/1382","text":"Aristodemos Pnevmatikakis"},{"@pid":"p/LazarosPolymenakos","text":"Lazaros Polymenakos"}]},"title":"A Testing Methodology for Face Recognition Algorithms.","venue":"MLMI","pages":"218-229","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/PnevmatikakisP05","doi":"10.1007/11677482_19","ee":"https://doi.org/10.1007/11677482_19","url":"https://dblp.org/rec/conf/mlmi/PnevmatikakisP05"},
+"url":"URL#6729629"
+},
+{
+"@score":"1",
+"@id":"6729630",
+"info":{"authors":{"author":[{"@pid":"20/5435","text":"Norman Poh"},{"@pid":"b/SamyBengio","text":"Samy Bengio"}]},"title":"Can Chimeric Persons Be Used in Multimodal Biometric Authentication Experiments?.","venue":"MLMI","pages":"87-100","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/PohB05","doi":"10.1007/11677482_8","ee":"https://doi.org/10.1007/11677482_8","url":"https://dblp.org/rec/conf/mlmi/PohB05"},
+"url":"URL#6729630"
+},
+{
+"@score":"1",
+"@id":"6729631",
+"info":{"authors":{"author":[{"@pid":"57/175","text":"Andrei Popescu-Belis"},{"@pid":"04/4239","text":"Denis Lalanne"}]},"title":"Detection and Resolution of References to Meeting Documents.","venue":"MLMI","pages":"64-75","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/Popescu-BelisL05","doi":"10.1007/11677482_6","ee":"https://doi.org/10.1007/11677482_6","url":"https://dblp.org/rec/conf/mlmi/Popescu-BelisL05"},
+"url":"URL#6729631"
+},
+{
+"@score":"1",
+"@id":"6729632",
+"info":{"authors":{"author":[{"@pid":"46/5366","text":"Rutger Rienks"},{"@pid":"41/4894","text":"Dirk Heylen"}]},"title":"Dominance Detection in Meetings Using Easily Obtainable Features.","venue":"MLMI","pages":"76-86","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/RienksH05","doi":"10.1007/11677482_7","ee":"https://doi.org/10.1007/11677482_7","url":"https://dblp.org/rec/conf/mlmi/RienksH05"},
+"url":"URL#6729632"
+},
+{
+"@score":"1",
+"@id":"6729633",
+"info":{"authors":{"author":[{"@pid":"25/1744","text":"Maurizio Rigamonti"},{"@pid":"04/4239","text":"Denis Lalanne"},{"@pid":"80/4955","text":"Florian Evéquoz"},{"@pid":"18/2679","text":"Rolf Ingold"}]},"title":"Browsing Multimedia Archives Through Intra- and Multimodal Cross-Documents Links.","venue":"MLMI","pages":"114-125","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/RigamontiLEI05","doi":"10.1007/11677482_10","ee":"https://doi.org/10.1007/11677482_10","url":"https://dblp.org/rec/conf/mlmi/RigamontiLEI05"},
+"url":"URL#6729633"
+},
+{
+"@score":"1",
+"@id":"6729634",
+"info":{"authors":{"author":[{"@pid":"88/4000-1","text":"Marc Schröder 0001"},{"@pid":"96/3322","text":"Roddy Cowie"}]},"title":"Developing a Consistent View on Emotion-Oriented Computing.","venue":"MLMI","pages":"194-205","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/SchroderC05","doi":"10.1007/11677482_17","ee":"https://doi.org/10.1007/11677482_17","url":"https://dblp.org/rec/conf/mlmi/SchroderC05"},
+"url":"URL#6729634"
+},
+{
+"@score":"1",
+"@id":"6729635",
+"info":{"authors":{"author":[{"@pid":"s/AndreasStolcke","text":"Andreas Stolcke"},{"@pid":"26/9278","text":"Xavier Anguera"},{"@pid":"57/5730","text":"Kofi Boakye"},{"@pid":"43/415","text":"Özgür Çetin"},{"@pid":"47/5385","text":"Frantisek Grézl"},{"@pid":"60/6454","text":"Adam Janin"},{"@pid":"74/5798","text":"Arindam Mandal"},{"@pid":"15/1225","text":"Barbara Peskin"},{"@pid":"34/968","text":"Chuck Wooters"},{"@pid":"15/2171-1","text":"Jing Zheng 0001"}]},"title":"Further Progress in Meeting Recognition: The ICSI-SRI Spring 2005 Speech-to-Text Evaluation System.","venue":"MLMI","pages":"463-475","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/StolckeABCGJMPWZ05","doi":"10.1007/11677482_39","ee":"https://doi.org/10.1007/11677482_39","url":"https://dblp.org/rec/conf/mlmi/StolckeABCGJMPWZ05"},
+"url":"URL#6729635"
+},
+{
+"@score":"1",
+"@id":"6729636",
+"info":{"authors":{"author":[{"@pid":"26/784","text":"Janienke Sturm"},{"@pid":"65/2239","text":"Rahat Iqbal"},{"@pid":"12/1158","text":"Jacques M. B. Terken"}]},"title":"Development of Peripheral Feedback to Support Lectures.","venue":"MLMI","pages":"138-149","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/SturmIT05","doi":"10.1007/11677482_12","ee":"https://doi.org/10.1007/11677482_12","url":"https://dblp.org/rec/conf/mlmi/SturmIT05"},
+"url":"URL#6729636"
+},
+{
+"@score":"1",
+"@id":"6729637",
+"info":{"authors":{"author":[{"@pid":"166/4325","text":"Andrey Temko"},{"@pid":"65/7046","text":"Dusan Macho"},{"@pid":"55/3253","text":"Climent Nadeu"}]},"title":"Improving the Performance of Acoustic Event Classification by Selecting and Combining Information Sources Using the Fuzzy Integral.","venue":"MLMI","pages":"357-368","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/TemkoMN05","doi":"10.1007/11677482_31","ee":"https://doi.org/10.1007/11677482_31","url":"https://dblp.org/rec/conf/mlmi/TemkoMN05"},
+"url":"URL#6729637"
+},
+{
+"@score":"1",
+"@id":"6729638",
+"info":{"authors":{"author":[{"@pid":"99/2580","text":"Vivek Tyagi"},{"@pid":"w/ChristianWellekens","text":"Christian Wellekens"}]},"title":"Least Squares Filtering of Speech Signals for Robust ASR.","venue":"MLMI","pages":"262-273","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/TyagiW05","doi":"10.1007/11677482_23","ee":"https://doi.org/10.1007/11677482_23","url":"https://dblp.org/rec/conf/mlmi/TyagiW05"},
+"url":"URL#6729638"
+},
+{
+"@score":"1",
+"@id":"6729639",
+"info":{"authors":{"author":[{"@pid":"99/2580","text":"Vivek Tyagi"},{"@pid":"w/ChristianWellekens","text":"Christian Wellekens"},{"@pid":"12/6705","text":"Hervé Bourlard"}]},"title":"A Variable-Scale Piecewise Stationary Spectral Analysis Technique Applied to ASR.","venue":"MLMI","pages":"274-284","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/TyagiWB05","doi":"10.1007/11677482_24","ee":"https://doi.org/10.1007/11677482_24","url":"https://dblp.org/rec/conf/mlmi/TyagiWB05"},
+"url":"URL#6729639"
+},
+{
+"@score":"1",
+"@id":"6729640",
+"info":{"authors":{"author":[{"@pid":"69/7016","text":"Fabio Valente"},{"@pid":"w/ChristianWellekens","text":"Christian Wellekens"}]},"title":"Variational Bayesian Methods for Audio Indexing.","venue":"MLMI","pages":"307-319","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/ValenteW05","doi":"10.1007/11677482_27","ee":"https://doi.org/10.1007/11677482_27","url":"https://dblp.org/rec/conf/mlmi/ValenteW05"},
+"url":"URL#6729640"
+},
+{
+"@score":"1",
+"@id":"6729641",
+"info":{"authors":{"author":[{"@pid":"66/4378","text":"Michael Voit"},{"@pid":"74/2506","text":"Kai Nickel"},{"@pid":"31/4699","text":"Rainer Stiefelhagen"}]},"title":"Estimating the Lecturer&apos;s Head Pose in Seminar Scenarios - A Multi-view Approach.","venue":"MLMI","pages":"230-240","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/VoitNS05","doi":"10.1007/11677482_20","ee":"https://doi.org/10.1007/11677482_20","url":"https://dblp.org/rec/conf/mlmi/VoitNS05"},
+"url":"URL#6729641"
+},
+{
+"@score":"1",
+"@id":"6729642",
+"info":{"authors":{"author":[{"@pid":"41/2145-1","text":"Steve Whittaker 0001"},{"@pid":"86/6545","text":"Rachel Laban"},{"@pid":"61/6600","text":"Simon Tucker"}]},"title":"Analysing Meeting Records: An Ethnographic Study and Technological Implications.","venue":"MLMI","pages":"101-113","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/WhittakerLT05","doi":"10.1007/11677482_9","ee":"https://doi.org/10.1007/11677482_9","url":"https://dblp.org/rec/conf/mlmi/WhittakerLT05"},
+"url":"URL#6729642"
+},
+{
+"@score":"1",
+"@id":"6729643",
+"info":{"authors":{"author":[{"@pid":"84/6910","text":"Matthias Wölfel"},{"@pid":"74/2506","text":"Kai Nickel"},{"@pid":"51/4255","text":"John W. McDonough"}]},"title":"Microphone Array Driven Speech Recognition: Influence of Localization on the Word Error Rate.","venue":"MLMI","pages":"320-331","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/WolfelNM05","doi":"10.1007/11677482_28","ee":"https://doi.org/10.1007/11677482_28","url":"https://dblp.org/rec/conf/mlmi/WolfelNM05"},
+"url":"URL#6729643"
+},
+{
+"@score":"1",
+"@id":"6729644",
+"info":{"authors":{"author":[{"@pid":"58/2263","text":"Matthias Zimmermann"},{"@pid":"51/3710-4","text":"Yang Liu 0004"},{"@pid":"53/2688","text":"Elizabeth Shriberg"},{"@pid":"s/AndreasStolcke","text":"Andreas Stolcke"}]},"title":"Toward Joint Segmentation and Classification of Dialog Acts in Multiparty Meetings.","venue":"MLMI","pages":"187-193","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi/ZimmermannLSS05","doi":"10.1007/11677482_16","ee":"https://doi.org/10.1007/11677482_16","url":"https://dblp.org/rec/conf/mlmi/ZimmermannLSS05"},
+"url":"URL#6729644"
+}
+]
+}
+}
+}

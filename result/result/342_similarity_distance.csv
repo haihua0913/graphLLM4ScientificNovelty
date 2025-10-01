@@ -1,0 +1,28 @@
+node1,node2,similarity,distance
+BertGCN,large scale pretraining,-0.3099,1.6186
+BertGCN,transductive learning,0.0511,1.3776
+BertGCN,heterogeneous graph,0.0719,1.3625
+BERT representations,BertGCN,-0.0797,1.4695
+large scale pretraining,transductive learning,-0.2625,1.589
+heterogeneous graph,large scale pretraining,-0.3374,1.6355
+BERT representations,large scale pretraining,-0.2968,1.6105
+heterogeneous graph,transductive learning,-0.1283,1.5022
+BERT representations,transductive learning,-0.248,1.5799
+BERT representations,heterogeneous graph,-0.1252,1.5001
+BertGCN,GCN modules,0.2941,1.1882
+BertGCN,graph convolution,0.0717,1.3625
+GCN modules,large scale pretraining,0.1844,1.2772
+graph convolution,large scale pretraining,0.0878,1.3507
+GCN modules,transductive learning,0.6859,0.7926
+graph convolution,transductive learning,-0.504,1.7344
+GCN modules,heterogeneous graph,-0.4243,1.6878
+graph convolution,heterogeneous graph,-0.237,1.5729
+BERT representations,GCN modules,-0.1823,1.5377
+BERT representations,graph convolution,-0.0406,1.4426
+GCN modules,graph convolution,-0.089,1.4758
+BertGCN,SOTA performances,-0.0881,1.4752
+SOTA performances,transductive learning,0.022,1.3986
+SOTA performances,heterogeneous graph,-0.3115,1.6195
+BERT representations,SOTA performances,-0.0053,1.418
+GCN modules,SOTA performances,-0.3831,1.6632
+SOTA performances,graph convolution,-0.3273,1.6293

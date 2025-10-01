@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+depth images,human detection,-0.5868,1.7814
+human detection,top-view camera system,0.9584,0.2883
+feature descriptor,human detection,-0.5864,1.7813
+depth images,top-view camera system,-0.5442,1.7574
+depth images,feature descriptor,0.9826,0.1866
+feature descriptor,top-view camera system,-0.5283,1.7483
+head-shoulder detector,human detection,0.9279,0.3797
+depth images,head-shoulder detector,-0.4431,1.6989
+head-shoulder detector,top-view camera system,0.906,0.4335
+feature descriptor,head-shoulder detector,-0.4722,1.7159
+feature descriptor,runtime performance,-0.2771,1.5982
+head-shoulder detector,runtime performance,-0.161,1.5238
+runtime performance,tracking results,0.0448,1.3822
+runtime performance,tailgating,0.0051,1.4106
+piggybacking,runtime performance,-0.0894,1.476
+tailgating,tracking results,0.7715,0.676
+piggybacking,tracking results,0.9845,0.1763
+piggybacking,tailgating,0.7547,0.7004

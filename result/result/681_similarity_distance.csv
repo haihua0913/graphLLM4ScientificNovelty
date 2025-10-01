@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+image model,unsupervised learning,0.12,1.3266
+deep neural network,image model,0.2487,1.2258
+image model,spatial dimensions,0.9737,0.2292
+deep neural network,unsupervised learning,0.8008,0.6312
+spatial dimensions,unsupervised learning,0.0267,1.3952
+deep neural network,spatial dimensions,0.2055,1.2606
+discrete probability,image model,-0.0061,1.4186
+dependencies,image model,0.811,0.6148
+deep neural network,discrete probability,0.415,1.0817
+deep neural network,dependencies,0.5488,0.95
+discrete probability,spatial dimensions,0.0841,1.3534
+dependencies,spatial dimensions,0.8471,0.553
+dependencies,discrete probability,0.2319,1.2394
+deep neural network,recurrent layers,0.0924,1.3473
+deep neural network,residual connections,-0.1228,1.4985
+recurrent layers,spatial dimensions,-0.184,1.5388
+residual connections,spatial dimensions,-0.091,1.4771
+discrete probability,recurrent layers,-0.3097,1.6184
+discrete probability,residual connections,-0.1766,1.534
+dependencies,recurrent layers,-0.0424,1.4439
+dependencies,residual connections,0.2024,1.263
+recurrent layers,residual connections,-0.0964,1.4808
+discrete probability,log-likelihood,0.0071,1.4092
+dependencies,log-likelihood,0.8422,0.5617
+log-likelihood,recurrent layers,-0.1501,1.5166
+log-likelihood,residual connections,-0.0832,1.4719
+ImageNet dataset,recurrent layers,-0.2093,1.5552
+ImageNet dataset,residual connections,-0.3489,1.6425
+ImageNet dataset,log-likelihood,-0.0,1.4142

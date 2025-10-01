@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+Multimodal sentiment analysis,videos,-0.0779,1.4683
+Multimodal sentiment analysis,utterances,0.9482,0.3219
+utterances,videos,0.0351,1.3891
+LSTM-based model,Multimodal sentiment analysis,0.9317,0.3696
+Multimodal sentiment analysis,contextual information,0.9324,0.3677
+Multimodal sentiment analysis,classification process,0.9,0.4472
+LSTM-based model,videos,-0.1503,1.5168
+contextual information,videos,-0.0618,1.4573
+classification process,videos,-0.1516,1.5176
+LSTM-based model,utterances,0.9127,0.4178
+contextual information,utterances,0.8717,0.5065
+classification process,utterances,0.9024,0.4419
+LSTM-based model,contextual information,0.8911,0.4666
+LSTM-based model,classification process,0.9871,0.1606
+classification process,contextual information,0.8674,0.515
+performance improvement,utterances,-0.1147,1.4931
+state of the art,utterances,-0.2785,1.5991
+robustness,utterances,0.9587,0.2873
+LSTM-based model,performance improvement,-0.0937,1.479
+LSTM-based model,state of the art,-0.1355,1.507
+LSTM-based model,robustness,0.9589,0.2866
+contextual information,performance improvement,0.2826,1.1978
+contextual information,state of the art,-0.1052,1.4868
+contextual information,robustness,0.9314,0.3704
+classification process,performance improvement,-0.1724,1.5313
+classification process,state of the art,-0.1167,1.4944
+classification process,robustness,0.9361,0.3575
+performance improvement,state of the art,0.0081,1.4085
+performance improvement,robustness,0.0354,1.389
+robustness,state of the art,-0.2517,1.5822

@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+learning,mixture of multiple linear dynamical systems,-0.1619,1.5244
+learning,unlabeled short sample trajectories,0.6783,0.8021
+learning,time-series data,0.9164,0.409
+mixture of multiple linear dynamical systems,unlabeled short sample trajectories,-0.1925,1.5443
+mixture of multiple linear dynamical systems,time-series data,-0.087,1.4744
+time-series data,unlabeled short sample trajectories,0.4614,1.0378
+latent variables,learning,0.8023,0.6289
+latent variables,mixture of multiple linear dynamical systems,-0.4924,1.7276
+latent variables,unlabeled short sample trajectories,0.7611,0.6912
+latent variables,time-series data,0.729,0.7361
+learning,unknown labels,0.9688,0.25
+learning,temporal dependence,0.9155,0.411
+latent variables,unknown labels,0.8454,0.556
+latent variables,temporal dependence,0.7644,0.6865
+temporal dependence,unknown labels,0.9069,0.4316
+time-series data,unknown labels,0.9228,0.393
+temporal dependence,time-series data,0.9352,0.3599
+latent variables,meta-algorithm,0.6412,0.8471
+meta-algorithm,unknown labels,0.4235,1.0738
+meta-algorithm,temporal dependence,0.2516,1.2234
+meta-algorithm,time-series data,0.2015,1.2637
+numerical experiments,unknown labels,0.3377,1.1509
+numerical experiments,temporal dependence,0.0937,1.3464
+numerical experiments,time-series data,0.1653,1.292
+meta-algorithm,numerical experiments,0.823,0.595

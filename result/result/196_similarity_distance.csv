@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+dynamic functional connectivity,spatiotemporal graph,0.2147,1.2532
+dynamic functional connectivity,human mobility network,-0.0777,1.4681
+Bayesian model,variational objective function,-0.0519,1.4505
+Bayesian model,mutual information thresholding,-0.1036,1.4857
+Bayesian model,information bottleneck theory,0.9528,0.3072
+mutual information thresholding,variational objective function,-0.0318,1.4365
+information bottleneck theory,variational objective function,-0.0342,1.4382
+information bottleneck theory,mutual information thresholding,-0.1872,1.5409
+Bayesian model,graph generation,0.0415,1.3846
+Bayesian model,interpretability,-0.2353,1.5718
+graph generation,variational objective function,-0.028,1.4338
+interpretability,variational objective function,0.1184,1.3279
+graph generation,mutual information thresholding,-0.1466,1.5143
+interpretability,mutual information thresholding,-0.2631,1.5894
+graph generation,information bottleneck theory,-0.1616,1.5242
+information bottleneck theory,interpretability,-0.177,1.5343
+graph generation,interpretability,-0.1372,1.5081

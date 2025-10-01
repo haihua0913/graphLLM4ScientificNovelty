@@ -1,0 +1,35 @@
+node1,node2,similarity,distance
+gray-scale images,wavelet decomposition,-0.013,1.4233
+clutter,gray-scale images,0.0279,1.3944
+clutter,wavelet decomposition,0.1274,1.3211
+Hidden Markov Model,gray-scale images,0.1744,1.285
+gray-scale images,statistical dependency,-0.0201,1.4283
+discrete states,gray-scale images,0.0491,1.3791
+diversity of faces,gray-scale images,0.8807,0.4885
+Hidden Markov Model,wavelet decomposition,-0.2466,1.579
+statistical dependency,wavelet decomposition,0.2373,1.2351
+discrete states,wavelet decomposition,0.1868,1.2753
+diversity of faces,wavelet decomposition,0.0318,1.3915
+Hidden Markov Model,statistical dependency,-0.4979,1.7308
+Hidden Markov Model,discrete states,0.0552,1.3747
+Hidden Markov Model,diversity of faces,-0.0333,1.4375
+Hidden Markov Model,clutter,0.2107,1.2565
+discrete states,statistical dependency,-0.1684,1.5286
+diversity of faces,statistical dependency,-0.2332,1.5705
+clutter,statistical dependency,-0.2523,1.5826
+discrete states,diversity of faces,-0.0552,1.4527
+clutter,discrete states,0.9766,0.2164
+clutter,diversity of faces,-0.0994,1.4828
+template-based methods,wavelet decomposition,0.0295,1.3932
+eigenface methods,wavelet decomposition,0.1201,1.3265
+Hidden Markov Model,template-based methods,0.9157,0.4105
+Hidden Markov Model,eigenface methods,0.1246,1.3231
+statistical dependency,template-based methods,-0.2645,1.5903
+eigenface methods,statistical dependency,-0.2725,1.5953
+discrete states,template-based methods,0.008,1.4086
+discrete states,eigenface methods,0.9827,0.1859
+diversity of faces,template-based methods,-0.0126,1.4231
+diversity of faces,eigenface methods,0.0018,1.413
+clutter,template-based methods,0.1416,1.3103
+clutter,eigenface methods,0.987,0.161
+eigenface methods,template-based methods,0.0393,1.3861

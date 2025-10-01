@@ -1,0 +1,578 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/cbms/cbms2024.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"75.26"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"91",
+"@dc":"91",
+"@oc":"91",
+"@id":"48877056",
+"text":":facetid:toc:db/conf/cbms/cbms2024.bht"
+}
+},
+"hits":{
+"@total":"91",
+"@computed":"91",
+"@sent":"91",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"480533",
+"info":{"authors":{"author":[{"@pid":"269/8934","text":"Erikson Júlio De Aguiar"},{"@pid":"t/CaetanoTrainaJr","text":"Caetano Traina"},{"@pid":"t/AgmaJMTraina","text":"Agma J. M. Traina"}]},"title":"RADAR-MIX: How to Uncover Adversarial Attacks in Medical Image Analysis through Explainability.","venue":"CBMS","pages":"436-441","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AguiarTT24","doi":"10.1109/CBMS61543.2024.00078","ee":"https://doi.org/10.1109/CBMS61543.2024.00078","url":"https://dblp.org/rec/conf/cbms/AguiarTT24"},
+"url":"URL#480533"
+},
+{
+"@score":"1",
+"@id":"480534",
+"info":{"authors":{"author":[{"@pid":"216/7828","text":"João Rafael Almeida"},{"@pid":"31/8268","text":"Peter R. Rijnbeek"},{"@pid":"337/5466","text":"Maxim Moinat"},{"@pid":"10/1144","text":"José Luís Oliveira"}]},"title":"Assessing the feasibility of observational data sources for multicenter clinical studies.","venue":"CBMS","pages":"406-411","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AlmeidaRMO24","doi":"10.1109/CBMS61543.2024.00073","ee":"https://doi.org/10.1109/CBMS61543.2024.00073","url":"https://dblp.org/rec/conf/cbms/AlmeidaRMO24"},
+"url":"URL#480534"
+},
+{
+"@score":"1",
+"@id":"480535",
+"info":{"authors":{"author":[{"@pid":"216/7828","text":"João Rafael Almeida"},{"@pid":"121/2117-2","text":"Jorge Miguel Silva"},{"@pid":"382/3535","text":"Luís Carlos Afonso"},{"@pid":"382/3522","text":"Tiago Melo Almeida"},{"@pid":"50/8124-2","text":"Rui Antunes 0002"},{"@pid":"338/5311","text":"Richard A. A. Jonker"},{"@pid":"382/3579","text":"João António Reis"},{"@pid":"382/3812","text":"Dimitri Alexandre da Silva"},{"@pid":"43/7440","text":"Sérgio Matos"},{"@pid":"10/1144","text":"José Luís Oliveira"}]},"title":"HealthDBFinder: a question-answering task for health database discovery.","venue":"CBMS","pages":"100-105","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AlmeidaSAA0JRSM24","doi":"10.1109/CBMS61543.2024.00025","ee":"https://doi.org/10.1109/CBMS61543.2024.00025","url":"https://dblp.org/rec/conf/cbms/AlmeidaSAA0JRSM24"},
+"url":"URL#480535"
+},
+{
+"@score":"1",
+"@id":"480536",
+"info":{"authors":{"author":[{"@pid":"382/3565","text":"Maria Amaro"},{"@pid":"07/4828","text":"Hélder P. Oliveira"},{"@pid":"15/9502","text":"Tânia Pereira 0001"}]},"title":"CNN-based Methods for Survival Prediction using CT images for Lung Cancer Patients.","venue":"CBMS","pages":"290-296","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AmaroO024","doi":"10.1109/CBMS61543.2024.00055","ee":"https://doi.org/10.1109/CBMS61543.2024.00055","url":"https://dblp.org/rec/conf/cbms/AmaroO024"},
+"url":"URL#480536"
+},
+{
+"@score":"1",
+"@id":"480537",
+"info":{"authors":{"author":[{"@pid":"255/0805","text":"Sandeep Angara"},{"@pid":"43/6523","text":"Jongwoo Kim"}]},"title":"Deep Ensemble Learning for Classification of Glaucoma from Smartphone Fundus Images.","venue":"CBMS","pages":"412-417","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AngaraK24","doi":"10.1109/CBMS61543.2024.00074","ee":"https://doi.org/10.1109/CBMS61543.2024.00074","url":"https://dblp.org/rec/conf/cbms/AngaraK24"},
+"url":"URL#480537"
+},
+{
+"@score":"1",
+"@id":"480538",
+"info":{"authors":{"author":[{"@pid":"382/3538","text":"Iker Baruch Medina Anzaldo"},{"@pid":"382/3981","text":"Laura Alejandra Sanroman Santana"},{"@pid":"382/3569","text":"Rachele Vittoria"},{"@pid":"382/4138","text":"Marisol Constantini Islas"},{"@pid":"348/3679","text":"Ivo Netali Ayala-Garcia"},{"@pid":"382/4105","text":"Alejandro Gonzalez"}]},"title":"Measuring Range of Motion and Knee Torque with a Brace.","venue":"CBMS","pages":"33-36","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AnzaldoSVIAG24","doi":"10.1109/CBMS61543.2024.00014","ee":"https://doi.org/10.1109/CBMS61543.2024.00014","url":"https://dblp.org/rec/conf/cbms/AnzaldoSVIAG24"},
+"url":"URL#480538"
+},
+{
+"@score":"1",
+"@id":"480539",
+"info":{"authors":{"author":[{"@pid":"382/3929","text":"Rafael Artiñano-Muñoz"},{"@pid":"244/6379","text":"Lucía Prieto Santamaría"},{"@pid":"73/7800","text":"Aurora Pérez-Pérez"},{"@pid":"63/6099","text":"Alejandro Rodríguez González"}]},"title":"DRAGON: Drug Repurposing via Graph Neural Networks with Drug and Protein Embeddings as Features.","venue":"CBMS","pages":"170-175","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Artinano-MunozS24","doi":"10.1109/CBMS61543.2024.00036","ee":"https://doi.org/10.1109/CBMS61543.2024.00036","url":"https://dblp.org/rec/conf/cbms/Artinano-MunozS24"},
+"url":"URL#480539"
+},
+{
+"@score":"1",
+"@id":"480540",
+"info":{"authors":{"author":[{"@pid":"137/8288","text":"Tetsuya Asakawa"},{"@pid":"243/7575","text":"Hiroki Shinoda"},{"@pid":"217/3774","text":"Kazuki Shimizu"},{"@pid":"378/4094","text":"Kei Nomura"},{"@pid":"48/2961","text":"Masaki Aono"}]},"title":"Estimating degree of coronary artery stenosis severity from non-contrast CT images using CNN.","venue":"CBMS","pages":"9-14","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AsakawaSSNA24","doi":"10.1109/CBMS61543.2024.00010","ee":"https://doi.org/10.1109/CBMS61543.2024.00010","url":"https://dblp.org/rec/conf/cbms/AsakawaSSNA24"},
+"url":"URL#480540"
+},
+{
+"@score":"1",
+"@id":"480541",
+"info":{"authors":{"author":[{"@pid":"203/3022","text":"José Alberto Benítez-Andrades"},{"@pid":"382/3583","text":"Nicolás Ordás-Reyes"},{"@pid":"372/6316","text":"Antonio Serrano-García"},{"@pid":"382/3548","text":"Marta Esteban Blanco"},{"@pid":"382/4028","text":"Jesús Betegón Nicolás"},{"@pid":"382/3587","text":"José Viloria Gutiérrez"},{"@pid":"382/3501","text":"José Ángel Hernández Encinas"},{"@pid":"382/3772","text":"Ana Lozano Muñoz"},{"@pid":"288/2702","text":"Alicia Merayo"},{"@pid":"372/6941","text":"Camino Prada-García"}]},"title":"Machine Learning in Predicting the Success of Spine Surgery: A Multivariable Study.","venue":"CBMS","pages":"303-308","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Benitez-Andrades24","doi":"10.1109/CBMS61543.2024.00057","ee":"https://doi.org/10.1109/CBMS61543.2024.00057","url":"https://dblp.org/rec/conf/cbms/Benitez-Andrades24"},
+"url":"URL#480541"
+},
+{
+"@score":"1",
+"@id":"480542",
+"info":{"authors":{"author":[{"@pid":"296/2723","text":"Juan Carlos Bernal-Romero"},{"@pid":"48/2822","text":"Juan Manuel Ramírez-Cortés"}]},"title":"An open-access database of lead-I ECG signals with practical variability scenarios.","venue":"CBMS","pages":"543-548","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Bernal-RomeroR24","doi":"10.1109/CBMS61543.2024.00096","ee":"https://doi.org/10.1109/CBMS61543.2024.00096","url":"https://dblp.org/rec/conf/cbms/Bernal-RomeroR24"},
+"url":"URL#480542"
+},
+{
+"@score":"1",
+"@id":"480543",
+"info":{"authors":{"author":[{"@pid":"275/7907","text":"Gabriel Maia Bezerra"},{"@pid":"273/7456","text":"Elene F. Ohata"},{"@pid":"275/7322","text":"Luiz Lannes Loureiro"},{"@pid":"333/8641","text":"Victor Zaban Bittencourt"},{"@pid":"333/9519","text":"Valden Luis Matos Capistrano"},{"@pid":"16/9780","text":"Atslands Rego da Rocha"},{"@pid":"91/2760","text":"Pedro Pedrosa Rebouças Filho"}]},"title":"Estimation of Bone Mineral Density using Machine Learning and SHapley Additive exPlanations.","venue":"CBMS","pages":"424-429","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BezerraOLBCRF24","doi":"10.1109/CBMS61543.2024.00076","ee":"https://doi.org/10.1109/CBMS61543.2024.00076","url":"https://dblp.org/rec/conf/cbms/BezerraOLBCRF24"},
+"url":"URL#480543"
+},
+{
+"@score":"1",
+"@id":"480544",
+"info":{"authors":{"author":[{"@pid":"382/3858","text":"Jorge German Perez Blanco"},{"@pid":"382/3738","text":"Marcos Josué Valenzuela Cruz"},{"@pid":"382/3979","text":"Leonel Vázquez Carrasco"},{"@pid":"382/3785","text":"Néstor Andrés Castellanos Velandia"},{"@pid":"174/3212","text":"Luis Carlos Félix-Herrán"},{"@pid":"382/3573","text":"Joel Carlos Huegel West"}]},"title":"Kinematic validation of a wrist training robotic device.","venue":"CBMS","pages":"37-42","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BlancoCCVFW24","doi":"10.1109/CBMS61543.2024.00015","ee":"https://doi.org/10.1109/CBMS61543.2024.00015","url":"https://dblp.org/rec/conf/cbms/BlancoCCVFW24"},
+"url":"URL#480544"
+},
+{
+"@score":"1",
+"@id":"480545",
+"info":{"authors":{"author":[{"@pid":"382/3972","text":"Esteban Ricardo Salazar Cabrera"},{"@pid":"199/0189","text":"Alejandro Santos-Díaz"},{"@pid":"58/1631","text":"Ernestina Menasalvas"},{"@pid":"382/3601","text":"José Gerardo Tamez Pena"},{"@pid":"r/VictorRobles","text":"Victor Robles"}]},"title":"Named Entity Recognition in Mammography Radiology Reports using a Multilingual Transfer Learning Approach.","venue":"CBMS","pages":"273-277","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/CabreraSMPR24","doi":"10.1109/CBMS61543.2024.00052","ee":"https://doi.org/10.1109/CBMS61543.2024.00052","url":"https://dblp.org/rec/conf/cbms/CabreraSMPR24"},
+"url":"URL#480545"
+},
+{
+"@score":"1",
+"@id":"480546",
+"info":{"authors":{"author":[{"@pid":"382/3891","text":"Rodrigo Carrillo"},{"@pid":"275/8413","text":"Carlos Minutti-Martinez"},{"@pid":"382/3653","text":"Paulina Lagunes"}]},"title":"A comprehensive methodology for performing Continued Process Verification.","venue":"CBMS","pages":"284-289","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/CarrilloML24","doi":"10.1109/CBMS61543.2024.00054","ee":"https://doi.org/10.1109/CBMS61543.2024.00054","url":"https://dblp.org/rec/conf/cbms/CarrilloML24"},
+"url":"URL#480546"
+},
+{
+"@score":"1",
+"@id":"480547",
+"info":{"authors":{"author":[{"@pid":"217/5482","text":"Edward Ellis"},{"@pid":"48/5834","text":"Andrew J. Bulpitt"},{"@pid":"14/11430","text":"Sharib Ali"}]},"title":"Ultrasound Image Segmentation and its Evaluation using Various Encoder Architectures.","venue":"CBMS","pages":"477-482","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/EllisBA24","doi":"10.1109/CBMS61543.2024.00085","ee":"https://doi.org/10.1109/CBMS61543.2024.00085","url":"https://dblp.org/rec/conf/cbms/EllisBA24"},
+"url":"URL#480547"
+},
+{
+"@score":"1",
+"@id":"480548",
+"info":{"authors":{"author":[{"@pid":"293/2603","text":"Óscar Escudero-Arnanz"},{"@pid":"211/4197","text":"Rosa Sicilia"},{"@pid":"76/11262","text":"Cristina Soguero-Ruíz"},{"@pid":"18/1713","text":"Inmaculada Mora-Jiménez"},{"@pid":"382/3862","text":"Diana Lelli"},{"@pid":"150/4789","text":"Claudio Pedone"},{"@pid":"154/3529","text":"Antonio G. Marques"}]},"title":"Low-Rank Tensor Completion for Heart Failure Exacerbation Detection in Multivariate Time Series with Missing Data.","venue":"CBMS","pages":"112-119","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Escudero-Arnanz24","doi":"10.1109/CBMS61543.2024.00027","ee":"https://doi.org/10.1109/CBMS61543.2024.00027","url":"https://dblp.org/rec/conf/cbms/Escudero-Arnanz24"},
+"url":"URL#480548"
+},
+{
+"@score":"1",
+"@id":"480549",
+"info":{"authors":{"author":[{"@pid":"281/1997","text":"Ricardo Espinosa"},{"@pid":"382/3735","text":"Javier Cerriteño"},{"@pid":"382/3682","text":"Saul Gonzalez-Dominguez"},{"@pid":"77/7138","text":"Gilberto Ochoa-Ruiz"},{"@pid":"50/986","text":"Christian Daul"}]},"title":"A deep learning-based image pre-processing pipeline for enhanced 3D colon surface reconstruction robust to endoscopic illumination artifacts.","venue":"CBMS","pages":"81-88","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/EspinosaCGOD24","doi":"10.1109/CBMS61543.2024.00022","ee":"https://doi.org/10.1109/CBMS61543.2024.00022","url":"https://dblp.org/rec/conf/cbms/EspinosaCGOD24"},
+"url":"URL#480549"
+},
+{
+"@score":"1",
+"@id":"480550",
+"info":{"authors":{"author":[{"@pid":"281/1997","text":"Ricardo Espinosa"},{"@pid":"275/8310","text":"Eluney Hernández"},{"@pid":"77/7138","text":"Gilberto Ochoa-Ruiz"},{"@pid":"50/986","text":"Christian Daul"}]},"title":"Color-aware Exposure Correction for Endoscopic Imaging using a Lightweight Vision Transformer.","venue":"CBMS","pages":"376-382","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/EspinosaHOD24","doi":"10.1109/CBMS61543.2024.00069","ee":"https://doi.org/10.1109/CBMS61543.2024.00069","url":"https://dblp.org/rec/conf/cbms/EspinosaHOD24"},
+"url":"URL#480550"
+},
+{
+"@score":"1",
+"@id":"480551",
+"info":{"authors":{"author":[{"@pid":"407/7958","text":"Abdelhadi Essamlali"},{"@pid":"323/2506","text":"Aymeric Becq"},{"@pid":"382/4032","text":"Dm. Camus"},{"@pid":"382/4113","text":"L. Arrivé"},{"@pid":"382/3499","text":"M. Chartier"},{"@pid":"382/3717","text":"G. Salin"},{"@pid":"75/1481","text":"Jérôme Szewczyk"},{"@pid":"382/3774","text":"I. Claude"}]},"title":"BDU-Net: A New Application of U-Net to the Segmentation of Bile Ducts from Cholangio-MRI Images.","venue":"CBMS","pages":"533-536","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/EssamlaliBCACSS24","doi":"10.1109/CBMS61543.2024.00094","ee":"https://doi.org/10.1109/CBMS61543.2024.00094","url":"https://dblp.org/rec/conf/cbms/EssamlaliBCACSS24"},
+"url":"URL#480551"
+},
+{
+"@score":"1",
+"@id":"480552",
+"info":{"authors":{"author":[{"@pid":"202/0999","text":"Luís Fernandes"},{"@pid":"15/9502","text":"Tânia Pereira 0001"},{"@pid":"07/4828","text":"Hélder P. Oliveira"}]},"title":"Exploring the differences between Multi-task and Single-task with the use of Explainable AI for lung nodule classification.","venue":"CBMS","pages":"418-423","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/FernandesPO24","doi":"10.1109/CBMS61543.2024.00075","ee":"https://doi.org/10.1109/CBMS61543.2024.00075","url":"https://dblp.org/rec/conf/cbms/FernandesPO24"},
+"url":"URL#480552"
+},
+{
+"@score":"1",
+"@id":"480553",
+"info":{"authors":{"author":[{"@pid":"382/3733","text":"Enrique Fernández-Morales"},{"@pid":"134/2166","text":"Carlos Luis Sánchez-Bocanegra"},{"@pid":"142/4539","text":"Rafael Pastor Vargas"},{"@pid":"382/3860","text":"José-Juan Pereyra-Rodriguez"},{"@pid":"193/2273","text":"Juan Mario Haut"},{"@pid":"203/3022","text":"José Alberto Benítez-Andrades"}]},"title":"Analysis and Detection of Melanoma through Collective Intelligence with AI.","venue":"CBMS","pages":"75-80","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Fernandez-Morales24","doi":"10.1109/CBMS61543.2024.00021","ee":"https://doi.org/10.1109/CBMS61543.2024.00021","url":"https://dblp.org/rec/conf/cbms/Fernandez-Morales24"},
+"url":"URL#480553"
+},
+{
+"@score":"1",
+"@id":"480554",
+"info":{"authors":{"author":[{"@pid":"303/6432","text":"Daniel Flores-Araiza"},{"@pid":"356/3124","text":"Armando Villegas-Jiménez"},{"@pid":"248/9943","text":"Francisco Javier López-Tiro"},{"@pid":"55/6190","text":"Miguel González-Mendoza 0001"},{"@pid":"382/3512","text":"Rosa-Maria Rodríguez-Guéant"},{"@pid":"36/9225","text":"Jacques Hubert"},{"@pid":"77/7138","text":"Gilberto Ochoa-Ruiz"},{"@pid":"50/986","text":"Christian Daul"}]},"title":"On the Link Between Model Performance and Causal Scoring of Medical Image Explanations.","venue":"CBMS","pages":"1-8","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Flores-AraizaVL24","doi":"10.1109/CBMS61543.2024.00009","ee":"https://doi.org/10.1109/CBMS61543.2024.00009","url":"https://dblp.org/rec/conf/cbms/Flores-AraizaVL24"},
+"url":"URL#480554"
+},
+{
+"@score":"1",
+"@id":"480555",
+"info":{"authors":{"author":[{"@pid":"382/3941","text":"Pedro Flores-Ortiz"},{"@pid":"191/9124","text":"Luis Montesinos"},{"@pid":"382/4100","text":"Arturo G. Isla"},{"@pid":"199/0189","text":"Alejandro Santos-Díaz"},{"@pid":"382/3985","text":"Luis Enrique Arroyo-Garcia"}]},"title":"Characterization of hippocampal local field potentials using fractal dimension analysis.","venue":"CBMS","pages":"527-532","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Flores-OrtizMIS24","doi":"10.1109/CBMS61543.2024.00093","ee":"https://doi.org/10.1109/CBMS61543.2024.00093","url":"https://dblp.org/rec/conf/cbms/Flores-OrtizMIS24"},
+"url":"URL#480555"
+},
+{
+"@score":"1",
+"@id":"480556",
+"info":{"authors":{"author":[{"@pid":"382/3968","text":"Ulises Gallardo"},{"@pid":"11/2151","text":"Fernando Caro"},{"@pid":"275/8310","text":"Eluney Hernández"},{"@pid":"281/1997","text":"Ricardo Espinosa"},{"@pid":"77/7138","text":"Gilberto Ochoa-Ruiz"}]},"title":"GYMetricPose: A light-weight angle-based graph adaptation for action quality assessment.","venue":"CBMS","pages":"43-50","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GallardoCHEO24","doi":"10.1109/CBMS61543.2024.00016","ee":"https://doi.org/10.1109/CBMS61543.2024.00016","url":"https://dblp.org/rec/conf/cbms/GallardoCHEO24"},
+"url":"URL#480556"
+},
+{
+"@score":"1",
+"@id":"480557",
+"info":{"authors":{"author":[{"@pid":"328/0653","text":"Alvaro Garcia-Barragán"},{"@pid":"382/3933","text":"Alberto González Calatayud"},{"@pid":"244/6379","text":"Lucía Prieto Santamaría"},{"@pid":"r/VictorRobles","text":"Víctor Robles"},{"@pid":"58/1631","text":"Ernestina Menasalvas"},{"@pid":"63/4667","text":"Alejandro Rodríguez"}]},"title":"Step-forward structuring disease phenotypic entities with LLMs for disease understanding.","venue":"CBMS","pages":"213-218","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Garcia-Barragan24","doi":"10.1109/CBMS61543.2024.00043","ee":"https://doi.org/10.1109/CBMS61543.2024.00043","url":"https://dblp.org/rec/conf/cbms/Garcia-Barragan24"},
+"url":"URL#480557"
+},
+{
+"@score":"1",
+"@id":"480558",
+"info":{"authors":{"author":[{"@pid":"382/3728","text":"Orlando Gonzalez-Ortiz"},{"@pid":"67/7498","text":"Luis Alberto Muñoz-Ubando"},{"@pid":"382/3899","text":"Gonzalo Andrés Soto Fuenzalida"},{"@pid":"382/3828","text":"Gerardo Israel Magallanes Garza"}]},"title":"Evaluating DenseNet121 Neural Network Performance for Cervical Pathology Classification.","venue":"CBMS","pages":"297-302","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Gonzalez-OrtizU24","doi":"10.1109/CBMS61543.2024.00056","ee":"https://doi.org/10.1109/CBMS61543.2024.00056","url":"https://dblp.org/rec/conf/cbms/Gonzalez-OrtizU24"},
+"url":"URL#480558"
+},
+{
+"@score":"1",
+"@id":"480559",
+"info":{"authors":{"author":[{"@pid":"382/4106","text":"Ruben Gonzalez-Perez"},{"@pid":"248/9943","text":"Francisco Javier López-Tiro"},{"@pid":"319/2761","text":"Iván Reyes-Amezcua"},{"@pid":"34/2706","text":"Luis Eduardo Falcón-Morales"},{"@pid":"382/3512","text":"Rosa-Maria Rodríguez-Guéant"},{"@pid":"36/9225","text":"Jacques Hubert"},{"@pid":"68/7413","text":"Michel Daudon"},{"@pid":"77/7138","text":"Gilberto Ochoa-Ruiz"},{"@pid":"50/986","text":"Christian Daul"}]},"title":"Evaluating the plausibility of synthetic images for improving automated endoscopic stone recognition.","venue":"CBMS","pages":"126-133","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Gonzalez-PerezL24","doi":"10.1109/CBMS61543.2024.00029","ee":"https://doi.org/10.1109/CBMS61543.2024.00029","url":"https://dblp.org/rec/conf/cbms/Gonzalez-PerezL24"},
+"url":"URL#480559"
+},
+{
+"@score":"1",
+"@id":"480560",
+"info":{"authors":{"author":[{"@pid":"382/3636","text":"Ricardo Gracelli"},{"@pid":"30/2806","text":"Jurandy Almeida"}]},"title":"Exploring Alternative Data Augmentation Methods in Dysarthric Automatic Speech Recognition.","venue":"CBMS","pages":"243-248","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GracelliA24","doi":"10.1109/CBMS61543.2024.00048","ee":"https://doi.org/10.1109/CBMS61543.2024.00048","url":"https://dblp.org/rec/conf/cbms/GracelliA24"},
+"url":"URL#480560"
+},
+{
+"@score":"1",
+"@id":"480561",
+"info":{"authors":{"author":[{"@pid":"363/0184","text":"Greta Grillo"},{"@pid":"362/9655","text":"Tommaso Torda"},{"@pid":"306/4127","text":"Cecilia Voena"},{"@pid":"343/6224","text":"Andrea Ciardiello"},{"@pid":"343/6267","text":"Stefano Giagu"}]},"title":"Integrating ChatGPT-4: A Novel XAI Interface for Enhanced Clinician Understanding of MRI Image Segmentation Results.","venue":"CBMS","pages":"320-325","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GrilloTVCG24","doi":"10.1109/CBMS61543.2024.00060","ee":"https://doi.org/10.1109/CBMS61543.2024.00060","url":"https://dblp.org/rec/conf/cbms/GrilloTVCG24"},
+"url":"URL#480561"
+},
+{
+"@score":"1",
+"@id":"480562",
+"info":{"authors":{"author":[{"@pid":"354/3314","text":"Marie Guyomard"},{"@pid":"343/6064","text":"Anne-Déborah Bouhnik"},{"@pid":"382/3763","text":"Louis Tassy"},{"@pid":"50/9684","text":"Raquel Ureña"}]},"title":"Encoding breast cancer patients&apos; medical pathways from reimbursement data using representation learning: a benchmark for clustering tasks.","venue":"CBMS","pages":"120-125","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GuyomardBTU24","doi":"10.1109/CBMS61543.2024.00028","ee":"https://doi.org/10.1109/CBMS61543.2024.00028","url":"https://dblp.org/rec/conf/cbms/GuyomardBTU24"},
+"url":"URL#480562"
+},
+{
+"@score":"1",
+"@id":"480563",
+"info":{"authors":{"author":[{"@pid":"276/9706","text":"Daniela Herrera"},{"@pid":"248/9943","text":"Francisco Javier López-Tiro"},{"@pid":"317/6539","text":"Josep Munuera"},{"@pid":"123/9127","text":"Christian Mata"},{"@pid":"55/6190","text":"Miguel González-Mendoza 0001"},{"@pid":"77/7138","text":"Gilberto Ochoa-Ruiz"}]},"title":"Image Enhancement and Segmentation of Magnetic Resonance Cerebral Vessels Through Conventional and Deep Learning Techniques.","venue":"CBMS","pages":"467-472","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/HerreraLMM0O24","doi":"10.1109/CBMS61543.2024.00083","ee":"https://doi.org/10.1109/CBMS61543.2024.00083","url":"https://dblp.org/rec/conf/cbms/HerreraLMM0O24"},
+"url":"URL#480563"
+},
+{
+"@score":"1",
+"@id":"480564",
+"info":{"authors":{"author":[{"@pid":"301/9600","text":"Md Imran Hossain"},{"@pid":"258/8989","text":"Ghada Zamzmi"},{"@pid":"133/9512","text":"Peter R. Mouton"},{"@pid":"62/3689-4","text":"Yu Sun 0004"},{"@pid":"g/DmitryBGoldgof","text":"Dmitry B. Goldgof"}]},"title":"Enhancing Concept-Based Explanation with Vision-Language Models.","venue":"CBMS","pages":"219-224","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/HossainZM0G24","doi":"10.1109/CBMS61543.2024.00044","ee":"https://doi.org/10.1109/CBMS61543.2024.00044","url":"https://dblp.org/rec/conf/cbms/HossainZM0G24"},
+"url":"URL#480564"
+},
+{
+"@score":"1",
+"@id":"480565",
+"info":{"authors":{"author":[{"@pid":"11/729","text":"Lina Huang"},{"@pid":"120/0556","text":"Alina Dana Miron"},{"@pid":"h/KateSHone","text":"Kate Hone"},{"@pid":"11/3062","text":"Yongmin Li 0001"}]},"title":"Segmenting Medical Images: From UNet to Res-UNet and nnUNet.","venue":"CBMS","pages":"483-489","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/HuangMH024","doi":"10.1109/CBMS61543.2024.00086","ee":"https://doi.org/10.1109/CBMS61543.2024.00086","url":"https://dblp.org/rec/conf/cbms/HuangMH024"},
+"url":"URL#480565"
+},
+{
+"@score":"1",
+"@id":"480566",
+"info":{"authors":{"author":[{"@pid":"250/3233","text":"Cristina Luna Jiménez"},{"@pid":"57/5319","text":"Zoraida Callejas"},{"@pid":"69/3758","text":"David Griol"}]},"title":"Mental-Health Topic Classification employing D-vectors of Large Language Models.","venue":"CBMS","pages":"199-204","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/JimenezCG24","doi":"10.1109/CBMS61543.2024.00041","ee":"https://doi.org/10.1109/CBMS61543.2024.00041","url":"https://dblp.org/rec/conf/cbms/JimenezCG24"},
+"url":"URL#480566"
+},
+{
+"@score":"1",
+"@id":"480567",
+"info":{"authors":{"author":[{"@pid":"382/3800","text":"Abhiram Kandiyana"},{"@pid":"133/9512","text":"Peter R. Mouton"},{"@pid":"52/105","text":"Lawrence O. Hall"},{"@pid":"g/DmitryBGoldgof","text":"Dmitry B. Goldgof"}]},"title":"Active Prompting of Vision Language Models for Human-in-the-loop Classification and Explanation of Microscopy Images.","venue":"CBMS","pages":"205-212","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KandiyanaMHG24","doi":"10.1109/CBMS61543.2024.00042","ee":"https://doi.org/10.1109/CBMS61543.2024.00042","url":"https://dblp.org/rec/conf/cbms/KandiyanaMHG24"},
+"url":"URL#480567"
+},
+{
+"@score":"1",
+"@id":"480568",
+"info":{"authors":{"author":[{"@pid":"382/3638","text":"Mohith Surya Kiran Kasula"},{"@pid":"382/3930","text":"Sri Harsha Sudalagunta"},{"@pid":"382/3697","text":"Keerthika Sunchu"},{"@pid":"53/10677","text":"Saptarshi Purkayastha"}]},"title":"Utilizing ETL Processes to Enhance Healthcare Education: Migrating MIMIC-IV to OpenEMR.","venue":"CBMS","pages":"186-191","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KasulaSSP24","doi":"10.1109/CBMS61543.2024.00039","ee":"https://doi.org/10.1109/CBMS61543.2024.00039","url":"https://dblp.org/rec/conf/cbms/KasulaSSP24"},
+"url":"URL#480568"
+},
+{
+"@score":"1",
+"@id":"480569",
+"info":{"authors":{"author":[{"@pid":"340/2612","text":"Iftakhar Ali Khandokar"},{"@pid":"382/3737","text":"Omar Farghaly"},{"@pid":"376/9775","text":"Anai N. Kothari"},{"@pid":"157/0381","text":"Priya Deshpande"}]},"title":"Towards Precision Diagnosis: Integrating Lexical Analysis and Deep Learning for Uncertainty Detection and Quantification in Clinical Reports.","venue":"CBMS","pages":"267-272","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KhandokarFKD24","doi":"10.1109/CBMS61543.2024.00051","ee":"https://doi.org/10.1109/CBMS61543.2024.00051","url":"https://dblp.org/rec/conf/cbms/KhandokarFKD24"},
+"url":"URL#480569"
+},
+{
+"@score":"1",
+"@id":"480570",
+"info":{"authors":{"author":[{"@pid":"370/9267","text":"Asad Khattak"},{"@pid":"382/4133","text":"Muhammad Junaid Asghar"},{"@pid":"382/3977","text":"Naila Tabassum"},{"@pid":"212/0263","text":"Hayat Ullah"},{"@pid":"72/1157","text":"Aurangzeb Khan"},{"@pid":"382/3742","text":"Zubair Asghar"}]},"title":"Proposing an Effective Deep Learning Model for Vitamin D Deficiency Diagnosis.","venue":"CBMS","pages":"51-56","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KhattakATUKA24","doi":"10.1109/CBMS61543.2024.00017","ee":"https://doi.org/10.1109/CBMS61543.2024.00017","url":"https://dblp.org/rec/conf/cbms/KhattakATUKA24"},
+"url":"URL#480570"
+},
+{
+"@score":"1",
+"@id":"480571",
+"info":{"authors":{"author":[{"@pid":"382/3823","text":"Mamoudou Koume"},{"@pid":"382/3794","text":"Lorène Seguin"},{"@pid":"343/6064","text":"Anne-Déborah Bouhnik"},{"@pid":"50/9684","text":"Raquel Ureña"}]},"title":"Predicting Fear of Breast Cancer Recurrence from Healthcare Reimbursement Data using Deep Learning.","venue":"CBMS","pages":"57-60","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KoumeSBU24","doi":"10.1109/CBMS61543.2024.00018","ee":"https://doi.org/10.1109/CBMS61543.2024.00018","url":"https://dblp.org/rec/conf/cbms/KoumeSBU24"},
+"url":"URL#480571"
+},
+{
+"@score":"1",
+"@id":"480572",
+"info":{"authors":{"author":[{"@pid":"273/0114","text":"Zed Lee"},{"@pid":"382/3541","text":"Álfheidur Ástvaldsdóttir"},{"@pid":"116/7190","text":"Hans Sandberg"},{"@pid":"59/3814","text":"Panagiotis Papapetrou"},{"@pid":"132/6571","text":"Uno Fors"}]},"title":"Interpretable Caries Development Prediction with Event Intervals.","venue":"CBMS","pages":"430-435","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LeeASPF24","doi":"10.1109/CBMS61543.2024.00077","ee":"https://doi.org/10.1109/CBMS61543.2024.00077","url":"https://dblp.org/rec/conf/cbms/LeeASPF24"},
+"url":"URL#480572"
+},
+{
+"@score":"1",
+"@id":"480573",
+"info":{"authors":{"author":[{"@pid":"315/7936","text":"Zixian Li"},{"@pid":"302/4781","text":"Yuming Zhong"},{"@pid":"17/221-31","text":"Yi Wang 0031"}]},"title":"Exploring Kinetic Curves Features for the Classification of Benign and Malignant Breast Lesions in DCE-MRI.","venue":"CBMS","pages":"496-501","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LiZ024","doi":"10.1109/CBMS61543.2024.00088","ee":"https://doi.org/10.1109/CBMS61543.2024.00088","url":"https://dblp.org/rec/conf/cbms/LiZ024"},
+"url":"URL#480573"
+},
+{
+"@score":"1",
+"@id":"480574",
+"info":{"authors":{"author":[{"@pid":"345/4056","text":"Alexis Lopez"},{"@pid":"358/1707","text":"Flor Helena Valencia"},{"@pid":"77/7138","text":"Gilberto Ochoa-Ruiz"},{"@pid":"14/11430","text":"Sharib Ali"}]},"title":"Multi-modal detection transformer with data engineering technique to stratify patients with Ulcerative Colitis.","venue":"CBMS","pages":"61-68","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LopezVOA24","doi":"10.1109/CBMS61543.2024.00019","ee":"https://doi.org/10.1109/CBMS61543.2024.00019","url":"https://dblp.org/rec/conf/cbms/LopezVOA24"},
+"url":"URL#480574"
+},
+{
+"@score":"1",
+"@id":"480575",
+"info":{"authors":{"author":[{"@pid":"207/0080","text":"Marco Raoul Marini"},{"@pid":"167/1061","text":"Alessio Mecca"},{"@pid":"93/5522","text":"Gian Luca Foresti"},{"@pid":"64/4176","text":"Luigi Cinque"}]},"title":"A Natural Interaction System for Medical Training through VR Technology.","venue":"CBMS","pages":"237-242","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MariniMFC24","doi":"10.1109/CBMS61543.2024.00047","ee":"https://doi.org/10.1109/CBMS61543.2024.00047","url":"https://dblp.org/rec/conf/cbms/MariniMFC24"},
+"url":"URL#480575"
+},
+{
+"@score":"1",
+"@id":"480576",
+"info":{"authors":{"author":[{"@pid":"97/4904","text":"Enrico Mattei"},{"@pid":"345/3747","text":"Daniele Lozzi"},{"@pid":"315/9445","text":"Alessandro Di Matteo"},{"@pid":"199/9343","text":"Matteo Polsinelli"},{"@pid":"03/3065","text":"Costanzo Manes"},{"@pid":"m/FilippoMignosi","text":"Filippo Mignosi"},{"@pid":"29/6824","text":"Giuseppe Placidi"}]},"title":"Deep Learning Architecture analysis for EEG-Based BCI Classification under Motor Execution.","venue":"CBMS","pages":"549-555","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MatteiLMPMMP24","doi":"10.1109/CBMS61543.2024.00097","ee":"https://doi.org/10.1109/CBMS61543.2024.00097","url":"https://dblp.org/rec/conf/cbms/MatteiLMPMMP24"},
+"url":"URL#480576"
+},
+{
+"@score":"1",
+"@id":"480577",
+"info":{"authors":{"author":[{"@pid":"315/9445","text":"Alessandro Di Matteo"},{"@pid":"345/3747","text":"Daniele Lozzi"},{"@pid":"97/4904","text":"Enrico Mattei"},{"@pid":"m/FilippoMignosi","text":"Filippo Mignosi"},{"@pid":"20/1025","text":"Sara Montagna"},{"@pid":"199/9343","text":"Matteo Polsinelli"},{"@pid":"29/6824","text":"Giuseppe Placidi"}]},"title":"Calibration of the Double Digital Twin for the Hand Rehabilitation by the Virtual Glove.","venue":"CBMS","pages":"521-526","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MatteoLMMMPP24","doi":"10.1109/CBMS61543.2024.00092","ee":"https://doi.org/10.1109/CBMS61543.2024.00092","url":"https://dblp.org/rec/conf/cbms/MatteoLMMMPP24"},
+"url":"URL#480577"
+},
+{
+"@score":"1",
+"@id":"480578",
+"info":{"authors":{"author":[{"@pid":"160/1758","text":"José Mercado"},{"@pid":"251/3888","text":"Yahir Hernandez-Mella"},{"@pid":"87/9693","text":"Ismael Edrein Espinosa-Curiel"},{"@pid":"61/1526","text":"Juan Martínez-Miranda"}]},"title":"Design and Development of a Serious Game to Prevent Substance Use in Mexican Scholars.","venue":"CBMS","pages":"398-405","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MercadoHEM24","doi":"10.1109/CBMS61543.2024.00072","ee":"https://doi.org/10.1109/CBMS61543.2024.00072","url":"https://dblp.org/rec/conf/cbms/MercadoHEM24"},
+"url":"URL#480578"
+},
+{
+"@score":"1",
+"@id":"480579",
+"info":{"authors":{"author":[{"@pid":"382/3690","text":"Joel Ramos Michaliszen"},{"@pid":"382/3495","text":"João Carlos N. Fernandes"},{"@pid":"382/4007","text":"Calleo Belo Barroso"},{"@pid":"205/0478","text":"Leandro Bezerra Marinho"},{"@pid":"204/2558","text":"Suane Pires Pinheiro da Silva"},{"@pid":"91/2760","text":"Pedro Pedrosa Rebouças Filho"},{"@pid":"359/0382","text":"Navar Medeiros M. Nascimento"}]},"title":"A Novel Segmentation Approach Utilizing Object Detection Techniques as Prompts for a Zero-Shot System in Hemorrhagic Stroke Segmentation in CT Images.","venue":"CBMS","pages":"278-283","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MichaliszenFBMS24","doi":"10.1109/CBMS61543.2024.00053","ee":"https://doi.org/10.1109/CBMS61543.2024.00053","url":"https://dblp.org/rec/conf/cbms/MichaliszenFBMS24"},
+"url":"URL#480579"
+},
+{
+"@score":"1",
+"@id":"480580",
+"info":{"authors":{"author":[{"@pid":"382/4069","text":"Yusdivia Molina"},{"@pid":"382/3869","text":"Jorge G. Iglesias"},{"@pid":"191/9124","text":"Luis Montesinos"}]},"title":"A data-driven approach on COVID-19 restrictions and its effectiveness in Latin America.","venue":"CBMS","pages":"176-181","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MolinaIM24","doi":"10.1109/CBMS61543.2024.00037","ee":"https://doi.org/10.1109/CBMS61543.2024.00037","url":"https://dblp.org/rec/conf/cbms/MolinaIM24"},
+"url":"URL#480580"
+},
+{
+"@score":"1",
+"@id":"480581",
+"info":{"authors":{"author":[{"@pid":"240/9154","text":"Lena Mondrejevski"},{"@pid":"340/0111","text":"Franco Rugolon"},{"@pid":"150/4969","text":"Ioanna Miliou"},{"@pid":"59/3814","text":"Panagiotis Papapetrou"}]},"title":"MASICU: A Multimodal Attention-based classifier for Sepsis mortality prediction in the ICU.","venue":"CBMS","pages":"326-331","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MondrejevskiRMP24","doi":"10.1109/CBMS61543.2024.00061","ee":"https://doi.org/10.1109/CBMS61543.2024.00061","url":"https://dblp.org/rec/conf/cbms/MondrejevskiRMP24"},
+"url":"URL#480581"
+},
+{
+"@score":"1",
+"@id":"480582",
+"info":{"authors":{"author":[{"@pid":"382/3488","text":"Jules Morata"},{"@pid":"30/5985","text":"David Bernard"},{"@pid":"260/3032","text":"Kévin Cortacero"},{"@pid":"382/4119","text":"Clément Eloire"},{"@pid":"382/3958","text":"Mehdi Ech-Chouini"},{"@pid":"382/3923","text":"Emmanuelle Vigarios"},{"@pid":"382/4020","text":"Steven Ceccarel"},{"@pid":"382/3942","text":"Delphine Comtesse-Maret"},{"@pid":"11/8432","text":"Thomas Filleron"},{"@pid":"34/2688","text":"Sandrine Mouysset"},{"@pid":"10/5160","text":"Sylvain Cussat-Blanc"}]},"title":"Seadra : a fully customizable and user-friendly application for image annotation and segmentation.","venue":"CBMS","pages":"473-476","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MorataBCEEVCCFM24","doi":"10.1109/CBMS61543.2024.00084","ee":"https://doi.org/10.1109/CBMS61543.2024.00084","url":"https://dblp.org/rec/conf/cbms/MorataBCEEVCCFM24"},
+"url":"URL#480582"
+},
+{
+"@score":"1",
+"@id":"480583",
+"info":{"authors":{"author":[{"@pid":"382/3496","text":"Antonio Nadal-Martínez"},{"@pid":"254/4750","text":"Lidia Talavera-Martínez"},{"@pid":"254/8493","text":"Marc Munar"},{"@pid":"91/2286","text":"Manuel González Hidalgo"}]},"title":"Convolutional neural network architectures and aggregation information models for pulmonary X-ray segmentation.","venue":"CBMS","pages":"350-357","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Nadal-MartinezT24","doi":"10.1109/CBMS61543.2024.00065","ee":"https://doi.org/10.1109/CBMS61543.2024.00065","url":"https://dblp.org/rec/conf/cbms/Nadal-MartinezT24"},
+"url":"URL#480583"
+},
+{
+"@score":"1",
+"@id":"480584",
+"info":{"authors":{"author":[{"@pid":"267/9715","text":"Shahad Nagoor"},{"@pid":"15/1071","text":"Lucy Hederman"},{"@pid":"02/5205","text":"Kevin Koidl"},{"@pid":"382/3816","text":"Ignacio Martin-Loeches"}]},"title":"Distinguishing Clinical Sentiment in Intensive Care Unit Clinical Notes.","venue":"CBMS","pages":"249-259","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/NagoorHKM24","doi":"10.1109/CBMS61543.2024.00049","ee":"https://doi.org/10.1109/CBMS61543.2024.00049","url":"https://dblp.org/rec/conf/cbms/NagoorHKM24"},
+"url":"URL#480584"
+},
+{
+"@score":"1",
+"@id":"480585",
+"info":{"authors":{"author":[{"@pid":"178/7923","text":"Guilherme C. Oliveira"},{"@pid":"305/1708","text":"Quoc Cuong Ngo"},{"@pid":"96/3441","text":"João P. Papa"},{"@pid":"27/4020","text":"Dinesh Kant Kumar"}]},"title":"A Stable Diffusion Approach for RGB to Thermal Image Conversion for Leg Ulcer Assessment.","venue":"CBMS","pages":"158-163","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/OliveiraNPK24","doi":"10.1109/CBMS61543.2024.00034","ee":"https://doi.org/10.1109/CBMS61543.2024.00034","url":"https://dblp.org/rec/conf/cbms/OliveiraNPK24"},
+"url":"URL#480585"
+},
+{
+"@score":"1",
+"@id":"480586",
+"info":{"authors":{"author":[{"@pid":"178/7923","text":"Guilherme C. Oliveira"},{"@pid":"89/174","text":"Nemuel Daniel Pah"},{"@pid":"305/1708","text":"Quoc Cuong Ngo"},{"@pid":"96/3441","text":"João P. Papa"},{"@pid":"27/4020","text":"Dinesh Kant Kumar"}]},"title":"NestNeuro: Leveraging Chatbots for Vocal Screening.","venue":"CBMS","pages":"182-185","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/OliveiraPNPK24","doi":"10.1109/CBMS61543.2024.00038","ee":"https://doi.org/10.1109/CBMS61543.2024.00038","url":"https://dblp.org/rec/conf/cbms/OliveiraPNPK24"},
+"url":"URL#480586"
+},
+{
+"@score":"1",
+"@id":"480587",
+"info":{"authors":{"author":[{"@pid":"352/2778","text":"Alfredo Ormazabal"},{"@pid":"93/2222","text":"Damon Berry"},{"@pid":"15/1071","text":"Lucy Hederman"}]},"title":"Co-development of a tool to help clinicians decide upon the trustworthiness of Patient Generated Health Data.","venue":"CBMS","pages":"442-449","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/OrmazabalBH24","doi":"10.1109/CBMS61543.2024.00079","ee":"https://doi.org/10.1109/CBMS61543.2024.00079","url":"https://dblp.org/rec/conf/cbms/OrmazabalBH24"},
+"url":"URL#480587"
+},
+{
+"@score":"1",
+"@id":"480588",
+"info":{"authors":{"author":[{"@pid":"367/4188","text":"Atika Rahman Paddo"},{"@pid":"142/3773","text":"Shikhar Shukla"},{"@pid":"382/3918","text":"Shomita S. Steiner"},{"@pid":"53/10677","text":"Saptarshi Purkayastha"},{"@pid":"82/9208","text":"Chandan K. Sen"}]},"title":"Interpolating and Forecasting Wound Trajectory using Machine Learning Approaches.","venue":"CBMS","pages":"146-152","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PaddoSSPS24","doi":"10.1109/CBMS61543.2024.00032","ee":"https://doi.org/10.1109/CBMS61543.2024.00032","url":"https://dblp.org/rec/conf/cbms/PaddoSSPS24"},
+"url":"URL#480588"
+},
+{
+"@score":"1",
+"@id":"480589",
+"info":{"authors":{"author":[{"@pid":"382/3675","text":"Manas Sanjay Pakalapati"},{"@pid":"g/DmitryBGoldgof","text":"Dmitry B. Goldgof"},{"@pid":"52/105","text":"Lawrence O. Hall"},{"@pid":"258/8989","text":"Ghada Zamzmi"}]},"title":"Anonymized Identity Tracking: Privacy Preserving Facial Encoding.","venue":"CBMS","pages":"89-93","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PakalapatiGHZ24","doi":"10.1109/CBMS61543.2024.00023","ee":"https://doi.org/10.1109/CBMS61543.2024.00023","url":"https://dblp.org/rec/conf/cbms/PakalapatiGHZ24"},
+"url":"URL#480589"
+},
+{
+"@score":"1",
+"@id":"480590",
+"info":{"authors":{"author":[{"@pid":"360/6693","text":"Angel Ernesto Picazo-Castillo"},{"@pid":"382/3840","text":"Lizbeth A. Náfate Lázaro"},{"@pid":"382/3806","text":"Dennis F. Ruiz Camera"},{"@pid":"83/8217","text":"Raquel Díaz-Hernández"},{"@pid":"r/LeopoldoAltamiranoRobles","text":"Leopoldo Altamirano Robles"},{"@pid":"84/2574","text":"Saúl Zapotecas Martínez"},{"@pid":"70/6092","text":"Salvador Eugenio Ayala-Raggi"}]},"title":"Improving COVID-19 Recognition: A Study of Contrast Enhancement Techniques and Normalization in Chest X-Rays Images.","venue":"CBMS","pages":"358-363","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Picazo-Castillo24","doi":"10.1109/CBMS61543.2024.00066","ee":"https://doi.org/10.1109/CBMS61543.2024.00066","url":"https://dblp.org/rec/conf/cbms/Picazo-Castillo24"},
+"url":"URL#480590"
+},
+{
+"@score":"1",
+"@id":"480591",
+"info":{"authors":{"author":[{"@pid":"200/5747","text":"Jean R. Ponciano"},{"@pid":"135/8726","text":"Mirela T. Cazzolato"},{"@pid":"62/2558-1","text":"Marco Antonio Gutierrez 0001"},{"@pid":"t/CaetanoTrainaJr","text":"Caetano Traina"},{"@pid":"t/AgmaJMTraina","text":"Agma J. M. Traina"}]},"title":"A symptom-based community-weighted similarity approach for inpatient health condition monitoring.","venue":"CBMS","pages":"260-266","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PoncianoC0TT24","doi":"10.1109/CBMS61543.2024.00050","ee":"https://doi.org/10.1109/CBMS61543.2024.00050","url":"https://dblp.org/rec/conf/cbms/PoncianoC0TT24"},
+"url":"URL#480591"
+},
+{
+"@score":"1",
+"@id":"480592",
+"info":{"authors":{"author":[{"@pid":"382/3662","text":"Hariharan Ramesh"},{"@pid":"367/8702","text":"Abdulla Al-Serkal"},{"@pid":"382/3911","text":"Houssein Kanso"},{"@pid":"382/3990","text":"Noora Aljallaf"},{"@pid":"47/9288","text":"Jinane Mounsef"}]},"title":"Cerviscan: Advancing Cervical Cancer Detection through Deep Learning Innovations.","venue":"CBMS","pages":"344-349","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RameshAKAM24","doi":"10.1109/CBMS61543.2024.00064","ee":"https://doi.org/10.1109/CBMS61543.2024.00064","url":"https://dblp.org/rec/conf/cbms/RameshAKAM24"},
+"url":"URL#480592"
+},
+{
+"@score":"1",
+"@id":"480593",
+"info":{"authors":{"author":[{"@pid":"288/0396","text":"Oscar Ramos-Soto"},{"@pid":"369/6060","text":"Ángel Casas-Ordaz"},{"@pid":"37/10395","text":"Diego Oliva"},{"@pid":"288/0103","text":"Sandra E. Balderas-Mata"},{"@pid":"84/2574","text":"Saúl Zapotecas Martínez"}]},"title":"Enhancing Retinal OCT Scans via Metaheuristic-Driven Bayesian Speckle Denoising.","venue":"CBMS","pages":"332-337","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Ramos-SotoCOBM24","doi":"10.1109/CBMS61543.2024.00062","ee":"https://doi.org/10.1109/CBMS61543.2024.00062","url":"https://dblp.org/rec/conf/cbms/Ramos-SotoCOBM24"},
+"url":"URL#480593"
+},
+{
+"@score":"1",
+"@id":"480594",
+"info":{"authors":{"author":[{"@pid":"08/9815","text":"Mohsin Raza"},{"@pid":"63/2017","text":"Asad Masood Khattak"},{"@pid":"185/9966","text":"Wasim Abbas"},{"@pid":"332/5255","text":"Adil Khan"}]},"title":"Global Knowledge, Local Impact: Domain Adaptation and Classification for Obesity in the UAE.","venue":"CBMS","pages":"21-26","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RazaKAK24","doi":"10.1109/CBMS61543.2024.00012","ee":"https://doi.org/10.1109/CBMS61543.2024.00012","url":"https://dblp.org/rec/conf/cbms/RazaKAK24"},
+"url":"URL#480594"
+},
+{
+"@score":"1",
+"@id":"480595",
+"info":{"authors":{"author":[{"@pid":"382/3617","text":"Manoella Rockembach"},{"@pid":"382/4031","text":"Rodrigo Ferraz Souza"},{"@pid":"w/AldovonWangenheim","text":"Aldo von Wangenheim"},{"@pid":"14/7738","text":"Antonio Carlos Sobieranski"}]},"title":"Computer Vision-based Approach for Automated Recognition of Interference Patterns in Digital Inline Holography Microscopy.","venue":"CBMS","pages":"364-369","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RockembachSWS24","doi":"10.1109/CBMS61543.2024.00067","ee":"https://doi.org/10.1109/CBMS61543.2024.00067","url":"https://dblp.org/rec/conf/cbms/RockembachSWS24"},
+"url":"URL#480595"
+},
+{
+"@score":"1",
+"@id":"480596",
+"info":{"authors":{"author":[{"@pid":"354/7516","text":"Ayush Roy"},{"@pid":"381/4249","text":"Anurag Bhattacharjee"},{"@pid":"37/10395","text":"Diego Oliva"},{"@pid":"288/0396","text":"Oscar Ramos-Soto"},{"@pid":"381/4078","text":"Francisco J. Alvarez-Padilla"},{"@pid":"03/5563","text":"Ram Sarkar"}]},"title":"FA-Net: A Fuzzy Attention-aided Deep Neural Network for Pneumonia Detection in Chest X-Rays.","venue":"CBMS","pages":"338-343","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RoyBORAS24","doi":"10.1109/CBMS61543.2024.00063","ee":"https://doi.org/10.1109/CBMS61543.2024.00063","url":"https://dblp.org/rec/conf/cbms/RoyBORAS24"},
+"url":"URL#480596"
+},
+{
+"@score":"1",
+"@id":"480597",
+"info":{"authors":{"author":[{"@pid":"382/3706","text":"Fernando Sánchez-Hernández"},{"@pid":"382/3810","text":"Esteban Martínez-Guerrero"},{"@pid":"228/5232","text":"Cuauhtémoc R. Aguilera-Galicia"},{"@pid":"131/0575","text":"José Luis Chávez-Hurtado"},{"@pid":"42/2378","text":"Jaime Ramírez-Angulo"},{"@pid":"382/3889","text":"Elsie Evelyn Araujo-Palomo"},{"@pid":"309/7040","text":"Patricia G. López-Cárdenas"}]},"title":"Ultralow Current Measurement Circuit with Active Closed-Loop Control for Hydrogen Peroxide Detection in Glucose Levels Healthcare.","venue":"CBMS","pages":"508-513","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Sanchez-Hernandez24","doi":"10.1109/CBMS61543.2024.00090","ee":"https://doi.org/10.1109/CBMS61543.2024.00090","url":"https://dblp.org/rec/conf/cbms/Sanchez-Hernandez24"},
+"url":"URL#480597"
+},
+{
+"@score":"1",
+"@id":"480598",
+"info":{"authors":{"author":[{"@pid":"372/3966","text":"Nohemí Sánchez-Medel"},{"@pid":"343/2119","text":"Víctor Romero Bautista"},{"@pid":"83/8217","text":"Raquel Díaz-Hernández"},{"@pid":"r/LeopoldoAltamiranoRobles","text":"Leopoldo Altamirano Robles"}]},"title":"Dermatological imaging of skin lesions in different skin phototypes using style transfer.","venue":"CBMS","pages":"556-561","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Sanchez-MedelBD24","doi":"10.1109/CBMS61543.2024.00098","ee":"https://doi.org/10.1109/CBMS61543.2024.00098","url":"https://dblp.org/rec/conf/cbms/Sanchez-MedelBD24"},
+"url":"URL#480598"
+},
+{
+"@score":"1",
+"@id":"480599",
+"info":{"authors":{"author":[{"@pid":"276/7422","text":"Lucas de Oliveira Santos"},{"@pid":"382/3822","text":"Iágson Carlos L. Silva"},{"@pid":"326/3714","text":"Matheus A. dos Santos"},{"@pid":"213/1744","text":"Aldísio Gonçalves Medeiros"},{"@pid":"91/2760","text":"Pedro Pedrosa Rebouças Filho"}]},"title":"Efficient Classification of Depression using EEG through Spectral Graph Analysis.","venue":"CBMS","pages":"537-542","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SantosSSMF24","doi":"10.1109/CBMS61543.2024.00095","ee":"https://doi.org/10.1109/CBMS61543.2024.00095","url":"https://dblp.org/rec/conf/cbms/SantosSSMF24"},
+"url":"URL#480599"
+},
+{
+"@score":"1",
+"@id":"480600",
+"info":{"authors":{"author":[{"@pid":"326/5979","text":"Juliet Polok Sarkar"},{"@pid":"41/4857","text":"András Hajdu"}]},"title":"Comparative Analysis of Deep Learning Methods for Schizophrenia Classification from fMRI Scans.","venue":"CBMS","pages":"69-74","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SarkarH24","doi":"10.1109/CBMS61543.2024.00020","ee":"https://doi.org/10.1109/CBMS61543.2024.00020","url":"https://dblp.org/rec/conf/cbms/SarkarH24"},
+"url":"URL#480600"
+},
+{
+"@score":"1",
+"@id":"480601",
+"info":{"authors":{"author":[{"@pid":"208/6813","text":"Miro Schleicher"},{"@pid":"55/2890","text":"Rüdiger Pryss"},{"@pid":"135/3115","text":"Johannes Schobel"},{"@pid":"26/11222","text":"Winfried Schlee"},{"@pid":"s/MyraSpiliopoulou","text":"Myra Spiliopoulou"}]},"title":"Predicting User Engagement in mHealth Apps with Neighborhood-based Approaches.","venue":"CBMS","pages":"391-397","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SchleicherPSSS24","doi":"10.1109/CBMS61543.2024.00071","ee":"https://doi.org/10.1109/CBMS61543.2024.00071","url":"https://dblp.org/rec/conf/cbms/SchleicherPSSS24"},
+"url":"URL#480601"
+},
+{
+"@score":"1",
+"@id":"480602",
+"info":{"authors":{"author":[{"@pid":"55/4736","text":"Yu Shi"},{"@pid":"269/2960","text":"Mingxiao Liu"},{"@pid":"341/6708","text":"Sophie Dewil"},{"@pid":"287/1437","text":"Noam Y. Harel"},{"@pid":"269/3095","text":"Sean Sanford"},{"@pid":"123/5571","text":"Raviraj Nataraj"}]},"title":"Augmented Sensory Feedback during Training of Upper Extremity Function in Virtual Reality.","venue":"CBMS","pages":"231-236","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ShiLDHSN24","doi":"10.1109/CBMS61543.2024.00046","ee":"https://doi.org/10.1109/CBMS61543.2024.00046","url":"https://dblp.org/rec/conf/cbms/ShiLDHSN24"},
+"url":"URL#480602"
+},
+{
+"@score":"1",
+"@id":"480603",
+"info":{"authors":{"author":[{"@pid":"382/3980","text":"Gilson Yuuji Shimizu"},{"@pid":"382/3740","text":"Elen Almeida Romão"},{"@pid":"382/3770","text":"José Abrão Cardeal Da Costa"},{"@pid":"315/3556","text":"João Mazzoncini de Azevedo Marques"},{"@pid":"382/3787","text":"Sandro Scarpelini"},{"@pid":"134/2334","text":"Kátia Mitiko Firmino Suzuki"},{"@pid":"139/2318","text":"Hilton Vicente César"},{"@pid":"57/2326","text":"Paulo M. Azevedo-Marques"}]},"title":"External validation and interpretability of machine learning-based risk prediction for major adverse cardiovascular events.","venue":"CBMS","pages":"140-145","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ShimizuRCMSSCA24","doi":"10.1109/CBMS61543.2024.00031","ee":"https://doi.org/10.1109/CBMS61543.2024.00031","url":"https://dblp.org/rec/conf/cbms/ShimizuRCMSSCA24"},
+"url":"URL#480603"
+},
+{
+"@score":"1",
+"@id":"480604",
+"info":{"authors":{"author":[{"@pid":"382/3917","text":"João Silva-Leite"},{"@pid":"168/7315","text":"Cristina A. P. Fontes"},{"@pid":"382/4049","text":"Alair S. Santos"},{"@pid":"382/3820","text":"Diogo G. Correa"},{"@pid":"218/0880","text":"Marcel Koenigkam-Santos"},{"@pid":"57/2326","text":"Paulo M. Azevedo-Marques"},{"@pid":"68/7553-1","text":"Daniel de Oliveira 0001"},{"@pid":"95/4928","text":"Aline Paes"},{"@pid":"133/1121","text":"Marcos V. N. Bedo"}]},"title":"Aggregating embeddings from image and radiology reports for multimodal Chest-CT retrieval.","venue":"CBMS","pages":"309-314","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Silva-LeiteFSCK24","doi":"10.1109/CBMS61543.2024.00058","ee":"https://doi.org/10.1109/CBMS61543.2024.00058","url":"https://dblp.org/rec/conf/cbms/Silva-LeiteFSCK24"},
+"url":"URL#480604"
+},
+{
+"@score":"1",
+"@id":"480605",
+"info":{"authors":{"author":[{"@pid":"382/3698","text":"Marcelo Colares da Silva"},{"@pid":"382/3646","text":"Caio Marques Silva"},{"@pid":"273/7888","text":"Alexis Galeno Matos"},{"@pid":"204/2558","text":"Suane Pires Pinheiro da Silva"},{"@pid":"201/6702","text":"Róger Moura Sarmento"},{"@pid":"91/2760","text":"Pedro Pedrosa Rebouças Filho"},{"@pid":"359/0382","text":"Navar Medeiros M. Nascimento"},{"@pid":"273/7552","text":"Rhuan Victor Crescencio Santiago"},{"@pid":"273/7421","text":"Cilis Aragao Benevides"},{"@pid":"273/7666","text":"Caio Cesar Henrique Cunha"}]},"title":"A New Diabetic Retinopathy Classification Approach Based on Normalizer Free Network.","venue":"CBMS","pages":"164-169","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SilvaSMSSFNSBC24","doi":"10.1109/CBMS61543.2024.00035","ee":"https://doi.org/10.1109/CBMS61543.2024.00035","url":"https://dblp.org/rec/conf/cbms/SilvaSMSSFNSBC24"},
+"url":"URL#480605"
+},
+{
+"@score":"1",
+"@id":"480606",
+"info":{"authors":{"author":[{"@pid":"382/3646","text":"Caio Marques Silva"},{"@pid":"382/3698","text":"Marcelo Colares da Silva"},{"@pid":"204/2558","text":"Suane Pires Pinheiro da Silva"},{"@pid":"91/2760","text":"Pedro Pedrosa Rebouças Filho"},{"@pid":"359/0382","text":"Navar Medeiros M. Nascimento"}]},"title":"Computer Vision for Brain Tumor Classification: A Novel Approach Based on Zernike Moments.","venue":"CBMS","pages":"94-99","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SilvaSSFN24","doi":"10.1109/CBMS61543.2024.00024","ee":"https://doi.org/10.1109/CBMS61543.2024.00024","url":"https://dblp.org/rec/conf/cbms/SilvaSSFN24"},
+"url":"URL#480606"
+},
+{
+"@score":"1",
+"@id":"480607",
+"info":{"authors":{"author":[{"@pid":"382/4031","text":"Rodrigo Ferraz Souza"},{"@pid":"382/3617","text":"Manoella Rockembach"},{"@pid":"382/3932","text":"Bruna Samantha Marchi"},{"@pid":"338/4584","text":"Marcelo Fernandes Costa"},{"@pid":"382/4005","text":"Cristiane Aparecida Moran"},{"@pid":"14/7738","text":"Antonio Carlos Sobieranski"}]},"title":"Computer Vision and Eyetracking Approach for Assessing Visual Disorders in Premature Infants.","venue":"CBMS","pages":"370-375","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SouzaRMCMS24","doi":"10.1109/CBMS61543.2024.00068","ee":"https://doi.org/10.1109/CBMS61543.2024.00068","url":"https://dblp.org/rec/conf/cbms/SouzaRMCMS24"},
+"url":"URL#480607"
+},
+{
+"@score":"1",
+"@id":"480608",
+"info":{"authors":{"author":[{"@pid":"382/3754","text":"Jakob Svane"},{"@pid":"174/0121","text":"Tomasz Wiktorski"},{"@pid":"00/7092","text":"Trygve Eftestøl"},{"@pid":"48/10698","text":"Stein Ørn"}]},"title":"Machine Learning Methods For Classification of Individuals With Coronary Artery Calcification.","venue":"CBMS","pages":"27-32","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SvaneWEO24","doi":"10.1109/CBMS61543.2024.00013","ee":"https://doi.org/10.1109/CBMS61543.2024.00013","url":"https://dblp.org/rec/conf/cbms/SvaneWEO24"},
+"url":"URL#480608"
+},
+{
+"@score":"1",
+"@id":"480609",
+"info":{"authors":{"author":[{"@pid":"380/9606","text":"Wiley Tam"},{"@pid":"07/797","text":"Jean-Louis Dillenseger"},{"@pid":"65/6754","text":"Paul S. Babyn"},{"@pid":"93/1026","text":"Javad Alirezaie"}]},"title":"Rib Segmentation in Surgical Images for Video-Assisted Thoracoscopic Surgery.","venue":"CBMS","pages":"450-455","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/TamDBA24","doi":"10.1109/CBMS61543.2024.00080","ee":"https://doi.org/10.1109/CBMS61543.2024.00080","url":"https://dblp.org/rec/conf/cbms/TamDBA24"},
+"url":"URL#480609"
+},
+{
+"@score":"1",
+"@id":"480610",
+"info":{"authors":{"author":[{"@pid":"241/4165","text":"Mansoor Ali Teevno"},{"@pid":"329/4327","text":"Rafael Martinez Garcia Peña"},{"@pid":"77/7138","text":"Gilberto Ochoa-Ruiz"},{"@pid":"14/11430","text":"Sharib Ali"}]},"title":"Domain Generalization for Endoscopic Image Segmentation by Disentangling Style-Content Information and SuperPixel Consistency.","venue":"CBMS","pages":"383-390","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/TeevnoPOA24","doi":"10.1109/CBMS61543.2024.00070","ee":"https://doi.org/10.1109/CBMS61543.2024.00070","url":"https://dblp.org/rec/conf/cbms/TeevnoPOA24"},
+"url":"URL#480610"
+},
+{
+"@score":"1",
+"@id":"480611",
+"info":{"authors":{"author":[{"@pid":"382/3515","text":"María Marín Tercero"},{"@pid":"244/6379","text":"Lucía Prieto Santamaría"},{"@pid":"63/6099","text":"Alejandro Rodríguez González"}]},"title":"Exploring Drug Repurposing Opportunities for Schizophrenia: A Network Medicine Approach.","venue":"CBMS","pages":"106-111","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/TerceroSR24","doi":"10.1109/CBMS61543.2024.00026","ee":"https://doi.org/10.1109/CBMS61543.2024.00026","url":"https://dblp.org/rec/conf/cbms/TerceroSR24"},
+"url":"URL#480611"
+},
+{
+"@score":"1",
+"@id":"480612",
+"info":{"authors":{"author":[{"@pid":"315/4579","text":"Yanexis Pupo Toledo"},{"@pid":"366/8752","text":"Andre Luiz da S. Pereira"},{"@pid":"315/5082","text":"Alexis P. Quesada"},{"@pid":"227/5812","text":"Rogério Ferreira de Moraes"},{"@pid":"71/4984","text":"Silena Herold-García"},{"@pid":"48/5542","text":"Leandro A. F. Fernandes"}]},"title":"Scalable Segmentation of Diabetic Foot Ulcers.","venue":"CBMS","pages":"514-520","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ToledoPQMHF24","doi":"10.1109/CBMS61543.2024.00091","ee":"https://doi.org/10.1109/CBMS61543.2024.00091","url":"https://dblp.org/rec/conf/cbms/ToledoPQMHF24"},
+"url":"URL#480612"
+},
+{
+"@score":"1",
+"@id":"480613",
+"info":{"authors":{"author":[{"@pid":"382/3885","text":"Yalcin Tur"},{"@pid":"274/3392","text":"Jasmine Vu"},{"@pid":"246/8478","text":"Selam Waktola"},{"@pid":"359/3255","text":"Alpay Medetalibeyoglu"},{"@pid":"198/0254","text":"Laleh Golestanirad"},{"@pid":"83/6388","text":"Ulas Bagci"}]},"title":"Prediction of MRI-Induced Power Absorption in Patients with DBS Leads.","venue":"CBMS","pages":"490-495","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/TurVWMGB24","doi":"10.1109/CBMS61543.2024.00087","ee":"https://doi.org/10.1109/CBMS61543.2024.00087","url":"https://dblp.org/rec/conf/cbms/TurVWMGB24"},
+"url":"URL#480613"
+},
+{
+"@score":"1",
+"@id":"480614",
+"info":{"authors":{"author":[{"@pid":"382/3494","text":"Luis Humberto S. Vaca"},{"@pid":"382/4126","text":"Luis Fernando Román-Padilla"},{"@pid":"212/6104","text":"Omar Mendoza-Montoya"},{"@pid":"38/7736","text":"Javier Mauricio Antelis"}]},"title":"AR-assisted navigation of a mobile robot controlled by an SSVEP-based BCI.","venue":"CBMS","pages":"225-230","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/VacaRMA24","doi":"10.1109/CBMS61543.2024.00045","ee":"https://doi.org/10.1109/CBMS61543.2024.00045","url":"https://dblp.org/rec/conf/cbms/VacaRMA24"},
+"url":"URL#480614"
+},
+{
+"@score":"1",
+"@id":"480615",
+"info":{"authors":{"author":[{"@pid":"382/3791","text":"Phani Sriram Vadali"},{"@pid":"382/4070","text":"Bhuvan Jayam"},{"@pid":"273/2835","text":"Pon Deepika"},{"@pid":"161/3316","text":"Madhav Rao"},{"@pid":"273/2852","text":"Vikas Vazhayil"}]},"title":"Computer Assisted Phase Recognition of Micro-Neurosurgical Intraoperative Videos.","venue":"CBMS","pages":"456-460","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/VadaliJDRV24","doi":"10.1109/CBMS61543.2024.00081","ee":"https://doi.org/10.1109/CBMS61543.2024.00081","url":"https://dblp.org/rec/conf/cbms/VadaliJDRV24"},
+"url":"URL#480615"
+},
+{
+"@score":"1",
+"@id":"480616",
+"info":{"authors":{"author":[{"@pid":"382/3866","text":"Pedro Vale"},{"@pid":"382/3950","text":"Jennifer Boer"},{"@pid":"07/4828","text":"Hélder P. Oliveira"},{"@pid":"15/9502","text":"Tânia Pereira 0001"}]},"title":"Deep Learning Models to Predict Brain Cancer Grade Through MRI Analysis.","venue":"CBMS","pages":"153-157","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ValeBO024","doi":"10.1109/CBMS61543.2024.00033","ee":"https://doi.org/10.1109/CBMS61543.2024.00033","url":"https://dblp.org/rec/conf/cbms/ValeBO024"},
+"url":"URL#480616"
+},
+{
+"@score":"1",
+"@id":"480617",
+"info":{"authors":{"author":[{"@pid":"119/6669","text":"Jorge Valverde-Rebaza"},{"@pid":"382/3696","text":"Guilherme R. Andreis"},{"@pid":"382/4121","text":"Pedro Shiguihara"},{"@pid":"382/3771","text":"Sebastián Paucar"},{"@pid":"168/1262","text":"Leandro Y. Mano"},{"@pid":"382/3593","text":"Fabiana Góes"},{"@pid":"70/6537-1","text":"Julieta Noguez 0001"},{"@pid":"382/3905","text":"Nathalia C. da Silva"}]},"title":"Integrating YOLO and 3D U-Net for COVID-19 Diagnosis on Chest CT Scans.","venue":"CBMS","pages":"15-20","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Valverde-Rebaza24","doi":"10.1109/CBMS61543.2024.00011","ee":"https://doi.org/10.1109/CBMS61543.2024.00011","url":"https://dblp.org/rec/conf/cbms/Valverde-Rebaza24"},
+"url":"URL#480617"
+},
+{
+"@score":"1",
+"@id":"480618",
+"info":{"authors":{"author":[{"@pid":"365/5334","text":"Ulises Villela"},{"@pid":"284/3591","text":"Alessandra Grossi"},{"@pid":"39/5454","text":"Francesca Gasparini"},{"@pid":"69/8580","text":"Iván Salgado 0001"},{"@pid":"247/6041","text":"Mariana Ballesteros 0001"}]},"title":"Multiclass classifiers for hand-gesture recognition of electromyographic signals from WyoFlex Band.","venue":"CBMS","pages":"134-139","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/VillelaGG0024","doi":"10.1109/CBMS61543.2024.00030","ee":"https://doi.org/10.1109/CBMS61543.2024.00030","url":"https://dblp.org/rec/conf/cbms/VillelaGG0024"},
+"url":"URL#480618"
+},
+{
+"@score":"1",
+"@id":"480619",
+"info":{"authors":{"author":[{"@pid":"352/2668","text":"Arthur Ricardo De Sousa Vitória"},{"@pid":"365/8205","text":"Adriel Lenner Vinhal Mori"},{"@pid":"84/941","text":"Clarimar José Coelho"},{"@pid":"134/0945","text":"Arlindo Rodrigues Galvão Filho"}]},"title":"Multi-Strain Dynamics: Modeling Dengue Transmission in Brazilian Regions with SIR Models.","venue":"CBMS","pages":"461-466","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/VitoriaMCF24","doi":"10.1109/CBMS61543.2024.00082","ee":"https://doi.org/10.1109/CBMS61543.2024.00082","url":"https://dblp.org/rec/conf/cbms/VitoriaMCF24"},
+"url":"URL#480619"
+},
+{
+"@score":"1",
+"@id":"480620",
+"info":{"authors":{"author":[{"@pid":"153/2385","text":"Zhendong Wang"},{"@pid":"249/2445","text":"Isak Samsten"},{"@pid":"150/4969","text":"Ioanna Miliou"},{"@pid":"59/3814","text":"Panagiotis Papapetrou"}]},"title":"COMET: Constrained Counterfactual Explanations for Patient Glucose Multivariate Forecasting.","venue":"CBMS","pages":"502-507","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/WangSMP24","doi":"10.1109/CBMS61543.2024.00089","ee":"https://doi.org/10.1109/CBMS61543.2024.00089","url":"https://dblp.org/rec/conf/cbms/WangSMP24"},
+"url":"URL#480620"
+},
+{
+"@score":"1",
+"@id":"480621",
+"info":{"authors":{"author":[{"@pid":"239/8358","text":"Isaac Ronald Ward"},{"@pid":"317/4731","text":"Dylan M. Asmar"},{"@pid":"383/5912","text":"Mansur M. Arief"},{"@pid":"382/3938","text":"Jana Krystofova Mike"},{"@pid":"34/2029","text":"Mykel J. Kochenderfer"}]},"title":"Optimal Control of Mechanical Ventilators with Learned Respiratory Dynamics.","venue":"CBMS","pages":"192-198","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/WardAAMK24","doi":"10.1109/CBMS61543.2024.00040","ee":"https://doi.org/10.1109/CBMS61543.2024.00040","url":"https://dblp.org/rec/conf/cbms/WardAAMK24"},
+"url":"URL#480621"
+},
+{
+"@score":"1",
+"@id":"480622",
+"info":{"authors":{"author":[{"@pid":"382/4054","text":"Jarrett Woo"},{"@pid":"96/6156","text":"Jin Woo Kim"},{"@pid":"24/3386","text":"Kwangtaek Kim"},{"@pid":"366/2936","text":"Jeremy Jarzembak"},{"@pid":"382/4059","text":"Ann James"},{"@pid":"212/5836","text":"Jennifer Biggs"},{"@pid":"10/1645","text":"Robert Clements"},{"@pid":"240/2542","text":"John Dunlosky"}]},"title":"Comparative Design and Analysis of Multimodal VR Simulations for IV Needle Insertion Training.","venue":"CBMS","pages":"315-319","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/WooKKJJBCD24","doi":"10.1109/CBMS61543.2024.00059","ee":"https://doi.org/10.1109/CBMS61543.2024.00059","url":"https://dblp.org/rec/conf/cbms/WooKKJJBCD24"},
+"url":"URL#480622"
+},
+{
+"@score":"1",
+"@id":"658949",
+"info":{"authors":{"author":[{"@pid":"77/7138","text":"Gilberto Ochoa-Ruiz"},{"@pid":"61/5711","text":"Enrico Grisan"},{"@pid":"14/11430","text":"Sharib Ali"},{"@pid":"211/4197","text":"Rosa Sicilia"},{"@pid":"244/6379","text":"Lucía Prieto Santamaría"},{"@pid":"94/4338","text":"Bridget Kane"},{"@pid":"50/986","text":"Christian Daul"},{"@pid":"21/1333","text":"Gildardo Sánchez-Ante"},{"@pid":"63/6099","text":"Alejandro Rodríguez González"}]},"title":"37th IEEE International Symposium on Computer-Based Medical Systems, CBMS 2024, Guadalajara, Mexico, June 26-28, 2024","venue":"CBMS","publisher":"IEEE","year":"2024","type":"Editorship","key":"conf/cbms/2024","doi":"10.1109/CBMS61543.2024","ee":"https://doi.org/10.1109/CBMS61543.2024","url":"https://dblp.org/rec/conf/cbms/2024"},
+"url":"URL#658949"
+}
+]
+}
+}
+}

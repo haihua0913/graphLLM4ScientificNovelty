@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+K-Medoids clustering,deterministic global optimization,-0.0713,1.4638
+K-Medoids clustering,branch and bound,-0.2252,1.5653
+K-Medoids clustering,Lagrangian relaxation,0.8968,0.4543
+K-Medoids clustering,lower bound,-0.0624,1.4577
+branch and bound,deterministic global optimization,0.7804,0.6628
+Lagrangian relaxation,deterministic global optimization,0.0823,1.3548
+deterministic global optimization,lower bound,0.0933,1.3466
+Lagrangian relaxation,branch and bound,-0.3098,1.6185
+branch and bound,lower bound,0.2961,1.1865
+Lagrangian relaxation,lower bound,-0.3188,1.6241
+global optimal solution,lower bound,-0.066,1.4602
+computational cost,lower bound,-0.0769,1.4676
+computational cost,global optimal solution,0.9869,0.1617
+global optimal solution,optimality gap,0.961,0.2792
+global optimal solution,machine learning datasets,0.4949,1.005
+computational cost,optimality gap,0.974,0.228
+machine learning datasets,optimality gap,0.4699,1.0297
+computational cost,machine learning datasets,0.4731,1.0266
+global convergence,global optimal solution,0.9182,0.4044
+global convergence,optimality gap,0.9385,0.3507
+global convergence,machine learning datasets,0.3598,1.1316

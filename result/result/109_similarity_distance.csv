@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+planning problems,search space,0.0038,1.4115
+domain control knowledge,planning problems,-0.2626,1.5891
+domain control knowledge,search space,-0.1367,1.5078
+classical planning,procedural control knowledge,-0.142,1.5113
+classical planning,temporally extended user preferences,-0.1676,1.5281
+procedural control knowledge,temporally extended user preferences,-0.1019,1.4845
+classical planning,nonclassical planning,-0.3334,1.6331
+classical planning,compilation technique,-0.0116,1.4224
+nonclassical planning,procedural control knowledge,0.7135,0.757
+compilation technique,procedural control knowledge,-0.0443,1.4452
+nonclassical planning,temporally extended user preferences,0.1373,1.3136
+compilation technique,temporally extended user preferences,-0.1453,1.5135
+compilation technique,nonclassical planning,-0.3516,1.6442
+AI planning,classical planning,-0.2333,1.5705
+AI planning,procedural control knowledge,0.1679,1.2901
+AI planning,temporally extended user preferences,0.0161,1.4028
+AI planning,nonclassical planning,0.672,0.8099
+AI planning,compilation technique,-0.3336,1.6332

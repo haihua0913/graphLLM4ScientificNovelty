@@ -1,0 +1,37 @@
+node1,node2,similarity,distance
+Euclidean space,regression analysis,0.004,1.4114
+manifold-valued data,regression analysis,-0.1681,1.5285
+Euclidean space,manifold-valued data,0.9091,0.4263
+Frechet expectation,regression analysis,0.014,1.4043
+Nadaraya-Watson kernel regression,regression analysis,0.0059,1.41
+Euclidean space,Frechet expectation,0.1409,1.3108
+Euclidean space,Nadaraya-Watson kernel regression,-0.2712,1.5945
+Frechet expectation,Nadaraya-Watson kernel regression,0.8807,0.4885
+Frechet expectation,manifold-valued data,-0.1114,1.4909
+Nadaraya-Watson kernel regression,manifold-valued data,-0.4421,1.6983
+anatomical shape change,regression analysis,0.9639,0.2688
+MR images,regression analysis,-0.2463,1.5788
+random design dataset,regression analysis,-0.0517,1.4503
+Frechet expectation,anatomical shape change,-0.025,1.4318
+Nadaraya-Watson kernel regression,anatomical shape change,0.0127,1.4052
+anatomical shape change,manifold-valued data,-0.087,1.4744
+MR images,anatomical shape change,-0.2491,1.5806
+anatomical shape change,random design dataset,-0.14,1.51
+Frechet expectation,MR images,0.1511,1.303
+Frechet expectation,random design dataset,-0.22,1.5621
+MR images,Nadaraya-Watson kernel regression,0.0466,1.3809
+Nadaraya-Watson kernel regression,random design dataset,-0.2575,1.5859
+MR images,manifold-valued data,0.1046,1.3382
+manifold-valued data,random design dataset,-0.0188,1.4275
+MR images,random design dataset,0.0953,1.3451
+anatomical shape change,diffeomorphic transformations,-0.1816,1.5372
+anatomical shape change,metric,-0.0809,1.4703
+Frechet expectation,diffeomorphic transformations,-0.1655,1.5268
+Frechet expectation,metric,0.0033,1.4119
+Nadaraya-Watson kernel regression,diffeomorphic transformations,-0.1153,1.4935
+Nadaraya-Watson kernel regression,metric,-0.3698,1.6552
+MR images,diffeomorphic transformations,0.9136,0.4156
+diffeomorphic transformations,random design dataset,0.0705,1.3635
+diffeomorphic transformations,metric,-0.1035,1.4856
+MR images,metric,0.1346,1.3156
+metric,random design dataset,0.0528,1.3764

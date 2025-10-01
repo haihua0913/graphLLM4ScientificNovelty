@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+exploration and exploitation,multiarmed bandit,-0.245,1.578
+expected best single sample reward,multiarmed bandit,0.8983,0.451
+Max K-Armed Bandit,multiarmed bandit,0.9415,0.342
+expected best single sample reward,exploration and exploitation,-0.3519,1.6443
+Max K-Armed Bandit,exploration and exploitation,-0.0199,1.4282
+Max K-Armed Bandit,expected best single sample reward,0.8697,0.5105
+multiarmed bandit,multistart stochastic search algorithms,0.509,0.9909
+expected best single sample reward,multistart stochastic search algorithms,0.412,1.0844
+Max K-Armed Bandit,multistart stochastic search algorithms,0.5696,0.9278
+multiarmed bandit,optimal strategy,-0.1704,1.53
+double exponentially,multiarmed bandit,0.9821,0.1893
+expected best single sample reward,optimal strategy,-0.4162,1.683
+double exponentially,expected best single sample reward,0.8972,0.4533
+Max K-Armed Bandit,optimal strategy,-0.1151,1.4934
+Max K-Armed Bandit,double exponentially,0.9555,0.2983
+multistart stochastic search algorithms,optimal strategy,-0.1072,1.4881
+double exponentially,multistart stochastic search algorithms,0.5627,0.9351
+double exponentially,optimal strategy,-0.1257,1.5004
+Boltzmann distribution,Max K-Armed Bandit,0.9061,0.4334
+Max K-Armed Bandit,exponentially decaying temperature parameter,0.8957,0.4568
+Boltzmann distribution,multistart stochastic search algorithms,0.6402,0.8483
+exponentially decaying temperature parameter,multistart stochastic search algorithms,0.4712,1.0284
+Boltzmann distribution,optimal strategy,-0.1941,1.5454
+exponentially decaying temperature parameter,optimal strategy,-0.2046,1.5521
+Boltzmann distribution,double exponentially,0.8704,0.5091
+double exponentially,exponentially decaying temperature parameter,0.9336,0.3645
+Boltzmann distribution,exponentially decaying temperature parameter,0.9347,0.3615
+Max K-Armed Bandit,exploration policy,0.4334,1.0645
+exploration policy,optimal strategy,-0.134,1.506
+double exponentially,exploration policy,0.3251,1.1618
+Boltzmann distribution,exploration policy,0.2319,1.2394
+exploration policy,exponentially decaying temperature parameter,0.0818,1.3551

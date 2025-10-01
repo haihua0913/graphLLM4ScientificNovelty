@@ -1,0 +1,12 @@
+node1,node2,similarity,distance
+Confidence estimation,noisy samples,0.9508,0.3137
+Confidence estimation,out-of-distribution data,0.0526,1.3765
+noisy samples,out-of-distribution data,-0.1396,1.5097
+Confidence estimation,neural machine translation,-0.3773,1.6597
+Confidence estimation,softmax distribution,0.036,1.3886
+neural machine translation,softmax distribution,-0.7613,1.8769
+neural machine translation,noisy samples,-0.2608,1.588
+neural machine translation,out-of-distribution data,-0.5743,1.7744
+noisy samples,softmax distribution,-0.1303,1.5035
+out-of-distribution data,softmax distribution,0.8997,0.448
+noisy samples,quality estimation,0.8875,0.4743

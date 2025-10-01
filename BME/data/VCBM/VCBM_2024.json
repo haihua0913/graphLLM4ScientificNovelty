@@ -1,0 +1,110 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/vcbm/vcbm2024.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"112.77"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"13",
+"@dc":"13",
+"@oc":"13",
+"@id":"48926949",
+"text":":facetid:toc:db/conf/vcbm/vcbm2024.bht"
+}
+},
+"hits":{
+"@total":"13",
+"@computed":"13",
+"@sent":"13",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"647463",
+"info":{"authors":{"author":[{"@pid":"399/6546","text":"Marcel Bauer"},{"@pid":"311/3004","text":"Chiara Manini"},{"@pid":"399/6555","text":"Stefan Klemmer"},{"@pid":"00/2203","text":"Tom Meyer"},{"@pid":"284/0478","text":"Matthias Ivantsits"},{"@pid":"92/7090","text":"Lars Walczak"},{"@pid":"90/3388","text":"Anja Hennemuth"},{"@pid":"37/11450","text":"Heiko Tzschätzsch"}]},"title":"Development and Analysis of a Pipeline for Cardiac Ultrasound Simulation for Deep Learning Segmentation Methods.","venue":"VCBM","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/BauerMKMIWHT24","doi":"10.2312/VCBM.20241189","ee":"https://doi.org/10.2312/vcbm.20241189","url":"https://dblp.org/rec/conf/vcbm/BauerMKMIWHT24"},
+"url":"URL#647463"
+},
+{
+"@score":"1",
+"@id":"647464",
+"info":{"authors":{"author":[{"@pid":"399/6545","text":"Daniel Dehncke"},{"@pid":"399/6542","text":"Vinzenz Fiebach"},{"@pid":"348/7464","text":"Lennart Kinzel"},{"@pid":"80/1762","text":"Knut Baumann"},{"@pid":"79/11067","text":"Tim Kacprowski"}]},"title":"VISPER - Visualization System for Interactions between Proteins and Drugs for Exploratory Research.","venue":"VCBM","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/DehnckeFKBK24","doi":"10.2312/VCBM.20241190","ee":"https://doi.org/10.2312/vcbm.20241190","url":"https://dblp.org/rec/conf/vcbm/DehnckeFKBK24"},
+"url":"URL#647464"
+},
+{
+"@score":"1",
+"@id":"647465",
+"info":{"authors":{"author":[{"@pid":"399/6544","text":"Erik Immoor"},{"@pid":"241/4942","text":"Tom L. Koller"}]},"title":"Potential of Tetrahedral Markers for Infrared Pose Tracking in Surgical Navigation.","venue":"VCBM","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/ImmoorK24","doi":"10.2312/VCBM.20241184","ee":"https://doi.org/10.2312/vcbm.20241184","url":"https://dblp.org/rec/conf/vcbm/ImmoorK24"},
+"url":"URL#647465"
+},
+{
+"@score":"1",
+"@id":"647466",
+"info":{"authors":{"author":[{"@pid":"284/0478","text":"Matthias Ivantsits"},{"@pid":"73/9856","text":"Markus Hüllebrand"},{"@pid":"92/7090","text":"Lars Walczak"},{"@pid":"369/4631","text":"Juri Welz"},{"@pid":"399/6550","text":"Dustin Greve"},{"@pid":"211/7266","text":"Isaac Wamala"},{"@pid":"152/3949","text":"Simon H. Sündermann"},{"@pid":"71/8525","text":"Jörg Kempfert"},{"@pid":"60/4048","text":"Volkmar Falk"},{"@pid":"90/3388","text":"Anja Hennemuth"}]},"title":"Algorithmic Integration and Quantification of Endoscopic and 3D TEE Images in Mitral Valve Surgery.","venue":"VCBM","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/IvantsitsHWWGWS24","doi":"10.2312/VCBM.20241185","ee":"https://doi.org/10.2312/vcbm.20241185","url":"https://dblp.org/rec/conf/vcbm/IvantsitsHWWGWS24"},
+"url":"URL#647466"
+},
+{
+"@score":"1",
+"@id":"647467",
+"info":{"authors":{"author":[{"@pid":"382/5141","text":"Katja Löwenstein"},{"@pid":"382/5144","text":"Johanna Rehrl"},{"@pid":"382/5147","text":"Anja Schuster"},{"@pid":"115/7750","text":"Michael Gadermayr"}]},"title":"Virtually Objective Quantification of in vitro Wound Healing Scratch Assays with the Segment Anything Model.","venue":"VCBM","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/LowensteinRSG24","doi":"10.2312/VCBM.20241186","ee":"https://doi.org/10.2312/vcbm.20241186","url":"https://dblp.org/rec/conf/vcbm/LowensteinRSG24"},
+"url":"URL#647467"
+},
+{
+"@score":"1",
+"@id":"647468",
+"info":{"authors":{"author":[{"@pid":"286/7852","text":"Sarah Mittenentzwei"},{"@pid":"399/6549","text":"Danish Murad"},{"@pid":"p/BPreim","text":"Bernhard Preim"},{"@pid":"149/0918","text":"Monique Meuschke"}]},"title":"Leaving the Lab Setting: What We Can Learn About the Perception of Narrative Medical Visualizations from YouTube Comments.","venue":"VCBM","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MittenentzweiMP24","doi":"10.2312/VCBM.20241193","ee":"https://doi.org/10.2312/vcbm.20241193","url":"https://dblp.org/rec/conf/vcbm/MittenentzweiMP24"},
+"url":"URL#647468"
+},
+{
+"@score":"1",
+"@id":"647469",
+"info":{"authors":{"author":[{"@pid":"286/7852","text":"Sarah Mittenentzwei"},{"@pid":"p/BPreim","text":"Bernhard Preim"},{"@pid":"149/0918","text":"Monique Meuschke"}]},"title":"Why, What, and How to Communicate Health Information Visually: Reflections on the Design Process of Narrative Medical Visualization.","venue":"VCBM","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MittenentzweiPM24","doi":"10.2312/VCBM.20241192","ee":"https://doi.org/10.2312/vcbm.20241192","url":"https://dblp.org/rec/conf/vcbm/MittenentzweiPM24"},
+"url":"URL#647469"
+},
+{
+"@score":"1",
+"@id":"647470",
+"info":{"authors":{"author":[{"@pid":"399/6556","text":"Christian Muth"},{"@pid":"397/4111","text":"Olivier Morelle"},{"@pid":"152/9100","text":"Renata Georgia Raidou"},{"@pid":"190/7077","text":"Maximilian W. M. Wintergerst"},{"@pid":"287/9387","text":"Robert Patrick Finger"},{"@pid":"72/1969-1","text":"Thomas Schultz 0001"}]},"title":"Exploring Drusen Type and Appearance using Interpretable GANs.","venue":"VCBM","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/MuthMRWF024","doi":"10.2312/VCBM.20241187","ee":"https://doi.org/10.2312/vcbm.20241187","url":"https://dblp.org/rec/conf/vcbm/MuthMRWF024"},
+"url":"URL#647470"
+},
+{
+"@score":"1",
+"@id":"647471",
+"info":{"authors":{"author":[{"@pid":"317/8702","text":"Antonia Popp"},{"@pid":"369/4821","text":"Alaa Abd El Al"},{"@pid":"83/7912","text":"Marie Hoffmann"},{"@pid":"369/2835","text":"Ann Laube"},{"@pid":"71/8525","text":"Jörg Kempfert"},{"@pid":"90/3388","text":"Anja Hennemuth"},{"@pid":"162/7950","text":"Alexander Meyer"}]},"title":"Workflow for AI-Supported Stenosis Prediction in X-Ray Coronary Angiography for SYNTAX Score Calculation.","venue":"VCBM","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/PoppAHLKHM24","doi":"10.2312/VCBM.20241188","ee":"https://doi.org/10.2312/vcbm.20241188","url":"https://dblp.org/rec/conf/vcbm/PoppAHLKHM24"},
+"url":"URL#647471"
+},
+{
+"@score":"1",
+"@id":"647472",
+"info":{"authors":{"author":[{"@pid":"288/2691","text":"Danny Schott"},{"@pid":"239/1763","text":"Florian Heinrich"},{"@pid":"16/9933","text":"Matthias Kunz"},{"@pid":"376/9787","text":"Jonas Mandel"},{"@pid":"386/4074","text":"Anne Albrecht"},{"@pid":"180/9231","text":"Rüdiger Braun-Dullaeus"},{"@pid":"57/2217-1","text":"Christian Hansen 0001"}]},"title":"CardioCoLab: Collaborative Learning of Embryonic Heart Anatomy in Mixed Reality.","venue":"VCBM","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/SchottHKMAB024","doi":"10.2312/VCBM.20241191","ee":"https://doi.org/10.2312/vcbm.20241191","url":"https://dblp.org/rec/conf/vcbm/SchottHKMAB024"},
+"url":"URL#647472"
+},
+{
+"@score":"1",
+"@id":"647473",
+"info":{"authors":{"author":[{"@pid":"245/7725","text":"Maximilian Ernst Tschuchnig"},{"@pid":"40/600","text":"Philipp Steininger"},{"@pid":"115/7750","text":"Michael Gadermayr"}]},"title":"CBCTLiTS: A Synthetic, Paired CBCT/CT Dataset For Segmentation And Style Transfer.","venue":"VCBM","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/TschuchnigSG24","doi":"10.2312/VCBM.20241183","ee":"https://doi.org/10.2312/vcbm.20241183","url":"https://dblp.org/rec/conf/vcbm/TschuchnigSG24"},
+"url":"URL#647473"
+},
+{
+"@score":"1",
+"@id":"647474",
+"info":{"authors":{"author":[{"@pid":"399/6551","text":"Roxanne Ziman"},{"@pid":"379/3324","text":"Beatrice Budich"},{"@pid":"38/9332","text":"Marc Vaudel"},{"@pid":"37/7253","text":"Laura A. Garrison"}]},"title":"The MoBa Pregnancy and Child Development Dashboard: A Design Study.","venue":"VCBM","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/vcbm/ZimanBVG24","doi":"10.2312/VCBM.20241194","ee":"https://doi.org/10.2312/vcbm.20241194","url":"https://dblp.org/rec/conf/vcbm/ZimanBVG24"},
+"url":"URL#647474"
+},
+{
+"@score":"1",
+"@id":"661184",
+"info":{"authors":{"author":[{"@pid":"37/7253","text":"Laura A. Garrison"},{"@pid":"13/10766","text":"Daniel Jönsson"}]},"title":"Eurographics Workshop on Visual Computing for Biology and Medicine, VCBM 2024, Magdeburg, Germany, September 19-20, 2024","venue":"VCBM","publisher":"Eurographics Association","year":"2024","type":"Editorship","key":"conf/vcbm/2024","doi":"10.2312/3607039","ee":"https://diglib.eg.org/handle/10.2312/3607039","url":"https://dblp.org/rec/conf/vcbm/2024"},
+"url":"URL#661184"
+}
+]
+}
+}
+}

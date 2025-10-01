@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+natural language instructions,reinforcement learning,-0.0486,1.4481
+executable actions,reinforcement learning,0.2279,1.2426
+reinforcement learning,reward function,0.2368,1.2354
+executable actions,natural language instructions,-0.2893,1.6058
+natural language instructions,reward function,-0.1923,1.5442
+executable actions,reward function,-0.131,1.504
+action sequences,reinforcement learning,0.186,1.276
+action sequences,natural language instructions,-0.14,1.51
+action sequences,executable actions,-0.2319,1.5697
+action sequences,reward function,0.9866,0.1636
+policy gradient algorithm,reward function,-0.2442,1.5775
+log-linear model,reward function,-0.1073,1.4881
+action sequences,policy gradient algorithm,-0.1949,1.5459
+action sequences,log-linear model,-0.0989,1.4825
+log-linear model,policy gradient algorithm,-0.3243,1.6275
+Windows troubleshooting guides,action sequences,-0.0475,1.4474
+action sequences,game tutorials,-0.0434,1.4446
+Windows troubleshooting guides,policy gradient algorithm,-0.12,1.4967
+game tutorials,policy gradient algorithm,-0.0185,1.4272
+Windows troubleshooting guides,log-linear model,-0.1518,1.5178
+game tutorials,log-linear model,-0.1669,1.5277
+Windows troubleshooting guides,game tutorials,-0.1618,1.5243
+policy gradient algorithm,supervised learning techniques,0.6093,0.8839
+log-linear model,supervised learning techniques,0.2271,1.2433
+Windows troubleshooting guides,supervised learning techniques,-0.5173,1.742
+game tutorials,supervised learning techniques,0.0016,1.4131

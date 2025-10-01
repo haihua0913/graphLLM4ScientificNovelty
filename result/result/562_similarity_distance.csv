@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+Video-based multiple target tracking,visual observations,-0.0392,1.4416
+Video-based multiple target tracking,joint motion estimation,-0.0263,1.4327
+joint motion estimation,visual observations,-0.3489,1.6425
+Nash equilibrium,joint motion estimation,-0.0098,1.4211
+game-theoretic perspective,joint motion estimation,-0.3758,1.6588
+Nash equilibrium,game-theoretic perspective,-0.1296,1.5031
+Nash equilibrium,visual observations,-0.2261,1.5659
+game-theoretic perspective,visual observations,0.9889,0.1491
+decentralized,joint motion estimation,-0.2336,1.5707
+Nash equilibrium,decentralized,-0.2581,1.5863
+decentralized,game-theoretic perspective,0.978,0.21
+joint motion estimation,kernel-based trackers,-0.0234,1.4306
+Nash equilibrium,kernel-based trackers,0.9767,0.2159
+decentralized,kernel-based trackers,-0.2513,1.582
+best response updating procedure,joint motion estimation,-0.0035,1.4167
+Nash equilibrium,best response updating procedure,0.9771,0.2139
+best response updating procedure,kernel-based trackers,0.9823,0.1881

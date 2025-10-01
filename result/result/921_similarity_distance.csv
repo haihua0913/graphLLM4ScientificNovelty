@@ -1,0 +1,42 @@
+node1,node2,similarity,distance
+agents,binary opinions,0.1613,1.2951
+agents,social graphs,-0.3127,1.6203
+agents,social pressure,0.9145,0.4134
+agents,minority,0.1958,1.2682
+agents,majority,-0.0756,1.4667
+agents,conform,-0.3548,1.6461
+binary opinions,social graphs,0.1775,1.2826
+binary opinions,social pressure,0.1197,1.3269
+binary opinions,minority,0.7863,0.6537
+binary opinions,majority,0.5875,0.9083
+binary opinions,conform,0.0121,1.4056
+social graphs,social pressure,-0.1466,1.5143
+minority,social graphs,0.5269,0.9727
+majority,social graphs,0.3308,1.1569
+conform,social graphs,0.1262,1.3219
+minority,social pressure,0.3405,1.1485
+majority,social pressure,0.1065,1.3368
+conform,social pressure,-0.3776,1.6598
+majority,minority,0.8236,0.594
+conform,minority,-0.1873,1.541
+conform,majority,-0.4248,1.6881
+agents,influence power,-0.2821,1.6013
+NP-hard,agents,0.1177,1.3284
+binary opinions,influence power,0.3015,1.182
+NP-hard,binary opinions,0.0491,1.3791
+influence power,social graphs,0.9831,0.184
+NP-hard,social graphs,-0.1151,1.4934
+influence power,social pressure,-0.1309,1.5039
+NP-hard,social pressure,0.2559,1.2199
+influence power,minority,0.6073,0.8862
+NP-hard,minority,0.198,1.2665
+influence power,majority,0.3741,1.1188
+NP-hard,majority,0.3799,1.1136
+NP-hard,influence power,-0.062,1.4574
+conform,influence power,0.1031,1.3394
+NP-hard,conform,-0.7215,1.8555
+agents,stable configuration,-0.0096,1.421
+minority,stable configuration,0.6481,0.8389
+majority,stable configuration,0.7854,0.6552
+influence power,stable configuration,0.0509,1.3777
+NP-hard,stable configuration,-0.0152,1.4249

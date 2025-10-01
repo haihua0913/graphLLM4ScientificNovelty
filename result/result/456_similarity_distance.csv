@@ -1,0 +1,28 @@
+node1,node2,similarity,distance
+SAR sea ice imagery,ship navigation,0.9423,0.3397
+SAR sea ice imagery,climate monitoring,0.8159,0.6068
+climate monitoring,ship navigation,0.8348,0.5747
+SAR sea ice imagery,semi-supervised approach,0.2191,1.2497
+SAR sea ice imagery,ice-water classification,0.9711,0.2405
+SAR sea ice imagery,self-training,0.9568,0.2938
+semi-supervised approach,ship navigation,0.0624,1.3694
+ice-water classification,ship navigation,0.9741,0.2277
+self-training,ship navigation,0.9067,0.432
+climate monitoring,semi-supervised approach,0.1546,1.3003
+climate monitoring,ice-water classification,0.8186,0.6023
+climate monitoring,self-training,0.6629,0.8211
+ice-water classification,semi-supervised approach,0.2654,1.2121
+self-training,semi-supervised approach,0.1241,1.3236
+ice-water classification,self-training,0.9298,0.3748
+semi-supervised approach,spatial context model,0.1447,1.3079
+region merging,semi-supervised approach,-0.0215,1.4293
+ice-water classification,spatial context model,0.0014,1.4132
+ice-water classification,region merging,0.2883,1.1931
+self-training,spatial context model,0.0691,1.3645
+region merging,self-training,0.1995,1.2653
+region merging,spatial context model,-0.093,1.4785
+RADARSAT-2,self-training,-0.0725,1.4646
+dual-polarization dataset,self-training,-0.1459,1.5138
+RADARSAT-2,region merging,0.9505,0.3148
+dual-polarization dataset,region merging,-0.2684,1.5927
+RADARSAT-2,dual-polarization dataset,-0.1873,1.541

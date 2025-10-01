@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+in situ validation,remote sensing measurements,-0.1384,1.5089
+in situ validation,spectroscopic mapping,0.9209,0.3977
+remote sensing measurements,spectroscopic mapping,-0.1213,1.4975
+in situ validation,orbital image,-0.0828,1.4716
+orbital image,remote sensing measurements,-0.4178,1.6839
+orbital image,spectroscopic mapping,-0.1273,1.5015
+spectral unmixing,spectroscopic mapping,-0.0188,1.4274
+pure spectral signatures,spectroscopic mapping,-0.2308,1.569
+pure spectral signatures,spectral unmixing,0.9482,0.3218
+orbital image,spectral unmixing,-0.0797,1.4695
+orbital image,pure spectral signatures,-0.0876,1.4748
+multi-wavelength data,spectral unmixing,0.8596,0.53
+multi-wavelength data,pure spectral signatures,0.9095,0.4253
+multi-wavelength data,orbital image,0.1614,1.2951
+mining district in Cuprite,multi-wavelength data,-0.0959,1.4805
+Nevada,multi-wavelength data,-0.0861,1.4738
+Nevada,mining district in Cuprite,0.962,0.2756

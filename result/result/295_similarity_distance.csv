@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+inference algorithms,paired learning,0.9568,0.2939
+paired learning,vector dot products,0.9554,0.2988
+NLP components,paired learning,0.1163,1.3294
+inference algorithms,vector dot products,0.9178,0.4053
+NLP components,inference algorithms,0.1833,1.278
+NLP components,vector dot products,-0.0982,1.482
+accuracy,paired learning,0.166,1.2915
+accuracy,inference algorithms,0.0461,1.3812
+accuracy,vector dot products,-0.0018,1.4155
+NLP components,accuracy,-0.1139,1.4926
+named entity recognition,part-of-speech tagging,-0.3045,1.6152
+dependency parsing,part-of-speech tagging,-0.0653,1.4597
+accuracy,part-of-speech tagging,-0.1171,1.4947
+dependency parsing,named entity recognition,0.0782,1.3578
+accuracy,named entity recognition,-0.0385,1.4412
+accuracy,dependency parsing,-0.188,1.5414

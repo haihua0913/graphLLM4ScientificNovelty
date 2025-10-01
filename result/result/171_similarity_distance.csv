@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+PageRank,social networks,-0.3869,1.6655
+PageRank,higher-order structures,-0.3018,1.6135
+PageRank,motifs,0.2169,1.2515
+PageRank,complex networks,0.0962,1.3445
+higher-order structures,social networks,0.9678,0.2539
+motifs,social networks,-0.2925,1.6078
+complex networks,social networks,-0.0849,1.473
+higher-order structures,motifs,-0.2895,1.6059
+complex networks,higher-order structures,0.0054,1.4104
+complex networks,motifs,-0.1028,1.4851
+PageRank,motif-based PageRank,-0.3694,1.655
+motif-based PageRank,social networks,0.0281,1.3942
+higher-order structures,motif-based PageRank,0.1131,1.3318
+motif-based PageRank,motifs,0.1049,1.338
+complex networks,motif-based PageRank,0.3056,1.1785
+PageRank,real-world networks,-0.0089,1.4205
+PageRank,ranking users,0.8773,0.4954
+real-world networks,social networks,0.1474,1.3059
+ranking users,social networks,-0.1608,1.5237
+higher-order structures,real-world networks,0.2035,1.2621
+higher-order structures,ranking users,-0.0799,1.4696
+motifs,real-world networks,-0.3812,1.662
+motifs,ranking users,-0.115,1.4933
+complex networks,real-world networks,0.0308,1.3923
+complex networks,ranking users,-0.035,1.4388
+motif-based PageRank,real-world networks,-0.0372,1.4403
+motif-based PageRank,ranking users,-0.5486,1.7599
+ranking users,real-world networks,-0.0356,1.4392

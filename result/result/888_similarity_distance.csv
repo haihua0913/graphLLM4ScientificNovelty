@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+multi-robot,perimeter patrol,-0.2265,1.5662
+adversarial environments,multi-robot,-0.4479,1.7017
+multi-robot,uncertainty,-0.2687,1.5929
+multi-robot,nondeterministic patrol algorithm,-0.2187,1.5612
+adversarial environments,perimeter patrol,0.9404,0.3451
+perimeter patrol,uncertainty,-0.0627,1.4578
+nondeterministic patrol algorithm,perimeter patrol,-0.153,1.5186
+adversarial environments,uncertainty,0.1531,1.3015
+adversarial environments,nondeterministic patrol algorithm,-0.0422,1.4438
+nondeterministic patrol algorithm,uncertainty,-0.1066,1.4877
+adversary,multi-robot,-0.1395,1.5097
+adversary,perimeter patrol,-0.1208,1.4972
+adversarial environments,adversary,-0.041,1.4429
+adversary,uncertainty,-0.1164,1.4943
+adversary,nondeterministic patrol algorithm,-0.3623,1.6506
+nondeterministic patrol algorithm,optimal algorithm,-0.0451,1.4458
+adversary,optimal algorithm,-0.1187,1.4958
+optimal algorithm,uncertainty,0.994,0.1097
+theoretical results,uncertainty,-0.0641,1.4588
+empirical results,uncertainty,-0.1808,1.5367
+adversary,theoretical results,0.9667,0.2581
+adversary,empirical results,-0.2614,1.5883
+empirical results,theoretical results,-0.1105,1.4903

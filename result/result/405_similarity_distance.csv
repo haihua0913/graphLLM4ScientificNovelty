@@ -1,0 +1,42 @@
+node1,node2,similarity,distance
+3D scene,object detection,0.8979,0.4519
+interdependence,object detection,-0.0847,1.4729
+object detection,surface orientations,0.0593,1.3717
+camera viewpoint,object detection,-0.0049,1.4177
+image understanding,object detection,-0.1635,1.5254
+3D scene,interdependence,-0.2668,1.5918
+3D scene,surface orientations,-0.1579,1.5218
+3D scene,camera viewpoint,-0.2236,1.5643
+3D scene,image understanding,0.221,1.2482
+interdependence,surface orientations,-0.0038,1.4169
+camera viewpoint,interdependence,-0.0555,1.4529
+image understanding,interdependence,-0.388,1.6662
+camera viewpoint,surface orientations,0.8881,0.473
+image understanding,surface orientations,-0.1766,1.534
+camera viewpoint,image understanding,-0.1061,1.4874
+object detection,probabilistic estimates,0.1394,1.3119
+3D geometry,object detection,0.9802,0.199
+object detection,scale and location variance,-0.1059,1.4872
+3D scene,probabilistic estimates,0.0056,1.4103
+3D geometry,3D scene,0.8273,0.5877
+3D scene,scale and location variance,-0.1417,1.5111
+interdependence,probabilistic estimates,0.8372,0.5706
+3D geometry,interdependence,0.0102,1.407
+interdependence,scale and location variance,0.8864,0.4767
+probabilistic estimates,surface orientations,-0.2585,1.5865
+3D geometry,surface orientations,0.0798,1.3566
+scale and location variance,surface orientations,-0.3473,1.6415
+camera viewpoint,probabilistic estimates,-0.346,1.6408
+3D geometry,camera viewpoint,0.0635,1.3686
+camera viewpoint,scale and location variance,-0.3245,1.6275
+3D geometry,probabilistic estimates,0.2019,1.2634
+probabilistic estimates,scale and location variance,0.8998,0.4476
+3D geometry,scale and location variance,-0.0378,1.4407
+object detection,probabilistic object hypotheses,-0.05,1.4491
+probabilistic estimates,probabilistic object hypotheses,-0.4114,1.6801
+3D geometry,probabilistic object hypotheses,-0.1228,1.4985
+probabilistic object hypotheses,scale and location variance,-0.1346,1.5064
+image understanding,probabilistic estimates,-0.5027,1.7336
+3D geometry,image understanding,-0.2273,1.5667
+image understanding,scale and location variance,-0.2126,1.5573
+image understanding,probabilistic object hypotheses,0.9698,0.2457

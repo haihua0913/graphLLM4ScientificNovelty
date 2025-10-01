@@ -1,0 +1,40 @@
+node1,node2,similarity,distance
+MAUVE,open-ended text generation,-0.0077,1.4197
+MAUVE,machine-generated text,-0.0293,1.4348
+MAUVE,human language,0.9661,0.2605
+MAUVE,divergence frontiers,0.9827,0.1861
+machine-generated text,open-ended text generation,-0.1733,1.5319
+human language,open-ended text generation,-0.0652,1.4596
+divergence frontiers,open-ended text generation,0.1147,1.3307
+human language,machine-generated text,-0.1718,1.5309
+divergence frontiers,machine-generated text,-0.1409,1.5106
+divergence frontiers,human language,0.9566,0.2946
+MAUVE,information divergences,0.8638,0.522
+MAUVE,quantized embedding space,0.1095,1.3346
+information divergences,open-ended text generation,-0.2758,1.5973
+open-ended text generation,quantized embedding space,-0.0769,1.4676
+information divergences,machine-generated text,-0.1464,1.5142
+machine-generated text,quantized embedding space,-0.1945,1.5456
+human language,information divergences,0.9072,0.4307
+human language,quantized embedding space,0.1428,1.3094
+divergence frontiers,information divergences,0.8141,0.6097
+divergence frontiers,quantized embedding space,0.0827,1.3545
+information divergences,quantized embedding space,0.2789,1.2009
+MAUVE,empirical study,-0.0078,1.4197
+MAUVE,scales naturally,0.989,0.1483
+MAUVE,human judgments,-0.0247,1.4316
+empirical study,open-ended text generation,-0.0882,1.4753
+open-ended text generation,scales naturally,0.0819,1.3551
+human judgments,open-ended text generation,0.996,0.0895
+divergence frontiers,empirical study,-0.1029,1.4852
+divergence frontiers,scales naturally,0.9824,0.1875
+divergence frontiers,human judgments,0.0906,1.3486
+empirical study,information divergences,-0.1047,1.4864
+information divergences,scales naturally,0.8258,0.5902
+human judgments,information divergences,-0.3139,1.621
+empirical study,quantized embedding space,0.0063,1.4098
+quantized embedding space,scales naturally,0.1976,1.2668
+human judgments,quantized embedding space,-0.1117,1.4911
+empirical study,scales naturally,0.015,1.4035
+empirical study,human judgments,-0.0142,1.4242
+human judgments,scales naturally,0.0648,1.3676

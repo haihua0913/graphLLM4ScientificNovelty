@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+frequentist regret,sequential learning problems,0.9073,0.4305
+Bayesian principles,frequentist regret,0.3405,1.1484
+algorithmic beliefs,frequentist regret,-0.2471,1.5793
+frequentist regret,reinforcement learning,-0.3793,1.6609
+Bayesian principles,sequential learning problems,0.2314,1.2398
+algorithmic beliefs,sequential learning problems,0.0389,1.3864
+reinforcement learning,sequential learning problems,-0.3098,1.6185
+Bayesian principles,algorithmic beliefs,-0.1083,1.4889
+Bayesian principles,reinforcement learning,-0.4396,1.6968
+algorithmic beliefs,reinforcement learning,-0.2975,1.6109
+Algorithmic Information Ratio,frequentist regret,0.0498,1.3785
+Algorithmic Information Ratio,sequential learning problems,0.033,1.3907
+Algorithmic Information Ratio,Bayesian principles,-0.4327,1.6927
+Algorithmic Information Ratio,algorithmic beliefs,0.1291,1.3198
+Algorithmic Information Ratio,reinforcement learning,0.1194,1.3271
+adversarial settings,frequentist regret,0.4341,1.0639
+adversarial settings,algorithmic beliefs,-0.0184,1.4272
+Algorithmic Information Ratio,adversarial settings,-0.1845,1.5392
+adversarial settings,multi-armed bandits,-0.0465,1.4467
+adversarial settings,non-stationary environments,0.9071,0.4311
+multi-armed bandits,non-stationary environments,-0.0278,1.4337
+multi-armed bandits,reinforcement learning,-0.015,1.4248
+non-stationary environments,reinforcement learning,-0.2367,1.5727

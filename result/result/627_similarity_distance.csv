@@ -1,0 +1,34 @@
+node1,node2,similarity,distance
+actor-critic learning,non-parametric critics,0.6392,0.8495
+Gaussian process,actor-critic learning,0.3518,1.1386
+actor-critic learning,temporal difference learning,0.307,1.1773
+actor-critic learning,state-action value function,0.4052,1.0907
+Bayes' rule,actor-critic learning,0.3877,1.1066
+actor-critic learning,posterior distribution,-0.3148,1.6216
+Gaussian process,non-parametric critics,0.9217,0.3958
+non-parametric critics,temporal difference learning,0.7875,0.6518
+non-parametric critics,state-action value function,0.8974,0.4529
+Bayes' rule,non-parametric critics,0.9202,0.3995
+non-parametric critics,posterior distribution,-0.3181,1.6236
+Gaussian process,temporal difference learning,0.8051,0.6243
+Gaussian process,state-action value function,0.8999,0.4475
+Bayes' rule,Gaussian process,0.9411,0.3432
+Gaussian process,posterior distribution,-0.1099,1.4899
+state-action value function,temporal difference learning,0.8916,0.4656
+Bayes' rule,temporal difference learning,0.9257,0.3856
+posterior distribution,temporal difference learning,-0.2772,1.5982
+Bayes' rule,state-action value function,0.9716,0.2381
+posterior distribution,state-action value function,-0.2644,1.5902
+Bayes' rule,posterior distribution,-0.2291,1.5679
+actor-critic learning,policy parameters,0.0152,1.4034
+non-parametric critics,policy parameters,-0.0759,1.4669
+Gaussian process,policy parameters,-0.134,1.506
+policy parameters,temporal difference learning,-0.3324,1.6324
+policy parameters,state-action value function,-0.2264,1.5661
+Bayes' rule,policy parameters,-0.3039,1.6149
+policy parameters,posterior distribution,-0.0961,1.4806
+Gaussian process,policy gradient,-0.329,1.6304
+policy gradient,state-action value function,-0.0726,1.4646
+Bayes' rule,policy gradient,-0.1301,1.5034
+policy gradient,posterior distribution,-0.1738,1.5322
+policy gradient,policy parameters,-0.3556,1.6466

@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+crowd counting,density estimation,0.9669,0.2572
+crowd counting,interdependence of pixels,-0.1142,1.4928
+density estimation,interdependence of pixels,-0.177,1.5343
+crowd counting,self-attention mechanism,0.0804,1.3562
+Relational Attention Network,crowd counting,-0.1211,1.4974
+density estimation,self-attention mechanism,0.0193,1.4005
+Relational Attention Network,density estimation,-0.1404,1.5102
+Relational Attention Network,self-attention mechanism,0.8643,0.521
+interdependence of pixels,self-attention mechanism,0.0859,1.3521
+Relational Attention Network,interdependence of pixels,-0.2379,1.5735
+local self-attention,self-attention mechanism,0.9556,0.2979
+Relational Attention Network,local self-attention,0.9334,0.3651
+interdependence of pixels,local self-attention,0.0139,1.4043
+relation module,self-attention mechanism,-0.4098,1.6791
+Relational Attention Network,relation module,-0.1682,1.5285
+local self-attention,relation module,-0.2476,1.5796
+interdependence of pixels,relation module,-0.1417,1.5111
+estimation errors,relation module,0.0127,1.4052
+relation module,state-of-the-art approaches,-0.2423,1.5762
+estimation errors,state-of-the-art approaches,0.5408,0.9584

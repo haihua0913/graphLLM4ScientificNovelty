@@ -1,0 +1,416 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/ipmi/ipmi2005.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"77.98"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"64",
+"@dc":"64",
+"@oc":"64",
+"@id":"48903761",
+"text":":facetid:toc:db/conf/ipmi/ipmi2005.bht"
+}
+},
+"hits":{
+"@total":"64",
+"@computed":"64",
+"@sent":"64",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"6715940",
+"info":{"authors":{"author":[{"@pid":"20/1515","text":"Khaled Z. Abd-Elmoniem"},{"@pid":"56/3236","text":"Matthias Stuber"},{"@pid":"56/3963","text":"Nael F. Osman"},{"@pid":"p/JerryLPrince","text":"Jerry L. Prince"}]},"title":"ZHARP: Three-Dimensional Motion Tracking from a Single Image Plane.","venue":"IPMI","pages":"639-651","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/Abd-ElmoniemSOP05","doi":"10.1007/11505730_53","ee":"https://doi.org/10.1007/11505730_53","url":"https://dblp.org/rec/conf/ipmi/Abd-ElmoniemSOP05"},
+"url":"URL#6715940"
+},
+{
+"@score":"1",
+"@id":"6715941",
+"info":{"authors":{"author":{"@pid":"37/6152","text":"Daniel C. Alexander"}},"title":"Maximum Entropy Spherical Deconvolution for Diffusion MRI.","venue":"IPMI","pages":"76-87","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/Alexander05","doi":"10.1007/11505730_7","ee":"https://doi.org/10.1007/11505730_7","url":"https://dblp.org/rec/conf/ipmi/Alexander05"},
+"url":"URL#6715941"
+},
+{
+"@score":"1",
+"@id":"6715942",
+"info":{"authors":{"author":[{"@pid":"17/6721","text":"Jonas August"},{"@pid":"k/TakeoKanade","text":"Takeo Kanade"}]},"title":"The Role of Non-Overlap in Image Registration.","venue":"IPMI","pages":"713-724","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/AugustK05","doi":"10.1007/11505730_59","ee":"https://doi.org/10.1007/11505730_59","url":"https://dblp.org/rec/conf/ipmi/AugustK05"},
+"url":"URL#6715942"
+},
+{
+"@score":"1",
+"@id":"6715943",
+"info":{"authors":{"author":[{"@pid":"26/3956","text":"Suyash P. Awate"},{"@pid":"w/RossTWhitaker","text":"Ross T. Whitaker"}]},"title":"Nonparametric Neighborhood Statistics for MRI Denoising.","venue":"IPMI","pages":"677-688","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/AwateW05","doi":"10.1007/11505730_56","ee":"https://doi.org/10.1007/11505730_56","url":"https://dblp.org/rec/conf/ipmi/AwateW05"},
+"url":"URL#6715943"
+},
+{
+"@score":"1",
+"@id":"6715944",
+"info":{"authors":{"author":[{"@pid":"03/5942","text":"Pierre-Louis Bazin"},{"@pid":"46/5020","text":"Dzung L. Pham"}]},"title":"Topology Preserving Tissue Classification with Fast Marching and Topology Templates.","venue":"IPMI","pages":"234-245","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/BazinP05","doi":"10.1007/11505730_20","ee":"https://doi.org/10.1007/11505730_20","url":"https://dblp.org/rec/conf/ipmi/BazinP05"},
+"url":"URL#6715944"
+},
+{
+"@score":"1",
+"@id":"6715945",
+"info":{"authors":{"author":[{"@pid":"28/3659","text":"Reinhard Beichel"},{"@pid":"69/3793","text":"Horst Bischof"},{"@pid":"08/817","text":"Franz Leberl"},{"@pid":"19/1003","text":"Milan Sonka"}]},"title":"Robust Active Appearance Model Matching.","venue":"IPMI","pages":"114-125","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/BeichelBLS05","doi":"10.1007/11505730_10","ee":"https://doi.org/10.1007/11505730_10","url":"https://dblp.org/rec/conf/ipmi/BeichelBLS05"},
+"url":"URL#6715945"
+},
+{
+"@score":"1",
+"@id":"6715946",
+"info":{"authors":{"author":[{"@pid":"45/3080","text":"Marleen de Bruijne"},{"@pid":"80/1754","text":"Mads Nielsen"}]},"title":"Multi-object Segmentation Using Shape Particles.","venue":"IPMI","pages":"762-773","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/BruijneN05","doi":"10.1007/11505730_63","ee":"https://doi.org/10.1007/11505730_63","url":"https://dblp.org/rec/conf/ipmi/BruijneN05"},
+"url":"URL#6715946"
+},
+{
+"@score":"1",
+"@id":"6715947",
+"info":{"authors":{"author":[{"@pid":"00/1000","text":"Arnaud Charnoz"},{"@pid":"77/2771","text":"Vincent Agnus"},{"@pid":"18/500","text":"Grégoire Malandain"},{"@pid":"07/847","text":"Stéphane Nicolau"},{"@pid":"91/3109","text":"Mohamed Tajine"},{"@pid":"99/2655","text":"Luc Soler"}]},"title":"Design of Robust Vascular Tree Matching: Validation on Liver.","venue":"IPMI","pages":"443-455","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/CharnozAMNTS05","doi":"10.1007/11505730_37","ee":"https://doi.org/10.1007/11505730_37","url":"https://dblp.org/rec/conf/ipmi/CharnozAMNTS05"},
+"url":"URL#6715947"
+},
+{
+"@score":"1",
+"@id":"6715948",
+"info":{"authors":{"author":[{"@pid":"c/YunmeiChen","text":"Yunmei Chen"},{"@pid":"89/2876-2","text":"Weihong Guo 0002"},{"@pid":"82/1137","text":"Qingguo Zeng"},{"@pid":"67/3965","text":"Xiaolu Yan"},{"@pid":"49/2006","text":"Murali Rao"},{"@pid":"41/3457","text":"Yijun Liu"}]},"title":"Apparent Diffusion Coefficient Approximation and Diffusion Anisotropy Characterization in DWI.","venue":"IPMI","pages":"246-257","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/ChenGZYRL05","doi":"10.1007/11505730_21","ee":"https://doi.org/10.1007/11505730_21","url":"https://dblp.org/rec/conf/ipmi/ChenGZYRL05"},
+"url":"URL#6715948"
+},
+{
+"@score":"1",
+"@id":"6715949",
+"info":{"authors":{"author":[{"@pid":"50/3418","text":"Lishui Cheng"},{"@pid":"12/1198-2","text":"Jie Yang 0002"},{"@pid":"64/3326","text":"Xian Fan"},{"@pid":"56/6330","text":"Yuemin Zhu"}]},"title":"A Generalized Level Set Formulation of the Mumford-Shah Functional for Brain MR Image Segmentation.","venue":"IPMI","pages":"418-430","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/ChengYFZ05","doi":"10.1007/11505730_35","ee":"https://doi.org/10.1007/11505730_35","url":"https://dblp.org/rec/conf/ipmi/ChengYFZ05"},
+"url":"URL#6715949"
+},
+{
+"@score":"1",
+"@id":"6715950",
+"info":{"authors":{"author":[{"@pid":"70/6524","text":"Moo K. Chung"},{"@pid":"84/1198","text":"Steve Robbins"},{"@pid":"95/5855","text":"Alan C. Evans"}]},"title":"Unified Statistical Approach to Cortical Thickness Analysis.","venue":"IPMI","pages":"627-638","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/ChungRE05","doi":"10.1007/11505730_52","ee":"https://doi.org/10.1007/11505730_52","url":"https://dblp.org/rec/conf/ipmi/ChungRE05"},
+"url":"URL#6715950"
+},
+{
+"@score":"1",
+"@id":"6715951",
+"info":{"authors":{"author":[{"@pid":"95/1508","text":"Cybèle Ciofolo"},{"@pid":"46/2222","text":"Christian Barillot"}]},"title":"Brain Segmentation with Competitive Level Sets and Fuzzy Control.","venue":"IPMI","pages":"333-344","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/CiofoloB05","doi":"10.1007/11505730_28","ee":"https://doi.org/10.1007/11505730_28","url":"https://dblp.org/rec/conf/ipmi/CiofoloB05"},
+"url":"URL#6715951"
+},
+{
+"@score":"1",
+"@id":"6715952",
+"info":{"authors":{"author":[{"@pid":"63/4387","text":"Eric R. Cosman Jr."},{"@pid":"w/WilliamMWellsIII","text":"William M. Wells III"}]},"title":"Bayesian Population Modeling of Effective Connectivity.","venue":"IPMI","pages":"39-51","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/CosmanW05","doi":"10.1007/11505730_4","ee":"https://doi.org/10.1007/11505730_4","url":"https://dblp.org/rec/conf/ipmi/CosmanW05"},
+"url":"URL#6715952"
+},
+{
+"@score":"1",
+"@id":"6715953",
+"info":{"authors":{"author":[{"@pid":"89/712","text":"Anne Cuzol"},{"@pid":"60/4326","text":"Pierre Hellier"},{"@pid":"90/2632","text":"Étienne Mémin"}]},"title":"A Novel Parametric Method for Non-rigid Image Registration.","venue":"IPMI","pages":"456-467","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/CuzolHM05","doi":"10.1007/11505730_38","ee":"https://doi.org/10.1007/11505730_38","url":"https://dblp.org/rec/conf/ipmi/CuzolHM05"},
+"url":"URL#6715953"
+},
+{
+"@score":"1",
+"@id":"6715954",
+"info":{"authors":{"author":[{"@pid":"98/334","text":"Pierre Fillard"},{"@pid":"86/6788","text":"Vincent Arsigny"},{"@pid":"45/2126","text":"Xavier Pennec"},{"@pid":"t/PaulMThompson","text":"Paul M. Thompson"},{"@pid":"a/NicholasAyache","text":"Nicholas Ayache"}]},"title":"Extrapolation of Sparse Tensor Fields: Application to the Modeling of Brain Variability.","venue":"IPMI","pages":"27-38","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/FillardAPTA05","doi":"10.1007/11505730_3","ee":"https://doi.org/10.1007/11505730_3","url":"https://dblp.org/rec/conf/ipmi/FillardAPTA05"},
+"url":"URL#6715954"
+},
+{
+"@score":"1",
+"@id":"6715955",
+"info":{"authors":{"author":[{"@pid":"42/2481","text":"Rui Gan"},{"@pid":"45/6335","text":"Albert C. S. Chung"}]},"title":"Multi-dimensional Mutual Information Based Robust Image Registration Using Maximum Distance-Gradient-Magnitude.","venue":"IPMI","pages":"210-221","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/GanC05","doi":"10.1007/11505730_18","ee":"https://doi.org/10.1007/11505730_18","url":"https://dblp.org/rec/conf/ipmi/GanC05"},
+"url":"URL#6715955"
+},
+{
+"@score":"1",
+"@id":"6715956",
+"info":{"authors":{"author":[{"@pid":"98/4295","text":"Xiujuan Geng"},{"@pid":"27/4020","text":"Dinesh K. Kumar"},{"@pid":"81/416","text":"Gary E. Christensen"}]},"title":"Transitive Inverse-Consistent Manifold Registration.","venue":"IPMI","pages":"468-479","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/GengKC05","doi":"10.1007/11505730_39","ee":"https://doi.org/10.1007/11505730_39","url":"https://dblp.org/rec/conf/ipmi/GengKC05"},
+"url":"URL#6715956"
+},
+{
+"@score":"1",
+"@id":"6715957",
+"info":{"authors":{"author":[{"@pid":"02/4720","text":"Qiong Han"},{"@pid":"92/41","text":"Stephen M. Pizer"},{"@pid":"60/1661","text":"Derek Merck"},{"@pid":"15/2650","text":"Sarang C. Joshi"},{"@pid":"49/288","text":"Ja-Yeon Jeong"}]},"title":"Multi-figure Anatomical Objects for Shape Statistics.","venue":"IPMI","pages":"701-712","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/HanPMJJ05","doi":"10.1007/11505730_58","ee":"https://doi.org/10.1007/11505730_58","url":"https://dblp.org/rec/conf/ipmi/HanPMJJ05"},
+"url":"URL#6715957"
+},
+{
+"@score":"1",
+"@id":"6715958",
+"info":{"authors":{"author":[{"@pid":"15/1204","text":"M. Sabry Hassouna"},{"@pid":"55/6410","text":"Aly A. Farag"}]},"title":"PDE-Based Three Dimensional Path Planning for Virtual Endoscopy.","venue":"IPMI","pages":"529-540","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/HassounaF05","doi":"10.1007/11505730_44","ee":"https://doi.org/10.1007/11505730_44","url":"https://dblp.org/rec/conf/ipmi/HassounaF05"},
+"url":"URL#6715958"
+},
+{
+"@score":"1",
+"@id":"6715959",
+"info":{"authors":{"author":[{"@pid":"h/TobiasHeimann","text":"Tobias Heimann"},{"@pid":"86/5285","text":"Ivo Wolf"},{"@pid":"05/3466","text":"Tomos G. Williams"},{"@pid":"61/3944","text":"Hans-Peter Meinzer"}]},"title":"3D Active Shape Models Using Gradient Descent Optimization of Description Length.","venue":"IPMI","pages":"566-577","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/HeimannWWM05","doi":"10.1007/11505730_47","ee":"https://doi.org/10.1007/11505730_47","url":"https://dblp.org/rec/conf/ipmi/HeimannWWM05"},
+"url":"URL#6715959"
+},
+{
+"@score":"1",
+"@id":"6715960",
+"info":{"authors":{"author":[{"@pid":"87/283","text":"Bing Jian"},{"@pid":"93/1847","text":"Baba C. Vemuri"},{"@pid":"18/5283","text":"José L. Marroquín"}]},"title":"Robust Nonrigid Multimodal Image Registration Using Local Frequency Maps.","venue":"IPMI","pages":"504-515","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/JianVM05","doi":"10.1007/11505730_42","ee":"https://doi.org/10.1007/11505730_42","url":"https://dblp.org/rec/conf/ipmi/JianVM05"},
+"url":"URL#6715960"
+},
+{
+"@score":"1",
+"@id":"6715961",
+"info":{"authors":{"author":[{"@pid":"74/905","text":"Lisa Jonasson"},{"@pid":"70/3658","text":"Patric Hagmann"},{"@pid":"95/378","text":"Xavier Bresson"},{"@pid":"t/JeanPhilippeThiran","text":"Jean-Philippe Thiran"},{"@pid":"62/1757","text":"Van J. Wedeen"}]},"title":"Representing Diffusion MRI in 5D for Segmentation of White Matter Tracts with a Level Set Method.","venue":"IPMI","pages":"311-320","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/JonassonHBTW05","doi":"10.1007/11505730_26","ee":"https://doi.org/10.1007/11505730_26","url":"https://dblp.org/rec/conf/ipmi/JonassonHBTW05"},
+"url":"URL#6715961"
+},
+{
+"@score":"1",
+"@id":"6715962",
+"info":{"authors":{"author":[{"@pid":"j/ShantanuHJoshi","text":"Shantanu H. Joshi"},{"@pid":"32/6819","text":"Anuj Srivastava"},{"@pid":"54/6226","text":"Washington Mio"}]},"title":"Elastic Shape Models for Interpolations of Curves in Image Sequences.","venue":"IPMI","pages":"541-552","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/JoshiSM05","doi":"10.1007/11505730_45","ee":"https://doi.org/10.1007/11505730_45","url":"https://dblp.org/rec/conf/ipmi/JoshiSM05"},
+"url":"URL#6715962"
+},
+{
+"@score":"1",
+"@id":"6715963",
+"info":{"authors":{"author":[{"@pid":"10/3500","text":"Anand A. Joshi"},{"@pid":"01/1852","text":"David W. Shattuck"},{"@pid":"t/PaulMThompson","text":"Paul M. Thompson"},{"@pid":"56/6375","text":"Richard M. Leahy"}]},"title":"A Framework for Registration, Statistical Characterization and Classification of Cortically Constrained Functional Imaging Data.","venue":"IPMI","pages":"186-196","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/JoshiSTL05","doi":"10.1007/11505730_16","ee":"https://doi.org/10.1007/11505730_16","url":"https://dblp.org/rec/conf/ipmi/JoshiSTL05"},
+"url":"URL#6715963"
+},
+{
+"@score":"1",
+"@id":"6715964",
+"info":{"authors":{"author":[{"@pid":"09/93","text":"Nico Karssemeijer"},{"@pid":"91/5880","text":"Peter R. Snoeren"},{"@pid":"10/4661","text":"Wei Zhang"}]},"title":"Linearization of Mammograms Using Parameters Derived from Noise Characteristics.","venue":"IPMI","pages":"258-269","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/KarssemeijerSZ05","doi":"10.1007/11505730_22","ee":"https://doi.org/10.1007/11505730_22","url":"https://dblp.org/rec/conf/ipmi/KarssemeijerSZ05"},
+"url":"URL#6715964"
+},
+{
+"@score":"1",
+"@id":"6715965",
+"info":{"authors":{"author":[{"@pid":"49/4050","text":"Jan Kybic"},{"@pid":"56/6172","text":"Daniel Smutek"}]},"title":"Computational Elastography from Standard Ultrasound Image Sequences by Global Trust Region Optimization.","venue":"IPMI","pages":"299-310","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/KybicS05","doi":"10.1007/11505730_25","ee":"https://doi.org/10.1007/11505730_25","url":"https://dblp.org/rec/conf/ipmi/KybicS05"},
+"url":"URL#6715965"
+},
+{
+"@score":"1",
+"@id":"6715966",
+"info":{"authors":{"author":[{"@pid":"l/ErikGLearnedMiller","text":"Erik G. Learned-Miller"},{"@pid":"68/5650","text":"Vidit Jain"}]},"title":"Many Heads Are Better Than One: Jointly Removing Bias from Multiple MRIs Using Nonparametric Maximum Likelihood.","venue":"IPMI","pages":"615-626","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/Learned-MillerJ05","doi":"10.1007/11505730_51","ee":"https://doi.org/10.1007/11505730_51","url":"https://dblp.org/rec/conf/ipmi/Learned-MillerJ05"},
+"url":"URL#6715966"
+},
+{
+"@score":"1",
+"@id":"6715967",
+"info":{"authors":{"author":[{"@pid":"62/1649","text":"Christophe Lenglet"},{"@pid":"r/MikaelRousson","text":"Mikaël Rousson"},{"@pid":"07/4284","text":"Rachid Deriche"},{"@pid":"48/4143","text":"Olivier D. Faugeras"},{"@pid":"39/6796","text":"Stéphane Lehéricy"},{"@pid":"67/3787","text":"Kâmil Ugurbil"}]},"title":"A Riemannian Approach to Diffusion Tensor Images Segmentation.","venue":"IPMI","pages":"591-602","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/LengletRDFLU05","doi":"10.1007/11505730_49","ee":"https://doi.org/10.1007/11505730_49","url":"https://dblp.org/rec/conf/ipmi/LengletRDFLU05"},
+"url":"URL#6715967"
+},
+{
+"@score":"1",
+"@id":"6715968",
+"info":{"authors":{"author":[{"@pid":"68/3742","text":"Alex D. Leow"},{"@pid":"89/377","text":"Sung-Cheng Huang"},{"@pid":"25/6472","text":"Alex Geng"},{"@pid":"58/2349","text":"James T. Becker"},{"@pid":"68/4830","text":"Simon W. Davis"},{"@pid":"88/6076","text":"Arthur W. Toga"},{"@pid":"t/PaulMThompson","text":"Paul M. Thompson"}]},"title":"Inverse Consistent Mapping in 3D Deformable Image Registration: Its Construction and Statistical Properties.","venue":"IPMI","pages":"493-503","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/LeowHGBDTT05","doi":"10.1007/11505730_41","ee":"https://doi.org/10.1007/11505730_41","url":"https://dblp.org/rec/conf/ipmi/LeowHGBDTT05"},
+"url":"URL#6715968"
+},
+{
+"@score":"1",
+"@id":"6715969",
+"info":{"authors":{"author":[{"@pid":"181/2763","text":"Kang Li"},{"@pid":"25/3248","text":"Steven Millington"},{"@pid":"26/373-1","text":"Xiaodong Wu 0001"},{"@pid":"c/DannyZChen","text":"Danny Z. Chen"},{"@pid":"19/1003","text":"Milan Sonka"}]},"title":"Simultaneous Segmentation of Multiple Closed Surfaces Using Optimal Graph Searching.","venue":"IPMI","pages":"406-417","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/LiMWCS05","doi":"10.1007/11505730_34","ee":"https://doi.org/10.1007/11505730_34","url":"https://dblp.org/rec/conf/ipmi/LiMWCS05"},
+"url":"URL#6715969"
+},
+{
+"@score":"1",
+"@id":"6715970",
+"info":{"authors":{"author":[{"@pid":"80/5995","text":"Andrew Litvin"},{"@pid":"73/1905","text":"William Clement Karl"}]},"title":"Coupled Shape Distribution-Based Segmentation of Multiple Objects.","venue":"IPMI","pages":"345-356","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/LitvinK05","doi":"10.1007/11505730_29","ee":"https://doi.org/10.1007/11505730_29","url":"https://dblp.org/rec/conf/ipmi/LitvinK05"},
+"url":"URL#6715970"
+},
+{
+"@score":"1",
+"@id":"6715971",
+"info":{"authors":{"author":[{"@pid":"48/4950-3","text":"Huafeng Liu 0003"},{"@pid":"98/1774","text":"Yi Tian"},{"@pid":"05/773","text":"Pengcheng Shi"}]},"title":"PET Image Reconstruction: A Robust State Space Approach.","venue":"IPMI","pages":"197-209","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/LiuTS05","doi":"10.1007/11505730_17","ee":"https://doi.org/10.1007/11505730_17","url":"https://dblp.org/rec/conf/ipmi/LiuTS05"},
+"url":"URL#6715971"
+},
+{
+"@score":"1",
+"@id":"6715972",
+"info":{"authors":{"author":[{"@pid":"42/1569","text":"Rashindra Manniesing"},{"@pid":"93/6561","text":"Wiro J. Niessen"}]},"title":"Multiscale Vessel Enhancing Diffusion in CT Angiography Noise Filtering.","venue":"IPMI","pages":"138-149","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/ManniesingN05","doi":"10.1007/11505730_12","ee":"https://doi.org/10.1007/11505730_12","url":"https://dblp.org/rec/conf/ipmi/ManniesingN05"},
+"url":"URL#6715972"
+},
+{
+"@score":"1",
+"@id":"6715973",
+"info":{"authors":{"author":[{"@pid":"33/1707","text":"Ramkrishnan Narayanan"},{"@pid":"f/JeffreyAFessler","text":"Jeffrey A. Fessler"},{"@pid":"41/4978","text":"Hyunjin Park"},{"@pid":"54/2100","text":"Charles R. Meyer"}]},"title":"Diffeomorphic Nonlinear Transformations: A Local Parametric Approach for Image Registration.","venue":"IPMI","pages":"174-185","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/NarayananFPM05","doi":"10.1007/11505730_15","ee":"https://doi.org/10.1007/11505730_15","url":"https://dblp.org/rec/conf/ipmi/NarayananFPM05"},
+"url":"URL#6715973"
+},
+{
+"@score":"1",
+"@id":"6715974",
+"info":{"authors":{"author":[{"@pid":"78/1150","text":"Wanmei Ou"},{"@pid":"g/PolinaGolland","text":"Polina Golland"}]},"title":"From Spatial Regularization to Anatomical Priors in fMRI Analysis.","venue":"IPMI","pages":"88-100","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/OuG05","doi":"10.1007/11505730_8","ee":"https://doi.org/10.1007/11505730_8","url":"https://dblp.org/rec/conf/ipmi/OuG05"},
+"url":"URL#6715974"
+},
+{
+"@score":"1",
+"@id":"6715975",
+"info":{"authors":{"author":[{"@pid":"32/1704","text":"Xenophon Papademetris"},{"@pid":"66/4288","text":"Pavel Shkarin"},{"@pid":"39/3501","text":"Lawrence H. Staib"},{"@pid":"27/1323","text":"Kevin L. Behar"}]},"title":"Regional Whole Body Fat Quantification in Mice.","venue":"IPMI","pages":"369-380","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/PapademetrisSSB05","doi":"10.1007/11505730_31","ee":"https://doi.org/10.1007/11505730_31","url":"https://dblp.org/rec/conf/ipmi/PapademetrisSSB05"},
+"url":"URL#6715975"
+},
+{
+"@score":"1",
+"@id":"6715976",
+"info":{"authors":{"author":[{"@pid":"11/2795","text":"Muriel Perrin"},{"@pid":"45/5918","text":"Cyril Poupon"},{"@pid":"10/1235","text":"Yann Cointepas"},{"@pid":"50/1271","text":"Bernard Rieul"},{"@pid":"77/7033","text":"Narly Golestani"},{"@pid":"83/7489","text":"Christophe Pallier"},{"@pid":"26/4363","text":"Denis Rivière"},{"@pid":"27/1798","text":"André Constantinesco"},{"@pid":"31/1896","text":"Denis Le Bihan"},{"@pid":"59/3314","text":"Jean-François Mangin"}]},"title":"Fiber Tracking in q-Ball Fields Using Regularized Particle Trajectories.","venue":"IPMI","pages":"52-63","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/PerrinPCRGPRCBM05","doi":"10.1007/11505730_5","ee":"https://doi.org/10.1007/11505730_5","url":"https://dblp.org/rec/conf/ipmi/PerrinPCRGPRCBM05"},
+"url":"URL#6715976"
+},
+{
+"@score":"1",
+"@id":"6715977",
+"info":{"authors":{"author":[{"@pid":"r/TorstenRohlfing","text":"Torsten Rohlfing"},{"@pid":"46/3124","text":"Adolf Pfefferbaum"},{"@pid":"55/1055","text":"Edith V. Sullivan"},{"@pid":"m/CalvinRMaurer","text":"Calvin R. Maurer Jr."}]},"title":"Information Fusion in Biomedical Image Analysis: Combination of Data vs. Combination of Interpretations.","venue":"IPMI","pages":"150-161","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/RohlfingPSM05","doi":"10.1007/11505730_13","ee":"https://doi.org/10.1007/11505730_13","url":"https://dblp.org/rec/conf/ipmi/RohlfingPSM05"},
+"url":"URL#6715977"
+},
+{
+"@score":"1",
+"@id":"6715978",
+"info":{"authors":{"author":{"@pid":"69/2417","text":"Karl Rohr"}},"title":"Fundamental Limits in 3D Landmark Localization.","venue":"IPMI","pages":"286-298","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/Rohr05","doi":"10.1007/11505730_24","ee":"https://doi.org/10.1007/11505730_24","url":"https://dblp.org/rec/conf/ipmi/Rohr05"},
+"url":"URL#6715978"
+},
+{
+"@score":"1",
+"@id":"6715979",
+"info":{"authors":{"author":[{"@pid":"75/5490","text":"Mamatha Rudrapatna"},{"@pid":"31/4873","text":"Van Mai"},{"@pid":"83/3319","text":"Arcot Sowmya"},{"@pid":"10/5524-1","text":"Peter Wilson 0001"}]},"title":"Knowledge-Driven Automated Detection of Pleural Plaques and Thickening in High Resolution CT of the Lung.","venue":"IPMI","pages":"270-285","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/RudrapatnaMSW05","doi":"10.1007/11505730_23","ee":"https://doi.org/10.1007/11505730_23","url":"https://dblp.org/rec/conf/ipmi/RudrapatnaMSW05"},
+"url":"URL#6715979"
+},
+{
+"@score":"1",
+"@id":"6715980",
+"info":{"authors":{"author":[{"@pid":"36/1361","text":"Florent Ségonne"},{"@pid":"g/WEricLGrimson","text":"W. Eric L. Grimson"},{"@pid":"40/1628","text":"Bruce Fischl"}]},"title":"A Genetic Algorithm for the Topology Correction of Cortical Surfaces.","venue":"IPMI","pages":"393-405","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/SegonneGF05","doi":"10.1007/11505730_33","ee":"https://doi.org/10.1007/11505730_33","url":"https://dblp.org/rec/conf/ipmi/SegonneGF05"},
+"url":"URL#6715980"
+},
+{
+"@score":"1",
+"@id":"6715981",
+"info":{"authors":{"author":[{"@pid":"02/5717","text":"Xilin Shen"},{"@pid":"03/1017","text":"François G. Meyer"}]},"title":"Analysis of Event-Related fMRI Data Using Diffusion Maps.","venue":"IPMI","pages":"652-663","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/ShenM05","doi":"10.1007/11505730_54","ee":"https://doi.org/10.1007/11505730_54","url":"https://dblp.org/rec/conf/ipmi/ShenM05"},
+"url":"URL#6715981"
+},
+{
+"@score":"1",
+"@id":"6715982",
+"info":{"authors":{"author":[{"@pid":"30/6194","text":"Hackjoon Shim"},{"@pid":"67/1367","text":"Il Dong Yun"},{"@pid":"17/4029","text":"Kyoung Mu Lee"},{"@pid":"l/SangUkLee","text":"Sang Uk Lee"}]},"title":"Partition-Based Extraction of Cerebral Arteries from CT Angiography with Emphasis on Adaptive Tracking.","venue":"IPMI","pages":"357-368","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/ShimYLL05","doi":"10.1007/11505730_30","ee":"https://doi.org/10.1007/11505730_30","url":"https://dblp.org/rec/conf/ipmi/ShimYLL05"},
+"url":"URL#6715982"
+},
+{
+"@score":"1",
+"@id":"6715983",
+"info":{"authors":{"author":[{"@pid":"53/3793","text":"Mallika Sridhar"},{"@pid":"78/5826","text":"Michael F. Insana"}]},"title":"Imaging Tumor Microenvironment with Ultrasound.","venue":"IPMI","pages":"516-528","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/SridharI05","doi":"10.1007/11505730_43","ee":"https://doi.org/10.1007/11505730_43","url":"https://dblp.org/rec/conf/ipmi/SridharI05"},
+"url":"URL#6715983"
+},
+{
+"@score":"1",
+"@id":"6715984",
+"info":{"authors":{"author":[{"@pid":"32/6478","text":"Avan Suinesiaputra"},{"@pid":"16/4982","text":"Alejandro F. Frangi"},{"@pid":"69/6837","text":"Hildo J. Lamb"},{"@pid":"06/3467","text":"Johan H. C. Reiber"},{"@pid":"57/2418","text":"Boudewijn P. F. Lelieveldt"}]},"title":"Automatic Prediction of Myocardial Contractility Improvement in Stress MRI Using Shape Morphometrics with Independent Component Analysis.","venue":"IPMI","pages":"321-332","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/SuinesiaputraFLRL05","doi":"10.1007/11505730_27","ee":"https://doi.org/10.1007/11505730_27","url":"https://dblp.org/rec/conf/ipmi/SuinesiaputraFLRL05"},
+"url":"URL#6715984"
+},
+{
+"@score":"1",
+"@id":"6715985",
+"info":{"authors":{"author":[{"@pid":"60/4300","text":"Walter Sun"},{"@pid":"60/721","text":"Müjdat Çetin"},{"@pid":"93/1262","text":"Raymond C. Chan"},{"@pid":"69/808","text":"Vivek Y. Reddy"},{"@pid":"69/46","text":"Godtfred Holmvang"},{"@pid":"17/4991","text":"Venkat Chandar"},{"@pid":"48/6690","text":"Alan S. Willsky"}]},"title":"Segmenting and Tracking the Left Ventricle by Learning the Dynamics in Cardiac Images.","venue":"IPMI","pages":"553-565","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/SunCCRHCW05","doi":"10.1007/11505730_46","ee":"https://doi.org/10.1007/11505730_46","url":"https://dblp.org/rec/conf/ipmi/SunCCRHCW05"},
+"url":"URL#6715985"
+},
+{
+"@score":"1",
+"@id":"6715986",
+"info":{"authors":{"author":[{"@pid":"46/4797","text":"Zhong Tao 0001"},{"@pid":"82/2234","text":"Hemant D. Tagare"}]},"title":"Tunneling Descent Level Set Segmentation of Ultrasound Images.","venue":"IPMI","pages":"750-761","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/TaoT05","doi":"10.1007/11505730_62","ee":"https://doi.org/10.1007/11505730_62","url":"https://dblp.org/rec/conf/ipmi/TaoT05"},
+"url":"URL#6715986"
+},
+{
+"@score":"1",
+"@id":"6715987",
+"info":{"authors":{"author":[{"@pid":"79/1862","text":"Timothy B. Terriberry"},{"@pid":"15/2650","text":"Sarang C. Joshi"},{"@pid":"g/GuidoGerig","text":"Guido Gerig"}]},"title":"Hypothesis Testing with Nonlinear Shape Models.","venue":"IPMI","pages":"15-26","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/TerriberryJG05","doi":"10.1007/11505730_2","ee":"https://doi.org/10.1007/11505730_2","url":"https://dblp.org/rec/conf/ipmi/TerriberryJG05"},
+"url":"URL#6715987"
+},
+{
+"@score":"1",
+"@id":"6715988",
+"info":{"authors":{"author":[{"@pid":"44/4335","text":"Duygu Tosun"},{"@pid":"p/JerryLPrince","text":"Jerry L. Prince"}]},"title":"Cortical Surface Alignment Using Geometry Driven Multispectral Optical Flow.","venue":"IPMI","pages":"480-492","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/TosunP05","doi":"10.1007/11505730_40","ee":"https://doi.org/10.1007/11505730_40","url":"https://dblp.org/rec/conf/ipmi/TosunP05"},
+"url":"URL#6715988"
+},
+{
+"@score":"1",
+"@id":"6715989",
+"info":{"authors":{"author":[{"@pid":"83/6160","text":"Carole J. Twining"},{"@pid":"22/4959","text":"Timothy F. Cootes"},{"@pid":"65/8284","text":"Stephen Marsland"},{"@pid":"33/6852","text":"Vladimir S. Petrovic"},{"@pid":"82/4501","text":"Roy Schestowitz"},{"@pid":"37/6755","text":"Christopher J. Taylor 0001"}]},"title":"A Unified Information-Theoretic Approach to Groupwise Non-rigid Registration and Model Building.","venue":"IPMI","pages":"1-14","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/TwiningCMPST05","doi":"10.1007/11505730_1","ee":"https://doi.org/10.1007/11505730_1","url":"https://dblp.org/rec/conf/ipmi/TwiningCMPST05"},
+"url":"URL#6715989"
+},
+{
+"@score":"1",
+"@id":"6715990",
+"info":{"authors":{"author":[{"@pid":"52/2741","text":"Marc Vaillant"},{"@pid":"29/2956","text":"Joan Alexis Glaunès"}]},"title":"Surface Matching via Currents.","venue":"IPMI","pages":"381-392","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/VaillantG05","doi":"10.1007/11505730_32","ee":"https://doi.org/10.1007/11505730_32","url":"https://dblp.org/rec/conf/ipmi/VaillantG05"},
+"url":"URL#6715990"
+},
+{
+"@score":"1",
+"@id":"6715991",
+"info":{"authors":{"author":[{"@pid":"40/1804","text":"Prashanthi Vemuri"},{"@pid":"71/1944","text":"Eugene G. Kholmovski"},{"@pid":"40/4657","text":"Dennis L. Parker"},{"@pid":"04/1530","text":"Brian E. Chapman"}]},"title":"Coil Sensitivity Estimation for Optimal SNR Reconstruction and Intensity Inhomogeneity Correction in Phased Array MR Imaging.","venue":"IPMI","pages":"603-614","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/VemuriKPC05","doi":"10.1007/11505730_50","ee":"https://doi.org/10.1007/11505730_50","url":"https://dblp.org/rec/conf/ipmi/VemuriKPC05"},
+"url":"URL#6715991"
+},
+{
+"@score":"1",
+"@id":"6715992",
+"info":{"authors":{"author":[{"@pid":"99/3759","text":"Yuehuan Wang"},{"@pid":"79/4183","text":"Amir A. Amini"}]},"title":"Integrable Pressure Gradients via Harmonics-Based Orthogonal Projection.","venue":"IPMI","pages":"431-442","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/WangA05","doi":"10.1007/11505730_36","ee":"https://doi.org/10.1007/11505730_36","url":"https://dblp.org/rec/conf/ipmi/WangA05"},
+"url":"URL#6715992"
+},
+{
+"@score":"1",
+"@id":"6715993",
+"info":{"authors":{"author":[{"@pid":"75/5723","text":"Qian Wang"},{"@pid":"41/241","text":"Dieter Seghers"},{"@pid":"01/3539","text":"Emiliano D&apos;Agostino"},{"@pid":"22/832","text":"Frederik Maes"},{"@pid":"14/1511","text":"Dirk Vandermeulen"},{"@pid":"97/5888","text":"Paul Suetens"},{"@pid":"88/3295","text":"Alexander Hammers"}]},"title":"Construction and Validation of Mean Shape Atlas Templates for Atlas-Based Brain Image Segmentation.","venue":"IPMI","pages":"689-700","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/WangSDMVSH05","doi":"10.1007/11505730_57","ee":"https://doi.org/10.1007/11505730_57","url":"https://dblp.org/rec/conf/ipmi/WangSDMVSH05"},
+"url":"URL#6715993"
+},
+{
+"@score":"1",
+"@id":"6715994",
+"info":{"authors":{"author":[{"@pid":"32/835","text":"Thomas H. Wenckebach"},{"@pid":"63/3053","text":"Hans Lamecker"},{"@pid":"49/283","text":"Hans-Christian Hege"}]},"title":"Capturing Anatomical Shape Variability Using B-Spline Registration.","venue":"IPMI","pages":"578-590","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/WenckebachLH05","doi":"10.1007/11505730_48","ee":"https://doi.org/10.1007/11505730_48","url":"https://dblp.org/rec/conf/ipmi/WenckebachLH05"},
+"url":"URL#6715994"
+},
+{
+"@score":"1",
+"@id":"6715995",
+"info":{"authors":{"author":[{"@pid":"97/4635","text":"Quentin R. Williams"},{"@pid":"n/JAlisonNoble","text":"J. Alison Noble"},{"@pid":"28/4819","text":"Alexander Ehlgen"},{"@pid":"15/4480","text":"Harald Becher"}]},"title":"Tissue Perfusion Diagnostic Classification Using a Spatio-temporal Analysis of Contrast Ultrasound Image Sequences.","venue":"IPMI","pages":"222-233","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/WilliamsNEB05","doi":"10.1007/11505730_19","ee":"https://doi.org/10.1007/11505730_19","url":"https://dblp.org/rec/conf/ipmi/WilliamsNEB05"},
+"url":"URL#6715995"
+},
+{
+"@score":"1",
+"@id":"6715996",
+"info":{"authors":{"author":[{"@pid":"40/1615","text":"Christopher L. Wyatt"},{"@pid":"02/1094","text":"Narter Ari"},{"@pid":"11/367","text":"Robert A. Kraft"}]},"title":"Spherical Navigator Registration Using Harmonic Analysis for Prospective Motion Correction.","venue":"IPMI","pages":"738-749","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/WyattAK05","doi":"10.1007/11505730_61","ee":"https://doi.org/10.1007/11505730_61","url":"https://dblp.org/rec/conf/ipmi/WyattAK05"},
+"url":"URL#6715996"
+},
+{
+"@score":"1",
+"@id":"6715997",
+"info":{"authors":{"author":[{"@pid":"07/3081","text":"Xiaohua Chen"},{"@pid":"b/MichaelBrady","text":"Michael Brady 0001"},{"@pid":"56/5720","text":"Jonathan Lok-Chuen Lo"},{"@pid":"33/2390","text":"Niall Moore"}]},"title":"Simultaneous Segmentation and Registration of Contrast-Enhanced Breast MRI.","venue":"IPMI","pages":"126-137","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/XiaohuaBLM05","doi":"10.1007/11505730_11","ee":"https://doi.org/10.1007/11505730_11","url":"https://dblp.org/rec/conf/ipmi/XiaohuaBLM05"},
+"url":"URL#6715997"
+},
+{
+"@score":"1",
+"@id":"6715998",
+"info":{"authors":{"author":[{"@pid":"52/4733","text":"Zhong Xue"},{"@pid":"14/4383","text":"Dinggang Shen"},{"@pid":"d/ChristosDavatzikos","text":"Christos Davatzikos"}]},"title":"CLASSIC: Consistent Longitudinal Alignment and Segmentation for Serial Image Computing.","venue":"IPMI","pages":"101-113","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/XueSD05","doi":"10.1007/11505730_9","ee":"https://doi.org/10.1007/11505730_9","url":"https://dblp.org/rec/conf/ipmi/XueSD05"},
+"url":"URL#6715998"
+},
+{
+"@score":"1",
+"@id":"6715999",
+"info":{"authors":{"author":[{"@pid":"40/2638","text":"Paul A. Yushkevich"},{"@pid":"z/HuiZhang5","text":"Hui Zhang 0005"},{"@pid":"30/6904","text":"James C. Gee"}]},"title":"Parametric Medial Shape Representation in 3-D via the Poisson Partial Differential Equation with Non-linear Boundary Conditions.","venue":"IPMI","pages":"162-173","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/YushkevichZG05","doi":"10.1007/11505730_14","ee":"https://doi.org/10.1007/11505730_14","url":"https://dblp.org/rec/conf/ipmi/YushkevichZG05"},
+"url":"URL#6715999"
+},
+{
+"@score":"1",
+"@id":"6716000",
+"info":{"authors":{"author":[{"@pid":"z/JunZhang1","text":"Jun Zhang 0001"},{"@pid":"47/2109-8","text":"Ning Kang 0008"},{"@pid":"26/1716","text":"Stephen E. Rose"}]},"title":"Approximating Anatomical Brain Connectivity with Diffusion Tensor MRI Using Kernel-Based Diffusion Simulations.","venue":"IPMI","pages":"64-75","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/ZhangKR05","doi":"10.1007/11505730_6","ee":"https://doi.org/10.1007/11505730_6","url":"https://dblp.org/rec/conf/ipmi/ZhangKR05"},
+"url":"URL#6716000"
+},
+{
+"@score":"1",
+"@id":"6716001",
+"info":{"authors":{"author":[{"@pid":"36/4237","text":"Xiangwei Zhang"},{"@pid":"64/4177","text":"Geoffrey McLennan"},{"@pid":"04/3596","text":"Eric A. Hoffman"},{"@pid":"19/1003","text":"Milan Sonka"}]},"title":"Automated Detection of Small-Size Pulmonary Nodules Based on Helical CT Images.","venue":"IPMI","pages":"664-676","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/ZhangMHS05","doi":"10.1007/11505730_55","ee":"https://doi.org/10.1007/11505730_55","url":"https://dblp.org/rec/conf/ipmi/ZhangMHS05"},
+"url":"URL#6716001"
+},
+{
+"@score":"1",
+"@id":"6716002",
+"info":{"authors":{"author":[{"@pid":"84/6889-25","text":"Jie Zhang 0025"},{"@pid":"90/6511-1","text":"Anand Rangarajan 0001"}]},"title":"Multimodality Image Registration Using an Extensible Information Metric and High Dimensional Histogramming.","venue":"IPMI","pages":"725-737","year":"2005","type":"Conference and Workshop Papers","access":"closed","key":"conf/ipmi/ZhangR05","doi":"10.1007/11505730_60","ee":"https://doi.org/10.1007/11505730_60","url":"https://dblp.org/rec/conf/ipmi/ZhangR05"},
+"url":"URL#6716002"
+},
+{
+"@score":"1",
+"@id":"6754718",
+"info":{"authors":{"author":[{"@pid":"81/416","text":"Gary E. Christensen"},{"@pid":"19/1003","text":"Milan Sonka"}]},"title":"Information Processing in Medical Imaging, 19th International Conference, IPMI 2005, Glenwood Springs, CO, USA, July 10-15, 2005, Proceedings","venue":["IPMI","Lecture Notes in Computer Science"],"volume":"3565","publisher":"Springer","year":"2005","type":"Editorship","key":"conf/ipmi/2005","doi":"10.1007/B137723","ee":"https://doi.org/10.1007/b137723","url":"https://dblp.org/rec/conf/ipmi/2005"},
+"url":"URL#6754718"
+}
+]
+}
+}
+}

@@ -1,0 +1,42 @@
+node1,node2,similarity,distance
+discrete label,incremental syntactic representation,-0.2538,1.5835
+incremental syntactic representation,parse tree,0.2249,1.2451
+incremental syntactic representation,syntactic choices,0.0901,1.349
+incremental processing,incremental syntactic representation,0.8024,0.6287
+discrete label,parse tree,-0.5005,1.7323
+discrete label,syntactic choices,-0.2774,1.5984
+discrete label,incremental processing,-0.3023,1.6139
+parse tree,syntactic choices,0.0426,1.3838
+incremental processing,parse tree,-0.1632,1.5252
+incremental processing,syntactic choices,-0.0116,1.4224
+Penn Treebank,incremental syntactic representation,0.1099,1.3342
+F1,incremental syntactic representation,0.2771,1.2024
+bits per word,incremental syntactic representation,0.0581,1.3725
+incremental syntactic representation,pre-trained embeddings,-0.2619,1.5886
+Penn Treebank,discrete label,-0.2438,1.5772
+F1,discrete label,-0.5985,1.788
+bits per word,discrete label,-0.3093,1.6182
+discrete label,pre-trained embeddings,0.2444,1.2293
+Penn Treebank,parse tree,-0.0432,1.4445
+F1,parse tree,0.8962,0.4557
+bits per word,parse tree,0.945,0.3315
+parse tree,pre-trained embeddings,-0.4713,1.7154
+Penn Treebank,syntactic choices,0.9853,0.1715
+F1,syntactic choices,0.4124,1.0841
+bits per word,syntactic choices,-0.0458,1.4462
+pre-trained embeddings,syntactic choices,-0.2866,1.6041
+Penn Treebank,incremental processing,0.0257,1.3959
+F1,incremental processing,-0.0403,1.4424
+bits per word,incremental processing,-0.376,1.6589
+incremental processing,pre-trained embeddings,-0.0585,1.455
+F1,Penn Treebank,0.3086,1.1759
+Penn Treebank,bits per word,-0.1245,1.4997
+Penn Treebank,pre-trained embeddings,-0.1493,1.5161
+F1,bits per word,0.7723,0.6749
+F1,pre-trained embeddings,-0.6559,1.8199
+bits per word,pre-trained embeddings,-0.2952,1.6094
+syntactic ambiguities,syntactic choices,0.9094,0.4257
+Penn Treebank,syntactic ambiguities,0.9377,0.353
+F1,syntactic ambiguities,0.1323,1.3174
+bits per word,syntactic ambiguities,-0.201,1.5498
+pre-trained embeddings,syntactic ambiguities,0.0094,1.4076

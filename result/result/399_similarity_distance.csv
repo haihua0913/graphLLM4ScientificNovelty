@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+image warping,non-rigid registration,0.5928,0.9024
+Brownian warps,non-rigid registration,0.64,0.8485
+Brownian warps,image warping,0.3544,1.1363
+differential operator,non-rigid registration,0.6021,0.8921
+differential operator,image warping,-0.1987,1.5484
+Brownian warps,differential operator,0.5716,0.9256
+Brownian warps,stochastic differential equation,0.8796,0.4908
+Brownian warps,flows of diffeomorphisms,0.5716,0.9256
+differential operator,stochastic differential equation,0.2338,1.2379
+differential operator,flows of diffeomorphisms,1.0,0.0
+flows of diffeomorphisms,stochastic differential equation,0.2338,1.2379
+differential operator,statistical properties,0.5017,0.9983
+Brownian motions,differential operator,0.3166,1.1691
+statistical properties,stochastic differential equation,0.2807,1.1994
+Brownian motions,stochastic differential equation,0.9059,0.4338
+flows of diffeomorphisms,statistical properties,0.5017,0.9983
+Brownian motions,flows of diffeomorphisms,0.3166,1.1691
+Brownian motions,statistical properties,0.273,1.2058
+renormalization,stochastic differential equation,0.0597,1.3713
+flows of diffeomorphisms,renormalization,0.682,0.7974
+renormalization,statistical properties,0.8919,0.4651
+Brownian motions,renormalization,0.0407,1.3851
+Brownian motions,landmark matching,-0.5796,1.7774
+landmark matching,renormalization,-0.1962,1.5467

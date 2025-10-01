@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+Neural Scene Flow Prior,dense lidar points,-0.148,1.5153
+Neural Scene Flow Prior,coordinate neural network,-0.2259,1.5658
+Neural Scene Flow Prior,runtime,-0.224,1.5646
+coordinate neural network,dense lidar points,-0.11,1.49
+dense lidar points,runtime,0.0207,1.3995
+coordinate neural network,runtime,-0.0151,1.4249
+Chamfer distance,runtime,0.1021,1.34
+distance transform,runtime,0.1002,1.3415
+Chamfer distance,distance transform,0.765,0.6856
+fast neural scene flow,runtime,0.2509,1.224
+real-time performance,runtime,0.058,1.3726
+Chamfer distance,fast neural scene flow,0.2841,1.1965
+Chamfer distance,real-time performance,0.9938,0.1111
+distance transform,fast neural scene flow,0.642,0.8462
+distance transform,real-time performance,0.787,0.6527
+fast neural scene flow,real-time performance,0.301,1.1824

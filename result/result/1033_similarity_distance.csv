@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+adversarial examples,robustness,0.0837,1.3538
+adversarial examples,performance measure,-0.1955,1.5463
+performance measure,robustness,-0.0489,1.4484
+Houdini,adversarial examples,-0.1308,1.5038
+Houdini,robustness,-0.1409,1.5106
+Houdini,performance measure,-0.0139,1.424
+adversarial examples,speech recognition,-0.2748,1.5968
+adversarial examples,semantic segmentation,0.1805,1.2802
+Houdini,speech recognition,0.8657,0.5183
+Houdini,semantic segmentation,-0.1294,1.503
+performance measure,speech recognition,-0.2745,1.5966
+performance measure,semantic segmentation,-0.0453,1.4459
+semantic segmentation,speech recognition,-0.0886,1.4756
+adversarial examples,success rate,0.2011,1.2641
+adversarial examples,adversarial perturbation,0.8936,0.4613
+Houdini,success rate,-0.0155,1.4252
+Houdini,adversarial perturbation,-0.0342,1.4382
+performance measure,success rate,0.109,1.3349
+adversarial perturbation,performance measure,-0.3009,1.613
+speech recognition,success rate,-0.1303,1.5035
+adversarial perturbation,speech recognition,-0.1016,1.4843
+semantic segmentation,success rate,0.1462,1.3068
+adversarial perturbation,semantic segmentation,-0.2166,1.5598
+adversarial perturbation,success rate,-0.0053,1.4179

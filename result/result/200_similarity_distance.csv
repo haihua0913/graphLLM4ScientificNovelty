@@ -1,0 +1,38 @@
+node1,node2,similarity,distance
+Inverse Reinforcement Learning,reward function,-0.4675,1.7132
+Inverse Reinforcement Learning,policy,0.0029,1.4122
+Inverse Reinforcement Learning,optimality,0.975,0.2237
+Boltzmann rationality,Inverse Reinforcement Learning,0.048,1.3798
+Inverse Reinforcement Learning,causal entropy maximisation,-0.3851,1.6644
+policy,reward function,0.3535,1.1371
+optimality,reward function,-0.4683,1.7136
+Boltzmann rationality,reward function,0.0566,1.3736
+causal entropy maximisation,reward function,0.7298,0.7351
+optimality,policy,0.0823,1.3547
+Boltzmann rationality,policy,0.7626,0.6891
+causal entropy maximisation,policy,0.0758,1.3595
+Boltzmann rationality,optimality,0.0722,1.3622
+causal entropy maximisation,optimality,-0.4422,1.6983
+Boltzmann rationality,causal entropy maximisation,0.2543,1.2212
+Inverse Reinforcement Learning,human preferences,0.3275,1.1598
+Inverse Reinforcement Learning,human behaviour,0.211,1.2562
+human preferences,reward function,-0.1802,1.5364
+human behaviour,reward function,0.0142,1.4041
+human preferences,policy,0.7007,0.7738
+human behaviour,policy,0.8189,0.6019
+human preferences,optimality,0.412,1.0845
+human behaviour,optimality,0.2725,1.2062
+Boltzmann rationality,human preferences,0.8636,0.5222
+Boltzmann rationality,human behaviour,0.9511,0.3126
+causal entropy maximisation,human preferences,-0.0431,1.4444
+causal entropy maximisation,human behaviour,0.1011,1.3409
+human behaviour,human preferences,0.9598,0.2835
+misspecification,reward function,-0.2449,1.5779
+reward function,robustness,-0.3983,1.6723
+misspecification,policy,0.0242,1.397
+policy,robustness,-0.0849,1.473
+human preferences,misspecification,-0.1257,1.5005
+human preferences,robustness,-0.0858,1.4736
+human behaviour,misspecification,-0.0755,1.4666
+human behaviour,robustness,-0.0723,1.4644
+misspecification,robustness,0.9771,0.2138

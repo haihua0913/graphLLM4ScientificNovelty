@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+machine translation,vocabulary,0.1124,1.3324
+information theory,vocabulary,0.4811,1.0187
+information theory,machine translation,-0.0675,1.4612
+optimal transport,vocabulary,0.461,1.0382
+information theory,optimal transport,0.9767,0.2161
+VOLT,vocabulary,0.1585,1.2973
+VOLT,information theory,-0.0398,1.4421
+VOLT,optimal transport,-0.0094,1.4209
+WMT-14 English-German translation,optimal transport,-0.113,1.492
+TED bilingual translation,optimal transport,0.0038,1.4115
+multilingual translation,optimal transport,-0.0877,1.4749
+VOLT,WMT-14 English-German translation,-0.0846,1.4728
+TED bilingual translation,VOLT,-0.1344,1.5063
+VOLT,multilingual translation,-0.092,1.4779
+TED bilingual translation,WMT-14 English-German translation,0.9674,0.2554
+WMT-14 English-German translation,multilingual translation,0.9524,0.3086
+TED bilingual translation,multilingual translation,0.9271,0.3818
+WMT-14 English-German translation,vocabulary,0.1769,1.2831
+TED bilingual translation,vocabulary,0.3458,1.1438
+multilingual translation,vocabulary,0.1888,1.2738
+BLEU gain,vocabulary,0.4491,1.0497
+BLEU gain,VOLT,0.8987,0.45
+BLEU gain,WMT-14 English-German translation,-0.07,1.4628
+BLEU gain,TED bilingual translation,-0.0799,1.4697
+BLEU gain,multilingual translation,-0.0086,1.4203

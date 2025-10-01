@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+beam search,generative models,0.1102,1.334
+generative models,incremental complexity metrics,0.0103,1.4069
+generative models,word surprisal,0.5606,0.9374
+beam search,incremental complexity metrics,0.401,1.0945
+beam search,word surprisal,-0.0849,1.473
+incremental complexity metrics,word surprisal,0.215,1.253
+generative models,human electrophysiological responses,0.4413,1.057
+early peak,generative models,0.6039,0.89
+P600-like later peak,generative models,-0.0878,1.475
+beam search,human electrophysiological responses,-0.2324,1.5699
+beam search,early peak,-0.0176,1.4266
+P600-like later peak,beam search,-0.2345,1.5713
+human electrophysiological responses,incremental complexity metrics,0.133,1.3168
+early peak,incremental complexity metrics,0.1717,1.2871
+P600-like later peak,incremental complexity metrics,0.0188,1.4008
+human electrophysiological responses,word surprisal,0.8641,0.5214
+early peak,word surprisal,0.9853,0.1712
+P600-like later peak,word surprisal,0.0704,1.3635
+early peak,human electrophysiological responses,0.8713,0.5074
+P600-like later peak,human electrophysiological responses,0.1966,1.2676
+P600-like later peak,early peak,-0.0094,1.4208
+beam search,non-syntactic neural language model,-0.2315,1.5694
+incremental complexity metrics,non-syntactic neural language model,-0.082,1.471
+non-syntactic neural language model,word surprisal,0.0651,1.3674
+human electrophysiological responses,non-syntactic neural language model,0.3637,1.1281
+early peak,non-syntactic neural language model,0.1215,1.3255
+P600-like later peak,non-syntactic neural language model,-0.1136,1.4924
+beam search,syntactic processing,0.8773,0.4954
+early peak,syntactic processing,-0.048,1.4478
+non-syntactic neural language model,syntactic processing,-0.2257,1.5657

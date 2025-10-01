@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+local search,satisfiability problems,-0.4093,1.6789
+GSAT,local search,-0.1496,1.5163
+local search,problem structure,0.8948,0.4586
+GSAT,satisfiability problems,-0.1789,1.5355
+problem structure,satisfiability problems,-0.1444,1.5129
+GSAT,problem structure,-0.3445,1.6398
+local search,variable dependencies,-0.0585,1.455
+satisfiability problems,variable dependencies,-0.2039,1.5517
+GSAT,variable dependencies,-0.0161,1.4255
+problem structure,variable dependencies,-0.2139,1.5581
+independent variables,local search,0.9346,0.3617
+flipping,local search,0.9391,0.3489
+independent variables,problem structure,0.878,0.4939
+flipping,problem structure,0.8502,0.5474
+independent variables,variable dependencies,-0.285,1.6031
+flipping,variable dependencies,-0.0012,1.4151
+flipping,independent variables,0.946,0.3285
+dependency lattice,local search,0.9359,0.358
+gates,local search,0.9697,0.2462
+dependency lattice,variable dependencies,-0.2443,1.5775
+gates,variable dependencies,-0.206,1.553
+dependency lattice,independent variables,0.9386,0.3506
+gates,independent variables,0.9532,0.306
+dependency lattice,flipping,0.899,0.4494
+flipping,gates,0.8963,0.4553
+dependency lattice,gates,0.965,0.2647
+benchmark problems,local search,0.9281,0.3793
+benchmark problems,variable dependencies,-0.3488,1.6424
+benchmark problems,independent variables,0.9789,0.2055
+benchmark problems,flipping,0.9055,0.4348
+benchmark problems,dependency lattice,0.9528,0.3072
+benchmark problems,gates,0.9453,0.3309

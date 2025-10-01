@@ -1,0 +1,38 @@
+node1,node2,similarity,distance
+human action,optical flow,0.0313,1.3919
+human action,spatiotemporal volume,-0.6768,1.8313
+human action,motion descriptor,0.3629,1.1288
+human action,nearest-neighbor framework,-0.0044,1.4173
+optical flow,spatiotemporal volume,0.4022,1.0935
+motion descriptor,optical flow,0.7524,0.7037
+nearest-neighbor framework,optical flow,0.3063,1.1779
+motion descriptor,spatiotemporal volume,-0.08,1.4697
+nearest-neighbor framework,spatiotemporal volume,-0.0244,1.4314
+motion descriptor,nearest-neighbor framework,0.0264,1.3954
+human action,noisy measurements,-0.6655,1.8251
+noisy measurements,optical flow,0.382,1.1117
+noisy measurements,spatiotemporal volume,0.9891,0.1474
+motion descriptor,noisy measurements,-0.0996,1.4829
+nearest-neighbor framework,noisy measurements,0.0186,1.401
+optical flow,query sequence,-0.4093,1.6789
+annotated video sequences,optical flow,0.7618,0.6902
+query sequence,spatiotemporal volume,-0.4018,1.6744
+annotated video sequences,spatiotemporal volume,0.3127,1.1724
+motion descriptor,query sequence,-0.1044,1.4862
+annotated video sequences,motion descriptor,0.3473,1.1425
+noisy measurements,query sequence,-0.3069,1.6168
+annotated video sequences,noisy measurements,0.3103,1.1745
+nearest-neighbor framework,query sequence,-0.2394,1.5744
+annotated video sequences,nearest-neighbor framework,0.4602,1.039
+annotated video sequences,query sequence,-0.5351,1.7522
+optical flow,skeletons,0.0289,1.3936
+action synthesis,optical flow,0.0382,1.3869
+motion descriptor,skeletons,-0.1673,1.5279
+action synthesis,motion descriptor,0.3416,1.1475
+noisy measurements,skeletons,-0.4253,1.6884
+action synthesis,noisy measurements,-0.62,1.8
+query sequence,skeletons,-0.1494,1.5162
+action synthesis,query sequence,-0.0121,1.4228
+annotated video sequences,skeletons,0.4163,1.0805
+action synthesis,annotated video sequences,0.3141,1.1712
+action synthesis,skeletons,0.515,0.9849

@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+QUICKTREE,algorithm,-0.0065,1.4188
+QUICKTREE,triangulation,-0.1978,1.5478
+QUICKTREE,undirected graph G,0.2308,1.2404
+QUICKTREE,maximal clique,0.9162,0.4095
+QUICKTREE,subgraph,-0.0625,1.4577
+algorithm,triangulation,-0.3421,1.6384
+algorithm,undirected graph G,-0.0202,1.4284
+algorithm,maximal clique,0.0238,1.3973
+algorithm,subgraph,-0.3259,1.6285
+triangulation,undirected graph G,0.2497,1.225
+maximal clique,triangulation,0.0192,1.4006
+subgraph,triangulation,0.5562,0.9421
+maximal clique,undirected graph G,0.1598,1.2963
+subgraph,undirected graph G,0.1336,1.3163
+maximal clique,subgraph,-0.144,1.5126
+QUICKTREE,constraint satisfaction problems,0.9659,0.2611
+Bayesian inference,QUICKTREE,-0.1528,1.5184
+algorithm,constraint satisfaction problems,-0.0832,1.4719
+Bayesian inference,algorithm,0.673,0.8087
+constraint satisfaction problems,triangulation,-0.1727,1.5315
+Bayesian inference,triangulation,0.3968,1.0984
+constraint satisfaction problems,undirected graph G,0.249,1.2256
+Bayesian inference,undirected graph G,0.0445,1.3824
+constraint satisfaction problems,maximal clique,0.9152,0.4118
+Bayesian inference,maximal clique,0.0656,1.367
+constraint satisfaction problems,subgraph,-0.0337,1.4378
+Bayesian inference,subgraph,0.2016,1.2637
+Bayesian inference,constraint satisfaction problems,-0.1657,1.5269

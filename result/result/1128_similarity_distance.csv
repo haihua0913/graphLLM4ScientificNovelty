@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+Gradient estimation,discrete distributions,-0.104,1.4859
+Gradient estimation,variance reduction,-0.3268,1.629
+Gradient estimation,Stein operators,-0.0617,1.4572
+discrete distributions,variance reduction,-0.145,1.5132
+Stein operators,discrete distributions,0.9831,0.1838
+Stein operators,variance reduction,-0.1972,1.5474
+Gradient estimation,control variates,-0.0774,1.4679
+Gradient estimation,REINFORCE leave-one-out estimator,-0.1318,1.5045
+control variates,discrete distributions,-0.0797,1.4695
+REINFORCE leave-one-out estimator,discrete distributions,-0.0143,1.4243
+control variates,variance reduction,-0.0237,1.4309
+REINFORCE leave-one-out estimator,variance reduction,0.1845,1.2771
+Stein operators,control variates,-0.0604,1.4563
+REINFORCE leave-one-out estimator,Stein operators,-0.1303,1.5035
+REINFORCE leave-one-out estimator,control variates,0.201,1.2641
+binary variational autoencoders,control variates,0.3436,1.1458
+control variates,lower variance,0.0008,1.4136
+control variates,function evaluations,-0.0632,1.4582
+REINFORCE leave-one-out estimator,binary variational autoencoders,0.902,0.4428
+REINFORCE leave-one-out estimator,lower variance,0.019,1.4007
+REINFORCE leave-one-out estimator,function evaluations,-0.1967,1.5471
+binary variational autoencoders,lower variance,0.1065,1.3368
+binary variational autoencoders,function evaluations,0.1149,1.3305
+function evaluations,lower variance,-0.3103,1.6188

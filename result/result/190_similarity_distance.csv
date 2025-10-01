@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+Exploration-exploitation,multi-agent learning,0.0043,1.4111
+Exploration-exploitation,smooth Q-learning,0.0496,1.3787
+Exploration-exploitation,bounded regret,0.3065,1.1777
+Exploration-exploitation,quantal-response equilibria,-0.3829,1.663
+Exploration-exploitation,weighted potential games,-0.1833,1.5384
+Exploration-exploitation,exploration-costs,-0.1288,1.5026
+bounded regret,smooth Q-learning,-0.0924,1.4781
+quantal-response equilibria,smooth Q-learning,-0.5183,1.7426
+smooth Q-learning,weighted potential games,-0.3283,1.6299
+exploration-costs,smooth Q-learning,-0.1294,1.5029
+bounded regret,quantal-response equilibria,-0.4301,1.6912
+bounded regret,weighted potential games,-0.0443,1.4452
+bounded regret,exploration-costs,0.4493,1.0494
+quantal-response equilibria,weighted potential games,-0.041,1.4429
+exploration-costs,quantal-response equilibria,-0.4407,1.6975
+exploration-costs,weighted potential games,0.436,1.062
+QRE surface,smooth Q-learning,-0.1929,1.5446
+QRE surface,bounded regret,-0.007,1.4191
+QRE surface,quantal-response equilibria,-0.0557,1.4531
+QRE surface,weighted potential games,-0.1565,1.5209
+QRE surface,exploration-costs,0.2746,1.2045
+QRE surface,phase transitions,-0.227,1.5666

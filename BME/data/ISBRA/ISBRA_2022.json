@@ -1,0 +1,242 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/isbra/isbra2022.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"90.81"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"35",
+"@dc":"35",
+"@oc":"35",
+"@id":"48904333",
+"text":":facetid:toc:db/conf/isbra/isbra2022.bht"
+}
+},
+"hits":{
+"@total":"35",
+"@computed":"35",
+"@sent":"35",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"1651139",
+"info":{"authors":{"author":[{"@pid":"221/4586","text":"Alexsandro Oliveira Alexandrino"},{"@pid":"161/5659","text":"Andre Rodrigues Oliveira"},{"@pid":"46/3857","text":"Géraldine Jean"},{"@pid":"14/796","text":"Guillaume Fertin"},{"@pid":"39/7227","text":"Ulisses Dias"},{"@pid":"93/6090","text":"Zanoni Dias"}]},"title":"Transposition Distance Considering Intergenic Regions for Unbalanced Genomes.","venue":"ISBRA","pages":"100-113","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/AlexandrinoOJFD22","doi":"10.1007/978-3-031-23198-8_10","ee":"https://doi.org/10.1007/978-3-031-23198-8_10","url":"https://dblp.org/rec/conf/isbra/AlexandrinoOJFD22"},
+"url":"URL#1651139"
+},
+{
+"@score":"1",
+"@id":"1651140",
+"info":{"authors":{"author":[{"@pid":"296/9188","text":"Juntao Deng"},{"@pid":"99/76-13","text":"Min Liu 0013"}]},"title":"Deep Learning-Enhanced MHC-II Presentation Prediction and Peptidome Deconvolution.","venue":"ISBRA","pages":"180-191","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/DengL22","doi":"10.1007/978-3-031-23198-8_17","ee":"https://doi.org/10.1007/978-3-031-23198-8_17","url":"https://dblp.org/rec/conf/isbra/DengL22"},
+"url":"URL#1651140"
+},
+{
+"@score":"1",
+"@id":"1651141",
+"info":{"authors":{"author":[{"@pid":"94/9797","text":"Meir Goldenberg"},{"@pid":"18/913","text":"Sagi Snir"},{"@pid":"09/2245","text":"Adi Akavia"}]},"title":"Private Epigenetic PaceMaker Detector Using Homomorphic Encryption - Extended Abstract.","venue":"ISBRA","pages":"52-61","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/GoldenbergSA22","doi":"10.1007/978-3-031-23198-8_6","ee":"https://doi.org/10.1007/978-3-031-23198-8_6","url":"https://dblp.org/rec/conf/isbra/GoldenbergSA22"},
+"url":"URL#1651141"
+},
+{
+"@score":"1",
+"@id":"1651142",
+"info":{"authors":{"author":[{"@pid":"337/1241","text":"Dongzheng Hu"},{"@pid":"08/7071","text":"Wubin Qu"},{"@pid":"211/4311","text":"Fan Tong"},{"@pid":"278/8400","text":"Xiangwen Zheng"},{"@pid":"13/2398","text":"Jiangyu Li"},{"@pid":"51/2970","text":"Dongsheng Zhao"}]},"title":"An Efficient and User-Friendly Software for PCR Primer Design for Detection of Highly Variable Bacteria.","venue":"ISBRA","pages":"138-147","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/HuQTZLZ22","doi":"10.1007/978-3-031-23198-8_13","ee":"https://doi.org/10.1007/978-3-031-23198-8_13","url":"https://dblp.org/rec/conf/isbra/HuQTZLZ22"},
+"url":"URL#1651142"
+},
+{
+"@score":"1",
+"@id":"1651143",
+"info":{"authors":{"author":[{"@pid":"150/2437","text":"An Huang"},{"@pid":"221/8865","text":"Xiaolan Xie"},{"@pid":"166/9413","text":"Xiaoqi Wang"},{"@pid":"07/4720","text":"Shaoliang Peng"}]},"title":"A Multimodal Data Fusion-Based Deep Learning Approach for Drug-Drug Interaction Prediction.","venue":"ISBRA","pages":"275-285","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/HuangXWP22","doi":"10.1007/978-3-031-23198-8_25","ee":"https://doi.org/10.1007/978-3-031-23198-8_25","url":"https://dblp.org/rec/conf/isbra/HuangXWP22"},
+"url":"URL#1651143"
+},
+{
+"@score":"1",
+"@id":"1651144",
+"info":{"authors":{"author":[{"@pid":"337/1098","text":"Akshay Juyal"},{"@pid":"71/9810","text":"Roya Hosseini"},{"@pid":"306/6528","text":"Daniel Novikov"},{"@pid":"306/6391","text":"Mark Grinshpon"},{"@pid":"z/AZelikovsky","text":"Alex Zelikovsky"}]},"title":"Entropy Based Clustering of Viral Sequences.","venue":"ISBRA","pages":"369-380","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/JuyalHNGZ22","doi":"10.1007/978-3-031-23198-8_33","ee":"https://doi.org/10.1007/978-3-031-23198-8_33","url":"https://dblp.org/rec/conf/isbra/JuyalHNGZ22"},
+"url":"URL#1651144"
+},
+{
+"@score":"1",
+"@id":"1651145",
+"info":{"authors":{"author":[{"@pid":"07/1429","text":"Han Li"},{"@pid":"92/2954-33","text":"Feng Li 0033"},{"@pid":"123/6047","text":"Junliang Shang"},{"@pid":"83/7702-1","text":"Xikui Liu 0001"},{"@pid":"87/660-41","text":"Yan Li 0041"}]},"title":"A Network-Based Voting Method for Identification and Prioritization of Personalized Cancer Driver Genes.","venue":"ISBRA","pages":"148-158","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/LiLSLL22","doi":"10.1007/978-3-031-23198-8_14","ee":"https://doi.org/10.1007/978-3-031-23198-8_14","url":"https://dblp.org/rec/conf/isbra/LiLSLL22"},
+"url":"URL#1651145"
+},
+{
+"@score":"1",
+"@id":"1651146",
+"info":{"authors":{"author":[{"@pid":"181/2841-7","text":"Xiaobo Li 0007"},{"@pid":"168/6304","text":"Yijia Zhang 0001"},{"@pid":"308/8240","text":"Xingwang Li 0003"},{"@pid":"39/449-21","text":"Jian Wang 0021"},{"@pid":"24/2334","text":"Mingyu Lu"}]},"title":"NIDN: Medical Code Assignment via Note-Code Interaction Denoising Network.","venue":"ISBRA","pages":"62-74","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/LiZLWL22","doi":"10.1007/978-3-031-23198-8_7","ee":"https://doi.org/10.1007/978-3-031-23198-8_7","url":"https://dblp.org/rec/conf/isbra/LiZLWL22"},
+"url":"URL#1651146"
+},
+{
+"@score":"1",
+"@id":"1651147",
+"info":{"authors":{"author":[{"@pid":"143/8004","text":"Shuyue Liu"},{"@pid":"153/9564","text":"Junwen Duan"},{"@pid":"68/1434","text":"Feng Gong"},{"@pid":"296/4496","text":"Hailin Yue"},{"@pid":"75/2669-1","text":"Jianxin Wang 0001"}]},"title":"Fusing Label Relations for Chinese EMR Named Entity Recognition with Machine Reading Comprehension.","venue":"ISBRA","pages":"41-51","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/LiuDGYW22","doi":"10.1007/978-3-031-23198-8_5","ee":"https://doi.org/10.1007/978-3-031-23198-8_5","url":"https://dblp.org/rec/conf/isbra/LiuDGYW22"},
+"url":"URL#1651147"
+},
+{
+"@score":"1",
+"@id":"1651148",
+"info":{"authors":{"author":[{"@pid":"121/6873","text":"Jingyi Liu"},{"@pid":"337/1105","text":"I. Duan"},{"@pid":"255/3132","text":"Santi Santichaivekin"},{"@pid":"84/2066","text":"Ran Libeskind-Hadas"}]},"title":"Distance Profiles of Optimal RNA Foldings.","venue":"ISBRA","pages":"315-329","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/LiuDSL22","doi":"10.1007/978-3-031-23198-8_29","ee":"https://doi.org/10.1007/978-3-031-23198-8_29","url":"https://dblp.org/rec/conf/isbra/LiuDSL22"},
+"url":"URL#1651148"
+},
+{
+"@score":"1",
+"@id":"1651149",
+"info":{"authors":{"author":[{"@pid":"86/3406","text":"Da Liu"},{"@pid":"168/6304","text":"Yi-Jia Zhang 0001"},{"@pid":"98/2604","text":"Ming Yang"},{"@pid":"81/4345","text":"Fei Chen"},{"@pid":"24/2334","text":"Mingyu Lu"}]},"title":"Gaussian-Enhanced Representation Model for Extracting Protein-Protein Interactions Affected by Mutations.","venue":"ISBRA","pages":"303-314","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/LiuZYCL22","doi":"10.1007/978-3-031-23198-8_28","ee":"https://doi.org/10.1007/978-3-031-23198-8_28","url":"https://dblp.org/rec/conf/isbra/LiuZYCL22"},
+"url":"URL#1651149"
+},
+{
+"@score":"1",
+"@id":"1651150",
+"info":{"authors":{"author":[{"@pid":"322/1253","text":"Njagi Moses Mwaniki"},{"@pid":"p/NadiaPisanti","text":"Nadia Pisanti"}]},"title":"Optimal Sequence Alignment to ED-Strings.","venue":"ISBRA","pages":"204-216","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/MwanikiP22","doi":"10.1007/978-3-031-23198-8_19","ee":"https://doi.org/10.1007/978-3-031-23198-8_19","url":"https://dblp.org/rec/conf/isbra/MwanikiP22"},
+"url":"URL#1651150"
+},
+{
+"@score":"1",
+"@id":"1651151",
+"info":{"authors":{"author":[{"@pid":"291/2913","text":"Abhinandan Panda"},{"@pid":"125/1160","text":"Srinivas Pinisetty"},{"@pid":"r/ParthaSRoop","text":"Partha S. Roop"}]},"title":"Policy-Based Hypertension Monitoring Using Formal Runtime Verification Monitors.","venue":"ISBRA","pages":"169-179","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/PandaPR22","doi":"10.1007/978-3-031-23198-8_16","ee":"https://doi.org/10.1007/978-3-031-23198-8_16","url":"https://dblp.org/rec/conf/isbra/PandaPR22"},
+"url":"URL#1651151"
+},
+{
+"@score":"1",
+"@id":"1651152",
+"info":{"authors":{"author":[{"@pid":"44/9105","text":"Qian Qiao"},{"@pid":"146/1908","text":"Shasha Yuan"},{"@pid":"123/6047","text":"Junliang Shang"},{"@pid":"08/10114-1","text":"Jin-Xing Liu 0001"}]},"title":"A Tensor Robust Model Based on Enhanced Tensor Nuclear Norm and Low-Rank Constraint for Multi-view Cancer Genomics Data.","venue":"ISBRA","pages":"381-388","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/QiaoYSL22","doi":"10.1007/978-3-031-23198-8_34","ee":"https://doi.org/10.1007/978-3-031-23198-8_34","url":"https://dblp.org/rec/conf/isbra/QiaoYSL22"},
+"url":"URL#1651152"
+},
+{
+"@score":"1",
+"@id":"1651153",
+"info":{"authors":{"author":[{"@pid":"18/1762","text":"Yi Shen"},{"@pid":"166/6139","text":"Ying-Lian Gao"},{"@pid":"193/7847","text":"Shu-Zhen Li"},{"@pid":"183/5913","text":"Boxin Guan"},{"@pid":"08/10114-1","text":"Jin-Xing Liu 0001"}]},"title":"A Locality-Constrained Linear Coding-Based Ensemble Learning Framework for Predicting Potentially Disease-Associated MiRNAs.","venue":"ISBRA","pages":"295-302","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/ShenGLGL22","doi":"10.1007/978-3-031-23198-8_27","ee":"https://doi.org/10.1007/978-3-031-23198-8_27","url":"https://dblp.org/rec/conf/isbra/ShenGLGL22"},
+"url":"URL#1651153"
+},
+{
+"@score":"1",
+"@id":"1651154",
+"info":{"authors":{"author":[{"@pid":"77/2258","text":"Yu Sheng"},{"@pid":"25/7674","text":"Shengyi Yang"},{"@pid":"305/2865","text":"Huirong Hu"},{"@pid":"41/3760","text":"Guihua Duan"}]},"title":"Research on the Prediction Method of Disease Classification Based on Imaging Features.","venue":"ISBRA","pages":"75-87","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/ShengYHD22","doi":"10.1007/978-3-031-23198-8_8","ee":"https://doi.org/10.1007/978-3-031-23198-8_8","url":"https://dblp.org/rec/conf/isbra/ShengYHD22"},
+"url":"URL#1651154"
+},
+{
+"@score":"1",
+"@id":"1651155",
+"info":{"authors":{"author":[{"@pid":"254/3111","text":"Arjun Srivatsa"},{"@pid":"230/6852","text":"Haoyun Lei"},{"@pid":"77/4437","text":"Russell Schwartz"}]},"title":"A Clonal Evolution Simulator for Planning Somatic Evolution Studies.","venue":"ISBRA","pages":"229-242","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/SrivatsaLS22","doi":"10.1007/978-3-031-23198-8_21","ee":"https://doi.org/10.1007/978-3-031-23198-8_21","url":"https://dblp.org/rec/conf/isbra/SrivatsaLS22"},
+"url":"URL#1651155"
+},
+{
+"@score":"1",
+"@id":"1651156",
+"info":{"authors":{"author":[{"@pid":"179/5996","text":"Gaik Tamazian"},{"@pid":"337/1265","text":"Andrey B. Komissarov"},{"@pid":"236/5191","text":"Dmitry Kobak"},{"@pid":"265/3057","text":"Dmitry Polyakov"},{"@pid":"337/1258","text":"Evgeny Andronov"},{"@pid":"170/0242","text":"Sergei Nechaev"},{"@pid":"121/5677","text":"Sergey Kryzhevich"},{"@pid":"156/7093","text":"Yuri Porozov"},{"@pid":"56/8207","text":"Eugene Stepanov"}]},"title":"t-SNE Highlights Phylogenetic and Temporal Patterns of SARS-CoV-2 Spike and Nucleocapsid Protein Evolution.","venue":"ISBRA","pages":"255-262","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/TamazianKKPANKP22","doi":"10.1007/978-3-031-23198-8_23","ee":"https://doi.org/10.1007/978-3-031-23198-8_23","url":"https://dblp.org/rec/conf/isbra/TamazianKKPANKP22"},
+"url":"URL#1651156"
+},
+{
+"@score":"1",
+"@id":"1651157",
+"info":{"authors":{"author":[{"@pid":"94/3104","text":"Ying Wang"},{"@pid":"166/6139","text":"Ying-Lian Gao"},{"@pid":"74/3634-3","text":"Juan Wang 0003"},{"@pid":"123/6047","text":"Junliang Shang"},{"@pid":"08/10114-1","text":"Jin-Xing Liu 0001"}]},"title":"MLMVFE: A Machine Learning Approach Based on Muli-view Features Extraction for Drug-Disease Associations Prediction.","venue":"ISBRA","pages":"1-8","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/WangGWSL22","doi":"10.1007/978-3-031-23198-8_1","ee":"https://doi.org/10.1007/978-3-031-23198-8_1","url":"https://dblp.org/rec/conf/isbra/WangGWSL22"},
+"url":"URL#1651157"
+},
+{
+"@score":"1",
+"@id":"1651158",
+"info":{"authors":{"author":[{"@pid":"253/9728","text":"Zhichao Wang"},{"@pid":"20/11054","text":"Xuelei Li"},{"@pid":"56/3390-1","text":"Jintao Meng 0001"},{"@pid":"46/7028-1","text":"Yi Pan 0001"},{"@pid":"18/4720","text":"Yanjie Wei"}]},"title":"Simulating Spiking Neural Networks Based on SW26010pro.","venue":"ISBRA","pages":"356-368","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/WangLMPW22","doi":"10.1007/978-3-031-23198-8_32","ee":"https://doi.org/10.1007/978-3-031-23198-8_32","url":"https://dblp.org/rec/conf/isbra/WangLMPW22"},
+"url":"URL#1651158"
+},
+{
+"@score":"1",
+"@id":"1651159",
+"info":{"authors":{"author":[{"@pid":"337/1255","text":"Zhen-Chang Wang"},{"@pid":"08/10114-1","text":"Jin-Xing Liu 0001"},{"@pid":"123/6047","text":"Junliang Shang"},{"@pid":"193/7857","text":"Ling-Yun Dai"},{"@pid":"z/ChunHouZheng-1","text":"Chun-Hou Zheng 0001"},{"@pid":"74/3634-3","text":"Juan Wang 0003"}]},"title":"ARGLRR: An Adjusted Random Walk Graph Regularization Sparse Low-Rank Representation Method for Single-Cell RNA-Sequencing Data Clustering.","venue":"ISBRA","pages":"126-137","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/WangLSDZW22","doi":"10.1007/978-3-031-23198-8_12","ee":"https://doi.org/10.1007/978-3-031-23198-8_12","url":"https://dblp.org/rec/conf/isbra/WangLSDZW22"},
+"url":"URL#1651159"
+},
+{
+"@score":"1",
+"@id":"1651160",
+"info":{"authors":{"author":[{"@pid":"181/2817","text":"Lei Wang"},{"@pid":"59/2227","text":"Yan Wang"}]},"title":"GNN-Dom: An Unsupervised Method for Protein Domain Partition via Protein Contact Map.","venue":"ISBRA","pages":"286-294","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/WangW22","doi":"10.1007/978-3-031-23198-8_26","ee":"https://doi.org/10.1007/978-3-031-23198-8_26","url":"https://dblp.org/rec/conf/isbra/WangW22"},
+"url":"URL#1651160"
+},
+{
+"@score":"1",
+"@id":"1651161",
+"info":{"authors":{"author":[{"@pid":"26/3552","text":"Xia Xiao"},{"@pid":"166/9413","text":"Xiaoqi Wang"},{"@pid":"52/9705","text":"Shengyun Liu"},{"@pid":"07/4720","text":"Shaoliang Peng"}]},"title":"MPCDDI: A Secure Multiparty Computation-Based Deep Learning Framework for Drug-Drug Interaction Predictions.","venue":"ISBRA","pages":"263-274","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/XiaoWLP22","doi":"10.1007/978-3-031-23198-8_24","ee":"https://doi.org/10.1007/978-3-031-23198-8_24","url":"https://dblp.org/rec/conf/isbra/XiaoWLP22"},
+"url":"URL#1651161"
+},
+{
+"@score":"1",
+"@id":"1651162",
+"info":{"authors":{"author":[{"@pid":"337/1108","text":"Tian-Yi Xing"},{"@pid":"50/7833","text":"Xiao-Xin Li"},{"@pid":"45/10409","text":"Zhi-Jie Chen"},{"@pid":"337/1103","text":"Xi-Yu Zheng"},{"@pid":"21/3626","text":"Fan Zhang"}]},"title":"Effectively Training MRI Reconstruction Network via Sequentially Using Undersampled k-Space Data with Very Low Frequency Gaps.","venue":"ISBRA","pages":"30-40","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/XingLCZZ22","doi":"10.1007/978-3-031-23198-8_4","ee":"https://doi.org/10.1007/978-3-031-23198-8_4","url":"https://dblp.org/rec/conf/isbra/XingLCZZ22"},
+"url":"URL#1651162"
+},
+{
+"@score":"1",
+"@id":"1651163",
+"info":{"authors":{"author":[{"@pid":"266/6962","text":"Zhenda Xu"},{"@pid":"337/1162","text":"Jiazi Ouyang"},{"@pid":"43/5917","text":"Qiang Gao"},{"@pid":"337/1155","text":"Aiqian Gan"},{"@pid":"213/0984","text":"Qihua Zhou"},{"@pid":"256/2503","text":"Jiahao Hu"},{"@pid":"01/267-1","text":"Song Guo 0001"}]},"title":"2D Photogrammetry Image of Adolescent Idiopathic Scoliosis Screening Using Deep Learning.","venue":"ISBRA","pages":"330-342","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/XuOGGZHG22","doi":"10.1007/978-3-031-23198-8_30","ee":"https://doi.org/10.1007/978-3-031-23198-8_30","url":"https://dblp.org/rec/conf/isbra/XuOGGZHG22"},
+"url":"URL#1651163"
+},
+{
+"@score":"1",
+"@id":"1651164",
+"info":{"authors":{"author":[{"@pid":"226/8363","text":"Bokai Yang"},{"@pid":"59/666","text":"Ying Nan Zuo"},{"@pid":"30/4657","text":"Shunxiang Yang"},{"@pid":"191/8130","text":"Genqiang Deng"},{"@pid":"198/9216","text":"Suisong Zhu"},{"@pid":"80/6847","text":"Yunpeng Cai"}]},"title":"M-US-EMRs: A Multi-modal Data Fusion Method of Ultrasonic Images and Electronic Medical Records Used for Screening of Coronary Heart Disease.","venue":"ISBRA","pages":"88-99","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/YangZYDZC22","doi":"10.1007/978-3-031-23198-8_9","ee":"https://doi.org/10.1007/978-3-031-23198-8_9","url":"https://dblp.org/rec/conf/isbra/YangZYDZC22"},
+"url":"URL#1651164"
+},
+{
+"@score":"1",
+"@id":"1651165",
+"info":{"authors":{"author":[{"@pid":"02/3293","text":"Boyan Yordanov"},{"@pid":"115/9221","text":"Sara-Jane Dunn"},{"@pid":"145/5263","text":"Colin Gravill"},{"@pid":"59/2178","text":"Hillel Kugler"},{"@pid":"17/3100","text":"Christoph M. Wintersteiger"}]},"title":"An SMT-Based Framework for Reasoning About Discrete Biological Models.","venue":"ISBRA","pages":"114-125","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/YordanovDGKW22","doi":"10.1007/978-3-031-23198-8_11","ee":"https://doi.org/10.1007/978-3-031-23198-8_11","url":"https://dblp.org/rec/conf/isbra/YordanovDGKW22"},
+"url":"URL#1651165"
+},
+{
+"@score":"1",
+"@id":"1651166",
+"info":{"authors":{"author":[{"@pid":"13/2227","text":"Ying Yu"},{"@pid":"153/9564","text":"Junwen Duan"},{"@pid":"80/10002","text":"Han Jiang"},{"@pid":"75/2669-1","text":"Jian-Xin Wang 0001"}]},"title":"Automatic ICD Coding Based on Multi-granularity Feature Fusion.","venue":"ISBRA","pages":"19-29","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/YuDJW22","doi":"10.1007/978-3-031-23198-8_3","ee":"https://doi.org/10.1007/978-3-031-23198-8_3","url":"https://dblp.org/rec/conf/isbra/YuDJW22"},
+"url":"URL#1651166"
+},
+{
+"@score":"1",
+"@id":"1651167",
+"info":{"authors":{"author":[{"@pid":"165/3321","text":"Haodi Zhang"},{"@pid":"215/9854","text":"Chenyu Xu"},{"@pid":"313/9826","text":"Peirou Liang"},{"@pid":"265/1327","text":"Ke Duan"},{"@pid":"02/5283","text":"Hao Ren"},{"@pid":"122/9989","text":"Weibin Cheng"},{"@pid":"34/4445","text":"Kaishun Wu"}]},"title":"MMLN: Leveraging Domain Knowledge for Multimodal Diagnosis.","venue":"ISBRA","pages":"192-203","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/ZhangXLDRCW22","doi":"10.1007/978-3-031-23198-8_18","ee":"https://doi.org/10.1007/978-3-031-23198-8_18","url":"https://dblp.org/rec/conf/isbra/ZhangXLDRCW22"},
+"url":"URL#1651167"
+},
+{
+"@score":"1",
+"@id":"1651168",
+"info":{"authors":{"author":[{"@pid":"183/4455","text":"Xinglong Zhang"},{"@pid":"50/10578","text":"Peng Xi"},{"@pid":"19/8391","text":"Wenjuan Liu"},{"@pid":"07/4720","text":"Shaoliang Peng"}]},"title":"EMRShareChain: A Privacy-Preserving EMR Sharing System Model Based on the Consortium Blockchain.","venue":"ISBRA","pages":"343-355","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/ZhangXLP22","doi":"10.1007/978-3-031-23198-8_31","ee":"https://doi.org/10.1007/978-3-031-23198-8_31","url":"https://dblp.org/rec/conf/isbra/ZhangXLP22"},
+"url":"URL#1651168"
+},
+{
+"@score":"1",
+"@id":"1651169",
+"info":{"authors":{"author":[{"@pid":"145/7954","text":"Jiancheng Zhong"},{"@pid":"337/1124","text":"Pan Cui"},{"@pid":"337/1101","text":"Zuohang Qu"},{"@pid":"21/5449","text":"Liuping Wang"},{"@pid":"196/2437","text":"Qiu Xiao"},{"@pid":"137/5770","text":"Yihong Zhu"}]},"title":"Prediction of Drug-Disease Relationship on Heterogeneous Networks Based on Graph Convolution.","venue":"ISBRA","pages":"243-254","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/ZhongCQWXZ22","doi":"10.1007/978-3-031-23198-8_22","ee":"https://doi.org/10.1007/978-3-031-23198-8_22","url":"https://dblp.org/rec/conf/isbra/ZhongCQWXZ22"},
+"url":"URL#1651169"
+},
+{
+"@score":"1",
+"@id":"1651170",
+"info":{"authors":{"author":[{"@pid":"325/2257","text":"Peixuan Zhou"},{"@pid":"168/6304","text":"Yi-Jia Zhang 0001"},{"@pid":"81/4345","text":"Fei Chen"},{"@pid":"259/4008","text":"Kuo Pang"},{"@pid":"24/2334","text":"Mingyu Lu"}]},"title":"Heterogeneous PPI Network Representation Learning for Protein Complex Identification.","venue":"ISBRA","pages":"217-228","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/ZhouZCPL22","doi":"10.1007/978-3-031-23198-8_20","ee":"https://doi.org/10.1007/978-3-031-23198-8_20","url":"https://dblp.org/rec/conf/isbra/ZhouZCPL22"},
+"url":"URL#1651170"
+},
+{
+"@score":"1",
+"@id":"1651171",
+"info":{"authors":{"author":[{"@pid":"62/7808","text":"Xiaoshu Zhu"},{"@pid":"337/1132","text":"Liyuan Pang"},{"@pid":"53/9999","text":"Wei Lan"},{"@pid":"334/5977","text":"Shuang Meng"},{"@pid":"55/6794","text":"Xiaoqing Peng"}]},"title":"STgcor: A Distribution-Based Correlation Measurement Method for Spatial Transcriptome Data.","venue":"ISBRA","pages":"9-18","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/ZhuPLMP22","doi":"10.1007/978-3-031-23198-8_2","ee":"https://doi.org/10.1007/978-3-031-23198-8_2","url":"https://dblp.org/rec/conf/isbra/ZhuPLMP22"},
+"url":"URL#1651171"
+},
+{
+"@score":"1",
+"@id":"1651172",
+"info":{"authors":{"author":[{"@pid":"72/6963-3","text":"Qi Zou 0003"},{"@pid":"181/2323","text":"Yan Sun"},{"@pid":"92/2954-33","text":"Feng Li 0033"},{"@pid":"74/3634-3","text":"Juan Wang 0003"},{"@pid":"08/10114-1","text":"Jin-Xing Liu 0001"},{"@pid":"123/6047","text":"Junliang Shang"}]},"title":"TDCOSR: A Multimodality Fusion Framework for Association Analysis Between Genes and ROIs of Alzheimer&apos;s Disease.","venue":"ISBRA","pages":"159-168","year":"2022","type":"Conference and Workshop Papers","access":"closed","key":"conf/isbra/ZouSLWLS22","doi":"10.1007/978-3-031-23198-8_15","ee":"https://doi.org/10.1007/978-3-031-23198-8_15","url":"https://dblp.org/rec/conf/isbra/ZouSLWLS22"},
+"url":"URL#1651172"
+},
+{
+"@score":"1",
+"@id":"1716510",
+"info":{"authors":{"author":[{"@pid":"42/1668","text":"Mukul S. Bansal"},{"@pid":"14/5155-1","text":"Zhipeng Cai 0001"},{"@pid":"99/8436","text":"Serghei Mangul"}]},"title":"Bioinformatics Research and Applications - 18th International Symposium, ISBRA 2022, Haifa, Israel, November 14-17, 2022, Proceedings","venue":["ISBRA","Lecture Notes in Computer Science"],"volume":"13760","publisher":"Springer","year":"2022","type":"Editorship","key":"conf/isbra/2022","doi":"10.1007/978-3-031-23198-8","ee":"https://doi.org/10.1007/978-3-031-23198-8","url":"https://dblp.org/rec/conf/isbra/2022"},
+"url":"URL#1716510"
+}
+]
+}
+}
+}

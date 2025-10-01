@@ -1,0 +1,350 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/sipaim/sipaim2024.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"75.05"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"53",
+"@dc":"53",
+"@oc":"53",
+"@id":"48922789",
+"text":":facetid:toc:db/conf/sipaim/sipaim2024.bht"
+}
+},
+"hits":{
+"@total":"53",
+"@computed":"53",
+"@sent":"53",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"638428",
+"info":{"authors":{"author":[{"@pid":"252/7436-1","text":"Yixue Feng 0001"},{"@pid":"12/9776","text":"Julio E. Villalon-Reina"},{"@pid":"118/8424","text":"Talia M. Nir"},{"@pid":"285/5381","text":"Bramsh Qamar Chandio"},{"@pid":"19/7426","text":"Neda Jahanshad"},{"@pid":"t/PaulMThompson","text":"Paul M. Thompson"}]},"title":"BundleAGE: Predicting White Matter Age using Along-Tract Microstructural Profiles from Diffusion MRI.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/0001VNCJT24","doi":"10.1109/SIPAIM62974.2024.10783507","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783507","url":"https://dblp.org/rec/conf/sipaim/0001VNCJT24"},
+"url":"URL#638428"
+},
+{
+"@score":"1",
+"@id":"638429",
+"info":{"authors":{"author":[{"@pid":"384/7001","text":"Kristhian Aguilar"},{"@pid":"11/2111","text":"Victor Cavalcante"},{"@pid":"202/1871","text":"Celso B. Carvalho"},{"@pid":"384/6820","text":"Waldir Sabino"},{"@pid":"365/6756","text":"Mateus Oliveira Da Silva"}]},"title":"Automatic Glaucoma Classification and Justification Using a Large and Diverse Dataset.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/AguilarCCSS24","doi":"10.1109/SIPAIM62974.2024.10783620","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783620","url":"https://dblp.org/rec/conf/sipaim/AguilarCCSS24"},
+"url":"URL#638429"
+},
+{
+"@score":"1",
+"@id":"638430",
+"info":{"authors":{"author":[{"@pid":"394/2240","text":"Santiago Aguilera-González"},{"@pid":"21/7540","text":"Diego Renza"},{"@pid":"128/4750","text":"Ernesto Moya-Albor"}]},"title":"Evaluation of Dataset Distribution in Biomedical Image Classification Against Image Acquisition Distortions.","venue":"SIPAIM","pages":"1-6","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/Aguilera-Gonzalez24","doi":"10.1109/SIPAIM62974.2024.10783583","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783583","url":"https://dblp.org/rec/conf/sipaim/Aguilera-Gonzalez24"},
+"url":"URL#638430"
+},
+{
+"@score":"1",
+"@id":"638431",
+"info":{"authors":{"author":[{"@pid":"394/2541","text":"Wesna Simone B. Araujo"},{"@pid":"394/1685","text":"Ricardo Cesar G. Landim"},{"@pid":"292/9477","text":"Thiago Bulhões da Silva Costa"},{"@pid":"87/9500","text":"Elvis Lira da Silva"},{"@pid":"68/5015","text":"Gabriela Castellano"},{"@pid":"36/2977","text":"Letícia Rittner"}]},"title":"Enhancing fMRS Data Quality and GABA Quantification Using SpectroViT: A Deep Learning Reconstruction Approach.","venue":"SIPAIM","pages":"1-5","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/AraujoLCSCR24","doi":"10.1109/SIPAIM62974.2024.10783635","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783635","url":"https://dblp.org/rec/conf/sipaim/AraujoLCSCR24"},
+"url":"URL#638431"
+},
+{
+"@score":"1",
+"@id":"638432",
+"info":{"authors":{"author":[{"@pid":"394/3232","text":"Alexander Marlon Paredes Arellano"},{"@pid":"394/3270","text":"Eduardo Andre Cuti Riveros"},{"@pid":"394/3099","text":"Moises Stevend Meza Rodriguez"}]},"title":"Machine Learning Models for Predicting the Length of ICU Stay Using Perioperative Patterns.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/ArellanoRR24","doi":"10.1109/SIPAIM62974.2024.10783562","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783562","url":"https://dblp.org/rec/conf/sipaim/ArellanoRR24"},
+"url":"URL#638432"
+},
+{
+"@score":"1",
+"@id":"638433",
+"info":{"authors":{"author":[{"@pid":"394/1671","text":"Giancarlo López Bustos"},{"@pid":"394/3378","text":"Xavier Alexis Murillo Sanchez"},{"@pid":"184/1838","text":"Edgar Eduardo Salazar-Flórez"}]},"title":"A Portable Embedded System for Skin Lesions Detection.","venue":"SIPAIM","pages":"1-6","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/BustosSS24","doi":"10.1109/SIPAIM62974.2024.10783563","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783563","url":"https://dblp.org/rec/conf/sipaim/BustosSS24"},
+"url":"URL#638433"
+},
+{
+"@score":"1",
+"@id":"638434",
+"info":{"authors":{"author":[{"@pid":"348/1781","text":"Bruna M. Carlos"},{"@pid":"378/8709","text":"Lucas T. Menezes"},{"@pid":"352/0378","text":"Pedro Felipe Giarusso de Vazquez"},{"@pid":"378/8647","text":"Saulo S. Feitosa"},{"@pid":"378/8865","text":"Júlia D. Pereira"},{"@pid":"394/2581","text":"Larissa L. Pontes"},{"@pid":"241/2869","text":"Sara R. M. Almeida"},{"@pid":"378/9035","text":"Cassio V. Ruas"},{"@pid":"68/5015","text":"Gabriela Castellano"}]},"title":"Brain Symmetry Index Correlates with Time After Stroke and Lower Limb Function.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/CarlosMVFPPARC24","doi":"10.1109/SIPAIM62974.2024.10783638","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783638","url":"https://dblp.org/rec/conf/sipaim/CarlosMVFPPARC24"},
+"url":"URL#638434"
+},
+{
+"@score":"1",
+"@id":"638435",
+"info":{"authors":{"author":[{"@pid":"329/2607","text":"Tamoghna Chattopadhyay"},{"@pid":"394/0537","text":"Neha Ann Joshy"},{"@pid":"394/2800","text":"Chirag Jagad"},{"@pid":"394/2935","text":"Emma J. Gleave"},{"@pid":"205/3473","text":"Sophia I. Thomopoulos"},{"@pid":"252/7436-1","text":"Yixue Feng 0001"},{"@pid":"12/9776","text":"Julio E. Villalon-Reina"},{"@pid":"341/1345","text":"Emily Laltoo"},{"@pid":"42/3961","text":"Himanshu Joshi"},{"@pid":"229/0040","text":"Ganesan Venkatasubramanian"},{"@pid":"12/1518","text":"John P. John"},{"@pid":"82/9058","text":"Greg Ver Steeg"},{"@pid":"75/6070","text":"José Luis Ambite"},{"@pid":"t/PaulMThompson","text":"Paul M. Thompson"}]},"title":"Comparison of Explainable AI Models for MRI-Based Alzheimer&apos;s Disease Classification.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/ChattopadhyayJJ24","doi":"10.1109/SIPAIM62974.2024.10783631","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783631","url":"https://dblp.org/rec/conf/sipaim/ChattopadhyayJJ24"},
+"url":"URL#638435"
+},
+{
+"@score":"1",
+"@id":"638436",
+"info":{"authors":{"author":[{"@pid":"284/0688","text":"Vien Ngoc Dang"},{"@pid":"133/0492","text":"Jerónimo Hernández-González"},{"@pid":"73/4088","text":"Karim Lekadir"}]},"title":"Understanding Early-Life Stress Impact on Mental-Physical Comorbidity Using Machine Learning.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/DangHL24","doi":"10.1109/SIPAIM62974.2024.10783623","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783623","url":"https://dblp.org/rec/conf/sipaim/DangHL24"},
+"url":"URL#638436"
+},
+{
+"@score":"1",
+"@id":"638437",
+"info":{"authors":{"author":[{"@pid":"263/7227","text":"Farzaneh Dehghani"},{"@pid":"347/9538","text":"Nikita Malik"},{"@pid":"394/2577","text":"Joanna Lin"},{"@pid":"386/4406","text":"Sayeh Bayat"},{"@pid":"59/10579","text":"Mariana P. Bento"}]},"title":"Fairness in Healthcare: Assessing Data Bias and Algorithmic Fairness.","venue":"SIPAIM","pages":"1-6","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/DehghaniMLBB24","doi":"10.1109/SIPAIM62974.2024.10783630","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783630","url":"https://dblp.org/rec/conf/sipaim/DehghaniMLBB24"},
+"url":"URL#638437"
+},
+{
+"@score":"1",
+"@id":"638438",
+"info":{"authors":{"author":[{"@pid":"394/2467","text":"Celine Desoyer"},{"@pid":"394/2763","text":"Johannes Proksch"},{"@pid":"41/4067","text":"Peter Berger"},{"@pid":"35/3110","text":"Christian Baumgartner"}]},"title":"Machine and Deep Learning-Based Detection of the Stapedius Reflex for Automatic Cochlear Implant Fitting.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/DesoyerPBB24","doi":"10.1109/SIPAIM62974.2024.10783573","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783573","url":"https://dblp.org/rec/conf/sipaim/DesoyerPBB24"},
+"url":"URL#638438"
+},
+{
+"@score":"1",
+"@id":"638439",
+"info":{"authors":{"author":[{"@pid":"394/3460","text":"Oscar Diaz-Celis"},{"@pid":"394/1609","text":"Juan Torres-Santamaria"},{"@pid":"198/9920","text":"Mauricio Caviedes"},{"@pid":"90/5938","text":"Marcela Iregui"},{"@pid":"365/6999","text":"R. E. Gutiérrez-Carvajal"},{"@pid":"137/2428","text":"Eduardo Romero 0001"},{"@pid":"57/7169","text":"Angel Cruz-Roa"}]},"title":"Evidence-Based Case Recommendation System for Cardiac Health Diagnosis Using Non-Negative Factorization Data-Driven Similarity Approach.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/Diaz-CelisTCIG024","doi":"10.1109/SIPAIM62974.2024.10783499","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783499","url":"https://dblp.org/rec/conf/sipaim/Diaz-CelisTCIG024"},
+"url":"URL#638439"
+},
+{
+"@score":"1",
+"@id":"638440",
+"info":{"authors":{"author":[{"@pid":"341/7969","text":"Adan Domínguez-Ruiz"},{"@pid":"21/7767","text":"Edgar Omar López-Caudana"},{"@pid":"190/9798","text":"Oscar Loyola"},{"@pid":"67/8670","text":"Pedro Ponce-Cruz"}]},"title":"Exploring Complex Human-Prosthetic Interactions: Musculoskeletal Models for Biomechanical Analysis.","venue":"SIPAIM","pages":"1-6","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/Dominguez-RuizL24","doi":"10.1109/SIPAIM62974.2024.10783535","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783535","url":"https://dblp.org/rec/conf/sipaim/Dominguez-RuizL24"},
+"url":"URL#638440"
+},
+{
+"@score":"1",
+"@id":"638441",
+"info":{"authors":{"author":[{"@pid":"200/0102","text":"Kauê T. N. Duarte"},{"@pid":"274/2393","text":"Anik Das"},{"@pid":"04/10747","text":"Catherine Lebel"},{"@pid":"59/10579","text":"Mariana P. Bento"}]},"title":"Improving Prenatal Alcohol Exposure classification using Data Augmentation in 3D Convolutional Neural Networks.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/DuarteDLB24","doi":"10.1109/SIPAIM62974.2024.10783636","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783636","url":"https://dblp.org/rec/conf/sipaim/DuarteDLB24"},
+"url":"URL#638441"
+},
+{
+"@score":"1",
+"@id":"638442",
+"info":{"authors":{"author":[{"@pid":"328/9932","text":"Connor Elkhill"},{"@pid":"388/9096","text":"Ines A. Cruz-Guerrero"},{"@pid":"12/8228","text":"Jiawei Liu"},{"@pid":"86/5602","text":"Marius George Linguraru"},{"@pid":"394/3218","text":"Allyson Alexander"},{"@pid":"328/9635","text":"Brooke French"},{"@pid":"83/9614","text":"Antonio R. Porras"}]},"title":"Personalized Phenotype Encoding and Prediction of Pathological Head Development from Cross-Sectional Images.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/ElkhillCLLAFP24","doi":"10.1109/SIPAIM62974.2024.10783545","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783545","url":"https://dblp.org/rec/conf/sipaim/ElkhillCLLAFP24"},
+"url":"URL#638442"
+},
+{
+"@score":"1",
+"@id":"638443",
+"info":{"authors":{"author":[{"@pid":"365/7275","text":"Andrés Escobedo-Gordillo"},{"@pid":"229/0050","text":"Orlando Yael Rivas-Scott"},{"@pid":"163/7250","text":"Jorge Brieva"},{"@pid":"128/4750","text":"Ernesto Moya-Albor"},{"@pid":"243/4835","text":"Sandie Cabon"},{"@pid":"10/6731","text":"Fabienne Porée"},{"@pid":"30/7332","text":"Patrick Pladys"}]},"title":"Non-Contact Respiratory Rate Estimation in Newborns During Quiet Sleep Using Video Magnification Techniques and a 3D Convolutional Neural Network.","venue":"SIPAIM","pages":"1-5","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/Escobedo-Gordillo24","doi":"10.1109/SIPAIM62974.2024.10783554","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783554","url":"https://dblp.org/rec/conf/sipaim/Escobedo-Gordillo24"},
+"url":"URL#638443"
+},
+{
+"@score":"1",
+"@id":"638444",
+"info":{"authors":{"author":[{"@pid":"365/7275","text":"Andrés Escobedo-Gordillo"},{"@pid":"163/7250","text":"Jorge Brieva"},{"@pid":"128/4750","text":"Ernesto Moya-Albor"},{"@pid":"92/9336","text":"Hiram Ponce"},{"@pid":"394/2169","text":"Erick Franco-Gaona"},{"@pid":"132/3377","text":"Iván Cruz-Aceves"}]},"title":"Optimal Dataset Size for Fine-Tuning sEMG-Based Hand Gesture Recognition in Rehabilitation Prosthesis.","venue":"SIPAIM","pages":"1-5","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/Escobedo-Gordillo24a","doi":"10.1109/SIPAIM62974.2024.10783516","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783516","url":"https://dblp.org/rec/conf/sipaim/Escobedo-Gordillo24a"},
+"url":"URL#638444"
+},
+{
+"@score":"1",
+"@id":"638445",
+"info":{"authors":{"author":[{"@pid":"205/5588","text":"Julio Fajardo"},{"@pid":"357/5191","text":"Andrea Lara"},{"@pid":"126/9594","text":"Eric Fujiwara"},{"@pid":"03/4223","text":"Eric Rohmer"}]},"title":"Optical Fiber Force Myography Sensor for Fatigue Estimation in Functional Electrostimulation-induced Rehabilitation Systems.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/FajardoLFR24","doi":"10.1109/SIPAIM62974.2024.10783532","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783532","url":"https://dblp.org/rec/conf/sipaim/FajardoLFR24"},
+"url":"URL#638445"
+},
+{
+"@score":"1",
+"@id":"638446",
+"info":{"authors":{"author":[{"@pid":"394/1981","text":"Jacquelyn Fields"},{"@pid":"212/9501","text":"Steven Y. Cen"},{"@pid":"268/5314","text":"Xiaomeng Lei"},{"@pid":"56/2174","text":"Matthew Chang"},{"@pid":"394/2578","text":"Ketki Kinkar"},{"@pid":"365/5799","text":"Shubham Arun Gujar"},{"@pid":"182/4201","text":"Sandy Lee"},{"@pid":"394/2979","text":"Linda H. Larsen"},{"@pid":"394/3240","text":"Mary Yamashita"},{"@pid":"11/3831","text":"Darryl H. Hwang"},{"@pid":"394/1721","text":"Mariam Thomas"},{"@pid":"212/9475","text":"Bino A. Varghese"}]},"title":"CEM Radiomics for Distinguishing Benign vs Malignant Lesions in Patients with Invasive Breast Cancer or Benign Breast Lesions.","venue":"SIPAIM","pages":"1-8","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/FieldsCLCKGLLYH24","doi":"10.1109/SIPAIM62974.2024.10783603","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783603","url":"https://dblp.org/rec/conf/sipaim/FieldsCLCKGLLYH24"},
+"url":"URL#638446"
+},
+{
+"@score":"1",
+"@id":"638447",
+"info":{"authors":{"author":[{"@pid":"394/2169","text":"Erick Franco-Gaona"},{"@pid":"185/2086","text":"Maria Susana Avila-Garcia"},{"@pid":"132/3377","text":"Iván Cruz-Aceves"},{"@pid":"394/3133","text":"Hiram-Efrain Orocio-Garcia"},{"@pid":"365/7275","text":"Andrés Escobedo-Gordillo"},{"@pid":"163/7250","text":"Jorge Brieva"}]},"title":"Neural Architecture Search Using Trajectory Metaheuristics to Classify Coronary Stenosis.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/Franco-GaonaACO24","doi":"10.1109/SIPAIM62974.2024.10783513","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783513","url":"https://dblp.org/rec/conf/sipaim/Franco-GaonaACO24"},
+"url":"URL#638447"
+},
+{
+"@score":"1",
+"@id":"638448",
+"info":{"authors":{"author":[{"@pid":"394/2245","text":"Rafael A. García-Ramírez"},{"@pid":"394/2155","text":"Ulises A. Gonzalez-Valadez"},{"@pid":"132/3377","text":"Iván Cruz-Aceves"},{"@pid":"394/2523","text":"Gloria P. Trujillo-Sánchez"},{"@pid":"189/9839","text":"Sergio E. Solorio-Meza"},{"@pid":"304/3139","text":"Martha Alicia Hernandez-Gonzalez"}]},"title":"Automatic Classification of Macular Edema in Retinal Fundus Images based on Deep Belief Networks.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/Garcia-RamirezG24","doi":"10.1109/SIPAIM62974.2024.10783634","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783634","url":"https://dblp.org/rec/conf/sipaim/Garcia-RamirezG24"},
+"url":"URL#638448"
+},
+{
+"@score":"1",
+"@id":"638449",
+"info":{"authors":{"author":[{"@pid":"329/2479","text":"Gustavo Garzón"},{"@pid":"394/1804","text":"Gysselis Vásquez"},{"@pid":"82/4733","text":"Santiago Gómez"},{"@pid":"293/7552","text":"Daniel Mantilla"},{"@pid":"293/7025","text":"Paúl Camacho"},{"@pid":"16/10536","text":"Fabio Martínez"}]},"title":"FLAIR Synthesis Including Ischemic Lesion-Aware Mechanisms from NCCT Sequences.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/GarzonVGMCM24","doi":"10.1109/SIPAIM62974.2024.10783625","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783625","url":"https://dblp.org/rec/conf/sipaim/GarzonVGMCM24"},
+"url":"URL#638449"
+},
+{
+"@score":"1",
+"@id":"638450",
+"info":{"authors":{"author":[{"@pid":"394/3427","text":"Sixten Heekin"},{"@pid":"394/3236","text":"Oscar Lopez-Nunez"},{"@pid":"59/37","text":"Julia Smith"},{"@pid":"394/3448","text":"Nicholas Denson"},{"@pid":"394/2433","text":"Lee Denson"},{"@pid":"394/2758","text":"Alexander Miethke"},{"@pid":"313/9297","text":"Jonathan R. Dillman"},{"@pid":"394/2010","text":"Emily Miraldi"},{"@pid":"394/2697","text":"J. Matthew Kofron"},{"@pid":"80/10976","text":"Jasbir Dhaliwal"},{"@pid":"192/1850","text":"Lauren Erdman"}]},"title":"Trade-Offs in Deep Learning Model Loss and Configuration for Sparse Histological Segmentation: A Case Study in Pediatric Ileal Histology.","venue":"SIPAIM","pages":"1-8","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/HeekinLSDDMDMKD24","doi":"10.1109/SIPAIM62974.2024.10783521","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783521","url":"https://dblp.org/rec/conf/sipaim/HeekinLSDDMDMKD24"},
+"url":"URL#638450"
+},
+{
+"@score":"1",
+"@id":"638451",
+"info":{"authors":{"author":[{"@pid":"365/6450","text":"J. Illescas"},{"@pid":"56/2891","text":"M. Pérez"},{"@pid":"205/5588","text":"Julio Fajardo"},{"@pid":"365/6907","text":"A. Lara"},{"@pid":"394/2553","text":"F. Reyna"}]},"title":"AI-based Automatic Segmentation of Sinonasal Cavity in Cone-Beam Computed Tomography.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/IllescasPFLR24","doi":"10.1109/SIPAIM62974.2024.10783618","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783618","url":"https://dblp.org/rec/conf/sipaim/IllescasPFLR24"},
+"url":"URL#638451"
+},
+{
+"@score":"1",
+"@id":"638452",
+"info":{"authors":{"author":[{"@pid":"90/5938","text":"Marcela Iregui"},{"@pid":"356/4835","text":"Fabián Cano"},{"@pid":"394/3026","text":"Bayron Ortiz"},{"@pid":"212/9577","text":"Charlems Álvarez Jimenez"},{"@pid":"137/2428","text":"Eduardo Romero 0001"},{"@pid":"198/9513","text":"Jorge Victorino"}]},"title":"Revisiting JPEG2000 for Efficient and Adaptable Virtual Microscopy.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/IreguiCOA0V24","doi":"10.1109/SIPAIM62974.2024.10783501","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783501","url":"https://dblp.org/rec/conf/sipaim/IreguiCOA0V24"},
+"url":"URL#638452"
+},
+{
+"@score":"1",
+"@id":"638453",
+"info":{"authors":{"author":[{"@pid":"229/1983","text":"Sk Rahatul Jannat"},{"@pid":"142/1143","text":"Jeiran Choupan"},{"@pid":"386/7624","text":"Nasim Sheikh-Bahaei"},{"@pid":"212/9501","text":"Steven Y. Cen"},{"@pid":"394/2578","text":"Ketki Kinkar"},{"@pid":"365/5799","text":"Shubham Arun Gujar"},{"@pid":"23/3937","text":"Gaurav Pandey"},{"@pid":"212/9475","text":"Bino A. Varghese"}]},"title":"Evaluation of Super Resolution Models for Generating Synthetic 3T T1W Images from 1.5T T1W Scans.","venue":"SIPAIM","pages":"1-6","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/JannatCSCKGPV24","doi":"10.1109/SIPAIM62974.2024.10783642","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783642","url":"https://dblp.org/rec/conf/sipaim/JannatCSCKGPV24"},
+"url":"URL#638453"
+},
+{
+"@score":"1",
+"@id":"638454",
+"info":{"authors":{"author":[{"@pid":"394/2578","text":"Ketki Kinkar"},{"@pid":"212/9501","text":"Steven Y. Cen"},{"@pid":"365/5799","text":"Shubham Arun Gujar"},{"@pid":"229/1983","text":"Rahatul Jannat"},{"@pid":"268/5314","text":"Xiaomeng Lei"},{"@pid":"394/1981","text":"Jacquelyn Fields"},{"@pid":"56/2174","text":"Matthew Chang"},{"@pid":"394/1721","text":"Mariam Thomas"},{"@pid":"394/3240","text":"Mary Yamashita"},{"@pid":"212/9475","text":"Bino A. Varghese"}]},"title":"Automated Detection and Segmentation of Breast Lesions in Contrast-Enhanced Mammograms.","venue":"SIPAIM","pages":"1-5","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/KinkarCGJLFCTYV24","doi":"10.1109/SIPAIM62974.2024.10783555","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783555","url":"https://dblp.org/rec/conf/sipaim/KinkarCGJLFCTYV24"},
+"url":"URL#638454"
+},
+{
+"@score":"1",
+"@id":"638455",
+"info":{"authors":{"author":[{"@pid":"394/2201","text":"Joan Perramon Llussà"},{"@pid":"394/3360","text":"Júlia Altarriba Paracolls"},{"@pid":"394/3137","text":"Ricard Sanjosé Alemany"},{"@pid":"394/2218","text":"Marina Bataller"},{"@pid":"394/2573","text":"Núria Pastor Hernández"},{"@pid":"394/1829","text":"Unai Sánchez Luque"},{"@pid":"73/4088","text":"Karim Lekadir"},{"@pid":"117/1961","text":"Polyxeni Gkontra"}]},"title":"Enhancing Heart Failure Management: Integrating AI with Telemonitoring Systems for Advanced Alarm-Based Solutions.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/LlussaPABHLLG24","doi":"10.1109/SIPAIM62974.2024.10783504","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783504","url":"https://dblp.org/rec/conf/sipaim/LlussaPABHLLG24"},
+"url":"URL#638455"
+},
+{
+"@score":"1",
+"@id":"638456",
+"info":{"authors":{"author":[{"@pid":"394/3409","text":"Andrés Munõz"},{"@pid":"394/1609","text":"Juan Torres-Santamaria"},{"@pid":"90/5938","text":"Marcela Iregui"},{"@pid":"137/2428","text":"Eduardo Romero 0001"},{"@pid":"57/7169","text":"Angel Cruz-Roa"}]},"title":"Comparative Analysis of Deep Neural Network Architectures for Heart Disease Classification in Electrocardiography Signals.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/MunozTI0C24","doi":"10.1109/SIPAIM62974.2024.10783577","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783577","url":"https://dblp.org/rec/conf/sipaim/MunozTI0C24"},
+"url":"URL#638456"
+},
+{
+"@score":"1",
+"@id":"638457",
+"info":{"authors":{"author":[{"@pid":"365/5385","text":"Siddharth Narula"},{"@pid":"236/0340","text":"Shruti Prashant Gadewar"},{"@pid":"330/9586","text":"Elizabeth Haddad"},{"@pid":"193/6612","text":"Alyssa H. Zhu"},{"@pid":"358/6092","text":"Sunanda Somu"},{"@pid":"293/7498","text":"Iyad Ba Gari"},{"@pid":"19/7426","text":"Neda Jahanshad"}]},"title":"Effects of Target Images on Outputs of Style-Transfer Generative Models for Brain MRI Harmonization.","venue":"SIPAIM","pages":"1-5","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/NarulaGHZSGJ24","doi":"10.1109/SIPAIM62974.2024.10783646","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783646","url":"https://dblp.org/rec/conf/sipaim/NarulaGHZSGJ24"},
+"url":"URL#638457"
+},
+{
+"@score":"1",
+"@id":"638458",
+"info":{"authors":{"author":[{"@pid":"365/6573","text":"Sebastián Navarrete"},{"@pid":"59/3314","text":"Jean-François Mangin"},{"@pid":"83/281","text":"Cecilia Hernández"},{"@pid":"88/5338","text":"Pamela Guevara"}]},"title":"Fast White Matter Fiber Clustering Using Variational Autoencoder Latent Space.","venue":"SIPAIM","pages":"1-5","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/NavarreteMHG24","doi":"10.1109/SIPAIM62974.2024.10783627","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783627","url":"https://dblp.org/rec/conf/sipaim/NavarreteMHG24"},
+"url":"URL#638458"
+},
+{
+"@score":"1",
+"@id":"638459",
+"info":{"authors":{"author":[{"@pid":"239/1667","text":"Hareem Nisar"},{"@pid":"249/2376","text":"Abhijeet Parida"},{"@pid":"173/8544","text":"Syed Muhammad Anwar"},{"@pid":"171/7681","text":"Gustavo Nino"},{"@pid":"394/2716","text":"Maria C. Rujana"},{"@pid":"86/5602","text":"Marius George Linguraru"}]},"title":"Tiny Lungs, Big Challenges: Pediatric and Premature Lung Segmentation using Deep Learning.","venue":"SIPAIM","pages":"1-5","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/NisarPANRL24","doi":"10.1109/SIPAIM62974.2024.10783643","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783643","url":"https://dblp.org/rec/conf/sipaim/NisarPANRL24"},
+"url":"URL#638459"
+},
+{
+"@score":"1",
+"@id":"638460",
+"info":{"authors":{"author":[{"@pid":"394/1916","text":"Medha Pappula"},{"@pid":"173/8544","text":"Syed Muhammed Anwar"}]},"title":"An ADHD Diagnostic Interface Based on EEG Spectrograms and Deep Learning Techniques.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/PappulaA24","doi":"10.1109/SIPAIM62974.2024.10783602","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783602","url":"https://dblp.org/rec/conf/sipaim/PappulaA24"},
+"url":"URL#638460"
+},
+{
+"@score":"1",
+"@id":"638461",
+"info":{"authors":{"author":[{"@pid":"309/6965","text":"Jean C. Polo"},{"@pid":"394/2644","text":"Juliana V. Castilla"},{"@pid":"313/9622","text":"Juan Camilo Torres"},{"@pid":"21/4424","text":"Alexander Cerón"},{"@pid":"134/6031","text":"Wilson J. Sarmiento"},{"@pid":"57/7169","text":"Angel Cruz-Roa"},{"@pid":"365/6999","text":"R. E. Gutiérrez-Carvajal"},{"@pid":"137/2428","text":"Eduardo Romero 0001"}]},"title":"A Domain Data-Driven Metric to Improve Traditional Visualization and Interaction with ECG Large Databases.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/PoloCTCSCG024","doi":"10.1109/SIPAIM62974.2024.10783588","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783588","url":"https://dblp.org/rec/conf/sipaim/PoloCTCSCG024"},
+"url":"URL#638461"
+},
+{
+"@score":"1",
+"@id":"638462",
+"info":{"authors":{"author":[{"@pid":"309/6965","text":"Jean C. Polo"},{"@pid":"90/5938","text":"Marcela Iregui"},{"@pid":"21/4424","text":"Alexander Cerón"},{"@pid":"134/6031","text":"Wilson J. Sarmiento"},{"@pid":"57/7169","text":"Angel Cruz-Roa"},{"@pid":"137/2428","text":"Eduardo Romero 0001"},{"@pid":"365/6999","text":"R. E. Gutiérrez-Carvajal"}]},"title":"On the Interpretability of AI Cardiovascular Risk Models.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/PoloICSC0G24","doi":"10.1109/SIPAIM62974.2024.10783539","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783539","url":"https://dblp.org/rec/conf/sipaim/PoloICSC0G24"},
+"url":"URL#638462"
+},
+{
+"@score":"1",
+"@id":"638463",
+"info":{"authors":{"author":[{"@pid":"394/2626","text":"Xènia Puig-Bosch"},{"@pid":"277/6954","text":"Machteld J. Boonstra"},{"@pid":"145/2656","text":"Miriam Cabrita"},{"@pid":"394/2958","text":"Joan Perramon"},{"@pid":"394/1912","text":"Sara Munive"},{"@pid":"152/7285-2","text":"Andrea Guala 0002"},{"@pid":"394/1970","text":"Vladimír Kincl"},{"@pid":"225/5805","text":"Saskia Haitjema"},{"@pid":"182/6550","text":"Carina Dantas"},{"@pid":"53/7969","text":"Folkert W. Asselbergs"},{"@pid":"73/4088","text":"Karim Lekadir"}]},"title":"Requirements for Human-Centered Artificial Intelligence: A Heart Failure Study Across Europe and Latin America.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/Puig-BoschBCPM024","doi":"10.1109/SIPAIM62974.2024.10783548","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783548","url":"https://dblp.org/rec/conf/sipaim/Puig-BoschBCPM024"},
+"url":"URL#638463"
+},
+{
+"@score":"1",
+"@id":"638464",
+"info":{"authors":{"author":[{"@pid":"142/3866","text":"Esmeralda Ruiz Pujadas"},{"@pid":"333/1222","text":"Anna Cascarano"},{"@pid":"284/0688","text":"Vien Ngoc Dang"},{"@pid":"360/3355","text":"Marina Camacho"},{"@pid":"137/2414","text":"Angélica Maria Atehortúa Labrador"},{"@pid":"73/4088","text":"Karim Lekadir"}]},"title":"A Structural Equation Model Linking Early-Life Stress to Adult Mental and Cardiovascular Disease.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/PujadasCDCLL24","doi":"10.1109/SIPAIM62974.2024.10783500","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783500","url":"https://dblp.org/rec/conf/sipaim/PujadasCDCLL24"},
+"url":"URL#638464"
+},
+{
+"@score":"1",
+"@id":"638465",
+"info":{"authors":{"author":[{"@pid":"394/3305","text":"Juan Camilo Bayona Quesada"},{"@pid":"394/2103","text":"Angie Julieth Fuentes Barragán"},{"@pid":"394/3385","text":"Gabriel Eduardo Perez"},{"@pid":"165/7889","text":"David Romo-Bucheli"}]},"title":"Domain Adaptation Strategies Based on Color Normalisation for Histological Image Classification.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/QuesadaBPR24","doi":"10.1109/SIPAIM62974.2024.10783544","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783544","url":"https://dblp.org/rec/conf/sipaim/QuesadaBPR24"},
+"url":"URL#638465"
+},
+{
+"@score":"1",
+"@id":"638466",
+"info":{"authors":{"author":[{"@pid":"365/6834","text":"Joany Rodrigues"},{"@pid":"205/2031","text":"Diedre Carmo"},{"@pid":"36/2977","text":"Letícia Rittner"}]},"title":"Assessing MedSAM&apos;s Generalization to White Matter Hyperintensities in Magnetic Resonance Imaging.","venue":"SIPAIM","pages":"1-5","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/RodriguesCR24","doi":"10.1109/SIPAIM62974.2024.10783572","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783572","url":"https://dblp.org/rec/conf/sipaim/RodriguesCR24"},
+"url":"URL#638466"
+},
+{
+"@score":"1",
+"@id":"638467",
+"info":{"authors":{"author":[{"@pid":"153/6319","text":"Rahimeh Rouhi"},{"@pid":"365/5144","text":"Jeffrey Tanedo"},{"@pid":"237/4735","text":"Austin Tapp"},{"@pid":"365/6210","text":"Shreyash Zanjal"},{"@pid":"394/2146","text":"Kirsty Donald"},{"@pid":"202/7800","text":"Victoria Nankabirwa"},{"@pid":"394/2221","text":"Sadia Parkar"},{"@pid":"394/2924","text":"Salman Osmani"},{"@pid":"394/2248","text":"Reda Tabassum"},{"@pid":"394/3500","text":"Sidra Kaleem Jafri"},{"@pid":"55/457","text":"Sean C. L. Deoni"},{"@pid":"86/5602","text":"Marius George Linguraru"},{"@pid":"91/1237","text":"Natasha Leporé"}]},"title":"LF_Deface: An Automated Tool for Defacing Pediatric Brain Low-Field MRI.","venue":"SIPAIM","pages":"1-5","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/RouhiTTZDNPOTJD24","doi":"10.1109/SIPAIM62974.2024.10783510","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783510","url":"https://dblp.org/rec/conf/sipaim/RouhiTTZDNPOTJD24"},
+"url":"URL#638467"
+},
+{
+"@score":"1",
+"@id":"638468",
+"info":{"authors":{"author":[{"@pid":"228/8442","text":"Sujan Sarkar"},{"@pid":"394/3044","text":"Siddhant Majumder"},{"@pid":"394/1833","text":"Diptarka Mandal"},{"@pid":"381/3602","text":"Vyacheslav Gulvanskii"},{"@pid":"170/2042","text":"Dmitrii I. Kaplun"},{"@pid":"03/5563","text":"Ram Sarkar"}]},"title":"Skin Lesion Classification using a Decentralized Peer-to-Peer Federated Learning Framework.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/SarkarMMGKS24","doi":"10.1109/SIPAIM62974.2024.10783511","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783511","url":"https://dblp.org/rec/conf/sipaim/SarkarMMGKS24"},
+"url":"URL#638468"
+},
+{
+"@score":"1",
+"@id":"638469",
+"info":{"authors":{"author":[{"@pid":"228/8442","text":"Sujan Sarkar"},{"@pid":"394/3476","text":"Saptarshi Pani"},{"@pid":"170/2033","text":"Alexander S. Voznesensky"},{"@pid":"170/2042","text":"Dmitrij Kaplun"},{"@pid":"03/5563","text":"Ram Sarkar"}]},"title":"SERAU-Net: Snapshot Ensemble-Aided Region-Aware Attention-Based U-Net for Skin Lesion Segmentation.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/SarkarPVKS24","doi":"10.1109/SIPAIM62974.2024.10783593","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783593","url":"https://dblp.org/rec/conf/sipaim/SarkarPVKS24"},
+"url":"URL#638469"
+},
+{
+"@score":"1",
+"@id":"638470",
+"info":{"authors":{"author":[{"@pid":"394/3046","text":"Suellen S. Silva"},{"@pid":"365/6834","text":"Joany S. Rodrigues"},{"@pid":"304/5214","text":"Paulo Rogério Julio"},{"@pid":"52/7786","text":"Simone Appenzeller"},{"@pid":"36/2977","text":"Letícia Rittner"}]},"title":"Training a Vision Transformer Model on Shape Signatures for Quality Control of MRI Corpus Callosum Segmentations.","venue":"SIPAIM","pages":"1-5","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/SilvaRJAR24","doi":"10.1109/SIPAIM62974.2024.10783553","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783553","url":"https://dblp.org/rec/conf/sipaim/SilvaRJAR24"},
+"url":"URL#638470"
+},
+{
+"@score":"1",
+"@id":"638471",
+"info":{"authors":{"author":[{"@pid":"358/6092","text":"Sunanda Somu"},{"@pid":"193/6612","text":"Alyssa H. Zhu"},{"@pid":"365/5385","text":"Siddharth Narula"},{"@pid":"19/7426","text":"Neda Jahanshad"},{"@pid":"118/8424","text":"Talia M. Nir"}]},"title":"Longitudinal Multi-Site Modeling of Brain Atrophy Trajectories Associated with Amyloid and Tau.","venue":"SIPAIM","pages":"1-5","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/SomuZNJN24","doi":"10.1109/SIPAIM62974.2024.10783615","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783615","url":"https://dblp.org/rec/conf/sipaim/SomuZNJN24"},
+"url":"URL#638471"
+},
+{
+"@score":"1",
+"@id":"638472",
+"info":{"authors":{"author":[{"@pid":"365/7317","text":"Katharine Sweetland"},{"@pid":"136/8052","text":"Vinay A. Duddalwar"},{"@pid":"212/9475","text":"Bino A. Varghese"},{"@pid":"11/3831","text":"Darryl H. Hwang"}]},"title":"Investigating the Effects of Computed Tomography Reconstruction Settings from Multiple Scanners on IBSI Compliant Radiomic Features.","venue":"SIPAIM","pages":"1-21","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/SweetlandDVH24","doi":"10.1109/SIPAIM62974.2024.10783514","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783514","url":"https://dblp.org/rec/conf/sipaim/SweetlandDVH24"},
+"url":"URL#638472"
+},
+{
+"@score":"1",
+"@id":"638473",
+"info":{"authors":{"author":[{"@pid":"394/3368","text":"Camilo A. Tenjo"},{"@pid":"394/2073","text":"Paula C. Moreno"},{"@pid":"205/5437","text":"Oscar J. Perdomo"}]},"title":"ViT-Based Automated Detection of Cervical Intraepithelial Neoplasia in Colposcopy Images.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/TenjoMP24","doi":"10.1109/SIPAIM62974.2024.10783564","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783564","url":"https://dblp.org/rec/conf/sipaim/TenjoMP24"},
+"url":"URL#638473"
+},
+{
+"@score":"1",
+"@id":"638474",
+"info":{"authors":{"author":[{"@pid":"394/1784","text":"Maria Troncoso-Seguel"},{"@pid":"349/6126","text":"Mabel Urrutia"},{"@pid":"281/8126","text":"Claudio Bustos"},{"@pid":"88/5338","text":"Pamela Guevara"},{"@pid":"29/9022","text":"Esteban J. Pino"}]},"title":"How Does Your Brain Process Words? EEG and ET Co-Registration in a Reading Task Among Chilean University Students.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/Troncoso-Seguel24","doi":"10.1109/SIPAIM62974.2024.10783604","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783604","url":"https://dblp.org/rec/conf/sipaim/Troncoso-Seguel24"},
+"url":"URL#638474"
+},
+{
+"@score":"1",
+"@id":"638475",
+"info":{"authors":{"author":[{"@pid":"212/9475","text":"Bino A. Varghese"},{"@pid":"365/5799","text":"Shubham Arun Gujar"},{"@pid":"212/9501","text":"Steven Yong Cen"},{"@pid":"268/5314","text":"Xiaomeng Lei"},{"@pid":"11/3831","text":"Darryl H. Hwang"},{"@pid":"232/9436","text":"Giuseppe Barisano"},{"@pid":"386/7624","text":"Nasim Sheikh-Bahaei"}]},"title":"Magnetic Resonance Imaging based Texture Analysis Predicts Conversion to Mild Cognitive Impairment and Alzheimer Disease.","venue":"SIPAIM","pages":"1-7","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/VargheseGCLHBS24","doi":"10.1109/SIPAIM62974.2024.10783512","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783512","url":"https://dblp.org/rec/conf/sipaim/VargheseGCLHBS24"},
+"url":"URL#638475"
+},
+{
+"@score":"1",
+"@id":"638476",
+"info":{"authors":{"author":[{"@pid":"95/6743","text":"Natalia Vidal"},{"@pid":"365/6756","text":"Mateus Oliveira Da Silva"},{"@pid":"205/2031","text":"Diedre Carmo"},{"@pid":"365/6573","text":"Sebastián Navarrete"},{"@pid":"88/5338","text":"Pamela Guevara"},{"@pid":"36/2977","text":"Letícia Rittner"}]},"title":"Is DL-based Reconstruction for Fiber Orientation Distribution (FOD) Comparable to MSMT-Based FOD for Fiber Bundle Analysis?","venue":"SIPAIM","pages":"1-5","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/VidalSCNGR24","doi":"10.1109/SIPAIM62974.2024.10783621","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783621","url":"https://dblp.org/rec/conf/sipaim/VidalSCNGR24"},
+"url":"URL#638476"
+},
+{
+"@score":"1",
+"@id":"638477",
+"info":{"authors":{"author":[{"@pid":"394/2859","text":"Julián Orlando Rodriguez Villamizar"},{"@pid":"394/2533","text":"Daniel Felipe Rueda Mariño"},{"@pid":"165/7889","text":"David Romo-Bucheli"}]},"title":"Evaluating Regions of Clinical Interest Generated by Deep Recurrent Attention Models in Histological Images.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/VillamizarMR24","doi":"10.1109/SIPAIM62974.2024.10783502","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783502","url":"https://dblp.org/rec/conf/sipaim/VillamizarMR24"},
+"url":"URL#638477"
+},
+{
+"@score":"1",
+"@id":"638478",
+"info":{"authors":{"author":[{"@pid":"14/10355","text":"Neha Yadav"},{"@pid":"394/3174","text":"Andrew Turangan"},{"@pid":"59/5019","text":"Huawei Han"},{"@pid":"268/5314","text":"Xiaomeng Lei"},{"@pid":"11/3831","text":"Darryl H. Hwang"},{"@pid":"212/9501","text":"Steven Y. Cen"},{"@pid":"26/1446","text":"Joshua Levy"},{"@pid":"222/9963","text":"Kristin Jensen"},{"@pid":"171/2061","text":"David J. Goodenough"},{"@pid":"212/9475","text":"Bino A. Varghese"}]},"title":"Systematic Approach to Identifying Sources of Variation in CT Radiomics: A Phantom Study.","venue":"SIPAIM","pages":"1-4","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/YadavTHLHCLJGV24","doi":"10.1109/SIPAIM62974.2024.10783586","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783586","url":"https://dblp.org/rec/conf/sipaim/YadavTHLHCLJGV24"},
+"url":"URL#638478"
+},
+{
+"@score":"1",
+"@id":"638479",
+"info":{"authors":{"author":[{"@pid":"342/5746","text":"Rosa Y. G. Paccotacya Yanque"},{"@pid":"225/5435","text":"Alceu Bissoto"},{"@pid":"97/3954","text":"Sandra Avila"}]},"title":"Are Explanations Helpful? A Comparative Analysis of Explainability Methods in Skin Lesion Classifiers.","venue":"SIPAIM","pages":"1-5","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/sipaim/YanqueBA24","doi":"10.1109/SIPAIM62974.2024.10783606","ee":"https://doi.org/10.1109/SIPAIM62974.2024.10783606","url":"https://dblp.org/rec/conf/sipaim/YanqueBA24"},
+"url":"URL#638479"
+},
+{
+"@score":"1",
+"@id":"661019",
+"info":{"title":"20th International Symposium on Medical Information Processing and Analysis, SIPAIM 2024, Antigua, Guatemala, November 13-15, 2024","venue":"SIPAIM","publisher":"IEEE","year":"2024","type":"Editorship","key":"conf/sipaim/2024","doi":"10.1109/SIPAIM62974.2024","ee":"https://doi.org/10.1109/SIPAIM62974.2024","url":"https://dblp.org/rec/conf/sipaim/2024"},
+"url":"URL#661019"
+}
+]
+}
+}
+}

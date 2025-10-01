@@ -1,0 +1,42 @@
+node1,node2,similarity,distance
+3D poses,video,0.966,0.2609
+3D poses,fully convolutional model,0.105,1.3379
+3D poses,dilated temporal convolutions,0.0852,1.3526
+2D keypoints,3D poses,0.5001,0.9999
+3D poses,back-projection,0.1643,1.2928
+3D poses,semi-supervised training,0.2515,1.2235
+3D poses,unlabeled video data,0.9325,0.3673
+fully convolutional model,video,-0.0469,1.447
+dilated temporal convolutions,video,-0.0462,1.4465
+2D keypoints,video,0.3259,1.1611
+back-projection,video,0.0174,1.4018
+semi-supervised training,video,0.1096,1.3345
+unlabeled video data,video,0.9712,0.2401
+dilated temporal convolutions,fully convolutional model,0.9933,0.1157
+2D keypoints,fully convolutional model,0.8642,0.5212
+back-projection,fully convolutional model,0.9853,0.1714
+fully convolutional model,semi-supervised training,0.965,0.2645
+fully convolutional model,unlabeled video data,-0.1934,1.5449
+2D keypoints,dilated temporal convolutions,0.8259,0.5902
+back-projection,dilated temporal convolutions,0.9759,0.2195
+dilated temporal convolutions,semi-supervised training,0.9589,0.2866
+dilated temporal convolutions,unlabeled video data,-0.199,1.5486
+2D keypoints,back-projection,0.8948,0.4586
+2D keypoints,semi-supervised training,0.8643,0.5209
+2D keypoints,unlabeled video data,0.2239,1.2459
+back-projection,semi-supervised training,0.9381,0.3518
+back-projection,unlabeled video data,-0.1359,1.5073
+semi-supervised training,unlabeled video data,-0.0327,1.4372
+3D poses,Human3.6M,-0.2782,1.5989
+3D poses,HumanEva-I,0.034,1.39
+Human3.6M,video,-0.2946,1.6091
+HumanEva-I,video,0.0884,1.3502
+2D keypoints,Human3.6M,-0.1569,1.5211
+2D keypoints,HumanEva-I,-0.188,1.5414
+Human3.6M,back-projection,-0.2778,1.5986
+HumanEva-I,back-projection,-0.2907,1.6066
+Human3.6M,semi-supervised training,-0.2464,1.5789
+HumanEva-I,semi-supervised training,-0.4981,1.731
+Human3.6M,unlabeled video data,-0.1199,1.4966
+HumanEva-I,unlabeled video data,0.1819,1.2792
+Human3.6M,HumanEva-I,-0.1116,1.491

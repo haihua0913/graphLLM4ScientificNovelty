@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+ambiguous matching,low-level correspondences,0.887,0.4754
+hierarchical semantic representation,low-level correspondences,0.8844,0.4808
+convolutional neural network,low-level correspondences,-0.2103,1.5558
+ambiguous matching,hierarchical semantic representation,0.7992,0.6337
+ambiguous matching,convolutional neural network,-0.0796,1.4694
+convolutional neural network,hierarchical semantic representation,-0.2814,1.6009
+ground-truth correspondences,low-level correspondences,0.9389,0.3497
+ambiguous matching,ground-truth correspondences,0.9792,0.2042
+ground-truth correspondences,hierarchical semantic representation,0.8492,0.5492
+convolutional neural network,ground-truth correspondences,-0.0724,1.4645
+hierarchical semantic representation,transfer from recognition,0.7367,0.7257
+convolutional neural network,transfer from recognition,-0.0172,1.4263
+ground-truth correspondences,transfer from recognition,0.9782,0.2086
+convolutional feature hierarchy,ground-truth correspondences,-0.0772,1.4678
+convolutional feature hierarchy,transfer from recognition,0.0508,1.3778
+exponential,transfer from recognition,0.1257,1.3224
+polynomial algorithm,transfer from recognition,-0.1789,1.5355
+convolutional feature hierarchy,exponential,0.2093,1.2575
+convolutional feature hierarchy,polynomial algorithm,-0.0716,1.464
+exponential,polynomial algorithm,-0.407,1.6775
+convolutional feature hierarchy,stereo correspondence,0.2423,1.231
+exponential,stereo correspondence,0.3629,1.1288
+polynomial algorithm,stereo correspondence,-0.0552,1.4527

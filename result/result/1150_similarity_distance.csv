@@ -1,0 +1,28 @@
+node1,node2,similarity,distance
+machine learning,practical systems,-0.1892,1.5422
+input-output pairs,machine learning,-0.1357,1.5071
+machine learning,requirements,-0.0848,1.473
+input-output pairs,practical systems,0.9797,0.2016
+practical systems,requirements,0.2894,1.1922
+input-output pairs,requirements,0.3524,1.1381
+concurrent verifier,machine learning,-0.1557,1.5203
+generalizability,machine learning,-0.0556,1.453
+concurrent verifier,input-output pairs,-0.3004,1.6127
+generalizability,input-output pairs,0.9341,0.3631
+concurrent verifier,requirements,-0.5001,1.7321
+generalizability,requirements,0.5264,0.9733
+concurrent verifier,generalizability,-0.2705,1.5941
+generalization analysis,machine learning,-0.1185,1.4957
+generalization analysis,input-output pairs,0.9601,0.2823
+generalization analysis,requirements,0.3774,1.1159
+concurrent verifier,generalization analysis,-0.3135,1.6208
+generalizability,generalization analysis,0.9608,0.28
+learnability,machine learning,-0.2059,1.553
+inference time,machine learning,-0.1869,1.5407
+concurrent verifier,learnability,-0.2394,1.5744
+concurrent verifier,inference time,-0.4083,1.6782
+generalizability,learnability,0.8143,0.6095
+generalizability,inference time,0.9543,0.3025
+generalization analysis,learnability,0.9058,0.434
+generalization analysis,inference time,0.9536,0.3046
+inference time,learnability,0.8071,0.6212

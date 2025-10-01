@@ -1,0 +1,43 @@
+node1,node2,similarity,distance
+Persistent Evolution Strategies,computation graphs,0.9816,0.192
+Persistent Evolution Strategies,high variance gradients,0.1161,1.3296
+Persistent Evolution Strategies,bias,-0.2023,1.5507
+Persistent Evolution Strategies,slow updates,0.0057,1.4102
+Persistent Evolution Strategies,memory usage,-0.1023,1.4848
+Persistent Evolution Strategies,evolution strategies-based update,-0.0198,1.4281
+Persistent Evolution Strategies,truncated unrolls,-0.2497,1.5809
+computation graphs,high variance gradients,0.024,1.3971
+bias,computation graphs,-0.1513,1.5174
+computation graphs,slow updates,-0.1204,1.4969
+computation graphs,memory usage,-0.1893,1.5423
+computation graphs,evolution strategies-based update,-0.1211,1.4974
+computation graphs,truncated unrolls,-0.2437,1.5771
+bias,high variance gradients,-0.1285,1.5023
+high variance gradients,slow updates,-0.0171,1.4262
+high variance gradients,memory usage,-0.1538,1.5191
+evolution strategies-based update,high variance gradients,-0.1283,1.5022
+high variance gradients,truncated unrolls,0.3877,1.1066
+bias,slow updates,-0.3613,1.65
+bias,memory usage,-0.2911,1.6069
+bias,evolution strategies-based update,-0.4045,1.676
+bias,truncated unrolls,0.1835,1.2779
+memory usage,slow updates,0.964,0.2684
+evolution strategies-based update,slow updates,0.976,0.219
+slow updates,truncated unrolls,-0.1746,1.5327
+evolution strategies-based update,memory usage,0.9742,0.2272
+memory usage,truncated unrolls,-0.1411,1.5107
+evolution strategies-based update,truncated unrolls,-0.0897,1.4763
+Persistent Evolution Strategies,correction terms,-0.1367,1.5078
+computation graphs,correction terms,-0.1451,1.5134
+correction terms,high variance gradients,0.1898,1.273
+bias,correction terms,-0.2955,1.6097
+correction terms,slow updates,0.0401,1.3856
+correction terms,memory usage,-0.0198,1.4281
+correction terms,evolution strategies-based update,0.0192,1.4005
+correction terms,truncated unrolls,-0.2815,1.6009
+Persistent Evolution Strategies,parameter updates,0.1244,1.3234
+bias,parameter updates,-0.458,1.7076
+memory usage,parameter updates,0.9386,0.3506
+evolution strategies-based update,parameter updates,0.9772,0.2134
+parameter updates,truncated unrolls,-0.1663,1.5273
+correction terms,parameter updates,-0.0863,1.474

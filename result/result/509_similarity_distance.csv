@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+click-based interactive image segmentation,positive/negative clicks,0.2025,1.2629
+click-based interactive image segmentation,mask correction network,0.1619,1.2947
+click-based interactive image segmentation,lightweight,-0.0667,1.4606
+mask correction network,positive/negative clicks,0.9734,0.2306
+lightweight,positive/negative clicks,0.4618,1.0375
+lightweight,mask correction network,0.4116,1.0848
+click-guided correlation module,click-guided self-attention module,0.961,0.2794
+click-guided self-attention module,semantic similarity,-0.047,1.447
+click-guided correlation module,semantic similarity,0.065,1.3675
+click-guided self-attention module,template information,0.9517,0.3108
+click-guided correlation module,template information,0.9865,0.1642
+semantic similarity,template information,0.0943,1.3459
+performance and efficiency,semantic similarity,0.1674,1.2905
+performance and efficiency,template information,0.9521,0.3096

@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+labeled data,neural networks,0.106,1.3371
+constraints,labeled data,-0.1503,1.5168
+labeled data,output space,-0.3112,1.6194
+constraints,neural networks,-0.0944,1.4795
+neural networks,output space,-0.2277,1.567
+constraints,output space,0.6441,0.8436
+labeled data,prior domain knowledge,0.9468,0.3262
+labeled data,laws of physics,-0.0833,1.472
+neural networks,prior domain knowledge,0.0953,1.3452
+laws of physics,neural networks,-0.0566,1.4537
+constraints,prior domain knowledge,-0.3422,1.6384
+constraints,laws of physics,0.809,0.6181
+output space,prior domain knowledge,-0.4347,1.694
+laws of physics,output space,0.9043,0.4375
+laws of physics,prior domain knowledge,-0.2375,1.5732
+computer vision,neural networks,0.0004,1.414
+computer vision,constraints,-0.3258,1.6284
+computer vision,output space,-0.3672,1.6536
+computer vision,prior domain knowledge,0.9408,0.3441
+computer vision,laws of physics,-0.2246,1.565
+constraints,convolutional neural network,0.3295,1.158
+constraints,labeled examples,-0.1564,1.5208
+convolutional neural network,prior domain knowledge,0.0439,1.3828
+labeled examples,prior domain knowledge,0.9197,0.4007
+convolutional neural network,laws of physics,-0.128,1.502
+labeled examples,laws of physics,-0.0188,1.4275
+computer vision,convolutional neural network,-0.0151,1.4248
+computer vision,labeled examples,0.969,0.2492
+convolutional neural network,labeled examples,-0.0546,1.4523
+computer vision,loss functions,-0.2303,1.5687
+convolutional neural network,loss functions,-0.2034,1.5514
+labeled examples,loss functions,-0.0149,1.4247

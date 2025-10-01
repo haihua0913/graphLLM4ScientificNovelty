@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+black-box differential equation solver,deep neural network models,0.2313,1.24
+black-box differential equation solver,continuous-depth models,-0.2183,1.5609
+continuous-depth models,continuous-depth residual networks,-0.257,1.5856
+continuous-depth models,continuous-time latent variable models,-0.0877,1.4749
+continuous-depth residual networks,continuous-time latent variable models,-0.0793,1.4692
+black-box differential equation solver,continuous-depth residual networks,-0.0493,1.4487
+black-box differential equation solver,continuous-time latent variable models,-0.3199,1.6248
+continuous normalizing flows,continuous-depth models,0.8757,0.4986
+continuous normalizing flows,continuous-depth residual networks,0.1319,1.3177
+continuous normalizing flows,continuous-time latent variable models,-0.2214,1.563
+ODE solver,continuous-depth residual networks,-0.1609,1.5237
+ODE solver,continuous-time latent variable models,-0.3427,1.6387
+ODE solver,continuous normalizing flows,-0.4381,1.696
+continuous normalizing flows,end-to-end training,-0.1481,1.5153
+ODE solver,end-to-end training,0.066,1.3668

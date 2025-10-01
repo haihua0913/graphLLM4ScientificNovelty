@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+Gaussian process posteriors,variational approximations,-0.349,1.6426
+inducing variables,variational approximations,-0.0995,1.4829
+Gaussian process posteriors,inducing variables,-0.0614,1.457
+KL divergence,inducing variables,-0.11,1.49
+KL divergence,Squared Exponential kernel,0.0307,1.3923
+KL divergence,regression,-0.1705,1.5301
+KL divergence,normally distributed inputs,0.0415,1.3846
+Squared Exponential kernel,regression,-0.1729,1.5316
+Squared Exponential kernel,normally distributed inputs,0.1886,1.2739
+normally distributed inputs,regression,-0.066,1.4601
+Gaussian process posteriors,KL divergence,-0.2451,1.5781
+Gaussian process posteriors,Squared Exponential kernel,0.0928,1.347
+Gaussian process posteriors,regression,-0.3755,1.6586
+Gaussian process posteriors,normally distributed inputs,-0.0247,1.4316
+Gaussian process posteriors,continual learning,0.5254,0.9742
+KL divergence,continual learning,-0.0382,1.441
+Squared Exponential kernel,continual learning,-0.5093,1.7374
+continual learning,regression,-0.1532,1.5187
+continual learning,normally distributed inputs,-0.0891,1.4759

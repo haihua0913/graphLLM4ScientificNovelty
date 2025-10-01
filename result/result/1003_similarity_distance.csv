@@ -1,0 +1,13 @@
+node1,node2,similarity,distance
+MLPs,neural networks,-0.0224,1.43
+MLPs,nonlinear regression,-0.4828,1.7221
+neural networks,nonlinear regression,-0.0749,1.4662
+MLPs,unimodal,-0.239,1.5742
+neural networks,unimodal,0.0172,1.402
+nonlinear regression,unimodal,-0.1731,1.5317
+structured prediction,unimodal,0.0273,1.3948
+multimodal distribution,structured prediction,-0.0101,1.4213
+Sigmoid Belief Nets,structured prediction,-0.5058,1.7354
+Sigmoid Belief Nets,multimodal distribution,-0.3393,1.6367
+multimodal distribution,stochastic variables,0.0297,1.3931
+Sigmoid Belief Nets,stochastic variables,0.0042,1.4113

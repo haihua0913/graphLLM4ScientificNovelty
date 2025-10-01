@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+object detection,statistical models,-0.4044,1.6759
+object detection,texture synthesis,0.5521,0.9465
+object detection,texture recognition,-0.4192,1.6848
+statistical models,texture synthesis,-0.4916,1.7272
+statistical models,texture recognition,0.9919,0.1273
+texture recognition,texture synthesis,-0.4311,1.6918
+Gaussian models,texture recognition,-0.7378,1.8643
+clustering,texture recognition,-0.7262,1.8581
+Gaussian models,clustering,0.5108,0.9892
+Gaussian models,discriminative,0.1384,1.3127
+clustering,discriminative,-0.074,1.4656
+discriminative,face detection,-0.1659,1.527
+car detection,discriminative,-0.2494,1.5807
+car detection,face detection,0.9043,0.4374

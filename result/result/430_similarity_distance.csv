@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+low-rank approximation,matrix,-0.0581,1.4547
+Singular Value Decomposition,low-rank approximation,0.9364,0.3566
+Singular Value Decomposition,matrix,0.2273,1.2432
+low-rank approximation,missing data,-0.4183,1.6842
+low-rank approximation,outliers,-0.3837,1.6635
+matrix,missing data,0.1256,1.3224
+matrix,outliers,0.1315,1.3179
+Singular Value Decomposition,missing data,-0.3278,1.6296
+Singular Value Decomposition,outliers,-0.2871,1.6044
+missing data,outliers,0.9905,0.1376
+L1 norm,matrix,-0.1714,1.5306
+L1 norm,Singular Value Decomposition,-0.28,1.6
+L1 norm,missing data,0.8559,0.5368
+L1 norm,outliers,0.8857,0.4782
+Wiberg algorithm,matrix,0.1342,1.3159
+Wiberg algorithm,missing data,-0.4385,1.6961
+Wiberg algorithm,outliers,-0.3874,1.6658
+L1 norm,Wiberg algorithm,-0.2868,1.6043
+linear programs,matrix,0.1054,1.3376
+linear programs,missing data,-0.3749,1.6582
+L1 norm,linear programs,-0.2323,1.5699
+Wiberg algorithm,linear programs,0.9385,0.3507
+Wiberg algorithm,optimization software,0.9472,0.3249
+linear programs,optimization software,0.9218,0.3954
+experiments,linear programs,0.1582,1.2975
+experiments,optimization software,0.0717,1.3625

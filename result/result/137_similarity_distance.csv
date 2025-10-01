@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+plain text,structural ways,0.9659,0.2612
+communicative intent,plain text,-0.2222,1.5634
+communicative intent,structural ways,-0.1302,1.5035
+structural ways,structured document,0.1723,1.2867
+retrieval,structural ways,-0.0625,1.4577
+communicative intent,structured document,0.1471,1.3061
+communicative intent,retrieval,0.29,1.1916
+retrieval,structured document,-0.0206,1.4287
+communicative intent,tweets,0.2363,1.2359
+structured document,tweets,-0.1742,1.5324
+retrieval,tweets,0.8399,0.5659
+learning-to-rank,tweets,-0.3662,1.653
+learning-to-rank,structured document,0.3409,1.1481
+learning-to-rank,retrieval,0.0028,1.4122
+social media features,tweets,-0.0839,1.4723
+learning-to-rank,social media features,-0.1937,1.5451

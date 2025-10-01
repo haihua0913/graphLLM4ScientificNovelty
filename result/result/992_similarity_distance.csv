@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+category overlap,class imbalance,-0.1351,1.5067
+class imbalance,minority categories,-0.1035,1.4856
+category overlap,minority categories,0.9474,0.3243
+class imbalance,controllable image generation,0.1602,1.296
+category overlap,controllable image generation,0.3681,1.1242
+controllable image generation,minority categories,0.5469,0.952
+controllable image generation,training samples,0.3681,1.1242
+category boundaries,controllable image generation,0.1004,1.3414
+minority categories,training samples,0.9474,0.3243
+category boundaries,minority categories,0.7538,0.7016
+category boundaries,training samples,0.8693,0.5113
+controllable image generation,structural similarity,0.117,1.3289
+categorical similarity,controllable image generation,0.1062,1.337
+structural similarity,training samples,0.0856,1.3524
+categorical similarity,training samples,-0.1779,1.5348
+category boundaries,structural similarity,0.3147,1.1707
+categorical similarity,category boundaries,-0.1792,1.5357
+categorical similarity,structural similarity,-0.0318,1.4365
+minority categories,structural similarity,0.0944,1.3458
+categorical similarity,minority categories,-0.1077,1.4884

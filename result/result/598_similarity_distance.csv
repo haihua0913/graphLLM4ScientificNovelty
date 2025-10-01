@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+multimodal data,representation learning,-0.0712,1.4637
+modalities,multimodal data,0.2494,1.2253
+modalities,representation learning,-0.4509,1.7035
+downstream tasks,multimodal data,0.2047,1.2612
+downstream tasks,representation learning,-0.12,1.4967
+downstream tasks,modalities,0.7032,0.7704
+correspondences,modalities,-0.4333,1.6931
+correspondences,downstream tasks,-0.0651,1.4595
+contrastive learning,modalities,-0.121,1.4973
+TupleInfoNCE,contrastive learning,-0.2568,1.5854
+contrastive learning,correspondences,0.176,1.2838
+TupleInfoNCE,modalities,0.3821,1.1117
+TupleInfoNCE,correspondences,-0.1804,1.5365
+contrastive learning,negative tuples,-0.0353,1.4389
+modalities,negative tuples,0.9903,0.1395
+TupleInfoNCE,negative tuples,0.3273,1.1599
+correspondences,negative tuples,-0.4125,1.6808
+modalities,mutual-information,0.2873,1.1939
+mutual-information,negative tuples,0.2476,1.2267
+correspondences,mutual-information,0.0017,1.413
+TupleInfoNCE,mutual-information,0.9091,0.4264
+TupleInfoNCE,downstream tasks,0.3182,1.1677
+downstream tasks,mutual-information,0.2615,1.2153

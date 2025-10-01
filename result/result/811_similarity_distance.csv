@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+OPE,OPL,0.9321,0.3686
+OPE,truncation by death,0.0056,1.4103
+OPL,truncation by death,0.0929,1.3469
+OPE,principal stratification,-0.151,1.5173
+OPL,principal stratification,-0.3396,1.6368
+principal stratification,truncation by death,-0.0887,1.4756
+OPE,survivor value function,0.1884,1.274
+OPL,survivor value function,0.22,1.249
+survivor value function,truncation by death,0.9448,0.3324
+principal stratification,survivor value function,-0.0059,1.4184
+OPE,semiparametric efficiency bound,-0.3321,1.6322
+OPL,semiparametric efficiency bound,-0.0625,1.4578
+semiparametric efficiency bound,truncation by death,-0.2685,1.5928
+principal stratification,semiparametric efficiency bound,-0.1103,1.4901
+semiparametric efficiency bound,survivor value function,-0.3608,1.6498
+OPE,multiply robust estimators,-0.2389,1.5741
+OPL,multiply robust estimators,0.1032,1.3392
+multiply robust estimators,survivor value function,-0.0103,1.4215
+multiply robust estimators,semiparametric efficiency bound,0.841,0.5639

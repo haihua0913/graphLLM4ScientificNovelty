@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+Mahalanobis distance function,information-theoretic,-0.4122,1.6806
+differential relative entropy,information-theoretic,0.2548,1.2208
+constraints,information-theoretic,-0.1165,1.4943
+Mahalanobis distance function,differential relative entropy,-0.304,1.615
+Mahalanobis distance function,constraints,-0.2531,1.5831
+constraints,differential relative entropy,0.0056,1.4102
+Bregman optimization,information-theoretic,-0.7768,1.8851
+LogDet divergence,information-theoretic,-0.1372,1.5081
+Bregman optimization,Mahalanobis distance function,0.1698,1.2886
+LogDet divergence,Mahalanobis distance function,-0.3641,1.6517
+Bregman optimization,differential relative entropy,-0.2076,1.5541
+LogDet divergence,differential relative entropy,0.1182,1.328
+Bregman optimization,LogDet divergence,-0.2637,1.5898
+Bregman optimization,constraints,-0.3008,1.6129
+LogDet divergence,constraints,0.9472,0.3248
+Bregman optimization,prior,-0.7213,1.8554
+LogDet divergence,prior,-0.2131,1.5576
+constraints,prior,-0.1843,1.539
+constraints,fast and scalable,0.0836,1.3538
+fast and scalable,prior,-0.0363,1.4396
+fast and scalable,online version,0.9762,0.2181
+fast and scalable,regret bounds,0.0221,1.3985
+online version,regret bounds,0.0172,1.402

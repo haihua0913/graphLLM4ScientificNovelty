@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+image parsing,top-down semantic feedback,0.9007,0.4456
+convolutional deep networks,image parsing,0.0528,1.3763
+global appearance/semantic features,image parsing,0.9082,0.4286
+convolutional deep networks,top-down semantic feedback,-0.0466,1.4468
+global appearance/semantic features,top-down semantic feedback,0.8107,0.6153
+convolutional deep networks,global appearance/semantic features,0.064,1.3682
+efficient training,image parsing,0.9408,0.3441
+fast testing,image parsing,0.962,0.2758
+efficient training,top-down semantic feedback,0.9847,0.175
+fast testing,top-down semantic feedback,0.9379,0.3523
+convolutional deep networks,efficient training,0.0035,1.4117
+convolutional deep networks,fast testing,0.0419,1.3842
+efficient training,global appearance/semantic features,0.8814,0.487
+fast testing,global appearance/semantic features,0.9055,0.4346
+efficient training,fast testing,0.9735,0.2301
+SIFTflow dataset,image parsing,0.7161,0.7536
+SIFTflow dataset,global appearance/semantic features,0.8955,0.4572
+SIFTflow dataset,efficient training,0.6623,0.8218
+SIFTflow dataset,fast testing,0.6596,0.8251

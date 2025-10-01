@@ -1,0 +1,35 @@
+node1,node2,similarity,distance
+combinatorial structure,local optima,0.4233,1.074
+local optima,objective function,-0.0836,1.4721
+combinatorial structure,objective function,0.1041,1.3386
+local optima,nonconvex optimization,0.0749,1.3602
+combinatorial structure,nonconvex optimization,0.8362,0.5723
+nonconvex optimization,problem-decomposition,-0.0418,1.4435
+nonconvex optimization,objective function,-0.0521,1.4506
+local optima,problem-decomposition,0.1027,1.3396
+combinatorial structure,problem-decomposition,0.0564,1.3737
+objective function,problem-decomposition,0.9192,0.402
+DPLL-style SAT solvers,nonconvex optimization,0.2559,1.2199
+nonconvex optimization,recursive conditioning,-0.0194,1.4279
+gradient descent,nonconvex optimization,-0.0151,1.4249
+DPLL-style SAT solvers,combinatorial structure,0.2036,1.2621
+combinatorial structure,recursive conditioning,-0.0963,1.4807
+combinatorial structure,gradient descent,-0.1413,1.5108
+DPLL-style SAT solvers,problem-decomposition,-0.4631,1.7106
+problem-decomposition,recursive conditioning,-0.517,1.7418
+gradient descent,problem-decomposition,-0.4091,1.6787
+DPLL-style SAT solvers,objective function,-0.3525,1.6447
+objective function,recursive conditioning,-0.3475,1.6416
+gradient descent,objective function,-0.2721,1.5951
+DPLL-style SAT solvers,recursive conditioning,0.9212,0.397
+DPLL-style SAT solvers,gradient descent,0.8798,0.4903
+gradient descent,recursive conditioning,0.9733,0.2311
+graph partitioning,nonconvex optimization,-0.0188,1.4274
+graph partitioning,problem-decomposition,0.196,1.2681
+graph partitioning,objective function,-0.0017,1.4154
+DPLL-style SAT solvers,graph partitioning,-0.2739,1.5962
+graph partitioning,recursive conditioning,-0.4664,1.7125
+gradient descent,graph partitioning,-0.4656,1.712
+nonconvex optimization,protein folding,-0.0059,1.4184
+graph partitioning,protein folding,0.0402,1.3855
+gradient descent,protein folding,-0.4016,1.6743

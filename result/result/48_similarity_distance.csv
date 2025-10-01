@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+DISTANCE-SAT,propositional CNF formula,-0.1867,1.5406
+DISTANCE-SAT,decision problem,-0.2526,1.5828
+DISTANCE-SAT,propositional framework,-0.1997,1.549
+DISTANCE-SAT,model,0.1851,1.2767
+DISTANCE-SAT,variables,0.9334,0.365
+decision problem,propositional CNF formula,-0.2622,1.5889
+propositional CNF formula,propositional framework,0.9702,0.244
+model,propositional CNF formula,0.9037,0.4389
+propositional CNF formula,variables,-0.1902,1.5429
+decision problem,propositional framework,-0.118,1.4953
+decision problem,model,-0.1926,1.5444
+decision problem,variables,-0.2334,1.5706
+model,propositional framework,0.9222,0.3943
+propositional framework,variables,-0.228,1.5672
+model,variables,0.1474,1.3059
+DISTANCE-SAT,complexity,-0.2854,1.6034
+complexity,propositional CNF formula,0.979,0.2048
+complexity,decision problem,-0.2542,1.5838
+complexity,propositional framework,0.9579,0.2901
+complexity,model,0.8588,0.5315
+complexity,variables,-0.2458,1.5785
+DISTANCE-SAT,empirical evaluation,-0.2615,1.5884
+complexity,empirical evaluation,0.9803,0.1984

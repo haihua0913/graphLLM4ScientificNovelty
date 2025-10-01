@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+Modeling distributions,density estimation,0.1575,1.2981
+Modeling distributions,joint distribution,-0.2489,1.5805
+density estimation,joint distribution,-0.1671,1.5278
+Modeling distributions,conditional density estimation,0.9677,0.2542
+Modeling distributions,arbitrary conditional density estimation,0.2603,1.2163
+conditional density estimation,density estimation,0.1314,1.3181
+arbitrary conditional density estimation,density estimation,0.1593,1.2967
+conditional density estimation,joint distribution,-0.1877,1.5413
+arbitrary conditional density estimation,joint distribution,-0.0536,1.4517
+arbitrary conditional density estimation,conditional density estimation,0.3224,1.1641
+density estimation,energy function,0.0943,1.3459
+density estimation,one-dimensional conditionals,0.4067,1.0894
+conditional density estimation,energy function,0.9589,0.2866
+conditional density estimation,one-dimensional conditionals,0.0016,1.4131
+arbitrary conditional density estimation,energy function,0.3037,1.1801
+arbitrary conditional density estimation,one-dimensional conditionals,0.3028,1.1809
+energy function,one-dimensional conditionals,-0.0029,1.4163
+energy function,state-of-the-art,0.0681,1.3652
+data imputation,energy function,-0.1381,1.5087
+one-dimensional conditionals,state-of-the-art,-0.212,1.5569
+data imputation,one-dimensional conditionals,-0.2718,1.5949
+data imputation,state-of-the-art,-0.1575,1.5215

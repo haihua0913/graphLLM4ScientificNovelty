@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+online retail,video hosting service,-0.0943,1.4794
+deep neural network,online retail,0.0266,1.3953
+Video2Shop,online retail,-0.0901,1.4766
+matching clothes,online retail,0.0123,1.4055
+deep neural network,video hosting service,0.1312,1.3182
+Video2Shop,video hosting service,-0.0238,1.431
+matching clothes,video hosting service,-0.0518,1.4504
+Video2Shop,deep neural network,0.0407,1.3852
+deep neural network,matching clothes,-0.0108,1.4218
+Video2Shop,matching clothes,0.9423,0.3398
+deep neural network,temporal dynamics,-0.1097,1.4898
+deep neural network,sequence modeling,0.0346,1.3896
+Video2Shop,temporal dynamics,0.5935,0.9017
+Video2Shop,sequence modeling,0.0241,1.397
+matching clothes,temporal dynamics,0.6492,0.8376
+matching clothes,sequence modeling,-0.0954,1.4801
+sequence modeling,temporal dynamics,0.5257,0.9739
+similarity network,temporal dynamics,0.4177,1.0791
+sequence modeling,similarity network,0.9627,0.2731
+cross-domain dataset,similarity network,0.5103,0.9896

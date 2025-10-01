@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+graph,k-plex,0.0448,1.3822
+graph,maximum k-plex problem,0.0599,1.3712
+k-plex,maximum k-plex problem,0.99,0.1414
+degeneracy bound,graph,0.8931,0.4625
+degeneracy bound,k-plex,-0.0609,1.4566
+degeneracy bound,maximum k-plex problem,-0.076,1.467
+graph,running time,-0.1159,1.4939
+exponential,graph,-0.0557,1.4531
+k-plex,running time,0.0427,1.3837
+exponential,k-plex,-0.0705,1.4632
+degeneracy bound,running time,-0.3157,1.6222
+degeneracy bound,exponential,0.0282,1.3941
+exponential,running time,-0.2455,1.5783
+graph,polynomial time,0.8049,0.6246
+k-plex,polynomial time,-0.0468,1.4469
+degeneracy bound,polynomial time,0.8824,0.4851
+polynomial time,running time,-0.428,1.69
+exponential,polynomial time,-0.0396,1.4419
+graph,solvers,-0.1625,1.5248
+running time,solvers,-0.1278,1.5019
+polynomial time,solvers,-0.1878,1.5413
+exponential,solvers,0.0572,1.3732

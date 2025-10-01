@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+eigenvalues,matrix rank estimation,0.0373,1.3876
+deterministic algorithm,matrix rank estimation,-0.0326,1.4371
+distributed setting,matrix rank estimation,-0.0053,1.418
+deterministic algorithm,eigenvalues,-0.1939,1.5453
+distributed setting,eigenvalues,-0.2189,1.5614
+deterministic algorithm,distributed setting,0.9756,0.221
+matrix rank estimation,randomized algorithm,0.0457,1.3815
+eigenvalues,randomized algorithm,-0.2168,1.56
+deterministic algorithm,randomized algorithm,0.9578,0.2906
+distributed setting,randomized algorithm,0.9331,0.3659
+communication complexity,deterministic algorithm,-0.1181,1.4954
+communication complexity,randomized algorithm,-0.1404,1.5102
+communication complexity,numerical experiments,0.0742,1.3607
+numerical experiments,randomized algorithm,-0.084,1.4724

@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+CATE,Conditional Average Treatment Effects,-0.1709,1.5303
+Conditional Average Treatment Effects,causal inference,-0.3397,1.6369
+Conditional Average Treatment Effects,meta-learners,0.8496,0.5485
+CATE,causal inference,-0.0827,1.4715
+CATE,meta-learners,-0.2761,1.5976
+causal inference,meta-learners,-0.0636,1.4585
+CATE,multi-valued treatments,-0.0306,1.4357
+CATE,heterogeneous effects,0.9859,0.1681
+meta-learners,multi-valued treatments,-0.4704,1.7149
+heterogeneous effects,meta-learners,-0.1658,1.527
+heterogeneous effects,multi-valued treatments,-0.0652,1.4596
+meta-learners,theoretical analysis,-0.2527,1.5829
+multi-valued treatments,theoretical analysis,-0.1601,1.5232
+heterogeneous effects,theoretical analysis,-0.0382,1.441
+meta-learners,synthetic datasets,-0.2524,1.5827
+meta-learners,semi-synthetic datasets,-0.2778,1.5987
+synthetic datasets,theoretical analysis,0.2634,1.2137
+semi-synthetic datasets,theoretical analysis,-0.0497,1.449
+semi-synthetic datasets,synthetic datasets,-0.0982,1.482

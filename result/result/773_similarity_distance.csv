@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+Prototypical Networks,monothetic classifications,-0.2217,1.5631
+monothetic classifications,task-relevant features,-0.1426,1.5117
+Prototypical Networks,task-relevant features,-0.0537,1.4517
+attentional classifiers,monothetic classifications,0.4722,1.0274
+Matching Networks,monothetic classifications,0.4834,1.0165
+Prototypical Networks,attentional classifiers,-0.1167,1.4945
+Matching Networks,Prototypical Networks,-0.1806,1.5366
+Matching Networks,attentional classifiers,0.9629,0.2725
+attentional classifiers,task-relevant features,-0.0528,1.451
+Matching Networks,task-relevant features,0.063,1.3689
+Prototypical Networks,meta-learning,-0.0229,1.4303
+attentional classifiers,meta-learning,-0.168,1.5284
+Matching Networks,meta-learning,-0.2969,1.6105
+meta-learning,task-relevant features,-0.2634,1.5896
+attentional classifiers,self-attention feature-selection,0.1096,1.3345
+Matching Networks,self-attention feature-selection,0.1667,1.291
+meta-learning,self-attention feature-selection,-0.3259,1.6284
+few-shot learning,self-attention feature-selection,0.1486,1.3049
+few-shot learning,meta-learning,0.8022,0.629

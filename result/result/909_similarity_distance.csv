@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+amendment procedure,successive procedure,0.2778,1.2019
+amendment procedure,computational problems,-0.2427,1.5765
+amendment procedure,manipulations,-0.13,1.5033
+amendment procedure,real-world experimental results,-0.185,1.5395
+computational problems,successive procedure,-0.1446,1.513
+manipulations,successive procedure,-0.1288,1.5025
+real-world experimental results,successive procedure,-0.2191,1.5615
+computational problems,manipulations,-0.1654,1.5267
+computational problems,real-world experimental results,0.9725,0.2346
+manipulations,real-world experimental results,-0.3359,1.6346
+NP-hard,amendment procedure,0.0941,1.346
+NP-hard,successive procedure,0.6882,0.7897
+NP-hard,computational problems,0.0567,1.3736
+NP-hard,manipulations,-0.0782,1.4685
+NP-hard,real-world experimental results,-0.04,1.4423
+amendment procedure,coNP-hard,0.4817,1.0182
+amendment procedure,polynomial-time solvable,0.22,1.249
+coNP-hard,manipulations,-0.1961,1.5467
+manipulations,polynomial-time solvable,-0.0215,1.4293
+coNP-hard,real-world experimental results,-0.0189,1.4275
+polynomial-time solvable,real-world experimental results,-0.1628,1.525
+NP-hard,coNP-hard,0.8042,0.6258
+NP-hard,polynomial-time solvable,0.7522,0.704
+coNP-hard,polynomial-time solvable,0.911,0.4218

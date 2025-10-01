@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+layered representation,motion estimation,-0.1335,1.5057
+deep learning,layered representation,0.0035,1.4117
+deep learning,motion estimation,0.0593,1.3716
+layered representation,soft-mask module,0.8976,0.4526
+motion estimation,soft-mask module,-0.4793,1.7201
+deep learning,soft-mask module,0.0473,1.3804
+layered representation,maxout,-0.1254,1.5003
+fuse operations,layered representation,-0.0142,1.4242
+deep learning,maxout,-0.0971,1.4813
+deep learning,fuse operations,-0.1879,1.5413
+maxout,soft-mask module,0.1555,1.2996
+fuse operations,soft-mask module,0.2216,1.2477
+fuse operations,maxout,-0.045,1.4457
+FlowNet,soft-mask module,0.0672,1.3659
+soft-mask module,unsupervised flow estimation,0.3698,1.1226
+FlowNet,unsupervised flow estimation,0.0596,1.3715

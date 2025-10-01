@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+counterfactual reasoning,interventional reasoning,0.7248,0.7419
+counterfactual reasoning,structural causal models,0.9244,0.3889
+computational complexity,counterfactual reasoning,-0.1616,1.5242
+counterfactual reasoning,fully specified SCMs,0.8974,0.4529
+interventional reasoning,structural causal models,0.485,1.0148
+computational complexity,interventional reasoning,0.0724,1.3621
+fully specified SCMs,interventional reasoning,0.4288,1.0689
+computational complexity,structural causal models,-0.21,1.5556
+fully specified SCMs,structural causal models,0.9715,0.2387
+computational complexity,fully specified SCMs,-0.2357,1.572
+counterfactual reasoning,treewidth,-0.2547,1.5841
+interventional reasoning,treewidth,-0.312,1.6199
+structural causal models,treewidth,-0.2663,1.5914
+computational complexity,treewidth,-0.3032,1.6144
+fully specified SCMs,treewidth,-0.3591,1.6487
+causal treewidth,treewidth,-0.0258,1.4324
+causal treewidth,counterfactual reasoning,0.4396,1.0587
+causal treewidth,interventional reasoning,0.7071,0.7654
+causal treewidth,fully specified SCMs,0.1026,1.3397
+treewidth,twin networks,-0.0125,1.423
+causal treewidth,twin networks,0.9803,0.1983
+counterfactual reasoning,twin networks,0.3163,1.1694
+interventional reasoning,twin networks,0.5875,0.9083

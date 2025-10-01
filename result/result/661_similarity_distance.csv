@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+EM,latent-variable models,-0.0391,1.4416
+gradient-based optimization,latent-variable models,-0.2498,1.581
+EM,gradient-based optimization,-0.115,1.4933
+latent-variable models,low-rank linear regression,0.9499,0.3164
+latent-variable models,symmetric tensor,-0.1919,1.544
+latent-variable models,tensor power method,-0.1426,1.5117
+EM,low-rank linear regression,-0.2354,1.5719
+EM,symmetric tensor,-0.2116,1.5567
+EM,tensor power method,-0.1131,1.4921
+gradient-based optimization,low-rank linear regression,-0.2946,1.6091
+gradient-based optimization,symmetric tensor,0.4321,1.0657
+gradient-based optimization,tensor power method,0.9485,0.321
+low-rank linear regression,symmetric tensor,-0.1813,1.5371
+low-rank linear regression,tensor power method,-0.1847,1.5393
+symmetric tensor,tensor power method,0.4773,1.0224
+EM,rates of convergence,-0.1843,1.539
+EM,empirical evaluation,-0.1863,1.5403
+EM,local optimization,0.095,1.3454
+low-rank linear regression,rates of convergence,0.9783,0.2081
+empirical evaluation,low-rank linear regression,0.9764,0.2173
+local optimization,low-rank linear regression,-0.1184,1.4956
+rates of convergence,symmetric tensor,-0.2403,1.575
+empirical evaluation,symmetric tensor,-0.1401,1.51
+local optimization,symmetric tensor,0.2084,1.2583
+rates of convergence,tensor power method,-0.1436,1.5123
+empirical evaluation,tensor power method,-0.0353,1.439
+local optimization,tensor power method,0.9418,0.3413
+empirical evaluation,rates of convergence,0.977,0.2145
+local optimization,rates of convergence,-0.0386,1.4412
+empirical evaluation,local optimization,0.0481,1.3798

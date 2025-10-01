@@ -1,0 +1,34 @@
+node1,node2,similarity,distance
+hashing,large-scale image retrieval,0.7104,0.761
+handcrafted features,hashing,0.6989,0.7761
+handcrafted features,large-scale image retrieval,0.9905,0.138
+deep hashing methods,hashing,0.6489,0.838
+deep neural networks,hashing,0.7732,0.6736
+hashing,simultaneous feature learning,0.1525,1.3019
+hash-code learning,hashing,-0.1115,1.491
+deep hashing methods,large-scale image retrieval,0.9413,0.3426
+deep neural networks,large-scale image retrieval,0.9652,0.264
+large-scale image retrieval,simultaneous feature learning,-0.1835,1.5385
+hash-code learning,large-scale image retrieval,-0.253,1.583
+deep hashing methods,handcrafted features,0.9534,0.3054
+deep neural networks,handcrafted features,0.9806,0.1968
+handcrafted features,simultaneous feature learning,-0.2084,1.5546
+handcrafted features,hash-code learning,-0.2646,1.5903
+deep hashing methods,deep neural networks,0.943,0.3377
+deep hashing methods,simultaneous feature learning,-0.4006,1.6737
+deep hashing methods,hash-code learning,-0.4948,1.729
+deep neural networks,simultaneous feature learning,-0.2352,1.5718
+deep neural networks,hash-code learning,-0.3245,1.6276
+hash-code learning,simultaneous feature learning,0.9309,0.3717
+hashing,triplet labels,-0.1643,1.526
+handcrafted features,triplet labels,-0.1313,1.5042
+deep hashing methods,triplet labels,-0.1137,1.4924
+deep neural networks,triplet labels,-0.1426,1.5117
+simultaneous feature learning,triplet labels,-0.3008,1.613
+hash-code learning,triplet labels,-0.2086,1.5548
+hashing,pairwise labels,-0.0345,1.4384
+deep hashing methods,pairwise labels,0.1767,1.2832
+deep neural networks,pairwise labels,0.0345,1.3896
+pairwise labels,simultaneous feature learning,-0.1841,1.5389
+hash-code learning,pairwise labels,-0.2478,1.5797
+pairwise labels,triplet labels,-0.2136,1.558

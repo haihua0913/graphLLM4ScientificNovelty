@@ -1,0 +1,38 @@
+node1,node2,similarity,distance
+mean shift iterations,non-rigid objects,-0.0482,1.4479
+mean shift iterations,moving camera,-0.2845,1.6028
+mean shift iterations,real time,-0.3565,1.6471
+moving camera,non-rigid objects,0.0871,1.3512
+non-rigid objects,real time,-0.2921,1.6076
+moving camera,real time,-0.1871,1.5408
+mean shift iterations,target model,-0.1198,1.4965
+color distribution,mean shift iterations,-0.0359,1.4394
+Bhattacharyya coefficient,mean shift iterations,0.9688,0.2497
+non-rigid objects,target model,0.1927,1.2707
+color distribution,non-rigid objects,0.2923,1.1897
+Bhattacharyya coefficient,non-rigid objects,-0.1001,1.4833
+moving camera,target model,-0.0641,1.4588
+color distribution,moving camera,0.0171,1.4021
+Bhattacharyya coefficient,moving camera,-0.193,1.5446
+color distribution,target model,0.965,0.2645
+Bhattacharyya coefficient,target model,-0.1609,1.5238
+real time,target model,-0.0387,1.4413
+Bhattacharyya coefficient,color distribution,-0.1078,1.4885
+color distribution,real time,-0.1476,1.515
+Bhattacharyya coefficient,real time,-0.2717,1.5948
+Bayesian framework,mean shift iterations,-0.0144,1.4243
+Bayesian framework,target model,0.032,1.3914
+Bayesian framework,color distribution,0.1821,1.279
+Bayesian framework,Bhattacharyya coefficient,-0.1131,1.4921
+partial occlusions,target model,0.9856,0.1695
+target model,target scale variations,0.9596,0.2841
+color distribution,partial occlusions,0.9534,0.3053
+color distribution,target scale variations,0.9224,0.3939
+Bhattacharyya coefficient,partial occlusions,-0.0117,1.4225
+Bhattacharyya coefficient,target scale variations,0.0779,1.358
+Bayesian framework,real time,-0.4509,1.7035
+Bayesian framework,partial occlusions,0.0141,1.4042
+Bayesian framework,target scale variations,-0.0892,1.4759
+partial occlusions,real time,-0.0814,1.4706
+real time,target scale variations,-0.0936,1.479
+partial occlusions,target scale variations,0.9885,0.1514

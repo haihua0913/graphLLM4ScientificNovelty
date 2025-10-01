@@ -1,0 +1,176 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/mlmi-ws/mlmi2024-2.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"74.91"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"24",
+"@dc":"24",
+"@oc":"24",
+"@id":"48997346",
+"text":":facetid:toc:db/conf/mlmi-ws/mlmi2024-2.bht"
+}
+},
+"hits":{
+"@total":"24",
+"@computed":"24",
+"@sent":"24",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"164473",
+"info":{"authors":{"author":[{"@pid":"225/0748","text":"Xuanang Xu"},{"@pid":"21/6934","text":"Zhiming Cui"},{"@pid":"124/9354","text":"Islem Rekik"},{"@pid":"174/1636","text":"Xi Ouyang"},{"@pid":"232/8715","text":"Kaicong Sun"}]},"title":"Machine Learning in Medical Imaging - 15th International Workshop, MLMI 2024, Held in Conjunction with MICCAI 2024, Marrakesh, Morocco, October 6, 2024, Proceedings, Part II","venue":["MLMI@MICCAI","Lecture Notes in Computer Science"],"volume":"15242","publisher":"Springer","year":"2025","type":"Editorship","key":"conf/mlmi-ws/2024-2","doi":"10.1007/978-3-031-73290-4","ee":"https://doi.org/10.1007/978-3-031-73290-4","url":"https://dblp.org/rec/conf/mlmi-ws/2024-2"},
+"url":"URL#164473"
+},
+{
+"@score":"1",
+"@id":"626446",
+"info":{"authors":{"author":[{"@pid":"389/1831","text":"Rami Al-Belmpeisi"},{"@pid":"236/7707","text":"Kristine Aavild Sørensen"},{"@pid":"269/9949","text":"Josefine Vilsbøll Sundgaard"},{"@pid":"389/1929","text":"Puria Nabilou"},{"@pid":"163/4514","text":"Monica Jane Emerson"},{"@pid":"389/1501","text":"Peter Hjørringgaard Larsen"},{"@pid":"389/0873","text":"Lise Lotte Gluud"},{"@pid":"352/8874","text":"Thomas Lund Andersen"},{"@pid":"00/5632","text":"Anders Bjorholm Dahl"}]},"title":"Identifying Nonalcoholic Fatty Liver Disease and Advanced Liver Fibrosis from MRI in UK Biobank.","venue":"MLMI@MICCAI","pages":"222-231","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/AlBelmpeisiSSNELGAD24","doi":"10.1007/978-3-031-73290-4_22","ee":"https://doi.org/10.1007/978-3-031-73290-4_22","url":"https://dblp.org/rec/conf/mlmi-ws/AlBelmpeisiSSNELGAD24"},
+"url":"URL#626446"
+},
+{
+"@score":"1",
+"@id":"626449",
+"info":{"authors":{"author":[{"@pid":"62/9236","text":"Krishna Chaitanya"},{"@pid":"206/7607","text":"Pablo F. Damasceno"},{"@pid":"249/9443","text":"Shreyas Fadnavis"},{"@pid":"169/7814","text":"Pooya Mobadersany"},{"@pid":"387/1790","text":"Chaitanya Parmar"},{"@pid":"308/4563","text":"Emily Scherer"},{"@pid":"354/1174","text":"Natalia Zemlianskaia"},{"@pid":"387/1485","text":"Lindsey Surace"},{"@pid":"303/0342","text":"Louis Ghanem"},{"@pid":"04/5809","text":"Gabriela Oana Cula"},{"@pid":"67/395","text":"Tommaso Mansi"},{"@pid":"169/4017","text":"Kristopher Standish"}]},"title":"Arges: Spatio-Temporal Transformer for Ulcerative Colitis Severity Assessment in Endoscopy Videos.","venue":"MLMI@MICCAI","pages":"201-211","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/ChaitanyaDFMPSZSGCMS24","doi":"10.1007/978-3-031-73290-4_20","ee":"https://doi.org/10.1007/978-3-031-73290-4_20","url":"https://dblp.org/rec/conf/mlmi-ws/ChaitanyaDFMPSZSGCMS24"},
+"url":"URL#626449"
+},
+{
+"@score":"1",
+"@id":"626453",
+"info":{"authors":{"author":[{"@pid":"386/3183","text":"Miriam Cobo"},{"@pid":"297/9254","text":"Amaia Pérez del Barrio"},{"@pid":"297/9282","text":"Pablo Menéndez Fernández-Miranda"},{"@pid":"297/9145","text":"Pablo Sanz Bellón"},{"@pid":"205/2363","text":"Lara Lloret Iglesias"},{"@pid":"228/1570","text":"Wilson Silva"}]},"title":"Multi-task Learning Approach for Intracranial Hemorrhage Prognosis.","venue":"MLMI@MICCAI","pages":"12-21","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/CoboBFBIS24","doi":"10.1007/978-3-031-73290-4_2","ee":"https://doi.org/10.1007/978-3-031-73290-4_2","url":"https://dblp.org/rec/conf/mlmi-ws/CoboBFBIS24"},
+"url":"URL#626453"
+},
+{
+"@score":"1",
+"@id":"626455",
+"info":{"authors":{"author":[{"@pid":"218/1316","text":"Christof Duhme"},{"@pid":"389/1896","text":"Chris Lippe"},{"@pid":"275/7581","text":"Verena Hoerr"},{"@pid":"j/XiaoyiJiang","text":"Xiaoyi Jiang 0001"}]},"title":"Transformer-Based Parameter Fitting of Models Derived from Bloch-McConnell Equations for CEST MRI Analysis.","venue":"MLMI@MICCAI","pages":"108-116","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/DuhmeLHJ24","doi":"10.1007/978-3-031-73290-4_11","ee":"https://doi.org/10.1007/978-3-031-73290-4_11","url":"https://dblp.org/rec/conf/mlmi-ws/DuhmeLHJ24"},
+"url":"URL#626455"
+},
+{
+"@score":"1",
+"@id":"626457",
+"info":{"authors":{"author":[{"@pid":"389/0319","text":"Pablo Blasco Fernandez"},{"@pid":"181/6891","text":"Karthik Gopinath"},{"@pid":"389/0341","text":"John Williams-Ramirez"},{"@pid":"389/0952","text":"Rogeny Herisse"},{"@pid":"389/0932","text":"Lucas J. Deden-Binder"},{"@pid":"389/1369","text":"Dina Zemlyanker"},{"@pid":"389/0927","text":"Theressa Connors"},{"@pid":"389/1469","text":"Liana Kozanno"},{"@pid":"389/1633","text":"Derek Oakley"},{"@pid":"116/9156","text":"Bradley T. Hyman"},{"@pid":"142/0275","text":"Sean I. Young"},{"@pid":"06/5946","text":"Juan Eugenio Iglesias"}]},"title":"Pseudo-rendering for Resolution and Topology-Invariant Cortical Parcellation.","venue":"MLMI@MICCAI","pages":"74-84","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/FernandezGWHDZCKOHYI24","doi":"10.1007/978-3-031-73290-4_8","ee":"https://doi.org/10.1007/978-3-031-73290-4_8","url":"https://dblp.org/rec/conf/mlmi-ws/FernandezGWHDZCKOHYI24"},
+"url":"URL#626457"
+},
+{
+"@score":"1",
+"@id":"626463",
+"info":{"authors":{"author":[{"@pid":"247/2814","text":"Atefe Hassani"},{"@pid":"124/9354","text":"Islem Rekik"}]},"title":"UniFed: A Universal Federation of a Mixture of Highly Heterogeneous Medical Image Classification Tasks.","venue":"MLMI@MICCAI","pages":"32-42","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/HassaniR24","doi":"10.1007/978-3-031-73290-4_4","ee":"https://doi.org/10.1007/978-3-031-73290-4_4","url":"https://dblp.org/rec/conf/mlmi-ws/HassaniR24"},
+"url":"URL#626463"
+},
+{
+"@score":"1",
+"@id":"626465",
+"info":{"authors":{"author":[{"@pid":"219/6363-1","text":"Yuhao Huang 0001"},{"@pid":"44/1152-9","text":"Xin Yang 0009"},{"@pid":"45/5968","text":"Han Zhou"},{"@pid":"33/3331-2","text":"Yan Cao 0002"},{"@pid":"226/3400","text":"Haoran Dou"},{"@pid":"332/4442","text":"Fajin Dong"},{"@pid":"02/450-1","text":"Dong Ni 0001"}]},"title":"Robust Box Prompt Based SAM for Medical Image Segmentation.","venue":"MLMI@MICCAI","pages":"1-11","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/HuangYZCDDN24","doi":"10.1007/978-3-031-73290-4_1","ee":"https://doi.org/10.1007/978-3-031-73290-4_1","url":"https://dblp.org/rec/conf/mlmi-ws/HuangYZCDDN24"},
+"url":"URL#626465"
+},
+{
+"@score":"1",
+"@id":"626466",
+"info":{"authors":{"author":[{"@pid":"255/6682","text":"Krithika Iyer"},{"@pid":"24/2912","text":"Shireen Y. Elhabian"}]},"title":"Probabilistic 3D Correspondence Prediction from Sparse Unsegmented Images.","venue":"MLMI@MICCAI","pages":"117-127","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/IyerE24","doi":"10.1007/978-3-031-73290-4_12","ee":"https://doi.org/10.1007/978-3-031-73290-4_12","url":"https://dblp.org/rec/conf/mlmi-ws/IyerE24"},
+"url":"URL#626466"
+},
+{
+"@score":"1",
+"@id":"626468",
+"info":{"authors":{"author":[{"@pid":"336/3929","text":"Solha Kang"},{"@pid":"32/8131","text":"Joris Vankerschaver"},{"@pid":"230/4450","text":"Utku Ozbulak"}]},"title":"Identifying Critical Tokens for Accurate Predictions in Transformer-Based Medical Imaging Models.","venue":"MLMI@MICCAI","pages":"169-179","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/KangVO24","doi":"10.1007/978-3-031-73290-4_17","ee":"https://doi.org/10.1007/978-3-031-73290-4_17","url":"https://dblp.org/rec/conf/mlmi-ws/KangVO24"},
+"url":"URL#626468"
+},
+{
+"@score":"1",
+"@id":"626473",
+"info":{"authors":{"author":[{"@pid":"49/8488","text":"Zelong Liu"},{"@pid":"368/4486","text":"Andrew Tieu"},{"@pid":"252/8258","text":"Nikhil Patel"},{"@pid":"368/4399","text":"George Soultanidis"},{"@pid":"336/4075","text":"Louisa Deyer"},{"@pid":"94/3104","text":"Ying Wang"},{"@pid":"332/6362","text":"Sean Huver"},{"@pid":"219/5776-2","text":"Alexander Zhou 0002"},{"@pid":"368/9631","text":"Yunhao Mei"},{"@pid":"14/8095","text":"Zahi A. Fayad"},{"@pid":"212/5944","text":"Timothy Deyer"},{"@pid":"147/1438","text":"Xueyan Mei"}]},"title":"VIS-MAE: An Efficient Self-supervised Learning Approach on Medical Image Segmentation and Classification.","venue":"MLMI@MICCAI","pages":"95-107","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/LiuTPSDWHZMFDM24","doi":"10.1007/978-3-031-73290-4_10","ee":"https://doi.org/10.1007/978-3-031-73290-4_10","url":"https://dblp.org/rec/conf/mlmi-ws/LiuTPSDWHZMFDM24"},
+"url":"URL#626473"
+},
+{
+"@score":"1",
+"@id":"626475",
+"info":{"authors":{"author":[{"@pid":"165/6774","text":"Teo Manojlovic"},{"@pid":"61/3575","text":"Ivo Ipsic"},{"@pid":"81/379","text":"Ivan Stajduhar"}]},"title":"Selective Classifier Based Search Space Shrinking for Radiographs Retrieval.","venue":"MLMI@MICCAI","pages":"63-73","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/ManojlovicIS24","doi":"10.1007/978-3-031-73290-4_7","ee":"https://doi.org/10.1007/978-3-031-73290-4_7","url":"https://dblp.org/rec/conf/mlmi-ws/ManojlovicIS24"},
+"url":"URL#626475"
+},
+{
+"@score":"1",
+"@id":"626476",
+"info":{"authors":{"author":[{"@pid":"250/7393","text":"Perla Mayo"},{"@pid":"283/2150","text":"Matteo Cencini"},{"@pid":"236/5773","text":"Carolin M. Pirkl"},{"@pid":"89/5563","text":"Marion I. Menzel"},{"@pid":"83/5592","text":"Michela Tosetti"},{"@pid":"74/6505","text":"Bjoern H. Menze"},{"@pid":"18/7824","text":"Mohammad Golbabaee"}]},"title":"StoDIP: Efficient 3D MRF Image Reconstruction with Deep Image Priors and Stochastic Iterations.","venue":"MLMI@MICCAI","pages":"128-137","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/MayoCPMTMG24","doi":"10.1007/978-3-031-73290-4_13","ee":"https://doi.org/10.1007/978-3-031-73290-4_13","url":"https://dblp.org/rec/conf/mlmi-ws/MayoCPMTMG24"},
+"url":"URL#626476"
+},
+{
+"@score":"1",
+"@id":"626477",
+"info":{"authors":{"author":[{"@pid":"389/1623","text":"Branko Mitic"},{"@pid":"192/1616","text":"Philipp Seeböck"},{"@pid":"257/6035","text":"Jennifer Straub"},{"@pid":"150/2992","text":"Helmut Prosch"},{"@pid":"15/366","text":"Georg Langs"}]},"title":"Detection of Emerging Infectious Diseases in Lung CT Based on Spatial Anomaly Patterns.","venue":"MLMI@MICCAI","pages":"138-147","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/MiticSSPL24","doi":"10.1007/978-3-031-73290-4_14","ee":"https://doi.org/10.1007/978-3-031-73290-4_14","url":"https://dblp.org/rec/conf/mlmi-ws/MiticSSPL24"},
+"url":"URL#626477"
+},
+{
+"@score":"1",
+"@id":"626478",
+"info":{"authors":{"author":[{"@pid":"155/1280","text":"Sarah Müller"},{"@pid":"351/0194","text":"Louisa Fay"},{"@pid":"150/7030","text":"Lisa M. Koch"},{"@pid":"180/2882","text":"Sergios Gatidis"},{"@pid":"166/6422","text":"Thomas Küstner"},{"@pid":"78/3560","text":"Philipp Berens"}]},"title":"Benchmarking Dependence Measures to Prevent Shortcut Learning in Medical Imaging.","venue":"MLMI@MICCAI","pages":"53-62","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/MullerFKGKB24","doi":"10.1007/978-3-031-73290-4_6","ee":"https://doi.org/10.1007/978-3-031-73290-4_6","url":"https://dblp.org/rec/conf/mlmi-ws/MullerFKGKB24"},
+"url":"URL#626478"
+},
+{
+"@score":"1",
+"@id":"626479",
+"info":{"authors":{"author":[{"@pid":"329/1485","text":"Johanna P. Müller"},{"@pid":"76/5562","text":"Bernhard Kainz"}]},"title":"Resource-Efficient Medical Image Analysis with Self-adapting Forward-Forward Networks.","venue":"MLMI@MICCAI","pages":"180-190","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/MullerK24","doi":"10.1007/978-3-031-73290-4_18","ee":"https://doi.org/10.1007/978-3-031-73290-4_18","url":"https://dblp.org/rec/conf/mlmi-ws/MullerK24"},
+"url":"URL#626479"
+},
+{
+"@score":"1",
+"@id":"626481",
+"info":{"authors":{"author":[{"@pid":"249/2376","text":"Abhijeet Parida"},{"@pid":"286/5827","text":"Antònia Alomar"},{"@pid":"325/2694","text":"Zhifan Jiang"},{"@pid":"356/5089","text":"Pooneh Roshanitabrizi"},{"@pid":"237/4735","text":"Austin Tapp"},{"@pid":"17/3134","text":"María J. Ledesma-Carbayo"},{"@pid":"59/9160-1","text":"Ziyue Xu 0001"},{"@pid":"173/8544","text":"Syed Muhammed Anwar"},{"@pid":"86/5602","text":"Marius George Linguraru"},{"@pid":"42/8528","text":"Holger R. Roth"}]},"title":"Data Alchemy: Mitigating Cross-Site Model Variability Through Test Time Data Calibration.","venue":"MLMI@MICCAI","pages":"148-158","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/ParidaAJRTLXALR24","doi":"10.1007/978-3-031-73290-4_15","ee":"https://doi.org/10.1007/978-3-031-73290-4_15","url":"https://dblp.org/rec/conf/mlmi-ws/ParidaAJRTLXALR24"},
+"url":"URL#626481"
+},
+{
+"@score":"1",
+"@id":"626482",
+"info":{"authors":{"author":[{"@pid":"322/0250","text":"Coby Penso"},{"@pid":"65/6574","text":"Jacob Goldberger"}]},"title":"Noise-Robust Conformal Prediction for Medical Image Classification.","venue":"MLMI@MICCAI","pages":"159-168","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/PensoG24","doi":"10.1007/978-3-031-73290-4_16","ee":"https://doi.org/10.1007/978-3-031-73290-4_16","url":"https://dblp.org/rec/conf/mlmi-ws/PensoG24"},
+"url":"URL#626482"
+},
+{
+"@score":"1",
+"@id":"626485",
+"info":{"authors":{"author":[{"@pid":"31/10057","text":"Yangyang Shi"},{"@pid":"66/5923-1","text":"Qi Zhu 0001"},{"@pid":"328/9722","text":"Yingli Zuo"},{"@pid":"07/4221-4","text":"Peng Wan 0004"},{"@pid":"03/2763","text":"Daoqiang Zhang"},{"@pid":"24/803-5","text":"Wei Shao 0005"}]},"title":"Characterizing the Histology Spatial Intersections Between Tumor-Infiltrating Lymphocytes and Tumors for Survival Prediction of Cancers Via Graph Contrastive Learning.","venue":"MLMI@MICCAI","pages":"212-221","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/ShiZZWZS24","doi":"10.1007/978-3-031-73290-4_21","ee":"https://doi.org/10.1007/978-3-031-73290-4_21","url":"https://dblp.org/rec/conf/mlmi-ws/ShiZZWZS24"},
+"url":"URL#626485"
+},
+{
+"@score":"1",
+"@id":"626487",
+"info":{"authors":{"author":[{"@pid":"241/4165","text":"Mansoor Ali Teevno"},{"@pid":"77/7138","text":"Gilberto Ochoa-Ruiz"},{"@pid":"14/11430","text":"Sharib Ali"}]},"title":"Tackling Domain Generalization for Out-of-Distribution Endoscopic Imaging.","venue":"MLMI@MICCAI","pages":"43-52","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/TeevnoOA24","doi":"10.1007/978-3-031-73290-4_5","ee":"https://doi.org/10.1007/978-3-031-73290-4_5","url":"https://dblp.org/rec/conf/mlmi-ws/TeevnoOA24"},
+"url":"URL#626487"
+},
+{
+"@score":"1",
+"@id":"626488",
+"info":{"authors":{"author":[{"@pid":"327/3310","text":"Constantin Ulrich"},{"@pid":"376/5498","text":"Catherine Knobloch"},{"@pid":"344/7279","text":"Julius Holzschuh"},{"@pid":"289/0140","text":"Tassilo Wald"},{"@pid":"398/6274","text":"Maximilian Rokuss"},{"@pid":"281/6999","text":"Maximilian Zenk"},{"@pid":"212/0145","text":"Maximilian Fischer"},{"@pid":"66/4721-1","text":"Michael Baumgartner 0001"},{"@pid":"190/7435","text":"Fabian Isensee"},{"@pid":"133/0183","text":"Klaus H. Maier-Hein"}]},"title":"Mitigating False Predictions in Unreasonable Body Regions.","venue":"MLMI@MICCAI","pages":"22-31","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/UlrichKHWRZFBIM24","doi":"10.1007/978-3-031-73290-4_3","ee":"https://doi.org/10.1007/978-3-031-73290-4_3","url":"https://dblp.org/rec/conf/mlmi-ws/UlrichKHWRZFBIM24"},
+"url":"URL#626488"
+},
+{
+"@score":"1",
+"@id":"626497",
+"info":{"authors":{"author":[{"@pid":"387/3114","text":"Jiuli Xiong"},{"@pid":"328/9747","text":"Lanzhuju Mei"},{"@pid":"271/9266","text":"Jiameng Liu"},{"@pid":"14/4383","text":"Dinggang Shen"},{"@pid":"52/4733","text":"Zhong Xue"},{"@pid":"178/4484","text":"Xiaohuan Cao"}]},"title":"SDF-Net: A Hybrid Detection Network for Mediastinal Lymph Node Detection on Contrast CT Images.","venue":"MLMI@MICCAI","pages":"191-200","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/XiongMLSXC24","doi":"10.1007/978-3-031-73290-4_19","ee":"https://doi.org/10.1007/978-3-031-73290-4_19","url":"https://dblp.org/rec/conf/mlmi-ws/XiongMLSXC24"},
+"url":"URL#626497"
+},
+{
+"@score":"1",
+"@id":"626500",
+"info":{"authors":{"author":[{"@pid":"132/1969","text":"Junxuan Yu"},{"@pid":"239/5359","text":"Rusi Chen"},{"@pid":"383/9426","text":"Yongsong Zhou"},{"@pid":"66/10302","text":"Yanlin Chen"},{"@pid":"349/9575","text":"Yaofei Duan"},{"@pid":"219/6363-1","text":"Yuhao Huang 0001"},{"@pid":"45/5968","text":"Han Zhou"},{"@pid":"383/8912","text":"Tan Tao"},{"@pid":"44/1152-9","text":"Xin Yang 0009"},{"@pid":"02/450-1","text":"Dong Ni 0001"}]},"title":"Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation.","venue":"MLMI@MICCAI","pages":"232-241","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/YuCZCDHZTYN24","doi":"10.1007/978-3-031-73290-4_23","ee":"https://doi.org/10.1007/978-3-031-73290-4_23","url":"https://dblp.org/rec/conf/mlmi-ws/YuCZCDHZTYN24"},
+"url":"URL#626500"
+},
+{
+"@score":"1",
+"@id":"626506",
+"info":{"authors":{"author":[{"@pid":"99/549-3","text":"Lei Zhu 0003"},{"@pid":"188/7560","text":"Yanyu Xu"},{"@pid":"63/7767","text":"Huazhu Fu"},{"@pid":"15/10654","text":"Xinxing Xu"},{"@pid":"24/2670","text":"Rick Siow Mong Goh"},{"@pid":"29/4867-26","text":"Yong Liu 0026"}]},"title":"Partially Supervised Unpaired Multi-modal Learning for Label-Efficient Medical Image Segmentation.","venue":"MLMI@MICCAI","pages":"85-94","year":"2024","type":"Conference and Workshop Papers","access":"closed","key":"conf/mlmi-ws/ZhuXFXGL24","doi":"10.1007/978-3-031-73290-4_9","ee":"https://doi.org/10.1007/978-3-031-73290-4_9","url":"https://dblp.org/rec/conf/mlmi-ws/ZhuXFXGL24"},
+"url":"URL#626506"
+}
+]
+}
+}
+}

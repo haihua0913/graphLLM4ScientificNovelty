@@ -1,0 +1,37 @@
+node1,node2,similarity,distance
+negative side effects,unstructured environments,-0.2204,1.5623
+human feedback,unstructured environments,-0.1659,1.527
+autonomous exploration,unstructured environments,0.8484,0.5506
+penalty function,unstructured environments,-0.212,1.5569
+system deployment,unstructured environments,-0.1341,1.506
+human feedback,negative side effects,0.9871,0.1603
+autonomous exploration,negative side effects,-0.1551,1.52
+negative side effects,penalty function,0.9998,0.0186
+negative side effects,system deployment,-0.1663,1.5273
+autonomous exploration,human feedback,-0.1368,1.5079
+human feedback,penalty function,0.9891,0.148
+human feedback,system deployment,-0.1191,1.496
+autonomous exploration,penalty function,-0.154,1.5192
+autonomous exploration,system deployment,-0.5342,1.7517
+penalty function,system deployment,-0.1549,1.5198
+multi-objective Markov decision process,unstructured environments,-0.1906,1.5431
+lexicographic reward preferences,unstructured environments,-0.2082,1.5545
+slack,unstructured environments,-0.1937,1.5451
+multi-objective Markov decision process,negative side effects,0.9978,0.0667
+lexicographic reward preferences,negative side effects,0.9963,0.0855
+negative side effects,slack,-0.176,1.5337
+human feedback,multi-objective Markov decision process,0.9888,0.1495
+human feedback,lexicographic reward preferences,0.976,0.2189
+human feedback,slack,-0.2116,1.5567
+autonomous exploration,multi-objective Markov decision process,-0.1546,1.5196
+autonomous exploration,lexicographic reward preferences,-0.137,1.508
+autonomous exploration,slack,-0.1124,1.4916
+multi-objective Markov decision process,penalty function,0.9982,0.06
+lexicographic reward preferences,penalty function,0.9952,0.0978
+penalty function,slack,-0.1798,1.5361
+multi-objective Markov decision process,system deployment,-0.1504,1.5169
+lexicographic reward preferences,system deployment,-0.2165,1.5598
+slack,system deployment,-0.3074,1.617
+lexicographic reward preferences,multi-objective Markov decision process,0.9953,0.097
+multi-objective Markov decision process,slack,-0.1608,1.5237
+lexicographic reward preferences,slack,-0.1619,1.5244

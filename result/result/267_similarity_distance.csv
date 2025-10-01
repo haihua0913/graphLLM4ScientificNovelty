@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+methods,recognize paraphrases,0.07,1.3638
+methods,string similarity measures,-0.2251,1.5653
+Maximum Entropy classifier,methods,0.6768,0.804
+recognize paraphrases,string similarity measures,-0.4215,1.6861
+Maximum Entropy classifier,recognize paraphrases,0.3601,1.1313
+Maximum Entropy classifier,string similarity measures,-0.2664,1.5914
+WordNet,methods,-0.0869,1.4744
+methods,synonyms,0.9095,0.4254
+dependency parser,methods,0.1105,1.3338
+WordNet,recognize paraphrases,-0.3172,1.6231
+recognize paraphrases,synonyms,0.1537,1.301
+dependency parser,recognize paraphrases,0.1761,1.2837
+WordNet,string similarity measures,-0.1698,1.5296
+string similarity measures,synonyms,-0.0265,1.4328
+dependency parser,string similarity measures,-0.1249,1.5
+Maximum Entropy classifier,WordNet,-0.0045,1.4174
+Maximum Entropy classifier,synonyms,0.6564,0.829
+Maximum Entropy classifier,dependency parser,-0.1862,1.5403
+WordNet,synonyms,0.0423,1.384
+WordNet,dependency parser,-0.5559,1.764
+dependency parser,synonyms,-0.0065,1.4188
+MTC corpus,methods,-0.0237,1.4309
+MTC corpus,string similarity measures,-0.0599,1.4559
+MTC corpus,Maximum Entropy classifier,-0.2681,1.5925
+MTC corpus,WordNet,-0.5132,1.7397
+MTC corpus,synonyms,-0.1111,1.4907
+MTC corpus,dependency parser,0.978,0.2097
+methods,state of the art,-0.1102,1.4901
+WordNet,state of the art,-0.4983,1.7311
+state of the art,synonyms,-0.1637,1.5256
+dependency parser,state of the art,0.9402,0.3459
+MTC corpus,state of the art,0.9299,0.3743

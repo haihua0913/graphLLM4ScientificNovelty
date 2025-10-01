@@ -1,0 +1,98 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/chase/chase2020.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"77.93"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"11",
+"@dc":"11",
+"@oc":"11",
+"@id":"48877911",
+"text":":facetid:toc:db/conf/chase/chase2020.bht"
+}
+},
+"hits":{
+"@total":"11",
+"@computed":"11",
+"@sent":"11",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2485822",
+"info":{"authors":{"author":[{"@pid":"48/1535","text":"Ashwin Ashok"},{"@pid":"266/9840","text":"Sutanuka Bhattacharjya"}]},"title":"Poster: Virtual Hand Rehabilitation using a Mobile Camera.","venue":"CHASE","pages":"1-2","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/AshokB20","doi":"10.1145/3384420.3431771","ee":"https://doi.org/10.1145/3384420.3431771","url":"https://dblp.org/rec/conf/chase/AshokB20"},
+"url":"URL#2485822"
+},
+{
+"@score":"1",
+"@id":"2485823",
+"info":{"authors":{"author":[{"@pid":"283/9975","text":"Sruthi Kurada"},{"@pid":"283/9736","text":"Abhinav Kurada"}]},"title":"Poster: Vggish Embeddings Based Audio Classifiers to Improve Parkinson&apos;s Disease Diagnosis.","venue":"CHASE","pages":"9-11","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/KuradaK20","doi":"10.1145/3384420.3431775","ee":"https://doi.org/10.1145/3384420.3431775","url":"https://dblp.org/rec/conf/chase/KuradaK20"},
+"url":"URL#2485823"
+},
+{
+"@score":"1",
+"@id":"2485824",
+"info":{"authors":{"author":[{"@pid":"283/9465","text":"Fatemeh Naderifar"},{"@pid":"283/9566","text":"Basil Lim"},{"@pid":"40/2405","text":"James D. Carswell"}]},"title":"Towards Diagnostic Applications of Virtual/Mixed Reality to Brain Scans*.","venue":"CHASE","pages":"7-8","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/NaderifarLC20","doi":"10.1145/1234567890","ee":"https://doi.org/10.1145/1234567890","url":"https://dblp.org/rec/conf/chase/NaderifarLC20"},
+"url":"URL#2485824"
+},
+{
+"@score":"1",
+"@id":"2485825",
+"info":{"authors":{"author":[{"@pid":"236/6713","text":"Curtis L. Petersen"},{"@pid":"283/9662","text":"Colin M. Minor"},{"@pid":"283/9515","text":"Suehayla Mohieldin"},{"@pid":"283/9521","text":"Linda G. Park"},{"@pid":"115/8195","text":"Ryan J. Halter"},{"@pid":"199/6547","text":"John A. Batsis"}]},"title":"Remote Rehabilitation: A Field-Based Feasibility Study of an mHealth Resistance Exercise Band.","venue":"CHASE","pages":"5-6","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/PetersenMMPHB20","doi":"10.1145/3384420.3431773","ee":"https://doi.org/10.1145/3384420.3431773","url":"https://dblp.org/rec/conf/chase/PetersenMMPHB20"},
+"url":"URL#2485825"
+},
+{
+"@score":"1",
+"@id":"2485826",
+"info":{"authors":{"author":[{"@pid":"274/6441","text":"Tendai Rukasha"},{"@pid":"08/6426","text":"Sandra I. Woolley"},{"@pid":"83/33","text":"Tim Collins"}]},"title":"Poster: Heart Rate Performance of a Medical-Grade Data Streaming Wearable Device.","venue":"CHASE","pages":"12-13","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/RukashaWC20","doi":"10.1145/3384420.3431776","ee":"https://doi.org/10.1145/3384420.3431776","url":"https://dblp.org/rec/conf/chase/RukashaWC20"},
+"url":"URL#2485826"
+},
+{
+"@score":"1",
+"@id":"2485827",
+"info":{"authors":{"author":[{"@pid":"258/6841","text":"Ramesh Kumar Sah"},{"@pid":"62/6023-1","text":"Hassan Ghasemzadeh 0001"},{"@pid":"220/2869","text":"Assal Habibi"},{"@pid":"283/9526","text":"Michael McDonell"},{"@pid":"284/0027","text":"Patricia Pendry"},{"@pid":"283/9725","text":"Michael Cleveland"}]},"title":"Poster: Mobile Health for Alcohol Recovery and Relapse Prevention.","venue":"CHASE","pages":"18-19","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/Sah0HMPC20","doi":"10.1145/3384420.3431779","ee":"https://doi.org/10.1145/3384420.3431779","url":"https://dblp.org/rec/conf/chase/Sah0HMPC20"},
+"url":"URL#2485827"
+},
+{
+"@score":"1",
+"@id":"2485828",
+"info":{"authors":{"author":[{"@pid":"189/1688","text":"Ivy Shi"},{"@pid":"218/5761","text":"Allen Goodman"}]},"title":"Poster: Can a Mobile Application Aid in the Effectiveness of Skilled Nursing-Facility Communication Systems?","venue":"CHASE","pages":"20-21","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ShiG20","doi":"10.1145/3384420.3431780","ee":"https://doi.org/10.1145/3384420.3431780","url":"https://dblp.org/rec/conf/chase/ShiG20"},
+"url":"URL#2485828"
+},
+{
+"@score":"1",
+"@id":"2485829",
+"info":{"authors":{"author":[{"@pid":"283/9919","text":"Nina Tanaka"},{"@pid":"125/2771","text":"Gowri Sankar Ramachandran"},{"@pid":"87/2250","text":"Bhaskar Krishnamachari"}]},"title":"Poster: Centralized vs. Decentralized Contact Tracing: Do GDP and Democracy Index Influence Privacy Choices?","venue":"CHASE","pages":"14-15","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/TanakaRK20","doi":"10.1145/3384420.3431777","ee":"https://doi.org/10.1145/3384420.3431777","url":"https://dblp.org/rec/conf/chase/TanakaRK20"},
+"url":"URL#2485829"
+},
+{
+"@score":"1",
+"@id":"2485830",
+"info":{"authors":{"author":{"@pid":"284/0082","text":"Stephanie Zawada"}},"title":"Poster: Blockchain Application Feasibility in Telehealth for DSCSA Compliance.","venue":"CHASE","pages":"3-4","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/Zawada20","doi":"10.1145/3384420.3431772","ee":"https://doi.org/10.1145/3384420.3431772","url":"https://dblp.org/rec/conf/chase/Zawada20"},
+"url":"URL#2485830"
+},
+{
+"@score":"1",
+"@id":"2485831",
+"info":{"authors":{"author":[{"@pid":"02/5194","text":"Yan Zhuang"},{"@pid":"65/4298","text":"Mohamed Hassan"},{"@pid":"283/9914","text":"Chad M. Aldridge"},{"@pid":"125/2311","text":"Xuwang Yin"},{"@pid":"122/8964","text":"Timothy McMurry"},{"@pid":"220/1581","text":"Andrew M. Southerland"},{"@pid":"58/6307","text":"Gustavo K. Rohde"}]},"title":"Poster: A Pilot Study On Camera-based Neurological Deficit Detection.","venue":"CHASE","pages":"16-17","year":"2020","type":"Conference and Workshop Papers","access":"closed","key":"conf/chase/ZhuangHAYMSR20","doi":"10.1145/3384420.3431778","ee":"https://doi.org/10.1145/3384420.3431778","url":"https://dblp.org/rec/conf/chase/ZhuangHAYMSR20"},
+"url":"URL#2485831"
+},
+{
+"@score":"1",
+"@id":"2633923",
+"info":{"title":"5th IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies, CHASE 2020, Crystal City, VA, USA, December 16-18, 2020","venue":"CHASE","publisher":"IEEE","year":"2020","type":"Editorship","key":"conf/chase/2020","ee":"https://ieeexplore.ieee.org/xpl/conhome/9327908/proceeding","url":"https://dblp.org/rec/conf/chase/2020"},
+"url":"URL#2633923"
+}
+]
+}
+}
+}

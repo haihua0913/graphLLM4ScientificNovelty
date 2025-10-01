@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Horn SHIQ ontologies,reasoning procedure,-0.0646,1.4592
+Horn SHIQ ontologies,completion-based procedure,0.1091,1.3349
+completion-based procedure,reasoning procedure,0.9254,0.3862
+Horn SHIQ ontologies,empirical evaluation,0.8511,0.5457
+Horn SHIQ ontologies,medical ontologies,0.4361,1.062
+Horn SHIQ ontologies,ontology reasoners,0.8035,0.627
+completion-based procedure,empirical evaluation,-0.1462,1.5141
+completion-based procedure,medical ontologies,-0.166,1.5271
+completion-based procedure,ontology reasoners,-0.2333,1.5705
+empirical evaluation,medical ontologies,0.3467,1.1431
+empirical evaluation,ontology reasoners,0.9388,0.3498
+medical ontologies,ontology reasoners,0.1012,1.3407
+Horn SHIQ ontologies,OWL,0.5223,0.9774
+Galen,Horn SHIQ ontologies,0.095,1.3454
+OWL,empirical evaluation,0.4224,1.0748
+Galen,empirical evaluation,-0.0448,1.4455
+OWL,medical ontologies,0.9477,0.3235
+Galen,medical ontologies,-0.3616,1.6502
+OWL,ontology reasoners,0.1615,1.295
+Galen,ontology reasoners,0.088,1.3505
+Galen,OWL,-0.1568,1.521

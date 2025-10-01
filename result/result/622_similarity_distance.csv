@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+GP-LVM,Gaussian process latent variable model,-0.0906,1.4769
+Gaussian process latent variable model,nonlinear low dimensional embedding,0.315,1.1705
+Gaussian process latent variable model,probabilistic mapping,-0.1673,1.528
+Gaussian process latent variable model,data space,-0.0478,1.4476
+Gaussian process latent variable model,probabilistic PCA,-0.1464,1.5142
+GP-LVM,nonlinear low dimensional embedding,-0.0177,1.4267
+GP-LVM,probabilistic mapping,-0.3622,1.6506
+GP-LVM,data space,-0.1494,1.5162
+GP-LVM,probabilistic PCA,0.9903,0.1395
+nonlinear low dimensional embedding,probabilistic mapping,0.5817,0.9146
+data space,nonlinear low dimensional embedding,0.766,0.6841
+nonlinear low dimensional embedding,probabilistic PCA,-0.0241,1.4312
+data space,probabilistic mapping,0.9327,0.367
+probabilistic PCA,probabilistic mapping,-0.3418,1.6382
+data space,probabilistic PCA,-0.1412,1.5107
+GP-LVM,latent space,-0.2823,1.6015
+data space,latent space,-0.0851,1.4732
+latent space,probabilistic PCA,-0.2609,1.588
+GP-LVM,dimensionality reduction,-0.1675,1.5281
+dimensionality reduction,latent space,0.1198,1.3268
+data space,dimensionality reduction,0.9459,0.3289
+GP-LVM,back constraints,0.269,1.2091
+back constraints,latent space,0.2684,1.2097
+back constraints,data space,0.7212,0.7468
+back constraints,dimensionality reduction,0.7954,0.6397

@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+autonomous vehicles,pedestrian detection,0.0755,1.3598
+partial occlusion,pedestrian detection,0.0022,1.4126
+autonomous vehicles,partial occlusion,0.9851,0.1728
+pedestrian detection,pedestrian detection benchmarks,-0.2165,1.5598
+autonomous vehicles,pedestrian detection benchmarks,-0.044,1.445
+partial occlusion,pedestrian detection benchmarks,0.042,1.3842
+occlusion level annotation,pedestrian detection,-0.2424,1.5763
+occlusion level annotation,partial occlusion,-0.1191,1.496
+occlusion level annotation,pedestrian detection benchmarks,-0.1431,1.512
+ground truth annotation,occlusion level annotation,0.202,1.2633
+ground truth annotation,pedestrian keypoints,-0.1085,1.4889
+2D body surface area estimation,ground truth annotation,0.3643,1.1276
+2D body surface area estimation,pedestrian keypoints,0.5257,0.974
+ground truth annotation,self-occlusion,0.0263,1.3955
+pedestrian keypoints,self-occlusion,0.8362,0.5723
+2D body surface area estimation,self-occlusion,0.3388,1.1499

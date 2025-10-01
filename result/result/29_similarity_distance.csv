@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+nearest neighbor,prototype,0.9501,0.3158
+prototype,weighting metric,-0.2534,1.5833
+nearest neighbor,weighting metric,-0.155,1.5199
+learning algorithm,prototype,-0.247,1.5793
+SNMC,prototype,0.0627,1.3692
+classification accuracy,prototype,-0.2276,1.5669
+C4.5,prototype,-0.2567,1.5854
+learning algorithm,weighting metric,-0.1496,1.5163
+SNMC,weighting metric,0.0893,1.3496
+classification accuracy,weighting metric,0.9861,0.1667
+C4.5,weighting metric,-0.1378,1.5085
+SNMC,learning algorithm,-0.2156,1.5592
+classification accuracy,learning algorithm,-0.1886,1.5418
+C4.5,learning algorithm,-0.2759,1.5974
+SNMC,classification accuracy,-0.0081,1.4199
+C4.5,SNMC,0.0627,1.3692
+C4.5,classification accuracy,-0.1395,1.5096

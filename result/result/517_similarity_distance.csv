@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+Akaike's Information Criterion,system identification,0.9216,0.396
+Canonical Variate Analysis,system identification,0.7589,0.6944
+Akaike's Information Criterion,Canonical Variate Analysis,0.9157,0.4107
+reinforcement learning,system identification,-0.2123,1.5571
+optimal behavior,system identification,0.941,0.3436
+Akaike's Information Criterion,reinforcement learning,-0.1698,1.5296
+Akaike's Information Criterion,optimal behavior,0.9641,0.2678
+Canonical Variate Analysis,reinforcement learning,-0.1078,1.4885
+Canonical Variate Analysis,optimal behavior,0.847,0.5531
+optimal behavior,reinforcement learning,-0.246,1.5786
+Akaike's Information Criterion,soccer playing situation,0.7847,0.6563
+Canonical Variate Analysis,soccer playing situation,0.6666,0.8166
+reinforcement learning,soccer playing situation,-0.1054,1.4869
+optimal behavior,soccer playing situation,0.864,0.5216
+real experiments,reinforcement learning,-0.3207,1.6252
+optimal behavior,real experiments,0.3336,1.1545
+real experiments,soccer playing situation,0.3976,1.0976

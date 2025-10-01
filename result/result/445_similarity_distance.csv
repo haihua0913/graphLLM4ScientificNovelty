@@ -1,0 +1,38 @@
+node1,node2,similarity,distance
+dot-product kernel operator,locality-sensitive hashing,0.1045,1.3383
+filter bank,locality-sensitive hashing,-0.0153,1.425
+hash-table probes,locality-sensitive hashing,0.9216,0.3961
+dot-product kernel operator,filter bank,-0.1366,1.5077
+dot-product kernel operator,hash-table probes,0.1515,1.3027
+filter bank,hash-table probes,-0.1773,1.5345
+deformable-part models,locality-sensitive hashing,0.7612,0.6911
+locality-sensitive hashing,multiple scales,0.1233,1.3242
+20GB of RAM,locality-sensitive hashing,-0.3598,1.6491
+deformable-part models,dot-product kernel operator,0.1304,1.3188
+dot-product kernel operator,multiple scales,-0.1476,1.515
+20GB of RAM,dot-product kernel operator,-0.3309,1.6315
+deformable-part models,filter bank,-0.3026,1.614
+filter bank,multiple scales,-0.3382,1.636
+20GB of RAM,filter bank,-0.0355,1.4391
+deformable-part models,hash-table probes,0.6611,0.8233
+hash-table probes,multiple scales,0.1301,1.319
+20GB of RAM,hash-table probes,-0.2398,1.5747
+deformable-part models,multiple scales,0.1458,1.3071
+20GB of RAM,deformable-part models,-0.5027,1.7336
+20GB of RAM,multiple scales,0.1041,1.3386
+locality-sensitive hashing,speed-up,0.9732,0.2316
+dot-product kernel operator,speed-up,0.1444,1.3081
+filter bank,speed-up,-0.0753,1.4665
+hash-table probes,speed-up,0.9503,0.3153
+deformable-part models,speed-up,0.8017,0.6297
+multiple scales,speed-up,0.0967,1.3441
+20GB of RAM,speed-up,-0.4608,1.7093
+deformable-part models,mean average precision,0.6165,0.8757
+deformable-part models,object classes,-0.4689,1.714
+mean average precision,multiple scales,-0.0008,1.4148
+multiple scales,object classes,0.1036,1.339
+20GB of RAM,mean average precision,-0.5785,1.7768
+20GB of RAM,object classes,0.2797,1.2002
+mean average precision,speed-up,0.3705,1.122
+object classes,speed-up,-0.3316,1.6319
+mean average precision,object classes,-0.6838,1.8351

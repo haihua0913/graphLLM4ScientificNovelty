@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+learning synchronous grammars,logical forms,0.1753,1.2843
+learning synchronous grammars,statistical machine translation,-0.144,1.5126
+learning synchronous grammars,semantic parser,-0.2865,1.6041
+learning synchronous grammars,synchronous context-free grammar,-0.0677,1.4613
+learning synchronous grammars,operators,0.1919,1.2713
+learning synchronous grammars,training sentences,0.9277,0.3803
+logical forms,statistical machine translation,0.1318,1.3177
+logical forms,semantic parser,-0.4182,1.6841
+logical forms,synchronous context-free grammar,-0.27,1.5937
+logical forms,operators,0.7972,0.6368
+logical forms,training sentences,0.2124,1.2551
+semantic parser,statistical machine translation,0.4096,1.0866
+statistical machine translation,synchronous context-free grammar,-0.1001,1.4833
+operators,statistical machine translation,0.3025,1.1811
+statistical machine translation,training sentences,0.0411,1.3848
+semantic parser,synchronous context-free grammar,-0.1538,1.5191
+operators,semantic parser,-0.2332,1.5705
+semantic parser,training sentences,-0.204,1.5518
+operators,synchronous context-free grammar,-0.2108,1.5561
+synchronous context-free grammar,training sentences,-0.0541,1.452
+operators,training sentences,0.2431,1.2303
+database query domain,learning synchronous grammars,-0.116,1.494
+database query domain,logical forms,-0.2468,1.5791
+database query domain,statistical machine translation,-0.1247,1.4998
+database query domain,semantic parser,-0.1113,1.4908
+database query domain,synchronous context-free grammar,0.9825,0.1871
+database query domain,operators,-0.2158,1.5593
+database query domain,training sentences,-0.1357,1.5071

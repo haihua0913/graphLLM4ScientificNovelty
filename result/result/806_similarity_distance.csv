@@ -1,0 +1,13 @@
+node1,node2,similarity,distance
+neural networks,sparsity,0.1434,1.3089
+activations,neural networks,0.0916,1.3479
+activations,sparsity,-0.2118,1.5568
+noise,sparsity,0.775,0.6708
+noise,noisy training,-0.0151,1.4248
+biological receptive fields,noise,0.0379,1.3871
+biological receptive fields,noisy training,0.1816,1.2794
+biological receptive fields,robustness,0.6152,0.8772
+biological receptive fields,computational efficiency,0.065,1.3675
+computational efficiency,robustness,0.6761,0.8049
+noisy training,robustness,0.1536,1.3011
+computational efficiency,noisy training,-0.06,1.456

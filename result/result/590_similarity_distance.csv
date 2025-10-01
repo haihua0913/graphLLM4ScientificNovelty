@@ -1,0 +1,40 @@
+node1,node2,similarity,distance
+SinGAN,unconditional generative model,0.1516,1.3026
+SinGAN,single natural image,-0.0582,1.4548
+SinGAN,internal distribution of patches,-0.2922,1.6076
+SinGAN,high quality,-0.1423,1.5115
+SinGAN,diverse samples,-0.2221,1.5634
+single natural image,unconditional generative model,-0.2464,1.5789
+internal distribution of patches,unconditional generative model,-0.5258,1.7469
+high quality,unconditional generative model,-0.1597,1.5229
+diverse samples,unconditional generative model,0.8636,0.5222
+internal distribution of patches,single natural image,0.4737,1.026
+high quality,single natural image,-0.1568,1.5211
+diverse samples,single natural image,-0.2616,1.5885
+high quality,internal distribution of patches,-0.0558,1.4531
+diverse samples,internal distribution of patches,-0.1596,1.5229
+diverse samples,high quality,-0.0507,1.4496
+SinGAN,fully convolutional GANs,-0.3635,1.6513
+fully convolutional GANs,unconditional generative model,-0.4164,1.6831
+fully convolutional GANs,single natural image,0.668,0.8148
+fully convolutional GANs,internal distribution of patches,0.9282,0.379
+fully convolutional GANs,high quality,-0.1916,1.5438
+diverse samples,fully convolutional GANs,-0.0825,1.4714
+SinGAN,arbitrary size,-0.017,1.4262
+SinGAN,global structure,0.8159,0.6068
+SinGAN,fine textures,0.0357,1.3887
+arbitrary size,internal distribution of patches,-0.2213,1.5629
+global structure,internal distribution of patches,-0.2949,1.6093
+fine textures,internal distribution of patches,0.5842,0.9119
+arbitrary size,high quality,0.1665,1.2911
+global structure,high quality,-0.2352,1.5717
+fine textures,high quality,-0.4183,1.6842
+arbitrary size,diverse samples,0.888,0.4732
+diverse samples,global structure,-0.2267,1.5664
+diverse samples,fine textures,-0.2028,1.551
+arbitrary size,fully convolutional GANs,-0.1576,1.5216
+fully convolutional GANs,global structure,-0.4494,1.7026
+fine textures,fully convolutional GANs,0.7631,0.6883
+arbitrary size,global structure,-0.2354,1.5719
+arbitrary size,fine textures,-0.1419,1.5112
+fine textures,global structure,-0.3162,1.6225

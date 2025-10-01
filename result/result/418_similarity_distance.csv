@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+jittery motions,search and surveillance,0.8169,0.6052
+disorienting rotations,search and surveillance,0.5898,0.9058
+disorienting rotations,jittery motions,0.28,1.2
+dynamic mosaics,search and surveillance,0.8875,0.4743
+dynamic mosaics,jittery motions,0.8369,0.5712
+disorienting rotations,dynamic mosaics,0.2869,1.1942
+dynamic mosaics,natural stabilization,-0.125,1.5
+consistent orientation,dynamic mosaics,-0.0539,1.4518
+consistent orientation,natural stabilization,0.9588,0.2869
+dynamic mosaics,real-time system,0.2492,1.2254
+natural stabilization,real-time system,-0.284,1.6025
+consistent orientation,real-time system,-0.3357,1.6345
+human detection,natural stabilization,0.1587,1.2971
+consistent orientation,human detection,-0.0235,1.4308
+human detection,real-time system,0.3286,1.1588

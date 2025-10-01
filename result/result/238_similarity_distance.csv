@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+Automatic phrasing,Mandarin text-to-speech synthesis,0.8611,0.527
+Automatic phrasing,word format,-0.2672,1.592
+Automatic phrasing,HMM-based approach,0.0819,1.3551
+Mandarin text-to-speech synthesis,word format,-0.3455,1.6404
+HMM-based approach,Mandarin text-to-speech synthesis,0.1431,1.3091
+HMM-based approach,word format,0.0105,1.4068
+Automatic phrasing,discrete hidden Markov model,-0.0686,1.4619
+Mandarin text-to-speech synthesis,discrete hidden Markov model,0.026,1.3957
+discrete hidden Markov model,word format,-0.1725,1.5313
+HMM-based approach,discrete hidden Markov model,-0.1088,1.4892
+high accuracy,word format,-0.3158,1.6222
+manual labeling,word format,-0.2427,1.5765
+HMM-based approach,high accuracy,-0.3125,1.6202
+HMM-based approach,manual labeling,0.1078,1.3358
+discrete hidden Markov model,high accuracy,-0.001,1.4149
+discrete hidden Markov model,manual labeling,0.0567,1.3736
+high accuracy,manual labeling,0.0698,1.364
+discrete hidden Markov model,experimental results,0.572,0.9252
+experimental results,high accuracy,-0.0923,1.478
+experimental results,manual labeling,0.0417,1.3844

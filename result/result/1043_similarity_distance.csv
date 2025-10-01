@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+DyNet,PyTorch,0.2039,1.2618
+Chainer,PyTorch,0.3956,1.0994
+PyTorch,high-performance algorithms,0.1042,1.3385
+Chainer,DyNet,0.2557,1.2201
+DyNet,high-performance algorithms,-0.0193,1.4278
+Chainer,high-performance algorithms,-0.357,1.6474
+PyTorch,batching task,0.2863,1.1947
+DyNet,batching task,0.0989,1.3425
+Chainer,batching task,0.2927,1.1894
+batching task,high-performance algorithms,-0.0965,1.4809
+DyNet,minibatch computations,0.1467,1.3064
+DyNet,computationally efficient batched operations,-0.3141,1.6212
+DyNet,single instance computations,-0.3272,1.6292
+batching task,minibatch computations,0.3256,1.1614
+batching task,computationally efficient batched operations,0.7128,0.7579
+batching task,single instance computations,0.798,0.6356
+computationally efficient batched operations,minibatch computations,-0.1084,1.4889
+minibatch computations,single instance computations,0.0448,1.3822
+computationally efficient batched operations,single instance computations,0.9625,0.2739

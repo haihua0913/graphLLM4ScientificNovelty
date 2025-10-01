@@ -1,0 +1,12 @@
+node1,node2,similarity,distance
+hand-tagged data,word sense disambiguation,-0.2,1.5492
+hand-tagged data,raw textual corpora,0.7696,0.6788
+WordNet similarity package,hand-tagged data,0.8837,0.4823
+WordNet similarity package,raw textual corpora,0.8405,0.5647
+predominant senses,raw textual corpora,-0.4224,1.6867
+WordNet similarity package,predominant senses,-0.4024,1.6748
+SENSEVAL-2,predominant senses,0.9783,0.2084
+SENSEVAL-2,raw textual corpora,-0.5063,1.7357
+SENSEVAL-2,WordNet similarity package,-0.5314,1.7501
+domain-specific corpora,predominant senses,-0.0304,1.4356
+SENSEVAL-2,domain-specific corpora,-0.1093,1.4895

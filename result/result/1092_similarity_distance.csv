@@ -1,0 +1,13 @@
+node1,node2,similarity,distance
+forward-backward (FB) representation,reward-free Markov decision process,-0.0722,1.4644
+forward-backward (FB) representation,temporal difference (TD) learning,0.9533,0.3056
+forward-backward (FB) representation,unsupervised phase,0.95,0.3162
+reward-free Markov decision process,temporal difference (TD) learning,0.0881,1.3505
+reward-free Markov decision process,unsupervised phase,0.0835,1.3539
+temporal difference (TD) learning,unsupervised phase,0.875,0.4999
+optimal policy,temporal difference (TD) learning,0.1505,1.3034
+optimal policy,unsupervised phase,0.1562,1.2991
+exploration scheme,optimal policy,0.5888,0.9069
+controllable agents,predictive occupancy map,0.9482,0.322
+goal-oriented RL algorithms,predictive occupancy map,0.9642,0.2675
+controllable agents,goal-oriented RL algorithms,0.9481,0.3223

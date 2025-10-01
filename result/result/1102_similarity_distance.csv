@@ -1,0 +1,27 @@
+node1,node2,similarity,distance
+conditional coverage,prediction intervals,0.4673,1.0322
+conditional coverage,feature-space,0.8928,0.463
+conditional coverage,quantile regression,0.9829,0.1851
+conditional coverage,conditional quantiles,-0.0588,1.4552
+feature-space,prediction intervals,0.2404,1.2325
+prediction intervals,quantile regression,0.4796,1.0202
+conditional quantiles,prediction intervals,-0.2332,1.5705
+feature-space,quantile regression,0.9423,0.3397
+conditional quantiles,feature-space,-0.0021,1.4157
+conditional quantiles,quantile regression,-0.049,1.4485
+conditional coverage,loss function,0.7635,0.6878
+loss function,quantile regression,0.7917,0.6454
+conditional quantiles,loss function,0.1417,1.3102
+conditional coverage,orthogonal,-0.4245,1.6879
+orthogonal,quantile regression,-0.3213,1.6256
+conditional quantiles,orthogonal,-0.0701,1.4629
+loss function,orthogonal,-0.2719,1.5949
+conditional coverage,dependence,-0.2119,1.5568
+conditional coverage,interval size,0.8481,0.5511
+conditional quantiles,dependence,0.0515,1.3773
+conditional quantiles,interval size,0.1945,1.2693
+dependence,loss function,0.1871,1.275
+interval size,loss function,0.7263,0.7399
+dependence,orthogonal,-0.1125,1.4916
+interval size,orthogonal,-0.5441,1.7573
+dependence,interval size,0.1116,1.333

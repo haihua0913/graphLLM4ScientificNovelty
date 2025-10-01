@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+resource-bounded agents,time constraints,0.9317,0.3695
+dynamic environment,resource-bounded agents,0.9258,0.3852
+coordinated agents,resource-bounded agents,0.8775,0.4949
+dynamic environment,time constraints,0.9742,0.227
+coordinated agents,time constraints,0.952,0.3098
+coordinated agents,dynamic environment,0.9661,0.2603
+deadlines,resource-bounded agents,0.9056,0.4346
+progressive planning,resource-bounded agents,-0.1538,1.5191
+deadlines,time constraints,0.9668,0.2579
+progressive planning,time constraints,-0.1528,1.5184
+deadlines,dynamic environment,0.9395,0.3478
+dynamic environment,progressive planning,-0.1626,1.5248
+coordinated agents,deadlines,0.8941,0.4603
+coordinated agents,progressive planning,-0.2094,1.5552
+deadlines,progressive planning,-0.034,1.4381
+coordinated agents,partial plans,-0.3917,1.6684
+deadlines,partial plans,-0.3971,1.6716
+partial plans,progressive planning,0.5599,0.9381
+anytime coordination,partial plans,-0.3628,1.6509
+anytime coordination,resource allocation problem,0.9197,0.4008

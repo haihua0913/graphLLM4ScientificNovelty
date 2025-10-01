@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+0-1 control variable,Support Vector Machines,-0.1829,1.5381
+Support Vector Machines,l0-norm Sparse SVM,0.8268,0.5885
+Support Vector Machines,mixed integer programming,0.1061,1.3371
+0-1 control variable,l0-norm Sparse SVM,0.0275,1.3946
+0-1 control variable,mixed integer programming,0.2863,1.1947
+l0-norm Sparse SVM,mixed integer programming,0.1418,1.3101
+Support Vector Machines,cutting plane algorithm,-0.1014,1.4842
+Support Vector Machines,convex relaxation,-0.1116,1.4911
+0-1 control variable,cutting plane algorithm,0.8351,0.5742
+0-1 control variable,convex relaxation,0.0831,1.3541
+cutting plane algorithm,l0-norm Sparse SVM,0.2143,1.2535
+convex relaxation,l0-norm Sparse SVM,0.1566,1.2988
+cutting plane algorithm,mixed integer programming,-0.0082,1.42
+convex relaxation,mixed integer programming,0.2052,1.2608
+convex relaxation,cutting plane algorithm,0.0193,1.4005
+0-1 control variable,global convergence proof,-0.2551,1.5844
+global convergence proof,l0-norm Sparse SVM,0.0399,1.3857
+global convergence proof,mixed integer programming,-0.3494,1.6428
+cutting plane algorithm,global convergence proof,-0.0435,1.4447
+convex relaxation,global convergence proof,-0.2651,1.5907

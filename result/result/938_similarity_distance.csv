@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+group overlap,structured-sparsity regularization,0.9438,0.3353
+proximal operator,structured-sparsity regularization,0.1002,1.3415
+group overlap,proximal operator,0.3479,1.1421
+high-dimensional setting,structured-sparsity regularization,0.9732,0.2316
+group overlap,high-dimensional setting,0.9163,0.4091
+high-dimensional setting,proximal operator,0.1248,1.323
+Inexact Proximal-Gradient method,group overlap,0.1685,1.2896
+group lasso,group overlap,0.8558,0.537
+Inexact Proximal-Gradient method,proximal operator,0.9547,0.3012
+group lasso,proximal operator,0.023,1.3978
+Inexact Proximal-Gradient method,high-dimensional setting,-0.0518,1.4504
+Inexact Proximal-Gradient method,group lasso,-0.0776,1.468
+group lasso,high-dimensional setting,0.9276,0.3804
+group overlap,proximal sub-problem,0.3018,1.1817
+proximal operator,proximal sub-problem,0.9923,0.124
+Inexact Proximal-Gradient method,proximal sub-problem,0.9615,0.2776
+high-dimensional setting,proximal sub-problem,0.0891,1.3497
+group lasso,proximal sub-problem,-0.0183,1.4271
+global convergence rate,group overlap,0.1635,1.2935
+Inexact Proximal-Gradient method,global convergence rate,0.967,0.257
+global convergence rate,proximal sub-problem,0.9531,0.3064
+global convergence rate,group lasso,-0.1241,1.4994
+network-flow algorithm,proximal sub-problem,0.9853,0.1717
+global convergence rate,network-flow algorithm,0.9375,0.3535

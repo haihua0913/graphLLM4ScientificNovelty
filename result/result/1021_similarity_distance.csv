@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+importance sampling-based,systematic search-based,0.8513,0.5453
+lifted inference algorithms,systematic search-based,-0.178,1.5349
+lifting rules,systematic search-based,-0.2881,1.6051
+symmetries,systematic search-based,-0.261,1.5881
+importance sampling-based,lifted inference algorithms,0.0481,1.3798
+importance sampling-based,lifting rules,0.035,1.3892
+importance sampling-based,symmetries,-0.1194,1.4962
+lifted inference algorithms,lifting rules,0.9641,0.2681
+lifted inference algorithms,symmetries,-0.0847,1.4729
+lifting rules,symmetries,0.0544,1.3752
+inference-blind representation,systematic search-based,-0.2632,1.5895
+importance sampling-based,inference-blind representation,-0.1221,1.4981
+inference-blind representation,lifted inference algorithms,0.9442,0.3339
+inference-blind representation,lifting rules,0.8831,0.4836
+inference-blind representation,symmetries,-0.0006,1.4146
+And/Or search space,inference-blind representation,-0.1712,1.5305
+inference-blind representation,lifted And/Or schematic,-0.2518,1.5823
+And/Or search space,lifted And/Or schematic,0.9543,0.3022
+And/Or search space,Rao-Blackwellisation,-0.2011,1.5499
+Rao-Blackwellisation,lifted And/Or schematic,-0.1237,1.4991

@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+anomaly detection,real-world problems,0.7552,0.6997
+anomaly detection,labeled data,-0.2148,1.5587
+labeled data,real-world problems,-0.3992,1.6728
+anomaly detection,transfer learning algorithm,0.1205,1.3263
+anomaly detection,semi-supervised nearest-neighbors,-0.2915,1.6072
+anomaly detection,unlabeled target,0.0737,1.3611
+anomaly detection,labeled source instances,-0.0434,1.4445
+semi-supervised nearest-neighbors,transfer learning algorithm,0.1317,1.3178
+transfer learning algorithm,unlabeled target,0.7851,0.6556
+labeled source instances,transfer learning algorithm,0.7651,0.6854
+semi-supervised nearest-neighbors,unlabeled target,-0.4025,1.6748
+labeled source instances,semi-supervised nearest-neighbors,-0.0054,1.418
+labeled source instances,unlabeled target,0.7563,0.6981
+anomaly detection,state-of-the-art,-0.1226,1.4984
+state-of-the-art,transfer learning algorithm,0.2517,1.2233
+semi-supervised nearest-neighbors,state-of-the-art,-0.24,1.5748
+state-of-the-art,unlabeled target,0.3596,1.1317
+labeled source instances,state-of-the-art,-0.2541,1.5837
+anomalous water usage,anomaly detection,0.8748,0.5004
+anomalous water usage,semi-supervised nearest-neighbors,0.0582,1.3725
+anomalous water usage,unlabeled target,0.0682,1.3651
+anomalous water usage,labeled source instances,-0.0225,1.4301
+anomalous water usage,state-of-the-art,0.0115,1.4061

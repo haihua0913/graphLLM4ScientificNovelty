@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+Retrieval-augmented models,variational inference,-0.143,1.5119
+Retrieval-augmented models,open-domain question answering,0.9069,0.4316
+Retrieval-augmented models,language modelling,0.8422,0.5618
+open-domain question answering,variational inference,-0.1527,1.5184
+language modelling,variational inference,0.2093,1.2576
+language modelling,open-domain question answering,0.9245,0.3885
+R\'enyi variational bound,Retrieval-augmented models,0.0725,1.362
+Retrieval-augmented models,auxiliary sampling distribution,0.2161,1.2521
+R\'enyi variational bound,variational inference,-0.0782,1.4685
+auxiliary sampling distribution,variational inference,-0.0852,1.4733
+R\'enyi variational bound,open-domain question answering,-0.049,1.4484
+auxiliary sampling distribution,open-domain question answering,0.0336,1.3903
+R\'enyi variational bound,language modelling,-0.1545,1.5195
+auxiliary sampling distribution,language modelling,-0.0739,1.4656
+R\'enyi variational bound,auxiliary sampling distribution,0.9744,0.2262
+MedMCQA dataset,retrieval-augmented BioLinkBERT,0.196,1.2681
+MedMCQA dataset,medical semantic search,-0.1872,1.5409
+medical semantic search,retrieval-augmented BioLinkBERT,0.0199,1.4001

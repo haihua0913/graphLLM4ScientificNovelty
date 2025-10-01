@@ -1,0 +1,41 @@
+node1,node2,similarity,distance
+deep nets,mobile devices,0.486,1.0139
+deep nets,model sizes,0.214,1.2538
+deep nets,neural networks,0.2178,1.2508
+HashedNets,deep nets,0.0001,1.4142
+mobile devices,model sizes,0.6995,0.7752
+mobile devices,neural networks,0.1426,1.3095
+HashedNets,mobile devices,0.038,1.3871
+model sizes,neural networks,-0.1973,1.5475
+HashedNets,model sizes,0.069,1.3646
+HashedNets,neural networks,-0.1495,1.5163
+deep nets,hash function,-0.0051,1.4178
+connection weights,deep nets,-0.096,1.4805
+deep nets,hash buckets,-0.0424,1.4439
+hash function,mobile devices,0.0316,1.3917
+connection weights,mobile devices,-0.3822,1.6627
+hash buckets,mobile devices,0.1351,1.3152
+hash function,model sizes,-0.0861,1.4739
+connection weights,model sizes,0.069,1.3645
+hash buckets,model sizes,0.2102,1.2568
+hash function,neural networks,-0.2519,1.5824
+connection weights,neural networks,-0.4176,1.6838
+hash buckets,neural networks,-0.1678,1.5283
+HashedNets,hash function,0.9411,0.3432
+HashedNets,connection weights,0.1545,1.3004
+HashedNets,hash buckets,0.9761,0.2186
+connection weights,hash function,0.1698,1.2886
+hash buckets,hash function,0.8942,0.4601
+connection weights,hash buckets,0.1888,1.2737
+backprop,model sizes,0.0793,1.357
+backprop,neural networks,0.4928,1.0072
+HashedNets,backprop,-0.2364,1.5725
+backprop,hash function,-0.1764,1.5339
+backprop,connection weights,-0.2759,1.5974
+backprop,hash buckets,-0.2269,1.5664
+generalization performance,neural networks,-0.3157,1.6222
+HashedNets,generalization performance,-0.2668,1.5917
+generalization performance,hash function,-0.1909,1.5433
+connection weights,generalization performance,0.8465,0.5542
+generalization performance,hash buckets,-0.274,1.5962
+backprop,generalization performance,-0.2032,1.5512

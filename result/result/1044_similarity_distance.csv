@@ -1,0 +1,35 @@
+node1,node2,similarity,distance
+learning high-dimensional,structured parameters,0.9772,0.2134
+learning high-dimensional,noise correlations,0.2041,1.2616
+alternating estimation,learning high-dimensional,0.7119,0.759
+generalized Dantzig selector,learning high-dimensional,0.8388,0.5678
+noise correlations,structured parameters,0.2305,1.2406
+alternating estimation,structured parameters,0.7074,0.765
+generalized Dantzig selector,structured parameters,0.8571,0.5346
+alternating estimation,noise correlations,-0.2427,1.5765
+generalized Dantzig selector,noise correlations,-0.138,1.5086
+alternating estimation,generalized Dantzig selector,0.9568,0.2938
+error of the estimates,learning high-dimensional,-0.0962,1.4807
+Gaussian width,learning high-dimensional,0.9807,0.1967
+learning high-dimensional,minimum achievable level,0.3498,1.1403
+error of the estimates,structured parameters,-0.1408,1.5105
+Gaussian width,structured parameters,0.9951,0.0987
+minimum achievable level,structured parameters,0.3786,1.1148
+error of the estimates,noise correlations,0.1337,1.3163
+Gaussian width,noise correlations,0.2844,1.1963
+minimum achievable level,noise correlations,-0.2566,1.5853
+alternating estimation,error of the estimates,-0.0967,1.481
+Gaussian width,alternating estimation,0.7093,0.7625
+alternating estimation,minimum achievable level,0.1511,1.303
+error of the estimates,generalized Dantzig selector,-0.1204,1.4969
+Gaussian width,generalized Dantzig selector,0.8518,0.5444
+generalized Dantzig selector,minimum achievable level,0.219,1.2498
+Gaussian width,error of the estimates,-0.1336,1.5057
+error of the estimates,minimum achievable level,-0.1404,1.5102
+Gaussian width,minimum achievable level,0.309,1.1756
+noise correlations,non-asymptotic statistical guarantee,-0.1852,1.5396
+alternating estimation,non-asymptotic statistical guarantee,0.9908,0.1355
+generalized Dantzig selector,non-asymptotic statistical guarantee,0.9514,0.3117
+error of the estimates,non-asymptotic statistical guarantee,-0.1502,1.5167
+Gaussian width,non-asymptotic statistical guarantee,0.7426,0.7175
+minimum achievable level,non-asymptotic statistical guarantee,0.1738,1.2855

@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+self-locomotion,visual tracking,0.5687,0.9288
+self-locomotion,spatial development,0.3789,1.1145
+spatial development,visual tracking,0.3109,1.174
+forward modeling architecture,spatial development,0.9076,0.43
+inverse model,spatial development,0.9239,0.39
+forward model,spatial development,0.931,0.3715
+forward modeling architecture,inverse model,0.9334,0.3648
+forward model,forward modeling architecture,0.9026,0.4414
+forward model,inverse model,0.9566,0.2947
+forward modeling architecture,self-locomotion,0.2007,1.2643
+inverse model,self-locomotion,0.1099,1.3342
+forward model,self-locomotion,0.0377,1.3873
+self-center based,self-locomotion,0.0544,1.3752
+forward modeling architecture,self-center based,0.949,0.3193
+inverse model,self-center based,0.9486,0.3206
+forward model,self-center based,0.9759,0.2197
+allocentrically,self-locomotion,0.2302,1.2408
+allocentrically,self-center based,0.9771,0.2142

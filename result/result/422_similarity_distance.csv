@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+image segmentation,unsupervised method,-0.1999,1.5491
+precision/recall,segmentation quality,-0.1132,1.4921
+image model,segmentation quality,0.1297,1.3193
+feature distributions,segmentation quality,-0.2702,1.5938
+image model,precision/recall,0.484,1.0159
+feature distributions,precision/recall,0.288,1.1933
+feature distributions,image model,0.3032,1.1805
+nonnegative matrix factorization,segmentation quality,0.9696,0.2464
+nonnegative matrix factorization,precision/recall,-0.0611,1.4568
+image model,nonnegative matrix factorization,0.301,1.1823
+feature distributions,nonnegative matrix factorization,-0.2828,1.6017
+ground truth,precision/recall,-0.2592,1.5869
+ground truth,nonnegative matrix factorization,-0.2637,1.5898
+precision/recall,segmentation algorithm,-0.1214,1.4976
+ground truth,segmentation algorithm,-0.1914,1.5436

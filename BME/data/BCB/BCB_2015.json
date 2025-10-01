@@ -1,0 +1,794 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/bcb/bcb2015.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"76.34"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"127",
+"@dc":"127",
+"@oc":"127",
+"@id":"48874691",
+"text":":facetid:toc:db/conf/bcb/bcb2015.bht"
+}
+},
+"hits":{
+"@total":"127",
+"@computed":"127",
+"@sent":"127",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4303604",
+"info":{"authors":{"author":[{"@pid":"124/2102","text":"Sherif Elmeligy Abdelhamid"},{"@pid":"09/7561","text":"Chris J. Kuhlman"},{"@pid":"142/2598","text":"Gizem Korkmaz"},{"@pid":"52/991","text":"Madhav V. Marathe"},{"@pid":"94/2464","text":"S. S. Ravi"}]},"title":"EDISON: a web application for computational health informatics at scale.","venue":"BCB","pages":"413-422","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/AbdelhamidKKMR15","doi":"10.1145/2808719.2808762","ee":"https://doi.org/10.1145/2808719.2808762","url":"https://dblp.org/rec/conf/bcb/AbdelhamidKKMR15"},
+"url":"URL#4303604"
+},
+{
+"@score":"1",
+"@id":"4303605",
+"info":{"authors":{"author":[{"@pid":"169/3439","text":"Armen Abnousi"},{"@pid":"44/6778","text":"Shira L. Broschat"},{"@pid":"k/AnantharamanKalyanaraman","text":"Ananth Kalyanaraman"}]},"title":"An alignment-free approach to cluster proteins using frequency of conserved k-mers.","venue":"BCB","pages":"597-606","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/AbnousiBK15","doi":"10.1145/2808719.2812223","ee":"https://doi.org/10.1145/2808719.2812223","url":"https://dblp.org/rec/conf/bcb/AbnousiBK15"},
+"url":"URL#4303605"
+},
+{
+"@score":"1",
+"@id":"4303606",
+"info":{"authors":{"author":[{"@pid":"65/9707","text":"Giuseppe Agapito"},{"@pid":"77/10786","text":"Marianna Milano"},{"@pid":"60/161","text":"Pietro Hiram Guzzi"},{"@pid":"c/MarioCannataro","text":"Mario Cannataro"}]},"title":"Efficient learning of association rules from human phenotype ontology.","venue":"BCB","pages":"568-573","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/AgapitoMGC15","doi":"10.1145/2808719.2812219","ee":"https://doi.org/10.1145/2808719.2812219","url":"https://dblp.org/rec/conf/bcb/AgapitoMGC15"},
+"url":"URL#4303606"
+},
+{
+"@score":"1",
+"@id":"4303607",
+"info":{"authors":{"author":[{"@pid":"12/10415","text":"Md Abdul Alim"},{"@pid":"140/6311","text":"Ahmet Ay"},{"@pid":"123/7949","text":"Md Mahmudul Hasan"},{"@pid":"63/4711","text":"My T. Thai"},{"@pid":"k/TamerKahveci","text":"Tamer Kahveci"}]},"title":"Multiple reference networks improve accuracy of signaling network construction.","venue":"BCB","pages":"176-185","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/AlimAHTK15","doi":"10.1145/2808719.2808737","ee":"https://doi.org/10.1145/2808719.2808737","url":"https://dblp.org/rec/conf/bcb/AlimAHTK15"},
+"url":"URL#4303607"
+},
+{
+"@score":"1",
+"@id":"4303608",
+"info":{"authors":{"author":[{"@pid":"48/10411","text":"Meltem Apaydin"},{"@pid":"74/2630-1","text":"Bo Zeng 0001"},{"@pid":"116/6454","text":"Shaogang Ren"},{"@pid":"62/4504","text":"Xiaoning Qian"}]},"title":"A computationally efficient solution strategy for optimal gene knockouts for targeted overproduction.","venue":"BCB","pages":"653-654","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/ApaydinZRQ15","doi":"10.1145/2808719.2814834","ee":"https://doi.org/10.1145/2808719.2814834","url":"https://dblp.org/rec/conf/bcb/ApaydinZRQ15"},
+"url":"URL#4303608"
+},
+{
+"@score":"1",
+"@id":"4303609",
+"info":{"authors":{"author":[{"@pid":"169/3179","text":"Cody L. Arbuckle"},{"@pid":"169/3249","text":"Milton L. Greenberg"},{"@pid":"45/4106","text":"Erik Linstead"}]},"title":"Detection and tracking of T cells in time-lapse imaging.","venue":"BCB","pages":"545-546","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/ArbuckleGL15","doi":"10.1145/2808719.2811457","ee":"https://doi.org/10.1145/2808719.2811457","url":"https://dblp.org/rec/conf/bcb/ArbuckleGL15"},
+"url":"URL#4303609"
+},
+{
+"@score":"1",
+"@id":"4303610",
+"info":{"authors":{"author":[{"@pid":"169/3398","text":"Dustin Atchley"},{"@pid":"116/4919","text":"Juan Gutierrez"}]},"title":"A robotics approach to analysis of non-isotropic random walks.","venue":"BCB","pages":"511","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/AtchleyG15","doi":"10.1145/2808719.2811434","ee":"https://doi.org/10.1145/2808719.2811434","url":"https://dblp.org/rec/conf/bcb/AtchleyG15"},
+"url":"URL#4303610"
+},
+{
+"@score":"1",
+"@id":"4303611",
+"info":{"authors":{"author":[{"@pid":"169/3373","text":"Aseel Awdeh"},{"@pid":"60/10998","text":"Hilary Phenix"},{"@pid":"10/10998","text":"Mads Kærn"},{"@pid":"61/1500","text":"Theodore J. Perkins"}]},"title":"The potential power of dynamics in epistasis analysis.","venue":"BCB","pages":"106-115","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/AwdehPKP15","doi":"10.1145/2808719.2808730","ee":"https://doi.org/10.1145/2808719.2808730","url":"https://dblp.org/rec/conf/bcb/AwdehPKP15"},
+"url":"URL#4303611"
+},
+{
+"@score":"1",
+"@id":"4303612",
+"info":{"authors":{"author":[{"@pid":"09/9078","text":"Marzieh Ayati"},{"@pid":"08/5667","text":"Mehmet Koyutürk"}]},"title":"Assessing the collective disease association of multiple genomic loci.","venue":"BCB","pages":"376-385","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/AyatiK15","doi":"10.1145/2808719.2808758","ee":"https://doi.org/10.1145/2808719.2808758","url":"https://dblp.org/rec/conf/bcb/AyatiK15"},
+"url":"URL#4303612"
+},
+{
+"@score":"1",
+"@id":"4303613",
+"info":{"authors":{"author":[{"@pid":"134/2090","text":"Sungchul Bae"},{"@pid":"82/573","text":"Il Kon Kim"},{"@pid":"169/3153","text":"Dong Geun Suh"}]},"title":"eClaim System based on IHE XDR.","venue":"BCB","pages":"531-532","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/BaeKS15","doi":"10.1145/2808719.2811446","ee":"https://doi.org/10.1145/2808719.2811446","url":"https://dblp.org/rec/conf/bcb/BaeKS15"},
+"url":"URL#4303613"
+},
+{
+"@score":"1",
+"@id":"4303614",
+"info":{"authors":{"author":[{"@pid":"169/3340","text":"Amir H. Bayegan"},{"@pid":"67/938","text":"Peter Clote"}]},"title":"Structural diversity measures for RNA.","venue":"BCB","pages":"501-502","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/BayeganC15","doi":"10.1145/2808719.2811428","ee":"https://doi.org/10.1145/2808719.2811428","url":"https://dblp.org/rec/conf/bcb/BayeganC15"},
+"url":"URL#4303614"
+},
+{
+"@score":"1",
+"@id":"4303615",
+"info":{"authors":{"author":[{"@pid":"151/6310","text":"Elisabetta Bergamini"},{"@pid":"169/3460","text":"Romina D&apos;Aurizio"},{"@pid":"84/6716","text":"Mauro Leoncini"},{"@pid":"p/MPellegrini","text":"Marco Pellegrini 0001"}]},"title":"CNVScan: detecting borderline copy number variations in NGS data via scan statistics.","venue":"BCB","pages":"335-344","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/BergaminiDLP15","doi":"10.1145/2808719.2808754","ee":"https://doi.org/10.1145/2808719.2808754","url":"https://dblp.org/rec/conf/bcb/BergaminiDLP15"},
+"url":"URL#4303615"
+},
+{
+"@score":"1",
+"@id":"4303616",
+"info":{"authors":{"author":[{"@pid":"161/5724","text":"Urmi Bhayani"},{"@pid":"63/1070","text":"John A. Springer"}]},"title":"Toward an analytical framework for proteomics software.","venue":"BCB","pages":"582-588","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/BhayaniS15","doi":"10.1145/2808719.2812221","ee":"https://doi.org/10.1145/2808719.2812221","url":"https://dblp.org/rec/conf/bcb/BhayaniS15"},
+"url":"URL#4303616"
+},
+{
+"@score":"1",
+"@id":"4303617",
+"info":{"authors":{"author":[{"@pid":"152/9412","text":"Elizabeth Brooks"},{"@pid":"169/3462","text":"Alison Scoville"},{"@pid":"69/4927","text":"Filip Jagodzinski"}]},"title":"An extensible software infrastructure for testing the evolutionary consequences of developmental interactions.","venue":"BCB","pages":"557-558","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/BrooksSJ15","doi":"10.1145/2808719.2816837","ee":"https://doi.org/10.1145/2808719.2816837","url":"https://dblp.org/rec/conf/bcb/BrooksSJ15"},
+"url":"URL#4303617"
+},
+{
+"@score":"1",
+"@id":"4303618",
+"info":{"authors":{"author":[{"@pid":"169/3178","text":"Michael Camara"},{"@pid":"126/7660","text":"Oliver Bonham-Carter"},{"@pid":"75/2771","text":"Janyl Jumadinova"}]},"title":"A multi-agent system with reinforcement learning agents for biomedical text mining.","venue":"BCB","pages":"634-643","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/CamaraBJ15","doi":"10.1145/2808719.2812596","ee":"https://doi.org/10.1145/2808719.2812596","url":"https://dblp.org/rec/conf/bcb/CamaraBJ15"},
+"url":"URL#4303618"
+},
+{
+"@score":"1",
+"@id":"4303619",
+"info":{"authors":{"author":[{"@pid":"137/7744","text":"Shaolong Cao"},{"@pid":"15/4953","text":"Huaizhen Qin"},{"@pid":"169/3450","text":"Alexej Gossmann"},{"@pid":"02/1248","text":"Hong-Wen Deng"},{"@pid":"29/3814-2","text":"Yu-Ping Wang 0002"}]},"title":"Unified tests for fine scale mapping and identifying sparse high-dimensional sequence associations.","venue":"BCB","pages":"241-249","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/CaoQGDW15","doi":"10.1145/2808719.2808744","ee":"https://doi.org/10.1145/2808719.2808744","url":"https://dblp.org/rec/conf/bcb/CaoQGDW15"},
+"url":"URL#4303619"
+},
+{
+"@score":"1",
+"@id":"4303620",
+"info":{"authors":{"author":{"@pid":"19/9287","text":"Salvador Eugenio C. Caoili"}},"title":"Analogy-based entropic similarity between observations and/or predictions (AESOP): an entropically weighted information-theoretic measure for benchmarking computational accuracy.","venue":"BCB","pages":"495-496","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/Caoili15","doi":"10.1145/2808719.2811425","ee":"https://doi.org/10.1145/2808719.2811425","url":"https://dblp.org/rec/conf/bcb/Caoili15"},
+"url":"URL#4303620"
+},
+{
+"@score":"1",
+"@id":"4303621",
+"info":{"authors":{"author":[{"@pid":"90/2030","text":"Deukhyun Cha"},{"@pid":"45/47-5","text":"Qin Zhang 0005"},{"@pid":"129/5477","text":"Jesmin Jahan Tithi"},{"@pid":"02/8414","text":"Alexander Rand"},{"@pid":"05/3310","text":"Rezaul Alam Chowdhury"},{"@pid":"b/ChandrajitLBajaj","text":"Chandrajit L. Bajaj"}]},"title":"Accelerated molecular mechanical and solvation energetics on multicore CPUs and manycore GPUs.","venue":"BCB","pages":"222-231","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/ChaZTRCB15","doi":"10.1145/2808719.2808742","ee":"https://doi.org/10.1145/2808719.2808742","url":"https://dblp.org/rec/conf/bcb/ChaZTRCB15"},
+"url":"URL#4303621"
+},
+{
+"@score":"1",
+"@id":"4303622",
+"info":{"authors":{"author":[{"@pid":"169/3378","text":"Zihe Chen"},{"@pid":"74/9794","text":"Hu Ding"},{"@pid":"34/11044","text":"Danyang Chen"},{"@pid":"02/6128-17","text":"Xiangyu Wang 0017"},{"@pid":"155/3321","text":"Andrew J. Fritz"},{"@pid":"169/3473","text":"Nitasha Sehgal"},{"@pid":"23/6910","text":"Ronald Berezney"},{"@pid":"24/6437-1","text":"Jinhui Xu 0001"}]},"title":"Mining k-median chromosome association graphs from a population of heterogeneous cells.","venue":"BCB","pages":"47-56","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/ChenDCWFSBX15","doi":"10.1145/2808719.2808724","ee":"https://doi.org/10.1145/2808719.2808724","url":"https://dblp.org/rec/conf/bcb/ChenDCWFSBX15"},
+"url":"URL#4303622"
+},
+{
+"@score":"1",
+"@id":"4303623",
+"info":{"authors":{"author":[{"@pid":"22/7566","text":"Peihua Chen"},{"@pid":"169/3367","text":"Weiheng Huang"},{"@pid":"24/803","text":"Wei Shao"},{"@pid":"50/3384","text":"Hongmin Cai"}]},"title":"Discrimination of recurrent CNVs from individual ones from multisample aCGH by jointly constrained minimization.","venue":"BCB","pages":"186-193","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/ChenHSC15","doi":"10.1145/2808719.2808738","ee":"https://doi.org/10.1145/2808719.2808738","url":"https://dblp.org/rec/conf/bcb/ChenHSC15"},
+"url":"URL#4303623"
+},
+{
+"@score":"1",
+"@id":"4303624",
+"info":{"authors":{"author":[{"@pid":"144/3265","text":"Minghan Chen"},{"@pid":"87/3534-13","text":"Fei Li 0013"},{"@pid":"155/2860","text":"Kartik Subramanian"},{"@pid":"39/1242","text":"John J. Tyson"},{"@pid":"25/7045-1","text":"Yang Cao 0001"}]},"title":"Two-dimensional model of bipolar PopZ polymerization in caulobacter crescentus.","venue":"BCB","pages":"37-46","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/ChenLSTC15","doi":"10.1145/2808719.2808723","ee":"https://doi.org/10.1145/2808719.2808723","url":"https://dblp.org/rec/conf/bcb/ChenLSTC15"},
+"url":"URL#4303624"
+},
+{
+"@score":"1",
+"@id":"4303625",
+"info":{"authors":{"author":[{"@pid":"21/3047-16","text":"Feng Chen 0016"},{"@pid":"94/1458","text":"Noman Mohammed"},{"@pid":"86/220-2","text":"Shuang Wang 0002"},{"@pid":"45/2682","text":"Wenbo He"},{"@pid":"00/340","text":"Samuel Cheng 0001"},{"@pid":"43/3924","text":"Xiaoqian Jiang"}]},"title":"Cloud-assisted distributed private data sharing.","venue":"BCB","pages":"202-211","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/ChenMWHCJ15","doi":"10.1145/2808719.2808740","ee":"https://doi.org/10.1145/2808719.2808740","url":"https://dblp.org/rec/conf/bcb/ChenMWHCJ15"},
+"url":"URL#4303625"
+},
+{
+"@score":"1",
+"@id":"4303626",
+"info":{"authors":{"author":[{"@pid":"115/5553","text":"Chihwen Cheng"},{"@pid":"93/2701","text":"May D. Wang"}]},"title":"Improving personalized clinical risk prediction based on causality-based association rules.","venue":"BCB","pages":"386-392","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/ChengW15","doi":"10.1145/2808719.2808759","ee":"https://doi.org/10.1145/2808719.2808759","url":"https://dblp.org/rec/conf/bcb/ChengW15"},
+"url":"URL#4303626"
+},
+{
+"@score":"1",
+"@id":"4303627",
+"info":{"authors":{"author":{"@pid":"55/1469","text":"Robert W. Cottingham"}},"title":"The DOE systems biology knowledgebase (KBase): progress towards a system for collaborative and reproducible inference and modeling of biological function.","venue":"BCB","pages":"510","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/Cottingham15","doi":"10.1145/2808719.2811433","ee":"https://doi.org/10.1145/2808719.2811433","url":"https://dblp.org/rec/conf/bcb/Cottingham15"},
+"url":"URL#4303627"
+},
+{
+"@score":"1",
+"@id":"4303628",
+"info":{"authors":{"author":[{"@pid":"169/3409","text":"K. Jason Crandall"},{"@pid":"169/3339","text":"Matthew Shake"},{"@pid":"26/3931","text":"Guangming Xing"}]},"title":"Bingocize® 3.0: a game based platform for promoting wellness in older adults.","venue":"BCB","pages":"478-479","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/CrandallSX15","doi":"10.1145/2808719.2811416","ee":"https://doi.org/10.1145/2808719.2811416","url":"https://dblp.org/rec/conf/bcb/CrandallSX15"},
+"url":"URL#4303628"
+},
+{
+"@score":"1",
+"@id":"4303629",
+"info":{"authors":{"author":[{"@pid":"153/2156","text":"Joseph Crawford"},{"@pid":"140/9530","text":"Yihan Sun 0001"},{"@pid":"38/7108","text":"Tijana Milenkovic"}]},"title":"Fair evaluation of global network aligners.","venue":"BCB","pages":"490","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/CrawfordSM15","doi":"10.1145/2808719.2811423","ee":"https://doi.org/10.1145/2808719.2811423","url":"https://dblp.org/rec/conf/bcb/CrawfordSM15"},
+"url":"URL#4303629"
+},
+{
+"@score":"1",
+"@id":"4303630",
+"info":{"authors":{"author":[{"@pid":"96/3307","text":"Xuefeng Cui"},{"@pid":"66/1569","text":"Hiroyuki Kuwahara"},{"@pid":"58/3258","text":"Shuai Cheng Li 0001"},{"@pid":"56/2203-1","text":"Xin Gao 0001"}]},"title":"Compare local pocket and global protein structure models by small structure patterns.","venue":"BCB","pages":"355-365","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/CuiKLG15","doi":"10.1145/2808719.2808756","ee":"https://doi.org/10.1145/2808719.2808756","url":"https://dblp.org/rec/conf/bcb/CuiKLG15"},
+"url":"URL#4303630"
+},
+{
+"@score":"1",
+"@id":"4303631",
+"info":{"authors":{"author":[{"@pid":"96/3307","text":"Xuefeng Cui"},{"@pid":"164/0879","text":"Hammad Naveed"},{"@pid":"56/2203-1","text":"Xin Gao 0001"}]},"title":"Pairwise structure alignment specifically tuned for surface pockets and interaction interfaces.","venue":"BCB","pages":"507-508","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/CuiNG15","doi":"10.1145/2808719.2811431","ee":"https://doi.org/10.1145/2808719.2811431","url":"https://dblp.org/rec/conf/bcb/CuiNG15"},
+"url":"URL#4303631"
+},
+{
+"@score":"1",
+"@id":"4303632",
+"info":{"authors":{"author":[{"@pid":"45/7416","text":"Dan F. DeBlasio"},{"@pid":"k/JDKececioglu","text":"John D. Kececioglu"}]},"title":"Ensemble multiple sequence alignment via advising.","venue":"BCB","pages":"452-461","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/DeBlasioK15","doi":"10.1145/2808719.2808766","ee":"https://doi.org/10.1145/2808719.2808766","url":"https://dblp.org/rec/conf/bcb/DeBlasioK15"},
+"url":"URL#4303632"
+},
+{
+"@score":"1",
+"@id":"4303633",
+"info":{"authors":{"author":[{"@pid":"24/4856","text":"Xin Deng"},{"@pid":"85/5176","text":"Donghui Wu"}]},"title":"Senior health management through internet of things and real-time big data analytics.","venue":"BCB","pages":"674","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/DengW15","doi":"10.1145/2808719.2816981","ee":"https://doi.org/10.1145/2808719.2816981","url":"https://dblp.org/rec/conf/bcb/DengW15"},
+"url":"URL#4303633"
+},
+{
+"@score":"1",
+"@id":"4303634",
+"info":{"authors":{"author":[{"@pid":"24/4856","text":"Xin Deng"},{"@pid":"85/5176","text":"Donghui Wu"}]},"title":"Big data and predictive modeling topics in healthcare.","venue":"BCB","pages":"677","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/DengW15a","doi":"10.1145/2808719.2816984","ee":"https://doi.org/10.1145/2808719.2816984","url":"https://dblp.org/rec/conf/bcb/DengW15a"},
+"url":"URL#4303634"
+},
+{
+"@score":"1",
+"@id":"4303635",
+"info":{"authors":{"author":[{"@pid":"50/10372","text":"Suruchi Deodhar"},{"@pid":"46/3838","text":"Jiangzhuo Chen"},{"@pid":"140/3205","text":"Mandy L. Wilson"},{"@pid":"43/1779","text":"Keith R. Bisset"},{"@pid":"75/3334","text":"Christopher L. Barrett"},{"@pid":"52/991","text":"Madhav V. Marathe"}]},"title":"EpiCaster: an integrated web application for situation assessment and forecasting of global epidemics.","venue":"BCB","pages":"156-165","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/DeodharCWBBM15","doi":"10.1145/2808719.2808735","ee":"https://doi.org/10.1145/2808719.2808735","url":"https://dblp.org/rec/conf/bcb/DeodharCWBBM15"},
+"url":"URL#4303635"
+},
+{
+"@score":"1",
+"@id":"4303636",
+"info":{"authors":{"author":[{"@pid":"169/3289","text":"Nikhil Devraj"},{"@pid":"119/5124","text":"Michael Chary"}]},"title":"How do Twitter, Wikipedia, and Harrison&apos;s principles of medicine describe heart attacks?","venue":"BCB","pages":"610-614","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/DevrajC15","doi":"10.1145/2808719.2812591","ee":"https://doi.org/10.1145/2808719.2812591","url":"https://dblp.org/rec/conf/bcb/DevrajC15"},
+"url":"URL#4303636"
+},
+{
+"@score":"1",
+"@id":"4303637",
+"info":{"authors":{"author":[{"@pid":"169/3344","text":"Henry Dewhurst"},{"@pid":"169/3370","text":"Matthew Torres"}]},"title":"Structural analysis of PTM hotspots (SAPH-ire): a tool for the prediction of regulatory post-translational modification elements in protein families.","venue":"BCB","pages":"556","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/DewhurstT15","doi":"10.1145/2808719.2816836","ee":"https://doi.org/10.1145/2808719.2816836","url":"https://dblp.org/rec/conf/bcb/DewhurstT15"},
+"url":"URL#4303637"
+},
+{
+"@score":"1",
+"@id":"4303638",
+"info":{"authors":{"author":[{"@pid":"169/3270","text":"Megan Druce"},{"@pid":"169/3330","text":"Paula Sommer"},{"@pid":"24/2321","text":"Philippe Le Mercier"},{"@pid":"90/4487","text":"Chantal Hulo"},{"@pid":"87/6850","text":"Patrick Masson"},{"@pid":"39/717","text":"Tulio de Oliveira"}]},"title":"Human immunodeficiency virus (HIV) proteomics resource at BioAfrica.","venue":"BCB","pages":"497-498","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/DruceSMHMO15","doi":"10.1145/2808719.2811426","ee":"https://doi.org/10.1145/2808719.2811426","url":"https://dblp.org/rec/conf/bcb/DruceSMHMO15"},
+"url":"URL#4303638"
+},
+{
+"@score":"1",
+"@id":"4303639",
+"info":{"authors":{"author":[{"@pid":"91/5685","text":"Vincent A. Emanuele II"},{"@pid":"29/4384","text":"David Lloyd"}]},"title":"Building and implementing data science products to change healthcare IT.","venue":"BCB","pages":"673","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/EmanueleL15","doi":"10.1145/2808719.2816980","ee":"https://doi.org/10.1145/2808719.2816980","url":"https://dblp.org/rec/conf/bcb/EmanueleL15"},
+"url":"URL#4303639"
+},
+{
+"@score":"1",
+"@id":"4303640",
+"info":{"authors":{"author":[{"@pid":"160/5940","text":"Sherry Emery"},{"@pid":"29/2032","text":"Christophe G. Giraud-Carrier"}]},"title":"Introduction to the workshop on computational health science.","venue":"BCB","pages":"607-609","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/EmeryG15","doi":"10.1145/2808719.2812594","ee":"https://doi.org/10.1145/2808719.2812594","url":"https://dblp.org/rec/conf/bcb/EmeryG15"},
+"url":"URL#4303640"
+},
+{
+"@score":"1",
+"@id":"4303641",
+"info":{"authors":{"author":[{"@pid":"86/7989","text":"Darya Filippova"},{"@pid":"75/4537","text":"Carl Kingsford"}]},"title":"Rapid, separable compression enables fast analyses of sequence alignments.","venue":"BCB","pages":"194-201","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/FilippovaK15","doi":"10.1145/2808719.2808739","ee":"https://doi.org/10.1145/2808719.2808739","url":"https://dblp.org/rec/conf/bcb/FilippovaK15"},
+"url":"URL#4303641"
+},
+{
+"@score":"1",
+"@id":"4303642",
+"info":{"authors":{"author":[{"@pid":"137/8103","text":"Haitham Gabr"},{"@pid":"68/3272","text":"Alin Dobra"},{"@pid":"k/TamerKahveci","text":"Tamer Kahveci"}]},"title":"Estimating reachability in dense biological networks.","venue":"BCB","pages":"86-95","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/GabrDK15","doi":"10.1145/2808719.2808728","ee":"https://doi.org/10.1145/2808719.2808728","url":"https://dblp.org/rec/conf/bcb/GabrDK15"},
+"url":"URL#4303642"
+},
+{
+"@score":"1",
+"@id":"4303643",
+"info":{"authors":{"author":[{"@pid":"137/8103","text":"Haitham Gabr"},{"@pid":"169/3481","text":"Juan Carlos Rivera-Mulia"},{"@pid":"49/7103","text":"David M. Gilbert"},{"@pid":"k/TamerKahveci","text":"Tamer Kahveci"}]},"title":"Computing interaction probabilities in signaling networks.","venue":"BCB","pages":"646","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/GabrRGK15","doi":"10.1145/2808719.2814829","ee":"https://doi.org/10.1145/2808719.2814829","url":"https://dblp.org/rec/conf/bcb/GabrRGK15"},
+"url":"URL#4303643"
+},
+{
+"@score":"1",
+"@id":"4303644",
+"info":{"authors":{"author":[{"@pid":"46/7352","text":"Pugalendhi GaneshKumar"},{"@pid":"17/2037","text":"Ku-Jin Kim"}]},"title":"Intelligent F-information for genetic swarm algorithm based fuzzy expert system.","venue":"BCB","pages":"474-475","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/GaneshKumarK15","doi":"10.1145/2808719.2811414","ee":"https://doi.org/10.1145/2808719.2811414","url":"https://dblp.org/rec/conf/bcb/GaneshKumarK15"},
+"url":"URL#4303644"
+},
+{
+"@score":"1",
+"@id":"4303645",
+"info":{"authors":{"author":[{"@pid":"28/10933","text":"Juan Antonio García-Martín"},{"@pid":"67/938","text":"Peter Clote"}]},"title":"Poster abstract: RNA thermodynamic conformational entropy.","venue":"BCB","pages":"482-483","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/Garcia-MartinC15","doi":"10.1145/2808719.2811418","ee":"https://doi.org/10.1145/2808719.2811418","url":"https://dblp.org/rec/conf/bcb/Garcia-MartinC15"},
+"url":"URL#4303645"
+},
+{
+"@score":"1",
+"@id":"4303646",
+"info":{"authors":{"author":[{"@pid":"35/10890","text":"Asish Ghoshal"},{"@pid":"g/AnanthGrama","text":"Ananth Grama"},{"@pid":"57/95","text":"Saurabh Bagchi"},{"@pid":"157/2828","text":"Somali Chaterji"}]},"title":"An ensemble SVM model for the accurate prediction of non-canonical MicroRNA targets.","venue":"BCB","pages":"403-412","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/GhoshalGBC15","doi":"10.1145/2808719.2808761","ee":"https://doi.org/10.1145/2808719.2808761","url":"https://dblp.org/rec/conf/bcb/GhoshalGBC15"},
+"url":"URL#4303646"
+},
+{
+"@score":"1",
+"@id":"4303647",
+"info":{"authors":{"author":[{"@pid":"119/4895","text":"Shivani Goel"},{"@pid":"s/SKalvala","text":"Sara Kalvala"}]},"title":"PlasMatch: a tool for choosing usable restriction enzymes and plasmid backbones.","venue":"BCB","pages":"499-500","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/GoelK15","doi":"10.1145/2808719.2811570","ee":"https://doi.org/10.1145/2808719.2811570","url":"https://dblp.org/rec/conf/bcb/GoelK15"},
+"url":"URL#4303647"
+},
+{
+"@score":"1",
+"@id":"4303648",
+"info":{"authors":{"author":[{"@pid":"169/3450","text":"Alexej Gossmann"},{"@pid":"137/7744","text":"Shaolong Cao"},{"@pid":"29/3814-2","text":"Yu-Ping Wang 0002"}]},"title":"Identification of significant genetic variants via SLOPE, and its extension to group SLOPE.","venue":"BCB","pages":"232-240","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/GossmannCW15","doi":"10.1145/2808719.2808743","ee":"https://doi.org/10.1145/2808719.2808743","url":"https://dblp.org/rec/conf/bcb/GossmannCW15"},
+"url":"URL#4303648"
+},
+{
+"@score":"1",
+"@id":"4303649",
+"info":{"authors":{"author":[{"@pid":"169/3204","text":"Namjin Gu"},{"@pid":"192/6782","text":"Yongmin Kim"},{"@pid":"169/3459","text":"Ryan W. Kim"}]},"title":"Detection of a fusion gene using soft-clipping reads in exome-sequencing data.","venue":"BCB","pages":"486","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/GuKK15","doi":"10.1145/2808719.2811420","ee":"https://doi.org/10.1145/2808719.2811420","url":"https://dblp.org/rec/conf/bcb/GuKK15"},
+"url":"URL#4303649"
+},
+{
+"@score":"1",
+"@id":"4303650",
+"info":{"authors":{"author":[{"@pid":"169/3190","text":"Yarong Gu"},{"@pid":"169/3335","text":"Xianying Liu"},{"@pid":"34/6522-1","text":"Qiang Zhu 0001"},{"@pid":"119/9462","text":"Youchao Dong"},{"@pid":"11/4436","text":"C. Titus Brown"},{"@pid":"p/SaktiPramanik","text":"Sakti Pramanik"}]},"title":"A new method for DNA sequencing error verification and correction via an on-disk index tree.","venue":"BCB","pages":"503-504","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/GuLZDBP15","doi":"10.1145/2808719.2811429","ee":"https://doi.org/10.1145/2808719.2811429","url":"https://dblp.org/rec/conf/bcb/GuLZDBP15"},
+"url":"URL#4303650"
+},
+{
+"@score":"1",
+"@id":"4303651",
+"info":{"authors":{"author":{"@pid":"g/DanGusfield","text":"Dan Gusfield"}},"title":"Persistent phylogeny: a galled-tree and integer linear programming approach.","venue":"BCB","pages":"443-451","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/Gusfield15","doi":"10.1145/2808719.2808765","ee":"https://doi.org/10.1145/2808719.2808765","url":"https://dblp.org/rec/conf/bcb/Gusfield15"},
+"url":"URL#4303651"
+},
+{
+"@score":"1",
+"@id":"4303652",
+"info":{"authors":{"author":[{"@pid":"60/161","text":"Pietro Hiram Guzzi"},{"@pid":"77/10786","text":"Marianna Milano"},{"@pid":"120/3692","text":"Swarup Roy"}]},"title":"Towards the assessment of GRN algorithms based on (disease) ontology.","venue":"BCB","pages":"561-567","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/GuzziMR15","doi":"10.1145/2808719.2812218","ee":"https://doi.org/10.1145/2808719.2812218","url":"https://dblp.org/rec/conf/bcb/GuzziMR15"},
+"url":"URL#4303652"
+},
+{
+"@score":"1",
+"@id":"4303653",
+"info":{"authors":{"author":[{"@pid":"64/9083","text":"Ayat Hatem"},{"@pid":"53/6185","text":"Kamer Kaya"},{"@pid":"89/4154","text":"Jeffrey D. Parvin"},{"@pid":"10/4151-1","text":"Kun Huang 0001"},{"@pid":"c/UmitVCatalyurek","text":"Ümit V. Çatalyürek"}]},"title":"MICA: MicroRNA integration for active module discovery.","venue":"BCB","pages":"136-145","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/HatemKPHC15","doi":"10.1145/2808719.2808733","ee":"https://doi.org/10.1145/2808719.2808733","url":"https://dblp.org/rec/conf/bcb/HatemKPHC15"},
+"url":"URL#4303653"
+},
+{
+"@score":"1",
+"@id":"4303654",
+"info":{"authors":{"author":[{"@pid":"169/3216","text":"Anhong He"},{"@pid":"164/5064","text":"Benika Hall"},{"@pid":"84/121","text":"Jia Wen"},{"@pid":"51/332","text":"Yingbin Liang"},{"@pid":"56/4047","text":"Xinghua Shi"}]},"title":"Sequential parallel LASSO models for eQTL analysis.","venue":"BCB","pages":"533-534","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/HeHWLS15","doi":"10.1145/2808719.2811449","ee":"https://doi.org/10.1145/2808719.2811449","url":"https://dblp.org/rec/conf/bcb/HeHWLS15"},
+"url":"URL#4303654"
+},
+{
+"@score":"1",
+"@id":"4303655",
+"info":{"authors":{"author":[{"@pid":"77/2036-1","text":"Dan He 0001"},{"@pid":"61/5722","text":"Laxmi Parida"}]},"title":"SAME: a sampling-based multi-locus epistasis algorithm for quantitative genetic trait prediction.","venue":"BCB","pages":"286-295","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/HeP15","doi":"10.1145/2808719.2808749","ee":"https://doi.org/10.1145/2808719.2808749","url":"https://dblp.org/rec/conf/bcb/HeP15"},
+"url":"URL#4303655"
+},
+{
+"@score":"1",
+"@id":"4303656",
+"info":{"authors":{"author":[{"@pid":"19/9830","text":"Christopher Hoobin"},{"@pid":"169/3393","text":"Trey Kind"},{"@pid":"04/4610","text":"Christina Boucher 0001"},{"@pid":"p/SimonJPuglisi","text":"Simon J. Puglisi"}]},"title":"Fast and efficient compression of high-throughput sequencing reads.","venue":"BCB","pages":"325-334","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/HoobinKBP15","doi":"10.1145/2808719.2808753","ee":"https://doi.org/10.1145/2808719.2808753","url":"https://dblp.org/rec/conf/bcb/HoobinKBP15"},
+"url":"URL#4303656"
+},
+{
+"@score":"1",
+"@id":"4303657",
+"info":{"authors":{"author":[{"@pid":"70/1283","text":"Yue Hou"},{"@pid":"89/9774","text":"Lee Cooper 0001"},{"@pid":"169/3243","text":"Scott Wilkinson"},{"@pid":"69/5192","text":"Adam I. Marcus"},{"@pid":"07/8760","text":"Daniel J. Brat"}]},"title":"Spatiotemporal visualization of cell membrane dynamics and protein colocalization reveals correlation between membrane dynamics and metastatic invasion.","venue":"BCB","pages":"476-477","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/HouCWMB15","doi":"10.1145/2808719.2811415","ee":"https://doi.org/10.1145/2808719.2811415","url":"https://dblp.org/rec/conf/bcb/HouCWMB15"},
+"url":"URL#4303657"
+},
+{
+"@score":"1",
+"@id":"4303658",
+"info":{"authors":{"author":[{"@pid":"18/1763-18","text":"Lei Huang 0018"},{"@pid":"11/2584","text":"Li Liao"},{"@pid":"w/CathyHWu","text":"Cathy H. Wu"}]},"title":"Inference of protein-protein interaction networks from multiple heterogeneous data.","venue":"BCB","pages":"655","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/HuangLW15","doi":"10.1145/2808719.2814836","ee":"https://doi.org/10.1145/2808719.2814836","url":"https://dblp.org/rec/conf/bcb/HuangLW15"},
+"url":"URL#4303658"
+},
+{
+"@score":"1",
+"@id":"4303659",
+"info":{"authors":{"author":[{"@pid":"126/6869","text":"Nikolai V. Ivanov"},{"@pid":"140/4984","text":"Carine Poussin"},{"@pid":"11/5337","text":"Stéphanie Boué"},{"@pid":"181/2708","text":"Florian Martin 0002"},{"@pid":"84/2019","text":"Alain Sewer"},{"@pid":"169/3180","text":"Bjoern Titz"},{"@pid":"31/3297","text":"Manuel C. Peitsch"},{"@pid":"23/11263","text":"Julia Hoeng"}]},"title":"The systems toxicology challenge: how to leverage omics data to predict mechanisms of toxicity?","venue":"BCB","pages":"487","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/IvanovPBMSTPH15","doi":"10.1145/2808719.2811421","ee":"https://doi.org/10.1145/2808719.2811421","url":"https://dblp.org/rec/conf/bcb/IvanovPBMSTPH15"},
+"url":"URL#4303659"
+},
+{
+"@score":"1",
+"@id":"4303660",
+"info":{"authors":{"author":[{"@pid":"169/3395","text":"Raehoon Jeong"},{"@pid":"62/5059","text":"Ameet Soni"}]},"title":"A comprehensive analysis of classification algorithms for cancer prediction from gene expression.","venue":"BCB","pages":"525-526","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/JeongS15","doi":"10.1145/2808719.2811443","ee":"https://doi.org/10.1145/2808719.2811443","url":"https://dblp.org/rec/conf/bcb/JeongS15"},
+"url":"URL#4303660"
+},
+{
+"@score":"1",
+"@id":"4303661",
+"info":{"authors":{"author":[{"@pid":"35/8198","text":"Hyundoo Jeong"},{"@pid":"14/1887","text":"Byung-Jun Yoon"}]},"title":"Identifying molecular complexes in biological networks through context sensitive network querying.","venue":"BCB","pages":"647","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/JeongY15","doi":"10.1145/2808719.2814830","ee":"https://doi.org/10.1145/2808719.2814830","url":"https://dblp.org/rec/conf/bcb/JeongY15"},
+"url":"URL#4303661"
+},
+{
+"@score":"1",
+"@id":"4303662",
+"info":{"authors":{"author":[{"@pid":"02/8490","text":"Chao Ji"},{"@pid":"29/4454","text":"Yong Fuga Li"},{"@pid":"169/3318","text":"Earl P. Bellinger"},{"@pid":"42/5038","text":"Sujun Li"},{"@pid":"91/607","text":"Randy J. Arnold"},{"@pid":"93/308","text":"Predrag Radivojac"},{"@pid":"90/3951","text":"Haixu Tang"}]},"title":"A maximum-likelihood approach to absolute protein quantification in mass spectrometry.","venue":"BCB","pages":"296-305","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/JiLBLART15","doi":"10.1145/2808719.2808750","ee":"https://doi.org/10.1145/2808719.2808750","url":"https://dblp.org/rec/conf/bcb/JiLBLART15"},
+"url":"URL#4303662"
+},
+{
+"@score":"1",
+"@id":"4303663",
+"info":{"authors":{"author":[{"@pid":"133/2560","text":"Shufan Ji"},{"@pid":"76/7625","text":"Xing Tian"},{"@pid":"03/5287-4","text":"Jin Chen 0004"}]},"title":"Improving biological significance of gene expression biclusters with key missing genes.","venue":"BCB","pages":"268-277","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/JiTC15","doi":"10.1145/2808719.2808747","ee":"https://doi.org/10.1145/2808719.2808747","url":"https://dblp.org/rec/conf/bcb/JiTC15"},
+"url":"URL#4303663"
+},
+{
+"@score":"1",
+"@id":"4303664",
+"info":{"authors":{"author":[{"@pid":"30/3494","text":"Segun Jung"},{"@pid":"169/3174","text":"Hongjian Jin"},{"@pid":"55/2246","text":"Ramana V. Davuluri"}]},"title":"Identification of candidate regulatory SNPs by integrative analysis for prostate cancer genome data.","venue":"BCB","pages":"278-285","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/JungJD15","doi":"10.1145/2808719.2808748","ee":"https://doi.org/10.1145/2808719.2808748","url":"https://dblp.org/rec/conf/bcb/JungJD15"},
+"url":"URL#4303664"
+},
+{
+"@score":"1",
+"@id":"4303665",
+"info":{"authors":{"author":[{"@pid":"36/3476","text":"Chanchala D. Kaddi"},{"@pid":"93/2701","text":"May D. Wang"}]},"title":"Developing robust predictive models for head and neck cancer across microarray and RNA-seq data.","venue":"BCB","pages":"393-402","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/KaddiW15","doi":"10.1145/2808719.2808760","ee":"https://doi.org/10.1145/2808719.2808760","url":"https://dblp.org/rec/conf/bcb/KaddiW15"},
+"url":"URL#4303665"
+},
+{
+"@score":"1",
+"@id":"4303666",
+"info":{"authors":{"author":[{"@pid":"169/3193","text":"Tumaini Kilimba"},{"@pid":"118/0393","text":"Gideon Nimako"},{"@pid":"169/3351","text":"Kobus Herbst"}]},"title":"Data everywhere: an integrated longitudinal data visualization platform for health and demographic surveillance sites.","venue":"BCB","pages":"551-552","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/KilimbaNH15","doi":"10.1145/2808719.2811460","ee":"https://doi.org/10.1145/2808719.2811460","url":"https://dblp.org/rec/conf/bcb/KilimbaNH15"},
+"url":"URL#4303666"
+},
+{
+"@score":"1",
+"@id":"4303667",
+"info":{"authors":{"author":[{"@pid":"121/2729","text":"Mansuck Kim"},{"@pid":"23/1797","text":"Huan Zhang"},{"@pid":"161/5636","text":"Charles Woloshuk"},{"@pid":"161/5767","text":"Won-Bo Shim"},{"@pid":"14/1887","text":"Byung-Jun Yoon"}]},"title":"Computational identification of key functional genes associated with fusarium verticillioides pathogenicity.","venue":"BCB","pages":"648","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/KimZWSY15","doi":"10.1145/2808719.2814831","ee":"https://doi.org/10.1145/2808719.2814831","url":"https://dblp.org/rec/conf/bcb/KimZWSY15"},
+"url":"URL#4303667"
+},
+{
+"@score":"1",
+"@id":"4303668",
+"info":{"authors":{"author":[{"@pid":"134/2612","text":"Do-Youn Lee"},{"@pid":"82/573","text":"Il Kon Kim"},{"@pid":"169/3153","text":"Dong Geun Suh"}]},"title":"Consolidated CDA-based care record summary definition and HIE system tools.","venue":"BCB","pages":"541-542","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/LeeKS15","doi":"10.1145/2808719.2811455","ee":"https://doi.org/10.1145/2808719.2811455","url":"https://dblp.org/rec/conf/bcb/LeeKS15"},
+"url":"URL#4303668"
+},
+{
+"@score":"1",
+"@id":"4303669",
+"info":{"authors":{"author":[{"@pid":"58/6214-7","text":"Sanghoon Lee 0007"},{"@pid":"91/1087","text":"Yanjun Zhao"},{"@pid":"169/3323","text":"Mohamed Eid Mahmoud Masoud"},{"@pid":"169/3147","text":"Maria Valero"},{"@pid":"20/8819","text":"Semra Kul"},{"@pid":"b/SaeidBelkasim","text":"Saeid Belkasim"}]},"title":"Domain specific information retrieval and text mining in medical document.","venue":"BCB","pages":"67-76","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/LeeZMVKB15","doi":"10.1145/2808719.2808726","ee":"https://doi.org/10.1145/2808719.2808726","url":"https://dblp.org/rec/conf/bcb/LeeZMVKB15"},
+"url":"URL#4303669"
+},
+{
+"@score":"1",
+"@id":"4303670",
+"info":{"authors":{"author":[{"@pid":"05/7766","text":"Jilong Li"},{"@pid":"130/7387","text":"Renzhi Cao"},{"@pid":"11/5762","text":"Jianlin Cheng"}]},"title":"MULTICOM: a large-scale conformation sampling and evaluation server for protein tertiary structure prediction.","venue":"BCB","pages":"537","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/LiCC15","doi":"10.1145/2808719.2811451","ee":"https://doi.org/10.1145/2808719.2811451","url":"https://dblp.org/rec/conf/bcb/LiCC15"},
+"url":"URL#4303670"
+},
+{
+"@score":"1",
+"@id":"4303671",
+"info":{"authors":{"author":[{"@pid":"05/7766","text":"Jilong Li"},{"@pid":"17/36-1","text":"Jie Hou 0001"},{"@pid":"95/6619","text":"Lin Sun"},{"@pid":"169/3187","text":"Jordan Maximillian Wilkins"},{"@pid":"10/5980","text":"Yuan Lu"},{"@pid":"169/3478","text":"Chad E. Niederhuth"},{"@pid":"169/3275","text":"Benjamin Ryan Merideth"},{"@pid":"169/3476","text":"Thomas P. Mawhinney"},{"@pid":"169/3161","text":"Valeri V. Mossine"},{"@pid":"169/3415","text":"Michael Greenlief"},{"@pid":"169/3389","text":"John C. Walker"},{"@pid":"169/3200","text":"William R. Folk"},{"@pid":"169/3229","text":"Mark Hannink"},{"@pid":"169/3311","text":"Dennis B. Lubahn"},{"@pid":"169/3244","text":"James A. Birchler"},{"@pid":"11/5762","text":"Jianlin Cheng"}]},"title":"From gigabyte to kilobyte: a bioinformatics protocol for mining large RNA-Seq transcriptomics data.","venue":"BCB","pages":"535-536","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/LiHSWLNMMMGWFHL15","doi":"10.1145/2808719.2811450","ee":"https://doi.org/10.1145/2808719.2811450","url":"https://dblp.org/rec/conf/bcb/LiHSWLNMMMGWFHL15"},
+"url":"URL#4303671"
+},
+{
+"@score":"1",
+"@id":"4303672",
+"info":{"authors":{"author":[{"@pid":"66/3387","text":"Hui Li"},{"@pid":"39/10323","text":"Xiaoyi Li"},{"@pid":"118/5304","text":"Xiaowei Jia"},{"@pid":"09/5423","text":"Murali Ramanathan"},{"@pid":"z/AidongZhang","text":"Aidong Zhang"}]},"title":"Bone disease prediction and phenotype discovery using feature representation over electronic health records.","venue":"BCB","pages":"212-221","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/LiLJRZ15","doi":"10.1145/2808719.2808741","ee":"https://doi.org/10.1145/2808719.2808741","url":"https://dblp.org/rec/conf/bcb/LiLJRZ15"},
+"url":"URL#4303672"
+},
+{
+"@score":"1",
+"@id":"4303673",
+"info":{"authors":{"author":[{"@pid":"86/9769","text":"Dingcheng Li"},{"@pid":"34/7455","text":"Majid Rastegar-Mojarad"},{"@pid":"26/4266","text":"Ravikumar Komandur Elayavilli"},{"@pid":"45/11295","text":"Yanshan Wang"},{"@pid":"15/7354-3","text":"Saeed Mehrabi 0003"},{"@pid":"55/2008","text":"Yue Yu"},{"@pid":"91/3328","text":"Sunghwan Sohn"},{"@pid":"78/3399","text":"Yanpeng Li"},{"@pid":"98/9686","text":"Naveed Afzal"},{"@pid":"92/2407","text":"Hongfang Liu"}]},"title":"A frequency-filtering strategy of obtaining PHI-free sentences from clinical data repository.","venue":"BCB","pages":"315-324","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/LiREWMYSLAL15","doi":"10.1145/2808719.2808752","ee":"https://doi.org/10.1145/2808719.2808752","url":"https://dblp.org/rec/conf/bcb/LiREWMYSLAL15"},
+"url":"URL#4303673"
+},
+{
+"@score":"1",
+"@id":"4303674",
+"info":{"authors":{"author":[{"@pid":"156/7471","text":"Yiheng Liang"},{"@pid":"15/763","text":"Armin R. Mikler"}]},"title":"Learning causal structures with background knowledge in health data.","venue":"BCB","pages":"676","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/LiangM15","doi":"10.1145/2808719.2816983","ee":"https://doi.org/10.1145/2808719.2816983","url":"https://dblp.org/rec/conf/bcb/LiangM15"},
+"url":"URL#4303674"
+},
+{
+"@score":"1",
+"@id":"4303675",
+"info":{"authors":{"author":[{"@pid":"169/3334","text":"Rangjiao Roger Liu"},{"@pid":"66/8303","text":"Anuradha Lakshminarayana"},{"@pid":"169/3428","text":"Daniel Durkin"},{"@pid":"169/3467","text":"Sara Patterson"},{"@pid":"169/3444","text":"Craig Hanna"},{"@pid":"74/7386","text":"Grace A. Stafford"},{"@pid":"169/3479","text":"Guruprasad Ananda"},{"@pid":"169/3197","text":"Krishna M. Karuturi"},{"@pid":"169/3316","text":"Susan M. Mockus"}]},"title":"Clinical knowledgebase to interprete genomic variations from targeted exome sequencing of patient tumor samples.","venue":"BCB","pages":"509","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/LiuLDPHSAKM15","doi":"10.1145/2808719.2811432","ee":"https://doi.org/10.1145/2808719.2811432","url":"https://dblp.org/rec/conf/bcb/LiuLDPHSAKM15"},
+"url":"URL#4303675"
+},
+{
+"@score":"1",
+"@id":"4303676",
+"info":{"authors":{"author":[{"@pid":"37/4099","text":"Xun Lu"},{"@pid":"142/9150","text":"Aston Zhang"},{"@pid":"g/CarlAGunter","text":"Carl A. Gunter"},{"@pid":"17/7449","text":"Daniel Fabbri"},{"@pid":"31/10314","text":"David M. Liebovitz"},{"@pid":"m/BradleyMalin","text":"Bradley A. Malin"}]},"title":"Discovering de facto diagnosis specialties.","venue":"BCB","pages":"7-16","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/LuZGFLM15","doi":"10.1145/2808719.2808720","ee":"https://doi.org/10.1145/2808719.2808720","url":"https://dblp.org/rec/conf/bcb/LuZGFLM15"},
+"url":"URL#4303676"
+},
+{
+"@score":"1",
+"@id":"4303677",
+"info":{"authors":{"author":[{"@pid":"169/3399","text":"Wilfredo Lugo"},{"@pid":"97/3793","text":"Jaime Seguel"}]},"title":"A fast and accurate parallel algorithm for genome mapping assembly aimed at massively parallel sequencers.","venue":"BCB","pages":"574-581","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/LugoS15","doi":"10.1145/2808719.2812220","ee":"https://doi.org/10.1145/2808719.2812220","url":"https://dblp.org/rec/conf/bcb/LugoS15"},
+"url":"URL#4303677"
+},
+{
+"@score":"1",
+"@id":"4303678",
+"info":{"authors":{"author":[{"@pid":"169/3208","text":"Erin C. Macaulay"},{"@pid":"169/3152","text":"Hester E. Roberts"},{"@pid":"169/3148","text":"Suzan Al-Momani"},{"@pid":"169/3228","text":"Noelyn A. Hung"},{"@pid":"169/3377","text":"Tania L. Slatter"},{"@pid":"169/3322","text":"Celia Devenish"},{"@pid":"02/1126","text":"Ian M. Morison"}]},"title":"Methylome meets maternity ward: predicting pre-eclampsia in early pregnancy.","venue":"BCB","pages":"484-485","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/MacaulayRAHSDM15","doi":"10.1145/2808719.2811419","ee":"https://doi.org/10.1145/2808719.2811419","url":"https://dblp.org/rec/conf/bcb/MacaulayRAHSDM15"},
+"url":"URL#4303678"
+},
+{
+"@score":"1",
+"@id":"4303679",
+"info":{"authors":{"author":[{"@pid":"24/10441","text":"Kanak Mahadik"},{"@pid":"58/1874-1","text":"Wei Tang 0001"},{"@pid":"57/95","text":"Saurabh Bagchi"},{"@pid":"42/6569","text":"Folker Meyer"}]},"title":"Do specialized distributed frameworks for bioinformatics applications obtain better performance over generic ones?","venue":"BCB","pages":"538","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/MahadikTBM15","doi":"10.1145/2808719.2811452","ee":"https://doi.org/10.1145/2808719.2811452","url":"https://dblp.org/rec/conf/bcb/MahadikTBM15"},
+"url":"URL#4303679"
+},
+{
+"@score":"1",
+"@id":"4303680",
+"info":{"authors":{"author":[{"@pid":"169/3397","text":"Daniel N. Mohsenizadeh"},{"@pid":"141/2080","text":"Roozbeh Dehghannasiri"},{"@pid":"90/3909","text":"Edward R. Dougherty"}]},"title":"An experimental design to reduce dynamics uncertainty in genomic networks.","venue":"BCB","pages":"644-645","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/MohsenizadehDD15","doi":"10.1145/2808719.2814828","ee":"https://doi.org/10.1145/2808719.2814828","url":"https://dblp.org/rec/conf/bcb/MohsenizadehDD15"},
+"url":"URL#4303680"
+},
+{
+"@score":"1",
+"@id":"4303681",
+"info":{"authors":{"author":[{"@pid":"169/3293","text":"Manjari Mukhopadhyay"},{"@pid":"120/8255","text":"Raunaq Malhotra"},{"@pid":"97/3638","text":"Raj Acharya"}]},"title":"A generalized lattice model for clustering metagenomic sequences.","venue":"BCB","pages":"665-672","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/MukhopadhyayMA15","doi":"10.1145/2808719.2814843","ee":"https://doi.org/10.1145/2808719.2814843","url":"https://dblp.org/rec/conf/bcb/MukhopadhyayMA15"},
+"url":"URL#4303681"
+},
+{
+"@score":"1",
+"@id":"4303682",
+"info":{"authors":{"author":[{"@pid":"137/8330","text":"Joseph Nalluri"},{"@pid":"169/3266","text":"Pratip Rana"},{"@pid":"98/11252","text":"Vasco Ariston de Carvalho Azevedo"},{"@pid":"81/8970","text":"Debmalya Barh"},{"@pid":"78/1478","text":"Preetam Ghosh"}]},"title":"Determining influential miRNA targets in diseases using influence diffusion model.","venue":"BCB","pages":"519-520","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/NalluriRABG15","doi":"10.1145/2808719.2811440","ee":"https://doi.org/10.1145/2808719.2811440","url":"https://dblp.org/rec/conf/bcb/NalluriRABG15"},
+"url":"URL#4303682"
+},
+{
+"@score":"1",
+"@id":"4303683",
+"info":{"authors":{"author":[{"@pid":"130/8299","text":"Dong Nie"},{"@pid":"164/0820","text":"Elizabeth A. Shank"},{"@pid":"99/3320","text":"Vladimir Jojic"}]},"title":"A deep framework for bacterial image segmentation and classification.","venue":"BCB","pages":"306-314","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/NieSJ15","doi":"10.1145/2808719.2808751","ee":"https://doi.org/10.1145/2808719.2808751","url":"https://dblp.org/rec/conf/bcb/NieSJ15"},
+"url":"URL#4303683"
+},
+{
+"@score":"1",
+"@id":"4303684",
+"info":{"authors":{"author":{"@pid":"118/0393","text":"Gideon Nimako"}},"title":"A data assurance model for syndromic monitoring infectious diseases in developing countries.","venue":"BCB","pages":"521-522","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/Nimako15","doi":"10.1145/2808719.2811441","ee":"https://doi.org/10.1145/2808719.2811441","url":"https://dblp.org/rec/conf/bcb/Nimako15"},
+"url":"URL#4303684"
+},
+{
+"@score":"1",
+"@id":"4303685",
+"info":{"authors":{"author":[{"@pid":"130/7286","text":"Jiajie Peng"},{"@pid":"62/442","text":"Hongxiang Li"},{"@pid":"68/782-1","text":"Yadong Wang 0001"},{"@pid":"03/5287-4","text":"Jin Chen 0004"}]},"title":"A web tool for measuring gene semantic similarities by combining gene ontology and gene co-function networks.","venue":"BCB","pages":"678-679","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/PengLWC15","doi":"10.1145/2808719.2816835","ee":"https://doi.org/10.1145/2808719.2816835","url":"https://dblp.org/rec/conf/bcb/PengLWC15"},
+"url":"URL#4303685"
+},
+{
+"@score":"1",
+"@id":"4303686",
+"info":{"authors":{"author":[{"@pid":"169/3382","text":"Kristen R. Petersen"},{"@pid":"169/3446","text":"David A. Streett"},{"@pid":"169/3247","text":"Alida T. Gerritsen"},{"@pid":"169/3371","text":"Samuel S. Hunter"},{"@pid":"23/6425","text":"Matthew L. Settles"}]},"title":"Super deduper, fast PCR duplicate detection in fastq files.","venue":"BCB","pages":"491-492","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/PetersenSGHS15","doi":"10.1145/2808719.2811568","ee":"https://doi.org/10.1145/2808719.2811568","url":"https://dblp.org/rec/conf/bcb/PetersenSGHS15"},
+"url":"URL#4303686"
+},
+{
+"@score":"1",
+"@id":"4303687",
+"info":{"authors":{"author":[{"@pid":"153/5204","text":"NhatHai Phan"},{"@pid":"26/2854","text":"Dejing Dou"},{"@pid":"181/2812-64","text":"Hao Wang 0064"},{"@pid":"124/7215","text":"David Kil"},{"@pid":"12/8329","text":"Brigitte Piniewski"}]},"title":"Ontology-based deep learning for human behavior prediction in health social networks.","venue":"BCB","pages":"433-442","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/PhanDWKP15","doi":"10.1145/2808719.2808764","ee":"https://doi.org/10.1145/2808719.2808764","url":"https://dblp.org/rec/conf/bcb/PhanDWKP15"},
+"url":"URL#4303687"
+},
+{
+"@score":"1",
+"@id":"4303688",
+"info":{"authors":{"author":[{"@pid":"84/8837","text":"Charles A. Phillips"},{"@pid":"78/2022","text":"Kai Wang"},{"@pid":"49/11249","text":"Jason A. Bubier"},{"@pid":"78/138","text":"Erich J. Baker"},{"@pid":"78/1594","text":"Elissa J. Chesler"},{"@pid":"l/MALangston","text":"Michael A. Langston"}]},"title":"Scalable multipartite subgraph enumeration for integrative analysis of heterogeneous experimental functional genomics data.","venue":"BCB","pages":"626-633","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/PhillipsWBBCL15","doi":"10.1145/2808719.2812595","ee":"https://doi.org/10.1145/2808719.2812595","url":"https://dblp.org/rec/conf/bcb/PhillipsWBBCL15"},
+"url":"URL#4303688"
+},
+{
+"@score":"1",
+"@id":"4303689",
+"info":{"authors":{"author":[{"@pid":"159/1475","text":"Ali Foroughi Pour"},{"@pid":"24/9233","text":"Lori A. Dalton"}]},"title":"Optimal bayesian feature filtering.","venue":"BCB","pages":"651-652","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/PourD15","doi":"10.1145/2808719.2814833","ee":"https://doi.org/10.1145/2808719.2814833","url":"https://dblp.org/rec/conf/bcb/PourD15"},
+"url":"URL#4303689"
+},
+{
+"@score":"1",
+"@id":"4303690",
+"info":{"authors":{"author":[{"@pid":"46/7352","text":"Pugalendhi GaneshKumar"},{"@pid":"17/2037","text":"Ku-Jin Kim"}]},"title":"Computational support system for personalized medicine.","venue":"BCB","pages":"488-489","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/PugalendhiK15","doi":"10.1145/2808719.2811422","ee":"https://doi.org/10.1145/2808719.2811422","url":"https://dblp.org/rec/conf/bcb/PugalendhiK15"},
+"url":"URL#4303690"
+},
+{
+"@score":"1",
+"@id":"4303691",
+"info":{"authors":{"author":[{"@pid":"157/8412-1","text":"Shi Qiao 0001"},{"@pid":"08/5667","text":"Mehmet Koyutürk"},{"@pid":"o/ZMeralOzsoyoglu","text":"Z. Meral Özsoyoglu"}]},"title":"Integrated querying of disparate association and interaction data in biomedical applications.","venue":"BCB","pages":"146-155","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/QiaoKO15","doi":"10.1145/2808719.2808734","ee":"https://doi.org/10.1145/2808719.2808734","url":"https://dblp.org/rec/conf/bcb/QiaoKO15"},
+"url":"URL#4303691"
+},
+{
+"@score":"1",
+"@id":"4303692",
+"info":{"authors":{"author":[{"@pid":"93/3723","text":"Jonathan Rice"},{"@pid":"169/3254","text":"Kortni Dees"},{"@pid":"169/3291","text":"Adam Thrash"},{"@pid":"73/1342","text":"Andy D. Perkins"}]},"title":"Investigating genome similarity through cross mapping percentage.","venue":"BCB","pages":"543-544","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/RiceDTP15","doi":"10.1145/2808719.2811456","ee":"https://doi.org/10.1145/2808719.2811456","url":"https://dblp.org/rec/conf/bcb/RiceDTP15"},
+"url":"URL#4303692"
+},
+{
+"@score":"1",
+"@id":"4303693",
+"info":{"authors":{"author":[{"@pid":"169/3414","text":"Ahmet Süreyya Rifaioglu"},{"@pid":"169/3315","text":"Tunca Dogan"},{"@pid":"39/4586","text":"Tolga Can"}]},"title":"Unsupervised identification of redundant domain entries in InterPro database using clustering techniques.","venue":"BCB","pages":"505-506","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/RifaiogluDC15","doi":"10.1145/2808719.2811430","ee":"https://doi.org/10.1145/2808719.2811430","url":"https://dblp.org/rec/conf/bcb/RifaiogluDC15"},
+"url":"URL#4303693"
+},
+{
+"@score":"1",
+"@id":"4303694",
+"info":{"authors":{"author":[{"@pid":"276/7313","text":"Daniel Riofrío"},{"@pid":"89/44","text":"Shuang Luan"},{"@pid":"99/3847-25","text":"Jun Zhou 0025"},{"@pid":"03/5459","text":"Lijun Ma"}]},"title":"Particle swarm optimization for radiation therapy planning.","venue":"BCB","pages":"250-257","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/RiofrioLZM15","doi":"10.1145/2808719.2808745","ee":"https://doi.org/10.1145/2808719.2808745","url":"https://dblp.org/rec/conf/bcb/RiofrioLZM15"},
+"url":"URL#4303694"
+},
+{
+"@score":"1",
+"@id":"4303695",
+"info":{"authors":{"author":[{"@pid":"133/1827","text":"Anthony Rios"},{"@pid":"17/265","text":"Ramakanth Kavuluru"}]},"title":"Convolutional neural networks for biomedical text classification: application in indexing biomedical articles.","venue":"BCB","pages":"258-267","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/RiosK15","doi":"10.1145/2808719.2808746","ee":"https://doi.org/10.1145/2808719.2808746","url":"https://dblp.org/rec/conf/bcb/RiosK15"},
+"url":"URL#4303695"
+},
+{
+"@score":"1",
+"@id":"4303696",
+"info":{"authors":{"author":[{"@pid":"39/7268","text":"Subrata Saha"},{"@pid":"r/SanguthevarRajasekaran","text":"Sanguthevar Rajasekaran"}]},"title":"HECTOR: a novel paradigm for correcting short reads.","venue":"BCB","pages":"57-66","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/SahaR15","doi":"10.1145/2808719.2808725","ee":"https://doi.org/10.1145/2808719.2808725","url":"https://dblp.org/rec/conf/bcb/SahaR15"},
+"url":"URL#4303696"
+},
+{
+"@score":"1",
+"@id":"4303697",
+"info":{"authors":{"author":[{"@pid":"169/3145","text":"Shane E. Sawyer"},{"@pid":"132/7574","text":"Bhanu Rekepalli"},{"@pid":"148/1231","text":"Mitchel D. Horton"},{"@pid":"95/10953","text":"R. Glenn Brook"}]},"title":"HPC-BLAST: distributed BLAST for xeon phi clusters.","venue":"BCB","pages":"512-513","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/SawyerRHB15","doi":"10.1145/2808719.2811435","ee":"https://doi.org/10.1145/2808719.2811435","url":"https://dblp.org/rec/conf/bcb/SawyerRHB15"},
+"url":"URL#4303697"
+},
+{
+"@score":"1",
+"@id":"4303698",
+"info":{"authors":{"author":[{"@pid":"169/3401","text":"U. Deok Seo"},{"@pid":"19/4633","text":"Yoo-Joo Choi"},{"@pid":"17/2037","text":"Ku-Jin Kim"}]},"title":"Updating channel adjacent amino acids for a flexible protein molecule.","venue":"BCB","pages":"472-473","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/SeoCK15","doi":"10.1145/2808719.2811413","ee":"https://doi.org/10.1145/2808719.2811413","url":"https://dblp.org/rec/conf/bcb/SeoCK15"},
+"url":"URL#4303698"
+},
+{
+"@score":"1",
+"@id":"4303699",
+"info":{"authors":{"author":[{"@pid":"169/3461","text":"Adib Shafi"},{"@pid":"44/9915","text":"Michele Donato"},{"@pid":"80/2440","text":"Sorin Draghici"}]},"title":"A systems biology approach for the identification of significantly perturbed genes.","venue":"BCB","pages":"423-432","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/ShafiDD15","doi":"10.1145/2808719.2808763","ee":"https://doi.org/10.1145/2808719.2808763","url":"https://dblp.org/rec/conf/bcb/ShafiDD15"},
+"url":"URL#4303699"
+},
+{
+"@score":"1",
+"@id":"4303700",
+"info":{"authors":{"author":{"@pid":"169/3202","text":"Nong Shang"}},"title":"A bayesian nonparametric approach for latent class regression analysis.","venue":"BCB","pages":"675","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/Shang15","doi":"10.1145/2808719.2816982","ee":"https://doi.org/10.1145/2808719.2816982","url":"https://dblp.org/rec/conf/bcb/Shang15"},
+"url":"URL#4303700"
+},
+{
+"@score":"1",
+"@id":"4303701",
+"info":{"authors":{"author":{"@pid":"161/5564","text":"Pranav Srinivas"}},"title":"Boolean network modeling for systematic identification of anticancer drug resistance in colorectal cancer.","venue":"BCB","pages":"514","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/Srinivas15","doi":"10.1145/2808719.2811436","ee":"https://doi.org/10.1145/2808719.2811436","url":"https://dblp.org/rec/conf/bcb/Srinivas15"},
+"url":"URL#4303701"
+},
+{
+"@score":"1",
+"@id":"4303702",
+"info":{"authors":{"author":[{"@pid":"169/3446","text":"David A. Streett"},{"@pid":"169/3382","text":"Kristen R. Petersen"},{"@pid":"169/3247","text":"Alida T. Gerritsen"},{"@pid":"169/3371","text":"Samuel S. Hunter"},{"@pid":"23/6425","text":"Matthew L. Settles"}]},"title":"expHTS: analysis of high throughput sequence data in an experimental framework.","venue":"BCB","pages":"523-524","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/StreettPGHS15","doi":"10.1145/2808719.2811442","ee":"https://doi.org/10.1145/2808719.2811442","url":"https://dblp.org/rec/conf/bcb/StreettPGHS15"},
+"url":"URL#4303702"
+},
+{
+"@score":"1",
+"@id":"4303703",
+"info":{"authors":{"author":[{"@pid":"134/3486","text":"Veronika Strnadová-Neeley"},{"@pid":"80/1552","text":"Aydin Buluç"},{"@pid":"157/0925","text":"Jarrod Chapman"},{"@pid":"g/JohnRGilbert","text":"John R. Gilbert"},{"@pid":"61/8262","text":"Joseph Gonzalez 0001"},{"@pid":"74/1801","text":"Leonid Oliker"}]},"title":"Efficient data reduction for large-scale genetic mapping.","venue":"BCB","pages":"126-135","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/Strnadova-Neeley15","doi":"10.1145/2808719.2808732","ee":"https://doi.org/10.1145/2808719.2808732","url":"https://dblp.org/rec/conf/bcb/Strnadova-Neeley15"},
+"url":"URL#4303703"
+},
+{
+"@score":"1",
+"@id":"4303704",
+"info":{"authors":{"author":[{"@pid":"169/3312","text":"Xiaolong Sun"},{"@pid":"12/6467","text":"Juyoung Park"},{"@pid":"86/4711","text":"Kyungtae Kang"}]},"title":"Arrhythmia classification using nearest neighbor search with principal component analysis.","venue":"BCB","pages":"553-555","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/SunPK15","doi":"10.1145/2808719.2811573","ee":"https://doi.org/10.1145/2808719.2811573","url":"https://dblp.org/rec/conf/bcb/SunPK15"},
+"url":"URL#4303704"
+},
+{
+"@score":"1",
+"@id":"4303705",
+"info":{"authors":{"author":[{"@pid":"79/8473","text":"Qingming Tang"},{"@pid":"85/1868-1","text":"Sheng Wang 0001"},{"@pid":"29/4181-1","text":"Jian Peng 0001"},{"@pid":"24/9080","text":"Jianzhu Ma"},{"@pid":"45/2923","text":"Jinbo Xu"}]},"title":"Bermuda: de novo assembly of transcripts with new insights for handling uneven coverage.","venue":"BCB","pages":"166-175","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/TangW0MX15","doi":"10.1145/2808719.2808736","ee":"https://doi.org/10.1145/2808719.2808736","url":"https://dblp.org/rec/conf/bcb/TangW0MX15"},
+"url":"URL#4303705"
+},
+{
+"@score":"1",
+"@id":"4303706",
+"info":{"authors":{"author":[{"@pid":"119/3773","text":"Aika Terada"},{"@pid":"169/3220","text":"Hanyoung Kim"},{"@pid":"33/6967","text":"Jun Sese"}]},"title":"High-speed westfall-young permutation procedure for genome-wide association studies.","venue":"BCB","pages":"17-26","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/TeradaKS15","doi":"10.1145/2808719.2808721","ee":"https://doi.org/10.1145/2808719.2808721","url":"https://dblp.org/rec/conf/bcb/TeradaKS15"},
+"url":"URL#4303706"
+},
+{
+"@score":"1",
+"@id":"4303707",
+"info":{"authors":{"author":[{"@pid":"129/5477","text":"Jesmin Jahan Tithi"},{"@pid":"05/3310","text":"Rezaul Alam Chowdhury"}]},"title":"Efficient computation of distance incorporated codon autocorrelation (DICA) score using fast Fourier transform.","venue":"BCB","pages":"515-516","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/TithiC15","doi":"10.1145/2808719.2811437","ee":"https://doi.org/10.1145/2808719.2811437","url":"https://dblp.org/rec/conf/bcb/TithiC15"},
+"url":"URL#4303707"
+},
+{
+"@score":"1",
+"@id":"4303708",
+"info":{"authors":{"author":[{"@pid":"169/3383","text":"Saima Sultana Tithi"},{"@pid":"169/3465","text":"Mohammad Shabbir Hasan"}]},"title":"Modeling ebola outbreak: a case study on 2014 outbreak in sierra leone.","venue":"BCB","pages":"547-548","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/TithiH15","doi":"10.1145/2808719.2811458","ee":"https://doi.org/10.1145/2808719.2811458","url":"https://dblp.org/rec/conf/bcb/TithiH15"},
+"url":"URL#4303708"
+},
+{
+"@score":"1",
+"@id":"4303709",
+"info":{"authors":{"author":[{"@pid":"123/7961","text":"Andrei Todor"},{"@pid":"68/3272","text":"Alin Dobra"},{"@pid":"k/TamerKahveci","text":"Tamer Kahveci"}]},"title":"Counting motifs in probabilistic biological networks.","venue":"BCB","pages":"116-125","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/TodorDK15","doi":"10.1145/2808719.2808731","ee":"https://doi.org/10.1145/2808719.2808731","url":"https://dblp.org/rec/conf/bcb/TodorDK15"},
+"url":"URL#4303709"
+},
+{
+"@score":"1",
+"@id":"4303710",
+"info":{"authors":{"author":[{"@pid":"95/1778","text":"Giuseppe Tradigo"},{"@pid":"09/9636","text":"Barbara Calabrese"},{"@pid":"161/5546","text":"Manuela Macrí"},{"@pid":"169/3163","text":"Eugenio Vocaturo"},{"@pid":"68/4422","text":"Nicola Lombardo"},{"@pid":"v/PierangeloVeltri","text":"Pierangelo Veltri"}]},"title":"Voice signal features analysis and classification: looking for new diseases related parameters.","venue":"BCB","pages":"589-596","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/TradigoCMVLV15","doi":"10.1145/2808719.2812222","ee":"https://doi.org/10.1145/2808719.2812222","url":"https://dblp.org/rec/conf/bcb/TradigoCMVLV15"},
+"url":"URL#4303710"
+},
+{
+"@score":"1",
+"@id":"4303711",
+"info":{"authors":{"author":{"@pid":"93/5714","text":"Quoc-Nam Tran"}},"title":"Selection of genes using long-term influence and sensitivity analysis.","venue":"BCB","pages":"658-664","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/Tran15","doi":"10.1145/2808719.2814842","ee":"https://doi.org/10.1145/2808719.2814842","url":"https://dblp.org/rec/conf/bcb/Tran15"},
+"url":"URL#4303711"
+},
+{
+"@score":"1",
+"@id":"4303712",
+"info":{"authors":{"author":[{"@pid":"77/2612","text":"Michael Uelschen"},{"@pid":"43/3282","text":"Heinz-Josef Eikerling"}]},"title":"A mobile sensor system for gait analysis supporting the assessment of rehabilitation measures.","venue":"BCB","pages":"96-105","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/UelschenE15","doi":"10.1145/2808719.2808729","ee":"https://doi.org/10.1145/2808719.2808729","url":"https://dblp.org/rec/conf/bcb/UelschenE15"},
+"url":"URL#4303712"
+},
+{
+"@score":"1",
+"@id":"4303713",
+"info":{"authors":{"author":[{"@pid":"121/1377","text":"Valerie Diane V. Valeriano"},{"@pid":"169/3239","text":"Jiyoon Lee"},{"@pid":"169/3417","text":"Dae-Kyung Kang"}]},"title":"Application of a systematic exoproteogenomic profiling workflow on lactobacillus mucosae LM1.","venue":"BCB","pages":"539-540","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/ValerianoLK15","doi":"10.1145/2808719.2811454","ee":"https://doi.org/10.1145/2808719.2811454","url":"https://dblp.org/rec/conf/bcb/ValerianoLK15"},
+"url":"URL#4303713"
+},
+{
+"@score":"1",
+"@id":"4303714",
+"info":{"authors":{"author":{"@pid":"169/3236","text":"Mike Wallinga"}},"title":"Multi-core dynamic parallelism for multiple sequence alignment and counting metrics.","venue":"BCB","pages":"656-657","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/Wallinga15","doi":"10.1145/2808719.2814841","ee":"https://doi.org/10.1145/2808719.2814841","url":"https://dblp.org/rec/conf/bcb/Wallinga15"},
+"url":"URL#4303714"
+},
+{
+"@score":"1",
+"@id":"4303715",
+"info":{"authors":{"author":[{"@pid":"122/2979","text":"Cen Wan"},{"@pid":"f/AlexAlvesFreitas","text":"Alex Alves Freitas"}]},"title":"Two methods for constructing a gene ontology-based feature network for a Bayesian network classifier and applications to datasets of aging-related genes.","venue":"BCB","pages":"27-36","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/WanF15","doi":"10.1145/2808719.2808722","ee":"https://doi.org/10.1145/2808719.2808722","url":"https://dblp.org/rec/conf/bcb/WanF15"},
+"url":"URL#4303715"
+},
+{
+"@score":"1",
+"@id":"4303716",
+"info":{"authors":{"author":[{"@pid":"05/1958","text":"Kun Wang"},{"@pid":"137/8135","text":"Kan Cao"},{"@pid":"59/496","text":"Sridhar Hannenhalli"}]},"title":"Chromatin and genomic determinants of alternative splicing.","venue":"BCB","pages":"345-354","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/WangCH15","doi":"10.1145/2808719.2808755","ee":"https://doi.org/10.1145/2808719.2808755","url":"https://dblp.org/rec/conf/bcb/WangCH15"},
+"url":"URL#4303716"
+},
+{
+"@score":"1",
+"@id":"4303717",
+"info":{"authors":{"author":[{"@pid":"91/1726-3","text":"Yijie Wang 0003"},{"@pid":"62/4504","text":"Xiaoning Qian"}]},"title":"A computational framework for finding functional modules across multiple biological networks.","venue":"BCB","pages":"649-650","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/WangQ15","doi":"10.1145/2808719.2814832","ee":"https://doi.org/10.1145/2808719.2814832","url":"https://dblp.org/rec/conf/bcb/WangQ15"},
+"url":"URL#4303717"
+},
+{
+"@score":"1",
+"@id":"4303718",
+"info":{"authors":{"author":[{"@pid":"38/9943","text":"Guopeng Wei"},{"@pid":"169/3267","text":"Connor Walsh"},{"@pid":"169/3406","text":"Irina Cazan"},{"@pid":"88/3494","text":"Radu Marculescu"}]},"title":"Molecular tweeting: unveiling the social network behind heterogeneous bacteria populations.","venue":"BCB","pages":"366-375","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/WeiWCM15","doi":"10.1145/2808719.2808757","ee":"https://doi.org/10.1145/2808719.2808757","url":"https://dblp.org/rec/conf/bcb/WeiWCM15"},
+"url":"URL#4303718"
+},
+{
+"@score":"1",
+"@id":"4303719",
+"info":{"authors":{"author":[{"@pid":"26/3931","text":"Guangming Xing"},{"@pid":"169/3280","text":"Qinglong Sun"}]},"title":"Greedy topological sorting on questionnaire directed acyclic graph and its application in patient surveys.","venue":"BCB","pages":"549-550","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/XingS15","doi":"10.1145/2808719.2811459","ee":"https://doi.org/10.1145/2808719.2811459","url":"https://dblp.org/rec/conf/bcb/XingS15"},
+"url":"URL#4303719"
+},
+{
+"@score":"1",
+"@id":"4303720",
+"info":{"authors":{"author":{"@pid":"84/5130","text":"Bin Xue"}},"title":"Improving MiRNA prediction accuracy by deep learning strategies.","venue":"BCB","pages":"480-481","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/Xue15","doi":"10.1145/2808719.2811417","ee":"https://doi.org/10.1145/2808719.2811417","url":"https://dblp.org/rec/conf/bcb/Xue15"},
+"url":"URL#4303720"
+},
+{
+"@score":"1",
+"@id":"4303721",
+"info":{"authors":{"author":[{"@pid":"14/7666","text":"Nikhil Yadav"},{"@pid":"48/2399","text":"Christian Poellabauer"},{"@pid":"167/5621","text":"Louis Daudet"},{"@pid":"169/3324","text":"Tomás Collins"},{"@pid":"169/3162","text":"Shane McQuillan"},{"@pid":"45/2338","text":"Patrick J. Flynn"}]},"title":"Portable neurological disease assessment using temporal analysis of speech.","venue":"BCB","pages":"77-85","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/YadavPDCMF15","doi":"10.1145/2808719.2808727","ee":"https://doi.org/10.1145/2808719.2808727","url":"https://dblp.org/rec/conf/bcb/YadavPDCMF15"},
+"url":"URL#4303721"
+},
+{
+"@score":"1",
+"@id":"4303722",
+"info":{"authors":{"author":[{"@pid":"49/1457","text":"Cheng Yang"},{"@pid":"157/8412-1","text":"Shi Qiao 0001"},{"@pid":"o/ZMeralOzsoyoglu","text":"Z. Meral Özsoyoglu"}]},"title":"An exploratory graph query interface for biomedical data.","venue":"BCB","pages":"527-528","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/YangQO15","doi":"10.1145/2808719.2811444","ee":"https://doi.org/10.1145/2808719.2811444","url":"https://dblp.org/rec/conf/bcb/YangQO15"},
+"url":"URL#4303722"
+},
+{
+"@score":"1",
+"@id":"4303723",
+"info":{"authors":{"author":[{"@pid":"49/1457-1","text":"Cheng Yang 0001"},{"@pid":"59/10786","text":"Po-Yen Wu"},{"@pid":"68/844-1","text":"Li Tong 0001"},{"@pid":"67/1773","text":"John H. Phan"},{"@pid":"93/2701","text":"May D. Wang"}]},"title":"The impact of RNA-seq aligners on gene expression estimation.","venue":"BCB","pages":"462-471","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/YangWTPW15","doi":"10.1145/2808719.2808767","ee":"https://doi.org/10.1145/2808719.2808767","url":"https://dblp.org/rec/conf/bcb/YangWTPW15"},
+"url":"URL#4303723"
+},
+{
+"@score":"1",
+"@id":"4303724",
+"info":{"authors":{"author":[{"@pid":"26/8402","text":"Sen Yao"},{"@pid":"43/7065","text":"Robert M. Flight"},{"@pid":"14/1043","text":"Eric C. Rouchka"},{"@pid":"22/5162","text":"Hunter N. B. Moseley"}]},"title":"A less biased analysis of metalloproteins&apos; coordination geometries.","venue":"BCB","pages":"493-494","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/YaoFRM15","doi":"10.1145/2808719.2811424","ee":"https://doi.org/10.1145/2808719.2811424","url":"https://dblp.org/rec/conf/bcb/YaoFRM15"},
+"url":"URL#4303724"
+},
+{
+"@score":"1",
+"@id":"4303725",
+"info":{"authors":{"author":[{"@pid":"123/6580","text":"Hsin-Yi Cindy Yeh"},{"@pid":"02/3540","text":"Shawna L. Thomas"},{"@pid":"a/NMAmato","text":"Nancy M. Amato"}]},"title":"Using motion planning to rank ligand binding affinity.","venue":"BCB","pages":"529-530","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/YehTA15","doi":"10.1145/2808719.2811445","ee":"https://doi.org/10.1145/2808719.2811445","url":"https://dblp.org/rec/conf/bcb/YehTA15"},
+"url":"URL#4303725"
+},
+{
+"@score":"1",
+"@id":"4303726",
+"info":{"authors":{"author":[{"@pid":"169/3304","text":"Rose Yesha"},{"@pid":"g/AryyaGangopadhyay","text":"Aryya Gangopadhyay"}]},"title":"A method for analyzing health behavior in online forums.","venue":"BCB","pages":"615-621","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/YeshaG15","doi":"10.1145/2808719.2812592","ee":"https://doi.org/10.1145/2808719.2812592","url":"https://dblp.org/rec/conf/bcb/YeshaG15"},
+"url":"URL#4303726"
+},
+{
+"@score":"1",
+"@id":"4303727",
+"info":{"authors":{"author":[{"@pid":"57/11273","text":"Junqi Yin"},{"@pid":"95/10953","text":"R. Glenn Brook"},{"@pid":"00/629","text":"Lonnie D. Crosby"},{"@pid":"148/1231","text":"Mitchel D. Horton"},{"@pid":"169/3402","text":"Chad Burdyshaw"},{"@pid":"169/3390","text":"Frank Skidmore"},{"@pid":"118/2292","text":"Jon Marstrander"},{"@pid":"256/5531-2","text":"Thomas Anthony 0002"},{"@pid":"69/5817","text":"Yuliang Liu"}]},"title":"fMRI image registration with AFNI&apos;s 3dQwarp.","venue":"BCB","pages":"559-560","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/YinBCHBSMAL15","doi":"10.1145/2808719.2816838","ee":"https://doi.org/10.1145/2808719.2816838","url":"https://dblp.org/rec/conf/bcb/YinBCHBSMAL15"},
+"url":"URL#4303727"
+},
+{
+"@score":"1",
+"@id":"4303728",
+"info":{"authors":{"author":[{"@pid":"141/2022","text":"Qianyi Zhan"},{"@pid":"160/5940","text":"Sherry Emery"},{"@pid":"y/PhilipSYu","text":"Philip S. Yu"}]},"title":"How TV advertising and social network help tobacco control campaigns influence more.","venue":"BCB","pages":"622-625","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/ZhanEY15","doi":"10.1145/2808719.2812593","ee":"https://doi.org/10.1145/2808719.2812593","url":"https://dblp.org/rec/conf/bcb/ZhanEY15"},
+"url":"URL#4303728"
+},
+{
+"@score":"1",
+"@id":"4303729",
+"info":{"authors":{"author":[{"@pid":"93/1834","text":"Wen-Ran Zhang"},{"@pid":"169/3299","text":"Francesco Marchetti"}]},"title":"A logical exposition of dirac 3-polarizer experiment and its potential impact on computational biology.","venue":"BCB","pages":"517-518","year":"2015","type":"Conference and Workshop Papers","access":"closed","key":"conf/bcb/ZhangM15","doi":"10.1145/2808719.2811438","ee":"https://doi.org/10.1145/2808719.2811438","url":"https://dblp.org/rec/conf/bcb/ZhangM15"},
+"url":"URL#4303729"
+},
+{
+"@score":"1",
+"@id":"4452183",
+"info":{"title":"Proceedings of the 6th ACM Conference on Bioinformatics, Computational Biology and Health Informatics, BCB 2015, Atlanta, GA, USA, September 9-12, 2015","venue":"BCB","publisher":"ACM","year":"2015","type":"Editorship","key":"conf/bcb/2015","ee":"http://dl.acm.org/citation.cfm?id=2808719","url":"https://dblp.org/rec/conf/bcb/2015"},
+"url":"URL#4452183"
+}
+]
+}
+}
+}

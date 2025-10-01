@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+contexts,questions,0.8303,0.5827
+answers,questions,-0.2417,1.5759
+QA knowledge base,questions,0.9803,0.1986
+answers,contexts,0.0735,1.3612
+QA knowledge base,contexts,0.8693,0.5114
+QA knowledge base,answers,-0.1141,1.4927
+Conditional Random Fields,questions,-0.1898,1.5426
+forum threads,questions,-0.1707,1.5302
+Conditional Random Fields,contexts,0.1287,1.3201
+contexts,forum threads,0.1988,1.2659
+Conditional Random Fields,answers,0.9848,0.1742
+answers,forum threads,0.9077,0.4297
+Conditional Random Fields,QA knowledge base,-0.0544,1.4522
+QA knowledge base,forum threads,-0.0253,1.432
+Conditional Random Fields,forum threads,0.9529,0.3071
+Skip-chain CRFs,questions,-0.33,1.6309
+Skip-chain CRFs,contexts,-0.0047,1.4175
+Skip-chain CRFs,answers,0.9597,0.2837
+QA knowledge base,Skip-chain CRFs,-0.1935,1.545
+Conditional Random Fields,Skip-chain CRFs,0.9713,0.2398
+Skip-chain CRFs,forum threads,0.9654,0.2632

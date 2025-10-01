@@ -1,0 +1,656 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/cbms/cbms2021.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"73.92"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"104",
+"@dc":"104",
+"@oc":"104",
+"@id":"48877053",
+"text":":facetid:toc:db/conf/cbms/cbms2021.bht"
+}
+},
+"hits":{
+"@total":"104",
+"@computed":"104",
+"@sent":"104",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"2033395",
+"info":{"authors":{"author":[{"@pid":"43/5128-2","text":"Michael Winter 0002"},{"@pid":"297/2094","text":"Cynthia Bredemeyer"},{"@pid":"r/ManfredReichert","text":"Manfred Reichert"},{"@pid":"n/HeikoNeumann","text":"Heiko Neumann"},{"@pid":"06/3491","text":"Thomas Probst"},{"@pid":"55/2890","text":"Rüdiger Pryss"}]},"title":"How Healthcare Professionals Comprehend Process Models - An Empirical Eye Tracking Analysis.","venue":"CBMS","pages":"313-318","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/0002BRNPP21","doi":"10.1109/CBMS52027.2021.00034","ee":"https://doi.org/10.1109/CBMS52027.2021.00034","url":"https://dblp.org/rec/conf/cbms/0002BRNPP21"},
+"url":"URL#2033395"
+},
+{
+"@score":"1",
+"@id":"2033396",
+"info":{"authors":{"author":[{"@pid":"216/7828","text":"João Rafael Almeida"},{"@pid":"152/5136","text":"Eriksson J. Melicio Monteiro"},{"@pid":"10/1144","text":"José Luís Oliveira"}]},"title":"An Architecture to Define Cohorts over Medical Imaging Datasets.","venue":"CBMS","pages":"545-549","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AlmeidaMO21","doi":"10.1109/CBMS52027.2021.00088","ee":"https://doi.org/10.1109/CBMS52027.2021.00088","url":"https://dblp.org/rec/conf/cbms/AlmeidaMO21"},
+"url":"URL#2033396"
+},
+{
+"@score":"1",
+"@id":"2033397",
+"info":{"authors":{"author":[{"@pid":"255/0805","text":"Sandeep Angara"},{"@pid":"33/86","text":"Peng Guo"},{"@pid":"64/4801","text":"Zhiyun Xue"},{"@pid":"01/1603","text":"Sameer K. Antani"}]},"title":"Semi-Supervised Learning for Cervical Precancer Detection.","venue":"CBMS","pages":"202-206","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AngaraGXA21","doi":"10.1109/CBMS52027.2021.00072","ee":"https://doi.org/10.1109/CBMS52027.2021.00072","url":"https://dblp.org/rec/conf/cbms/AngaraGXA21"},
+"url":"URL#2033397"
+},
+{
+"@score":"1",
+"@id":"2033398",
+"info":{"authors":{"author":[{"@pid":"297/2278","text":"Francis Anokye"},{"@pid":"49/8344","text":"Indika Kahanda"}]},"title":"BioSGAN: Protein-Phenotype Co-mention Classification Using Semi-Supervised Generative Adversarial Networks.","venue":"CBMS","pages":"468-473","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AnokyeK21","doi":"10.1109/CBMS52027.2021.00055","ee":"https://doi.org/10.1109/CBMS52027.2021.00055","url":"https://dblp.org/rec/conf/cbms/AnokyeK21"},
+"url":"URL#2033398"
+},
+{
+"@score":"1",
+"@id":"2033399",
+"info":{"authors":{"author":[{"@pid":"216/4335","text":"Adriel S. Araújo"},{"@pid":"297/2158","text":"Milena H. S. Issa"},{"@pid":"273/5844","text":"Petrucio R. T. Medeiros"},{"@pid":"37/2584-1","text":"Ángel Sánchez 0001"},{"@pid":"21/5891","text":"Débora C. Muchaluat-Saade"},{"@pid":"c/AuraConci","text":"Aura Conci"}]},"title":"Monitoring Breast Cancer Neoadjuvant Treatment using Thermographic Time Series.","venue":"CBMS","pages":"247-252","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AraujoIMSMC21","doi":"10.1109/CBMS52027.2021.00027","ee":"https://doi.org/10.1109/CBMS52027.2021.00027","url":"https://dblp.org/rec/conf/cbms/AraujoIMSMC21"},
+"url":"URL#2033399"
+},
+{
+"@score":"1",
+"@id":"2033400",
+"info":{"authors":{"author":[{"@pid":"135/8824","text":"Matheus Araújo 0001"},{"@pid":"297/2392","text":"Tara Pereira"},{"@pid":"s/JaideepSrivastava","text":"Jaideep Srivastava"},{"@pid":"218/0540","text":"Conrad Iber"}]},"title":"Facilitating CPAP Adherence with Personalized Recommendations Using Artificial Neural Networks.","venue":"CBMS","pages":"97-100","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AraujoPSI21","doi":"10.1109/CBMS52027.2021.00093","ee":"https://doi.org/10.1109/CBMS52027.2021.00093","url":"https://dblp.org/rec/conf/cbms/AraujoPSI21"},
+"url":"URL#2033400"
+},
+{
+"@score":"1",
+"@id":"2033401",
+"info":{"authors":{"author":[{"@pid":"297/2221","text":"Mourya Karan Reddy Baddam"},{"@pid":"135/8824","text":"Matheus Araújo 0001"},{"@pid":"s/JaideepSrivastava","text":"Jaideep Srivastava"}]},"title":"Defining and Monitoring Patient Clusters Based on Therapy Adherence in Sleep Apnea Management.","venue":"CBMS","pages":"580-585","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BaddamAS21","doi":"10.1109/CBMS52027.2021.00104","ee":"https://doi.org/10.1109/CBMS52027.2021.00104","url":"https://dblp.org/rec/conf/cbms/BaddamAS21"},
+"url":"URL#2033401"
+},
+{
+"@score":"1",
+"@id":"2033402",
+"info":{"authors":{"author":[{"@pid":"234/2333","text":"Matheus de Freitas Oliveira Baffa"},{"@pid":"260/9713","text":"Luciano Bachmann"},{"@pid":"297/2413","text":"Thiago Martini Pereira"},{"@pid":"14/4453","text":"Joaquim Cezar Felipe"}]},"title":"Hyperspectral Signal Analysis for Thyroid Neoplasm Typification On Infrared Spectrum.","venue":"CBMS","pages":"131-136","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BaffaBPF21","doi":"10.1109/CBMS52027.2021.00060","ee":"https://doi.org/10.1109/CBMS52027.2021.00060","url":"https://dblp.org/rec/conf/cbms/BaffaBPF21"},
+"url":"URL#2033402"
+},
+{
+"@score":"1",
+"@id":"2033403",
+"info":{"authors":{"author":[{"@pid":"151/2094","text":"Felix Beierle"},{"@pid":"290/7840","text":"Uttam Dhakal"},{"@pid":"290/7949","text":"Caroline Cohrdes"},{"@pid":"290/7253","text":"Sophie Eicher"},{"@pid":"55/2890","text":"Rüdiger Pryss"}]},"title":"Public Perception of the German COVID-19 Contact-Tracing App Corona-Warn-App.","venue":"CBMS","pages":"342-347","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BeierleDCEP21","doi":"10.1109/CBMS52027.2021.00031","ee":"https://doi.org/10.1109/CBMS52027.2021.00031","url":"https://dblp.org/rec/conf/cbms/BeierleDCEP21"},
+"url":"URL#2033403"
+},
+{
+"@score":"1",
+"@id":"2033404",
+"info":{"authors":{"author":[{"@pid":"203/3022","text":"José Alberto Benítez-Andrades"},{"@pid":"154/9736","text":"José-Manuel Alija-Pérez"},{"@pid":"20/1288","text":"Isaías García-Rodríguez"},{"@pid":"33/706","text":"Carmen Benavides"},{"@pid":"54/7400","text":"Héctor Alaiz-Moretón"},{"@pid":"142/4539","text":"Rafael Pastor Vargas"},{"@pid":"26/9794","text":"María Teresa García-Ordás"}]},"title":"BERT Model-Based Approach For Detecting Categories of Tweets in the Field of Eating Disorders (ED).","venue":"CBMS","pages":"586-590","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Benitez-Andrades21","doi":"10.1109/CBMS52027.2021.00105","ee":"https://doi.org/10.1109/CBMS52027.2021.00105","url":"https://dblp.org/rec/conf/cbms/Benitez-Andrades21"},
+"url":"URL#2033404"
+},
+{
+"@score":"1",
+"@id":"2033405",
+"info":{"authors":{"author":[{"@pid":"250/8540","text":"Louise Bloch"},{"@pid":"38/2820","text":"Christoph M. Friedrich"}]},"title":"Comparison of Automated Volume Extraction with FreeSurfer and FastSurfer for Early Alzheimer&apos;s Disease Detection with Machine Learning.","venue":"CBMS","pages":"113-118","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BlochF21","doi":"10.1109/CBMS52027.2021.00096","ee":"https://doi.org/10.1109/CBMS52027.2021.00096","url":"https://dblp.org/rec/conf/cbms/BlochF21"},
+"url":"URL#2033405"
+},
+{
+"@score":"1",
+"@id":"2033406",
+"info":{"authors":{"author":[{"@pid":"297/2358","text":"Matthias Boeker"},{"@pid":"129/8082","text":"Michael A. Riegler"},{"@pid":"08/8429","text":"Hugo Lewi Hammer"},{"@pid":"56/4802","text":"Pål Halvorsen"},{"@pid":"222/1252","text":"Ole Bernt Fasmer"},{"@pid":"222/1240","text":"Petter Jakobsen"}]},"title":"Diagnosing Schizophrenia from Activity Records using Hidden Markov Model Parameters.","venue":"CBMS","pages":"432-437","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BoekerRHHFJ21","doi":"10.1109/CBMS52027.2021.00048","ee":"https://doi.org/10.1109/CBMS52027.2021.00048","url":"https://dblp.org/rec/conf/cbms/BoekerRHHFJ21"},
+"url":"URL#2033406"
+},
+{
+"@score":"1",
+"@id":"2033407",
+"info":{"authors":{"author":[{"@pid":"250/8287","text":"Raphael Brüngel"},{"@pid":"38/2820","text":"Christoph M. Friedrich"}]},"title":"DETR and YOLOv5: Exploring Performance and Self-Training for Diabetic Foot Ulcer Detection.","venue":"CBMS","pages":"148-153","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BrungelF21","doi":"10.1109/CBMS52027.2021.00063","ee":"https://doi.org/10.1109/CBMS52027.2021.00063","url":"https://dblp.org/rec/conf/cbms/BrungelF21"},
+"url":"URL#2033407"
+},
+{
+"@score":"1",
+"@id":"2033408",
+"info":{"authors":{"author":[{"@pid":"238/8635","text":"Jiarun Cao"},{"@pid":"295/8883","text":"Elke M. van Veen"},{"@pid":"36/2563","text":"Niels Peek"},{"@pid":"295/8519","text":"Andrew G. Renehan"},{"@pid":"47/4142","text":"Sophia Ananiadou"}]},"title":"EPICURE: Ensemble Pretrained Models for Extracting Cancer Mutations from Literature.","venue":"CBMS","pages":"461-467","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/CaoVPRA21","doi":"10.1109/CBMS52027.2021.00054","ee":"https://doi.org/10.1109/CBMS52027.2021.00054","url":"https://dblp.org/rec/conf/cbms/CaoVPRA21"},
+"url":"URL#2033408"
+},
+{
+"@score":"1",
+"@id":"2033409",
+"info":{"authors":{"author":[{"@pid":"297/2360","text":"Thiago V. Cardoso"},{"@pid":"297/2400","text":"Gabriel C. Michelassi"},{"@pid":"297/2284","text":"Felipe O. Franco"},{"@pid":"297/2143","text":"Fernando Mitsuo Sumiya"},{"@pid":"297/2347","text":"Joana Portolese"},{"@pid":"191/5072","text":"Helena Paula Brentani"},{"@pid":"140/1010","text":"Ariane Machado-Lima"},{"@pid":"87/8751","text":"Fátima L. S. Nunes"}]},"title":"Autism Spectrum Disorder diagnosis based on trajectories of eye tracking data.","venue":"CBMS","pages":"50-55","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/CardosoMFSPBMN21","doi":"10.1109/CBMS52027.2021.00016","ee":"https://doi.org/10.1109/CBMS52027.2021.00016","url":"https://dblp.org/rec/conf/cbms/CardosoMFSPBMN21"},
+"url":"URL#2033409"
+},
+{
+"@score":"1",
+"@id":"2033410",
+"info":{"authors":{"author":[{"@pid":"297/2324","text":"Ana Sofia Carmo"},{"@pid":"242/1720","text":"Mariana Abreu"},{"@pid":"82/1479-1","text":"Hugo Plácido da Silva"},{"@pid":"f/AnaLNFred","text":"Ana Luísa Nobre Fred"}]},"title":"Automatic Detection of Tonic-Clonic and Myoclonic Epileptic Seizures Using Prefrontal Electroencephalography (EEG).","venue":"CBMS","pages":"19-24","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/CarmoASF21","doi":"10.1109/CBMS52027.2021.00011","ee":"https://doi.org/10.1109/CBMS52027.2021.00011","url":"https://dblp.org/rec/conf/cbms/CarmoASF21"},
+"url":"URL#2033410"
+},
+{
+"@score":"1",
+"@id":"2033411",
+"info":{"authors":{"author":[{"@pid":"217/8444","text":"Vaggelis Chaniotakis"},{"@pid":"44/5617","text":"Lefteris Koumakis"},{"@pid":"24/279","text":"Haridimos Kondylakis"},{"@pid":"297/2191","text":"George Notas"},{"@pid":"89/6058","text":"Dimitris Plexousakis"},{"@pid":"43/1967","text":"Manolis Tsiknakis"}]},"title":"Predictive Analytics Based on Open Source Technologies for Acute Respiratory Distress Syndrome.","venue":"CBMS","pages":"68-73","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ChaniotakisKKNP21","doi":"10.1109/CBMS52027.2021.00019","ee":"https://doi.org/10.1109/CBMS52027.2021.00019","url":"https://dblp.org/rec/conf/cbms/ChaniotakisKKNP21"},
+"url":"URL#2033411"
+},
+{
+"@score":"1",
+"@id":"2033412",
+"info":{"authors":{"author":[{"@pid":"273/7806","text":"José Maria Clementino"},{"@pid":"76/10286","text":"Bruno S. Faiçal"},{"@pid":"273/7433","text":"Christian C. Bones"},{"@pid":"t/CaetanoTrainaJr","text":"Caetano Traina"},{"@pid":"62/2558-1","text":"Marco A. Gutierrez 0001"},{"@pid":"t/AgmaJMTraina","text":"Agma J. M. Traina"}]},"title":"Multilevel Clustering Explainer: An Explainable Approach to Electronic Health Records.","venue":"CBMS","pages":"253-258","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ClementinoFBTGT21","doi":"10.1109/CBMS52027.2021.00073","ee":"https://doi.org/10.1109/CBMS52027.2021.00073","url":"https://dblp.org/rec/conf/cbms/ClementinoFBTGT21"},
+"url":"URL#2033412"
+},
+{
+"@score":"1",
+"@id":"2033413",
+"info":{"authors":{"author":[{"@pid":"251/0591","text":"Fabio R. Llorella Costa"},{"@pid":"87/1234","text":"José Maria Azorín"},{"@pid":"55/1705","text":"Gustavo Patow"}]},"title":"Black Hole algorithm with convolutional neural networks for the creation of a Brain-Switch using visual perception.","venue":"CBMS","pages":"44-49","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/CostaAP21","doi":"10.1109/CBMS52027.2021.00015","ee":"https://doi.org/10.1109/CBMS52027.2021.00015","url":"https://dblp.org/rec/conf/cbms/CostaAP21"},
+"url":"URL#2033413"
+},
+{
+"@score":"1",
+"@id":"2033414",
+"info":{"authors":{"author":[{"@pid":"77/10027","text":"Ran Cui"},{"@pid":"215/9969","text":"Chirath Hettiarachchi"},{"@pid":"297/2216","text":"Christopher J. Nolan"},{"@pid":"126/3543","text":"Elena Daskalaki"},{"@pid":"28/3067","text":"Hanna Suominen"}]},"title":"Personalised Short-Term Glucose Prediction via Recurrent Self-Attention Network.","venue":"CBMS","pages":"154-159","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/CuiHNDS21","doi":"10.1109/CBMS52027.2021.00064","ee":"https://doi.org/10.1109/CBMS52027.2021.00064","url":"https://dblp.org/rec/conf/cbms/CuiHNDS21"},
+"url":"URL#2033414"
+},
+{
+"@score":"1",
+"@id":"2033415",
+"info":{"authors":{"author":[{"@pid":"230/7986","text":"Macarena Díaz"},{"@pid":"206/1325","text":"Plácido L. Vidal"},{"@pid":"06/8229","text":"Jorge Novo"},{"@pid":"86/5278","text":"Marcos Ortega 0001"},{"@pid":"p/ManuelGPenedo","text":"Manuel G. Penedo"}]},"title":"Automatic Segmentation and Estimation of Ischemic Regions in Oct Angiography Scans.","venue":"CBMS","pages":"7-12","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/DiazVNOP21","doi":"10.1109/CBMS52027.2021.00009","ee":"https://doi.org/10.1109/CBMS52027.2021.00009","url":"https://dblp.org/rec/conf/cbms/DiazVNOP21"},
+"url":"URL#2033415"
+},
+{
+"@score":"1",
+"@id":"2033416",
+"info":{"authors":{"author":[{"@pid":"126/7633","text":"Thibaud Ecarot"},{"@pid":"64/364","text":"Benoît Fraikin"},{"@pid":"168/2267","text":"Luc Lavoie"},{"@pid":"133/5985","text":"Mark M. McGilchrist"},{"@pid":"133/5926","text":"Jean-François Ethier"}]},"title":"Learning Health Systems: An Anonymous Network Routing Protocol.","venue":"CBMS","pages":"562-567","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/EcarotFLME21","doi":"10.1109/CBMS52027.2021.00038","ee":"https://doi.org/10.1109/CBMS52027.2021.00038","url":"https://dblp.org/rec/conf/cbms/EcarotFLME21"},
+"url":"URL#2033416"
+},
+{
+"@score":"1",
+"@id":"2033417",
+"info":{"authors":{"author":[{"@pid":"295/4111","text":"Lorenzo Famiglini"},{"@pid":"297/2362","text":"Giorgio Bini"},{"@pid":"297/2409","text":"Anna Carobene"},{"@pid":"202/3116","text":"Andrea Campagner"},{"@pid":"20/4501","text":"Federico Cabitza"}]},"title":"Prediction of ICU admission for COVID-19 patients: a Machine Learning approach based on Complete Blood Count data.","venue":"CBMS","pages":"160-165","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/FamigliniBCCC21","doi":"10.1109/CBMS52027.2021.00065","ee":"https://doi.org/10.1109/CBMS52027.2021.00065","url":"https://dblp.org/rec/conf/cbms/FamigliniBCCC21"},
+"url":"URL#2033417"
+},
+{
+"@score":"1",
+"@id":"2033418",
+"info":{"authors":{"author":[{"@pid":"297/2140","text":"Renan Fialho"},{"@pid":"297/2251","text":"Rayele Moreira"},{"@pid":"297/2208","text":"Thalyta C. P. Santos"},{"@pid":"297/2346","text":"Samila Sousa Vasconcelos"},{"@pid":"297/2223","text":"Silmar Teixeira"},{"@pid":"126/9149","text":"Francisco Silva"},{"@pid":"25/3419","text":"Joel J. P. C. Rodrigues"},{"@pid":"174/9160","text":"Ariel Soares Teles"}]},"title":"Can computer vision be used for anthropometry? A feasibility study of a smart mobile application.","venue":"CBMS","pages":"119-124","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/FialhoMSVTSRT21","doi":"10.1109/CBMS52027.2021.00058","ee":"https://doi.org/10.1109/CBMS52027.2021.00058","url":"https://dblp.org/rec/conf/cbms/FialhoMSVTSRT21"},
+"url":"URL#2033418"
+},
+{
+"@score":"1",
+"@id":"2033419",
+"info":{"authors":{"author":[{"@pid":"147/6918","text":"Itamir de Morais Barroca Filho"},{"@pid":"243/8057","text":"Silvio Costa Sampaio"},{"@pid":"39/4378","text":"Anderson Paiva Cruz"},{"@pid":"276/4075","text":"Victor Hugo Freire Ramalho"},{"@pid":"276/4172","text":"Jefferson Augusto Rodrigues de Azevedo"},{"@pid":"276/4235","text":"Átila Caetano da Silveira"}]},"title":"More Agile than ever: the case study of the development of a dashboard for the management of ICU beds during the coronavirus outbreak.","venue":"CBMS","pages":"324-329","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/FilhoSCRAS21","doi":"10.1109/CBMS52027.2021.00028","ee":"https://doi.org/10.1109/CBMS52027.2021.00028","url":"https://dblp.org/rec/conf/cbms/FilhoSCRAS21"},
+"url":"URL#2033419"
+},
+{
+"@score":"1",
+"@id":"2033420",
+"info":{"authors":{"author":[{"@pid":"297/2356","text":"José Daniel P. Ribeiro Filho"},{"@pid":"174/9160","text":"Ariel Soares Teles"},{"@pid":"11/5493","text":"Francisco José da Silva e Silva"},{"@pid":"21/705","text":"Luciano R. Coutinho"}]},"title":"Towards Clustering Human Behavioral Patterns based on Digital Phenotyping.","venue":"CBMS","pages":"271-276","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/FilhoTSC21","doi":"10.1109/CBMS52027.2021.00076","ee":"https://doi.org/10.1109/CBMS52027.2021.00076","url":"https://dblp.org/rec/conf/cbms/FilhoTSC21"},
+"url":"URL#2033420"
+},
+{
+"@score":"1",
+"@id":"2033421",
+"info":{"authors":{"author":[{"@pid":"264/5810","text":"Alexander Ylnner Choquenaira Florez"},{"@pid":"184/0017","text":"Lucas C. Scabora"},{"@pid":"76/4884","text":"Danilo Medeiros Eler"},{"@pid":"r/JoseFernandoRodriguesJr","text":"José F. Rodrigues Jr."}]},"title":"APEHR: Automated Prognosis in Electronic Health Records using multi-head self-attention.","venue":"CBMS","pages":"277-282","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/FlorezSER21","doi":"10.1109/CBMS52027.2021.00077","ee":"https://doi.org/10.1109/CBMS52027.2021.00077","url":"https://dblp.org/rec/conf/cbms/FlorezSER21"},
+"url":"URL#2033421"
+},
+{
+"@score":"1",
+"@id":"2033422",
+"info":{"authors":{"author":[{"@pid":"297/2082","text":"Rodrigo Dutra Garcia"},{"@pid":"297/2105","text":"Gabriel Augusto Zutião"},{"@pid":"125/2771","text":"Gowri Sankar Ramachandran"},{"@pid":"68/1201","text":"Jo Ueyama"}]},"title":"Towards a decentralized e-prescription system using smart contracts.","venue":"CBMS","pages":"556-561","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GarciaZRU21","doi":"10.1109/CBMS52027.2021.00037","ee":"https://doi.org/10.1109/CBMS52027.2021.00037","url":"https://dblp.org/rec/conf/cbms/GarciaZRU21"},
+"url":"URL#2033422"
+},
+{
+"@score":"1",
+"@id":"2033423",
+"info":{"authors":{"author":[{"@pid":"297/2388","text":"Panagiota Gatoula"},{"@pid":"07/11072","text":"George Dimas"},{"@pid":"32/6935","text":"Dimitris K. Iakovidis"},{"@pid":"158/9642","text":"Anastasios Koulaouzidis"}]},"title":"Enhanced CNN-Based Gaze Estimation on Wireless Capsule Endoscopy Images.","venue":"CBMS","pages":"189-195","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GatoulaDIK21","doi":"10.1109/CBMS52027.2021.00070","ee":"https://doi.org/10.1109/CBMS52027.2021.00070","url":"https://dblp.org/rec/conf/cbms/GatoulaDIK21"},
+"url":"URL#2033423"
+},
+{
+"@score":"1",
+"@id":"2033424",
+"info":{"authors":{"author":[{"@pid":"273/7672","text":"Sourodip Ghosh"},{"@pid":"17/735","text":"KC Santosh"}]},"title":"Tumor Segmentation in Brain MRI: U-Nets versus Feature Pyramid Network.","venue":"CBMS","pages":"31-36","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GhoshS21","doi":"10.1109/CBMS52027.2021.00013","ee":"https://doi.org/10.1109/CBMS52027.2021.00013","url":"https://dblp.org/rec/conf/cbms/GhoshS21"},
+"url":"URL#2033424"
+},
+{
+"@score":"1",
+"@id":"2033425",
+"info":{"authors":{"author":[{"@pid":"273/7672","text":"Sourodip Ghosh"},{"@pid":"17/735","text":"KC Santosh"}]},"title":"Improved Gastrointestinal Screening: Deep Features using Stacked Generalization.","venue":"CBMS","pages":"196-201","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GhoshS21a","doi":"10.1109/CBMS52027.2021.00071","ee":"https://doi.org/10.1109/CBMS52027.2021.00071","url":"https://dblp.org/rec/conf/cbms/GhoshS21a"},
+"url":"URL#2033425"
+},
+{
+"@score":"1",
+"@id":"2033426",
+"info":{"authors":{"author":[{"@pid":"246/5598","text":"Biraja Ghoshal"},{"@pid":"53/4404","text":"Allan Tucker"}]},"title":"On Cost-Sensitive Calibrated Uncertainty in Deep Learning: An application on COVID-19 detection.","venue":"CBMS","pages":"503-509","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GhoshalT21","doi":"10.1109/CBMS52027.2021.00100","ee":"https://doi.org/10.1109/CBMS52027.2021.00100","url":"https://dblp.org/rec/conf/cbms/GhoshalT21"},
+"url":"URL#2033426"
+},
+{
+"@score":"1",
+"@id":"2033427",
+"info":{"authors":{"author":[{"@pid":"297/2325","text":"Henrik L. Gjestang"},{"@pid":"222/1245","text":"Steven Alexander Hicks"},{"@pid":"156/0270","text":"Vajira Thambawita"},{"@pid":"56/4802","text":"Pål Halvorsen"},{"@pid":"129/8082","text":"Michael A. Riegler"}]},"title":"A self-learning teacher-student framework for gastrointestinal image classification.","venue":"CBMS","pages":"539-544","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GjestangHTHR21","doi":"10.1109/CBMS52027.2021.00087","ee":"https://doi.org/10.1109/CBMS52027.2021.00087","url":"https://dblp.org/rec/conf/cbms/GjestangHTHR21"},
+"url":"URL#2033427"
+},
+{
+"@score":"1",
+"@id":"2033428",
+"info":{"authors":{"author":[{"@pid":"315/3826","text":"Caroline Barcelos Gonçalves"},{"@pid":"72/7359","text":"Jefferson R. Souza"},{"@pid":"62/561","text":"Henrique C. Fernandes"}]},"title":"Classification of static infrared images using pre-trained CNN for breast cancer detection.","venue":"CBMS","pages":"101-106","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GoncalvesSF21","doi":"10.1109/CBMS52027.2021.00094","ee":"https://doi.org/10.1109/CBMS52027.2021.00094","url":"https://dblp.org/rec/conf/cbms/GoncalvesSF21"},
+"url":"URL#2033428"
+},
+{
+"@score":"1",
+"@id":"2033429",
+"info":{"authors":{"author":[{"@pid":"297/2316","text":"Ruben Vasallo González"},{"@pid":"26/717","text":"Antonio Robles-Gómez"},{"@pid":"142/4539","text":"Rafael Pastor Vargas"},{"@pid":"193/2273","text":"Juan Mario Haut"},{"@pid":"297/2312","text":"Nicolás A. Passadore"},{"@pid":"178/1606","text":"Mercedes Eugenia Paoletti"},{"@pid":"134/2166","text":"Carlos Luis Sánchez-Bocanegra"},{"@pid":"55/9982","text":"Llanos Tobarra"},{"@pid":"297/2106","text":"Karla A. Chacón-Vargas"},{"@pid":"146/7935","text":"Roberto Hernández Berlinches"},{"@pid":"11/2166","text":"Francesc Saigí Rubió"}]},"title":"A Recommendation System for Electronic Health Records in the Context of the HOPE Project.","venue":"CBMS","pages":"603-608","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GonzalezRVHPPST21","doi":"10.1109/CBMS52027.2021.00108","ee":"https://doi.org/10.1109/CBMS52027.2021.00108","url":"https://dblp.org/rec/conf/cbms/GonzalezRVHPPST21"},
+"url":"URL#2033429"
+},
+{
+"@score":"1",
+"@id":"2033430",
+"info":{"authors":{"author":[{"@pid":"266/1413","text":"Valerio Guarrasi"},{"@pid":"234/3500","text":"Natascha Claudia D&apos;Amico"},{"@pid":"211/4197","text":"Rosa Sicilia"},{"@pid":"64/10040","text":"Ermanno Cordelli"},{"@pid":"49/5247","text":"Paolo Soda"}]},"title":"A Multi-Expert System to Detect COVID-19 Cases in X-ray Images.","venue":"CBMS","pages":"395-400","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GuarrasiDSCS21","doi":"10.1109/CBMS52027.2021.00090","ee":"https://doi.org/10.1109/CBMS52027.2021.00090","url":"https://dblp.org/rec/conf/cbms/GuarrasiDSCS21"},
+"url":"URL#2033430"
+},
+{
+"@score":"1",
+"@id":"2033431",
+"info":{"authors":{"author":[{"@pid":"297/2203","text":"Rodrigo Escobar Díaz Guerrero"},{"@pid":"10/1144","text":"José Luís Oliveira"}]},"title":"Improvements in lymphocytes detection using deep learning with a preprocessing stage.","venue":"CBMS","pages":"178-182","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GuerreroO21","doi":"10.1109/CBMS52027.2021.00068","ee":"https://doi.org/10.1109/CBMS52027.2021.00068","url":"https://dblp.org/rec/conf/cbms/GuerreroO21"},
+"url":"URL#2033431"
+},
+{
+"@score":"1",
+"@id":"2033432",
+"info":{"authors":{"author":[{"@pid":"287/2189","text":"Mehmet Akif Gulum"},{"@pid":"287/1863","text":"Christopher M. Trombley"},{"@pid":"k/MehmedMKantardzic","text":"Mehmed M. Kantardzic"}]},"title":"Improved Deep Learning Explanations for Prostate Lesion Classification through Grad-CAM and Saliency Map Fusion.","venue":"CBMS","pages":"498-502","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GulumTK21","doi":"10.1109/CBMS52027.2021.00099","ee":"https://doi.org/10.1109/CBMS52027.2021.00099","url":"https://dblp.org/rec/conf/cbms/GulumTK21"},
+"url":"URL#2033432"
+},
+{
+"@score":"1",
+"@id":"2033433",
+"info":{"authors":{"author":[{"@pid":"252/9206","text":"Yubraj Gupta"},{"@pid":"c/CarlosCosta","text":"Carlos Costa 0001"},{"@pid":"151/8351","text":"Eduardo Pinho"},{"@pid":"87/9496","text":"Luís A. Bastião Silva"},{"@pid":"297/2212","text":"Shibarjun Mandal"},{"@pid":"146/2860","text":"Ute Neugebauer"}]},"title":"Dicomization of LSM fluorescence composite microscopic image with its bioimaging information.","venue":"CBMS","pages":"533-538","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Gupta0PSMN21","doi":"10.1109/CBMS52027.2021.00086","ee":"https://doi.org/10.1109/CBMS52027.2021.00086","url":"https://dblp.org/rec/conf/cbms/Gupta0PSMN21"},
+"url":"URL#2033433"
+},
+{
+"@score":"1",
+"@id":"2033434",
+"info":{"authors":{"author":[{"@pid":"249/4132","text":"Noor Jamaludeen"},{"@pid":"154/6164-2","text":"Vishnu Unnikrishnan 0002"},{"@pid":"55/2890","text":"Rüdiger Pryss"},{"@pid":"135/3115","text":"Johannes Schobel"},{"@pid":"26/11222","text":"Winfried Schlee"},{"@pid":"s/MyraSpiliopoulou","text":"Myra Spiliopoulou"}]},"title":"Circadian Conditional Granger Causalities on Ecological Momentary Assessment Data from an mHealth App.","venue":"CBMS","pages":"354-359","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/JamaludeenUPSSS21","doi":"10.1109/CBMS52027.2021.00110","ee":"https://doi.org/10.1109/CBMS52027.2021.00110","url":"https://dblp.org/rec/conf/cbms/JamaludeenUPSSS21"},
+"url":"URL#2033434"
+},
+{
+"@score":"1",
+"@id":"2033435",
+"info":{"authors":{"author":[{"@pid":"211/9569","text":"Debesh Jha"},{"@pid":"282/4350","text":"Nikhil Kumar Tomar"},{"@pid":"14/11430","text":"Sharib Ali"},{"@pid":"129/8082","text":"Michael A. Riegler"},{"@pid":"54/5401","text":"Håvard D. Johansen"},{"@pid":"11/5888","text":"Dag Johansen"},{"@pid":"180/1698","text":"Thomas de Lange"},{"@pid":"56/4802","text":"Pål Halvorsen"}]},"title":"NanoNet: Real-Time Polyp Segmentation in Video Capsule Endoscopy and Colonoscopy.","venue":"CBMS","pages":"37-43","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/JhaTARJJLH21","doi":"10.1109/CBMS52027.2021.00014","ee":"https://doi.org/10.1109/CBMS52027.2021.00014","url":"https://dblp.org/rec/conf/cbms/JhaTARJJLH21"},
+"url":"URL#2033435"
+},
+{
+"@score":"1",
+"@id":"2033436",
+"info":{"authors":{"author":[{"@pid":"245/2650","text":"Mohammed Khaleel"},{"@pid":"79/5821","text":"Wallapak Tavanapong"},{"@pid":"w/JohnnySWong","text":"Johnny Wong 0001"},{"@pid":"44/5378-1","text":"Jung-Hwan Oh 0001"},{"@pid":"07/214","text":"Piet C. de Groen"}]},"title":"Hierarchical Visual Concept Interpretation for Medical Image Classification.","venue":"CBMS","pages":"25-30","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KhaleelTWOG21","doi":"10.1109/CBMS52027.2021.00012","ee":"https://doi.org/10.1109/CBMS52027.2021.00012","url":"https://dblp.org/rec/conf/cbms/KhaleelTWOG21"},
+"url":"URL#2033436"
+},
+{
+"@score":"1",
+"@id":"2033437",
+"info":{"authors":{"author":[{"@pid":"297/2343","text":"Snigdha Kodela"},{"@pid":"297/2254","text":"Jahnavi Pinnamraju"},{"@pid":"134/2353","text":"Judy W. Gichoya"},{"@pid":"53/10677","text":"Saptarshi Purkayastha"}]},"title":"Predicting Opioid Prescriptions based on Patient Demographics in MIMIC-IV.","venue":"CBMS","pages":"225-230","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KodelaPGP21","doi":"10.1109/CBMS52027.2021.00023","ee":"https://doi.org/10.1109/CBMS52027.2021.00023","url":"https://dblp.org/rec/conf/cbms/KodelaPGP21"},
+"url":"URL#2033437"
+},
+{
+"@score":"1",
+"@id":"2033438",
+"info":{"authors":{"author":[{"@pid":"98/6329","text":"Hieu Hanh Le"},{"@pid":"297/2171","text":"Yutaka Horino"},{"@pid":"45/8753","text":"Tomoyoshi Yamazaki"},{"@pid":"02/2443","text":"Kenji Araki"},{"@pid":"y/HaruoYokota","text":"Haruo Yokota"}]},"title":"Sequential Pattern Mining of Large Combinable Items with Values for a Set-of-items Recommendation.","venue":"CBMS","pages":"56-61","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LeHYAY21","doi":"10.1109/CBMS52027.2021.00017","ee":"https://doi.org/10.1109/CBMS52027.2021.00017","url":"https://dblp.org/rec/conf/cbms/LeHYAY21"},
+"url":"URL#2033438"
+},
+{
+"@score":"1",
+"@id":"2033439",
+"info":{"authors":{"author":[{"@pid":"200/5704","text":"Claudio D. G. Linhares"},{"@pid":"137/8850","text":"Daniel Mario de Lima"},{"@pid":"273/7433","text":"Christian C. Bones"},{"@pid":"65/6380","text":"Marina F. S. de Sá Rebelo"},{"@pid":"62/2558-1","text":"Marco A. Gutierrez 0001"},{"@pid":"t/CaetanoTrainaJr","text":"Caetano Traina"},{"@pid":"t/AgmaJMTraina","text":"Agma J. M. Traina"}]},"title":"I-CovidVis - A Visual Analytics Tool for Interoperable Healthcare Databases using Graphs.","venue":"CBMS","pages":"125-130","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LinharesLBRGTT21","doi":"10.1109/CBMS52027.2021.00059","ee":"https://doi.org/10.1109/CBMS52027.2021.00059","url":"https://dblp.org/rec/conf/cbms/LinharesLBRGTT21"},
+"url":"URL#2033439"
+},
+{
+"@score":"1",
+"@id":"2033440",
+"info":{"authors":{"author":[{"@pid":"176/0937","text":"Aneta Lisowska"},{"@pid":"77/4305","text":"Szymon Wilk"},{"@pid":"27/6717","text":"Mor Peleg"}]},"title":"Is it a good time to survey you? Cognitive load classification from blood volume pulse.","venue":"CBMS","pages":"137-141","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LisowskaWP21","doi":"10.1109/CBMS52027.2021.00061","ee":"https://doi.org/10.1109/CBMS52027.2021.00061","url":"https://dblp.org/rec/conf/cbms/LisowskaWP21"},
+"url":"URL#2033440"
+},
+{
+"@score":"1",
+"@id":"2033441",
+"info":{"authors":{"author":[{"@pid":"184/8532","text":"Charles Z. Liu"},{"@pid":"211/4197","text":"Rosa Sicilia"},{"@pid":"273/7903","text":"Matteo Tortora"},{"@pid":"64/10040","text":"Ermanno Cordelli"},{"@pid":"297/2233","text":"Lorenzo Nibid"},{"@pid":"297/2352","text":"Giovanna Sabarese"},{"@pid":"297/2231","text":"Giuseppe Perrone"},{"@pid":"223/6934","text":"Michele Fiore"},{"@pid":"10/9502","text":"Sara Ramella"},{"@pid":"49/5247","text":"Paolo Soda"}]},"title":"Exploring Deep Pathomics in Lung Cancer.","venue":"CBMS","pages":"407-412","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LiuSTCNSPFRS21","doi":"10.1109/CBMS52027.2021.00092","ee":"https://doi.org/10.1109/CBMS52027.2021.00092","url":"https://dblp.org/rec/conf/cbms/LiuSTCNSPFRS21"},
+"url":"URL#2033441"
+},
+{
+"@score":"1",
+"@id":"2033442",
+"info":{"authors":{"author":[{"@pid":"52/5716","text":"Chang Liu"},{"@pid":"65/3936","text":"Shu Zhou"},{"@pid":"137/8552","text":"Irena Vodenska"},{"@pid":"14/1033","text":"Lou Chitkushev"},{"@pid":"16/2037","text":"Guanglan Zhang"},{"@pid":"54/9245","text":"Shahin Gheitanchi"},{"@pid":"45/8574","text":"Reza Rawassizadeh"}]},"title":"Blockchain Technology in Healthcare: A Scientific and Technological Driving Force.","venue":"CBMS","pages":"550-555","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LiuZVCZGR21","doi":"10.1109/CBMS52027.2021.00036","ee":"https://doi.org/10.1109/CBMS52027.2021.00036","url":"https://dblp.org/rec/conf/cbms/LiuZVCZGR21"},
+"url":"URL#2033442"
+},
+{
+"@score":"1",
+"@id":"2033443",
+"info":{"authors":{"author":[{"@pid":"185/5742","text":"Saurav Maji"},{"@pid":"213/0925","text":"Utsav Banerjee"},{"@pid":"11/4922","text":"Samuel H. Fuller"},{"@pid":"158/8054","text":"Rabia Tugce Yazicigil"},{"@pid":"c/AnanthaChandrakasan","text":"Anantha P. Chandrakasan"}]},"title":"Securing Embedded Medical Devices using Dual-Factor Authentication.","venue":"CBMS","pages":"574-579","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MajiBFYC21","doi":"10.1109/CBMS52027.2021.00040","ee":"https://doi.org/10.1109/CBMS52027.2021.00040","url":"https://dblp.org/rec/conf/cbms/MajiBFYC21"},
+"url":"URL#2033443"
+},
+{
+"@score":"1",
+"@id":"2033444",
+"info":{"authors":{"author":[{"@pid":"165/6774","text":"Teo Manojlovic"},{"@pid":"149/0717","text":"Matija Milanic"},{"@pid":"81/379","text":"Ivan Stajduhar"}]},"title":"Deep embedded clustering algorithm for clustering PACS repositories.","venue":"CBMS","pages":"401-406","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ManojlovicMS21","doi":"10.1109/CBMS52027.2021.00091","ee":"https://doi.org/10.1109/CBMS52027.2021.00091","url":"https://dblp.org/rec/conf/cbms/ManojlovicMS21"},
+"url":"URL#2033444"
+},
+{
+"@score":"1",
+"@id":"2033445",
+"info":{"authors":{"author":[{"@pid":"297/2198","text":"Aldo Martinazzo"},{"@pid":"51/2498","text":"Luiz Eduardo Galvão Martins"},{"@pid":"297/2144","text":"Sebastião Vagner Aredes"},{"@pid":"165/9422","text":"Tatiana Sousa Cunha"}]},"title":"Risk Management of a Low-cost Insulin Infusion Pump: A Case Study with a Brazilian Company.","venue":"CBMS","pages":"336-341","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MartinazzoMAC21","doi":"10.1109/CBMS52027.2021.00030","ee":"https://doi.org/10.1109/CBMS52027.2021.00030","url":"https://dblp.org/rec/conf/cbms/MartinazzoMAC21"},
+"url":"URL#2033445"
+},
+{
+"@score":"1",
+"@id":"2033446",
+"info":{"authors":{"author":[{"@pid":"297/2249","text":"Radvile Mauricaite"},{"@pid":"297/2370","text":"Ella Mi"},{"@pid":"259/2649","text":"Jiarong Chen"},{"@pid":"11/765","text":"Andrew Ho"},{"@pid":"297/2183","text":"Lillie Pakzad-Shahabi"},{"@pid":"72/2927","text":"Matt Williams"}]},"title":"A fully automated deep learning pipeline to assess muscle mass in brain tumor patients.","venue":"CBMS","pages":"107-112","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MauricaiteMCHPW21","doi":"10.1109/CBMS52027.2021.00095","ee":"https://doi.org/10.1109/CBMS52027.2021.00095","url":"https://dblp.org/rec/conf/cbms/MauricaiteMCHPW21"},
+"url":"URL#2033446"
+},
+{
+"@score":"1",
+"@id":"2033447",
+"info":{"authors":{"author":[{"@pid":"180/2533","text":"Argyro Mavrogiorgou"},{"@pid":"297/2265","text":"Spyridon Kleftakis"},{"@pid":"297/2155","text":"Konstantinos Mavrogiorgos"},{"@pid":"297/2102","text":"Nikolaos Zafeiropoulos"},{"@pid":"03/5641","text":"Andreas Menychtas"},{"@pid":"180/2481","text":"Athanasios Kiourtis"},{"@pid":"64/836","text":"Ilias Maglogiannis"},{"@pid":"85/4341","text":"Dimosthenis Kyriazis"}]},"title":"beHEALTHIER: A Microservices Platform for Analyzing and Exploiting Healthcare Data.","venue":"CBMS","pages":"283-288","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MavrogiorgouKMZ21","doi":"10.1109/CBMS52027.2021.00078","ee":"https://doi.org/10.1109/CBMS52027.2021.00078","url":"https://dblp.org/rec/conf/cbms/MavrogiorgouKMZ21"},
+"url":"URL#2033447"
+},
+{
+"@score":"1",
+"@id":"2033448",
+"info":{"authors":{"author":[{"@pid":"222/9262","text":"Roy Meléndez"},{"@pid":"125/1647","text":"César Armando Beltrán Castañón"},{"@pid":"25/10802","text":"Rosario Medina Rodríguez"}]},"title":"Sperm Cell Segmentation in Digital Micrographs based on Convolutional Neural Networks using U-Net Architecture.","venue":"CBMS","pages":"91-96","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MelendezCR21","doi":"10.1109/CBMS52027.2021.00084","ee":"https://doi.org/10.1109/CBMS52027.2021.00084","url":"https://dblp.org/rec/conf/cbms/MelendezCR21"},
+"url":"URL#2033448"
+},
+{
+"@score":"1",
+"@id":"2033449",
+"info":{"authors":{"author":[{"@pid":"271/4655","text":"Fernando Meloni"},{"@pid":"297/2286","text":"Bianca Sicchieri"},{"@pid":"297/2263","text":"Patricia Mandrá"},{"@pid":"08/6838","text":"Renato Bulcão Neto"},{"@pid":"m/AlessandraAMacedo","text":"Alessandra Alaniz Macedo"}]},"title":"A Nonverbal Recognition Method to Assist Speech.","venue":"CBMS","pages":"360-365","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MeloniSMNM21","doi":"10.1109/CBMS52027.2021.00111","ee":"https://doi.org/10.1109/CBMS52027.2021.00111","url":"https://dblp.org/rec/conf/cbms/MeloniSMNM21"},
+"url":"URL#2033449"
+},
+{
+"@score":"1",
+"@id":"2033450",
+"info":{"authors":{"author":[{"@pid":"230/9051","text":"Fernando Moncada Martins"},{"@pid":"145/5859","text":"Víctor M. González 0002"},{"@pid":"65/5046","text":"Víctor Álvarez"},{"@pid":"302/2933","text":"Beatriz García-López"},{"@pid":"01/1046","text":"José R. Villar 0001"}]},"title":"A Preliminary Study on Automatic Detection and Filtering of Artifacts from EEG Signals.","venue":"CBMS","pages":"420-425","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MoncadaGAGV21","doi":"10.1109/CBMS52027.2021.00046","ee":"https://doi.org/10.1109/CBMS52027.2021.00046","url":"https://dblp.org/rec/conf/cbms/MoncadaGAGV21"},
+"url":"URL#2033450"
+},
+{
+"@score":"1",
+"@id":"2033451",
+"info":{"authors":{"author":[{"@pid":"218/0878","text":"Elias Moons"},{"@pid":"m/MarieFrancineMoens","text":"Marie-Francine Moens"}]},"title":"Clinical Report Classification: Continually Learning from User Feedback.","venue":"CBMS","pages":"455-460","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MoonsM21","doi":"10.1109/CBMS52027.2021.00053","ee":"https://doi.org/10.1109/CBMS52027.2021.00053","url":"https://dblp.org/rec/conf/cbms/MoonsM21"},
+"url":"URL#2033451"
+},
+{
+"@score":"1",
+"@id":"2033452",
+"info":{"authors":{"author":[{"@pid":"152/2800","text":"Natalia Mordvanyuk"},{"@pid":"297/2164","text":"Jaume Gauchola"},{"@pid":"l/BeatrizLopez","text":"Beatriz López 0001"}]},"title":"Understanding affective behaviour from physiological signals: Feature learning versus pattern mining.","venue":"CBMS","pages":"438-443","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MordvanyukGL21","doi":"10.1109/CBMS52027.2021.00049","ee":"https://doi.org/10.1109/CBMS52027.2021.00049","url":"https://dblp.org/rec/conf/cbms/MordvanyukGL21"},
+"url":"URL#2033452"
+},
+{
+"@score":"1",
+"@id":"2033453",
+"info":{"authors":{"author":[{"@pid":"85/3960","text":"Laura Moss"},{"@pid":"200/2196","text":"Martin Shaw"},{"@pid":"80/24","text":"Ian Piper"},{"@pid":"21/4397","text":"John Kinsella"},{"@pid":"185/0775","text":"Christopher Hawthorne"}]},"title":"CHART-ADAPT: Enabling actionable analytics at the critical care unit bedside.","venue":"CBMS","pages":"301-306","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MossSPKH21","doi":"10.1109/CBMS52027.2021.00032","ee":"https://doi.org/10.1109/CBMS52027.2021.00032","url":"https://dblp.org/rec/conf/cbms/MossSPKH21"},
+"url":"URL#2033453"
+},
+{
+"@score":"1",
+"@id":"2033454",
+"info":{"authors":{"author":[{"@pid":"166/4779","text":"Joaquim de Moura"},{"@pid":"06/8229","text":"Jorge Novo"},{"@pid":"86/5278","text":"Marcos Ortega 0001"},{"@pid":"93/1602","text":"Noelia Barreira"},{"@pid":"p/ManuelGPenedo","text":"Manuel G. Penedo"}]},"title":"Automated Segmentation of the Central Serous Chorioretinopathy fluid regions using Optical Coherence Tomography Scans.","venue":"CBMS","pages":"1-6","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MouraNOBP21","doi":"10.1109/CBMS52027.2021.00008","ee":"https://doi.org/10.1109/CBMS52027.2021.00008","url":"https://dblp.org/rec/conf/cbms/MouraNOBP21"},
+"url":"URL#2033454"
+},
+{
+"@score":"1",
+"@id":"2033455",
+"info":{"authors":{"author":[{"@pid":"201/1169","text":"Muhammad Muzammel"},{"@pid":"226/3511","text":"Alice Othmani"},{"@pid":"196/7532","text":"Himadri Mukherjee"},{"@pid":"96/9605","text":"Hanan Salam"}]},"title":"Identification of Signs of Depression Relapse using Audio-visual Cues: A Preliminary Study.","venue":"CBMS","pages":"62-67","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MuzammelOMS21","doi":"10.1109/CBMS52027.2021.00018","ee":"https://doi.org/10.1109/CBMS52027.2021.00018","url":"https://dblp.org/rec/conf/cbms/MuzammelOMS21"},
+"url":"URL#2033455"
+},
+{
+"@score":"1",
+"@id":"2033456",
+"info":{"authors":{"author":[{"@pid":"265/6455","text":"Mina A. Nessiem"},{"@pid":"227/3348","text":"Mostafa M. Mohamed"},{"@pid":"282/4615","text":"Harry Coppock"},{"@pid":"282/3890","text":"Alexander Gaskell"},{"@pid":"54/4934","text":"Björn W. Schuller"}]},"title":"Detecting COVID-19 from Breathing and Coughing Sounds using Deep Neural Networks.","venue":"CBMS","pages":"183-188","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/NessiemMCGS21","doi":"10.1109/CBMS52027.2021.00069","ee":"https://doi.org/10.1109/CBMS52027.2021.00069","url":"https://dblp.org/rec/conf/cbms/NessiemMCGS21"},
+"url":"URL#2033456"
+},
+{
+"@score":"1",
+"@id":"2033457",
+"info":{"authors":{"author":[{"@pid":"186/9857","text":"Lara Orlandic"},{"@pid":"171/7473","text":"Adriana Arza Valdés"},{"@pid":"a/DavidAtienza","text":"David Atienza"}]},"title":"Wearable and Continuous Prediction of Passage of Time Perception for Monitoring Mental Health.","venue":"CBMS","pages":"444-449","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/OrlandicVA21","doi":"10.1109/CBMS52027.2021.00050","ee":"https://doi.org/10.1109/CBMS52027.2021.00050","url":"https://dblp.org/rec/conf/cbms/OrlandicVA21"},
+"url":"URL#2033457"
+},
+{
+"@score":"1",
+"@id":"2033458",
+"info":{"authors":{"author":[{"@pid":"223/6965","text":"Silvia Panicacci"},{"@pid":"242/5613","text":"Gianluca Giuffrida"},{"@pid":"125/8148","text":"Massimiliano Donati"},{"@pid":"297/2147","text":"Alberto Lubrano"},{"@pid":"227/8803","text":"Alessio Ruiu"},{"@pid":"25/1398","text":"Luca Fanucci"}]},"title":"Empowering Home Health Monitoring of Covid-19 Patients with Smartwatch Position and Fitness Tracking.","venue":"CBMS","pages":"348-353","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PanicacciGDLRF21","doi":"10.1109/CBMS52027.2021.00109","ee":"https://doi.org/10.1109/CBMS52027.2021.00109","url":"https://dblp.org/rec/conf/cbms/PanicacciGDLRF21"},
+"url":"URL#2033458"
+},
+{
+"@score":"1",
+"@id":"2033459",
+"info":{"authors":{"author":[{"@pid":"259/5641","text":"Urja Pawar"},{"@pid":"297/2280","text":"Christopher T. Culbert"},{"@pid":"78/10040","text":"Ruairi O&apos;Reilly"}]},"title":"Evaluating Hierarchical Medical Workflows using Feature Importance.","venue":"CBMS","pages":"265-270","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PawarCO21","doi":"10.1109/CBMS52027.2021.00075","ee":"https://doi.org/10.1109/CBMS52027.2021.00075","url":"https://dblp.org/rec/conf/cbms/PawarCO21"},
+"url":"URL#2033459"
+},
+{
+"@score":"1",
+"@id":"2033460",
+"info":{"authors":{"author":[{"@pid":"128/0856","text":"Arnaldo Pereira"},{"@pid":"00/6753","text":"Rui Pedro Lopes"},{"@pid":"10/1144","text":"José Luís Oliveira"}]},"title":"Easing the Questioning of Semantic Biomedical Data.","venue":"CBMS","pages":"384-388","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PereiraLO21","doi":"10.1109/CBMS52027.2021.00044","ee":"https://doi.org/10.1109/CBMS52027.2021.00044","url":"https://dblp.org/rec/conf/cbms/PereiraLO21"},
+"url":"URL#2033460"
+},
+{
+"@score":"1",
+"@id":"2033461",
+"info":{"authors":{"author":[{"@pid":"297/2090","text":"Juliana Wolf Pereira"},{"@pid":"82/2917","text":"Marcela Xavier Ribeiro"}]},"title":"Semantic Annotation and Classification of Mammography Images using Ontologies.","venue":"CBMS","pages":"378-383","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PereiraR21","doi":"10.1109/CBMS52027.2021.00043","ee":"https://doi.org/10.1109/CBMS52027.2021.00043","url":"https://dblp.org/rec/conf/cbms/PereiraR21"},
+"url":"URL#2033461"
+},
+{
+"@score":"1",
+"@id":"2033462",
+"info":{"authors":{"author":[{"@pid":"193/5399","text":"Jonathan S. Ramos"},{"@pid":"297/2273","text":"Jamilly G. Maciel"},{"@pid":"135/8726","text":"Mirela T. Cazzolato"},{"@pid":"t/CaetanoTrainaJr","text":"Caetano Traina"},{"@pid":"137/2365","text":"Marcello H. Nogueira-Barbosa"},{"@pid":"t/AgmaJMTraina","text":"Agma J. M. Traina"}]},"title":"BEAUT: a radiomic approach to identify potential lumbar fractures in magnetic resonance imaging.","venue":"CBMS","pages":"389-394","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RamosMCTNT21","doi":"10.1109/CBMS52027.2021.00089","ee":"https://doi.org/10.1109/CBMS52027.2021.00089","url":"https://dblp.org/rec/conf/cbms/RamosMCTNT21"},
+"url":"URL#2033462"
+},
+{
+"@score":"1",
+"@id":"2033463",
+"info":{"authors":{"author":[{"@pid":"225/5587","text":"Jonathan Rebane"},{"@pid":"249/2445","text":"Isak Samsten"},{"@pid":"297/2210","text":"Panteleimon Pantelidis"},{"@pid":"59/3814","text":"Panagiotis Papapetrou"}]},"title":"Assessing the Clinical Validity of Attention-based and SHAP Temporal Explanations for Adverse Drug Event Predictions.","venue":"CBMS","pages":"235-240","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RebaneSPP21","doi":"10.1109/CBMS52027.2021.00025","ee":"https://doi.org/10.1109/CBMS52027.2021.00025","url":"https://dblp.org/rec/conf/cbms/RebaneSPP21"},
+"url":"URL#2033463"
+},
+{
+"@score":"1",
+"@id":"2033464",
+"info":{"authors":{"author":[{"@pid":"245/3196","text":"Lúcio Henrik A. Reis"},{"@pid":"239/3409","text":"Marcela T. de Oliveira"},{"@pid":"144/8416","text":"Diogo M. F. Mattos"},{"@pid":"o/SilviaDelgadoOlabarriaga","text":"Sílvia D. Olabarriaga"}]},"title":"Private Data Sharing in a Secure Cloud-based Application for Acute Stroke Care.","venue":"CBMS","pages":"568-573","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ReisOMO21","doi":"10.1109/CBMS52027.2021.00039","ee":"https://doi.org/10.1109/CBMS52027.2021.00039","url":"https://dblp.org/rec/conf/cbms/ReisOMO21"},
+"url":"URL#2033464"
+},
+{
+"@score":"1",
+"@id":"2033465",
+"info":{"authors":{"author":[{"@pid":"297/2397","text":"Mirian C. Revers"},{"@pid":"297/2236","text":"Jessica S. Oliveira"},{"@pid":"297/2284","text":"Felipe O. Franco"},{"@pid":"297/2347","text":"Joana Portolese"},{"@pid":"297/2360","text":"Thiago V. Cardoso"},{"@pid":"297/2381","text":"Andréia F. Silva"},{"@pid":"140/1010","text":"Ariane Machado-Lima"},{"@pid":"87/8751","text":"Fátima L. S. Nunes"},{"@pid":"191/5072","text":"Helena Paula Brentani"}]},"title":"Classification of Autism Spectrum Disorder Severity Using Eye Tracking Data Based on Visual Attention Model.","venue":"CBMS","pages":"142-147","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ReversOFPCSMNB21","doi":"10.1109/CBMS52027.2021.00062","ee":"https://doi.org/10.1109/CBMS52027.2021.00062","url":"https://dblp.org/rec/conf/cbms/ReversOFPCSMNB21"},
+"url":"URL#2033465"
+},
+{
+"@score":"1",
+"@id":"2033466",
+"info":{"authors":{"author":[{"@pid":"297/2282","text":"Ana G. Rúa"},{"@pid":"220/9824","text":"Noelia Rico-Pachón"},{"@pid":"67/1625","text":"Ana Alonso"},{"@pid":"297/2194","text":"Elena Díaz"},{"@pid":"297/2351","text":"S. Irene Díaz-Rodríguez"}]},"title":"On the identification of chronodisruption-based biomarkers to estimate pregnancy attempt time.","venue":"CBMS","pages":"413-419","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RuaRADD21","doi":"10.1109/CBMS52027.2021.00045","ee":"https://doi.org/10.1109/CBMS52027.2021.00045","url":"https://dblp.org/rec/conf/cbms/RuaRADD21"},
+"url":"URL#2033466"
+},
+{
+"@score":"1",
+"@id":"2033467",
+"info":{"authors":{"author":[{"@pid":"297/2116","text":"Nagore Sagastibeltza"},{"@pid":"168/4484","text":"Asier Salazar-Ramirez"},{"@pid":"45/1356","text":"Raquel Martínez"},{"@pid":"297/2268","text":"Maitane Martinez-Eguiluz"},{"@pid":"17/2748","text":"Javier Muguerza"},{"@pid":"297/2079","text":"Nora Cívicos Sánchez"},{"@pid":"297/2401","text":"Montserrat Cuadrado"},{"@pid":"297/2118","text":"María Luisa Jauregui Abrisqueta"}]},"title":"Preliminary analysis of features based on GSR/RR signals for spinal cord injury patients.","venue":"CBMS","pages":"426-431","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SagastibeltzaSM21","doi":"10.1109/CBMS52027.2021.00047","ee":"https://doi.org/10.1109/CBMS52027.2021.00047","url":"https://dblp.org/rec/conf/cbms/SagastibeltzaSM21"},
+"url":"URL#2033467"
+},
+{
+"@score":"1",
+"@id":"2033468",
+"info":{"authors":{"author":[{"@pid":"243/1899","text":"Seyed Erfan Sajjadi"},{"@pid":"53/4404","text":"Allan Tucker"}]},"title":"Exploiting Clinical Staging Data to Constrain Pseudo-Time Modelling of Disease Progression.","venue":"CBMS","pages":"241-246","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SajjadiT21","doi":"10.1109/CBMS52027.2021.00026","ee":"https://doi.org/10.1109/CBMS52027.2021.00026","url":"https://dblp.org/rec/conf/cbms/SajjadiT21"},
+"url":"URL#2033468"
+},
+{
+"@score":"1",
+"@id":"2033469",
+"info":{"authors":{"author":[{"@pid":"288/7699","text":"Ahmed M. A. Salih"},{"@pid":"157/7105","text":"Ilaria Boscolo Galazzo"},{"@pid":"297/2405","text":"Zahra Raisi-Estabragh"},{"@pid":"188/6392","text":"Steffen E. Petersen"},{"@pid":"117/1961","text":"Polyxeni Gkontra"},{"@pid":"73/4088","text":"Karim Lekadir"},{"@pid":"76/1361","text":"Gloria Menegaz"},{"@pid":"r/PetiaRadeva","text":"Petia Radeva"}]},"title":"A new scheme for the assessment of the robustness of Explainable Methods Applied to Brain Age estimation.","venue":"CBMS","pages":"492-497","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SalihGRPGLMR21","doi":"10.1109/CBMS52027.2021.00098","ee":"https://doi.org/10.1109/CBMS52027.2021.00098","url":"https://dblp.org/rec/conf/cbms/SalihGRPGLMR21"},
+"url":"URL#2033469"
+},
+{
+"@score":"1",
+"@id":"2033470",
+"info":{"authors":{"author":[{"@pid":"297/2290","text":"Beatriz P. Santos"},{"@pid":"87/7298","text":"Maryam Abbasi"},{"@pid":"03/9781-1","text":"Tiago Pereira 0001"},{"@pid":"48/4666","text":"Bernardete Ribeiro"},{"@pid":"02/5399","text":"Joel P. Arrais"}]},"title":"Optimizing Recurrent Neural Network Architectures for De Novo Drug Design.","venue":"CBMS","pages":"172-177","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SantosAPRA21","doi":"10.1109/CBMS52027.2021.00067","ee":"https://doi.org/10.1109/CBMS52027.2021.00067","url":"https://dblp.org/rec/conf/cbms/SantosAPRA21"},
+"url":"URL#2033470"
+},
+{
+"@score":"1",
+"@id":"2033471",
+"info":{"authors":{"author":[{"@pid":"139/8312","text":"Renato Santos"},{"@pid":"02/5399","text":"Joel P. Arrais"},{"@pid":"78/5225","text":"Paula Alexandra Silva"}]},"title":"Analysing Games for Health through Users&apos; Opinion Mining.","venue":"CBMS","pages":"319-323","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SantosAS21","doi":"10.1109/CBMS52027.2021.00035","ee":"https://doi.org/10.1109/CBMS52027.2021.00035","url":"https://dblp.org/rec/conf/cbms/SantosAS21"},
+"url":"URL#2033471"
+},
+{
+"@score":"1",
+"@id":"2033472",
+"info":{"authors":{"author":[{"@pid":"17/735","text":"KC Santosh"},{"@pid":"273/7672","text":"Sourodip Ghosh"},{"@pid":"297/2298","text":"Moinak Bose"}]},"title":"Ret-GAN: Retinal Image Enhancement using Generative Adversarial Networks.","venue":"CBMS","pages":"79-84","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SantoshGB21","doi":"10.1109/CBMS52027.2021.00082","ee":"https://doi.org/10.1109/CBMS52027.2021.00082","url":"https://dblp.org/rec/conf/cbms/SantoshGB21"},
+"url":"URL#2033472"
+},
+{
+"@score":"1",
+"@id":"2033473",
+"info":{"authors":{"author":[{"@pid":"191/8190","text":"Elisa Terumi Rubel Schneider"},{"@pid":"258/8776","text":"João Vitor Andrioli de Souza"},{"@pid":"252/2522","text":"Yohan Bonescki Gumiel"},{"@pid":"134/2246","text":"Claudia M. C. Moro"},{"@pid":"33/4345","text":"Emerson Cabrera Paraiso"}]},"title":"A GPT-2 Language Model for Biomedical Texts in Portuguese.","venue":"CBMS","pages":"474-479","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SchneiderSGMP21","doi":"10.1109/CBMS52027.2021.00056","ee":"https://doi.org/10.1109/CBMS52027.2021.00056","url":"https://dblp.org/rec/conf/cbms/SchneiderSGMP21"},
+"url":"URL#2033473"
+},
+{
+"@score":"1",
+"@id":"2033474",
+"info":{"authors":{"author":[{"@pid":"135/3386","text":"Mariana Sequeira"},{"@pid":"216/7828","text":"João Rafael Almeida"},{"@pid":"10/1144","text":"José Luís Oliveira"}]},"title":"A Comparative Analysis of Data Platforms for Rare Diseases.","venue":"CBMS","pages":"366-371","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SequeiraAO21","doi":"10.1109/CBMS52027.2021.00041","ee":"https://doi.org/10.1109/CBMS52027.2021.00041","url":"https://dblp.org/rec/conf/cbms/SequeiraAO21"},
+"url":"URL#2033474"
+},
+{
+"@score":"1",
+"@id":"2033475",
+"info":{"authors":{"author":[{"@pid":"297/2241","text":"Saijal Shahania"},{"@pid":"154/6164-2","text":"Vishnu Unnikrishnan 0002"},{"@pid":"55/2890","text":"Rüdiger Pryss"},{"@pid":"145/8309","text":"Robin Kraft"},{"@pid":"135/3115","text":"Johannes Schobel"},{"@pid":"171/7807","text":"Ronny Hannemann"},{"@pid":"297/2217","text":"Winny Schlee"},{"@pid":"s/MyraSpiliopoulou","text":"Myra Spiliopoulou"}]},"title":"User-centric vs whole-stream learning for EMA prediction.","venue":"CBMS","pages":"307-312","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ShahaniaUPKSHSS21","doi":"10.1109/CBMS52027.2021.00033","ee":"https://doi.org/10.1109/CBMS52027.2021.00033","url":"https://dblp.org/rec/conf/cbms/ShahaniaUPKSHSS21"},
+"url":"URL#2033475"
+},
+{
+"@score":"1",
+"@id":"2033476",
+"info":{"authors":{"author":[{"@pid":"211/4197","text":"Rosa Sicilia"},{"@pid":"297/2146","text":"Luisa Francini"},{"@pid":"49/5247","text":"Paolo Soda"}]},"title":"Representation and Knowledge Transfer for Health-related Rumour Detection.","venue":"CBMS","pages":"591-596","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SiciliaFS21","doi":"10.1109/CBMS52027.2021.00106","ee":"https://doi.org/10.1109/CBMS52027.2021.00106","url":"https://dblp.org/rec/conf/cbms/SiciliaFS21"},
+"url":"URL#2033476"
+},
+{
+"@score":"1",
+"@id":"2033477",
+"info":{"authors":{"author":[{"@pid":"297/2111","text":"Henrique de A. Silva"},{"@pid":"297/2188","text":"Elias Adriano"},{"@pid":"297/2150","text":"Denise Scatolini"},{"@pid":"07/4304","text":"Rosana T. Vaccare Braga"}]},"title":"Supporting IoT-based applications to combat the Aedes aegypti mosquito: a case in Brazil.","venue":"CBMS","pages":"330-335","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SilvaASB21","doi":"10.1109/CBMS52027.2021.00029","ee":"https://doi.org/10.1109/CBMS52027.2021.00029","url":"https://dblp.org/rec/conf/cbms/SilvaASB21"},
+"url":"URL#2033477"
+},
+{
+"@score":"1",
+"@id":"2033478",
+"info":{"authors":{"author":[{"@pid":"64/6053","text":"Jorge Alves Silva"},{"@pid":"53/4551","text":"Teresa Mendonça"},{"@pid":"60/1427","text":"Paula Rocha 0001"}]},"title":"An intelligent drug delivery system for neuromuscular blockade in healthcare.","venue":"CBMS","pages":"231-234","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SilvaM021","doi":"10.1109/CBMS52027.2021.00024","ee":"https://doi.org/10.1109/CBMS52027.2021.00024","url":"https://dblp.org/rec/conf/cbms/SilvaM021"},
+"url":"URL#2033478"
+},
+{
+"@score":"1",
+"@id":"2033479",
+"info":{"authors":{"author":[{"@pid":"204/2769","text":"João Figueira Silva"},{"@pid":"43/7440","text":"Sérgio Matos"}]},"title":"Patient Trajectory Modelling in Longitudinal Data: A Review on Existing Solutions.","venue":"CBMS","pages":"480-485","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SilvaM21","doi":"10.1109/CBMS52027.2021.00057","ee":"https://doi.org/10.1109/CBMS52027.2021.00057","url":"https://dblp.org/rec/conf/cbms/SilvaM21"},
+"url":"URL#2033479"
+},
+{
+"@score":"1",
+"@id":"2033480",
+"info":{"authors":{"author":[{"@pid":"78/4490","text":"Panagiotis Symeonidis"},{"@pid":"297/2078","text":"Christos Andras"},{"@pid":"90/3147","text":"Markus Zanker"}]},"title":"Treatment Recommendations for COVID-19 Patients along with Robust Explanations.","venue":"CBMS","pages":"207-212","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SymeonidisAZ21","doi":"10.1109/CBMS52027.2021.00020","ee":"https://doi.org/10.1109/CBMS52027.2021.00020","url":"https://dblp.org/rec/conf/cbms/SymeonidisAZ21"},
+"url":"URL#2033480"
+},
+{
+"@score":"1",
+"@id":"2033481",
+"info":{"authors":{"author":[{"@pid":"78/4490","text":"Panagiotis Symeonidis"},{"@pid":"204/6474","text":"Stergios Chairistanidis"},{"@pid":"90/3147","text":"Markus Zanker"}]},"title":"Recommending What Drug to Prescribe Next for Accurate and Explainable Medical Decisions.","venue":"CBMS","pages":"213-218","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SymeonidisCZ21","doi":"10.1109/CBMS52027.2021.00021","ee":"https://doi.org/10.1109/CBMS52027.2021.00021","url":"https://dblp.org/rec/conf/cbms/SymeonidisCZ21"},
+"url":"URL#2033481"
+},
+{
+"@score":"1",
+"@id":"2033482",
+"info":{"authors":{"author":[{"@pid":"168/4745","text":"Milene Santos Teixeira"},{"@pid":"157/0431","text":"Vinícius Maran"},{"@pid":"70/394","text":"Mauro Dragoni"}]},"title":"Towards Semantic-Awareness for Information Management and Planning in Health Dialogues.","venue":"CBMS","pages":"372-377","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/TeixeiraMD21","doi":"10.1109/CBMS52027.2021.00042","ee":"https://doi.org/10.1109/CBMS52027.2021.00042","url":"https://dblp.org/rec/conf/cbms/TeixeiraMD21"},
+"url":"URL#2033482"
+},
+{
+"@score":"1",
+"@id":"2033483",
+"info":{"authors":{"author":[{"@pid":"225/9091","text":"Selene Tomassini"},{"@pid":"209/8652","text":"Nicola Falcionelli"},{"@pid":"134/4056","text":"Paolo Sernani"},{"@pid":"93/4446","text":"Henning Müller"},{"@pid":"58/5006","text":"Aldo Franco Dragoni"}]},"title":"An End-to-End 3D ConvLSTM-based Framework for Early Diagnosis of Alzheimer&apos;s Disease from Full-Resolution Whole-Brain sMRI Scans.","venue":"CBMS","pages":"74-78","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/TomassiniFSMD21","doi":"10.1109/CBMS52027.2021.00081","ee":"https://doi.org/10.1109/CBMS52027.2021.00081","url":"https://dblp.org/rec/conf/cbms/TomassiniFSMD21"},
+"url":"URL#2033483"
+},
+{
+"@score":"1",
+"@id":"2033484",
+"info":{"authors":{"author":[{"@pid":"279/6339","text":"Rafi Trad"},{"@pid":"s/MyraSpiliopoulou","text":"Myra Spiliopoulou"}]},"title":"Juxtaposing 5G Coronavirus Tweets with General Coronavirus Tweets During the Early Months of Coronavirus Outbreak.","venue":"CBMS","pages":"597-602","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/TradS21","doi":"10.1109/CBMS52027.2021.00107","ee":"https://doi.org/10.1109/CBMS52027.2021.00107","url":"https://dblp.org/rec/conf/cbms/TradS21"},
+"url":"URL#2033484"
+},
+{
+"@score":"1",
+"@id":"2033485",
+"info":{"authors":{"author":[{"@pid":"154/6164-2","text":"Vishnu Unnikrishnan 0002"},{"@pid":"122/9501","text":"Yash Shah"},{"@pid":"208/6813","text":"Miro Schleicher"},{"@pid":"297/2089","text":"Carlos Fernández-Viadero"},{"@pid":"276/3523","text":"Mirela Strandzheva"},{"@pid":"276/3502","text":"Doroteya Velikova"},{"@pid":"132/2051","text":"Plamen Dimitrov"},{"@pid":"55/2890","text":"Rüdiger Pryss"},{"@pid":"135/3115","text":"Johannes Schobel"},{"@pid":"26/11222","text":"Winfried Schlee"},{"@pid":"s/MyraSpiliopoulou","text":"Myra Spiliopoulou"}]},"title":"Love thy Neighbours: A Framework for Error-Driven Discovery of Useful Neighbourhoods for One-Step Forecasts on EMA data.","venue":"CBMS","pages":"295-300","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/UnnikrishnanSSF21","doi":"10.1109/CBMS52027.2021.00080","ee":"https://doi.org/10.1109/CBMS52027.2021.00080","url":"https://dblp.org/rec/conf/cbms/UnnikrishnanSSF21"},
+"url":"URL#2033485"
+},
+{
+"@score":"1",
+"@id":"2033486",
+"info":{"authors":{"author":[{"@pid":"223/6976","text":"Eduardo P. García del Valle"},{"@pid":"244/6379","text":"Lucía Prieto Santamaría"},{"@pid":"223/6995","text":"Gerardo Lagunes García"},{"@pid":"24/749","text":"Massimiliano Zanin"},{"@pid":"58/1631","text":"Ernestina Menasalvas Ruiz"},{"@pid":"63/6099","text":"Alejandro Rodríguez González"}]},"title":"A Meta-Path-Based Prediction Method for Disease Comorbidities.","venue":"CBMS","pages":"219-224","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ValleSGZRG21","doi":"10.1109/CBMS52027.2021.00022","ee":"https://doi.org/10.1109/CBMS52027.2021.00022","url":"https://dblp.org/rec/conf/cbms/ValleSGZRG21"},
+"url":"URL#2033486"
+},
+{
+"@score":"1",
+"@id":"2033487",
+"info":{"authors":{"author":[{"@pid":"206/1325","text":"Plácido L. Vidal"},{"@pid":"166/4779","text":"Joaquim de Moura"},{"@pid":"230/7986","text":"Macarena Díaz"},{"@pid":"06/8229","text":"Jorge Novo"},{"@pid":"86/5278","text":"Marcos Ortega 0001"}]},"title":"Comparative and Behavioural Analysis of a Diffuse Paradigm for the Evaluation of Diabetic Macular Edema in OCT images.","venue":"CBMS","pages":"13-18","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/VidalMDNO21","doi":"10.1109/CBMS52027.2021.00010","ee":"https://doi.org/10.1109/CBMS52027.2021.00010","url":"https://dblp.org/rec/conf/cbms/VidalMDNO21"},
+"url":"URL#2033487"
+},
+{
+"@score":"1",
+"@id":"2033488",
+"info":{"authors":{"author":[{"@pid":"16/4723","text":"Carmen Vidaurre"},{"@pid":"53/2262","text":"Vadim V. Nikulin"},{"@pid":"70/11391","text":"María Herrojo Ruiz"}]},"title":"Optimized alpha band patterns correlated with trait anxiety.","venue":"CBMS","pages":"450-454","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/VidaurreNR21","doi":"10.1109/CBMS52027.2021.00051","ee":"https://doi.org/10.1109/CBMS52027.2021.00051","url":"https://dblp.org/rec/conf/cbms/VidaurreNR21"},
+"url":"URL#2033488"
+},
+{
+"@score":"1",
+"@id":"2033489",
+"info":{"authors":{"author":[{"@pid":"243/6227","text":"Edouard Villain"},{"@pid":"297/2165","text":"Giulia Maria Mattia"},{"@pid":"188/9174","text":"Federico Nemmi"},{"@pid":"116/8241","text":"Patrice Péran"},{"@pid":"229/1986","text":"Xavier Franceries"},{"@pid":"86/2128","text":"Marie-Véronique Le Lann"}]},"title":"Visual interpretation of CNN decision-making process using Simulated Brain MRI.","venue":"CBMS","pages":"515-520","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/VillainMNPFL21","doi":"10.1109/CBMS52027.2021.00102","ee":"https://doi.org/10.1109/CBMS52027.2021.00102","url":"https://dblp.org/rec/conf/cbms/VillainMNPFL21"},
+"url":"URL#2033489"
+},
+{
+"@score":"1",
+"@id":"2033490",
+"info":{"authors":{"author":[{"@pid":"96/9860","text":"Barbara Villarini"},{"@pid":"208/6899","text":"Hykoush Asaturyan"},{"@pid":"59/396","text":"Sila Kurugol"},{"@pid":"29/5240","text":"Onur Afacan"},{"@pid":"51/10727","text":"Jimmy D. Bell"},{"@pid":"208/6849","text":"E. Louise Thomas"}]},"title":"3D Deep Learning for Anatomical Structure Segmentation in Multiple Imaging Modalities.","venue":"CBMS","pages":"166-171","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/VillariniAKABT21","doi":"10.1109/CBMS52027.2021.00066","ee":"https://doi.org/10.1109/CBMS52027.2021.00066","url":"https://dblp.org/rec/conf/cbms/VillariniAKABT21"},
+"url":"URL#2033490"
+},
+{
+"@score":"1",
+"@id":"2033491",
+"info":{"authors":{"author":[{"@pid":"217/2237","text":"Chengjia Wang"},{"@pid":"25/5712-6","text":"Guang Yang 0006"},{"@pid":"217/2021","text":"Giorgos Papanastasiou"}]},"title":"FIRE: Unsupervised bi-directional inter- and intra-modality registration using deep networks.","venue":"CBMS","pages":"510-514","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Wang0P21","doi":"10.1109/CBMS52027.2021.00101","ee":"https://doi.org/10.1109/CBMS52027.2021.00101","url":"https://dblp.org/rec/conf/cbms/Wang0P21"},
+"url":"URL#2033491"
+},
+{
+"@score":"1",
+"@id":"2033492",
+"info":{"authors":{"author":[{"@pid":"135/0348","text":"Zhenchen Wang"},{"@pid":"232/3009","text":"Puja Myles"},{"@pid":"152/3676","text":"Anu Jain"},{"@pid":"165/9052","text":"James L. Keidel"},{"@pid":"297/2170","text":"Roberto Liddi"},{"@pid":"297/2350","text":"Lucy Mackillop"},{"@pid":"28/9303","text":"Carmelo Velardo"},{"@pid":"53/4404","text":"Allan Tucker"}]},"title":"Evaluating a Longitudinal Synthetic Data Generator using Real World Data.","venue":"CBMS","pages":"259-264","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/WangMJKLMVT21","doi":"10.1109/CBMS52027.2021.00074","ee":"https://doi.org/10.1109/CBMS52027.2021.00074","url":"https://dblp.org/rec/conf/cbms/WangMJKLMVT21"},
+"url":"URL#2033492"
+},
+{
+"@score":"1",
+"@id":"2033493",
+"info":{"authors":{"author":[{"@pid":"297/2390","text":"Mingnan Wei"},{"@pid":"92/1942-7","text":"Rui Yang 0007"},{"@pid":"03/10405","text":"Mengjie Huang"}]},"title":"Motor Imagery EEG Signal Classification based on Deep Transfer Learning.","venue":"CBMS","pages":"85-90","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/WeiYH21","doi":"10.1109/CBMS52027.2021.00083","ee":"https://doi.org/10.1109/CBMS52027.2021.00083","url":"https://dblp.org/rec/conf/cbms/WeiYH21"},
+"url":"URL#2033493"
+},
+{
+"@score":"1",
+"@id":"2033494",
+"info":{"authors":{"author":[{"@pid":"64/4801","text":"Zhiyun Xue"},{"@pid":"33/86","text":"Peng Guo"},{"@pid":"297/2083","text":"Kanan T. Desai"},{"@pid":"138/2574","text":"Anabik Pal"},{"@pid":"274/5283","text":"Kayode O. Ajenifuja"},{"@pid":"274/4042","text":"Clement Akinfolarin Adepiti"},{"@pid":"69/3663","text":"L. Rodney Long"},{"@pid":"52/2697","text":"Mark Schiffman"},{"@pid":"01/1603","text":"Sameer K. Antani"}]},"title":"A Deep Clustering Method For Analyzing Uterine Cervix Images Across Imaging Devices.","venue":"CBMS","pages":"527-532","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/XueGDPAALSA21","doi":"10.1109/CBMS52027.2021.00085","ee":"https://doi.org/10.1109/CBMS52027.2021.00085","url":"https://dblp.org/rec/conf/cbms/XueGDPAALSA21"},
+"url":"URL#2033494"
+},
+{
+"@score":"1",
+"@id":"2033495",
+"info":{"authors":{"author":[{"@pid":"221/3358","text":"Ekin Yagis"},{"@pid":"12/10072","text":"Alba Garcia Seco de Herrera"},{"@pid":"81/751","text":"Luca Citi"}]},"title":"Convolutional Autoencoder based Deep Learning Approach for Alzheimer&apos;s Disease Diagnosis using Brain MRI.","venue":"CBMS","pages":"486-491","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/YagisHC21","doi":"10.1109/CBMS52027.2021.00097","ee":"https://doi.org/10.1109/CBMS52027.2021.00097","url":"https://dblp.org/rec/conf/cbms/YagisHC21"},
+"url":"URL#2033495"
+},
+{
+"@score":"1",
+"@id":"2033496",
+"info":{"authors":{"author":[{"@pid":"254/3247","text":"Qinghao Ye"},{"@pid":"22/3650-2","text":"Jun Xia 0002"},{"@pid":"25/5712-6","text":"Guang Yang 0006"}]},"title":"Explainable AI for COVID-19 CT Classifiers: An Initial Comparison Study.","venue":"CBMS","pages":"521-526","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/YeXY21","doi":"10.1109/CBMS52027.2021.00103","ee":"https://doi.org/10.1109/CBMS52027.2021.00103","url":"https://dblp.org/rec/conf/cbms/YeXY21"},
+"url":"URL#2033496"
+},
+{
+"@score":"1",
+"@id":"2033497",
+"info":{"authors":{"author":[{"@pid":"235/3495","text":"Menglu Zhang"},{"@pid":"72/6275-1","text":"Xuechen Li 0001"},{"@pid":"88/5607","text":"Linlin Shen"}]},"title":"Classification and Localization Consistency Regularized Student-Teacher Network for Semi-supervised Cervical Cell Detection.","venue":"CBMS","pages":"289-294","year":"2021","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ZhangLS21","doi":"10.1109/CBMS52027.2021.00079","ee":"https://doi.org/10.1109/CBMS52027.2021.00079","url":"https://dblp.org/rec/conf/cbms/ZhangLS21"},
+"url":"URL#2033497"
+},
+{
+"@score":"1",
+"@id":"2187342",
+"info":{"authors":{"author":[{"@pid":"216/7828","text":"João Rafael Almeida"},{"@pid":"63/6099","text":"Alejandro Rodríguez González"},{"@pid":"88/5607","text":"Linlin Shen"},{"@pid":"94/4338","text":"Bridget Kane"},{"@pid":"t/AgmaJMTraina","text":"Agma J. M. Traina"},{"@pid":"49/5247","text":"Paolo Soda"},{"@pid":"10/1144","text":"José Luís Oliveira"}]},"title":"34th IEEE International Symposium on Computer-Based Medical Systems, CBMS 2021, Aveiro, Portugal, June 7-9, 2021","venue":"CBMS","publisher":"IEEE","year":"2021","type":"Editorship","key":"conf/cbms/2021","doi":"10.1109/CBMS52027.2021","ee":"https://doi.org/10.1109/CBMS52027.2021","url":"https://dblp.org/rec/conf/cbms/2021"},
+"url":"URL#2187342"
+}
+]
+}
+}
+}

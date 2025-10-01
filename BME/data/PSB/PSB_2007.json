@@ -1,0 +1,320 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/psb/psb2007.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"81.61"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"48",
+"@dc":"48",
+"@oc":"48",
+"@id":"48916851",
+"text":":facetid:toc:db/conf/psb/psb2007.bht"
+}
+},
+"hits":{
+"@total":"48",
+"@computed":"48",
+"@sent":"48",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"6392427",
+"info":{"authors":{"author":[{"@pid":"82/4057","text":"Caroline B. Ahlers"},{"@pid":"01/2690","text":"Marcelo Fiszman"},{"@pid":"59/2029","text":"Dina Demner-Fushman"},{"@pid":"03/4832","text":"François-Michel Lang"},{"@pid":"83/1630","text":"Thomas C. Rindflesch"}]},"title":"Extracting Semantic Predications from Medline Citations for Pharmacogenomics.","venue":"Pacific Symposium on Biocomputing","pages":"209-220","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/AhlersFDLR07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/ahlers.pdf","url":"https://dblp.org/rec/conf/psb/AhlersFDLR07"},
+"url":"URL#6392427"
+},
+{
+"@score":"1",
+"@id":"6392428",
+"info":{"authors":{"author":[{"@pid":"17/1805","text":"Pedro Alves"},{"@pid":"91/607","text":"Randy J. Arnold"},{"@pid":"67/3250","text":"Milos V. Novotny"},{"@pid":"93/308","text":"Predrag Radivojac"},{"@pid":"67/1656","text":"James P. Reilly"},{"@pid":"90/3951","text":"Haixu Tang"}]},"title":"Advancement in Protein Inference from Shotgun Proteomics Using Peptide Detectability.","venue":"Pacific Symposium on Biocomputing","pages":"409-420","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/AlvesANRRT07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/alves.pdf","url":"https://dblp.org/rec/conf/psb/AlvesANRRT07"},
+"url":"URL#6392428"
+},
+{
+"@score":"1",
+"@id":"6392429",
+"info":{"authors":{"author":[{"@pid":"11/3733","text":"Karsten M. Borgwardt"},{"@pid":"k/HansPeterKriegel","text":"Hans-Peter Kriegel"}]},"title":"Graph Kernels For Disease Outcome Prediction From Protein-Protein Interaction Networks.","venue":"Pacific Symposium on Biocomputing","pages":"4-15","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BorgwardtK07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/borgwardt.pdf","url":"https://dblp.org/rec/conf/psb/BorgwardtK07"},
+"url":"URL#6392429"
+},
+{
+"@score":"1",
+"@id":"6392430",
+"info":{"authors":{"author":[{"@pid":"70/7","text":"Martha L. Bulyk"},{"@pid":"64/1983","text":"Alexander J. Hartemink"},{"@pid":"94/5033","text":"Ernest Fraenkel"},{"@pid":"81/4738","text":"Gary D. Stormo"}]},"title":"Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"470-471","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/BulykHFS07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/intro-dna.pdf","url":"https://dblp.org/rec/conf/psb/BulykHFS07"},
+"url":"URL#6392430"
+},
+{
+"@score":"1",
+"@id":"6392431",
+"info":{"authors":{"author":[{"@pid":"37/1920","text":"Eithon Cadag"},{"@pid":"08/4755","text":"Brenton Louie"},{"@pid":"73/3245","text":"Peter J. Myler"},{"@pid":"44/1004","text":"Peter Tarczy-Hornoch"}]},"title":"Biomediator Data Integration and Inference for Functional Annotation of Anonymous Sequences.","venue":"Pacific Symposium on Biocomputing","pages":"343-354","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/CadagLMT07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/cadag.pdf","url":"https://dblp.org/rec/conf/psb/CadagLMT07"},
+"url":"URL#6392431"
+},
+{
+"@score":"1",
+"@id":"6392432",
+"info":{"authors":{"author":[{"@pid":"c/AliCakmak","text":"Ali Cakmak 0001"},{"@pid":"o/GultekinOzsoyoglu","text":"Gultekin Özsoyoglu"}]},"title":"Annotating Genes Using Textual Patterns.","venue":"Pacific Symposium on Biocomputing","pages":"221-232","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/CakmakO07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/cakmak.pdf","url":"https://dblp.org/rec/conf/psb/CakmakO07"},
+"url":"URL#6392432"
+},
+{
+"@score":"1",
+"@id":"6392433",
+"info":{"authors":{"author":[{"@pid":"07/2332","text":"William R. Cannon"},{"@pid":"99/628","text":"Bobbie-Jo M. Webb-Robertson"}]},"title":"Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"403-408","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/CannonW07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/intro-proteomics.pdf","url":"https://dblp.org/rec/conf/psb/CannonW07"},
+"url":"URL#6392433"
+},
+{
+"@score":"1",
+"@id":"6392434",
+"info":{"authors":{"author":[{"@pid":"84/2135","text":"David Chang"},{"@pid":"55/6622","text":"Aalim Weljie"},{"@pid":"11/6867","text":"Jack Newton"}]},"title":"Leveraging Latent Information In NMR For Robust Predictive Models.","venue":"Pacific Symposium on Biocomputing","pages":"115-126","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ChangWN07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/chang_d.pdf","url":"https://dblp.org/rec/conf/psb/ChangWN07"},
+"url":"URL#6392434"
+},
+{
+"@score":"1",
+"@id":"6392435",
+"info":{"authors":{"author":[{"@pid":"79/5763","text":"Daniel L. Cook"},{"@pid":"89/394","text":"Jesse C. Wiley"},{"@pid":"24/1038","text":"John H. Gennari"}]},"title":"Chalkboard: Ontology-Based Pathway Modeling And Qualitative Inference Of Disease Mechanisms.","venue":"Pacific Symposium on Biocomputing","pages":"16-27","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/CookWG07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/cook.pdf","url":"https://dblp.org/rec/conf/psb/CookWG07"},
+"url":"URL#6392435"
+},
+{
+"@score":"1",
+"@id":"6392436",
+"info":{"authors":{"author":[{"@pid":"73/1417","text":"Yan Fu"},{"@pid":"g/WenGao","text":"Wen Gao 0001"},{"@pid":"78/5310-1","text":"Simin He 0001"},{"@pid":"79/5969-1","text":"Ruixiang Sun 0001"},{"@pid":"67/1438","text":"Hu Zhou"},{"@pid":"15/5411","text":"Rong Zeng"}]},"title":"Mining Tandem Mass Spectral Data to Develop a More Accurate Mass Error Model for Peptide Identification.","venue":"Pacific Symposium on Biocomputing","pages":"421-432","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/FuGHSZZ07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/fu.pdf","url":"https://dblp.org/rec/conf/psb/FuGHSZZ07"},
+"url":"URL#6392436"
+},
+{
+"@score":"1",
+"@id":"6392437",
+"info":{"authors":{"author":[{"@pid":"64/3519","text":"Natarajan Ganesan"},{"@pid":"k/BKalyanasundaram","text":"Bala Kalyanasundaram"},{"@pid":"35/2211","text":"Mahe Velauthapillai"}]},"title":"Bioinformatics Data Profiling Tools: A Prelude to Metabolic Profiling.","venue":"Pacific Symposium on Biocomputing","pages":"127-132","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GanesanKV07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/ganesan.pdf","url":"https://dblp.org/rec/conf/psb/GanesanKV07"},
+"url":"URL#6392437"
+},
+{
+"@score":"1",
+"@id":"6392438",
+"info":{"authors":{"author":[{"@pid":"219/1529","text":"Graciela Gonzalez 0001"},{"@pid":"01/45","text":"Juan C. Uribe"},{"@pid":"46/2345","text":"Luis Tari"},{"@pid":"88/172","text":"Colleen Brophy"},{"@pid":"b/ChittaBaral","text":"Chitta Baral"}]},"title":"Mining Gene-Disease Relationships from Biomedical Literature: Weighting Proteinprotein Interactions and Connectivity.","venue":"Pacific Symposium on Biocomputing","pages":"28-39","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GonzalezUTBB07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/gonzalez.pdf","url":"https://dblp.org/rec/conf/psb/GonzalezUTBB07"},
+"url":"URL#6392438"
+},
+{
+"@score":"1",
+"@id":"6392439",
+"info":{"authors":{"author":[{"@pid":"76/1311","text":"Willy Valdivia Granda"},{"@pid":"07/3726","text":"Maricel G. Kann"},{"@pid":"98/1998","text":"Jose Malaga"}]},"title":"Transcriptional Interactions During Smallpox Infection and Identification of Early Infection Biomarkers.","venue":"Pacific Symposium on Biocomputing","pages":"100-111","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/GrandaKM07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/valdivia-granda.pdf","url":"https://dblp.org/rec/conf/psb/GrandaKM07"},
+"url":"URL#6392439"
+},
+{
+"@score":"1",
+"@id":"6392440",
+"info":{"authors":{"author":[{"@pid":"40/6677","text":"Gregory Hampikian"},{"@pid":"79/59","text":"Timothy L. Andersen"}]},"title":"Absent Sequences: Nullomers and Primes.","venue":"Pacific Symposium on Biocomputing","pages":"355-366","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/HampikianA07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/hampikian.pdf","url":"https://dblp.org/rec/conf/psb/HampikianA07"},
+"url":"URL#6392440"
+},
+{
+"@score":"1",
+"@id":"6392441",
+"info":{"authors":{"author":[{"@pid":"14/6544","text":"Helen L. Johnson 0001"},{"@pid":"c/KBretonnelCohen","text":"K. Bretonnel Cohen"},{"@pid":"h/LawrenceHunter","text":"Lawrence Hunter"}]},"title":"A Fault Model for Ontology Mapping, Alignment, and Linking Systems.","venue":"Pacific Symposium on Biocomputing","pages":"233-268","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/JohnsonCH07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/johnson.pdf","url":"https://dblp.org/rec/conf/psb/JohnsonCH07"},
+"url":"URL#6392441"
+},
+{
+"@score":"1",
+"@id":"6392442",
+"info":{"authors":{"author":[{"@pid":"07/3726","text":"Maricel G. Kann"},{"@pid":"95/6222","text":"Yanay Ofran"},{"@pid":"77/6899","text":"Marco Punta"},{"@pid":"93/308","text":"Predrag Radivojac"}]},"title":"Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"1-3","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KannOPR07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/intro-protein.pdf","url":"https://dblp.org/rec/conf/psb/KannOPR07"},
+"url":"URL#6392442"
+},
+{
+"@score":"1",
+"@id":"6392443",
+"info":{"authors":{"author":[{"@pid":"k/EmreKarakoc","text":"Emre Karakoç"},{"@pid":"s/SCSahinalp","text":"Süleyman Cenk Sahinalp"},{"@pid":"88/2110","text":"Artem Cherkasov"}]},"title":"Comparative QSAR Analysis of Bacterial-, Fungalplant- and Human Metabolites.","venue":"Pacific Symposium on Biocomputing","pages":"133-144","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KarakocSC07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/karakoc.pdf","url":"https://dblp.org/rec/conf/psb/KarakocSC07"},
+"url":"URL#6392443"
+},
+{
+"@score":"1",
+"@id":"6392444",
+"info":{"authors":{"author":[{"@pid":"24/5010","text":"Nikiforos Karamanis"},{"@pid":"89/1327","text":"Ian Lewin"},{"@pid":"17/9440","text":"Ruth L. Seal"},{"@pid":"26/333","text":"Rachel A. Drysdale"},{"@pid":"06/6222","text":"Edward John Briscoe"}]},"title":"Integrating Natural Language Processing with Flybase Curation.","venue":"Pacific Symposium on Biocomputing","pages":"245-256","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KaramanisLSDB07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/karamanis.pdf","url":"https://dblp.org/rec/conf/psb/KaramanisLSDB07"},
+"url":"URL#6392444"
+},
+{
+"@score":"1",
+"@id":"6392445",
+"info":{"authors":{"author":[{"@pid":"39/2677","text":"Peter M. Kasson"},{"@pid":"81/2197","text":"Vijay S. Pande"}]},"title":"Predicting Structure and Dynamics of Loosely-Ordered Protein Complexes: Influenza Hemagglutinin Fusion Peptide.","venue":"Pacific Symposium on Biocomputing","pages":"40-50","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KassonP07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/kasson.pdf","url":"https://dblp.org/rec/conf/psb/KassonP07"},
+"url":"URL#6392445"
+},
+{
+"@score":"1",
+"@id":"6392446",
+"info":{"authors":{"author":[{"@pid":"75/518","text":"Libusha Kelly"},{"@pid":"80/263","text":"Rachel Karchin"},{"@pid":"59/1163","text":"Andrej Sali"}]},"title":"Protein Interactions and Disease Phenotypes in the ABC Transporter Superfamily.","venue":"Pacific Symposium on Biocomputing","pages":"51-63","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KellyKS07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/kelly.pdf","url":"https://dblp.org/rec/conf/psb/KellyKS07"},
+"url":"URL#6392446"
+},
+{
+"@score":"1",
+"@id":"6392447",
+"info":{"authors":{"author":[{"@pid":"23/4460","text":"Craig Knox"},{"@pid":"81/6149","text":"Savita Shrivastava"},{"@pid":"19/1345","text":"Paul Stothard"},{"@pid":"91/4183","text":"Roman Eisner"},{"@pid":"15/3562","text":"David S. Wishart"}]},"title":"Biospider: A Web Server for Automating Metabolome Annotations.","venue":"Pacific Symposium on Biocomputing","pages":"145-156","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KnoxSSEW07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/knox.pdf","url":"https://dblp.org/rec/conf/psb/KnoxSSEW07"},
+"url":"URL#6392447"
+},
+{
+"@score":"1",
+"@id":"6392448",
+"info":{"authors":{"author":[{"@pid":"07/3638","text":"Zhenzhen Kou"},{"@pid":"c/WWCohen","text":"William W. Cohen"},{"@pid":"88/220","text":"Robert F. Murphy"}]},"title":"A Stacked Graphical Model for Associating Sub-Images with Sub-Captions.","venue":"Pacific Symposium on Biocomputing","pages":"257-268","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/KouCM07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/kou.pdf","url":"https://dblp.org/rec/conf/psb/KouCM07"},
+"url":"URL#6392448"
+},
+{
+"@score":"1",
+"@id":"6392449",
+"info":{"authors":{"author":[{"@pid":"l/SoniaMLeach","text":"Sonia M. Leach"},{"@pid":"95/5540","text":"Aaron Gabow"},{"@pid":"h/LawrenceHunter","text":"Lawrence Hunter"},{"@pid":"24/1987","text":"Debra Goldberg"}]},"title":"Assessing and Combining Reliability of Protein Interaction Sources.","venue":"Pacific Symposium on Biocomputing","pages":"433-444","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/LeachGHG07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/leach.pdf","url":"https://dblp.org/rec/conf/psb/LeachGHG07"},
+"url":"URL#6392449"
+},
+{
+"@score":"1",
+"@id":"6392450",
+"info":{"authors":{"author":[{"@pid":"51/5025","text":"Henry C. M. Leung"},{"@pid":"c/FrancisYLChin","text":"Francis Y. L. Chin"},{"@pid":"47/5773","text":"Bethany Man-Yee Chan"}]},"title":"Discovering Motifs With Transcription Factor Domain Knowledge.","venue":"Pacific Symposium on Biocomputing","pages":"472-483","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/LeungCC07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/leung.pdf","url":"https://dblp.org/rec/conf/psb/LeungCC07"},
+"url":"URL#6392450"
+},
+{
+"@score":"1",
+"@id":"6392451",
+"info":{"authors":{"author":[{"@pid":"76/595","text":"L. Angela Liu"},{"@pid":"59/6746","text":"Joel S. Bader"}]},"title":"Ab initio Prediction of Transcription Factor Binding Sites.","venue":"Pacific Symposium on Biocomputing","pages":"484-495","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/LiuB07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/liu_l.pdf","url":"https://dblp.org/rec/conf/psb/LiuB07"},
+"url":"URL#6392451"
+},
+{
+"@score":"1",
+"@id":"6392452",
+"info":{"authors":{"author":[{"@pid":"66/6604","text":"Zhiyong Lu"},{"@pid":"c/KBretonnelCohen","text":"K. Bretonnel Cohen"},{"@pid":"h/LawrenceHunter","text":"Lawrence Hunter"}]},"title":"Generif Quality Assurance as Summary Revision.","venue":"Pacific Symposium on Biocomputing","pages":"269-280","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/LuCH07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/lu_z.pdf","url":"https://dblp.org/rec/conf/psb/LuCH07"},
+"url":"URL#6392452"
+},
+{
+"@score":"1",
+"@id":"6392453",
+"info":{"authors":{"author":[{"@pid":"95/6118","text":"Anne M. Maglia"},{"@pid":"68/6646","text":"Jennifer L. Leopold"},{"@pid":"70/6852","text":"L. Anal&apos;a Pugener"},{"@pid":"g/SusanGauch","text":"Susan Gauch"}]},"title":"An Anatomical Ontology for Amphibians.","venue":"Pacific Symposium on Biocomputing","pages":"367-378","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MagliaLPG07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/maglia.pdf","url":"https://dblp.org/rec/conf/psb/MagliaLPG07"},
+"url":"URL#6392453"
+},
+{
+"@score":"1",
+"@id":"6392454",
+"info":{"authors":{"author":[{"@pid":"16/2758","text":"John L. Markley"},{"@pid":"49/6844-1","text":"Mark E. Anderson 0001"},{"@pid":"58/4655","text":"Qiu Cui"},{"@pid":"85/1024","text":"Hamid Eghbalnia"},{"@pid":"45/6727","text":"Ian A. Lewis"},{"@pid":"04/652","text":"Adrian D. Hegeman"},{"@pid":"181/2820","text":"Jing Li"},{"@pid":"85/1045","text":"Christopher F. Schulte"},{"@pid":"79/5440","text":"Michael R. Sussman"},{"@pid":"15/1781","text":"William M. Westler"},{"@pid":"56/6372","text":"Eldon L. Ulrich"},{"@pid":"66/1082","text":"Zsolt Zolnai"}]},"title":"New Bioinformatics Resources For Metabolomics.","venue":"Pacific Symposium on Biocomputing","pages":"157-168","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MarkleyACELHLSSWUZ07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/markley.pdf","url":"https://dblp.org/rec/conf/psb/MarkleyACELHLSSWUZ07"},
+"url":"URL#6392454"
+},
+{
+"@score":"1",
+"@id":"6392455",
+"info":{"authors":{"author":[{"@pid":"31/4175","text":"Alexander A. Morgan"},{"@pid":"77/1466","text":"Benjamin Wellner"},{"@pid":"30/591","text":"Jeffrey B. Colombe"},{"@pid":"61/2437","text":"Robert Arens"},{"@pid":"53/3900","text":"Marc E. Colosimo"},{"@pid":"69/5846","text":"Lynette Hirschman"}]},"title":"Evaluating the Automatic Mapping of Human Gene and Protein Mentions to Unique Identifiers.","venue":"Pacific Symposium on Biocomputing","pages":"281-291","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/MorganWCACH07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/morgan.pdf","url":"https://dblp.org/rec/conf/psb/MorganWCACH07"},
+"url":"URL#6392455"
+},
+{
+"@score":"1",
+"@id":"6392456",
+"info":{"authors":{"author":[{"@pid":"37/3908","text":"Aurélie Névéol"},{"@pid":"22/6706","text":"Sonya E. Shooshan"},{"@pid":"13/2941","text":"Susanne M. Humphrey"},{"@pid":"83/1630","text":"Thomas C. Rindflesch"},{"@pid":"86/6674","text":"Alan R. Aronson"}]},"title":"Multiple Approaches to Fine-Grained Indexing of the Biomedical Literature.","venue":"Pacific Symposium on Biocomputing","pages":"292-303","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/NeveolSHRA07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/neveol.pdf","url":"https://dblp.org/rec/conf/psb/NeveolSHRA07"},
+"url":"URL#6392456"
+},
+{
+"@score":"1",
+"@id":"6392457",
+"info":{"authors":{"author":[{"@pid":"33/441","text":"David M. Ng"},{"@pid":"70/1424","text":"Marcos H. Woehrmann"},{"@pid":"78/4108","text":"Joshua M. Stuart"}]},"title":"Recommending Pathway Genes Using a Compendium of Clustering Solutions.","venue":"Pacific Symposium on Biocomputing","pages":"379-390","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/NgWS07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/ng.pdf","url":"https://dblp.org/rec/conf/psb/NgWS07"},
+"url":"URL#6392457"
+},
+{
+"@score":"1",
+"@id":"6392458",
+"info":{"authors":{"author":[{"@pid":"33/5954","text":"Raf Van de Plas"},{"@pid":"30/3863","text":"Fabian Ojeda"},{"@pid":"46/1192","text":"Maarten Dewil"},{"@pid":"79/2069","text":"Ludo Van Den Bosch"},{"@pid":"66/3559","text":"Bart De Moor"},{"@pid":"23/4610","text":"Etienne Waelkens"}]},"title":"Prospective Exploration of Biochemical Tissue Composition via Imaging Mass Spectrometry Guided by Principal Component Analysis.","venue":"Pacific Symposium on Biocomputing","pages":"458-469","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PlasODBMW07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/vandeplas.pdf","url":"https://dblp.org/rec/conf/psb/PlasODBMW07"},
+"url":"URL#6392458"
+},
+{
+"@score":"1",
+"@id":"6392459",
+"info":{"authors":{"author":[{"@pid":"35/3130","text":"Vinay Pulim"},{"@pid":"39/1406","text":"Jadwiga R. Bienkowska"},{"@pid":"b/BonnieBerger","text":"Bonnie Berger"}]},"title":"Lthreader: Prediction of Ligand-Receptor Interactions Using Localized Threading.","venue":"Pacific Symposium on Biocomputing","pages":"64-75","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/PulimBB07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/pulim.pdf","url":"https://dblp.org/rec/conf/psb/PulimBB07"},
+"url":"URL#6392459"
+},
+{
+"@score":"1",
+"@id":"6392460",
+"info":{"authors":{"author":[{"@pid":"10/2821","text":"James Rhodes"},{"@pid":"46/5449","text":"Stephen Boyer"},{"@pid":"14/214","text":"Jeffrey T. Kreulen"},{"@pid":"21/5521-1","text":"Ying Chen 0001"},{"@pid":"11/9203-2","text":"Patricia Ordóñez 0002"}]},"title":"Mining Patents Using Molecular Similarity Search.","venue":"Pacific Symposium on Biocomputing","pages":"304-315","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/RhodesBKCO07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/rhodes.pdf","url":"https://dblp.org/rec/conf/psb/RhodesBKCO07"},
+"url":"URL#6392460"
+},
+{
+"@score":"1",
+"@id":"6392461",
+"info":{"authors":{"author":[{"@pid":"15/6713","text":"Lee T. Sam"},{"@pid":"51/3710-23","text":"Yang Liu 0023"},{"@pid":"63/5716","text":"Jianrong Li"},{"@pid":"68/6061","text":"Carol Friedman"},{"@pid":"45/1590","text":"Yves A. Lussier"}]},"title":"Discovery of Protein Interaction Networks Shared by Diseases.","venue":"Pacific Symposium on Biocomputing","pages":"76-87","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SamLLFL07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/sam.pdf","url":"https://dblp.org/rec/conf/psb/SamLLFL07"},
+"url":"URL#6392461"
+},
+{
+"@score":"1",
+"@id":"6392462",
+"info":{"authors":{"author":{"@pid":"46/2509","text":"Indra Neil Sarkar"}},"title":"Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"340-342","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/Sarkar07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/intro-biodiversity.pdf","url":"https://dblp.org/rec/conf/psb/Sarkar07"},
+"url":"URL#6392462"
+},
+{
+"@score":"1",
+"@id":"6392463",
+"info":{"authors":{"author":[{"@pid":"81/2401","text":"Guido Sautter"},{"@pid":"b/KBohm","text":"Klemens Böhm"},{"@pid":"47/6363","text":"Donat Agosti"}]},"title":"Semi-Automated XML Markup of Biosystematic Legacy Literature with the Goldengate Editor.","venue":"Pacific Symposium on Biocomputing","pages":"391-402","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SautterBA07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/sautter.pdf","url":"https://dblp.org/rec/conf/psb/SautterBA07"},
+"url":"URL#6392463"
+},
+{
+"@score":"1",
+"@id":"6392464",
+"info":{"authors":{"author":[{"@pid":"16/4416","text":"Martin Scholz"},{"@pid":"18/4629","text":"Oliver Fiehn"}]},"title":"Setup X - A Public Study Design Database for Metabolomic Projects.","venue":"Pacific Symposium on Biocomputing","pages":"169-180","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ScholzF07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/scholz.pdf","url":"https://dblp.org/rec/conf/psb/ScholzF07"},
+"url":"URL#6392464"
+},
+{
+"@score":"1",
+"@id":"6392465",
+"info":{"authors":{"author":[{"@pid":"68/4147","text":"Kazuhiro Seki"},{"@pid":"14/6061","text":"Javed Mostafa"}]},"title":"Discovering Implicit Associations Between Genes and Hereditary Diseases.","venue":"Pacific Symposium on Biocomputing","pages":"316-327","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SekiM07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/seki.pdf","url":"https://dblp.org/rec/conf/psb/SekiM07"},
+"url":"URL#6392465"
+},
+{
+"@score":"1",
+"@id":"6392466",
+"info":{"authors":{"author":[{"@pid":"12/673","text":"David A. Sontag"},{"@pid":"21/3400-1","text":"Rohit Singh 0001"},{"@pid":"b/BonnieBerger","text":"Bonnie Berger"}]},"title":"Probabilistic Modeling of Systematic Errors in Two-Hybrid Experiments.","venue":"Pacific Symposium on Biocomputing","pages":"445-457","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SontagSB07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/sontag.pdf","url":"https://dblp.org/rec/conf/psb/SontagSB07"},
+"url":"URL#6392466"
+},
+{
+"@score":"1",
+"@id":"6392467",
+"info":{"authors":{"author":[{"@pid":"46/1079","text":"Padmavati Sridhar"},{"@pid":"k/TamerKahveci","text":"Tamer Kahveci"},{"@pid":"r/SanjayRanka","text":"Sanjay Ranka"}]},"title":"An Iterative Algorithm for Metabolic Network-Based Drug Target Identification.","venue":"Pacific Symposium on Biocomputing","pages":"88-99","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/SridharKR07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/sridhar.pdf","url":"https://dblp.org/rec/conf/psb/SridharKR07"},
+"url":"URL#6392467"
+},
+{
+"@score":"1",
+"@id":"6392468",
+"info":{"authors":{"author":[{"@pid":"15/3562","text":"David S. Wishart"},{"@pid":"g/RussellGreiner","text":"Russell Greiner"}]},"title":"Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"112-114","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/WishartG07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/intro-metabolomics.pdf","url":"https://dblp.org/rec/conf/psb/WishartG07"},
+"url":"URL#6392468"
+},
+{
+"@score":"1",
+"@id":"6392469",
+"info":{"authors":{"author":[{"@pid":"01/2478","text":"Chen Yang"},{"@pid":"69/853","text":"Adam D. Richardson"},{"@pid":"s/JeffreyWSmith","text":"Jeffrey W. Smith"},{"@pid":"36/4366","text":"Andrei Osterman"}]},"title":"Comparative Metabolomics of Breast Cancer.","venue":"Pacific Symposium on Biocomputing","pages":"181-192","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/YangRSO07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/yang.pdf","url":"https://dblp.org/rec/conf/psb/YangRSO07"},
+"url":"URL#6392469"
+},
+{
+"@score":"1",
+"@id":"6392470",
+"info":{"authors":{"author":[{"@pid":"20/1279","text":"Jeongah Yoon"},{"@pid":"43/4650","text":"Kyongbum Lee"}]},"title":"Metabolic Flux Profiling of Reaction Modules in Liver Drug Transformation.","venue":"Pacific Symposium on Biocomputing","pages":"193-204","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/YoonL07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/yoon.pdf","url":"https://dblp.org/rec/conf/psb/YoonL07"},
+"url":"URL#6392470"
+},
+{
+"@score":"1",
+"@id":"6392471",
+"info":{"authors":{"author":[{"@pid":"55/6749","text":"Hong Yu"},{"@pid":"87/2296","text":"David Kaufman"}]},"title":"A Cognitive Evaluation of Four Online Search Engines for Answering Definitional Questions Posed by Physicians.","venue":"Pacific Symposium on Biocomputing","pages":"328-339","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/YuK07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/yu.pdf","url":"https://dblp.org/rec/conf/psb/YuK07"},
+"url":"URL#6392471"
+},
+{
+"@score":"1",
+"@id":"6392472",
+"info":{"authors":{"author":[{"@pid":"94/1685","text":"Jizhen Zhao"},{"@pid":"82/4528","text":"Dongsheng Che"},{"@pid":"c/LimingCai","text":"Liming Cai"}]},"title":"Comparative Pathway Annotation with Protein-DNA Interaction and Operon Information via Graph Tree Decomposition.","venue":"Pacific Symposium on Biocomputing","pages":"496-507","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ZhaoCC07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/zhao.pdf","url":"https://dblp.org/rec/conf/psb/ZhaoCC07"},
+"url":"URL#6392472"
+},
+{
+"@score":"1",
+"@id":"6392473",
+"info":{"authors":{"author":[{"@pid":"61/1252","text":"Pierre Zweigenbaum"},{"@pid":"59/2029","text":"Dina Demner-Fushman"},{"@pid":"55/6749-1","text":"Hong Yu 0001"},{"@pid":"c/KBretonnelCohen","text":"K. Bretonnel Cohen"}]},"title":"Session Introduction.","venue":"Pacific Symposium on Biocomputing","pages":"205-208","year":"2007","type":"Conference and Workshop Papers","access":"open","key":"conf/psb/ZweigenbaumDYC07","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/intro-nlp.pdf","url":"https://dblp.org/rec/conf/psb/ZweigenbaumDYC07"},
+"url":"URL#6392473"
+},
+{
+"@score":"1",
+"@id":"6416332",
+"info":{"authors":{"author":[{"@pid":"47/2081","text":"Russ B. Altman"},{"@pid":"53/20","text":"A. Keith Dunker"},{"@pid":"h/LawrenceHunter","text":"Lawrence Hunter"},{"@pid":"m/TiffanyMurray","text":"Tiffany Murray"},{"@pid":"k/TeriEKlein","text":"Teri E. Klein"}]},"title":"Biocomputing 2007, Proceedings of the Pacific Symposium, Maui, Hawaii, USA, 3-7 January 2007","venue":"Pacific Symposium on Biocomputing","publisher":"World Scientific","year":"2007","type":"Editorship","key":"conf/psb/2007","ee":"http://psb.stanford.edu/psb-online/proceedings/psb07/","url":"https://dblp.org/rec/conf/psb/2007"},
+"url":"URL#6416332"
+}
+]
+}
+}
+}

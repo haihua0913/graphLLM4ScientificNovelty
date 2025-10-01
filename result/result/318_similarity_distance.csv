@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+pun generation,sequence-to-sequence models,-0.269,1.5931
+neural network models,sequence-to-sequence models,0.8545,0.5395
+homographic pun generation,sequence-to-sequence models,-0.0332,1.4375
+neural network models,pun generation,0.1406,1.3111
+homographic pun generation,pun generation,0.9284,0.3783
+homographic pun generation,neural network models,0.3256,1.1613
+conditional neural language model,sequence-to-sequence models,0.9651,0.2643
+decoding algorithm,sequence-to-sequence models,-0.2899,1.6061
+conditional neural language model,pun generation,-0.2075,1.554
+decoding algorithm,pun generation,0.9702,0.2443
+conditional neural language model,neural network models,0.8308,0.5818
+decoding algorithm,neural network models,0.1285,1.3202
+conditional neural language model,homographic pun generation,0.0705,1.3634
+decoding algorithm,homographic pun generation,0.9392,0.3487
+conditional neural language model,decoding algorithm,-0.2114,1.5565
+human evaluations,pun generation,0.0746,1.3605
+human evaluations,neural network models,-0.1305,1.5037
+homographic pun generation,human evaluations,-0.0826,1.4715
+conditional neural language model,human evaluations,-0.3546,1.646
+decoding algorithm,human evaluations,0.0826,1.3545

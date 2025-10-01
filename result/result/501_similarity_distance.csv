@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+perception,prediction,0.9931,0.1174
+perception,planning,0.069,1.3646
+multi-task paradigm,perception,-0.0475,1.4474
+planning,prediction,0.0649,1.3676
+multi-task paradigm,prediction,-0.0572,1.4541
+multi-task paradigm,planning,0.9552,0.2992
+accumulative errors,perception,-0.1029,1.4852
+perception,task coordination,-0.3167,1.6228
+accumulative errors,prediction,-0.1087,1.4891
+prediction,task coordination,-0.2394,1.5744
+accumulative errors,planning,-0.1384,1.5089
+planning,task coordination,-0.3545,1.6459
+accumulative errors,multi-task paradigm,-0.1677,1.5282
+multi-task paradigm,task coordination,-0.3619,1.6504
+accumulative errors,task coordination,0.0804,1.3562
+Unified Autonomous Driving,perception,-0.2436,1.5771
+full-stack driving tasks,perception,-0.0466,1.4468
+Unified Autonomous Driving,prediction,-0.1926,1.5444
+full-stack driving tasks,prediction,-0.003,1.4163
+Unified Autonomous Driving,planning,-0.4715,1.7155
+full-stack driving tasks,planning,-0.0087,1.4203
+Unified Autonomous Driving,full-stack driving tasks,0.8059,0.6231
+complementary feature abstractions,perception,-0.3677,1.6539
+complementary feature abstractions,prediction,-0.3246,1.6276
+complementary feature abstractions,planning,-0.2919,1.6074
+Unified Autonomous Driving,complementary feature abstractions,0.9483,0.3214
+complementary feature abstractions,full-stack driving tasks,0.8517,0.5447
+nuScenes benchmark,planning,-0.0603,1.4563
+complementary feature abstractions,nuScenes benchmark,0.2466,1.2275

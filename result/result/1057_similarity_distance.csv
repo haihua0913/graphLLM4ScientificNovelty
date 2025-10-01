@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+differentially private,low-rank factorization,0.9306,0.3726
+differentially private,matrix,-0.0285,1.4342
+differentially private,one-shot algorithms,0.1267,1.3216
+differentially private,distributed,-0.1423,1.5115
+low-rank factorization,matrix,-0.2232,1.5641
+low-rank factorization,one-shot algorithms,0.1816,1.2794
+distributed,low-rank factorization,-0.2815,1.6009
+matrix,one-shot algorithms,-0.073,1.4649
+distributed,matrix,-0.0717,1.4641
+distributed,one-shot algorithms,0.4129,1.0836
+differentially private,privacy guarantees,-0.1381,1.5087
+differentially private,optimal accuracy,-0.4358,1.6946
+matrix,privacy guarantees,-0.16,1.5232
+matrix,optimal accuracy,-0.2347,1.5714
+optimal accuracy,privacy guarantees,-0.1836,1.5386
+differentially private,non-interactive,-0.2279,1.5671
+communication cost,differentially private,-0.1428,1.5119
+matrix,non-interactive,-0.0089,1.4205
+communication cost,matrix,0.0959,1.3447
+distributed,privacy guarantees,-0.2094,1.5552
+non-interactive,privacy guarantees,-0.1847,1.5393
+communication cost,privacy guarantees,-0.1865,1.5405
+distributed,optimal accuracy,-0.0936,1.4789
+non-interactive,optimal accuracy,0.0367,1.388
+communication cost,optimal accuracy,-0.1933,1.5449
+distributed,non-interactive,0.9647,0.2658
+communication cost,distributed,0.8021,0.6291
+communication cost,non-interactive,0.8748,0.5003

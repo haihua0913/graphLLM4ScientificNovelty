@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+active learner,hypothesis class,-0.0627,1.4579
+active learner,unlabeled examples,-0.4085,1.6784
+active learner,query labels,-0.3102,1.6188
+active learner,oracle,-0.2316,1.5694
+active learner,weak labeler,-0.3167,1.6228
+hypothesis class,unlabeled examples,0.0882,1.3504
+hypothesis class,query labels,0.0667,1.3662
+hypothesis class,oracle,-0.0037,1.4168
+hypothesis class,weak labeler,0.0128,1.4052
+query labels,unlabeled examples,0.9621,0.2754
+oracle,unlabeled examples,-0.1252,1.5001
+unlabeled examples,weak labeler,-0.1642,1.5259
+oracle,query labels,-0.1938,1.5452
+query labels,weak labeler,-0.2391,1.5742
+oracle,weak labeler,0.0023,1.4126
+low error,oracle,0.0275,1.3946
+low error,weak labeler,0.9065,0.4324
+active learning algorithm,oracle,-0.0949,1.4798
+label complexity,oracle,-0.0198,1.4282
+active learning algorithm,weak labeler,-0.3923,1.6687
+label complexity,weak labeler,-0.0564,1.4535
+active learning algorithm,low error,-0.1843,1.5391
+label complexity,low error,0.1161,1.3296
+active learning algorithm,label complexity,0.8863,0.4769

@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+batch size-invariant,hyperparameters,-0.0208,1.4289
+PPO,batch size-invariant,-0.3352,1.6341
+PPO,hyperparameters,-0.4437,1.6993
+batch size-invariant,proximal policy,-0.1083,1.4888
+batch size-invariant,behavior policy,-0.5336,1.7513
+batch size-invariant,off-policy corrections,0.4412,1.0572
+PPO,proximal policy,0.1076,1.336
+PPO,behavior policy,0.8482,0.551
+PPO,off-policy corrections,-0.2535,1.5834
+behavior policy,proximal policy,0.421,1.0761
+off-policy corrections,proximal policy,-0.1383,1.5088
+behavior policy,off-policy corrections,-0.5366,1.753
+batch size-invariant,experiments,-0.2538,1.5835
+experiments,proximal policy,-0.2005,1.5495
+behavior policy,experiments,-0.3526,1.6448
+experiments,off-policy corrections,-0.0608,1.4566

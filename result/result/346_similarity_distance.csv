@@ -1,0 +1,46 @@
+node1,node2,similarity,distance
+language revitalization,speech synthesis,-0.0763,1.4672
+Indigenous languages,speech synthesis,0.0472,1.3804
+Kanien’kéha,speech synthesis,0.0438,1.3829
+Gitksan,speech synthesis,-0.1229,1.4986
+SENĆOŦEN,speech synthesis,0.1063,1.337
+neural models,speech synthesis,-0.3943,1.6699
+low-resource,speech synthesis,-0.5778,1.7764
+Indigenous languages,language revitalization,0.921,0.3975
+Kanien’kéha,language revitalization,0.0098,1.4073
+Gitksan,language revitalization,-0.3021,1.6138
+SENĆOŦEN,language revitalization,0.9742,0.227
+language revitalization,neural models,0.0394,1.3861
+language revitalization,low-resource,0.1976,1.2668
+Indigenous languages,Kanien’kéha,-0.1321,1.5047
+Gitksan,Indigenous languages,-0.3073,1.6169
+Indigenous languages,SENĆOŦEN,0.9305,0.3728
+Indigenous languages,neural models,-0.2447,1.5778
+Indigenous languages,low-resource,0.0177,1.4016
+Gitksan,Kanien’kéha,0.8605,0.5282
+Kanien’kéha,SENĆOŦEN,0.0381,1.387
+Kanien’kéha,neural models,0.1184,1.3278
+Kanien’kéha,low-resource,0.2013,1.2639
+Gitksan,SENĆOŦEN,-0.2748,1.5967
+Gitksan,neural models,-0.0563,1.4535
+Gitksan,low-resource,0.1513,1.3028
+SENĆOŦEN,neural models,-0.0637,1.4586
+SENĆOŦEN,low-resource,0.121,1.3259
+low-resource,neural models,0.3394,1.1495
+FastSpeech2,speech synthesis,-0.3036,1.6147
+Tacotron2,speech synthesis,0.5758,0.9211
+FastSpeech2,language revitalization,-0.2148,1.5587
+Tacotron2,language revitalization,-0.5287,1.7485
+FastSpeech2,Indigenous languages,-0.3307,1.6314
+Indigenous languages,Tacotron2,-0.3645,1.652
+FastSpeech2,Kanien’kéha,0.3421,1.1471
+Kanien’kéha,Tacotron2,0.2423,1.231
+FastSpeech2,Gitksan,0.3173,1.1685
+Gitksan,Tacotron2,0.3348,1.1535
+FastSpeech2,SENĆOŦEN,-0.3304,1.6312
+SENĆOŦEN,Tacotron2,-0.4154,1.6825
+FastSpeech2,neural models,-0.1204,1.4969
+Tacotron2,neural models,-0.4959,1.7297
+FastSpeech2,Tacotron2,0.3066,1.1776
+FastSpeech2,low-resource,0.2804,1.1997
+Tacotron2,low-resource,-0.1187,1.4958

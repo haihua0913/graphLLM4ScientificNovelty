@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+content supervision,peer-to-peer P2P network,-0.5472,1.7591
+pirates community discovery,random walk-based approaches,0.9546,0.3014
+message similarity,pirates community discovery,0.9655,0.2626
+message passing frequency,pirates community discovery,0.9277,0.3802
+message similarity,random walk-based approaches,0.9207,0.3983
+message passing frequency,random walk-based approaches,0.9807,0.1966
+message passing frequency,message similarity,0.9231,0.3923
+actor network-based approach,pirates community discovery,0.9124,0.4185
+Girvan-Newman GN algorithm,pirates community discovery,-0.1594,1.5228
+actor network-based approach,message similarity,0.856,0.5366
+Girvan-Newman GN algorithm,message similarity,-0.2226,1.5637
+actor network-based approach,message passing frequency,0.8861,0.4772
+Girvan-Newman GN algorithm,message passing frequency,-0.2336,1.5707
+Girvan-Newman GN algorithm,actor network-based approach,-0.2054,1.5527

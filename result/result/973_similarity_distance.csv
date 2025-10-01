@@ -1,0 +1,14 @@
+node1,node2,similarity,distance
+Seq2Seq models,encoder-decoder structure,0.134,1.316
+Seq2Seq models,latent space,0.3013,1.1822
+encoder-decoder structure,latent space,0.9166,0.4085
+latent space,teacher module,0.2478,1.2266
+correct solution,latent space,-0.3386,1.6362
+latent space,wrong solutions,0.173,1.2861
+correct solution,teacher module,-0.4549,1.7058
+teacher module,wrong solutions,0.9674,0.2553
+correct solution,wrong solutions,-0.4668,1.7128
+benchmark MWPs datasets,latent space,-0.1401,1.51
+benchmark MWPs datasets,teacher module,-0.118,1.4954
+benchmark MWPs datasets,correct solution,-0.0828,1.4716
+benchmark MWPs datasets,wrong solutions,-0.0139,1.424

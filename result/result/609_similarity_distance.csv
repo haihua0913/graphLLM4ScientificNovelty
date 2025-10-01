@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+neural volume,time-varying,0.0663,1.3665
+neural volume,semantics,0.706,0.7668
+attention,neural volume,-0.1425,1.5116
+semantics,time-varying,0.0613,1.3702
+attention,time-varying,0.1008,1.341
+attention,semantics,-0.2358,1.5721
+saliency-aware clustering,semantics,0.7528,0.7032
+attention,saliency-aware clustering,-0.263,1.5893
+NVIDIA Dynamic Scene,attention,-0.1323,1.5048
+DyCheck datasets,attention,-0.1048,1.4864
+NVIDIA Dynamic Scene,saliency-aware clustering,0.2375,1.2349
+DyCheck datasets,saliency-aware clustering,0.0963,1.3444
+DyCheck datasets,NVIDIA Dynamic Scene,-0.0836,1.4722
+dynamic scenes,saliency-aware clustering,-0.121,1.4973
+saliency-aware clustering,unsupervised,-0.1385,1.5089
+dynamic scenes,unsupervised,-0.0576,1.4544
+NVIDIA Dynamic Scene,dynamic scenes,-0.0798,1.4695
+DyCheck datasets,dynamic scenes,-0.1278,1.5019
+NVIDIA Dynamic Scene,unsupervised,-0.0794,1.4693
+DyCheck datasets,unsupervised,0.2142,1.2536

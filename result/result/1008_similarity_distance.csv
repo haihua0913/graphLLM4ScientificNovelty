@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+Dirichlet process mixtures,finite mixture,0.9922,0.1251
+Dirichlet process mixtures,density estimation,-0.2906,1.6066
+Dirichlet process mixtures,posterior distribution,-0.0648,1.4593
+Dirichlet process mixtures,clusters,-0.0469,1.447
+density estimation,finite mixture,-0.2201,1.5621
+finite mixture,posterior distribution,-0.0878,1.475
+clusters,finite mixture,-0.1218,1.4979
+density estimation,posterior distribution,0.0587,1.3721
+clusters,density estimation,-0.1187,1.4958
+clusters,posterior distribution,-0.1946,1.5457
+inconsistency,posterior distribution,-0.3007,1.6129
+normal components,posterior distribution,-0.2473,1.5794
+clusters,inconsistency,0.8578,0.5333
+clusters,normal components,0.993,0.1182
+inconsistency,normal components,0.8976,0.4525

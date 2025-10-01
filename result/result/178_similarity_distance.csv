@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+large candidate arm set,stochastic bandit problem,-0.1958,1.5465
+parametric reward model,stochastic bandit problem,0.9705,0.2431
+non-parametric reward model,stochastic bandit problem,0.9849,0.174
+large candidate arm set,parametric reward model,-0.173,1.5317
+large candidate arm set,non-parametric reward model,-0.1906,1.5431
+non-parametric reward model,parametric reward model,0.98,0.1999
+contextual bandit algorithms,stochastic bandit problem,0.9766,0.2162
+contextual bandit algorithms,large candidate arm set,-0.1148,1.4932
+contextual bandit algorithms,parametric reward model,0.9298,0.3747
+contextual bandit algorithms,non-parametric reward model,0.9701,0.2445
+Bayesian framework,parametric reward model,-0.0163,1.4257
+Semi-Parametric Sampling,parametric reward model,-0.1162,1.4941
+Bayesian framework,contextual bandit algorithms,0.1012,1.3407
+Semi-Parametric Sampling,contextual bandit algorithms,-0.1581,1.5219
+Bayesian framework,Semi-Parametric Sampling,-0.1474,1.5149
+Bayesian framework,non-parametric reward model,-0.0402,1.4424
+Semi-Parametric Sampling,non-parametric reward model,-0.159,1.5225
+Linear SPS,regret bound,0.7075,0.7648

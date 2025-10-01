@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+linear regression,rational entries,-0.1542,1.5193
+polynomial-time algorithm,rational entries,0.8826,0.4846
+lattice basis reduction,rational entries,0.03,1.3928
+lattice basis reduction,polynomial-time algorithm,-0.0961,1.4806
+iid entries,polynomial-time algorithm,-0.2254,1.5655
+non-zero noise,polynomial-time algorithm,0.9785,0.2075
+iid entries,lattice basis reduction,0.9362,0.3572
+lattice basis reduction,non-zero noise,-0.198,1.5479
+iid entries,non-zero noise,-0.3493,1.6428
+Gaussian white noise,iid entries,-0.202,1.5505
+iid entries,information-theoretic level,-0.2301,1.5685
+Gaussian white noise,non-zero noise,-0.1786,1.5353
+Gaussian white noise,information-theoretic level,0.0639,1.3683
+information-theoretic level,non-zero noise,-0.1856,1.5399

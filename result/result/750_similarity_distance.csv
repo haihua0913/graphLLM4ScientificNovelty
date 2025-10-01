@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+Bayesian inference,Stochastic gradient Markov Chain Monte Carlo,0.0812,1.3556
+Stochastic gradient Markov Chain Monte Carlo,large-scale models,0.9902,0.1401
+Stochastic gradient Markov Chain Monte Carlo,variational inference,-0.5039,1.7343
+Bayesian inference,large-scale models,0.1167,1.3291
+Bayesian inference,variational inference,-0.1822,1.5377
+large-scale models,variational inference,-0.4965,1.73
+non-parametric variational approximation,variational inference,-0.2307,1.5689
+Langevin-type algorithm,non-parametric variational approximation,-0.2044,1.552
+modified energy function,non-parametric variational approximation,-0.1754,1.5332
+Langevin-type algorithm,modified energy function,0.7715,0.6761
+non-parametric variational approximation,statistical dependencies,0.836,0.5727
+Langevin-type algorithm,statistical dependencies,-0.0572,1.4541
+modified energy function,statistical dependencies,0.1417,1.3102
+ResNet-20,statistical dependencies,-0.0834,1.472

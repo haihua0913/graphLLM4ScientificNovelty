@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+entry-level categories,predicting entry-level categories,0.953,0.3066
+entry-level categories,images,-0.2293,1.568
+images,predicting entry-level categories,-0.24,1.5748
+entry-level categories,visual recognition,0.8853,0.479
+entry-level categories,text on the web,0.0836,1.3538
+predicting entry-level categories,visual recognition,0.9425,0.3391
+images,visual recognition,-0.0336,1.4377
+text on the web,visual recognition,-0.1839,1.5388
+predicting entry-level categories,text on the web,-0.094,1.4792
+images,text on the web,-0.3991,1.6728
+entry-level categories,predicting nouns,-0.436,1.6947
+predicting nouns,visual recognition,-0.2096,1.5554
+predicting entry-level categories,predicting nouns,-0.23,1.5685
+images,predicting nouns,-0.15,1.5166
+predicting nouns,text on the web,-0.0642,1.4589
+human-focused applications,visual recognition,0.1152,1.3303
+natural language image description,visual recognition,-0.039,1.4415
+retrieval,visual recognition,0.0144,1.404
+human-focused applications,images,-0.3936,1.6695
+images,natural language image description,-0.2502,1.5812
+images,retrieval,-0.2283,1.5674
+human-focused applications,text on the web,-0.1483,1.5155
+natural language image description,text on the web,-0.0166,1.4259
+retrieval,text on the web,-0.1161,1.494
+human-focused applications,predicting nouns,-0.0294,1.4349
+natural language image description,predicting nouns,0.0116,1.406
+predicting nouns,retrieval,-0.1603,1.5234
+human-focused applications,natural language image description,0.935,0.3605
+human-focused applications,retrieval,0.9606,0.2809
+natural language image description,retrieval,0.9545,0.3018

@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Moore machines,decentralized POMDPs,0.0274,1.3947
+Moore machines,controller-based approaches,-0.0642,1.4589
+Moore machines,automata,0.2526,1.2226
+controller-based approaches,decentralized POMDPs,-0.2355,1.5719
+automata,decentralized POMDPs,-0.0402,1.4423
+automata,controller-based approaches,-0.1872,1.5409
+Mealy machines,Moore machines,-0.2524,1.5827
+Mealy machines,decentralized POMDPs,-0.0921,1.4779
+Mealy machines,controller-based approaches,0.9606,0.2806
+Mealy machines,automata,-0.3479,1.6419
+Mealy machines,solution methods,-0.3092,1.6182
+Moore machines,solution methods,-0.3963,1.6711
+decentralized POMDPs,solution methods,-0.2154,1.5591
+controller-based approaches,solution methods,-0.4184,1.6843
+automata,solution methods,-0.2969,1.6105
+Mealy machines,benchmark domains,0.9375,0.3537
+Moore machines,benchmark domains,-0.1137,1.4925
+benchmark domains,controller-based approaches,0.8858,0.4778
+automata,benchmark domains,-0.475,1.7175
+benchmark domains,solution methods,-0.1579,1.5217
+benchmark domains,decentralized POMDPs,-0.0618,1.4572

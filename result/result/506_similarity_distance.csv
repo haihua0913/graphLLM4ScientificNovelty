@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+3D scenes,Implicit neural representations,-0.0896,1.4762
+Implicit neural representations,encode videos,-0.1683,1.5286
+3D scenes,encode videos,-0.3381,1.6359
+D-NeRV,neural representation framework,0.7155,0.7544
+D-NeRV,temporal reasoning,-0.2738,1.5961
+neural representation framework,temporal reasoning,0.2657,1.2118
+D-NeRV,video compression,0.0985,1.3428
+D-NeRV,UCF101,0.0608,1.3705
+D-NeRV,UVG datasets,0.4343,1.0637
+neural representation framework,video compression,-0.239,1.5742
+UCF101,neural representation framework,-0.2179,1.5607
+UVG datasets,neural representation framework,0.1096,1.3345
+temporal reasoning,video compression,-0.1664,1.5273
+UCF101,temporal reasoning,-0.1461,1.514
+UVG datasets,temporal reasoning,-0.1544,1.5195
+UCF101,video compression,-0.1767,1.5341
+UVG datasets,video compression,0.0116,1.406
+UCF101,UVG datasets,0.8696,0.5107

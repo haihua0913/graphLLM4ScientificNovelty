@@ -1,0 +1,32 @@
+node1,node2,similarity,distance
+PAC learning,distribution-independent,0.1193,1.3272
+distribution-independent,halfspaces,-0.2081,1.5544
+Massart noise,distribution-independent,0.1146,1.3307
+distribution-independent,noise rate,-0.1372,1.5081
+PAC learning,halfspaces,0.2697,1.2086
+Massart noise,PAC learning,-0.0364,1.4397
+PAC learning,noise rate,-0.1974,1.5475
+Massart noise,halfspaces,-0.4249,1.6881
+halfspaces,noise rate,-0.1981,1.548
+Massart noise,noise rate,-0.1156,1.4937
+distribution-independent,misclassification error,0.0092,1.4077
+distribution-independent,hypothesis,-0.0922,1.478
+PAC learning,misclassification error,-0.0608,1.4566
+PAC learning,hypothesis,0.9075,0.4301
+halfspaces,misclassification error,-0.2542,1.5838
+halfspaces,hypothesis,0.3789,1.1145
+Massart noise,misclassification error,-0.301,1.6131
+Massart noise,hypothesis,-0.3108,1.6192
+misclassification error,noise rate,-0.2308,1.5689
+hypothesis,noise rate,-0.1571,1.5213
+hypothesis,misclassification error,-0.1491,1.516
+Massart noise,algorithm,0.0683,1.3651
+algorithm,noise rate,-0.4407,1.6975
+algorithm,misclassification error,0.8408,0.5643
+algorithm,hypothesis,-0.1325,1.505
+algorithm,distribution-independent,-0.1793,1.5357
+disjunctions,distribution-independent,0.0169,1.4022
+disjunctions,misclassification error,0.9702,0.2443
+algorithm,disjunctions,0.7207,0.7474
+algorithm,halfspaces,-0.1938,1.5452
+disjunctions,halfspaces,-0.2406,1.5752

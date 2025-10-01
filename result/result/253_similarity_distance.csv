@@ -1,0 +1,16 @@
+node1,node2,similarity,distance
+generic sentence fusion,question-based sentence fusion,0.5618,0.9362
+QA setting,question-based sentence fusion,0.5165,0.9834
+normalized Rouge scores,question-based sentence fusion,-0.0165,1.4259
+question-based sentence fusion,union,0.9072,0.4309
+intersection fusions,question-based sentence fusion,0.905,0.4359
+QA setting,generic sentence fusion,0.2324,1.2391
+generic sentence fusion,normalized Rouge scores,-0.1111,1.4907
+generic sentence fusion,union,0.5488,0.95
+generic sentence fusion,intersection fusions,0.4466,1.0521
+QA setting,normalized Rouge scores,0.7918,0.6453
+QA setting,union,0.7028,0.7709
+QA setting,intersection fusions,0.465,1.0344
+normalized Rouge scores,union,0.3215,1.1649
+intersection fusions,normalized Rouge scores,-0.005,1.4177
+intersection fusions,union,0.8307,0.5818

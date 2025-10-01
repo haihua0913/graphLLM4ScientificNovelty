@@ -1,0 +1,24 @@
+node1,node2,similarity,distance
+Bayesian approaches,optimal design,-0.2057,1.5529
+Bayesian approaches,sequential experiments,0.8958,0.4564
+Bayesian approaches,amortization,0.8851,0.4793
+Bayesian approaches,parameterized policy,0.8853,0.4789
+optimal design,sequential experiments,-0.0748,1.4662
+amortization,optimal design,0.0882,1.3504
+optimal design,parameterized policy,-0.0777,1.4682
+amortization,sequential experiments,0.9795,0.2025
+parameterized policy,sequential experiments,0.8088,0.6184
+amortization,parameterized policy,0.8386,0.5682
+Bayesian approaches,continuous design spaces,0.2525,1.2227
+continuous design spaces,optimal design,-0.102,1.4846
+continuous design spaces,sequential experiments,0.2061,1.2601
+amortization,continuous design spaces,0.2466,1.2275
+continuous design spaces,parameterized policy,0.1249,1.323
+Bayesian approaches,Markov decision process,-0.3604,1.6495
+Markov decision process,amortization,-0.0525,1.4509
+Markov decision process,parameterized policy,-0.1245,1.4997
+Markov decision process,continuous design spaces,-0.1559,1.5205
+continuous design spaces,deep reinforcement learning,0.8175,0.6042
+Markov decision process,deep reinforcement learning,0.0106,1.4067
+Markov decision process,discrete design spaces,0.3312,1.1565
+deep reinforcement learning,discrete design spaces,0.5786,0.918

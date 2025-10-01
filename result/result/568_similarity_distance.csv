@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Fisher Criterion,Fisher Linear Discriminant,0.127,1.3214
+Fisher Linear Discriminant,classification,-0.0798,1.4696
+Fisher Criterion,classification,-0.0819,1.471
+Fisher Linear Discriminant,subspaces,-0.1512,1.5174
+Fisher Criterion,subspaces,-0.0347,1.4386
+classification,subspaces,0.0147,1.4038
+Identity Space,subspaces,0.9492,0.3188
+Variation Space,subspaces,0.8877,0.4739
+Identity Space,classification,0.1831,1.2782
+Variation Space,classification,-0.1039,1.4859
+Identity Space,Variation Space,0.8451,0.5566
+between-class variation,subspaces,-0.2733,1.5958
+subspaces,within-class variation,-0.3059,1.6161
+between-class variation,classification,-0.2085,1.5547
+classification,within-class variation,-0.4673,1.7131
+Identity Space,between-class variation,-0.1883,1.5416
+Identity Space,within-class variation,-0.2669,1.5918
+Variation Space,between-class variation,0.0243,1.3969
+Variation Space,within-class variation,0.0417,1.3844
+between-class variation,within-class variation,0.9394,0.3481
+classification,image synthesis,-0.0362,1.4396

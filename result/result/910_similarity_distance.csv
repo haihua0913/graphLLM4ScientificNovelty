@@ -1,0 +1,35 @@
+node1,node2,similarity,distance
+Finite State Controllers,sequential plans,0.9774,0.2127
+Finite State Controllers,generalized plans,-0.1137,1.4924
+Finite State Controllers,planning problems,-0.3316,1.6319
+generalized plans,sequential plans,-0.1718,1.5309
+planning problems,sequential plans,-0.2571,1.5857
+generalized plans,planning problems,-0.3718,1.6564
+Finite State Controllers,hierarchical FSCs,0.9115,0.4207
+hierarchical FSCs,sequential plans,0.8653,0.519
+generalized plans,hierarchical FSCs,-0.0578,1.4545
+hierarchical FSCs,planning problems,-0.3637,1.6515
+call mechanism,generalized plans,-0.1974,1.5475
+generalized plans,recursion,-0.2034,1.5514
+generalized plans,modular fashion,-0.0725,1.4646
+call mechanism,hierarchical FSCs,-0.0825,1.4714
+hierarchical FSCs,recursion,-0.2668,1.5917
+hierarchical FSCs,modular fashion,-0.1675,1.5281
+call mechanism,recursion,0.9088,0.427
+call mechanism,modular fashion,0.8999,0.4474
+modular fashion,recursion,0.9671,0.2565
+classical planner,generalized plans,0.9831,0.184
+classical planner,hierarchical FSCs,-0.0713,1.4637
+call mechanism,planning problems,-0.0673,1.461
+planning problems,recursion,0.0359,1.3886
+classical planner,planning problems,-0.357,1.6474
+modular fashion,planning problems,-0.1596,1.5229
+call mechanism,classical planner,-0.1883,1.5416
+classical planner,recursion,-0.2,1.5492
+classical planner,modular fashion,-0.0842,1.4725
+classical planning problem,hierarchical FSCs,0.1001,1.3415
+classical planning problem,planning problems,0.5473,0.9516
+call mechanism,classical planning problem,-0.3698,1.6551
+classical planning problem,recursion,-0.4005,1.6736
+classical planner,classical planning problem,-0.5134,1.7398
+classical planning problem,modular fashion,-0.4632,1.7106

@@ -1,0 +1,290 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/recomb/recomb2010.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"72.93"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"43",
+"@dc":"43",
+"@oc":"43",
+"@id":"48917535",
+"text":":facetid:toc:db/conf/recomb/recomb2010.bht"
+}
+},
+"hits":{
+"@total":"43",
+"@computed":"43",
+"@sent":"43",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"5764227",
+"info":{"authors":{"author":[{"@pid":"29/8065","text":"Nir Atias"},{"@pid":"05/902","text":"Roded Sharan"}]},"title":"An Algorithmic Framework for Predicting Side-Effects of Drugs.","venue":"RECOMB","pages":"1-14","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/AtiasS10","doi":"10.1007/978-3-642-12683-3_1","ee":"https://doi.org/10.1007/978-3-642-12683-3_1","url":"https://dblp.org/rec/conf/recomb/AtiasS10"},
+"url":"URL#5764227"
+},
+{
+"@score":"1",
+"@id":"5764228",
+"info":{"authors":{"author":[{"@pid":"26/7374","text":"Ferhat Ay"},{"@pid":"k/TamerKahveci","text":"Tamer Kahveci"}]},"title":"SubMAP: Aligning Metabolic Pathways with Subnetwork Mappings.","venue":"RECOMB","pages":"15-30","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/AyK10","doi":"10.1007/978-3-642-12683-3_2","ee":"https://doi.org/10.1007/978-3-642-12683-3_2","url":"https://dblp.org/rec/conf/recomb/AyK10"},
+"url":"URL#5764228"
+},
+{
+"@score":"1",
+"@id":"5764231",
+"info":{"authors":{"author":[{"@pid":"56/8064","text":"Jean-Denis Benazet"},{"@pid":"01/8065","text":"Mirko Bischofberger"},{"@pid":"50/8064","text":"Eva Tiecke"},{"@pid":"40/8064","text":"Alexandre Gonalves"},{"@pid":"12/8065","text":"James F. Martin"},{"@pid":"52/8064","text":"Aime Zuniga"},{"@pid":"53/3180","text":"Felix Naef"},{"@pid":"68/8064","text":"Rolf Zeller"}]},"title":"A Self-regulatory System of Interlinked Signaling Feedback Loops Controls Mouse Limb Patterning.","venue":"RECOMB","pages":"575-576","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BenazetBTGMZNZ10","doi":"10.1007/978-3-642-12683-3_40","ee":"https://doi.org/10.1007/978-3-642-12683-3_40","url":"https://dblp.org/rec/conf/recomb/BenazetBTGMZNZ10"},
+"url":"URL#5764231"
+},
+{
+"@score":"1",
+"@id":"5764232",
+"info":{"authors":{"author":[{"@pid":"13/6061","text":"Sivan Bercovici"},{"@pid":"38/1294","text":"Dan Geiger"}]},"title":"Admixture Aberration Analysis: Application to Mapping in Admixed Population Using Pooled DNA.","venue":"RECOMB","pages":"31-49","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BercoviciG10","doi":"10.1007/978-3-642-12683-3_3","ee":"https://doi.org/10.1007/978-3-642-12683-3_3","url":"https://dblp.org/rec/conf/recomb/BercoviciG10"},
+"url":"URL#5764232"
+},
+{
+"@score":"1",
+"@id":"5764233",
+"info":{"authors":{"author":[{"@pid":"13/6061","text":"Sivan Bercovici"},{"@pid":"99/3331","text":"Itai Sharon"},{"@pid":"79/2997","text":"Ron Y. Pinter"},{"@pid":"27/4445","text":"Tomer Shlomi"}]},"title":"Pathway-Based Functional Analysis of Metagenomes.","venue":"RECOMB","pages":"50-64","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/BercoviciSPS10","doi":"10.1007/978-3-642-12683-3_4","ee":"https://doi.org/10.1007/978-3-642-12683-3_4","url":"https://dblp.org/rec/conf/recomb/BercoviciSPS10"},
+"url":"URL#5764233"
+},
+{
+"@score":"1",
+"@id":"5764235",
+"info":{"authors":{"author":[{"@pid":"34/7067","text":"José Caldas"},{"@pid":"64/5826","text":"Samuel Kaski"}]},"title":"Hierarchical Generative Biclustering for MicroRNA Expression Analysis.","venue":"RECOMB","pages":"65-79","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/CaldasK10","doi":"10.1007/978-3-642-12683-3_5","ee":"https://doi.org/10.1007/978-3-642-12683-3_5","url":"https://dblp.org/rec/conf/recomb/CaldasK10"},
+"url":"URL#5764235"
+},
+{
+"@score":"1",
+"@id":"5764236",
+"info":{"authors":{"author":[{"@pid":"74/3460","text":"Benny Chor"},{"@pid":"07/5344-1","text":"David Horn 0001"},{"@pid":"06/6613","text":"Nick Goldman"},{"@pid":"30/8064","text":"Yaron Levy"},{"@pid":"93/4157","text":"Tim Massingham"}]},"title":"Genomic DNA k-mer Spectra: Models and Modalities.","venue":"RECOMB","pages":"571","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ChorHGLM10","doi":"10.1007/978-3-642-12683-3_37","ee":"https://doi.org/10.1007/978-3-642-12683-3_37","url":"https://dblp.org/rec/conf/recomb/ChorHGLM10"},
+"url":"URL#5764236"
+},
+{
+"@score":"1",
+"@id":"5764237",
+"info":{"authors":{"author":[{"@pid":"47/8064","text":"Salim A. Chowdhury"},{"@pid":"55/8064","text":"Rod K. Nibbe"},{"@pid":"66/8064","text":"Mark R. Chance"},{"@pid":"08/5667","text":"Mehmet Koyutürk"}]},"title":"Subnetwork State Functions Define Dysregulated Subnetworks in Cancer.","venue":"RECOMB","pages":"80-95","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ChowdhuryNCK10","doi":"10.1007/978-3-642-12683-3_6","ee":"https://doi.org/10.1007/978-3-642-12683-3_6","url":"https://dblp.org/rec/conf/recomb/ChowdhuryNCK10"},
+"url":"URL#5764237"
+},
+{
+"@score":"1",
+"@id":"5764238",
+"info":{"authors":{"author":[{"@pid":"23/7066","text":"Manfred Claassen"},{"@pid":"15/5373","text":"Ruedi Aebersold"},{"@pid":"b/JMBuhmann","text":"Joachim M. Buhmann"}]},"title":"Proteome Coverage Prediction for Integrated Proteomics Datasets.","venue":"RECOMB","pages":"96-109","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ClaassenAB10","doi":"10.1007/978-3-642-12683-3_7","ee":"https://doi.org/10.1007/978-3-642-12683-3_7","url":"https://dblp.org/rec/conf/recomb/ClaassenAB10"},
+"url":"URL#5764238"
+},
+{
+"@score":"1",
+"@id":"5764239",
+"info":{"authors":{"author":[{"@pid":"25/2229","text":"Timothy Danford"},{"@pid":"84/3972","text":"Robin D. Dowell"},{"@pid":"96/8064","text":"Sudeep Agarwala"},{"@pid":"61/8064","text":"Paula Grisafi"},{"@pid":"34/8064","text":"Gerald Fink"},{"@pid":"g/DavidKGifford","text":"David K. Gifford"}]},"title":"Discovering Regulatory Overlapping RNA Transcripts.","venue":"RECOMB","pages":"110-122","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/DanfordDAGFG10","doi":"10.1007/978-3-642-12683-3_8","ee":"https://doi.org/10.1007/978-3-642-12683-3_8","url":"https://dblp.org/rec/conf/recomb/DanfordDAGFG10"},
+"url":"URL#5764239"
+},
+{
+"@score":"1",
+"@id":"5764240",
+"info":{"authors":{"author":[{"@pid":"d/ConstantinosDaskalakis","text":"Constantinos Daskalakis"},{"@pid":"42/5427","text":"Sébastien Roch"}]},"title":"Alignment-Free Phylogenetic Reconstruction.","venue":"RECOMB","pages":"123-137","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/DaskalakisR10","doi":"10.1007/978-3-642-12683-3_9","ee":"https://doi.org/10.1007/978-3-642-12683-3_9","url":"https://dblp.org/rec/conf/recomb/DaskalakisR10"},
+"url":"URL#5764240"
+},
+{
+"@score":"1",
+"@id":"5764244",
+"info":{"authors":{"author":[{"@pid":"87/2002","text":"Jianxing Feng"},{"@pid":"64/6025-35","text":"Wei Li 0035"},{"@pid":"j/TaoJiang-1","text":"Tao Jiang 0001"}]},"title":"Inference of Isoforms from Short Sequence Reads.","venue":"RECOMB","pages":"138-157","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/FengLJ10","doi":"10.1007/978-3-642-12683-3_10","ee":"https://doi.org/10.1007/978-3-642-12683-3_10","url":"https://dblp.org/rec/conf/recomb/FengLJ10"},
+"url":"URL#5764244"
+},
+{
+"@score":"1",
+"@id":"5764246",
+"info":{"authors":{"author":[{"@pid":"14/2695","text":"Richard A. Goldstein"},{"@pid":"98/8064","text":"Mario dos Reis"},{"@pid":"18/8065","text":"Asif U. Tamuri"},{"@pid":"08/8065","text":"Alan J. Hay"}]},"title":"Deciphering the Swine-Flu Pandemics of 1918 and 2009.","venue":"RECOMB","pages":"572-573","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/GoldsteinRTH10","doi":"10.1007/978-3-642-12683-3_38","ee":"https://doi.org/10.1007/978-3-642-12683-3_38","url":"https://dblp.org/rec/conf/recomb/GoldsteinRTH10"},
+"url":"URL#5764246"
+},
+{
+"@score":"1",
+"@id":"5764247",
+"info":{"authors":{"author":[{"@pid":"50/5500","text":"Raluca Gordân"},{"@pid":"64/1983","text":"Alexander J. Hartemink"},{"@pid":"70/7","text":"Martha L. Bulyk"}]},"title":"Distinguishing Direct versus Indirect Transcription Factor-DNA Interactions.","venue":"RECOMB","pages":"574","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/GordanHB10","doi":"10.1007/978-3-642-12683-3_39","ee":"https://doi.org/10.1007/978-3-642-12683-3_39","url":"https://dblp.org/rec/conf/recomb/GordanHB10"},
+"url":"URL#5764247"
+},
+{
+"@score":"1",
+"@id":"5764248",
+"info":{"authors":{"author":[{"@pid":"15/3605","text":"Bjarni V. Halldórsson"},{"@pid":"31/8064","text":"Derek Aguiar"},{"@pid":"15/8065","text":"Ryan Tarpine"},{"@pid":"59/460","text":"Sorin Istrail"}]},"title":"The Clark Phase-able Sample Size Problem: Long-Range Phasing and Loss of Heterozygosity in GWAS.","venue":"RECOMB","pages":"158-173","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/HalldorssonATI10","doi":"10.1007/978-3-642-12683-3_11","ee":"https://doi.org/10.1007/978-3-642-12683-3_11","url":"https://dblp.org/rec/conf/recomb/HalldorssonATI10"},
+"url":"URL#5764248"
+},
+{
+"@score":"1",
+"@id":"5764249",
+"info":{"authors":{"author":[{"@pid":"17/8065","text":"Yonit Halperin"},{"@pid":"76/1122","text":"Chaim Linhart"},{"@pid":"27/6624","text":"Igor Ulitsky"},{"@pid":"66/6913","text":"Ron Shamir"}]},"title":"Discovering Transcriptional Modules by Combined Analysis of Expression Profiles and Regulatory Sequences.","venue":"RECOMB","pages":"578-579","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/HalperinLUS10","doi":"10.1007/978-3-642-12683-3_42","ee":"https://doi.org/10.1007/978-3-642-12683-3_42","url":"https://dblp.org/rec/conf/recomb/HalperinLUS10"},
+"url":"URL#5764249"
+},
+{
+"@score":"1",
+"@id":"5764250",
+"info":{"authors":{"author":[{"@pid":"41/4748-1","text":"Michael Hirsch 0001"},{"@pid":"97/119","text":"Bernhard Schölkopf"},{"@pid":"67/5618","text":"Michael Habeck"}]},"title":"A New Algorithm for Improving the Resolution of Cryo-EM Density Maps.","venue":"RECOMB","pages":"174-188","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/HirschSH10","doi":"10.1007/978-3-642-12683-3_12","ee":"https://doi.org/10.1007/978-3-642-12683-3_12","url":"https://dblp.org/rec/conf/recomb/HirschSH10"},
+"url":"URL#5764250"
+},
+{
+"@score":"1",
+"@id":"5764252",
+"info":{"authors":{"author":[{"@pid":"86/8064","text":"Richard Jang"},{"@pid":"56/2203-1","text":"Xin Gao 0001"},{"@pid":"l/MingLi1","text":"Ming Li 0001"}]},"title":"Towards Automated Structure-Based NMR Resonance Assignment.","venue":"RECOMB","pages":"189-207","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/JangGL10","doi":"10.1007/978-3-642-12683-3_13","ee":"https://doi.org/10.1007/978-3-642-12683-3_13","url":"https://dblp.org/rec/conf/recomb/JangGL10"},
+"url":"URL#5764252"
+},
+{
+"@score":"1",
+"@id":"5764253",
+"info":{"authors":{"author":[{"@pid":"34/2452-1","text":"Kyowon Jeong 0001"},{"@pid":"96/6127","text":"Sangtae Kim"},{"@pid":"44/4012","text":"Nuno Bandeira"},{"@pid":"p/PAPevzner","text":"Pavel A. Pevzner"}]},"title":"Gapped Spectral Dictionaries and Their Applications for Database Searches of Tandem Mass Spectra.","venue":"RECOMB","pages":"208-232","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/JeongKBP10","doi":"10.1007/978-3-642-12683-3_14","ee":"https://doi.org/10.1007/978-3-642-12683-3_14","url":"https://dblp.org/rec/conf/recomb/JeongKBP10"},
+"url":"URL#5764253"
+},
+{
+"@score":"1",
+"@id":"5764256",
+"info":{"authors":{"author":[{"@pid":"91/2162","text":"Wei-Chun Kao"},{"@pid":"84/6299","text":"Yun S. Song"}]},"title":"naiveBayesCall: An Efficient Model-Based Base-Calling Algorithm for High-Throughput Sequencing.","venue":"RECOMB","pages":"233-247","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KaoS10","doi":"10.1007/978-3-642-12683-3_15","ee":"https://doi.org/10.1007/978-3-642-12683-3_15","url":"https://dblp.org/rec/conf/recomb/KaoS10"},
+"url":"URL#5764256"
+},
+{
+"@score":"1",
+"@id":"5764257",
+"info":{"authors":{"author":[{"@pid":"32/8064","text":"David R. Kelley"},{"@pid":"75/4537","text":"Carl Kingsford"}]},"title":"Extracting Between-Pathway Models from E-MAP Interactions Using Expected Graph Compression.","venue":"RECOMB","pages":"248-262","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KelleyK10","doi":"10.1007/978-3-642-12683-3_16","ee":"https://doi.org/10.1007/978-3-642-12683-3_16","url":"https://dblp.org/rec/conf/recomb/KelleyK10"},
+"url":"URL#5764257"
+},
+{
+"@score":"1",
+"@id":"5764258",
+"info":{"authors":{"author":[{"@pid":"k/YooAhKim","text":"Yoo-Ah Kim"},{"@pid":"60/840","text":"Stefan Wuchty"},{"@pid":"17/6857","text":"Teresa M. Przytycka"}]},"title":"Simultaneous Identification of Causal Genes and Dys-Regulated Pathways in Complex Diseases.","venue":"RECOMB","pages":"263-280","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KimWP10","doi":"10.1007/978-3-642-12683-3_17","ee":"https://doi.org/10.1007/978-3-642-12683-3_17","url":"https://dblp.org/rec/conf/recomb/KimWP10"},
+"url":"URL#5764258"
+},
+{
+"@score":"1",
+"@id":"5764259",
+"info":{"authors":{"author":[{"@pid":"18/1515","text":"Geoffrey Koh"},{"@pid":"29/331","text":"David Hsu"},{"@pid":"t/PSThiagarajan","text":"P. S. Thiagarajan"}]},"title":"Incremental Signaling Pathway Modeling by Data Integration.","venue":"RECOMB","pages":"281-296","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KohHT10","doi":"10.1007/978-3-642-12683-3_18","ee":"https://doi.org/10.1007/978-3-642-12683-3_18","url":"https://dblp.org/rec/conf/recomb/KohHT10"},
+"url":"URL#5764259"
+},
+{
+"@score":"1",
+"@id":"5764261",
+"info":{"authors":{"author":[{"@pid":"48/3093","text":"Adam Kowalczyk"},{"@pid":"58/3134","text":"Justin Bedo"},{"@pid":"73/8396","text":"Thomas C. Conway"},{"@pid":"27/6194","text":"Bryan Beresford-Smith"}]},"title":"The Poisson Margin Test for Normalisation Free Significance Analysis of NGS Data.","venue":"RECOMB","pages":"297-309","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KowalczykBCB10","doi":"10.1007/978-3-642-12683-3_19","ee":"https://doi.org/10.1007/978-3-642-12683-3_19","url":"https://dblp.org/rec/conf/recomb/KowalczykBCB10"},
+"url":"URL#5764261"
+},
+{
+"@score":"1",
+"@id":"5764262",
+"info":{"authors":{"author":[{"@pid":"98/874","text":"Christos Kozanitis"},{"@pid":"116/9522","text":"Christopher T. Saunders"},{"@pid":"37/3583","text":"Semyon Kruglyak"},{"@pid":"b/VineetBafna","text":"Vineet Bafna"},{"@pid":"v/GeorgeVarghese","text":"George Varghese"}]},"title":"Compressing Genomic Sequence Fragments Using SlimGene.","venue":"RECOMB","pages":"310-324","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/KozanitisSKBV10","doi":"10.1007/978-3-642-12683-3_20","ee":"https://doi.org/10.1007/978-3-642-12683-3_20","url":"https://dblp.org/rec/conf/recomb/KozanitisSKBV10"},
+"url":"URL#5764262"
+},
+{
+"@score":"1",
+"@id":"5764263",
+"info":{"authors":{"author":[{"@pid":"80/402","text":"Fumei Lam"},{"@pid":"57/1075","text":"Charles H. Langley"},{"@pid":"84/6299","text":"Yun S. Song"}]},"title":"On the Genealogy of Asexual Diploids.","venue":"RECOMB","pages":"325-340","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/LamLS10","doi":"10.1007/978-3-642-12683-3_21","ee":"https://doi.org/10.1007/978-3-642-12683-3_21","url":"https://dblp.org/rec/conf/recomb/LamLS10"},
+"url":"URL#5764263"
+},
+{
+"@score":"1",
+"@id":"5764264",
+"info":{"authors":{"author":[{"@pid":"60/3750","text":"Jonathan Laserson"},{"@pid":"99/3320","text":"Vladimir Jojic"},{"@pid":"k/DaphneKoller","text":"Daphne Koller"}]},"title":"Genovo: De Novo Assembly for Metagenomes.","venue":"RECOMB","pages":"341-356","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/LasersonJK10","doi":"10.1007/978-3-642-12683-3_22","ee":"https://doi.org/10.1007/978-3-642-12683-3_22","url":"https://dblp.org/rec/conf/recomb/LasersonJK10"},
+"url":"URL#5764264"
+},
+{
+"@score":"1",
+"@id":"5764265",
+"info":{"authors":{"author":[{"@pid":"22/4961","text":"Seunghak Lee"},{"@pid":"36/3855","text":"Eric P. Xing"},{"@pid":"10/6530","text":"Michael Brudno"}]},"title":"MoGUL: Detecting Common Insertions and Deletions in a Population.","venue":"RECOMB","pages":"357-368","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/LeeXB10","doi":"10.1007/978-3-642-12683-3_23","ee":"https://doi.org/10.1007/978-3-642-12683-3_23","url":"https://dblp.org/rec/conf/recomb/LeeXB10"},
+"url":"URL#5764265"
+},
+{
+"@score":"1",
+"@id":"5764270",
+"info":{"authors":{"author":[{"@pid":"95/8064","text":"Navodit Misra"},{"@pid":"b/GEBlelloch","text":"Guy E. Blelloch"},{"@pid":"r/RRavi-1","text":"R. Ravi 0001"},{"@pid":"77/4437","text":"Russell Schwartz"}]},"title":"Generalized Buneman Pruning for Inferring the Most Parsimonious Multi-state Phylogeny.","venue":"RECOMB","pages":"369-383","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/MisraBRS10","doi":"10.1007/978-3-642-12683-3_24","ee":"https://doi.org/10.1007/978-3-642-12683-3_24","url":"https://dblp.org/rec/conf/recomb/MisraBRS10"},
+"url":"URL#5764270"
+},
+{
+"@score":"1",
+"@id":"5764272",
+"info":{"authors":{"author":[{"@pid":"65/3202","text":"Laurent Noé"},{"@pid":"95/6119","text":"Marta Gîrdea"},{"@pid":"k/GregoryKucherov","text":"Gregory Kucherov"}]},"title":"Seed Design Framework for Mapping SOLiD Reads.","venue":"RECOMB","pages":"384-396","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/NoeGK10","doi":"10.1007/978-3-642-12683-3_25","ee":"https://doi.org/10.1007/978-3-642-12683-3_25","url":"https://dblp.org/rec/conf/recomb/NoeGK10"},
+"url":"URL#5764272"
+},
+{
+"@score":"1",
+"@id":"5764275",
+"info":{"authors":{"author":[{"@pid":"18/2191","text":"Bogdan Pasaniuc"},{"@pid":"08/6902","text":"Noah Zaitlen"},{"@pid":"h/EranHalperin","text":"Eran Halperin"}]},"title":"Accurate Estimation of Expression Levels of Homologous Genes in RNA-seq Experiments.","venue":"RECOMB","pages":"397-409","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/PasaniucZH10","doi":"10.1007/978-3-642-12683-3_26","ee":"https://doi.org/10.1007/978-3-642-12683-3_26","url":"https://dblp.org/rec/conf/recomb/PasaniucZH10"},
+"url":"URL#5764275"
+},
+{
+"@score":"1",
+"@id":"5764276",
+"info":{"authors":{"author":[{"@pid":"83/7067","text":"Benedict Paten"},{"@pid":"62/2692","text":"Mark Diekhans"},{"@pid":"91/8064","text":"Dent Earl"},{"@pid":"13/8065","text":"John St. John"},{"@pid":"26/4870-4","text":"Jian Ma 0004"},{"@pid":"66/728","text":"Bernard B. Suh"},{"@pid":"h/DavidHaussler","text":"David Haussler"}]},"title":"Cactus Graphs for Genome Comparisons.","venue":"RECOMB","pages":"410-425","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/PatenDEJMSH10","doi":"10.1007/978-3-642-12683-3_27","ee":"https://doi.org/10.1007/978-3-642-12683-3_27","url":"https://dblp.org/rec/conf/recomb/PatenDEJMSH10"},
+"url":"URL#5764276"
+},
+{
+"@score":"1",
+"@id":"5764277",
+"info":{"authors":{"author":[{"@pid":"85/5580","text":"Yu Peng"},{"@pid":"51/5025","text":"Henry C. M. Leung"},{"@pid":"y/SiuMingYiu","text":"Siu-Ming Yiu"},{"@pid":"c/FrancisYLChin","text":"Francis Y. L. Chin"}]},"title":"IDBA - A Practical Iterative de Bruijn Graph De Novo Assembler.","venue":"RECOMB","pages":"426-440","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/PengLYC10","doi":"10.1007/978-3-642-12683-3_28","ee":"https://doi.org/10.1007/978-3-642-12683-3_28","url":"https://dblp.org/rec/conf/recomb/PengLYC10"},
+"url":"URL#5764277"
+},
+{
+"@score":"1",
+"@id":"5764278",
+"info":{"authors":{"author":[{"@pid":"85/6216","text":"Saumyadipta Pyne"},{"@pid":"99/8064","text":"Xinli Hu"},{"@pid":"55/6416","text":"Kui Wang"},{"@pid":"81/268","text":"Elizabeth Rossin"},{"@pid":"147/0901","text":"Tsung-I Lin"},{"@pid":"69/8064","text":"Lisa Maier"},{"@pid":"22/8065","text":"Clare Baecher-Allan"},{"@pid":"83/3246","text":"Geoffrey J. McLachlan"},{"@pid":"75/6229","text":"Pablo Tamayo"},{"@pid":"27/8064","text":"David Hafler"},{"@pid":"41/298","text":"Philip L. De Jager"},{"@pid":"62/2857","text":"Jill P. Mesirov"}]},"title":"Automated High-Dimensional Flow Cytometric Data Analysis.","venue":"RECOMB","pages":"577","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/PyneHWRLMBMTHJM10","doi":"10.1007/978-3-642-12683-3_41","ee":"https://doi.org/10.1007/978-3-642-12683-3_41","url":"https://dblp.org/rec/conf/recomb/PyneHWRLMBMTHJM10"},
+"url":"URL#5764278"
+},
+{
+"@score":"1",
+"@id":"5764279",
+"info":{"authors":{"author":[{"@pid":"75/5197","text":"Sheila M. Reynolds"},{"@pid":"01/2257","text":"Zhiping Weng"},{"@pid":"b/JeffABilmes","text":"Jeff A. Bilmes"},{"@pid":"08/978","text":"William Stafford Noble"}]},"title":"Predicting Nucleosome Positioning Using Multiple Evidence Tracks.","venue":"RECOMB","pages":"441-455","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ReynoldsWBN10","doi":"10.1007/978-3-642-12683-3_29","ee":"https://doi.org/10.1007/978-3-642-12683-3_29","url":"https://dblp.org/rec/conf/recomb/ReynoldsWBN10"},
+"url":"URL#5764279"
+},
+{
+"@score":"1",
+"@id":"5764280",
+"info":{"authors":{"author":[{"@pid":"66/3027","text":"Barna Saha"},{"@pid":"73/8064","text":"Allison Hoch"},{"@pid":"k/SamirKhuller","text":"Samir Khuller"},{"@pid":"r/LouiqaRaschid","text":"Louiqa Raschid"},{"@pid":"09/1338","text":"Xiao-Ning Zhang"}]},"title":"Dense Subgraphs with Restrictions and Applications to Gene Annotation Graphs.","venue":"RECOMB","pages":"456-472","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SahaHKRZ10","doi":"10.1007/978-3-642-12683-3_30","ee":"https://doi.org/10.1007/978-3-642-12683-3_30","url":"https://dblp.org/rec/conf/recomb/SahaHKRZ10"},
+"url":"URL#5764280"
+},
+{
+"@score":"1",
+"@id":"5764281",
+"info":{"authors":{"author":[{"@pid":"72/2325","text":"Raheleh Salari"},{"@pid":"63/660","text":"Mathias Möhl"},{"@pid":"04/2389","text":"Sebastian Will"},{"@pid":"s/SCSahinalp","text":"Süleyman Cenk Sahinalp"},{"@pid":"b/RolfBackofen","text":"Rolf Backofen"}]},"title":"Time and Space Efficient RNA-RNA Interaction Prediction via Sparse Folding.","venue":"RECOMB","pages":"473-490","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SalariMWSB10","doi":"10.1007/978-3-642-12683-3_31","ee":"https://doi.org/10.1007/978-3-642-12683-3_31","url":"https://dblp.org/rec/conf/recomb/SalariMWSB10"},
+"url":"URL#5764281"
+},
+{
+"@score":"1",
+"@id":"5764282",
+"info":{"authors":{"author":[{"@pid":"24/8064","text":"Manu N. Setty"},{"@pid":"320/2689","text":"Alexander Gusev"},{"@pid":"43/6414","text":"Itsik Pe&apos;er"}]},"title":"HLA Type Inference via Haplotypes Identical by Descent.","venue":"RECOMB","pages":"491-505","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/SettyGP10","doi":"10.1007/978-3-642-12683-3_32","ee":"https://doi.org/10.1007/978-3-642-12683-3_32","url":"https://dblp.org/rec/conf/recomb/SettyGP10"},
+"url":"URL#5764282"
+},
+{
+"@score":"1",
+"@id":"5764284",
+"info":{"authors":{"author":[{"@pid":"62/5172","text":"Fabio Vandin"},{"@pid":"u/EliUpfal","text":"Eli Upfal"},{"@pid":"23/3243","text":"Benjamin J. Raphael"}]},"title":"Algorithms for Detecting Significantly Mutated Pathways in Cancer.","venue":"RECOMB","pages":"506-521","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/VandinUR10","doi":"10.1007/978-3-642-12683-3_33","ee":"https://doi.org/10.1007/978-3-642-12683-3_33","url":"https://dblp.org/rec/conf/recomb/VandinUR10"},
+"url":"URL#5764284"
+},
+{
+"@score":"1",
+"@id":"5764286",
+"info":{"authors":{"author":[{"@pid":"62/2798","text":"Christian Widmer"},{"@pid":"11/8065","text":"Jose Leiva"},{"@pid":"85/3389","text":"Yasemin Altun"},{"@pid":"33/3796","text":"Gunnar Rätsch"}]},"title":"Leveraging Sequence Classification by Taxonomy-Based Multitask Learning.","venue":"RECOMB","pages":"522-534","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/WidmerLAR10","doi":"10.1007/978-3-642-12683-3_34","ee":"https://doi.org/10.1007/978-3-642-12683-3_34","url":"https://dblp.org/rec/conf/recomb/WidmerLAR10"},
+"url":"URL#5764286"
+},
+{
+"@score":"1",
+"@id":"5764288",
+"info":{"authors":{"author":[{"@pid":"83/614","text":"Yu-Wei Wu"},{"@pid":"06/4683","text":"Yuzhen Ye"}]},"title":"A Novel Abundance-Based Algorithm for Binning Metagenomic Sequences Using l-Tuples.","venue":"RECOMB","pages":"535-549","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/WuY10","doi":"10.1007/978-3-642-12683-3_35","ee":"https://doi.org/10.1007/978-3-642-12683-3_35","url":"https://dblp.org/rec/conf/recomb/WuY10"},
+"url":"URL#5764288"
+},
+{
+"@score":"1",
+"@id":"5764290",
+"info":{"authors":{"author":[{"@pid":"59/6722-1","text":"Jianyang Zeng 0001"},{"@pid":"23/8064-1","text":"Pei Zhou 0001"},{"@pid":"d/BRDonald","text":"Bruce Randall Donald"}]},"title":"A Markov Random Field Framework for Protein Side-Chain Resonance Assignment.","venue":"RECOMB","pages":"550-570","year":"2010","type":"Conference and Workshop Papers","access":"closed","key":"conf/recomb/ZengZD10","doi":"10.1007/978-3-642-12683-3_36","ee":"https://doi.org/10.1007/978-3-642-12683-3_36","url":"https://dblp.org/rec/conf/recomb/ZengZD10"},
+"url":"URL#5764290"
+},
+{
+"@score":"1",
+"@id":"5791063",
+"info":{"authors":{"author":{"@pid":"b/BonnieBerger","text":"Bonnie Berger"}},"title":"Research in Computational Molecular Biology, 14th Annual International Conference, RECOMB 2010, Lisbon, Portugal, April 25-28, 2010. Proceedings","venue":["RECOMB","Lecture Notes in Computer Science"],"volume":"6044","publisher":"Springer","year":"2010","type":"Editorship","key":"conf/recomb/2010","doi":"10.1007/978-3-642-12683-3","ee":"https://doi.org/10.1007/978-3-642-12683-3","url":"https://dblp.org/rec/conf/recomb/2010"},
+"url":"URL#5791063"
+}
+]
+}
+}
+}

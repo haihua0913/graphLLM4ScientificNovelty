@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+JPEG compression artifacts,deep convolutional sparse coding,-0.0024,1.4159
+JPEG compression artifacts,learned iterative shrinkage-threshold algorithm,-0.0276,1.4336
+deep convolutional sparse coding,learned iterative shrinkage-threshold algorithm,0.9841,0.1783
+JPEG compression artifacts,feature maps,-0.0554,1.4529
+deep convolutional sparse coding,feature maps,-0.188,1.5414
+feature maps,learned iterative shrinkage-threshold algorithm,-0.2296,1.5682
+dilated convolution,feature maps,-0.2609,1.588
+dilated convolution,multi-scale image features,-0.3391,1.6365
+feature maps,multi-scale image features,0.0095,1.4075
+dilated convolution,model-based convolutional sparse coding,-0.3185,1.6239
+dilated convolution,learning-based deep neural network,-0.2753,1.597
+model-based convolutional sparse coding,multi-scale image features,0.0244,1.3969
+learning-based deep neural network,multi-scale image features,0.0604,1.3708
+learning-based deep neural network,model-based convolutional sparse coding,0.9638,0.269
+dilated convolution,lightweight model,0.2228,1.2468
+lightweight model,multi-scale image features,-0.4711,1.7153
+lightweight model,model-based convolutional sparse coding,-0.2997,1.6122
+learning-based deep neural network,lightweight model,-0.1985,1.5482

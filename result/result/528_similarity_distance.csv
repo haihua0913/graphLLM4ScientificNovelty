@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+calibration,projective reconstruction,-0.1632,1.5252
+ambiguities,projective reconstruction,-0.116,1.494
+projective reconstruction,special motions,-0.1488,1.5158
+ambiguities,calibration,0.937,0.355
+calibration,special motions,0.0917,1.3478
+ambiguities,special motions,-0.0774,1.4679
+projective reconstruction,varying calibration parameters,0.0072,1.4091
+calibration,varying calibration parameters,0.8742,0.5015
+ambiguities,varying calibration parameters,0.929,0.3768
+special motions,varying calibration parameters,-0.0881,1.4752
+calibration,convergence,0.8295,0.584
+calibration,iterative projective-reconstruction algorithm,-0.0698,1.4628
+Sturm and Triggs,calibration,-0.0658,1.46
+ambiguities,convergence,0.9107,0.4226
+ambiguities,iterative projective-reconstruction algorithm,-0.2758,1.5974
+Sturm and Triggs,ambiguities,-0.1811,1.5369
+convergence,special motions,-0.3954,1.6706
+iterative projective-reconstruction algorithm,special motions,-0.1913,1.5435
+Sturm and Triggs,special motions,0.9477,0.3235
+convergence,varying calibration parameters,0.8737,0.5026
+iterative projective-reconstruction algorithm,varying calibration parameters,-0.2934,1.6084
+Sturm and Triggs,varying calibration parameters,-0.1997,1.549
+convergence,iterative projective-reconstruction algorithm,-0.0919,1.4778
+Sturm and Triggs,convergence,-0.479,1.7199
+Sturm and Triggs,iterative projective-reconstruction algorithm,-0.2687,1.5929

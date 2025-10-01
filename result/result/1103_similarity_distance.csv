@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+multi-view clustering,multi-view graph data,0.567,0.9306
+multi-view attributed graph data,multi-view graph data,0.977,0.2147
+multi-view attributed graph data,multi-view clustering,0.5711,0.9262
+contrastive learning,multi-view clustering,-0.3074,1.6171
+consensus graph,multi-view clustering,-0.4722,1.7159
+contrastive learning,multi-view attributed graph data,-0.0539,1.4518
+consensus graph,contrastive learning,0.8237,0.5938
+consensus graph,multi-view attributed graph data,-0.1235,1.499
+contrastive learning,graph contrastive loss,0.4419,1.0565
+graph contrastive loss,multi-view attributed graph data,0.0002,1.4141
+consensus graph,graph contrastive loss,0.4334,1.0645
+benchmark datasets,contrastive learning,-0.0624,1.4576
+benchmark datasets,consensus graph,0.0015,1.4132
+benchmark datasets,graph contrastive loss,0.6794,0.8008
+consensus graph,deep learning-based methods,0.1886,1.2739
+deep learning-based methods,graph contrastive loss,0.3397,1.1492
+benchmark datasets,deep learning-based methods,0.1739,1.2854

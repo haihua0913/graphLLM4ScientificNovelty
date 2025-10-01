@@ -1,0 +1,488 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/cbms/cbms1990.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"72.38"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"76",
+"@dc":"76",
+"@oc":"76",
+"@id":"48877022",
+"text":":facetid:toc:db/conf/cbms/cbms1990.bht"
+}
+},
+"hits":{
+"@total":"76",
+"@computed":"76",
+"@sent":"76",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"7746537",
+"info":{"authors":{"author":[{"@pid":"25/7011","text":"Glen P. Abousleman"},{"@pid":"74/146","text":"Ramiro Jordan"},{"@pid":"90/3386","text":"Ali Asgharzadeh"},{"@pid":"39/11229","text":"L. D. Canady"},{"@pid":"49/11230","text":"Donna Koechner"},{"@pid":"02/4805","text":"Richard H. Griffey"}]},"title":"A novel eigenvector-based technique for spectral estimation of time-domain data in medical imaging.","venue":"CBMS","pages":"426-431","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AbouslemanJACKG90","doi":"10.1109/CBMSYS.1990.109429","ee":"https://doi.org/10.1109/CBMSYS.1990.109429","url":"https://dblp.org/rec/conf/cbms/AbouslemanJACKG90"},
+"url":"URL#7746537"
+},
+{
+"@score":"1",
+"@id":"7746538",
+"info":{"authors":{"author":[{"@pid":"90/3386","text":"Ali Asgharzadeh"},{"@pid":"74/146","text":"Ramiro Jordan"},{"@pid":"25/7011","text":"Glen P. Abousleman"},{"@pid":"39/11229","text":"L. D. Canady"},{"@pid":"49/11230","text":"Donna Koechner"},{"@pid":"02/4805","text":"Richard H. Griffey"}]},"title":"Applications of adaptive analysis in magnetic resonance imaging.","venue":"CBMS","pages":"75-80","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/AsgharzadehJACKG90","doi":"10.1109/CBMSYS.1990.109381","ee":"https://doi.org/10.1109/CBMSYS.1990.109381","url":"https://dblp.org/rec/conf/cbms/AsgharzadehJACKG90"},
+"url":"URL#7746538"
+},
+{
+"@score":"1",
+"@id":"7746539",
+"info":{"authors":{"author":[{"@pid":"03/503","text":"Dalila Benachenhou"},{"@pid":"29/1380","text":"Masud Cader"},{"@pid":"39/3086","text":"Harold Szu"},{"@pid":"82/4425","text":"Larry R. Medsker"},{"@pid":"33/9391","text":"Carl T. Wittwer"},{"@pid":"45/11229","text":"David J. Garling"}]},"title":"AIDS viral DNA amplification by polymerase chain reaction employing primers selected by AI expert system and an ART neural network.","venue":"CBMS","pages":"504-511","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BenachenhouCSMWG90","doi":"10.1109/CBMSYS.1990.109440","ee":"https://doi.org/10.1109/CBMSYS.1990.109440","url":"https://dblp.org/rec/conf/cbms/BenachenhouCSMWG90"},
+"url":"URL#7746539"
+},
+{
+"@score":"1",
+"@id":"7746540",
+"info":{"authors":{"author":[{"@pid":"91/2543","text":"M. Bernard"},{"@pid":"27/11228","text":"Michel Bouchoucha"},{"@pid":"99/11228","text":"Paul-Henri Cugnenc"}]},"title":"Analysis of medical signals by an automatic method of segmentation and classification without any a-priori knowledge.","venue":"CBMS","pages":"381-388","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BernardBC90","doi":"10.1109/CBMSYS.1990.109423","ee":"https://doi.org/10.1109/CBMSYS.1990.109423","url":"https://dblp.org/rec/conf/cbms/BernardBC90"},
+"url":"URL#7746540"
+},
+{
+"@score":"1",
+"@id":"7746541",
+"info":{"authors":{"author":[{"@pid":"42/449","text":"Paolo Bottoni"},{"@pid":"53/11229","text":"M. Cigada"},{"@pid":"51/11231","text":"A. de Giuli"},{"@pid":"44/11230","text":"B. di Cristofaro"},{"@pid":"85/7020","text":"Piero Mussio"}]},"title":"Feature-based description and representation of structures in an ECG.","venue":"CBMS","pages":"236-243","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BottoniCGCM90","doi":"10.1109/CBMSYS.1990.109404","ee":"https://doi.org/10.1109/CBMSYS.1990.109404","url":"https://dblp.org/rec/conf/cbms/BottoniCGCM90"},
+"url":"URL#7746541"
+},
+{
+"@score":"1",
+"@id":"7746542",
+"info":{"authors":{"author":[{"@pid":"52/11228","text":"Jack Buchanan"},{"@pid":"74/1233","text":"B. G. Thompson"}]},"title":"Opportunities for the use of broad-band packet-switched data networks for direct patient care.","venue":"CBMS","pages":"9-13","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/BuchananT90","doi":"10.1109/CBMSYS.1990.109372","ee":"https://doi.org/10.1109/CBMSYS.1990.109372","url":"https://dblp.org/rec/conf/cbms/BuchananT90"},
+"url":"URL#7746542"
+},
+{
+"@score":"1",
+"@id":"7746543",
+"info":{"authors":{"author":[{"@pid":"39/11229","text":"L. D. Canady"},{"@pid":"74/146","text":"Ramiro Jordan"},{"@pid":"90/3386","text":"Ali Asgharzadeh"},{"@pid":"25/7011","text":"Glen P. Abousleman"},{"@pid":"49/11230","text":"Donna Koechner"},{"@pid":"02/4805","text":"Richard H. Griffey"}]},"title":"Time-domain analysis of magnetic resonance spectra and chemical shift images.","venue":"CBMS","pages":"432-437","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/CanadyJAAKG90","doi":"10.1109/CBMSYS.1990.109430","ee":"https://doi.org/10.1109/CBMSYS.1990.109430","url":"https://dblp.org/rec/conf/cbms/CanadyJAAKG90"},
+"url":"URL#7746543"
+},
+{
+"@score":"1",
+"@id":"7746544",
+"info":{"authors":{"author":[{"@pid":"12/7946","text":"Christian Collet"},{"@pid":"60/11228","text":"L. Martini"},{"@pid":"47/11232","text":"M. Lovin"},{"@pid":"33/11229","text":"E. Masson"},{"@pid":"91/11219","text":"Nicola Fumai"},{"@pid":"20/11223","text":"Marco Petroni"},{"@pid":"76/1897","text":"Alfred S. Malowany"},{"@pid":"36/11216","text":"Franco A. Carnevale"},{"@pid":"69/11223","text":"Ronald D. Gottesman"},{"@pid":"15/816","text":"A. Rousseau"}]},"title":"Real-time trend analysis for an intensive care unit patient data management system.","venue":"CBMS","pages":"337-344","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ColletMLMFPMCGR90","doi":"10.1109/CBMSYS.1990.109417","ee":"https://doi.org/10.1109/CBMSYS.1990.109417","url":"https://dblp.org/rec/conf/cbms/ColletMLMFPMCGR90"},
+"url":"URL#7746544"
+},
+{
+"@score":"1",
+"@id":"7746545",
+"info":{"authors":{"author":[{"@pid":"35/6823","text":"Todd A. Cook"},{"@pid":"94/3773","text":"Kenneth W. Fernald"},{"@pid":"72/2188","text":"Thomas K. Miller"},{"@pid":"45/3313","text":"John J. Paulos"}]},"title":"A custom microprocessor for implantable telemetry systems.","venue":"CBMS","pages":"412-417","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/CookFMP90","doi":"10.1109/CBMSYS.1990.109428","ee":"https://doi.org/10.1109/CBMSYS.1990.109428","url":"https://dblp.org/rec/conf/cbms/CookFMP90"},
+"url":"URL#7746545"
+},
+{
+"@score":"1",
+"@id":"7746546",
+"info":{"authors":{"author":[{"@pid":"49/11228","text":"Timothy Lee Culver"},{"@pid":"52/11231","text":"Shirley Nian-Chang Cheng"}]},"title":"Computer simulation of a brain slice using fractals.","venue":"CBMS","pages":"512-516","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/CulverC90","doi":"10.1109/CBMSYS.1990.109441","ee":"https://doi.org/10.1109/CBMSYS.1990.109441","url":"https://dblp.org/rec/conf/cbms/CulverC90"},
+"url":"URL#7746546"
+},
+{
+"@score":"1",
+"@id":"7746547",
+"info":{"authors":{"author":{"@pid":"78/11229","text":"Karl P. Durre"}},"title":"BrailleButler: a new approach to non-visual computer applications.","venue":"CBMS","pages":"97-104","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Durre90","doi":"10.1109/CBMSYS.1990.109384","ee":"https://doi.org/10.1109/CBMSYS.1990.109384","url":"https://dblp.org/rec/conf/cbms/Durre90"},
+"url":"URL#7746547"
+},
+{
+"@score":"1",
+"@id":"7746548",
+"info":{"authors":{"author":[{"@pid":"62/4956","text":"Russell C. Eberhart"},{"@pid":"31/11229","text":"Roy W. Dobbins"}]},"title":"Neural network performance metrics for biomedical applications.","venue":"CBMS","pages":"282-289","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/EberhartD90","doi":"10.1109/CBMSYS.1990.109410","ee":"https://doi.org/10.1109/CBMSYS.1990.109410","url":"https://dblp.org/rec/conf/cbms/EberhartD90"},
+"url":"URL#7746548"
+},
+{
+"@score":"1",
+"@id":"7746549",
+"info":{"authors":{"author":{"@pid":"75/11229","text":"William W. Ellington"}},"title":"A medical care application using the integrated services digital network.","venue":"CBMS","pages":"24-31","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Ellington90","doi":"10.1109/CBMSYS.1990.109374","ee":"https://doi.org/10.1109/CBMSYS.1990.109374","url":"https://dblp.org/rec/conf/cbms/Ellington90"},
+"url":"URL#7746549"
+},
+{
+"@score":"1",
+"@id":"7746550",
+"info":{"authors":{"author":[{"@pid":"f/OphirFrieder","text":"Ophir Frieder"},{"@pid":"82/6414","text":"Martin R. Stytz"}]},"title":"Dynamic detection of hidden-surfaces using a MIMD multiprocessor.","venue":"CBMS","pages":"44-51","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/FriederS90","doi":"10.1109/CBMSYS.1990.109377","ee":"https://doi.org/10.1109/CBMSYS.1990.109377","url":"https://dblp.org/rec/conf/cbms/FriederS90"},
+"url":"URL#7746550"
+},
+{
+"@score":"1",
+"@id":"7746551",
+"info":{"authors":{"author":{"@pid":"00/2497","text":"Li-Min Fu"}},"title":"Refinement of medical knowledge bases: a neural network approach.","venue":"CBMS","pages":"290-297","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Fu90","doi":"10.1109/CBMSYS.1990.109411","ee":"https://doi.org/10.1109/CBMSYS.1990.109411","url":"https://dblp.org/rec/conf/cbms/Fu90"},
+"url":"URL#7746551"
+},
+{
+"@score":"1",
+"@id":"7746552",
+"info":{"authors":{"author":[{"@pid":"91/11219","text":"Nicola Fumai"},{"@pid":"12/7946","text":"Christian Collet"},{"@pid":"20/11223","text":"Marco Petroni"},{"@pid":"76/1897","text":"Alfred S. Malowany"},{"@pid":"36/11216","text":"Franco A. Carnevale"},{"@pid":"69/11223","text":"Ronald D. Gottesman"},{"@pid":"15/816","text":"A. Rousseau"}]},"title":"The design of a simulator for an intensive care unit patient data management system.","venue":"CBMS","pages":"454-461","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/FumaiCPMCGR90","doi":"10.1109/CBMSYS.1990.109433","ee":"https://doi.org/10.1109/CBMSYS.1990.109433","url":"https://dblp.org/rec/conf/cbms/FumaiCPMCGR90"},
+"url":"URL#7746552"
+},
+{
+"@score":"1",
+"@id":"7746553",
+"info":{"authors":{"author":[{"@pid":"31/5691","text":"Howard Donald Gage"},{"@pid":"40/11229","text":"T. K. Miller"}]},"title":"Mapping networks for analysis of the forced expired volume signal.","venue":"CBMS","pages":"366-373","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GageM90","doi":"10.1109/CBMSYS.1990.109421","ee":"https://doi.org/10.1109/CBMSYS.1990.109421","url":"https://dblp.org/rec/conf/cbms/GageM90"},
+"url":"URL#7746553"
+},
+{
+"@score":"1",
+"@id":"7746554",
+"info":{"authors":{"author":[{"@pid":"25/11230","text":"Wayne A. Gerth"},{"@pid":"88/11227","text":"Leslie D. Montgomery"},{"@pid":"02/11231","text":"Yi-Chang Wu"}]},"title":"A computer-based bioelectrical impedance spectroscopic system for noninvasive assessment of compartmental fluid redistribution.","venue":"CBMS","pages":"446-453","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GerthMW90","doi":"10.1109/CBMSYS.1990.109432","ee":"https://doi.org/10.1109/CBMSYS.1990.109432","url":"https://dblp.org/rec/conf/cbms/GerthMW90"},
+"url":"URL#7746554"
+},
+{
+"@score":"1",
+"@id":"7746555",
+"info":{"authors":{"author":[{"@pid":"38/11229","text":"Richard E. Gress"},{"@pid":"13/11228","text":"Joseph L. Lyon"}]},"title":"Use of relational database on the health and Radon case-control study.","venue":"CBMS","pages":"492-495","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/GressL90","doi":"10.1109/CBMSYS.1990.109438","ee":"https://doi.org/10.1109/CBMSYS.1990.109438","url":"https://dblp.org/rec/conf/cbms/GressL90"},
+"url":"URL#7746555"
+},
+{
+"@score":"1",
+"@id":"7746556",
+"info":{"authors":{"author":[{"@pid":"76/11230","text":"S. Haddab"},{"@pid":"27/11228","text":"Michel Bouchoucha"},{"@pid":"99/11228","text":"Paul-Henri Cugnenc"},{"@pid":"16/11232","text":"Jean-Philippe Barbier"}]},"title":"New method for electrogastrographic analysis.","venue":"CBMS","pages":"418-425","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/HaddabBCB90","doi":"10.1109/CBMSYS.1990.109426","ee":"https://doi.org/10.1109/CBMSYS.1990.109426","url":"https://dblp.org/rec/conf/cbms/HaddabBCB90"},
+"url":"URL#7746556"
+},
+{
+"@score":"1",
+"@id":"7746557",
+"info":{"authors":{"author":[{"@pid":"21/3056","text":"Jill J. Hallenbeck"},{"@pid":"57/2314","text":"Joanne Bechta Dugan"}]},"title":"Design of fault-tolerant systems.","venue":"CBMS","pages":"162-169","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/HallenbeckD90","doi":"10.1109/CBMSYS.1990.109395","ee":"https://doi.org/10.1109/CBMSYS.1990.109395","url":"https://dblp.org/rec/conf/cbms/HallenbeckD90"},
+"url":"URL#7746557"
+},
+{
+"@score":"1",
+"@id":"7746558",
+"info":{"authors":{"author":{"@pid":"58/11228","text":"Guy S. Hammer"}},"title":"Technology transfer standards for communication aids for disabled people.","venue":"CBMS","pages":"123-128","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Hammer90","doi":"10.1109/CBMSYS.1990.109389","ee":"https://doi.org/10.1109/CBMSYS.1990.109389","url":"https://dblp.org/rec/conf/cbms/Hammer90"},
+"url":"URL#7746558"
+},
+{
+"@score":"1",
+"@id":"7746559",
+"info":{"authors":{"author":[{"@pid":"93/2244","text":"Harish P. Hiriyannaiah"},{"@pid":"64/1277","text":"Wesley E. Snyder"},{"@pid":"52/3549","text":"Griff L. Bilbro"}]},"title":"Noise in reconstructed images in tomography parallel, fan and cone beam projections.","venue":"CBMS","pages":"81-88","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/HiriyannaiahSB90","doi":"10.1109/CBMSYS.1990.109382","ee":"https://doi.org/10.1109/CBMSYS.1990.109382","url":"https://dblp.org/rec/conf/cbms/HiriyannaiahSB90"},
+"url":"URL#7746559"
+},
+{
+"@score":"1",
+"@id":"7746560",
+"info":{"authors":{"author":[{"@pid":"28/11232","text":"Barry E. Hurwitz"},{"@pid":"02/8043","text":"Liang-Yu Shyu"},{"@pid":"42/11229","text":"Sridhar P. Reddy"},{"@pid":"99/11227","text":"Neil Schneiderman"},{"@pid":"70/9533","text":"Joachim H. Nagel"}]},"title":"Coherent ensemble averaging techniques for impedance cardiography.","venue":"CBMS","pages":"228-235","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/HurwitzSRSN90","doi":"10.1109/CBMSYS.1990.109403","ee":"https://doi.org/10.1109/CBMSYS.1990.109403","url":"https://dblp.org/rec/conf/cbms/HurwitzSRSN90"},
+"url":"URL#7746560"
+},
+{
+"@score":"1",
+"@id":"7746561",
+"info":{"authors":{"author":[{"@pid":"85/5201","text":"Gwo-Haur Hwang"},{"@pid":"33/6715","text":"S. S. Tseng"}]},"title":"Building a multi-purpose medical diagnostic system under uncertain and incomplete environment.","venue":"CBMS","pages":"321-328","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/HwangT90","doi":"10.1109/CBMSYS.1990.109415","ee":"https://doi.org/10.1109/CBMSYS.1990.109415","url":"https://dblp.org/rec/conf/cbms/HwangT90"},
+"url":"URL#7746561"
+},
+{
+"@score":"1",
+"@id":"7746562",
+"info":{"authors":{"author":[{"@pid":"95/2746","text":"Erach A. Irani"},{"@pid":"72/4795","text":"John P. Matts"},{"@pid":"17/10921","text":"David W. Hunter"},{"@pid":"61/5005","text":"James R. Slagle"},{"@pid":"50/11228","text":"R. Y. Kainl"},{"@pid":"87/1681","text":"John M. Long"}]},"title":"Automated assistance for maintenance of medical expert systems: the POSCH AI project.","venue":"CBMS","pages":"275-281","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/IraniMHSKL90","doi":"10.1109/CBMSYS.1990.109409","ee":"https://doi.org/10.1109/CBMSYS.1990.109409","url":"https://dblp.org/rec/conf/cbms/IraniMHSKL90"},
+"url":"URL#7746562"
+},
+{
+"@score":"1",
+"@id":"7746563",
+"info":{"authors":{"author":{"@pid":"87/4375","text":"John C. Knight"}},"title":"Issues of software reliability in medical systems.","venue":"CBMS","pages":"153-160","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Knight90","doi":"10.1109/CBMSYS.1990.109393","ee":"https://doi.org/10.1109/CBMSYS.1990.109393","url":"https://dblp.org/rec/conf/cbms/Knight90"},
+"url":"URL#7746563"
+},
+{
+"@score":"1",
+"@id":"7746564",
+"info":{"authors":{"author":[{"@pid":"56/849","text":"Paul Koch"},{"@pid":"169/8799","text":"Gerald Leisman"}]},"title":"A continuum model of activity waves in layered neuronal networks: computer models of brain-stem seizures.","venue":"CBMS","pages":"525-531","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KochL90","doi":"10.1109/CBMSYS.1990.109443","ee":"https://doi.org/10.1109/CBMSYS.1990.109443","url":"https://dblp.org/rec/conf/cbms/KochL90"},
+"url":"URL#7746564"
+},
+{
+"@score":"1",
+"@id":"7746565",
+"info":{"authors":{"author":[{"@pid":"49/11230","text":"Donna Koechner"},{"@pid":"90/651","text":"John Rasure"},{"@pid":"02/4805","text":"Richard H. Griffey"},{"@pid":"07/11232","text":"Tom Sauer"}]},"title":"Clustering and classification of multispectral magnetic resonance images.","venue":"CBMS","pages":"32-37","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KoechnerRGS90","doi":"10.1109/CBMSYS.1990.109375","ee":"https://doi.org/10.1109/CBMSYS.1990.109375","url":"https://dblp.org/rec/conf/cbms/KoechnerRGS90"},
+"url":"URL#7746565"
+},
+{
+"@score":"1",
+"@id":"7746566",
+"info":{"authors":{"author":[{"@pid":"96/2660","text":"Peter Kokol"},{"@pid":"75/2387","text":"Bruno Stiglic"},{"@pid":"46/3960","text":"Viljem Zumer"},{"@pid":"39/6149","text":"Bojan Novak"}]},"title":"Software crisis and new development paradigms or how to design reliable medical software.","venue":"CBMS","pages":"137-144","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KokolSZN90","doi":"10.1109/CBMSYS.1990.109391","ee":"https://doi.org/10.1109/CBMSYS.1990.109391","url":"https://dblp.org/rec/conf/cbms/KokolSZN90"},
+"url":"URL#7746566"
+},
+{
+"@score":"1",
+"@id":"7746567",
+"info":{"authors":{"author":{"@pid":"00/11229","text":"David Kowarski"}},"title":"A low-cost personal computer-based radiology diagnostic expert system and image and text database.","venue":"CBMS","pages":"298-305","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Kowarski90","doi":"10.1109/CBMSYS.1990.109412","ee":"https://doi.org/10.1109/CBMSYS.1990.109412","url":"https://dblp.org/rec/conf/cbms/Kowarski90"},
+"url":"URL#7746567"
+},
+{
+"@score":"1",
+"@id":"7746568",
+"info":{"authors":{"author":[{"@pid":"61/6295","text":"Klaus Kuhn 0001"},{"@pid":"92/6090","text":"Wolfgang Doster"},{"@pid":"40/11228","text":"Dietmar Roesner"},{"@pid":"83/11227","text":"Peter Kottmann"},{"@pid":"91/11227","text":"Werner Swobodnik"},{"@pid":"73/11229","text":"Hans Ditschuneit"}]},"title":"An integrated medical workstation with a multimodal user interface, knowledge-based user support, and multimedia documents.","venue":"CBMS","pages":"469-476","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/KuhnDRKSD90","doi":"10.1109/CBMSYS.1990.109435","ee":"https://doi.org/10.1109/CBMSYS.1990.109435","url":"https://dblp.org/rec/conf/cbms/KuhnDRKSD90"},
+"url":"URL#7746568"
+},
+{
+"@score":"1",
+"@id":"7746569",
+"info":{"authors":{"author":[{"@pid":"96/11227","text":"Joel Lachance"},{"@pid":"18/681","text":"Mohamad Sawan"},{"@pid":"96/11230","text":"Soheyl Pourmehdi"},{"@pid":"85/11227","text":"Francois Duval"}]},"title":"A computerized remote control for an implanted urinary prosthesis.","venue":"CBMS","pages":"112-116","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LachanceSPD90","doi":"10.1109/CBMSYS.1990.109387","ee":"https://doi.org/10.1109/CBMSYS.1990.109387","url":"https://dblp.org/rec/conf/cbms/LachanceSPD90"},
+"url":"URL#7746569"
+},
+{
+"@score":"1",
+"@id":"7746570",
+"info":{"authors":{"author":{"@pid":"41/11228","text":"Anshoo Lal-Gabe"}},"title":"Hazards analysis and its application to build confidence in software test results.","venue":"CBMS","pages":"129-136","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Lal-Gabe90","doi":"10.1109/CBMSYS.1990.109390","ee":"https://doi.org/10.1109/CBMSYS.1990.109390","url":"https://dblp.org/rec/conf/cbms/Lal-Gabe90"},
+"url":"URL#7746570"
+},
+{
+"@score":"1",
+"@id":"7746571",
+"info":{"authors":{"author":[{"@pid":"34/5327","text":"Cary Laxer"},{"@pid":"33/11231","text":"Raymond E. Ideker"},{"@pid":"29/11232","text":"William M. Smith"},{"@pid":"01/9164","text":"Patrick D. Wolf"},{"@pid":"90/11231","text":"Edward V. Simpson"}]},"title":"A graphical display system for animating mapped cardiac potentials.","venue":"CBMS","pages":"197-204","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LaxerISWS90","doi":"10.1109/CBMSYS.1990.109400","ee":"https://doi.org/10.1109/CBMSYS.1990.109400","url":"https://dblp.org/rec/conf/cbms/LaxerISWS90"},
+"url":"URL#7746571"
+},
+{
+"@score":"1",
+"@id":"7746572",
+"info":{"authors":{"author":[{"@pid":"30/1296","text":"C. W. Li"},{"@pid":"53/6278","text":"Heng-Da Cheng"}]},"title":"A mathematical model for pulmonary blood circulation.","venue":"CBMS","pages":"397-404","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LiC90","doi":"10.1109/CBMSYS.1990.109425","ee":"https://doi.org/10.1109/CBMSYS.1990.109425","url":"https://dblp.org/rec/conf/cbms/LiC90"},
+"url":"URL#7746572"
+},
+{
+"@score":"1",
+"@id":"7746573",
+"info":{"authors":{"author":[{"@pid":"29/3742","text":"Zhi-Qiang Liu"},{"@pid":"42/5644","text":"Rangaraj M. Rangayyan"},{"@pid":"88/31","text":"Cyril B. Frank"}]},"title":"Analysis directional features in images using Gabor filters.","venue":"CBMS","pages":"68-74","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LiuRF90","doi":"10.1109/CBMSYS.1990.109380","ee":"https://doi.org/10.1109/CBMSYS.1990.109380","url":"https://dblp.org/rec/conf/cbms/LiuRF90"},
+"url":"URL#7746573"
+},
+{
+"@score":"1",
+"@id":"7746574",
+"info":{"authors":{"author":[{"@pid":"29/3742","text":"Zhi-Qiang Liu"},{"@pid":"78/6888","text":"Yuan-Ting Zhang"},{"@pid":"31/11232","text":"Katherine O. Ladly"},{"@pid":"88/31","text":"Cyril B. Frank"},{"@pid":"42/5644","text":"Rangaraj M. Rangayyan"},{"@pid":"56/11229","text":"Gordon Douglas Bell"}]},"title":"Reduction of interference in knee sound signals by adaptive filtering.","venue":"CBMS","pages":"389-396","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LiuZLFRB90","doi":"10.1109/CBMSYS.1990.109424","ee":"https://doi.org/10.1109/CBMSYS.1990.109424","url":"https://dblp.org/rec/conf/cbms/LiuZLFRB90"},
+"url":"URL#7746574"
+},
+{
+"@score":"1",
+"@id":"7746575",
+"info":{"authors":{"author":[{"@pid":"98/6116","text":"Robert M. Losee"},{"@pid":"87/11229","text":"Sung Been Moon"}]},"title":"Analytic prediction of medical document retrieval system performance.","venue":"CBMS","pages":"477-483","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/LoseeM90","doi":"10.1109/CBMSYS.1990.109436","ee":"https://doi.org/10.1109/CBMSYS.1990.109436","url":"https://dblp.org/rec/conf/cbms/LoseeM90"},
+"url":"URL#7746575"
+},
+{
+"@score":"1",
+"@id":"7746576",
+"info":{"authors":{"author":[{"@pid":"20/11220","text":"Huei-Ning Natasha Ma"},{"@pid":"e/MarthaWEvens","text":"Martha W. Evens"},{"@pid":"27/2144","text":"David A. Trace"},{"@pid":"67/5729","text":"Frank Naeymi-Rad"}]},"title":"An intelligent progress note system for MEDAS (a Bayesian medical expert system).","venue":"CBMS","pages":"484-491","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MaETN90","doi":"10.1109/CBMSYS.1990.109437","ee":"https://doi.org/10.1109/CBMSYS.1990.109437","url":"https://dblp.org/rec/conf/cbms/MaETN90"},
+"url":"URL#7746576"
+},
+{
+"@score":"1",
+"@id":"7746577",
+"info":{"authors":{"author":[{"@pid":"26/11229","text":"I. F. MacGill"},{"@pid":"09/2293","text":"John F. Cade"},{"@pid":"25/11229","text":"Roshni Siganporia"},{"@pid":"76/4331","text":"John S. Packer"}]},"title":"VAD: ventilation management in the ICU.","venue":"CBMS","pages":"345-349","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MacGillCSP90","doi":"10.1109/CBMSYS.1990.109418","ee":"https://doi.org/10.1109/CBMSYS.1990.109418","url":"https://dblp.org/rec/conf/cbms/MacGillCSP90"},
+"url":"URL#7746577"
+},
+{
+"@score":"1",
+"@id":"7746578",
+"info":{"authors":{"author":[{"@pid":"97/11228","text":"E. J. Mattson"},{"@pid":"09/11230","text":"M. M. Thomas"},{"@pid":"29/11228","text":"S. A. Trenz"},{"@pid":"54/11231","text":"S. B. Cousins"}]},"title":"The WIC Advisor: a case study in medical expert system development.","venue":"CBMS","pages":"329-336","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MattsonTTC90","doi":"10.1109/CBMSYS.1990.109416","ee":"https://doi.org/10.1109/CBMSYS.1990.109416","url":"https://dblp.org/rec/conf/cbms/MattsonTTC90"},
+"url":"URL#7746578"
+},
+{
+"@score":"1",
+"@id":"7746579",
+"info":{"authors":{"author":[{"@pid":"61/11231","text":"Patricia A. Michael"},{"@pid":"42/11228","text":"R. E. Kanich"},{"@pid":"16/11231","text":"C. P. Hall"},{"@pid":"47/11231","text":"S. H. Ruchte"}]},"title":"Computerized clinical histories: the development of an HIS subsystem in a community hospital.","venue":"CBMS","pages":"462-468","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MichaelKHR90","doi":"10.1109/CBMSYS.1990.109434","ee":"https://doi.org/10.1109/CBMSYS.1990.109434","url":"https://dblp.org/rec/conf/cbms/MichaelKHR90"},
+"url":"URL#7746579"
+},
+{
+"@score":"1",
+"@id":"7746580",
+"info":{"authors":{"author":[{"@pid":"88/11227","text":"Leslie D. Montgomery"},{"@pid":"05/11231","text":"Richard W. Montgomery"},{"@pid":"25/11230","text":"Wayne A. Gerth"},{"@pid":"32/11228","text":"Raul Guisado"}]},"title":"Rheoencephalographic and electroencephalographic analysis of cognitive workload.","venue":"CBMS","pages":"220-227","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/MontgomeryMGG90","doi":"10.1109/CBMSYS.1990.109448","ee":"https://doi.org/10.1109/CBMSYS.1990.109448","url":"https://dblp.org/rec/conf/cbms/MontgomeryMGG90"},
+"url":"URL#7746580"
+},
+{
+"@score":"1",
+"@id":"7746581",
+"info":{"authors":{"author":[{"@pid":"88/11230","text":"Mohammad Nemat"},{"@pid":"85/4973","text":"Ralph Martinez"},{"@pid":"51/7337","text":"Masakazu Osada"},{"@pid":"41/11230","text":"Kiyoshi Tawara"},{"@pid":"17/11229","text":"Kenichi Komatsu"}]},"title":"A high speed integrated computer network for picture archiving and communication system (PACS).","venue":"CBMS","pages":"14-23","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/NematMOTK90","doi":"10.1109/CBMSYS.1990.109373","ee":"https://doi.org/10.1109/CBMSYS.1990.109373","url":"https://dblp.org/rec/conf/cbms/NematMOTK90"},
+"url":"URL#7746581"
+},
+{
+"@score":"1",
+"@id":"7746582",
+"info":{"authors":{"author":[{"@pid":"70/5856","text":"Arne A. Nilsson"},{"@pid":"67/11230","text":"Hassan Khanmoradi"}]},"title":"A queueing model of picture archiving and communication system (PACS) with a hierarchy of storage.","venue":"CBMS","pages":"1-8","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/NilssonK90","doi":"10.1109/CBMSYS.1990.109371","ee":"https://doi.org/10.1109/CBMSYS.1990.109371","url":"https://dblp.org/rec/conf/cbms/NilssonK90"},
+"url":"URL#7746582"
+},
+{
+"@score":"1",
+"@id":"7746583",
+"info":{"authors":{"author":{"@pid":"61/1662","text":"Daniel J. Paulish"}},"title":"Methods and metrics for developing high quality patient monitoring system software.","venue":"CBMS","pages":"145-152","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Paulish90","doi":"10.1109/CBMSYS.1990.109392","ee":"https://doi.org/10.1109/CBMSYS.1990.109392","url":"https://dblp.org/rec/conf/cbms/Paulish90"},
+"url":"URL#7746583"
+},
+{
+"@score":"1",
+"@id":"7746584",
+"info":{"authors":{"author":[{"@pid":"17/11230","text":"R. D. Peindl"},{"@pid":"14/11229","text":"M. C. Hermann"},{"@pid":"99/11231","text":"K. R. Russell"},{"@pid":"72/11229","text":"A. M. McBryde"}]},"title":"Development of a microcomputer system for assessment of chronic compartment syndrome.","venue":"CBMS","pages":"438-445","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PeindlHRM90","doi":"10.1109/CBMSYS.1990.109431","ee":"https://doi.org/10.1109/CBMSYS.1990.109431","url":"https://dblp.org/rec/conf/cbms/PeindlHRM90"},
+"url":"URL#7746584"
+},
+{
+"@score":"1",
+"@id":"7746585",
+"info":{"authors":{"author":[{"@pid":"01/5162","text":"Marek A. Perkowski"},{"@pid":"05/8710","text":"Shiliang Wang"},{"@pid":"56/11231","text":"William Kelly Spiller"},{"@pid":"03/11229","text":"Alvin Legate"},{"@pid":"24/716","text":"Edmund Pierzchala"}]},"title":"Ovulo-computer: application of image processing and recognition to mucus ferning patterns.","venue":"CBMS","pages":"52-59","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PerkowskiWSLP90","doi":"10.1109/CBMSYS.1990.109378","ee":"https://doi.org/10.1109/CBMSYS.1990.109378","url":"https://dblp.org/rec/conf/cbms/PerkowskiWSLP90"},
+"url":"URL#7746585"
+},
+{
+"@score":"1",
+"@id":"7746586",
+"info":{"authors":{"author":[{"@pid":"96/11230","text":"Soheyl Pourmehdi"},{"@pid":"06/11231","text":"Jaouhar Mouine"},{"@pid":"18/681","text":"Mohamad Sawan"},{"@pid":"85/11227","text":"Francois Duval"}]},"title":"Microcomputer-based tactile hearing prosthesis.","venue":"CBMS","pages":"117-122","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PourmehdiMSD90","doi":"10.1109/CBMSYS.1990.109388","ee":"https://doi.org/10.1109/CBMSYS.1990.109388","url":"https://dblp.org/rec/conf/cbms/PourmehdiMSD90"},
+"url":"URL#7746586"
+},
+{
+"@score":"1",
+"@id":"7746587",
+"info":{"authors":{"author":[{"@pid":"74/11229","text":"Cemil M. Purut"},{"@pid":"12/11230","text":"Damian M. Craig"},{"@pid":"70/11229","text":"Joseph P. McGoldrick"},{"@pid":"57/11230","text":"Peter K. Smith"}]},"title":"Determination of vascular input impedance in near real-time using a portable microcomputer.","venue":"CBMS","pages":"252-258","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/PurutCMS90","doi":"10.1109/CBMSYS.1990.109406","ee":"https://doi.org/10.1109/CBMSYS.1990.109406","url":"https://dblp.org/rec/conf/cbms/PurutCMS90"},
+"url":"URL#7746587"
+},
+{
+"@score":"1",
+"@id":"7746588",
+"info":{"authors":{"author":{"@pid":"74/7977","text":"Navalgund Rao"}},"title":"Frequency modulated pulse for ultrasonic imaging in an attenuating medium.","venue":"CBMS","pages":"89-96","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Rao90","doi":"10.1109/CBMSYS.1990.109383","ee":"https://doi.org/10.1109/CBMSYS.1990.109383","url":"https://dblp.org/rec/conf/cbms/Rao90"},
+"url":"URL#7746588"
+},
+{
+"@score":"1",
+"@id":"7746589",
+"info":{"authors":{"author":[{"@pid":"93/11229","text":"Wilson B. Riggan"},{"@pid":"93/11228","text":"John P. Creason"},{"@pid":"19/11229","text":"L. Thomas Heiderscheit"},{"@pid":"14/11231","text":"Carl G. Hayes"}]},"title":"Problems in managing a large population and health data base.","venue":"CBMS","pages":"496-503","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RigganCHH90","doi":"10.1109/CBMSYS.1990.109439","ee":"https://doi.org/10.1109/CBMSYS.1990.109439","url":"https://dblp.org/rec/conf/cbms/RigganCHH90"},
+"url":"URL#7746589"
+},
+{
+"@score":"1",
+"@id":"7746590",
+"info":{"authors":{"author":[{"@pid":"97/11229","text":"Fabio Rodríguez"},{"@pid":"34/11228","text":"Fabio Filimonov"},{"@pid":"16/11229","text":"Albert Henning"},{"@pid":"90/11227","text":"Christopher Coughlin"},{"@pid":"81/2039","text":"Mark Greenberg"}]},"title":"Effects of high energy radiation on AICDs and programmable pacemakers.","venue":"CBMS","pages":"182-189","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RodriguezFHCM90","doi":"10.1109/CBMSYS.1990.109398","ee":"https://doi.org/10.1109/CBMSYS.1990.109398","url":"https://dblp.org/rec/conf/cbms/RodriguezFHCM90"},
+"url":"URL#7746590"
+},
+{
+"@score":"1",
+"@id":"7746591",
+"info":{"authors":{"author":[{"@pid":"87/11230","text":"Subhash C. Roy"},{"@pid":"78/2995","text":"William T. Krakow"},{"@pid":"58/11229","text":"B. Sacks"},{"@pid":"03/1286","text":"William E. Batchelor"},{"@pid":"35/11229","text":"L. N. Bohs"},{"@pid":"119/2906","text":"Roger C. Barr"}]},"title":"The design and verification of a VLSI chip for electrocardiogram data compression.","venue":"CBMS","pages":"170-177","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/RoyKSBBB90","doi":"10.1109/CBMSYS.1990.109396","ee":"https://doi.org/10.1109/CBMSYS.1990.109396","url":"https://dblp.org/rec/conf/cbms/RoyKSBBB90"},
+"url":"URL#7746591"
+},
+{
+"@score":"1",
+"@id":"7746592",
+"info":{"authors":{"author":[{"@pid":"26/4997","text":"Peter Santago II"},{"@pid":"70/6379","text":"Kerry M. Link"},{"@pid":"64/1277","text":"Wesley E. Snyder"},{"@pid":"33/6792","text":"Sarah A. Rajala"},{"@pid":"84/11227","text":"James S. Worley"},{"@pid":"76/1496","text":"Youn-Sik Han"}]},"title":"Restoration of cardiac magnetic resonance images.","venue":"CBMS","pages":"60-67","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SantagoLSRWH90","doi":"10.1109/CBMSYS.1990.109379","ee":"https://doi.org/10.1109/CBMSYS.1990.109379","url":"https://dblp.org/rec/conf/cbms/SantagoLSRWH90"},
+"url":"URL#7746592"
+},
+{
+"@score":"1",
+"@id":"7746593",
+"info":{"authors":{"author":[{"@pid":"18/681","text":"Mohamad Sawan"},{"@pid":"85/11227","text":"Francois Duval"},{"@pid":"96/11230","text":"Soheyl Pourmehdi"},{"@pid":"06/11231","text":"Jaouhar Mouine"}]},"title":"A new multichannel bladder stimulator.","venue":"CBMS","pages":"190-196","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SawanDPM90","doi":"10.1109/CBMSYS.1990.109399","ee":"https://doi.org/10.1109/CBMSYS.1990.109399","url":"https://dblp.org/rec/conf/cbms/SawanDPM90"},
+"url":"URL#7746593"
+},
+{
+"@score":"1",
+"@id":"7746594",
+"info":{"authors":{"author":[{"@pid":"47/11228","text":"John D. Schellenberg"},{"@pid":"23/11231","text":"William C. Naylor"},{"@pid":"20/2076","text":"Laurence P. Clarke"}]},"title":"Application of artificial neural networks for tissue classification from multispectral magnetic resonance images of the head.","venue":"CBMS","pages":"350-357","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SchellenbergNC90","doi":"10.1109/CBMSYS.1990.109419","ee":"https://doi.org/10.1109/CBMSYS.1990.109419","url":"https://dblp.org/rec/conf/cbms/SchellenbergNC90"},
+"url":"URL#7746594"
+},
+{
+"@score":"1",
+"@id":"7746595",
+"info":{"authors":{"author":[{"@pid":"25/11228","text":"Lee Shapiro"},{"@pid":"81/11231","text":"Douglas M. Stetson"}]},"title":"A general purpose shell for research assessment of Bayesian knowledge bases supporting medical diagnostic software systems.","venue":"CBMS","pages":"267-274","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ShapiroS90","doi":"10.1109/CBMSYS.1990.109408","ee":"https://doi.org/10.1109/CBMSYS.1990.109408","url":"https://dblp.org/rec/conf/cbms/ShapiroS90"},
+"url":"URL#7746595"
+},
+{
+"@score":"1",
+"@id":"7746596",
+"info":{"authors":{"author":[{"@pid":"07/11231","text":"Robin Shaw"},{"@pid":"58/11231","text":"Everett Crisman"},{"@pid":"62/4635","text":"Anne Loomis"},{"@pid":"01/11232","text":"Zofia Laszewski"}]},"title":"The eye wink control interface: using the computer to provide the severely disabled with increased flexibility and comfort.","venue":"CBMS","pages":"105-111","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ShawCLL90","doi":"10.1109/CBMSYS.1990.109386","ee":"https://doi.org/10.1109/CBMSYS.1990.109386","url":"https://dblp.org/rec/conf/cbms/ShawCLL90"},
+"url":"URL#7746596"
+},
+{
+"@score":"1",
+"@id":"7746597",
+"info":{"authors":{"author":[{"@pid":"10/11237","text":"K. D. Smith"},{"@pid":"67/11231","text":"Gill B. Bearnson"},{"@pid":"56/519","text":"Hee Chan Kim"},{"@pid":"48/11230","text":"R. Layton"},{"@pid":"13/11237","text":"R. D. Jarmin"},{"@pid":"31/18","text":"J. Smith"}]},"title":"Electronics for the electrohydraulic total artificial heart.","venue":"CBMS","pages":"517-524","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SmithBKLJS90","doi":"10.1109/CBMSYS.1990.109442","ee":"https://doi.org/10.1109/CBMSYS.1990.109442","url":"https://dblp.org/rec/conf/cbms/SmithBKLJS90"},
+"url":"URL#7746597"
+},
+{
+"@score":"1",
+"@id":"7746598",
+"info":{"authors":{"author":[{"@pid":"09/11228","text":"Mark F. Smith"},{"@pid":"29/2635","text":"Ronald J. Jaszczak"},{"@pid":"43/5354","text":"Carey E. Floyd Jr."},{"@pid":"38/5788","text":"Kim L. Greer"},{"@pid":"36/11231","text":"R. Edward Coleman"}]},"title":"Interactive visualization of three-dimensional SPECT cardiac images.","venue":"CBMS","pages":"213-219","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/SmithJFGC90","doi":"10.1109/CBMSYS.1990.109402","ee":"https://doi.org/10.1109/CBMSYS.1990.109402","url":"https://dblp.org/rec/conf/cbms/SmithJFGC90"},
+"url":"URL#7746598"
+},
+{
+"@score":"1",
+"@id":"7746599",
+"info":{"authors":{"author":{"@pid":"20/11228","text":"William B. Spector"}},"title":"How the insurance industry reviews new medical devices and technology for approval and reimbursement under indemnity and HMO contracts.","venue":"CBMS","pages":"161","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Spector90","doi":"10.1109/CBMSYS.1990.109394","ee":"https://doi.org/10.1109/CBMSYS.1990.109394","url":"https://dblp.org/rec/conf/cbms/Spector90"},
+"url":"URL#7746599"
+},
+{
+"@score":"1",
+"@id":"7746600",
+"info":{"authors":{"author":[{"@pid":"81/11231","text":"Douglas M. Stetson"},{"@pid":"62/4956","text":"Russell C. Eberhart"},{"@pid":"31/11229","text":"Roy W. Dobbins"},{"@pid":"49/4528","text":"William M. Pugh"},{"@pid":"46/11231","text":"Antonio Gino"}]},"title":"Structured specification of a computer assisted medical diagnostic system.","venue":"CBMS","pages":"374-380","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/StetsonEDPG90","doi":"10.1109/CBMSYS.1990.109422","ee":"https://doi.org/10.1109/CBMSYS.1990.109422","url":"https://dblp.org/rec/conf/cbms/StetsonEDPG90"},
+"url":"URL#7746600"
+},
+{
+"@score":"1",
+"@id":"7746601",
+"info":{"authors":{"author":[{"@pid":"16/5140","text":"Eugene M. Strand"},{"@pid":"31/5528","text":"Warren T. Jones"}]},"title":"A neural network for tracking the prevailing heart rate of the electrocardiogram.","venue":"CBMS","pages":"358-365","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/StrandJ90","doi":"10.1109/CBMSYS.1990.109420","ee":"https://doi.org/10.1109/CBMSYS.1990.109420","url":"https://dblp.org/rec/conf/cbms/StrandJ90"},
+"url":"URL#7746601"
+},
+{
+"@score":"1",
+"@id":"7746602",
+"info":{"authors":{"author":[{"@pid":"60/11231","text":"Nhi P. Ta"},{"@pid":"95/5915","text":"Yianni Attikiouzel"},{"@pid":"95/11230","text":"Greg Crebbin"}]},"title":"Electrocardiogram compression using lapped orthogonal transform.","venue":"CBMS","pages":"244-251","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/TaAC90","doi":"10.1109/CBMSYS.1990.109405","ee":"https://doi.org/10.1109/CBMSYS.1990.109405","url":"https://dblp.org/rec/conf/cbms/TaAC90"},
+"url":"URL#7746602"
+},
+{
+"@score":"1",
+"@id":"7746603",
+"info":{"authors":{"author":[{"@pid":"54/11232","text":"Willis J. Tompkins"},{"@pid":"30/3671","text":"Shuqian Luo"}]},"title":"Twelve-lead simulation for testing interpretive ECG machines.","venue":"CBMS","pages":"178-181","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/TompkinsL90","doi":"10.1109/CBMSYS.1990.109397","ee":"https://doi.org/10.1109/CBMSYS.1990.109397","url":"https://dblp.org/rec/conf/cbms/TompkinsL90"},
+"url":"URL#7746603"
+},
+{
+"@score":"1",
+"@id":"7746604",
+"info":{"authors":{"author":{"@pid":"74/5861","text":"Takao Wada"}},"title":"Akaike&apos;s model versus conventional spectral analysis as tools for analyzing multivariate clinical time series.","venue":"CBMS","pages":"532-539","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/Wada90","doi":"10.1109/CBMSYS.1990.109444","ee":"https://doi.org/10.1109/CBMSYS.1990.109444","url":"https://dblp.org/rec/conf/cbms/Wada90"},
+"url":"URL#7746604"
+},
+{
+"@score":"1",
+"@id":"7746605",
+"info":{"authors":{"author":[{"@pid":"81/11229","text":"Guang-Nay Wang"},{"@pid":"e/MarthaWEvens","text":"Martha W. Evens"},{"@pid":"61/5543","text":"Daniel B. Hier"}]},"title":"On the evaluation of LITREF: a PC-based information retrieval system to support stroke diagnosis.","venue":"CBMS","pages":"548-555","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/WangEH90","doi":"10.1109/CBMSYS.1990.109446","ee":"https://doi.org/10.1109/CBMSYS.1990.109446","url":"https://dblp.org/rec/conf/cbms/WangEH90"},
+"url":"URL#7746605"
+},
+{
+"@score":"1",
+"@id":"7746606",
+"info":{"authors":{"author":[{"@pid":"28/1377","text":"Ching-Hung Wang"},{"@pid":"67/4408","text":"Shian-Shyong Tseng"}]},"title":"A brain tumor diagnostic system with automatic learning abilities.","venue":"CBMS","pages":"313-320","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/WangT90","doi":"10.1109/CBMSYS.1990.109414","ee":"https://doi.org/10.1109/CBMSYS.1990.109414","url":"https://dblp.org/rec/conf/cbms/WangT90"},
+"url":"URL#7746606"
+},
+{
+"@score":"1",
+"@id":"7746607",
+"info":{"authors":{"author":[{"@pid":"30/4787","text":"Zhongquan Wu"},{"@pid":"68/6846","text":"Yan Guo"}]},"title":"A microcomputer based image analysis system for the left ventricle and the coronary artery.","venue":"CBMS","pages":"205-212","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/WuG90","doi":"10.1109/CBMSYS.1990.109401","ee":"https://doi.org/10.1109/CBMSYS.1990.109401","url":"https://dblp.org/rec/conf/cbms/WuG90"},
+"url":"URL#7746607"
+},
+{
+"@score":"1",
+"@id":"7746608",
+"info":{"authors":{"author":[{"@pid":"p/VYYoon","text":"Youngohc Yoon"},{"@pid":"33/11232","text":"Robert W. Brobst"},{"@pid":"75/3496","text":"Paul R. Bergstresser"},{"@pid":"76/4892","text":"Lynn L. Peterson"}]},"title":"Automatic generation of a knowledge-base for a dermatology expert system.","venue":"CBMS","pages":"306-312","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/YoonBBP90","doi":"10.1109/CBMSYS.1990.109413","ee":"https://doi.org/10.1109/CBMSYS.1990.109413","url":"https://dblp.org/rec/conf/cbms/YoonBBP90"},
+"url":"URL#7746608"
+},
+{
+"@score":"1",
+"@id":"7746609",
+"info":{"authors":{"author":[{"@pid":"73/1388","text":"Yuemei Zhang"},{"@pid":"e/MarthaWEvens","text":"Martha W. Evens"},{"@pid":"27/6473","text":"Joel A. Michael"},{"@pid":"12/1126","text":"Allen A. Rovick"}]},"title":"Extending a knowledge base to support explanations.","venue":"CBMS","pages":"259-266","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ZhangEMR90","doi":"10.1109/CBMSYS.1990.109407","ee":"https://doi.org/10.1109/CBMSYS.1990.109407","url":"https://dblp.org/rec/conf/cbms/ZhangEMR90"},
+"url":"URL#7746609"
+},
+{
+"@score":"1",
+"@id":"7746610",
+"info":{"authors":{"author":[{"@pid":"89/11231","text":"Danhua Zhao"},{"@pid":"83/4014","text":"Gregg E. Trahey"}]},"title":"Two algorithms for correcting phase aberration in a computer-controlled ultrasonic imaging system.","venue":"CBMS","pages":"38-43","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ZhaoT90","doi":"10.1109/CBMSYS.1990.109376","ee":"https://doi.org/10.1109/CBMSYS.1990.109376","url":"https://dblp.org/rec/conf/cbms/ZhaoT90"},
+"url":"URL#7746610"
+},
+{
+"@score":"1",
+"@id":"7746611",
+"info":{"authors":{"author":[{"@pid":"68/5782","text":"I. George Zubal"},{"@pid":"24/2420","text":"Gene Gindi"},{"@pid":"35/6724","text":"M. Lee"},{"@pid":"99/4107","text":"Charles R. Harrell"},{"@pid":"32/11232","text":"Eileen O. Smith"}]},"title":"High resolution anthropomorphic phantom for Monte Carlo analysis of internal radiation sources.","venue":"CBMS","pages":"540-547","year":"1990","type":"Conference and Workshop Papers","access":"closed","key":"conf/cbms/ZubalGLHS90","doi":"10.1109/CBMSYS.1990.109445","ee":"https://doi.org/10.1109/CBMSYS.1990.109445","url":"https://dblp.org/rec/conf/cbms/ZubalGLHS90"},
+"url":"URL#7746611"
+},
+{
+"@score":"1",
+"@id":"7759344",
+"info":{"title":"Third Annual IEEE Symposium on Computer-Based Medical Systems (CBMS&apos;90), June 3-6, 1990, Chapel Hill, NC, USA","venue":"CBMS","publisher":"IEEE","year":"1990","type":"Editorship","key":"conf/cbms/1990","ee":"https://ieeexplore.ieee.org/xpl/conhome/483/proceeding","url":"https://dblp.org/rec/conf/cbms/1990"},
+"url":"URL#7759344"
+}
+]
+}
+}
+}

@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+aspects,targets,0.0048,1.4108
+embeddings,targets,-0.3348,1.6339
+targeted aspect-based sentiment analysis,targets,0.1239,1.3237
+aspects,embeddings,-0.4505,1.7033
+aspects,targeted aspect-based sentiment analysis,0.8828,0.4842
+embeddings,targeted aspect-based sentiment analysis,-0.685,1.8357
+context,targets,-0.148,1.5153
+context-dependent information,targets,-0.27,1.5938
+aspects,context,-0.3628,1.651
+aspects,context-dependent information,-0.2658,1.5911
+context,embeddings,0.2982,1.1848
+context-dependent information,embeddings,0.1778,1.2824
+context,targeted aspect-based sentiment analysis,-0.4354,1.6944
+context,context-dependent information,0.9175,0.4063
+context-dependent information,targeted aspect-based sentiment analysis,-0.241,1.5754
+sparse coefficient vector,targets,-0.1747,1.5328
+aspects,sparse coefficient vector,0.9665,0.259
+embeddings,sparse coefficient vector,-0.4445,1.6997
+context,sparse coefficient vector,-0.2777,1.5986
+context-dependent information,sparse coefficient vector,-0.1546,1.5196

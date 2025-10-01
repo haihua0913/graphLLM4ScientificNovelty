@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+kernel-based method,multi-layer neural networks,0.1364,1.3143
+generalization error,multi-layer neural networks,-0.0744,1.4659
+generalization error,kernel-based method,-0.2564,1.5852
+kernel-based method,sample complexity,-0.078,1.4683
+kernel-based method,time complexity,-0.2845,1.6028
+generalization error,sample complexity,0.0154,1.4033
+generalization error,time complexity,-0.1688,1.5289
+sample complexity,time complexity,-0.1093,1.4895
+kernel-based method,sigmoid-like activation functions,-0.1382,1.5088
+ReLU-like activation functions,kernel-based method,0.9715,0.2387
+generalization error,sigmoid-like activation functions,0.0276,1.3946
+ReLU-like activation functions,generalization error,-0.2979,1.6111
+sample complexity,sigmoid-like activation functions,-0.0367,1.4399
+ReLU-like activation functions,sample complexity,-0.1458,1.5138
+sigmoid-like activation functions,time complexity,-0.2219,1.5633
+ReLU-like activation functions,time complexity,-0.3225,1.6264
+ReLU-like activation functions,sigmoid-like activation functions,-0.1773,1.5345

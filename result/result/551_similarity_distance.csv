@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+parameter estimation,pose estimation,-0.0017,1.4154
+computational complexity,parameter estimation,-0.1486,1.5157
+high-dimensional problems,parameter estimation,-0.1672,1.5279
+computational complexity,pose estimation,-0.1746,1.5327
+high-dimensional problems,pose estimation,-0.0829,1.4717
+computational complexity,high-dimensional problems,0.9766,0.2164
+hashing functions,parameter estimation,-0.2099,1.5556
+hashing functions,pose estimation,0.1709,1.2877
+computational complexity,hashing functions,0.1341,1.316
+hashing functions,high-dimensional problems,0.0841,1.3535
+hashing functions,locality-sensitive hashing,0.0032,1.412
+locality-sensitive hashing,pose estimation,-0.1369,1.5079
+computational complexity,locality-sensitive hashing,0.9798,0.201
+high-dimensional problems,locality-sensitive hashing,0.9777,0.2111
+locality-sensitive hashing,parameter-sensitive hashing,0.9039,0.4383
+articulated pose,locality-sensitive hashing,0.1516,1.3026
+example images,locality-sensitive hashing,0.4339,1.064
+articulated pose,parameter-sensitive hashing,0.1825,1.2786
+example images,parameter-sensitive hashing,0.5428,0.9563
+articulated pose,example images,-0.3765,1.6592

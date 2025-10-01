@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+micro-Unmanned Air Vehicle,real-time body orientation estimation,-0.3198,1.6247
+on-board sensors,real-time body orientation estimation,0.2115,1.2558
+latent-dynamic conditional random fields,real-time body orientation estimation,0.6194,0.8725
+fast estimation,real-time body orientation estimation,-0.1688,1.529
+real-time body orientation estimation,sensor readings,0.6973,0.7781
+micro-Unmanned Air Vehicle,on-board sensors,-0.0961,1.4806
+latent-dynamic conditional random fields,micro-Unmanned Air Vehicle,0.0348,1.3894
+fast estimation,micro-Unmanned Air Vehicle,-0.0564,1.4535
+micro-Unmanned Air Vehicle,sensor readings,-0.2548,1.5842
+latent-dynamic conditional random fields,on-board sensors,-0.2874,1.6046
+fast estimation,on-board sensors,0.0674,1.3657
+on-board sensors,sensor readings,0.2964,1.1862
+fast estimation,latent-dynamic conditional random fields,-0.1899,1.5427
+latent-dynamic conditional random fields,sensor readings,0.3079,1.1766
+fast estimation,sensor readings,-0.1223,1.4982
+on-board sensors,video streams,0.1388,1.3124
+latent-dynamic conditional random fields,video streams,-0.2135,1.5579
+fast estimation,video streams,0.9942,0.1075
+sensor readings,video streams,-0.1411,1.5107

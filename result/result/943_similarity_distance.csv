@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+online social networks,user modeling,-0.1207,1.4971
+user modeling,user vectorization,0.9697,0.2461
+time-varying user vectorization,user modeling,0.9513,0.3121
+social interaction activity,user modeling,0.1367,1.314
+user modeling,word2vec,-0.0172,1.4264
+negative sampling,user modeling,0.7398,0.7213
+smoothing technique,user modeling,-0.1738,1.5322
+online social networks,user vectorization,-0.1294,1.5029
+online social networks,time-varying user vectorization,-0.2158,1.5594
+online social networks,social interaction activity,-0.0418,1.4435
+online social networks,word2vec,0.099,1.3424
+negative sampling,online social networks,-0.1614,1.5241
+online social networks,smoothing technique,-0.1191,1.4961
+time-varying user vectorization,user vectorization,0.9505,0.3145
+social interaction activity,user vectorization,-0.0742,1.4658
+user vectorization,word2vec,-0.0665,1.4605
+negative sampling,user vectorization,0.8001,0.6323
+smoothing technique,user vectorization,-0.2022,1.5506
+social interaction activity,time-varying user vectorization,0.1334,1.3165
+time-varying user vectorization,word2vec,-0.2079,1.5543
+negative sampling,time-varying user vectorization,0.8621,0.5251
+smoothing technique,time-varying user vectorization,-0.1301,1.5034
+social interaction activity,word2vec,-0.1821,1.5376
+negative sampling,social interaction activity,0.0145,1.4039
+smoothing technique,social interaction activity,0.0287,1.3938
+negative sampling,word2vec,-0.2099,1.5556
+smoothing technique,word2vec,-0.302,1.6137
+negative sampling,smoothing technique,-0.105,1.4866

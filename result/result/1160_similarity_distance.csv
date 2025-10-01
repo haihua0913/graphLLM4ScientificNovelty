@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+deep learning,inverse halftoning,-0.0286,1.4343
+encoder,inverse halftoning,-0.0959,1.4804
+decoder,inverse halftoning,-0.1053,1.4868
+deep learning,encoder,0.9253,0.3866
+decoder,deep learning,0.9179,0.4052
+decoder,encoder,0.8805,0.4889
+inverse halftoning,supervised learning,-0.1031,1.4854
+deep learning,supervised learning,0.1094,1.3346
+encoder,supervised learning,0.257,1.219
+decoder,supervised learning,0.1392,1.3121
+generative halftoning,reverse diffusion process,-0.4771,1.7188
+generative halftoning,inverse halftoning,-0.4858,1.7238
+inverse halftoning,reverse diffusion process,0.1194,1.3271
+Conditional Diffusion model,inverse halftoning,-0.0569,1.4539
+Conditional Diffusion model,generative halftoning,-0.0165,1.4258
+Conditional Diffusion model,reverse diffusion process,0.0171,1.4021
+blue noise guidance,inverse halftoning,-0.116,1.494
+Conditional Diffusion model,blue noise guidance,-0.1232,1.4988

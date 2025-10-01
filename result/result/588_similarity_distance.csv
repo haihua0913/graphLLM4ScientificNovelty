@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+self-supervised learning,visual representations,-0.3071,1.6168
+auxiliary tasks,self-supervised learning,0.8812,0.4875
+auxiliary tasks,visual representations,-0.2492,1.5806
+invariance,self-supervised learning,0.275,1.2041
+invariance,visual representations,-0.223,1.564
+auxiliary tasks,invariance,0.4376,1.0605
+graph,invariance,0.4592,1.04
+Triplet-Siamese network,invariance,-0.1273,1.5015
+VGG16,invariance,-0.0366,1.4399
+Triplet-Siamese network,graph,0.3798,1.1137
+VGG16,graph,0.3626,1.1291
+Triplet-Siamese network,VGG16,0.9816,0.192
+invariance,object detection,-0.1664,1.5274
+graph,object detection,0.2623,1.2146
+Triplet-Siamese network,object detection,0.9762,0.2184
+VGG16,object detection,0.9877,0.1565
+Faster R-CNN,Triplet-Siamese network,-0.0856,1.4735
+Faster R-CNN,VGG16,-0.024,1.4311
+Faster R-CNN,object detection,-0.1194,1.4963
+object detection,surface normal estimation,0.909,0.4266
+Faster R-CNN,surface normal estimation,-0.288,1.605

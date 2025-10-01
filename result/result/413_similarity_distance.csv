@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+face,palmprint,0.9933,0.1154
+face,multimodal biometric identification,0.3385,1.1502
+face,ordinal features,-0.0913,1.4774
+multimodal biometric identification,palmprint,0.3272,1.16
+ordinal features,palmprint,-0.1678,1.5282
+multimodal biometric identification,ordinal features,-0.3274,1.6294
+face,matching scores,-0.0229,1.4303
+face,fusion strategies,-0.091,1.4771
+matching scores,palmprint,-0.1091,1.4893
+fusion strategies,palmprint,-0.1754,1.5332
+matching scores,multimodal biometric identification,-0.2319,1.5697
+fusion strategies,multimodal biometric identification,-0.2974,1.6109
+matching scores,ordinal features,0.9501,0.3158
+fusion strategies,ordinal features,0.9912,0.133
+fusion strategies,matching scores,0.944,0.3346
+data set,ordinal features,-0.293,1.6081
+data set,matching scores,-0.1947,1.5458
+data set,fusion strategies,-0.3201,1.6248

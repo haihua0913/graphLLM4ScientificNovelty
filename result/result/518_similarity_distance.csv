@@ -1,0 +1,30 @@
+node1,node2,similarity,distance
+ego-motion,image sensors,-0.0709,1.4635
+camera motion,ego-motion,0.9726,0.2343
+camera motion,image sensors,-0.0423,1.4438
+ego-motion,field of view,-0.1606,1.5236
+field of view,image sensors,-0.029,1.4346
+camera motion,field of view,-0.0244,1.4314
+ego-motion,omnidirectional cameras,0.4533,1.0456
+camera motion,omnidirectional cameras,0.3495,1.1406
+field of view,omnidirectional cameras,-0.5713,1.7727
+omnidirectional cameras,spherical projection,0.5325,0.967
+image velocity vectors,omnidirectional cameras,0.383,1.1109
+omnidirectional cameras,transformation,-0.5363,1.7529
+ego-motion,spherical projection,0.9278,0.3799
+ego-motion,image velocity vectors,0.9819,0.1901
+ego-motion,transformation,-0.0695,1.4625
+camera motion,spherical projection,0.9168,0.4078
+image velocity vectors,spherical projection,0.9243,0.389
+field of view,spherical projection,-0.2401,1.5749
+spherical projection,transformation,-0.1072,1.4881
+camera motion,image velocity vectors,0.9621,0.2752
+camera motion,transformation,0.0244,1.3968
+field of view,image velocity vectors,-0.2171,1.5602
+image velocity vectors,transformation,-0.0206,1.4287
+field of view,transformation,0.0032,1.4119
+experimental results,omnidirectional cameras,-0.5264,1.7472
+ego-motion,experimental results,-0.108,1.4886
+experimental results,spherical projection,-0.1116,1.491
+experimental results,image velocity vectors,-0.0509,1.4498
+experimental results,transformation,0.9921,0.1258

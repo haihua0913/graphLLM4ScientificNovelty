@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+Face detection,low light condition,-0.1044,1.4862
+Face detection,UG2+ Challenge,0.144,1.3084
+Face detection,image enhancement methods,0.9287,0.3777
+Face detection,image transfer methods,0.9387,0.3502
+UG2+ Challenge,low light condition,-0.3904,1.6676
+image enhancement methods,low light condition,-0.175,1.533
+image transfer methods,low light condition,-0.0483,1.4479
+UG2+ Challenge,image enhancement methods,0.1083,1.3354
+UG2+ Challenge,image transfer methods,-0.0666,1.4606
+image enhancement methods,image transfer methods,0.9659,0.261
+image enhancement methods,object detection frameworks,0.3367,1.1517
+DetectoRS,image enhancement methods,-0.1847,1.5393
+Cascade-RCNN,image enhancement methods,0.9822,0.1885
+Swin-transformer,image enhancement methods,0.8715,0.507
+image transfer methods,object detection frameworks,0.2674,1.2104
+DetectoRS,image transfer methods,-0.0432,1.4445
+Cascade-RCNN,image transfer methods,0.9494,0.318
+Swin-transformer,image transfer methods,0.8275,0.5873
+DetectoRS,object detection frameworks,0.0757,1.3597
+Cascade-RCNN,object detection frameworks,0.402,1.0936
+Swin-transformer,object detection frameworks,0.2443,1.2294
+Cascade-RCNN,DetectoRS,-0.1112,1.4908
+DetectoRS,Swin-transformer,-0.1485,1.5156
+Cascade-RCNN,Swin-transformer,0.9195,0.4012

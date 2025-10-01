@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+temporal priors,video deblurring,0.0379,1.3872
+frequency domain,video deblurring,-0.19,1.5427
+frequency domain,temporal priors,0.0147,1.4038
+Fourier space,video deblurring,-0.05,1.4491
+frequency-temporal priors,video deblurring,-0.5759,1.7753
+Fourier space,temporal priors,-0.0153,1.425
+frequency-temporal priors,temporal priors,0.2883,1.1931
+Fourier space,frequency domain,0.1333,1.3166
+frequency domain,frequency-temporal priors,0.8078,0.6199
+Fourier space,frequency-temporal priors,0.2781,1.2016
+Temporal Energy prior-driven Aggregation,video deblurring,-0.1134,1.4922
+Temporal Energy prior-driven Aggregation,frequency loss,0.1311,1.3183
+Temporal Energy prior-driven Aggregation,spectral distribution,-0.184,1.5388
+frequency loss,spectral distribution,0.3856,1.1085

@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+balanced nutrition,conventional dietary assessment,0.0176,1.4017
+balanced nutrition,time-consuming,-0.1929,1.5446
+conventional dietary assessment,time-consuming,-0.1257,1.5005
+balanced nutrition,technology-based methods,0.1062,1.337
+conventional dietary assessment,technology-based methods,0.9572,0.2926
+technology-based methods,time-consuming,-0.3399,1.637
+computer vision,conventional dietary assessment,0.1211,1.3258
+conventional dietary assessment,meal image,0.3426,1.1466
+conventional dietary assessment,nutrient content,-0.029,1.4346
+conventional dietary assessment,food segmentation,-0.1436,1.5123
+computer vision,time-consuming,-0.3127,1.6203
+meal image,time-consuming,-0.4097,1.6791
+nutrient content,time-consuming,-0.2033,1.5513
+food segmentation,time-consuming,0.9545,0.3016
+computer vision,technology-based methods,0.2092,1.2576
+meal image,technology-based methods,0.4713,1.0283
+nutrient content,technology-based methods,0.0683,1.3651
+food segmentation,technology-based methods,-0.3536,1.6453
+computer vision,meal image,0.8277,0.5871
+computer vision,nutrient content,0.2734,1.2055
+computer vision,food segmentation,-0.3556,1.6466
+meal image,nutrient content,0.6129,0.8799
+food segmentation,meal image,-0.518,1.7424
+food segmentation,nutrient content,-0.2227,1.5637
+computer vision,processing time,-0.4331,1.693
+meal image,processing time,-0.5314,1.7501
+nutrient content,processing time,-0.2269,1.5665
+food segmentation,processing time,0.9602,0.2822

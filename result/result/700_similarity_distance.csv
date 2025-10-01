@@ -1,0 +1,42 @@
+node1,node2,similarity,distance
+gradient masking,obfuscated gradients,-0.1067,1.4877
+adversarial examples,obfuscated gradients,-0.2389,1.5741
+defenses,obfuscated gradients,-0.0914,1.4775
+iterative optimization-based attacks,obfuscated gradients,-0.1164,1.4943
+circumvented,obfuscated gradients,0.9591,0.286
+adversarial examples,gradient masking,-0.0895,1.4761
+defenses,gradient masking,0.8126,0.6123
+gradient masking,iterative optimization-based attacks,0.9502,0.3156
+circumvented,gradient masking,-0.3189,1.6241
+adversarial examples,defenses,-0.1868,1.5407
+adversarial examples,iterative optimization-based attacks,-0.0513,1.45
+adversarial examples,circumvented,-0.117,1.4947
+defenses,iterative optimization-based attacks,0.9084,0.428
+circumvented,defenses,-0.2981,1.6113
+circumvented,iterative optimization-based attacks,-0.3351,1.6341
+characteristic behaviors,obfuscated gradients,0.9374,0.3537
+attack techniques,obfuscated gradients,-0.1631,1.5252
+characteristic behaviors,gradient masking,-0.1801,1.5363
+attack techniques,gradient masking,0.7992,0.6337
+adversarial examples,characteristic behaviors,0.0136,1.4046
+adversarial examples,attack techniques,-0.0494,1.4487
+characteristic behaviors,defenses,-0.0862,1.4739
+attack techniques,defenses,0.9184,0.4039
+characteristic behaviors,iterative optimization-based attacks,-0.1499,1.5165
+attack techniques,iterative optimization-based attacks,0.8693,0.5113
+characteristic behaviors,circumvented,0.9132,0.4168
+attack techniques,circumvented,-0.3771,1.6596
+attack techniques,characteristic behaviors,-0.1199,1.4966
+ICLR 2018,obfuscated gradients,-0.1913,1.5436
+obfuscated gradients,white-box-secure defenses,-0.1037,1.4857
+ICLR 2018,defenses,-0.1431,1.512
+defenses,white-box-secure defenses,0.8466,0.5538
+ICLR 2018,iterative optimization-based attacks,0.0469,1.3807
+iterative optimization-based attacks,white-box-secure defenses,0.9787,0.2063
+ICLR 2018,circumvented,-0.2068,1.5536
+circumvented,white-box-secure defenses,-0.2916,1.6072
+ICLR 2018,characteristic behaviors,-0.2434,1.577
+characteristic behaviors,white-box-secure defenses,-0.1273,1.5015
+ICLR 2018,attack techniques,0.1756,1.284
+attack techniques,white-box-secure defenses,0.8252,0.5913
+ICLR 2018,white-box-secure defenses,0.1178,1.3283

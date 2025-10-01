@@ -1,0 +1,37 @@
+node1,node2,similarity,distance
+Gaussian Process,regression,0.0354,1.3889
+Gaussian Process,runtime,0.4191,1.0778
+Gaussian Process,data size,0.0749,1.3602
+Gaussian Process,multidimensional input,-0.0243,1.4313
+Gaussian Process,multidimensional applications,-0.0665,1.4605
+Gaussian Process,projected additive approximation,-0.7336,1.8621
+regression,runtime,0.0216,1.3988
+data size,regression,0.0821,1.3549
+multidimensional input,regression,-0.0981,1.482
+multidimensional applications,regression,0.0847,1.353
+projected additive approximation,regression,0.1701,1.2883
+data size,runtime,0.6455,0.842
+multidimensional input,runtime,0.6578,0.8273
+multidimensional applications,runtime,0.6277,0.8628
+projected additive approximation,runtime,-0.3485,1.6422
+data size,multidimensional input,0.9313,0.3706
+data size,multidimensional applications,0.9394,0.3483
+data size,projected additive approximation,0.2969,1.1859
+multidimensional applications,multidimensional input,0.9741,0.2277
+multidimensional input,projected additive approximation,0.2064,1.2599
+multidimensional applications,projected additive approximation,0.3176,1.1683
+Gaussian Process,datasets,0.0319,1.3914
+Gaussian Process,performance,-0.0904,1.4768
+datasets,regression,-0.0389,1.4415
+performance,regression,-0.1846,1.5392
+datasets,runtime,0.6615,0.8228
+performance,runtime,0.4947,1.0053
+data size,datasets,0.939,0.3493
+data size,performance,0.879,0.492
+datasets,multidimensional input,0.9754,0.2218
+multidimensional input,performance,0.9408,0.344
+datasets,multidimensional applications,0.9428,0.3383
+multidimensional applications,performance,0.9081,0.4287
+datasets,projected additive approximation,0.1867,1.2754
+performance,projected additive approximation,0.3476,1.1422
+datasets,performance,0.9537,0.3045

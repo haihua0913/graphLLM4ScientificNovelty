@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+Gradient backpropagation,weight transport problem,-0.2726,1.5954
+Gradient backpropagation,weight symmetry,-0.1422,1.5115
+Gradient backpropagation,classification datasets,0.2776,1.202
+weight symmetry,weight transport problem,0.9194,0.4016
+classification datasets,weight transport problem,-0.1993,1.5487
+classification datasets,weight symmetry,-0.1747,1.5328
+feedback weights,performance,-0.0731,1.465
+concordant signs,feedback weights,-0.1014,1.4842
+concordant signs,performance,-0.284,1.6025
+asymmetric BP,feedback weights,-0.1302,1.5034
+Batch Normalization,feedback weights,-0.2518,1.5823
+asymmetric BP,performance,-0.007,1.4191
+Batch Normalization,performance,-0.1051,1.4866
+asymmetric BP,concordant signs,0.0343,1.3897
+Batch Normalization,concordant signs,-0.1316,1.5044
+Batch Normalization,asymmetric BP,0.0937,1.3463

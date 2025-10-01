@@ -1,0 +1,266 @@
+{
+"result":{
+"query":":facetid:toc:\"db/conf/miccai/mlmi2016.bht\"",
+"status":{
+"@code":"200",
+"text":"OK"
+},
+"time":{
+"@unit":"msecs",
+"text":"1.72"
+},
+"completions":{
+"@total":"1",
+"@computed":"1",
+"@sent":"1",
+"c":{
+"@sc":"39",
+"@dc":"39",
+"@oc":"39",
+"@id":"48996539",
+"text":":facetid:toc:db/conf/miccai/mlmi2016.bht"
+}
+},
+"hits":{
+"@total":"39",
+"@computed":"39",
+"@sent":"39",
+"@first":"0",
+"hit":[{
+"@score":"1",
+"@id":"4111848",
+"info":{"authors":{"author":[{"@pid":"125/1312","text":"Payam Ahmadvand"},{"@pid":"141/9020","text":"Nóirín Duggan"},{"@pid":"187/2823","text":"François Bénard"},{"@pid":"h/GhassanHamarneh","text":"Ghassan Hamarneh"}]},"title":"Tumor Lesion Segmentation from 3D PET Using a Machine Learning Driven Active Surface.","venue":"MLMI@MICCAI","pages":"271-278","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/AhmadvandDBH16","doi":"10.1007/978-3-319-47157-0_33","ee":"https://doi.org/10.1007/978-3-319-47157-0_33","url":"https://dblp.org/rec/conf/miccai/AhmadvandDBH16"},
+"url":"URL#4111848"
+},
+{
+"@score":"1",
+"@id":"4111863",
+"info":{"authors":{"author":[{"@pid":"187/2847","text":"Zobair Arya"},{"@pid":"138/7174","text":"Ludovica Griffanti"},{"@pid":"89/10743","text":"Clare E. Mackay"},{"@pid":"67/24","text":"Mark Jenkinson"}]},"title":"Iterative Dual LDA: A Novel Classification Algorithm for Resting State fMRI.","venue":"MLMI@MICCAI","pages":"279-286","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/AryaGMJ16","doi":"10.1007/978-3-319-47157-0_34","ee":"https://doi.org/10.1007/978-3-319-47157-0_34","url":"https://dblp.org/rec/conf/miccai/AryaGMJ16"},
+"url":"URL#4111863"
+},
+{
+"@score":"1",
+"@id":"4111884",
+"info":{"authors":{"author":[{"@pid":"187/2997","text":"Polina Binder"},{"@pid":"38/193","text":"Nematollah Kayhan Batmanghelich"},{"@pid":"00/1943","text":"Raúl San José Estépar"},{"@pid":"g/PolinaGolland","text":"Polina Golland"}]},"title":"Unsupervised Discovery of Emphysema Subtypes in a Large Clinical Cohort.","venue":"MLMI@MICCAI","pages":"180-187","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BinderBEG16","doi":"10.1007/978-3-319-47157-0_22","ee":"https://doi.org/10.1007/978-3-319-47157-0_22","url":"https://dblp.org/rec/conf/miccai/BinderBEG16"},
+"url":"URL#4111884"
+},
+{
+"@score":"1",
+"@id":"4111888",
+"info":{"authors":{"author":[{"@pid":"146/9475","text":"Gerda Bortsova"},{"@pid":"185/0710","text":"Michael Sterr"},{"@pid":"74/3477","text":"Lichao Wang"},{"@pid":"134/9886","text":"Fausto Milletari"},{"@pid":"n/NassirNavab","text":"Nassir Navab"},{"@pid":"185/0497","text":"Anika Böttcher"},{"@pid":"185/0962","text":"Heiko Lickert"},{"@pid":"t/FabianJTheis","text":"Fabian J. Theis"},{"@pid":"02/11511","text":"Tingying Peng"}]},"title":"Mitosis Detection in Intestinal Crypt Images with Hough Forest and Conditional Random Fields.","venue":"MLMI@MICCAI","pages":"287-295","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BortsovaSWMNBLT16","doi":"10.1007/978-3-319-47157-0_35","ee":"https://doi.org/10.1007/978-3-319-47157-0_35","url":"https://dblp.org/rec/conf/miccai/BortsovaSWMNBLT16"},
+"url":"URL#4111888"
+},
+{
+"@score":"1",
+"@id":"4111890",
+"info":{"authors":{"author":[{"@pid":"59/10419","text":"Behzad Bozorgtabar"},{"@pid":"84/7564","text":"Mani Abedini"},{"@pid":"36/2498","text":"Rahil Garnavi"}]},"title":"Sparse Coding Based Skin Lesion Segmentation Using Dynamic Rule-Based Refinement.","venue":"MLMI@MICCAI","pages":"254-261","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/BozorgtabarAG16","doi":"10.1007/978-3-319-47157-0_31","ee":"https://doi.org/10.1007/978-3-319-47157-0_31","url":"https://dblp.org/rec/conf/miccai/BozorgtabarAG16"},
+"url":"URL#4111890"
+},
+{
+"@score":"1",
+"@id":"4111956",
+"info":{"authors":{"author":[{"@pid":"115/7750","text":"Michael Gadermayr"},{"@pid":"182/2965","text":"Barbara Mara Klinkhammer"},{"@pid":"146/6738","text":"Peter Boor"},{"@pid":"63/3515","text":"Dorit Merhof"}]},"title":"Do We Need Large Annotated Training Data for Detection Applications in Biomedical Imaging? A Case Study in Renal Glomeruli Detection.","venue":"MLMI@MICCAI","pages":"18-26","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GadermayrKBM16","doi":"10.1007/978-3-319-47157-0_3","ee":"https://doi.org/10.1007/978-3-319-47157-0_3","url":"https://dblp.org/rec/conf/miccai/GadermayrKBM16"},
+"url":"URL#4111956"
+},
+{
+"@score":"1",
+"@id":"4111959",
+"info":{"authors":{"author":[{"@pid":"11/9613","text":"Mingchen Gao"},{"@pid":"59/9160-1","text":"Ziyue Xu 0001"},{"@pid":"78/6574-1","text":"Le Lu 0001"},{"@pid":"60/11273","text":"Adam P. Harrison"},{"@pid":"25/2710","text":"Ronald M. Summers"},{"@pid":"27/9830","text":"Daniel J. Mollura"}]},"title":"Multi-label Deep Regression and Unordered Pooling for Holistic Interstitial Lung Disease Pattern Detection.","venue":"MLMI@MICCAI","pages":"147-155","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/GaoXLHSM16","doi":"10.1007/978-3-319-47157-0_18","ee":"https://doi.org/10.1007/978-3-319-47157-0_18","url":"https://dblp.org/rec/conf/miccai/GaoXLHSM16"},
+"url":"URL#4111959"
+},
+{
+"@score":"1",
+"@id":"4111997",
+"info":{"authors":{"author":[{"@pid":"148/7569","text":"Mohammad Arafat Hussain"},{"@pid":"h/GhassanHamarneh","text":"Ghassan Hamarneh"},{"@pid":"187/3004","text":"Timothy W. O&apos;Connell"},{"@pid":"187/3034","text":"Mohammed F. Mohammed"},{"@pid":"87/4924","text":"Rafeef Abugharbieh"}]},"title":"Segmentation-Free Estimation of Kidney Volumes in CT with Dual Regression Forests.","venue":"MLMI@MICCAI","pages":"156-163","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/HussainHOMA16","doi":"10.1007/978-3-319-47157-0_19","ee":"https://doi.org/10.1007/978-3-319-47157-0_19","url":"https://dblp.org/rec/conf/miccai/HussainHOMA16"},
+"url":"URL#4111997"
+},
+{
+"@score":"1",
+"@id":"4112013",
+"info":{"authors":{"author":[{"@pid":"62/10066","text":"Christoph Jud"},{"@pid":"187/2882","text":"Nadia Möri"},{"@pid":"165/9820","text":"Benedikt Bitterli"},{"@pid":"47/2193","text":"Philippe C. Cattin"}]},"title":"Bilateral Regularization in Reproducing Kernel Hilbert Spaces for Discontinuity Preserving Image Registration.","venue":"MLMI@MICCAI","pages":"10-17","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/JudMBC16","doi":"10.1007/978-3-319-47157-0_2","ee":"https://doi.org/10.1007/978-3-319-47157-0_2","url":"https://dblp.org/rec/conf/miccai/JudMBC16"},
+"url":"URL#4112013"
+},
+{
+"@score":"1",
+"@id":"4112019",
+"info":{"authors":{"author":[{"@pid":"134/9718","text":"Jeremy Kawahara"},{"@pid":"h/GhassanHamarneh","text":"Ghassan Hamarneh"}]},"title":"Multi-resolution-Tract CNN with Hybrid Pretrained and Skin-Lesion Trained Layers.","venue":"MLMI@MICCAI","pages":"164-171","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KawaharaH16","doi":"10.1007/978-3-319-47157-0_20","ee":"https://doi.org/10.1007/978-3-319-47157-0_20","url":"https://dblp.org/rec/conf/miccai/KawaharaH16"},
+"url":"URL#4112019"
+},
+{
+"@score":"1",
+"@id":"4112022",
+"info":{"authors":{"author":[{"@pid":"47/3680","text":"Minjeong Kim"},{"@pid":"03/5225-1","text":"Guorong Wu 0001"},{"@pid":"187/2834","text":"Isrem Rekik"},{"@pid":"14/4383","text":"Dinggang Shen"}]},"title":"Dual-Layer Groupwise Registration for Consistent Labeling of Longitudinal Brain Images.","venue":"MLMI@MICCAI","pages":"69-76","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KimWRS16","doi":"10.1007/978-3-319-47157-0_9","ee":"https://doi.org/10.1007/978-3-319-47157-0_9","url":"https://dblp.org/rec/conf/miccai/KimWRS16"},
+"url":"URL#4112022"
+},
+{
+"@score":"1",
+"@id":"4112029",
+"info":{"authors":{"author":[{"@pid":"173/2272","text":"Simon Koppers"},{"@pid":"63/3515","text":"Dorit Merhof"}]},"title":"Direct Estimation of Fiber Orientations Using Deep Learning in Diffusion Imaging.","venue":"MLMI@MICCAI","pages":"53-60","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/KoppersM16","doi":"10.1007/978-3-319-47157-0_7","ee":"https://doi.org/10.1007/978-3-319-47157-0_7","url":"https://dblp.org/rec/conf/miccai/KoppersM16"},
+"url":"URL#4112029"
+},
+{
+"@score":"1",
+"@id":"4112042",
+"info":{"authors":{"author":[{"@pid":"87/2948-19","text":"Yuan Liu 0019"},{"@pid":"69/7658","text":"Hasan Ertan Çetingül"},{"@pid":"07/5496","text":"Benjamin Odry"},{"@pid":"96/722","text":"Mariappan S. Nadar"}]},"title":"Learning Global and Cluster-Specific Classifiers for Robust Brain Extraction in MR Data.","venue":"MLMI@MICCAI","pages":"130-138","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/LiuCON16","doi":"10.1007/978-3-319-47157-0_16","ee":"https://doi.org/10.1007/978-3-319-47157-0_16","url":"https://dblp.org/rec/conf/miccai/LiuCON16"},
+"url":"URL#4112042"
+},
+{
+"@score":"1",
+"@id":"4112053",
+"info":{"authors":{"author":[{"@pid":"50/6718","text":"Dwarikanath Mahapatra"},{"@pid":"141/9897","text":"Pallab Kanti Roy"},{"@pid":"96/1210","text":"Suman Sedai"},{"@pid":"36/2498","text":"Rahil Garnavi"}]},"title":"Retinal Image Quality Classification Using Saliency Maps and CNNs.","venue":"MLMI@MICCAI","pages":"172-179","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/MahapatraRSG16","doi":"10.1007/978-3-319-47157-0_21","ee":"https://doi.org/10.1007/978-3-319-47157-0_21","url":"https://dblp.org/rec/conf/miccai/MahapatraRSG16"},
+"url":"URL#4112053"
+},
+{
+"@score":"1",
+"@id":"4112078",
+"info":{"authors":{"author":[{"@pid":"33/5618","text":"Mehdi Moradi"},{"@pid":"11/5386","text":"Tanveer F. Syeda-Mahmood"},{"@pid":"168/5556","text":"Soheil Hor"}]},"title":"Tree-Based Transforms for Privileged Learning.","venue":"MLMI@MICCAI","pages":"188-195","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/MoradiSH16","doi":"10.1007/978-3-319-47157-0_23","ee":"https://doi.org/10.1007/978-3-319-47157-0_23","url":"https://dblp.org/rec/conf/miccai/MoradiSH16"},
+"url":"URL#4112078"
+},
+{
+"@score":"1",
+"@id":"4112091",
+"info":{"authors":{"author":[{"@pid":"167/9700","text":"Alison O&apos;Neil"},{"@pid":"99/2514","text":"Mohammad A. Dabbah"},{"@pid":"36/1279","text":"Ian Poole"}]},"title":"Cross-Modality Anatomical Landmark Detection Using Histograms of Unsigned Gradient Orientations and Atlas Location Autocontext.","venue":"MLMI@MICCAI","pages":"139-146","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ONeilDP16","doi":"10.1007/978-3-319-47157-0_17","ee":"https://doi.org/10.1007/978-3-319-47157-0_17","url":"https://dblp.org/rec/conf/miccai/ONeilDP16"},
+"url":"URL#4112091"
+},
+{
+"@score":"1",
+"@id":"4112125",
+"info":{"authors":{"author":[{"@pid":"70/8589","text":"Chen Qin"},{"@pid":"76/10169","text":"Ricardo Guerrero Moreno"},{"@pid":"15/10374","text":"Christopher Bowles"},{"@pid":"117/0353","text":"Christian Ledig"},{"@pid":"116/3937","text":"Philip Scheltens"},{"@pid":"116/1982","text":"Frederik Barkhof"},{"@pid":"187/3087","text":"Hanneke Rhodius-Meester"},{"@pid":"89/9678","text":"Betty M. Tijms"},{"@pid":"187/3011","text":"Afina W. Lemstra"},{"@pid":"63/10737","text":"Wiesje M. van der Flier"},{"@pid":"86/2890","text":"Ben Glocker"},{"@pid":"69/2478","text":"Daniel Rueckert"}]},"title":"A Semi-supervised Large Margin Algorithm for White Matter Hyperintensity Segmentation.","venue":"MLMI@MICCAI","pages":"104-112","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/QinMBLSBRTLFGR16","doi":"10.1007/978-3-319-47157-0_13","ee":"https://doi.org/10.1007/978-3-319-47157-0_13","url":"https://dblp.org/rec/conf/miccai/QinMBLSBRTLFGR16"},
+"url":"URL#4112125"
+},
+{
+"@score":"1",
+"@id":"4112134",
+"info":{"authors":{"author":[{"@pid":"167/0732","text":"Mohammad Razavi"},{"@pid":"w/LeiWang25","text":"Lei Wang 0025"},{"@pid":"06/7832","text":"Tao Tan"},{"@pid":"09/93","text":"Nico Karssemeijer"},{"@pid":"l/LarsLinsen","text":"Lars Linsen"},{"@pid":"71/6673","text":"Udo Frese"},{"@pid":"87/4973","text":"Horst K. Hahn"},{"@pid":"z/GabrielZachmann","text":"Gabriel Zachmann"}]},"title":"Novel Morphological Features for Non-mass-like Breast Lesion Classification on DCE-MRI.","venue":"MLMI@MICCAI","pages":"305-312","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/Razavi0TKLFHZ16","doi":"10.1007/978-3-319-47157-0_37","ee":"https://doi.org/10.1007/978-3-319-47157-0_37","url":"https://dblp.org/rec/conf/miccai/Razavi0TKLFHZ16"},
+"url":"URL#4112134"
+},
+{
+"@score":"1",
+"@id":"4112151",
+"info":{"authors":{"author":[{"@pid":"187/3038","text":"Hosuk Ryou"},{"@pid":"72/10265","text":"Mohammad Yaqub"},{"@pid":"182/1627","text":"Angelo Cavallaro"},{"@pid":"187/2831","text":"Fenella Roseman"},{"@pid":"39/9774","text":"Aris T. Papageorghiou"},{"@pid":"n/JAlisonNoble","text":"J. Alison Noble"}]},"title":"Automated 3D Ultrasound Biometry Planes Extraction for First Trimester Fetal Assessment.","venue":"MLMI@MICCAI","pages":"196-204","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/RyouYCRPN16","doi":"10.1007/978-3-319-47157-0_24","ee":"https://doi.org/10.1007/978-3-319-47157-0_24","url":"https://dblp.org/rec/conf/miccai/RyouYCRPN16"},
+"url":"URL#4112151"
+},
+{
+"@score":"1",
+"@id":"4112155",
+"info":{"authors":{"author":[{"@pid":"98/1638","text":"Gerard Sanroma"},{"@pid":"147/3416","text":"Oualid M. Benkarim"},{"@pid":"85/5508","text":"Gemma Piella"},{"@pid":"341/5647","text":"Miguel Ángel González Ballester"}]},"title":"Building an Ensemble of Complementary Segmentation Methods by Exploiting Probabilistic Estimates.","venue":"MLMI@MICCAI","pages":"27-35","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SanromaBPB16","doi":"10.1007/978-3-319-47157-0_4","ee":"https://doi.org/10.1007/978-3-319-47157-0_4","url":"https://dblp.org/rec/conf/miccai/SanromaBPB16"},
+"url":"URL#4112155"
+},
+{
+"@score":"1",
+"@id":"4112184",
+"info":{"authors":{"author":[{"@pid":"90/5988","text":"Heung-Il Suk"},{"@pid":"14/4383","text":"Dinggang Shen"}]},"title":"Deep Ensemble Sparse Regression Network for Alzheimer&apos;s Disease Diagnosis.","venue":"MLMI@MICCAI","pages":"113-121","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/SukS16","doi":"10.1007/978-3-319-47157-0_14","ee":"https://doi.org/10.1007/978-3-319-47157-0_14","url":"https://dblp.org/rec/conf/miccai/SukS16"},
+"url":"URL#4112184"
+},
+{
+"@score":"1",
+"@id":"4112193",
+"info":{"authors":{"author":[{"@pid":"187/2828","text":"Loïc Tetrel"},{"@pid":"187/2914","text":"Hacène Chebrek"},{"@pid":"38/3425","text":"Catherine Laporte"}]},"title":"Learning for Graph-Based Sensorless Freehand 3D Ultrasound.","venue":"MLMI@MICCAI","pages":"205-212","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/TetrelCL16","doi":"10.1007/978-3-319-47157-0_25","ee":"https://doi.org/10.1007/978-3-319-47157-0_25","url":"https://dblp.org/rec/conf/miccai/TetrelCL16"},
+"url":"URL#4112193"
+},
+{
+"@score":"1",
+"@id":"4112196",
+"info":{"authors":{"author":[{"@pid":"168/5513","text":"Jessie Thomson"},{"@pid":"162/5255","text":"Terence O&apos;Neill"},{"@pid":"168/5539","text":"David Felson"},{"@pid":"22/4959","text":"Timothy F. Cootes"}]},"title":"Detecting Osteophytes in Radiographs of the Knee to Diagnose Osteoarthritis.","venue":"MLMI@MICCAI","pages":"45-52","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ThomsonOFC16","doi":"10.1007/978-3-319-47157-0_6","ee":"https://doi.org/10.1007/978-3-319-47157-0_6","url":"https://dblp.org/rec/conf/miccai/ThomsonOFC16"},
+"url":"URL#4112196"
+},
+{
+"@score":"1",
+"@id":"4112203",
+"info":{"authors":{"author":[{"@pid":"187/2990","text":"Alexia Tzalavra"},{"@pid":"48/9570","text":"Kalliopi Dalakleidi"},{"@pid":"47/6145","text":"Evangelia I. Zacharaki"},{"@pid":"64/108","text":"Nikolaos N. Tsiaparas"},{"@pid":"187/2680","text":"Fotios Constantinidis"},{"@pid":"p/NikosParagios","text":"Nikos Paragios"},{"@pid":"43/5583","text":"Konstantina S. Nikita"}]},"title":"Comparison of Multi-resolution Analysis Patterns for Texture Classification of Breast Tumors Based on DCE-MRI.","venue":"MLMI@MICCAI","pages":"296-304","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/TzalavraDZTCPN16","doi":"10.1007/978-3-319-47157-0_36","ee":"https://doi.org/10.1007/978-3-319-47157-0_36","url":"https://dblp.org/rec/conf/miccai/TzalavraDZTCPN16"},
+"url":"URL#4112203"
+},
+{
+"@score":"1",
+"@id":"4112212",
+"info":{"authors":{"author":[{"@pid":"59/2227-15","text":"Yan Wang 0015"},{"@pid":"37/4465-4","text":"Xi Wu 0004"},{"@pid":"150/7117","text":"Guangkai Ma"},{"@pid":"187/2711","text":"Zongqing Ma"},{"@pid":"89/1229-3","text":"Ying Fu 0003"},{"@pid":"79/1420","text":"Jiliu Zhou"}]},"title":"Patch-Based Hippocampus Segmentation Using a Local Subspace Learning Method.","venue":"MLMI@MICCAI","pages":"86-94","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/Wang0MMFZ16","doi":"10.1007/978-3-319-47157-0_11","ee":"https://doi.org/10.1007/978-3-319-47157-0_11","url":"https://dblp.org/rec/conf/miccai/Wang0MMFZ16"},
+"url":"URL#4112212"
+},
+{
+"@score":"1",
+"@id":"4112215",
+"info":{"authors":{"author":[{"@pid":"63/6244","text":"Liansheng Wang"},{"@pid":"76/1710","text":"Shusheng Li"},{"@pid":"40/1106","text":"Yiping Chen"},{"@pid":"187/2934","text":"Jiankun Lin"},{"@pid":"13/7834","text":"Changhua Liu"}]},"title":"Structure Fusion for Automatic Segmentation of Left Atrial Aneurysm Based on Deep Residual Networks.","venue":"MLMI@MICCAI","pages":"262-270","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WangLCLL16","doi":"10.1007/978-3-319-47157-0_32","ee":"https://doi.org/10.1007/978-3-319-47157-0_32","url":"https://dblp.org/rec/conf/miccai/WangLCLL16"},
+"url":"URL#4112215"
+},
+{
+"@score":"1",
+"@id":"4112216",
+"info":{"authors":{"author":[{"@pid":"w/LeiWang79","text":"Lei Wang 0079"},{"@pid":"60/7723","text":"Danping Li"},{"@pid":"96/7622","text":"Tiancheng He"},{"@pid":"51/5211","text":"Stephen T. C. Wong"},{"@pid":"52/4733","text":"Zhong Xue"}]},"title":"Transductive Maximum Margin Classification of ADHD Using Resting State fMRI.","venue":"MLMI@MICCAI","pages":"221-228","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WangLHWX16","doi":"10.1007/978-3-319-47157-0_27","ee":"https://doi.org/10.1007/978-3-319-47157-0_27","url":"https://dblp.org/rec/conf/miccai/WangLHWX16"},
+"url":"URL#4112216"
+},
+{
+"@score":"1",
+"@id":"4112229",
+"info":{"authors":{"author":[{"@pid":"32/8489","text":"Lifang Wei"},{"@pid":"137/7302","text":"Shunbo Hu"},{"@pid":"118/9834","text":"Yaozong Gao"},{"@pid":"178/4484","text":"Xiaohuan Cao"},{"@pid":"03/5225-1","text":"Guorong Wu 0001"},{"@pid":"14/4383","text":"Dinggang Shen"}]},"title":"Learning Appearance and Shape Evolution for Infant Image Registration in the First Year of Life.","venue":"MLMI@MICCAI","pages":"36-44","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WeiHGCWS16","doi":"10.1007/978-3-319-47157-0_5","ee":"https://doi.org/10.1007/978-3-319-47157-0_5","url":"https://dblp.org/rec/conf/miccai/WeiHGCWS16"},
+"url":"URL#4112229"
+},
+{
+"@score":"1",
+"@id":"4112236",
+"info":{"authors":{"author":[{"@pid":"35/8016","text":"Zhengwang Wu"},{"@pid":"118/9834","text":"Yaozong Gao"},{"@pid":"06/468-01","text":"Feng Shi 0001"},{"@pid":"57/10749","text":"Valerie Jewells"},{"@pid":"14/4383","text":"Dinggang Shen"}]},"title":"Automatic Hippocampal Subfield Segmentation from 3T Multi-modality Images.","venue":"MLMI@MICCAI","pages":"229-236","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WuGSJS16","doi":"10.1007/978-3-319-47157-0_28","ee":"https://doi.org/10.1007/978-3-319-47157-0_28","url":"https://dblp.org/rec/conf/miccai/WuGSJS16"},
+"url":"URL#4112236"
+},
+{
+"@score":"1",
+"@id":"4112237",
+"info":{"authors":{"author":[{"@pid":"35/8016","text":"Zhengwang Wu"},{"@pid":"45/2752-4","text":"Sang Hyun Park 0004"},{"@pid":"122/3196","text":"Yanrong Guo"},{"@pid":"118/9834","text":"Yaozong Gao"},{"@pid":"14/4383","text":"Dinggang Shen"}]},"title":"Regression Guided Deformable Models for Segmentation of Multiple Brain ROIs.","venue":"MLMI@MICCAI","pages":"237-245","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WuPGGS16","doi":"10.1007/978-3-319-47157-0_29","ee":"https://doi.org/10.1007/978-3-319-47157-0_29","url":"https://dblp.org/rec/conf/miccai/WuPGGS16"},
+"url":"URL#4112237"
+},
+{
+"@score":"1",
+"@id":"4112238",
+"info":{"authors":{"author":[{"@pid":"187/2927","text":"Jinjie Wu"},{"@pid":"31/626-4","text":"Jun Shi 0004"},{"@pid":"52/2125","text":"Shihui Ying"},{"@pid":"52/323-3","text":"Qi Zhang 0003"},{"@pid":"87/660-66","text":"Yan Li 0066"}]},"title":"Learning Representation for Histopathological Image with Quaternion Grassmann Average Network.","venue":"MLMI@MICCAI","pages":"122-129","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/WuSYZL16","doi":"10.1007/978-3-319-47157-0_15","ee":"https://doi.org/10.1007/978-3-319-47157-0_15","url":"https://dblp.org/rec/conf/miccai/WuSYZL16"},
+"url":"URL#4112238"
+},
+{
+"@score":"1",
+"@id":"4112256",
+"info":{"authors":{"author":[{"@pid":"13/1520","text":"Xi Yang"},{"@pid":"76/289-1","text":"Yan Jin 0001"},{"@pid":"21/4778-1","text":"Xiaobo Chen 0001"},{"@pid":"26/4189-2","text":"Han Zhang 0002"},{"@pid":"62/2655-1","text":"Gang Li 0001"},{"@pid":"14/4383","text":"Dinggang Shen"}]},"title":"Functional Connectivity Network Fusion with Dynamic Thresholding for MCI Diagnosis.","venue":"MLMI@MICCAI","pages":"246-253","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/YangJCZLS16","doi":"10.1007/978-3-319-47157-0_30","ee":"https://doi.org/10.1007/978-3-319-47157-0_30","url":"https://dblp.org/rec/conf/miccai/YangJCZLS16"},
+"url":"URL#4112256"
+},
+{
+"@score":"1",
+"@id":"4112266",
+"info":{"authors":{"author":[{"@pid":"166/2528","text":"Renping Yu"},{"@pid":"85/5947","text":"Minghui Deng"},{"@pid":"93/5188","text":"Pew-Thian Yap"},{"@pid":"20/5142","text":"Zhihui Wei"},{"@pid":"58/6810-26","text":"Li Wang 0026"},{"@pid":"14/4383","text":"Dinggang Shen"}]},"title":"Learning-Based 3T Brain MRI Segmentation with Guidance from 7T MRI Labeling.","venue":"MLMI@MICCAI","pages":"213-220","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/YuDYW0S16","doi":"10.1007/978-3-319-47157-0_26","ee":"https://doi.org/10.1007/978-3-319-47157-0_26","url":"https://dblp.org/rec/conf/miccai/YuDYW0S16"},
+"url":"URL#4112266"
+},
+{
+"@score":"1",
+"@id":"4112273",
+"info":{"authors":{"author":[{"@pid":"29/4190-18","text":"Jun Zhang 0018"},{"@pid":"118/9834","text":"Yaozong Gao"},{"@pid":"45/2752-4","text":"Sang Hyun Park 0004"},{"@pid":"48/10747","text":"Xiaopeng Zong"},{"@pid":"98/3393","text":"Weili Lin"},{"@pid":"14/4383","text":"Dinggang Shen"}]},"title":"Segmentation of Perivascular Spaces Using Vascular Features and Structured Random Forest from 7T MR Image.","venue":"MLMI@MICCAI","pages":"61-68","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ZhangGPZLS16","doi":"10.1007/978-3-319-47157-0_8","ee":"https://doi.org/10.1007/978-3-319-47157-0_8","url":"https://dblp.org/rec/conf/miccai/ZhangGPZLS16"},
+"url":"URL#4112273"
+},
+{
+"@score":"1",
+"@id":"4112285",
+"info":{"authors":{"author":[{"@pid":"94/2820","text":"Xiao Zheng"},{"@pid":"31/626-4","text":"Jun Shi 0004"},{"@pid":"52/2125","text":"Shihui Ying"},{"@pid":"52/323-3","text":"Qi Zhang 0003"},{"@pid":"87/660-66","text":"Yan Li 0066"}]},"title":"Improving Single-Modal Neuroimaging Based Diagnosis of Brain Disorders via Boosted Privileged Information Learning Framework.","venue":"MLMI@MICCAI","pages":"95-103","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ZhengSYZL16","doi":"10.1007/978-3-319-47157-0_12","ee":"https://doi.org/10.1007/978-3-319-47157-0_12","url":"https://dblp.org/rec/conf/miccai/ZhengSYZL16"},
+"url":"URL#4112285"
+},
+{
+"@score":"1",
+"@id":"4112291",
+"info":{"authors":{"author":[{"@pid":"60/4671-1","text":"Xiaofeng Zhu 0001"},{"@pid":"90/5988","text":"Heung-Il Suk"},{"@pid":"13/1611","text":"Kim-Han Thung"},{"@pid":"40/5552-4","text":"Yingying Zhu 0004"},{"@pid":"03/5225-1","text":"Guorong Wu 0001"},{"@pid":"14/4383","text":"Dinggang Shen"}]},"title":"Joint Discriminative and Representative Feature Selection for Alzheimer&apos;s Disease Diagnosis.","venue":"MLMI@MICCAI","pages":"77-85","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ZhuSTZWS16","doi":"10.1007/978-3-319-47157-0_10","ee":"https://doi.org/10.1007/978-3-319-47157-0_10","url":"https://dblp.org/rec/conf/miccai/ZhuSTZWS16"},
+"url":"URL#4112291"
+},
+{
+"@score":"1",
+"@id":"4112292",
+"info":{"authors":{"author":[{"@pid":"60/4671-1","text":"Xiaofeng Zhu 0001"},{"@pid":"13/1611","text":"Kim-Han Thung"},{"@pid":"29/4190-18","text":"Jun Zhang 0018"},{"@pid":"14/4383","text":"Dinggang Shen"}]},"title":"Fast Neuroimaging-Based Retrieval for Alzheimer&apos;s Disease Analysis.","venue":"MLMI@MICCAI","pages":"313-321","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ZhuTZS16","doi":"10.1007/978-3-319-47157-0_38","ee":"https://doi.org/10.1007/978-3-319-47157-0_38","url":"https://dblp.org/rec/conf/miccai/ZhuTZS16"},
+"url":"URL#4112292"
+},
+{
+"@score":"1",
+"@id":"4112296",
+"info":{"authors":{"author":[{"@pid":"129/8187","text":"Chen Zu"},{"@pid":"33/3099-2","text":"Yue Gao 0002"},{"@pid":"91/2134","text":"Brent C. Munsell"},{"@pid":"47/3680","text":"Minjeong Kim"},{"@pid":"134/9762","text":"Zi-Wen Peng"},{"@pid":"40/5552-4","text":"Yingying Zhu 0004"},{"@pid":"28/2073","text":"Wei Gao"},{"@pid":"03/2763","text":"Daoqiang Zhang"},{"@pid":"14/4383","text":"Dinggang Shen"},{"@pid":"03/5225-1","text":"Guorong Wu 0001"}]},"title":"Identifying High Order Brain Connectome Biomarkers via Learning on Hypergraph.","venue":"MLMI@MICCAI","pages":"1-9","year":"2016","type":"Conference and Workshop Papers","access":"closed","key":"conf/miccai/ZuGMKPZGZSW16","doi":"10.1007/978-3-319-47157-0_1","ee":"https://doi.org/10.1007/978-3-319-47157-0_1","url":"https://dblp.org/rec/conf/miccai/ZuGMKPZGZSW16"},
+"url":"URL#4112296"
+},
+{
+"@score":"1",
+"@id":"4160773",
+"info":{"authors":{"author":[{"@pid":"58/6810-26","text":"Li Wang 0026"},{"@pid":"93/2941","text":"Ehsan Adeli 0001"},{"@pid":"75/5723-1","text":"Qian Wang 0001"},{"@pid":"30/7184","text":"Yinghuan Shi"},{"@pid":"90/5988","text":"Heung-Il Suk"}]},"title":"Machine Learning in Medical Imaging - 7th International Workshop, MLMI 2016, Held in Conjunction with MICCAI 2016, Athens, Greece, October 17, 2016, Proceedings","venue":["MLMI@MICCAI","Lecture Notes in Computer Science"],"volume":"10019","year":"2016","type":"Editorship","key":"conf/miccai/2016mlmi","doi":"10.1007/978-3-319-47157-0","ee":"https://doi.org/10.1007/978-3-319-47157-0","url":"https://dblp.org/rec/conf/miccai/2016mlmi"},
+"url":"URL#4160773"
+}
+]
+}
+}
+}

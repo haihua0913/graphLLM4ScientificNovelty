@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Chemical space,parallel measurements,0.4113,1.0851
+Bayesian optimization,Chemical space,0.1448,1.3078
+Bayesian optimization,parallel measurements,0.1096,1.3344
+Bayesian optimization,high-throughput screening,0.0199,1.4001
+high-throughput screening,parallel measurements,0.1031,1.3393
+Bayesian optimization,Thompson sampling,0.1109,1.3335
+Bayesian optimization,parallel and distributed implementation,0.2247,1.2452
+Thompson sampling,parallel measurements,-0.1661,1.5271
+parallel and distributed implementation,parallel measurements,0.9279,0.3798
+Thompson sampling,high-throughput screening,-0.2299,1.5684
+Thompson sampling,parallel and distributed implementation,0.0163,1.4026
+high-throughput screening,parallel and distributed implementation,-0.019,1.4276
+parallel expected improvement,parallel measurements,-0.0202,1.4285
+Thompson sampling,parallel expected improvement,0.0962,1.3444
+high-throughput screening,parallel expected improvement,0.2224,1.2471
+parallel and distributed implementation,parallel expected improvement,0.0912,1.3482
+Thompson sampling,scalable baselines,-0.0625,1.4578
+parallel expected improvement,scalable baselines,-0.2929,1.608
+parallel and distributed implementation,scalable baselines,0.6194,0.8725
+large-scale parallel BO,parallel expected improvement,0.0848,1.3529
+large-scale parallel BO,scalable baselines,0.6735,0.8081

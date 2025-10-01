@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Semantic instance segmentation,discriminative loss function,-0.0479,1.4477
+Semantic instance segmentation,convolutional network,-0.0807,1.4702
+Semantic instance segmentation,clustered into instances,-0.024,1.4311
+convolutional network,discriminative loss function,0.989,0.1481
+clustered into instances,discriminative loss function,-0.107,1.4879
+clustered into instances,convolutional network,-0.1444,1.5129
+Semantic instance segmentation,real-time applications,-0.2825,1.6015
+discriminative loss function,real-time applications,-0.2037,1.5516
+convolutional network,real-time applications,-0.1901,1.5428
+clustered into instances,real-time applications,-0.0501,1.4492
+discriminative loss function,object proposals,0.984,0.179
+complex occlusions,discriminative loss function,0.9804,0.1978
+convolutional network,object proposals,0.9798,0.201
+complex occlusions,convolutional network,0.9786,0.2071
+clustered into instances,object proposals,-0.1923,1.5442
+clustered into instances,complex occlusions,-0.0519,1.4504
+object proposals,real-time applications,-0.1083,1.4889
+complex occlusions,real-time applications,-0.239,1.5741
+complex occlusions,object proposals,0.9691,0.2487
+Cityscapes segmentation benchmark,object proposals,-0.2191,1.5615
+Cityscapes segmentation benchmark,complex occlusions,-0.3191,1.6243

@@ -1,0 +1,19 @@
+node1,node2,similarity,distance
+Sentence Compression,paraphrases,0.1849,1.2768
+Sentence Compression,automatic extraction,0.9228,0.393
+automatic extraction,paraphrases,0.0296,1.3931
+Sentence Compression,clustering,0.3,1.1832
+Sentence Compression,rewriting rules,-0.2813,1.6008
+clustering,paraphrases,-0.0559,1.4532
+paraphrases,rewriting rules,0.1004,1.3414
+automatic extraction,clustering,0.0052,1.4105
+automatic extraction,rewriting rules,-0.0998,1.4831
+clustering,rewriting rules,-0.1697,1.5295
+paraphrases,pattern identification,0.2365,1.2357
+automatic extraction,pattern identification,0.1102,1.334
+clustering,pattern identification,-0.4468,1.701
+pattern identification,rewriting rules,0.3578,1.1333
+pairwise paraphrase alignment,paraphrases,-0.3198,1.6247
+clustering,pairwise paraphrase alignment,0.0797,1.3567
+pairwise paraphrase alignment,rewriting rules,-0.4299,1.6911
+pairwise paraphrase alignment,pattern identification,0.0198,1.4001

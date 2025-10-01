@@ -1,0 +1,31 @@
+node1,node2,similarity,distance
+geometry of the scene,objects,-0.069,1.4622
+camera pose,objects,-0.0052,1.4179
+3D locations,objects,0.9884,0.1526
+objects,semi-calibrated images,-0.0161,1.4255
+camera pose,geometry of the scene,0.7562,0.6982
+3D locations,geometry of the scene,-0.049,1.4484
+geometry of the scene,semi-calibrated images,-0.0505,1.4495
+3D locations,camera pose,0.0652,1.3673
+camera pose,semi-calibrated images,-0.1181,1.4954
+3D locations,semi-calibrated images,-0.0345,1.4384
+object class labels,objects,0.2427,1.2307
+correlations,objects,-0.0017,1.4154
+geometry of the scene,object class labels,0.7436,0.716
+correlations,geometry of the scene,-0.0199,1.4282
+camera pose,object class labels,0.8806,0.4887
+camera pose,correlations,-0.1248,1.4999
+3D locations,object class labels,0.2823,1.1981
+3D locations,correlations,0.0382,1.387
+object class labels,semi-calibrated images,0.0176,1.4017
+correlations,semi-calibrated images,-0.1388,1.5092
+correlations,object class labels,-0.0074,1.4195
+Ford Car dataset,objects,0.097,1.3439
+2D and 3D object detection,objects,-0.0081,1.4199
+Ford Car dataset,camera pose,0.0982,1.343
+2D and 3D object detection,camera pose,-0.2208,1.5626
+Ford Car dataset,object class labels,-0.0905,1.4768
+2D and 3D object detection,object class labels,-0.0939,1.4791
+Ford Car dataset,correlations,0.0553,1.3746
+2D and 3D object detection,correlations,0.9673,0.2559
+2D and 3D object detection,Ford Car dataset,-0.0959,1.4805

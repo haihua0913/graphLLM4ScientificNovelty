@@ -1,0 +1,26 @@
+node1,node2,similarity,distance
+SplineNets,runtime complexity,-0.1691,1.5291
+SplineNets,computation costs,-0.3212,1.6256
+computation costs,runtime complexity,0.9792,0.2041
+SplineNets,dynamic,0.9394,0.3481
+SplineNets,hierarchical,0.9634,0.2704
+dynamic,runtime complexity,-0.1159,1.4939
+hierarchical,runtime complexity,-0.1267,1.5011
+computation costs,dynamic,-0.2732,1.5958
+computation costs,hierarchical,-0.2646,1.5903
+dynamic,hierarchical,0.875,0.5001
+SplineNets,smoothness,0.3738,1.1191
+SplineNets,sparse activation,-0.101,1.4839
+runtime complexity,smoothness,-0.2692,1.5933
+runtime complexity,sparse activation,-0.2831,1.6019
+computation costs,smoothness,-0.2595,1.5871
+computation costs,sparse activation,-0.2922,1.6076
+dynamic,smoothness,0.1494,1.3043
+dynamic,sparse activation,-0.1525,1.5182
+hierarchical,smoothness,0.3478,1.1421
+hierarchical,sparse activation,0.0538,1.3757
+smoothness,sparse activation,-0.0959,1.4805
+B-splines,SplineNets,0.1885,1.274
+B-splines,smoothness,0.4068,1.0892
+B-splines,sparse activation,-0.1451,1.5133
+B-splines,mutual information,-0.3921,1.6686

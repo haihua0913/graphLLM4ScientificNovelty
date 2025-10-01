@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Arabic,general morphological tagging,0.6186,0.8734
+Arabic,diacritization,0.6739,0.8076
+Arabic,lemmatization,0.3383,1.1504
+Arabic,lexeme,0.5596,0.9385
+Arabic,individual classifiers,0.4292,1.0685
+Arabic,performance,0.3849,1.1091
+diacritization,general morphological tagging,0.9621,0.2755
+general morphological tagging,lemmatization,0.8085,0.6189
+general morphological tagging,lexeme,0.8936,0.4612
+general morphological tagging,individual classifiers,0.8014,0.6302
+general morphological tagging,performance,0.7804,0.6627
+diacritization,lemmatization,0.8117,0.6137
+diacritization,lexeme,0.9105,0.423
+diacritization,individual classifiers,0.7923,0.6446
+diacritization,performance,0.7397,0.7215
+lemmatization,lexeme,0.8739,0.5022
+individual classifiers,lemmatization,0.9587,0.2872
+lemmatization,performance,0.9345,0.362
+individual classifiers,lexeme,0.9113,0.4212
+lexeme,performance,0.8795,0.491
+individual classifiers,performance,0.9844,0.1764

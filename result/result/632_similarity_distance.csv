@@ -1,0 +1,40 @@
+node1,node2,similarity,distance
+high-dimensional data,supervised learning,0.0802,1.3563
+accuracy,supervised learning,-0.1225,1.4983
+AUC,supervised learning,0.1809,1.2799
+squared loss,supervised learning,-0.2362,1.5724
+dimensionality,supervised learning,-0.1853,1.5397
+learning algorithms,supervised learning,-0.134,1.506
+accuracy,high-dimensional data,-0.1908,1.5432
+AUC,high-dimensional data,-0.2673,1.592
+high-dimensional data,squared loss,-0.2301,1.5685
+dimensionality,high-dimensional data,-0.3691,1.6547
+high-dimensional data,learning algorithms,-0.095,1.4798
+AUC,accuracy,0.1028,1.3396
+accuracy,squared loss,-0.1502,1.5167
+accuracy,dimensionality,-0.1317,1.5045
+accuracy,learning algorithms,-0.25,1.5811
+AUC,squared loss,0.8434,0.5596
+AUC,dimensionality,0.8601,0.529
+AUC,learning algorithms,-0.2448,1.5779
+dimensionality,squared loss,0.9808,0.196
+learning algorithms,squared loss,-0.0259,1.4324
+dimensionality,learning algorithms,0.0442,1.3826
+accuracy,random forests,-0.1534,1.5188
+accuracy,neural nets,-0.1455,1.5136
+SVMs,accuracy,-0.177,1.5343
+AUC,random forests,0.1869,1.2752
+AUC,neural nets,0.1568,1.2986
+AUC,SVMs,0.2124,1.255
+random forests,squared loss,-0.2197,1.5619
+neural nets,squared loss,-0.2552,1.5844
+SVMs,squared loss,-0.1936,1.5451
+dimensionality,random forests,-0.1701,1.5298
+dimensionality,neural nets,-0.2058,1.5529
+SVMs,dimensionality,-0.1199,1.4966
+learning algorithms,random forests,-0.1081,1.4887
+learning algorithms,neural nets,-0.1326,1.5051
+SVMs,learning algorithms,-0.0922,1.4779
+neural nets,random forests,0.9986,0.0521
+SVMs,random forests,0.9872,0.1597
+SVMs,neural nets,0.9874,0.1591

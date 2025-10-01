@@ -1,0 +1,17 @@
+node1,node2,similarity,distance
+grammatical,salient pieces of information,-0.4029,1.6751
+algorithms,grammatical,-0.4389,1.6964
+algorithms,salient pieces of information,-0.2176,1.5605
+grammatical,sentence compression,0.2267,1.2436
+salient pieces of information,sentence compression,-0.2597,1.5872
+algorithms,sentence compression,-0.3357,1.6344
+grammatical,noisy-channel,-0.275,1.5969
+decision-tree,grammatical,-0.1859,1.5401
+grammatical,manual compressions,-0.1311,1.5041
+baseline,grammatical,0.9773,0.213
+decision-tree,noisy-channel,-0.1178,1.4952
+manual compressions,noisy-channel,-0.0657,1.4599
+baseline,noisy-channel,-0.2592,1.587
+decision-tree,manual compressions,-0.0731,1.465
+baseline,decision-tree,-0.1164,1.4943
+baseline,manual compressions,-0.0242,1.4312

@@ -1,0 +1,28 @@
+node1,node2,similarity,distance
+evolutionary game theory,multi-agent learning algorithms,0.71,0.7615
+evolutionary game theory,extensive-form games,-0.161,1.5238
+extensive-form games,multi-agent learning algorithms,0.262,1.2149
+evolutionary game theory,sequence form,-0.3304,1.6312
+evolutionary game theory,normal-form logit dynamic,-0.3709,1.6558
+agent-form replicator dynamic,evolutionary game theory,-0.1143,1.4929
+agent-form logit dynamic,evolutionary game theory,-0.1711,1.5304
+multi-agent learning algorithms,sequence form,-0.2363,1.5725
+multi-agent learning algorithms,normal-form logit dynamic,0.1864,1.2756
+agent-form replicator dynamic,multi-agent learning algorithms,0.4169,1.0799
+agent-form logit dynamic,multi-agent learning algorithms,0.2628,1.2142
+extensive-form games,sequence form,-0.0428,1.4442
+extensive-form games,normal-form logit dynamic,0.9303,0.3733
+agent-form replicator dynamic,extensive-form games,0.9503,0.3152
+agent-form logit dynamic,extensive-form games,0.9732,0.2317
+normal-form logit dynamic,sequence form,-0.0147,1.4246
+agent-form replicator dynamic,sequence form,0.0031,1.412
+agent-form logit dynamic,sequence form,-0.0256,1.4322
+agent-form replicator dynamic,normal-form logit dynamic,0.9063,0.4329
+agent-form logit dynamic,normal-form logit dynamic,0.8992,0.4489
+agent-form logit dynamic,agent-form replicator dynamic,0.9273,0.3813
+evolutionary game theory,exponential compression,-0.2821,1.6013
+exponential compression,extensive-form games,0.9825,0.1873
+exponential compression,sequence form,-0.0138,1.424
+exponential compression,normal-form logit dynamic,0.9282,0.379
+agent-form replicator dynamic,exponential compression,0.9551,0.2998
+agent-form logit dynamic,exponential compression,0.9693,0.248

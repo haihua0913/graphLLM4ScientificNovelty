@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+image modeling,recurrent variational auto-encoder,0.195,1.2688
+latent variable models,recurrent variational auto-encoder,0.068,1.3653
+ImageNet,recurrent variational auto-encoder,0.0892,1.3496
+Omniglot,recurrent variational auto-encoder,-0.4116,1.6802
+image modeling,latent variable models,-0.1732,1.5318
+ImageNet,image modeling,-0.3485,1.6423
+Omniglot,image modeling,-0.8722,1.9351
+ImageNet,latent variable models,0.9364,0.3567
+Omniglot,latent variable models,0.0146,1.4038
+ImageNet,Omniglot,0.2806,1.1995
+global conceptual information,recurrent variational auto-encoder,0.7841,0.6571
+global conceptual information,image modeling,-0.301,1.6131
+global conceptual information,latent variable models,0.0209,1.3994
+ImageNet,global conceptual information,0.1084,1.3354
+Omniglot,global conceptual information,0.024,1.3972
+conceptual compression,latent variable models,-0.0342,1.4382
+ImageNet,conceptual compression,0.0643,1.368
+Omniglot,conceptual compression,0.2493,1.2253
+conceptual compression,global conceptual information,0.6396,0.849

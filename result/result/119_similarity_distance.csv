@@ -1,0 +1,33 @@
+node1,node2,similarity,distance
+cooperative multiagent systems,social welfare,-0.2,1.5492
+cooperative multiagent systems,utility function,-0.213,1.5575
+communication,cooperative multiagent systems,-0.297,1.6106
+social welfare,utility function,0.7148,0.7553
+communication,social welfare,0.9692,0.2483
+communication,utility function,0.734,0.7294
+cooperative multiagent systems,voting rule,-0.0565,1.4536
+social welfare,voting rule,-0.1397,1.5097
+utility function,voting rule,-0.6242,1.8023
+communication,voting rule,-0.0684,1.4618
+embeddings,social welfare,0.4912,1.0088
+embeddings,utility function,0.3984,1.0969
+communication,embeddings,0.4678,1.0317
+embeddings,voting rule,0.0549,1.3749
+randomized embeddings,social welfare,0.4601,1.0392
+randomized embeddings,utility function,0.5603,0.9378
+communication,randomized embeddings,0.4277,1.0698
+randomized embeddings,voting rule,-0.2554,1.5846
+embeddings,randomized embeddings,0.9442,0.3341
+Plurality,utility function,0.4655,1.0339
+Approval,utility function,-0.0747,1.4661
+Plurality,communication,0.3219,1.1646
+Approval,communication,0.0224,1.3983
+Plurality,embeddings,0.938,0.3522
+Approval,embeddings,0.165,1.2923
+Plurality,randomized embeddings,0.9913,0.1321
+Approval,randomized embeddings,0.1463,1.3067
+Approval,Plurality,0.1954,1.2685
+cooperative multiagent systems,embeddings,0.471,1.0286
+cooperative multiagent systems,randomized embeddings,0.4827,1.0172
+Plurality,cooperative multiagent systems,0.5544,0.944
+Approval,cooperative multiagent systems,0.4134,1.0832

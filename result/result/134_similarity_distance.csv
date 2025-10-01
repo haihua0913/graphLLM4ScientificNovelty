@@ -1,0 +1,23 @@
+node1,node2,similarity,distance
+optimal solution,time-consistency,0.8338,0.5765
+optimal policy,time-consistency,0.9729,0.2329
+rational,time-consistency,-0.1325,1.505
+optimal policy,optimal solution,0.7989,0.6342
+optimal solution,rational,0.3228,1.1638
+optimal policy,rational,-0.2263,1.5661
+time-consistency,time-inconsistent,0.8116,0.6139
+optimal solution,time-inconsistent,0.7342,0.7291
+optimal policy,time-inconsistent,0.7111,0.7602
+rational,time-inconsistent,-0.0936,1.4789
+objective function,time-consistency,-0.3585,1.6483
+constraints,time-consistency,-0.0237,1.4309
+objective function,time-inconsistent,-0.2167,1.5599
+constraints,time-inconsistent,0.1434,1.3089
+objective function,rational,0.9132,0.4166
+constraints,rational,0.952,0.3099
+constraints,objective function,0.8516,0.5447
+objective function,stochastic settings,0.3328,1.1551
+objective function,risk measure,-0.1594,1.5228
+constraints,stochastic settings,0.1809,1.2799
+constraints,risk measure,0.0305,1.3925
+risk measure,stochastic settings,-0.2992,1.612

@@ -1,0 +1,21 @@
+node1,node2,similarity,distance
+low dimensional representation,network embedding,-0.392,1.6685
+generative adversarial networks,network embedding,-0.1687,1.5288
+GAN,network embedding,-0.1142,1.4928
+generative adversarial networks,low dimensional representation,0.0493,1.3789
+GAN,low dimensional representation,0.4464,1.0523
+GAN,generative adversarial networks,0.0415,1.3845
+Gaussian distribution,network embedding,-0.4373,1.6955
+Gaussian distribution,low dimensional representation,0.9624,0.2743
+Gaussian distribution,generative adversarial networks,0.03,1.3929
+GAN,Gaussian distribution,0.3968,1.0984
+network embedding,representation mechanism,-0.421,1.6858
+GAN,representation mechanism,-0.0154,1.4251
+Gaussian distribution,representation mechanism,0.0667,1.3662
+GAN,autoencoder,-0.3446,1.6399
+autoencoder,representation mechanism,-0.0378,1.4407
+mutual information,representation mechanism,-0.117,1.4947
+autoencoder,mutual information,-0.3473,1.6415
+GAN,mutual information,0.1365,1.3142
+GAN,empirical results,0.2442,1.2295
+empirical results,mutual information,0.9621,0.2753

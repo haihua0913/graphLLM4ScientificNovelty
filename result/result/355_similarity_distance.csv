@@ -1,0 +1,15 @@
+node1,node2,similarity,distance
+global context dependencies,quadratic complexity,-0.324,1.6273
+efficient Transformer architecture,global context dependencies,-0.0414,1.4432
+Fourier Sparse Attention for Transformer,global context dependencies,-0.5059,1.7355
+fast long-range sequence modeling,global context dependencies,0.9098,0.4247
+efficient Transformer architecture,quadratic complexity,-0.2648,1.5905
+Fourier Sparse Attention for Transformer,quadratic complexity,-0.0946,1.4796
+fast long-range sequence modeling,quadratic complexity,-0.3146,1.6215
+Fourier Sparse Attention for Transformer,efficient Transformer architecture,0.7276,0.7381
+efficient Transformer architecture,fast long-range sequence modeling,-0.038,1.4408
+Fourier Sparse Attention for Transformer,fast long-range sequence modeling,-0.365,1.6523
+efficient Transformer architecture,sparse attention matrix,0.1942,1.2695
+Fourier Sparse Attention for Transformer,sparse attention matrix,0.6167,0.8755
+fast long-range sequence modeling,sparse attention matrix,-0.1616,1.5242
+fast Fourier transform,sparse attention matrix,0.2015,1.2637

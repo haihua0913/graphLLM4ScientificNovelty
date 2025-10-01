@@ -1,0 +1,29 @@
+node1,node2,similarity,distance
+lowrank subspaces,subspace clustering,-0.3704,1.6555
+Sparse Subspace Clustering,subspace clustering,-0.2355,1.572
+random projection,subspace clustering,0.933,0.3661
+Sparse Subspace Clustering,lowrank subspaces,0.7096,0.7621
+lowrank subspaces,random projection,-0.3406,1.6375
+Sparse Subspace Clustering,random projection,-0.1581,1.5219
+subspace clustering,subspace embedding,-0.3084,1.6176
+Gaussian projection,subspace clustering,-0.18,1.5362
+subspace clustering,uniform row sampling,-0.0164,1.4258
+FJLT,subspace clustering,0.0291,1.3935
+lowrank subspaces,subspace embedding,0.7059,0.7669
+Gaussian projection,lowrank subspaces,0.862,0.5254
+lowrank subspaces,uniform row sampling,0.5318,0.9676
+FJLT,lowrank subspaces,0.4811,1.0187
+Sparse Subspace Clustering,subspace embedding,0.9628,0.2728
+Gaussian projection,Sparse Subspace Clustering,0.8771,0.4957
+Sparse Subspace Clustering,uniform row sampling,0.1975,1.2669
+FJLT,Sparse Subspace Clustering,0.1903,1.2726
+random projection,subspace embedding,-0.1666,1.5275
+Gaussian projection,random projection,-0.1154,1.4936
+random projection,uniform row sampling,0.0618,1.3698
+FJLT,random projection,0.1087,1.3351
+Gaussian projection,subspace embedding,0.8709,0.5081
+subspace embedding,uniform row sampling,0.1539,1.3008
+FJLT,subspace embedding,0.1374,1.3135
+Gaussian projection,uniform row sampling,0.5068,0.9932
+FJLT,Gaussian projection,0.4834,1.0164
+FJLT,uniform row sampling,0.9966,0.0825

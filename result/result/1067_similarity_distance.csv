@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+Deep generative models,Frechet Inception Distance,0.2747,1.2044
+Deep generative models,class-conditional generative models,0.0528,1.3764
+Deep generative models,variational autoencoders,0.3414,1.1477
+Deep generative models,autoregressive models,0.0993,1.3422
+Deep generative models,generative adversarial networks,-0.0868,1.4743
+Frechet Inception Distance,class-conditional generative models,0.6827,0.7966
+Frechet Inception Distance,variational autoencoders,0.4557,1.0434
+Frechet Inception Distance,autoregressive models,-0.0013,1.4151
+Frechet Inception Distance,generative adversarial networks,-0.2631,1.5894
+class-conditional generative models,variational autoencoders,0.6946,0.7816
+autoregressive models,class-conditional generative models,-0.3625,1.6507
+class-conditional generative models,generative adversarial networks,-0.3953,1.6705
+autoregressive models,variational autoencoders,-0.4112,1.68
+generative adversarial networks,variational autoencoders,-0.1349,1.5066
+autoregressive models,generative adversarial networks,0.4663,1.0332
+Vector-Quantized Variational Autoencoder-2,autoregressive models,-0.3344,1.6336
+Hierarchical Autoregressive Models,autoregressive models,-0.2113,1.5565
+Hierarchical Autoregressive Models,Vector-Quantized Variational Autoencoder-2,-0.1366,1.5077
+Inception Score,autoregressive models,0.061,1.3704
+Inception Score,Vector-Quantized Variational Autoencoder-2,-0.3848,1.6642
+Hierarchical Autoregressive Models,Inception Score,0.1786,1.2817

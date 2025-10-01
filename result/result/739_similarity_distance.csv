@@ -1,0 +1,18 @@
+node1,node2,similarity,distance
+data privacy,differentially private data,0.6029,0.8912
+differentially private data,training efficiency,0.0644,1.3679
+data privacy,training efficiency,0.4827,1.0172
+dataset condensation,training efficiency,-0.3466,1.6411
+data privacy,dataset condensation,-0.1903,1.5429
+dataset condensation,private data generation,-0.3688,1.6546
+private data generation,training efficiency,0.2728,1.206
+data privacy,private data generation,0.8337,0.5767
+dataset condensation,differential privacy,-0.2055,1.5527
+differential privacy,training efficiency,0.0938,1.3463
+differential privacy,private data generation,0.9312,0.3709
+dataset condensation,membership inference attacks,-0.2772,1.5983
+membership inference attacks,training efficiency,0.1039,1.3387
+membership inference attacks,private data generation,0.9497,0.3171
+differential privacy,membership inference attacks,0.9892,0.1468
+differential privacy,privacy-preserving machine learning,0.9018,0.4431
+membership inference attacks,privacy-preserving machine learning,0.9342,0.3628

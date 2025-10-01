@@ -1,0 +1,20 @@
+node1,node2,similarity,distance
+group structure,group-sparsity penalty,-0.1367,1.5078
+bilevel optimization,group structure,-0.1375,1.5083
+group structure,training and validation sets,-0.1862,1.5403
+bilevel optimization,training and validation sets,0.4307,1.067
+group structure,smooth dual forward-backward algorithm,0.0826,1.3545
+Bregman distances,group structure,-0.0211,1.429
+bilevel optimization,smooth dual forward-backward algorithm,0.8101,0.6163
+Bregman distances,bilevel optimization,0.8864,0.4766
+smooth dual forward-backward algorithm,training and validation sets,0.1941,1.2696
+Bregman distances,training and validation sets,0.1849,1.2768
+Bregman distances,smooth dual forward-backward algorithm,0.9764,0.2172
+convergence,group structure,-0.2711,1.5944
+bilevel optimization,convergence,-0.0522,1.4506
+convergence,training and validation sets,0.0215,1.399
+convergence,smooth dual forward-backward algorithm,-0.1374,1.5082
+Bregman distances,convergence,-0.0605,1.4564
+genes expression data,smooth dual forward-backward algorithm,0.4503,1.0485
+Bregman distances,genes expression data,0.3815,1.1122
+convergence,genes expression data,-0.1123,1.4915

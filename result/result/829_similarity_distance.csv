@@ -1,0 +1,22 @@
+node1,node2,similarity,distance
+plan graph,planning as satisfiability,-0.0742,1.4658
+STRIPS planning,planning as satisfiability,-0.3373,1.6354
+SAT,planning as satisfiability,-0.0426,1.444
+planning as satisfiability,randomized systematic solvers,0.4583,1.0409
+STRIPS planning,plan graph,-0.0024,1.4159
+SAT,plan graph,-0.3271,1.6292
+plan graph,randomized systematic solvers,0.2174,1.2511
+SAT,STRIPS planning,-0.3531,1.6451
+STRIPS planning,randomized systematic solvers,-0.5025,1.7335
+SAT,randomized systematic solvers,0.3296,1.1579
+SATPLAN,planning as satisfiability,-0.4303,1.6914
+Graphplan,planning as satisfiability,-0.3355,1.6343
+SATPLAN,plan graph,-0.2224,1.5636
+Graphplan,plan graph,0.0037,1.4116
+SATPLAN,STRIPS planning,0.9376,0.3534
+Graphplan,STRIPS planning,0.9999,0.0153
+SAT,SATPLAN,-0.3947,1.6702
+Graphplan,SAT,-0.3494,1.6428
+SATPLAN,randomized systematic solvers,-0.6584,1.8212
+Graphplan,randomized systematic solvers,-0.5049,1.7349
+Graphplan,SATPLAN,0.9353,0.3598

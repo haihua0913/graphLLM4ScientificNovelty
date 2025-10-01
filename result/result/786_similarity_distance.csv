@@ -1,0 +1,25 @@
+node1,node2,similarity,distance
+language models,watermarking,0.2038,1.2619
+model output,watermarking,-0.0237,1.4309
+generated text,watermarking,0.1176,1.3285
+algorithmically detectable,watermarking,0.0107,1.4066
+language models,model output,-0.0958,1.4804
+generated text,language models,-0.0138,1.4239
+algorithmically detectable,language models,-0.1709,1.5303
+generated text,model output,-0.0151,1.4248
+algorithmically detectable,model output,-0.006,1.4185
+algorithmically detectable,generated text,-0.1264,1.501
+green tokens,watermarking,-0.0361,1.4395
+sampling,watermarking,-0.1226,1.4984
+green tokens,language models,-0.1055,1.4869
+language models,sampling,-0.1936,1.5451
+green tokens,sampling,-0.3094,1.6183
+green tokens,statistical test,-0.0232,1.4305
+green tokens,p-values,0.1785,1.2818
+sampling,statistical test,0.6305,0.8597
+p-values,sampling,-0.0805,1.47
+p-values,statistical test,0.6173,0.8749
+green tokens,robustness,0.0949,1.3454
+robustness,sampling,-0.2179,1.5607
+robustness,statistical test,-0.2688,1.593
+p-values,robustness,0.056,1.3741

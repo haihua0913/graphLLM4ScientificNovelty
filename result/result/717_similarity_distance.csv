@@ -1,0 +1,37 @@
+node1,node2,similarity,distance
+deep neural networks,expressive power,0.1071,1.3364
+deep neural networks,memorize training data,-0.0443,1.4452
+deep neural networks,noisy labels,-0.0873,1.4747
+deep neural networks,robust training method,-0.014,1.4241
+SELFIE,deep neural networks,-0.0165,1.4258
+deep neural networks,training data,-0.1409,1.5106
+expressive power,memorize training data,0.8911,0.4666
+expressive power,noisy labels,-0.4518,1.704
+expressive power,robust training method,0.3671,1.1251
+SELFIE,expressive power,0.3323,1.1556
+expressive power,training data,0.9485,0.321
+memorize training data,noisy labels,-0.1316,1.5044
+memorize training data,robust training method,0.3791,1.1144
+SELFIE,memorize training data,0.289,1.1924
+memorize training data,training data,0.9401,0.3462
+noisy labels,robust training method,0.048,1.3799
+SELFIE,noisy labels,-0.2505,1.5815
+noisy labels,training data,-0.2996,1.6122
+SELFIE,robust training method,0.9124,0.4186
+robust training method,training data,0.451,1.0479
+SELFIE,training data,0.3961,1.099
+deep neural networks,unclean samples,-0.0294,1.4349
+expressive power,unclean samples,0.0253,1.3962
+memorize training data,unclean samples,-0.2305,1.5688
+noisy labels,unclean samples,-0.1007,1.4837
+robust training method,unclean samples,0.2139,1.2539
+SELFIE,unclean samples,0.0397,1.3859
+training data,unclean samples,-0.0803,1.4699
+noise accumulation,noisy labels,-0.3132,1.6206
+noise accumulation,robust training method,0.1815,1.2794
+SELFIE,noise accumulation,0.4345,1.0635
+noise accumulation,unclean samples,-0.1613,1.524
+noise accumulation,training data,-0.1919,1.5439
+SELFIE,test error,-0.1801,1.5363
+noise accumulation,test error,-0.2163,1.5597
+test error,training data,-0.0761,1.4671
